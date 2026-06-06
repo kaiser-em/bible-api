@@ -1,0 +1,556 @@
+{
+    "versions" :[
+        {
+        "id": "kjv_mg",
+        "name": "King James Version Malagasy",
+        "language": "mg",
+        "books": [
+    {
+      "id": 1,
+      "abbreviation": "Gen",
+      "book": "Genesisy",
+      "chapters_count": 50
+    },
+    {
+      "id": 2,
+      "abbreviation": "Eks",
+      "book": "Eksodosy",
+      "chapters_count": 40
+    },
+    {
+      "id": 3,
+      "abbreviation": "Lev",
+      "book": "Levitikosy",
+      "chapters_count": 27
+    },
+    {
+      "id": 4,
+      "abbreviation": "Num",
+      "book": "Nomery",
+      "chapters_count": 36
+    },
+    {
+      "id": 5,
+      "abbreviation": "Deut",
+      "book": "Deoteronomia",
+      "chapters_count": 34
+    },
+    {
+      "id": 6,
+      "abbreviation": "Josh",
+      "book": "Josoa",
+      "chapters_count": 24
+    },
+    {
+      "id": 7,
+      "abbreviation": "Judg",
+      "book": "Mpitsara",
+      "chapters_count": 21
+    },
+    {
+      "id": 8,
+      "abbreviation": "Ruth",
+      "book": "Rota",
+      "chapters_count": 4
+    },
+    {
+      "id": 9,
+      "abbreviation": "1Sam",
+      "book": "1 Samoela",
+      "chapters_count": 31
+    },
+    {
+      "id": 10,
+      "abbreviation": "2Sam",
+      "book": "2 Samoela",
+      "chapters_count": 24
+    },
+    {
+      "id": 11,
+      "abbreviation": "1Kgs",
+      "book": "1 Mpanjaka",
+      "chapters_count": 22
+    },
+    {
+      "id": 12,
+      "abbreviation": "2Kgs",
+      "book": "2 Mpanjaka",
+      "chapters_count": 25
+    },
+    {
+      "id": 13,
+      "abbreviation": "1Chr",
+      "book": "1 Tantara",
+      "chapters_count": 29
+    },
+    {
+      "id": 14,
+      "abbreviation": "2Chr",
+      "book": "2 Tantara",
+      "chapters_count": 36
+    },
+    {
+      "id": 15,
+      "abbreviation": "Ezra",
+      "book": "Ezra",
+      "chapters_count": 10
+    },
+    {
+      "id": 16,
+      "abbreviation": "Neh",
+      "book": "Nehemia",
+      "chapters_count": 13
+    },
+    {
+      "id": 17,
+      "abbreviation": "Esth",
+      "book": "Estera",
+      "chapters_count": 10
+    },
+    {
+      "id": 18,
+      "abbreviation": "Job",
+      "book": "Joba",
+      "chapters_count": 42
+    },
+    {
+      "id": 19,
+      "abbreviation": "Ps",
+      "book": "Salamo",
+      "chapters_count": 150
+    },
+    {
+      "id": 20,
+      "abbreviation": "Prov",
+      "book": "Ohabolana",
+      "chapters_count": 31
+    },
+    {
+      "id": 21,
+      "abbreviation": "Eccl",
+      "book": "Mpitoriteny",
+      "chapters_count": 12
+    },
+    {
+      "id": 22,
+      "abbreviation": "Song",
+      "book": "Hira",
+      "chapters_count": 8
+    },
+    {
+      "id": 23,
+      "abbreviation": "Isa",
+      "book": "Isaia",
+      "chapters_count": 66
+    },
+    {
+      "id": 24,
+      "abbreviation": "Jer",
+      "book": "Jeremia",
+      "chapters_count": 52
+    },
+    {
+      "id": 25,
+      "abbreviation": "Lam",
+      "book": "Fitomaniana",
+      "chapters_count": 5
+    },
+    {
+      "id": 26,
+      "abbreviation": "Ezek",
+      "book": "Ezekiela",
+      "chapters_count": 48
+    },
+    {
+      "id": 27,
+      "abbreviation": "Dan",
+      "book": "Daniela",
+      "chapters_count": 12
+    },
+    {
+      "id": 28,
+      "abbreviation": "Hos",
+      "book": "Hosea",
+      "chapters_count": 14
+    },
+    {
+      "id": 29,
+      "abbreviation": "Joel",
+      "book": "Joela",
+      "chapters_count": 3
+    },
+    {
+      "id": 30,
+      "abbreviation": "Amos",
+      "book": "Amosa",
+      "chapters_count": 9
+    },
+    {
+      "id": 31,
+      "abbreviation": "Obad",
+      "book": "Obadia",
+      "chapters_count": 1
+    },
+    {
+      "id": 32,
+      "abbreviation": "Jonah",
+      "book": "Jonah",
+      "chapters_count": 4
+    },
+    {
+      "id": 33,
+      "abbreviation": "Mic",
+      "book": "Mika",
+      "chapters_count": 7
+    },
+    {
+      "id": 34,
+      "abbreviation": "Nah",
+      "book": "Nahuma",
+      "chapters_count": 3
+    },
+    {
+      "id": 35,
+      "abbreviation": "Hab",
+      "book": "Habakoka",
+      "chapters_count": 3
+    },
+    {
+      "id": 36,
+      "abbreviation": "Zeph",
+      "book": "Sefania",
+      "chapters_count": 3
+    },
+    {
+      "id": 37,
+      "abbreviation": "Hag",
+      "book": "Hagia",
+      "chapters_count": 2
+    },
+    {
+      "id": 38,
+      "abbreviation": "Zech",
+      "book": "Zekaria",
+      "chapters_count": 14
+    },
+    {
+      "id": 39,
+      "abbreviation": "Mal",
+      "book": "Malakia",
+      "chapters_count": 4
+    },
+    {
+      "id": 40,
+      "abbreviation": "Matt",
+      "book": "Matio",
+      "chapters_count": 28
+    },
+    {
+      "id": 41,
+      "abbreviation": "Mark",
+      "book": "Mako",
+      "chapters_count": 16
+    },
+    {
+      "id": 42,
+      "abbreviation": "Luke",
+      "book": "Lioka",
+      "chapters_count": 24
+    },
+    {
+      "id": 43,
+      "abbreviation": "John",
+      "book": "Jaona",
+      "chapters_count": 21
+    },
+    {
+      "id": 44,
+      "abbreviation": "Acts",
+      "book": "Asa",
+      "chapters_count": 28
+    },
+    {
+      "id": 45,
+      "abbreviation": "Rom",
+      "book": "Romanina",
+      "chapters_count": 16
+    },
+    {
+      "id": 46,
+      "abbreviation": "1Cor",
+      "book": "1 Korintiana",
+      "chapters_count": 16
+    },
+    {
+      "id": 47,
+      "abbreviation": "2Cor",
+      "book": "2 Korintiana",
+      "chapters_count": 13
+    },
+    {
+      "id": 48,
+      "abbreviation": "Gal",
+      "book": "Galatiana",
+      "chapters_count": 6
+    },
+    {
+      "id": 49,
+      "abbreviation": "Eph",
+      "book": "Efeziana",
+      "chapters_count": 6
+    },
+    {
+      "id": 50,
+      "abbreviation": "Phil",
+      "book": "Filipiana",
+      "chapters_count": 4
+    },
+    {
+      "id": 51,
+      "abbreviation": "Col",
+      "book": "Kolosiana",
+      "chapters_count": 4
+    },
+    {
+      "id": 52,
+      "abbreviation": "1Thess",
+      "book": "1 Tesaloniana",
+      "chapters_count": 5
+    },
+    {
+      "id": 53,
+      "abbreviation": "2Thess",
+      "book": "2 Tesaloniana",
+      "chapters_count": 3
+    },
+    {
+      "id": 54,
+      "abbreviation": "1Tim",
+      "book": "1 Timoty",
+      "chapters_count": 6
+    },
+    {
+      "id": 55,
+      "abbreviation": "2Tim",
+      "book": "2 Timoty",
+      "chapters_count": 4
+    },
+    {
+      "id": 56,
+      "abbreviation": "Titus",
+      "book": "Tito",
+      "chapters_count": 3
+    },
+    {
+      "id": 57,
+      "abbreviation": "Phlm",
+      "book": "Filemona",
+      "chapters_count": 1
+    },
+    {
+      "id": 58,
+      "abbreviation": "Heb",
+      "book": "Hebreo",
+      "chapters_count": 13
+    },
+    {
+      "id": 59,
+      "abbreviation": "Jas",
+      "book": "Jakoba",
+      "chapters_count": 5
+    },
+    {
+      "id": 60,
+      "abbreviation": "1Pet",
+      "book": "1 Petera",
+      "chapters_count": 5
+    },
+    {
+      "id": 61,
+      "abbreviation": "2Pet",
+      "book": "2 Petera",
+      "chapters_count": 3
+    },
+    {
+      "id": 62,
+      "abbreviation": "1John",
+      "book": "1 Jaona",
+      "chapters_count": 5
+    },
+    {
+      "id": 63,
+      "abbreviation": "2John",
+      "book": "2 Jaona",
+      "chapters_count": 1
+    },
+    {
+      "id": 64,
+      "abbreviation": "3John",
+      "book": "3 Jaona",
+      "chapters_count": 1
+    },
+    {
+      "id": 65,
+      "abbreviation": "Jude",
+      "book": "Joda",
+      "chapters_count": 1
+    },
+    {
+      "id": 66,
+      "abbreviation": "Rev",
+      "book": "Apokalypsy",
+      "chapters_count": 22
+    }
+  ]
+        },
+
+        {
+  "id": "nkjv",
+  "name": "New King James Version",
+  "language": "en",
+  "books": [
+    { "id": 1, "abbreviation": "Gen", "book": "Genesis", "chapters_count": 50 },
+    { "id": 2, "abbreviation": "Exod", "book": "Exodus", "chapters_count": 40 },
+    { "id": 3, "abbreviation": "Lev", "book": "Leviticus", "chapters_count": 27 },
+    { "id": 4, "abbreviation": "Num", "book": "Numbers", "chapters_count": 36 },
+    { "id": 5, "abbreviation": "Deut", "book": "Deuteronomy", "chapters_count": 34 },
+    { "id": 6, "abbreviation": "Josh", "book": "Joshua", "chapters_count": 24 },
+    { "id": 7, "abbreviation": "Judg", "book": "Judges", "chapters_count": 21 },
+    { "id": 8, "abbreviation": "Ruth", "book": "Ruth", "chapters_count": 4 },
+    { "id": 9, "abbreviation": "1Sam", "book": "1 Samuel", "chapters_count": 31 },
+    { "id": 10, "abbreviation": "2Sam", "book": "2 Samuel", "chapters_count": 24 },
+    { "id": 11, "abbreviation": "1Kgs", "book": "1 Kings", "chapters_count": 22 },
+    { "id": 12, "abbreviation": "2Kgs", "book": "2 Kings", "chapters_count": 25 },
+    { "id": 13, "abbreviation": "1Chr", "book": "1 Chronicles", "chapters_count": 29 },
+    { "id": 14, "abbreviation": "2Chr", "book": "2 Chronicles", "chapters_count": 36 },
+    { "id": 15, "abbreviation": "Ezra", "book": "Ezra", "chapters_count": 10 },
+    { "id": 16, "abbreviation": "Neh", "book": "Nehemiah", "chapters_count": 13 },
+    { "id": 17, "abbreviation": "Esth", "book": "Esther", "chapters_count": 10 },
+    { "id": 18, "abbreviation": "Job", "book": "Job", "chapters_count": 42 },
+    { "id": 19, "abbreviation": "Ps", "book": "Psalms", "chapters_count": 150 },
+    { "id": 20, "abbreviation": "Prov", "book": "Proverbs", "chapters_count": 31 },
+    { "id": 21, "abbreviation": "Eccl", "book": "Ecclesiastes", "chapters_count": 12 },
+    { "id": 22, "abbreviation": "Song", "book": "Song of Solomon", "chapters_count": 8 },
+    { "id": 23, "abbreviation": "Isa", "book": "Isaiah", "chapters_count": 66 },
+    { "id": 24, "abbreviation": "Jer", "book": "Jeremiah", "chapters_count": 52 },
+    { "id": 25, "abbreviation": "Lam", "book": "Lamentations", "chapters_count": 5 },
+    { "id": 26, "abbreviation": "Ezek", "book": "Ezekiel", "chapters_count": 48 },
+    { "id": 27, "abbreviation": "Dan", "book": "Daniel", "chapters_count": 12 },
+    { "id": 28, "abbreviation": "Hos", "book": "Hosea", "chapters_count": 14 },
+    { "id": 29, "abbreviation": "Joel", "book": "Joel", "chapters_count": 3 },
+    { "id": 30, "abbreviation": "Amos", "book": "Amos", "chapters_count": 9 },
+    { "id": 31, "abbreviation": "Obad", "book": "Obadiah", "chapters_count": 1 },
+    { "id": 32, "abbreviation": "Jonah", "book": "Jonah", "chapters_count": 4 },
+    { "id": 33, "abbreviation": "Mic", "book": "Micah", "chapters_count": 7 },
+    { "id": 34, "abbreviation": "Nah", "book": "Nahum", "chapters_count": 3 },
+    { "id": 35, "abbreviation": "Hab", "book": "Habakkuk", "chapters_count": 3 },
+    { "id": 36, "abbreviation": "Zeph", "book": "Zephaniah", "chapters_count": 3 },
+    { "id": 37, "abbreviation": "Hag", "book": "Haggai", "chapters_count": 2 },
+    { "id": 38, "abbreviation": "Zech", "book": "Zechariah", "chapters_count": 14 },
+    { "id": 39, "abbreviation": "Mal", "book": "Malachi", "chapters_count": 4 },
+    { "id": 40, "abbreviation": "Matt", "book": "Matthew", "chapters_count": 28 },
+    { "id": 41, "abbreviation": "Mark", "book": "Mark", "chapters_count": 16 },
+    { "id": 42, "abbreviation": "Luke", "book": "Luke", "chapters_count": 24 },
+    { "id": 43, "abbreviation": "John", "book": "John", "chapters_count": 21 },
+    { "id": 44, "abbreviation": "Acts", "book": "Acts", "chapters_count": 28 },
+    { "id": 45, "abbreviation": "Rom", "book": "Romans", "chapters_count": 16 },
+    { "id": 46, "abbreviation": "1Cor", "book": "1 Corinthians", "chapters_count": 16 },
+    { "id": 47, "abbreviation": "2Cor", "book": "2 Corinthians", "chapters_count": 13 },
+    { "id": 48, "abbreviation": "Gal", "book": "Galatians", "chapters_count": 6 },
+    { "id": 49, "abbreviation": "Eph", "book": "Ephesians", "chapters_count": 6 },
+    { "id": 50, "abbreviation": "Phil", "book": "Philippians", "chapters_count": 4 },
+    { "id": 51, "abbreviation": "Col", "book": "Colossians", "chapters_count": 4 },
+    { "id": 52, "abbreviation": "1Thess", "book": "1 Thessalonians", "chapters_count": 5 },
+    { "id": 53, "abbreviation": "2Thess", "book": "2 Thessalonians", "chapters_count": 3 },
+    { "id": 54, "abbreviation": "1Tim", "book": "1 Timothy", "chapters_count": 6 },
+    { "id": 55, "abbreviation": "2Tim", "book": "2 Timothy", "chapters_count": 4 },
+    { "id": 56, "abbreviation": "Titus", "book": "Titus", "chapters_count": 3 },
+    { "id": 57, "abbreviation": "Phlm", "book": "Philemon", "chapters_count": 1 },
+    { "id": 58, "abbreviation": "Heb", "book": "Hebrews", "chapters_count": 13 },
+    { "id": 59, "abbreviation": "Jas", "book": "James", "chapters_count": 5 },
+    { "id": 60, "abbreviation": "1Pet", "book": "1 Peter", "chapters_count": 5 },
+    { "id": 61, "abbreviation": "2Pet", "book": "2 Peter", "chapters_count": 3 },
+    { "id": 62, "abbreviation": "1John", "book": "1 John", "chapters_count": 5 },
+    { "id": 63, "abbreviation": "2John", "book": "2 John", "chapters_count": 1 },
+    { "id": 64, "abbreviation": "3John", "book": "3 John", "chapters_count": 1 },
+    { "id": 65, "abbreviation": "Jude", "book": "Jude", "chapters_count": 1 },
+    { "id": 66, "abbreviation": "Rev", "book": "Revelation", "chapters_count": 22 }
+  ]
+        },
+
+        {
+  "id": "nasb",
+  "name": "New American Standard Bible",
+  "language": "en",
+  "books": [
+    { "id": 1, "abbreviation": "Gen", "book": "Genesis", "chapters_count": 50 },
+    { "id": 2, "abbreviation": "Exod", "book": "Exodus", "chapters_count": 40 },
+    { "id": 3, "abbreviation": "Lev", "book": "Leviticus", "chapters_count": 27 },
+    { "id": 4, "abbreviation": "Num", "book": "Numbers", "chapters_count": 36 },
+    { "id": 5, "abbreviation": "Deut", "book": "Deuteronomy", "chapters_count": 34 },
+    { "id": 6, "abbreviation": "Josh", "book": "Joshua", "chapters_count": 24 },
+    { "id": 7, "abbreviation": "Judg", "book": "Judges", "chapters_count": 21 },
+    { "id": 8, "abbreviation": "Ruth", "book": "Ruth", "chapters_count": 4 },
+    { "id": 9, "abbreviation": "1Sam", "book": "1 Samuel", "chapters_count": 31 },
+    { "id": 10, "abbreviation": "2Sam", "book": "2 Samuel", "chapters_count": 24 },
+    { "id": 11, "abbreviation": "1Kgs", "book": "1 Kings", "chapters_count": 22 },
+    { "id": 12, "abbreviation": "2Kgs", "book": "2 Kings", "chapters_count": 25 },
+    { "id": 13, "abbreviation": "1Chr", "book": "1 Chronicles", "chapters_count": 29 },
+    { "id": 14, "abbreviation": "2Chr", "book": "2 Chronicles", "chapters_count": 36 },
+    { "id": 15, "abbreviation": "Ezra", "book": "Ezra", "chapters_count": 10 },
+    { "id": 16, "abbreviation": "Neh", "book": "Nehemiah", "chapters_count": 13 },
+    { "id": 17, "abbreviation": "Esth", "book": "Esther", "chapters_count": 10 },
+    { "id": 18, "abbreviation": "Job", "book": "Job", "chapters_count": 42 },
+    { "id": 19, "abbreviation": "Ps", "book": "Psalms", "chapters_count": 150 },
+    { "id": 20, "abbreviation": "Prov", "book": "Proverbs", "chapters_count": 31 },
+    { "id": 21, "abbreviation": "Eccl", "book": "Ecclesiastes", "chapters_count": 12 },
+    { "id": 22, "abbreviation": "Song", "book": "Song of Solomon", "chapters_count": 8 },
+    { "id": 23, "abbreviation": "Isa", "book": "Isaiah", "chapters_count": 66 },
+    { "id": 24, "abbreviation": "Jer", "book": "Jeremiah", "chapters_count": 52 },
+    { "id": 25, "abbreviation": "Lam", "book": "Lamentations", "chapters_count": 5 },
+    { "id": 26, "abbreviation": "Ezek", "book": "Ezekiel", "chapters_count": 48 },
+    { "id": 27, "abbreviation": "Dan", "book": "Daniel", "chapters_count": 12 },
+    { "id": 28, "abbreviation": "Hos", "book": "Hosea", "chapters_count": 14 },
+    { "id": 29, "abbreviation": "Joel", "book": "Joel", "chapters_count": 3 },
+    { "id": 30, "abbreviation": "Amos", "book": "Amos", "chapters_count": 9 },
+    { "id": 31, "abbreviation": "Obad", "book": "Obadiah", "chapters_count": 1 },
+    { "id": 32, "abbreviation": "Jonah", "book": "Jonah", "chapters_count": 4 },
+    { "id": 33, "abbreviation": "Mic", "book": "Micah", "chapters_count": 7 },
+    { "id": 34, "abbreviation": "Nah", "book": "Nahum", "chapters_count": 3 },
+    { "id": 35, "abbreviation": "Hab", "book": "Habakkuk", "chapters_count": 3 },
+    { "id": 36, "abbreviation": "Zeph", "book": "Zephaniah", "chapters_count": 3 },
+    { "id": 37, "abbreviation": "Hag", "book": "Haggai", "chapters_count": 2 },
+    { "id": 38, "abbreviation": "Zech", "book": "Zechariah", "chapters_count": 14 },
+    { "id": 39, "abbreviation": "Mal", "book": "Malachi", "chapters_count": 4 },
+    { "id": 40, "abbreviation": "Matt", "book": "Matthew", "chapters_count": 28 },
+    { "id": 41, "abbreviation": "Mark", "book": "Mark", "chapters_count": 16 },
+    { "id": 42, "abbreviation": "Luke", "book": "Luke", "chapters_count": 24 },
+    { "id": 43, "abbreviation": "John", "book": "John", "chapters_count": 21 },
+    { "id": 44, "abbreviation": "Acts", "book": "Acts", "chapters_count": 28 },
+    { "id": 45, "abbreviation": "Rom", "book": "Romans", "chapters_count": 16 },
+    { "id": 46, "abbreviation": "1Cor", "book": "1 Corinthians", "chapters_count": 16 },
+    { "id": 47, "abbreviation": "2Cor", "book": "2 Corinthians", "chapters_count": 13 },
+    { "id": 48, "abbreviation": "Gal", "book": "Galatians", "chapters_count": 6 },
+    { "id": 49, "abbreviation": "Eph", "book": "Ephesians", "chapters_count": 6 },
+    { "id": 50, "abbreviation": "Phil", "book": "Philippians", "chapters_count": 4 },
+    { "id": 51, "abbreviation": "Col", "book": "Colossians", "chapters_count": 4 },
+    { "id": 52, "abbreviation": "1Thess", "book": "1 Thessalonians", "chapters_count": 5 },
+    { "id": 53, "abbreviation": "2Thess", "book": "2 Thessalonians", "chapters_count": 3 },
+    { "id": 54, "abbreviation": "1Tim", "book": "1 Timothy", "chapters_count": 6 },
+    { "id": 55, "abbreviation": "2Tim", "book": "2 Timothy", "chapters_count": 4 },
+    { "id": 56, "abbreviation": "Titus", "book": "Titus", "chapters_count": 3 },
+    { "id": 57, "abbreviation": "Phlm", "book": "Philemon", "chapters_count": 1 },
+    { "id": 58, "abbreviation": "Heb", "book": "Hebrews", "chapters_count": 13 },
+    { "id": 59, "abbreviation": "Jas", "book": "James", "chapters_count": 5 },
+    { "id": 60, "abbreviation": "1Pet", "book": "1 Peter", "chapters_count": 5 },
+    { "id": 61, "abbreviation": "2Pet", "book": "2 Peter", "chapters_count": 3 },
+    { "id": 62, "abbreviation": "1John", "book": "1 John", "chapters_count": 5 },
+    { "id": 63, "abbreviation": "2John", "book": "2 John", "chapters_count": 1 },
+    { "id": 64, "abbreviation": "3John", "book": "3 John", "chapters_count": 1 },
+    { "id": 65, "abbreviation": "Jude", "book": "Jude", "chapters_count": 1 },
+    { "id": 66, "abbreviation": "Rev", "book": "Revelation", "chapters_count": 22 }
+  ]
+        }
+
+    ]
+}
