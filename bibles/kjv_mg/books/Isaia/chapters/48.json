@@ -1,93 +1,28 @@
 {
+  "book": "Isaia",
   "chapter": 48,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Henoy izao, ry taranak' i Jakoba, dia ianareo izay antsoina amin' ny anaran' Isiraely sy avy amin' ny loharanon' i Joda, ianareo izay mianiana amin' ny anaran' i Jehovah sy manonona ny anaran' Andriamanitry ny Isiraely, kanefa tsy araka ny marina na araka ny hitsiny;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Fa milaza ny tenany ho avy amin' ny tanàna masina izy ka miankina amin' Andriamanitry ny Isiraely; Jehovah, Tompon' ny maro, no anarany.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ny zavatra taloha dia efa voalazako hatramin' ny fahiny, ary naloaky ny vavako izany sady nambarako; tampoka no nanaovako izany, ary tonga izany.\""
-    },
-    {
-      "v": 4,
-      "text": "Satria fantatro fa maditra ianao ka oza-by ny hatokao, ary varahina ny handrinao,"
-    },
-    {
-      "v": 5,
-      "text": "\"Dia efa nambarako taminao hatramin' ny fahiny izany; mialoha ny hahatongavan' izany dia efa nasehoko taminao rahateo, fandrao hataonao hoe: ny sampiko no nanao izany, ary ny sarin-javatro voasokitra sy ny sarin-javatro an' idina no nandidy izany.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Efa renao, ka dia jereo izany rehetra izany; moa ianareo tsy hanambara izany va? Mampandre anao zava-baovao kosa Aho hatramin' izao, dia zavatra miafina izay tsy fantatrao.\""
-    },
-    {
-      "v": 7,
-      "text": "Vao izao no namoronana azy, fa tsy hatramin' ny fahiny, ary tsy mbola nandre azy ianao talohan' ny andro anio, fandrao ianao hanao hoe: Indro, efa fantatro izany."
-    },
-    {
-      "v": 8,
-      "text": "\"Eny, tsy nandre, na nahalala ianao; eny, hatramin' ny fahiny no tsy mbola nisokatra ny sofinao: fa fantatro fa tena mpivadika ianao sady natao hoe: mpiodina hatrany an-kibo.\""
-    },
-    {
-      "v": 9,
-      "text": "Noho ny anarako dia hononiko ny fahatezerako, ary mba hiderana Ahy dia hanindry fo ny aminao Aho, mba tsy hamongorana anao."
-    },
-    {
-      "v": 10,
-      "text": "\"Indro, nodioviko ianao, nefa tsy toy ny volafotsy; efa nifidy anao tao amin' ny memy fahoriana Aho.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Noho ny tenako, eny, noho ny tenako ihany no hanaovako izany; indrisy, lotoina ny anarako! Ary ny voninahitro tsy homeko ny hafa.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Mihainoa Ahy, ry Jakoba, sy ry Isiraely izay nantsoiko; Izaho no Izy; Izaho no voalohany, ary Izaho koa no farany.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ny tanako koa no nametraka ny fanorenan' ny tany, ary ny tanako ankavanana no namelatra ny lanitra; raha antsoiko ireo, dia indray miseho avokoa.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Mivoria ianareo rehetra, ka mihainoa; iza moa amin' ireny no mba efa nanambara izany? Efa tia azy Jehovah: Hanao izay sitrapony amin' i Babylona izy,ary ny sandriny ho amin' ny Kaldeana.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Izaho dia Izaho ihany no niteny; eny, Izaho no efa niantso azy; nitondra azy Aho, ka hambinina ny lalany.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Manatòna Ahy ianareo, ka henoy izao: Hatramin' ny fiandohana no tsy mba nitenenako tao amin' ny mangingina; hatry ny fony vao nisian' ireo dia teo Aho; ary ankehitriny Jehovah Tompo no naniraka Ahy sy ny Fanahiny.\""
-    },
-    {
-      "v": 17,
-      "text": "Izao no lazain' i Jehovah, Mpanavotra anao, dia ny Iray Masin' ny Isiraely: Izaho, Jehovah Andriamanitrao, no mampianatra anao hahita soa sady mitarika anao amin' ny lalana tokony halehanao."
-    },
-    {
-      "v": 18,
-      "text": "Toy izay anie ianao mba nihaino ny didiko! dia ho tonga tahaka ny ony ny fiadananao, ary ho tahaka ny onjan-dranomasina ny fahamarinanao."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary koa ho tahaka ny fasika ny taranakao, ary ny aloaky ny kibonao ho tahaka ny sombin-pasika; ny anarany tsy ho tapaka, na ho foana eo anatrehako.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Mivoaha hiala any Babylona; miezaha avy any amin' ny Kaldeana; torio amin' ny feon' ny mihira sy ambarao, ka aelezo hatrany amin' ny faran' ny tany; lazao hoe: Jehovah efa nanavotra an' i Jakoba mpanompony.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Ary tsy nangetaheta ireo tamin' ny nitondrany azy tany an' efitra; nampiboiboika rano ho azy tamin' ny vatolampy Izy, eny, nampitresaka ny vatolampy Izy, ka dia nigororoana ny rano.\""
-    },
-    {
-      "v": 22,
-      "text": "Tsy misy fiadanana ho an' ny ratsy fanahy, hoy Jehovah."
-    }
-  ]
+  "verses": {
+    "1": "Henoy izao, ry taranak' i Jakoba, dia ianareo izay antsoina amin' ny anaran' Isiraely sy avy amin' ny loharanon' i Joda, ianareo izay mianiana amin' ny anaran' i Jehovah sy manonona ny anaran' Andriamanitry ny Isiraely, kanefa tsy araka ny marina na araka ny hitsiny;",
+    "2": "Fa milaza ny tenany ho avy amin' ny tanàna masina izy ka miankina amin' Andriamanitry ny Isiraely; Jehovah, Tompon' ny maro, no anarany.",
+    "3": "Ny zavatra taloha dia efa voalazako hatramin' ny fahiny, ary naloaky ny vavako izany sady nambarako; tampoka no nanaovako izany, ary tonga izany.",
+    "4": "Satria fantatro fa maditra ianao ka oza-by ny hatokao, ary varahina ny handrinao,",
+    "5": "Dia efa nambarako taminao hatramin' ny fahiny izany; mialoha ny hahatongavan' izany dia efa nasehoko taminao rahateo, fandrao hataonao hoe: ny sampiko no nanao izany, ary ny sarin-javatro voasokitra sy ny sarin-javatro an' idina no nandidy izany.",
+    "6": "Efa renao, ka dia jereo izany rehetra izany; moa ianareo tsy hanambara izany va? Mampandre anao zava-baovao kosa Aho hatramin' izao, dia zavatra miafina izay tsy fantatrao.",
+    "7": "Vao izao no namoronana azy, fa tsy hatramin' ny fahiny, ary tsy mbola nandre azy ianao talohan' ny andro anio, fandrao ianao hanao hoe: Indro, efa fantatro izany.",
+    "8": "Eny, tsy nandre, na nahalala ianao; eny, hatramin' ny fahiny no tsy mbola nisokatra ny sofinao: fa fantatro fa tena mpivadika ianao sady natao hoe: mpiodina hatrany an-kibo.",
+    "9": "Noho ny anarako dia hononiko ny fahatezerako, ary mba hiderana Ahy dia hanindry fo ny aminao Aho, mba tsy hamongorana anao.",
+    "10": "Indro, nodioviko ianao, nefa tsy toy ny volafotsy; efa nifidy anao tao amin' ny memy fahoriana Aho.",
+    "11": "Noho ny tenako, eny, noho ny tenako ihany no hanaovako izany; indrisy, lotoina ny anarako! Ary ny voninahitro tsy homeko ny hafa.",
+    "12": "Mihainoa Ahy, ry Jakoba, sy ry Isiraely izay nantsoiko; Izaho no Izy; Izaho no voalohany, ary Izaho koa no farany.",
+    "13": "Ny tanako koa no nametraka ny fanorenan' ny tany, ary ny tanako ankavanana no namelatra ny lanitra; raha antsoiko ireo, dia indray miseho avokoa.",
+    "14": "Mivoria ianareo rehetra, ka mihainoa; iza moa amin' ireny no mba efa nanambara izany? Efa tia azy Jehovah: Hanao izay sitrapony amin' i Babylona izy,ary ny sandriny ho amin' ny Kaldeana.",
+    "15": "Izaho dia Izaho ihany no niteny; eny, Izaho no efa niantso azy; nitondra azy Aho, ka hambinina ny lalany.",
+    "16": "Manatòna Ahy ianareo, ka henoy izao: Hatramin' ny fiandohana no tsy mba nitenenako tao amin' ny mangingina; hatry ny fony vao nisian' ireo dia teo Aho; ary ankehitriny Jehovah Tompo no naniraka Ahy sy ny Fanahiny.",
+    "17": "Izao no lazain' i Jehovah, Mpanavotra anao, dia ny Iray Masin' ny Isiraely: Izaho, Jehovah Andriamanitrao, no mampianatra anao hahita soa sady mitarika anao amin' ny lalana tokony halehanao.",
+    "18": "Toy izay anie ianao mba nihaino ny didiko! dia ho tonga tahaka ny ony ny fiadananao, ary ho tahaka ny onjan-dranomasina ny fahamarinanao.",
+    "19": "Ary koa ho tahaka ny fasika ny taranakao, ary ny aloaky ny kibonao ho tahaka ny sombin-pasika; ny anarany tsy ho tapaka, na ho foana eo anatrehako.",
+    "20": "Mivoaha hiala any Babylona; miezaha avy any amin' ny Kaldeana; torio amin' ny feon' ny mihira sy ambarao, ka aelezo hatrany amin' ny faran' ny tany; lazao hoe: Jehovah efa nanavotra an' i Jakoba mpanompony.",
+    "21": "Ary tsy nangetaheta ireo tamin' ny nitondrany azy tany an' efitra; nampiboiboika rano ho azy tamin' ny vatolampy Izy, eny, nampitresaka ny vatolampy Izy, ka dia nigororoana ny rano.",
+    "22": "Tsy misy fiadanana ho an' ny ratsy fanahy, hoy Jehovah."
+  }
 }

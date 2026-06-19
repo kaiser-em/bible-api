@@ -1,101 +1,30 @@
 {
+  "book": "Joba",
   "chapter": 40,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah mbola namaly an' i Joba ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Izay mifanditra amin' ny Tsitoha va dia hampianatra Azy? Izay mananatra an' Andriamanitra no aoka hamaly izany."
-    },
-    {
-      "v": 3,
-      "text": "Ary Joba dia namaly an' i Jehovah ka nanao hoe:"
-    },
-    {
-      "v": 4,
-      "text": "Indro, tsinontsinona aho, ka inona no azoko havaly Anao? Hitampim-bava aho izao."
-    },
-    {
-      "v": 5,
-      "text": "\"Efa niteny indray mandeha aho, ka tsy hamaly intsony; eny, indroa aza, fa tsy hanampy teny intsony aho.\""
-    },
-    {
-      "v": 6,
-      "text": "Dia namaly an' i Joba teo amin' ny tafio-drivotra Jehovah ka nanao hoe:"
-    },
-    {
-      "v": 7,
-      "text": "Misikìna tahaka ny lehilahy ankehitriny, fa hanadina anao aho, ka ambarao amiko."
-    },
-    {
-      "v": 8,
-      "text": "Hanaisotra ny rariny amiko koa va ianao? Hanameloka Ahy va ianao mba ho marina kosa ny tenanao?"
-    },
-    {
-      "v": 9,
-      "text": "Manan-tsandry tahaka ny an' Andriamanitra va ianao? Ary mahay mampikotrokotro-peo tahaka ny Azy va ianao?"
-    },
-    {
-      "v": 10,
-      "text": "\"Miravaha fahalehibiazana sy tabiha ianao, ary mitafia famirapiratana sy fahatsarana;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Aelezo eny ivelany ny fahatezeranao mirehitra; ary jereo izay rehetra miavonavona, ka aetreo.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Jereo izay rehetra miavonavona ka aongano; ary apotrahy eo amin' ny fitoerany ihany ny ratsy fanahy.\""
-    },
-    {
-      "v": 13,
-      "text": "Afeno ao amin' ny vovoka avokoa izy rehetra, ary saròny ao amin' ny fiafenana ny tavany."
-    },
-    {
-      "v": 14,
-      "text": "Fa Izaho kosa dia hidera anao, satria mahavonjy anao ny tananao ankavanana."
-    },
-    {
-      "v": 15,
-      "text": "\"Jereo ange ny behemota izay nataoko tahaka ny nanaovako anao ihany; mihinana ahitra tahaka ny omby izy.\""
-    },
-    {
-      "v": 16,
-      "text": "Indro, eo amin' ny valahany ny heriny, ary eo amin' ny ozatra eo amin' ny kibony ny tanjany."
-    },
-    {
-      "v": 17,
-      "text": "\"Henjaniny ny rambony ho tahaka ny hazo sedera; mifaniditriditra ny ozatra amin' ny feny.\""
-    },
-    {
-      "v": 18,
-      "text": "Ny taolany dia tahaka ny fantsom-barahina matanjaka, tahaka ny anja-by ny taolany."
-    },
-    {
-      "v": 19,
-      "text": "\"Voalohany amin' ny asan' Andriamanitra izy; Izay nanao azy no mahay mampanatona ny sabany aminy.\""
-    },
-    {
-      "v": 20,
-      "text": "Mamoaka hanina ho azy tokoa ny tendrombohitra izay ilalaovan' ny biby rehetra any an-tsaha."
-    },
-    {
-      "v": 21,
-      "text": "Eo ambanin' ny hazo lota no andriany, any am-pierena anaty zozoro sy fotaka."
-    },
-    {
-      "v": 22,
-      "text": "\"Manalokaloka azy ny hazo lota; ary ny hazomalahelo eny amoron' ny ony no manodidina azy.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Indro, na dia maria aza ny ony, tsy manahy hisotro izy; matoky izy na dia misy Jordana migorodana amin' ny vavany aza.\""
-    },
-    {
-      "v": 24,
-      "text": "Moa misy mahasambotra azy va raha mihiratra ny masony? Raha azon' ny fandrika izy, misy maha-tsindrona ny orony va?"
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah mbola namaly an' i Joba ka nanao hoe:",
+    "2": "Izay mifanditra amin' ny Tsitoha va dia hampianatra Azy? Izay mananatra an' Andriamanitra no aoka hamaly izany.",
+    "3": "Ary Joba dia namaly an' i Jehovah ka nanao hoe:",
+    "4": "Indro, tsinontsinona aho, ka inona no azoko havaly Anao? Hitampim-bava aho izao.",
+    "5": "Efa niteny indray mandeha aho, ka tsy hamaly intsony; eny, indroa aza, fa tsy hanampy teny intsony aho.",
+    "6": "Dia namaly an' i Joba teo amin' ny tafio-drivotra Jehovah ka nanao hoe:",
+    "7": "Misikìna tahaka ny lehilahy ankehitriny, fa hanadina anao aho, ka ambarao amiko.",
+    "8": "Hanaisotra ny rariny amiko koa va ianao? Hanameloka Ahy va ianao mba ho marina kosa ny tenanao?",
+    "9": "Manan-tsandry tahaka ny an' Andriamanitra va ianao? Ary mahay mampikotrokotro-peo tahaka ny Azy va ianao?",
+    "10": "Miravaha fahalehibiazana sy tabiha ianao, ary mitafia famirapiratana sy fahatsarana;",
+    "11": "Aelezo eny ivelany ny fahatezeranao mirehitra; ary jereo izay rehetra miavonavona, ka aetreo.",
+    "12": "Jereo izay rehetra miavonavona ka aongano; ary apotrahy eo amin' ny fitoerany ihany ny ratsy fanahy.",
+    "13": "Afeno ao amin' ny vovoka avokoa izy rehetra, ary saròny ao amin' ny fiafenana ny tavany.",
+    "14": "Fa Izaho kosa dia hidera anao, satria mahavonjy anao ny tananao ankavanana.",
+    "15": "Jereo ange ny behemota izay nataoko tahaka ny nanaovako anao ihany; mihinana ahitra tahaka ny omby izy.",
+    "16": "Indro, eo amin' ny valahany ny heriny, ary eo amin' ny ozatra eo amin' ny kibony ny tanjany.",
+    "17": "Henjaniny ny rambony ho tahaka ny hazo sedera; mifaniditriditra ny ozatra amin' ny feny.",
+    "18": "Ny taolany dia tahaka ny fantsom-barahina matanjaka, tahaka ny anja-by ny taolany.",
+    "19": "Voalohany amin' ny asan' Andriamanitra izy; Izay nanao azy no mahay mampanatona ny sabany aminy.",
+    "20": "Mamoaka hanina ho azy tokoa ny tendrombohitra izay ilalaovan' ny biby rehetra any an-tsaha.",
+    "21": "Eo ambanin' ny hazo lota no andriany, any am-pierena anaty zozoro sy fotaka.",
+    "22": "Manalokaloka azy ny hazo lota; ary ny hazomalahelo eny amoron' ny ony no manodidina azy.",
+    "23": "Indro, na dia maria aza ny ony, tsy manahy hisotro izy; matoky izy na dia misy Jordana migorodana amin' ny vavany aza.",
+    "24": "Moa misy mahasambotra azy va raha mihiratra ny masony? Raha azon' ny fandrika izy, misy maha-tsindrona ny orony va?"
+  }
 }

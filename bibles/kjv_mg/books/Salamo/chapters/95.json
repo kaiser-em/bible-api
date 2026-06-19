@@ -1,49 +1,17 @@
 {
+  "book": "Salamo",
   "chapter": 95,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"AVIA, aoka isika hihira ho an' i Jehovah; aoka isika hanao hira fifaliana ho an' ny Vatolampy famonjena antsika.\""
-    },
-    {
-      "v": 2,
-      "text": "Aoka isika hankeo anatrehany amin' ny fisaorana, ary hanao feo fifaliana ho Azy amin' ny salamo."
-    },
-    {
-      "v": 3,
-      "text": "Fa Andriamanitra lehibe Jehovah, ary Mpanjaka lehibe ambonin' ny andriamanitra rehetra."
-    },
-    {
-      "v": 4,
-      "text": "\"Eo an-tanany ny fitoerana lalin' ny tany; azy koa ny herin' ny havoana.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Azy ny ranomasina, fa Izy no nanao azy; ary ny tany maina dia noforonin' ny tanany.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Avia, aoka isika hiondrika sy hiankohoka; aoka isika handohalika eo anatrehan' i Jehovah Mpanao antsika.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa Izy no Andriamanitsika; ary olona fiandriny sy ondry tandremany isika. Raha hihaino ny feony ianareo anio,\""
-    },
-    {
-      "v": 8,
-      "text": "Aza manamafy ny fonareo, tahaka ny tamin' ny andro fahatezerana, ary tahaka ny tamin' ny andron' ny fakam-panahy tany an' efitra."
-    },
-    {
-      "v": 9,
-      "text": "Raha naka fanahy Ahy ny razanareo sy nizaha toetra ahy, ary nahita ny asako."
-    },
-    {
-      "v": 10,
-      "text": "Nahatonga alahelo tamiko nandritra ny efapolo taona io taranaka io ka hoy Aho: Olona maniasia amin' ny fony izy, ary tsy mahalala ny lalako."
-    },
-    {
-      "v": 11,
-      "text": "Ka dia nianiana tamin' ny fahatezerako Aho fa tsy hiditra amin' ny fitsaharako izy ireo."
-    }
-  ]
+  "verses": {
+    "1": "AVIA, aoka isika hihira ho an' i Jehovah; aoka isika hanao hira fifaliana ho an' ny Vatolampy famonjena antsika.",
+    "2": "Aoka isika hankeo anatrehany amin' ny fisaorana, ary hanao feo fifaliana ho Azy amin' ny salamo.",
+    "3": "Fa Andriamanitra lehibe Jehovah, ary Mpanjaka lehibe ambonin' ny andriamanitra rehetra.",
+    "4": "Eo an-tanany ny fitoerana lalin' ny tany; azy koa ny herin' ny havoana.",
+    "5": "Azy ny ranomasina, fa Izy no nanao azy; ary ny tany maina dia noforonin' ny tanany.",
+    "6": "Avia, aoka isika hiondrika sy hiankohoka; aoka isika handohalika eo anatrehan' i Jehovah Mpanao antsika.",
+    "7": "Fa Izy no Andriamanitsika; ary olona fiandriny sy ondry tandremany isika. Raha hihaino ny feony ianareo anio,",
+    "8": "Aza manamafy ny fonareo, tahaka ny tamin' ny andro fahatezerana, ary tahaka ny tamin' ny andron' ny fakam-panahy tany an' efitra.",
+    "9": "Raha naka fanahy Ahy ny razanareo sy nizaha toetra ahy, ary nahita ny asako.",
+    "10": "Nahatonga alahelo tamiko nandritra ny efapolo taona io taranaka io ka hoy Aho: Olona maniasia amin' ny fony izy, ary tsy mahalala ny lalako.",
+    "11": "Ka dia nianiana tamin' ny fahatezerako Aho fa tsy hiditra amin' ny fitsaharako izy ireo."
+  }
 }

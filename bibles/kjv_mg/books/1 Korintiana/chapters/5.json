@@ -1,57 +1,19 @@
 {
+  "book": "1 Korintiana",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Efa re hatraiza hatraiza fa misy fahavetavetana eo aminareo, ary fahavetavetana izay tsy misy tahaka azy na dia amin’ny Jentilisa aza, fa misy anankiray manambady ny vadin-drainy."
-    },
-    {
-      "v": 2,
-      "text": "Ary mirehareha ianareo, ka tsy mampalahelo anareo akory izany, mba hoesorina tsy ho eo aminareo izay nanao izany zavatra izany!"
-    },
-    {
-      "v": 3,
-      "text": "\"Fa izaho, na dia tsy teo aza ny tenako, nefa teo ihany ny fanahiko, dia efa nitsara sahady an’ilay nanao izany tahaka ny teo ihany aho;\""
-    },
-    {
-      "v": 4,
-      "text": "Amin’ny anaran’i Jesosy Kristy Tompontsika rehefa tafangona ianareo sy ny fanahiko, omban’ny herin’i Jesosy Kristy Tompontsika,"
-    },
-    {
-      "v": 5,
-      "text": "Hanolotra izany anankiray izany ho an’i Satana hanimbana ny nofo, mba hamonjena ny fanahy amin’ny andron’i Jesosy Tompo."
-    },
-    {
-      "v": 6,
-      "text": "Tsy tsara ny fireharehanareo. Tsy fantatrareo va fa ny lalivay kely dia mahazo ny vongana rehetra?"
-    },
-    {
-      "v": 7,
-      "text": "\"Noho izany, esory ny lalivay ela mba ho vongana vaovao ianareo araka izay tsy mahamisy lalivay anareo. Fa voavono ho antsika Kristy, Paska ho antsika;\""
-    },
-    {
-      "v": 8,
-      "text": "Koa aoka isika hitandrina ny andro firavoravoana, tsy misy lalivay ela, na ny lalivain' ny lolompo sy faharatsiana, fa amin’ny mofo tsy misy lalivay dia ny fahatsoram-po sy ny fahamarinana."
-    },
-    {
-      "v": 9,
-      "text": "Nanoratra taminareo teo amin’ny epistily aho mba tsy hiharoharoanareo amin’izay manao fahavetavetana,"
-    },
-    {
-      "v": 10,
-      "text": "\"Nefa tsy ny mpanao fahavetavetana rehetra amin’izao tontolo izao, na ny mpierina sy ny mpanao an-keriny, na ny mpanompo sampy; fa raha izany, dia tsy maintsy miala amin’izao tontolo izao ianareo.\""
-    },
-    {
-      "v": 11,
-      "text": "Fa ny nanoratako taminareo dia ny mba tsy hiharoharoanareo aminy, raha misy atao hoe rahalahy, nefa mpanao fahavetavetana, na mpierina, na mpanompo sampy, na mpanaratsy, na mpimamo, na mpanao an-keriny, dia aza miara-mihinana akory amin’ny toy izany ianareo."
-    },
-    {
-      "v": 12,
-      "text": "Fa ahoako ny hitsara ny any ivelany? Tsy ny ao anatiny va no tsarainareo?"
-    },
-    {
-      "v": 13,
-      "text": "Fa ny any ivelany dia tsarain’Andriamanitra. Noho izany, esory aminareo izany olon-dratsy izany."
-    }
-  ]
+  "verses": {
+    "1": "Efa re hatraiza hatraiza fa misy fahavetavetana eo aminareo, ary fahavetavetana izay tsy misy tahaka azy na dia amin’ny Jentilisa aza, fa misy anankiray manambady ny vadin-drainy.",
+    "2": "Ary mirehareha ianareo, ka tsy mampalahelo anareo akory izany, mba hoesorina tsy ho eo aminareo izay nanao izany zavatra izany!",
+    "3": "Fa izaho, na dia tsy teo aza ny tenako, nefa teo ihany ny fanahiko, dia efa nitsara sahady an’ilay nanao izany tahaka ny teo ihany aho;",
+    "4": "Amin’ny anaran’i Jesosy Kristy Tompontsika rehefa tafangona ianareo sy ny fanahiko, omban’ny herin’i Jesosy Kristy Tompontsika,",
+    "5": "Hanolotra izany anankiray izany ho an’i Satana hanimbana ny nofo, mba hamonjena ny fanahy amin’ny andron’i Jesosy Tompo.",
+    "6": "Tsy tsara ny fireharehanareo. Tsy fantatrareo va fa ny lalivay kely dia mahazo ny vongana rehetra?",
+    "7": "Noho izany, esory ny lalivay ela mba ho vongana vaovao ianareo araka izay tsy mahamisy lalivay anareo. Fa voavono ho antsika Kristy, Paska ho antsika;",
+    "8": "Koa aoka isika hitandrina ny andro firavoravoana, tsy misy lalivay ela, na ny lalivain' ny lolompo sy faharatsiana, fa amin’ny mofo tsy misy lalivay dia ny fahatsoram-po sy ny fahamarinana.",
+    "9": "Nanoratra taminareo teo amin’ny epistily aho mba tsy hiharoharoanareo amin’izay manao fahavetavetana,",
+    "10": "Nefa tsy ny mpanao fahavetavetana rehetra amin’izao tontolo izao, na ny mpierina sy ny mpanao an-keriny, na ny mpanompo sampy; fa raha izany, dia tsy maintsy miala amin’izao tontolo izao ianareo.",
+    "11": "Fa ny nanoratako taminareo dia ny mba tsy hiharoharoanareo aminy, raha misy atao hoe rahalahy, nefa mpanao fahavetavetana, na mpierina, na mpanompo sampy, na mpanaratsy, na mpimamo, na mpanao an-keriny, dia aza miara-mihinana akory amin’ny toy izany ianareo.",
+    "12": "Fa ahoako ny hitsara ny any ivelany? Tsy ny ao anatiny va no tsarainareo?",
+    "13": "Fa ny any ivelany dia tsarain’Andriamanitra. Noho izany, esory aminareo izany olon-dratsy izany."
+  }
 }

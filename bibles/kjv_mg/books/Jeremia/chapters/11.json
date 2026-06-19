@@ -1,97 +1,29 @@
 {
+  "book": "Jeremia",
   "chapter": 11,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Izao no teny tonga tamin' i Jeremia avy tamin' i Jehovah:"
-    },
-    {
-      "v": 2,
-      "text": "Mihainoa ny tenin' izao fanekena izao ianareo, ary mitenena amin' ny olon' ny Joda sy amin' ny mponina any Jerosalema,"
-    },
-    {
-      "v": 3,
-      "text": "Ary ataovy aminy hoe: Izao no lazain' i Jehovah, Andriamanitry ny Isiraely: Ho voaozona izay olona tsy mankatò ny tenin' izao fanekena izao,"
-    },
-    {
-      "v": 4,
-      "text": "Izay nandidiako ny razanareo tamin' ny andro nitondrako azy nivoaka avy tany amin' ny tany Egypta, dia avy tao amin' ny memy fandrendreham-by, ka nanaovako hoe: Mankatoava ny feoko, ary ataovy ireo araka izay rehetra andidiako anareo, dia ho oloko ianareo, ary Izaho kosa ho Andriamanitrareo,"
-    },
-    {
-      "v": 5,
-      "text": "Mba hotoviko ny fianianana izay nianianako tamin' ny razanareo, dia ny hanomezana azy tany tondra-dronono sy tantely tahaka ny amin' izao anio izao.Dia namaly aho ka nanao hoe: Ho izany tokoa anie, Jehovah ô!"
-    },
-    {
-      "v": 6,
-      "text": "Ary hoy Jehovah tamiko: Torio any an-tanànan' ny Joda sy any an-dalamben' i Jerosalema izany teny rehetra izany, ka lazao hoe: Henoy ny tenin' izao fanekena izao, ka ataovy izany."
-    },
-    {
-      "v": 7,
-      "text": "Fa nananatra mafy ny razanareo Aho tamin' ny andro nitondrako azy nivoaka avy tany amin' ny tany Egypta ka ambaraka androany: eny, nifoha maraina koa Aho ka nananatra hoe: Ankatoavy ny feoko."
-    },
-    {
-      "v": 8,
-      "text": "\"Nefa tsy nankatò izy na nanongilana ny sofiny, fa samy nandeha tamin' ny fisainan' ny fo ratsiny izy; noho izany, hataoko mihatra aminy ny teny rehetra amin' izao fanekena izao, ilay nasaiko nataony, nefa tsy nataony.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary hoy Jehovah tamiko: Misy tetika fikomiana hita ao amin' ny Joda sy amin' ny mponina any Jerosalema."
-    },
-    {
-      "v": 10,
-      "text": "\"Fa niverina nankamin' ny heloky ny razany izy, izay nandà tsy nihaino ny teniko, ary lasa nanaraka andriamani-kafa izy ka nanompo azy; ny taranak' Isiraely sy ny taranak' i Joda efa nivadika ny fanekeko, izay nataoko tamin' ny razany.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Koa izao no lazain' i Jehovah: Indro, Izaho hahatonga loza aminy, izay tsy azony handosirana; ary na dia hitaraina amiko aza izy, dia tsy hihaino azy Aho.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Dia handeha ny tanànan' ny Joda sy ny mponina any Jerosalema ka hitaraina amin' ireo andriamanitra izay efa nandoroany ditin-kazo manitra; nefa tsy hahavonjy azy akory ireny amin' ny andro fahoriany.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Fa araka ny isan' ny tanànanao ry Joda, no isan' ny andriamanitrao; ary araka ny isan' ny lalamben' i Jerosalema no isan' ny alitara naorinareo ho an' izany zavatra mampahamenatra izany, dia alitara handoroana ditin-kazo manitra ho an' i Bala.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Koa aza mivavaka ho an' ity firenena ity ianao, ary aza manandratra fitarainana na vavaka ho azy; fa amin' ny andro izay hitarainany amiko noho ny fahoriany dia tsy hihaino azy Aho.\""
-    },
-    {
-      "v": 15,
-      "text": "Hanao inona ao an-tranoko ny malalako, fa efa nanao ratsy niaraka tamin' ny maro izy, ary ny hena masina dia nesorina taminao? Raha manao ratsy ianao, dia mifaly."
-    },
-    {
-      "v": 16,
-      "text": "\"Hazo oliva maitso sady misy voany maha-te-hizaha no nataon' i Jehovah anaranao; tamin' ny fihorakorahana be no nandrehetany afo taminy, ary notapahina ny rantsany.\""
-    },
-    {
-      "v": 17,
-      "text": "Fa Jehovah, Tompon' ny maro, Izay namboly anao, no nanambara ny loza hanjo anao, noho ny ratsy nataon' ny taranak' Isiraely sy ny taranak' i Joda, izay nahavoa ny tenany ka nahatezitra Ahy, dia tamin' ny nandoroany ditin-kazo manitra ho an' i Bala."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary nampahafantarin' i Jehovah ahy izany, ka dia fantatro; tamin' izany dia nasehonao ahy ny fanaony.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Fa izaho dia tahaka ny zanak' ondry na omby izay entina hovonoina; ary tsy fantatro fa izao no tetika nataony namelezany ahy: Aoka hosimbantsika ny hazo mbamin' ny voany, ary aoka hofongorantsika hiala amin' ny tanin' ny velona izy, mba tsy hotsarovana intsony ny anarany.\""
-    },
-    {
-      "v": 20,
-      "text": "Nefa, ry Jehovah, Tompon' ny maro ô, Izay mitsara marina, ka mamantatra ny voa sy ny fo, aoka ho hitako ny famalianao azy, fa aminao no efa nanambarako ny adiko."
-    },
-    {
-      "v": 21,
-      "text": "Koa izao no lazain' i Jehovah ny amin' ny mponina ao Anatota, izay mitady ny ainao ka manao hoe: Aza maminany amin' ny anaran' i Jehovah, fandrao matin' ny tananay ianao,"
-    },
-    {
-      "v": 22,
-      "text": "\"Izao no lazain' i Jehovah, Tompon' ny maro: Indro hofaiziko izy, ka ny zatovo ho fatin-tsabatra, ary ny zanany lahy sy ny zanany vavy ho fati-mosary;\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ka tsy hisy hiangana izy; fa hahatonga loza amin' ny mponina ao Anatota Aho amin' ny taona hamaliako azy.\""
-    }
-  ]
+  "verses": {
+    "1": "Izao no teny tonga tamin' i Jeremia avy tamin' i Jehovah:",
+    "2": "Mihainoa ny tenin' izao fanekena izao ianareo, ary mitenena amin' ny olon' ny Joda sy amin' ny mponina any Jerosalema,",
+    "3": "Ary ataovy aminy hoe: Izao no lazain' i Jehovah, Andriamanitry ny Isiraely: Ho voaozona izay olona tsy mankatò ny tenin' izao fanekena izao,",
+    "4": "Izay nandidiako ny razanareo tamin' ny andro nitondrako azy nivoaka avy tany amin' ny tany Egypta, dia avy tao amin' ny memy fandrendreham-by, ka nanaovako hoe: Mankatoava ny feoko, ary ataovy ireo araka izay rehetra andidiako anareo, dia ho oloko ianareo, ary Izaho kosa ho Andriamanitrareo,",
+    "5": "Mba hotoviko ny fianianana izay nianianako tamin' ny razanareo, dia ny hanomezana azy tany tondra-dronono sy tantely tahaka ny amin' izao anio izao.Dia namaly aho ka nanao hoe: Ho izany tokoa anie, Jehovah ô!",
+    "6": "Ary hoy Jehovah tamiko: Torio any an-tanànan' ny Joda sy any an-dalamben' i Jerosalema izany teny rehetra izany, ka lazao hoe: Henoy ny tenin' izao fanekena izao, ka ataovy izany.",
+    "7": "Fa nananatra mafy ny razanareo Aho tamin' ny andro nitondrako azy nivoaka avy tany amin' ny tany Egypta ka ambaraka androany: eny, nifoha maraina koa Aho ka nananatra hoe: Ankatoavy ny feoko.",
+    "8": "Nefa tsy nankatò izy na nanongilana ny sofiny, fa samy nandeha tamin' ny fisainan' ny fo ratsiny izy; noho izany, hataoko mihatra aminy ny teny rehetra amin' izao fanekena izao, ilay nasaiko nataony, nefa tsy nataony.",
+    "9": "Ary hoy Jehovah tamiko: Misy tetika fikomiana hita ao amin' ny Joda sy amin' ny mponina any Jerosalema.",
+    "10": "Fa niverina nankamin' ny heloky ny razany izy, izay nandà tsy nihaino ny teniko, ary lasa nanaraka andriamani-kafa izy ka nanompo azy; ny taranak' Isiraely sy ny taranak' i Joda efa nivadika ny fanekeko, izay nataoko tamin' ny razany.",
+    "11": "Koa izao no lazain' i Jehovah: Indro, Izaho hahatonga loza aminy, izay tsy azony handosirana; ary na dia hitaraina amiko aza izy, dia tsy hihaino azy Aho.",
+    "12": "Dia handeha ny tanànan' ny Joda sy ny mponina any Jerosalema ka hitaraina amin' ireo andriamanitra izay efa nandoroany ditin-kazo manitra; nefa tsy hahavonjy azy akory ireny amin' ny andro fahoriany.",
+    "13": "Fa araka ny isan' ny tanànanao ry Joda, no isan' ny andriamanitrao; ary araka ny isan' ny lalamben' i Jerosalema no isan' ny alitara naorinareo ho an' izany zavatra mampahamenatra izany, dia alitara handoroana ditin-kazo manitra ho an' i Bala.",
+    "14": "Koa aza mivavaka ho an' ity firenena ity ianao, ary aza manandratra fitarainana na vavaka ho azy; fa amin' ny andro izay hitarainany amiko noho ny fahoriany dia tsy hihaino azy Aho.",
+    "15": "Hanao inona ao an-tranoko ny malalako, fa efa nanao ratsy niaraka tamin' ny maro izy, ary ny hena masina dia nesorina taminao? Raha manao ratsy ianao, dia mifaly.",
+    "16": "Hazo oliva maitso sady misy voany maha-te-hizaha no nataon' i Jehovah anaranao; tamin' ny fihorakorahana be no nandrehetany afo taminy, ary notapahina ny rantsany.",
+    "17": "Fa Jehovah, Tompon' ny maro, Izay namboly anao, no nanambara ny loza hanjo anao, noho ny ratsy nataon' ny taranak' Isiraely sy ny taranak' i Joda, izay nahavoa ny tenany ka nahatezitra Ahy, dia tamin' ny nandoroany ditin-kazo manitra ho an' i Bala.",
+    "18": "Ary nampahafantarin' i Jehovah ahy izany, ka dia fantatro; tamin' izany dia nasehonao ahy ny fanaony.",
+    "19": "Fa izaho dia tahaka ny zanak' ondry na omby izay entina hovonoina; ary tsy fantatro fa izao no tetika nataony namelezany ahy: Aoka hosimbantsika ny hazo mbamin' ny voany, ary aoka hofongorantsika hiala amin' ny tanin' ny velona izy, mba tsy hotsarovana intsony ny anarany.",
+    "20": "Nefa, ry Jehovah, Tompon' ny maro ô, Izay mitsara marina, ka mamantatra ny voa sy ny fo, aoka ho hitako ny famalianao azy, fa aminao no efa nanambarako ny adiko.",
+    "21": "Koa izao no lazain' i Jehovah ny amin' ny mponina ao Anatota, izay mitady ny ainao ka manao hoe: Aza maminany amin' ny anaran' i Jehovah, fandrao matin' ny tananay ianao,",
+    "22": "Izao no lazain' i Jehovah, Tompon' ny maro: Indro hofaiziko izy, ka ny zatovo ho fatin-tsabatra, ary ny zanany lahy sy ny zanany vavy ho fati-mosary;",
+    "23": "Ka tsy hisy hiangana izy; fa hahatonga loza amin' ny mponina ao Anatota Aho amin' ny taona hamaliako azy."
+  }
 }

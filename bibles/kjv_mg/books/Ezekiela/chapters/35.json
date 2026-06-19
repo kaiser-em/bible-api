@@ -1,65 +1,21 @@
 {
+  "book": "Ezekiela",
   "chapter": 35,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary tonga tamiko ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Ry zanak' olona, manandrifia ny tendrombohitra Seïra, ka maminania ny hamelezana azy,"
-    },
-    {
-      "v": 3,
-      "text": "Dia ataovy aminy hoe: izao no lazain' i Jehovah Andriamanitra: Indro, avy hamely anao Aho, ry tendrombohitra Seïra, ary hahinjitro aminao ny tanako ka hataoko foana sy lao ianao."
-    },
-    {
-      "v": 4,
-      "text": "\"Ny tanànanao hataoko foana, ary ianao ho lao; ka dia ho fantatrao fa Izaho no Jehovah.\""
-    },
-    {
-      "v": 5,
-      "text": "Noho ny fankahalanao tsy miato sy ny nandatsahanao ny ràn' ny zanak' Isiraely tamin' ny herin' ny sabatra tamin' ny andro nahitany loza, dia tamin' ny fotoana nifaranan' ny helony."
-    },
-    {
-      "v": 6,
-      "text": "\"Noho izany raha velona koa aho, hoy Jehovah Andriamanitra, dia hanomana anao amin' ny rà Aho, ary rà no hanenjika anao; satria tsy nankahalainao ny ra, dia rà kosa no hanenjika anao.\""
-    },
-    {
-      "v": 7,
-      "text": "Hataoko foana sy lao toy izany ny tendrombohitra Seïra, sady hataoko tsy misy intsony ny mandroso sy ny miverina,"
-    },
-    {
-      "v": 8,
-      "text": "Ary hofenoiko ny olony voavono ny tendrombohiny: eny amin' ny havoananao sy ny lohasahanao, ary eny amin' ny reniranonao rehetra no hiampatramparan' izay voatrabaky ny sabatra."
-    },
-    {
-      "v": 9,
-      "text": "\"Hataoko rava mandrakizay ianao, ary tsy honenana intsony ny tanànanao; ka dia ho fantatrareo fa Izaho no Jehovah.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Noho ny nanaovanao hoe: ireto firenena roa ireto sy ireto tany roa ireto dia ho ahy avokoa, ka hanana azy izahay; kanefa teo ihany Jehovah,\""
-    },
-    {
-      "v": 11,
-      "text": "\"Dia izao no lazain' i Jehovah: raha velona koa Aho, dia hanao araka ny fahatezeranao sy ny fialonanao Aho, izay nataonao noho ny fandrafianao azy; ary hampahafantariko ao aminy ny tenako amin' ny hitsarako anao.\""
-    },
-    {
-      "v": 12,
-      "text": "Ka dia ho fantatrao fa Izaho Jehovah no efa nandre ny blasfemia rehetra izay nolazainao ny amin' ireny tendrombohitry ny Isiraely hoe: foana ireny ka nomena anay holevoninay."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary nanao teny miavonavona tamin' ny vavanareo namely Ahy ianareo sy nanamaro ny teninareo namely Ahy; efa reko izany.\""
-    },
-    {
-      "v": 14,
-      "text": "Izao no lazain' i Jehovah Andriamanitra: rehefa mifaly ny tany rehetra, dia hofoanako kosa ianao."
-    },
-    {
-      "v": 15,
-      "text": "\"Toy ny nifalianao tamin' ny lovan' ny taranak' Isiraely, satria nofoanana izany, dia toy izany kosa no hataoko aminao; ho foana ianao, ry tendrombohitra Seïra sy Edoma rehetra, dia izy rehetra, ka dia ho fantany fa Izaho no Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary tonga tamiko ny tenin' i Jehovah nanao hoe:",
+    "2": "Ry zanak' olona, manandrifia ny tendrombohitra Seïra, ka maminania ny hamelezana azy,",
+    "3": "Dia ataovy aminy hoe: izao no lazain' i Jehovah Andriamanitra: Indro, avy hamely anao Aho, ry tendrombohitra Seïra, ary hahinjitro aminao ny tanako ka hataoko foana sy lao ianao.",
+    "4": "Ny tanànanao hataoko foana, ary ianao ho lao; ka dia ho fantatrao fa Izaho no Jehovah.",
+    "5": "Noho ny fankahalanao tsy miato sy ny nandatsahanao ny ràn' ny zanak' Isiraely tamin' ny herin' ny sabatra tamin' ny andro nahitany loza, dia tamin' ny fotoana nifaranan' ny helony.",
+    "6": "Noho izany raha velona koa aho, hoy Jehovah Andriamanitra, dia hanomana anao amin' ny rà Aho, ary rà no hanenjika anao; satria tsy nankahalainao ny ra, dia rà kosa no hanenjika anao.",
+    "7": "Hataoko foana sy lao toy izany ny tendrombohitra Seïra, sady hataoko tsy misy intsony ny mandroso sy ny miverina,",
+    "8": "Ary hofenoiko ny olony voavono ny tendrombohiny: eny amin' ny havoananao sy ny lohasahanao, ary eny amin' ny reniranonao rehetra no hiampatramparan' izay voatrabaky ny sabatra.",
+    "9": "Hataoko rava mandrakizay ianao, ary tsy honenana intsony ny tanànanao; ka dia ho fantatrareo fa Izaho no Jehovah.",
+    "10": "Noho ny nanaovanao hoe: ireto firenena roa ireto sy ireto tany roa ireto dia ho ahy avokoa, ka hanana azy izahay; kanefa teo ihany Jehovah,",
+    "11": "Dia izao no lazain' i Jehovah: raha velona koa Aho, dia hanao araka ny fahatezeranao sy ny fialonanao Aho, izay nataonao noho ny fandrafianao azy; ary hampahafantariko ao aminy ny tenako amin' ny hitsarako anao.",
+    "12": "Ka dia ho fantatrao fa Izaho Jehovah no efa nandre ny blasfemia rehetra izay nolazainao ny amin' ireny tendrombohitry ny Isiraely hoe: foana ireny ka nomena anay holevoninay.",
+    "13": "Ary nanao teny miavonavona tamin' ny vavanareo namely Ahy ianareo sy nanamaro ny teninareo namely Ahy; efa reko izany.",
+    "14": "Izao no lazain' i Jehovah Andriamanitra: rehefa mifaly ny tany rehetra, dia hofoanako kosa ianao.",
+    "15": "Toy ny nifalianao tamin' ny lovan' ny taranak' Isiraely, satria nofoanana izany, dia toy izany kosa no hataoko aminao; ho foana ianao, ry tendrombohitra Seïra sy Edoma rehetra, dia izy rehetra, ka dia ho fantany fa Izaho no Jehovah."
+  }
 }

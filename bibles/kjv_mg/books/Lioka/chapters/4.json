@@ -1,181 +1,50 @@
 {
+  "book": "Lioka",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ARY Jesosy feno ny Fanahy Masina, dia niverina avy tany Jordana, ary nentin' ny Fanahy tany an' efitra,"
-    },
-    {
-      "v": 2,
-      "text": "Nalain' ny devoly fanahy efapolo andro Izy. Ary tsy nihinan-kanina akory izy tamin' izany andro izany, ka rehefa tapitra izany dia noana Izy."
-    },
-    {
-      "v": 3,
-      "text": "Ary hoy ny devoly taminy: Raha Zanak' Andriamanitra Ianao, didio io vato io mba ho tonga mofo."
-    },
-    {
-      "v": 4,
-      "text": "Fa Jesosy namaly azy ka nanao hoe: Voasoratra hoe: Tsy ny mofo ihany no hiveloman' ny olona, fa ny tenin' Andriamanitra rehetra."
-    },
-    {
-      "v": 5,
-      "text": "Ary nitondra Azy niakatra teo amin' ny tendrombohitra avo iray ny devoly, dia naneho Azy indray mipì-maso ny fanjakana rehetra amin' izao tontolo izao."
-    },
-    {
-      "v": 6,
-      "text": "\"Dia hoy ny devoly taminy: Homeko Anao izao fanapahana rehetra izao mbamin' ny voninahiny, fa efa natolotra ahy izany, ka izay tiako no homeko azy;\""
-    },
-    {
-      "v": 7,
-      "text": "Koa raha hiankohoka eto anatrehako Ianao, dia ho anao avokoa izany rehetra izany."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa Jesosy namaly ka nanao taminy hoe: Any ivohoko ianao, ry Satana; fa voasoratra hoe: Jehovah Andriamanitrao no hiankohofanao, ary Izy irery ihany no hotompoinao.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary nitondra Azy nankany Jerosalema izy, dia nampitoetra Azy teo an-tampon' ny tempoly ka nanao taminy hoe: Raha Zanak' Andriamanitra Ianao, mivarìna any ambany any;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Fa voasoratra hoe: Izy handidy ny anjeliny ny aminao mba hiaro Anao;\""
-    },
-    {
-      "v": 11,
-      "text": "Ary eny an-tanany no hitondran' ireo Anao, fandrao ho tafintohina amin' ny vato ny tongotrao."
-    },
-    {
-      "v": 12,
-      "text": "Ary Jesosy namaly ka nanao taminy hoe: Voalaza fa: Aza maka fanahy an' i Jehovah Andriamanitrao."
-    },
-    {
-      "v": 13,
-      "text": "Ary rehefa nahatapitra ny fakampanahy rehetra ny devoly, dia nandao Azy izy aloha."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary niverina tamin' ny herin' ny fanahy nankany Galilia Jesosy; dia niely tamin' ny tany manodidina rehetra ny lazany.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary nampianatra teny amin' ny synagogan' ny olona Izy ka nankalazain' ny rehetra."
-    },
-    {
-      "v": 16,
-      "text": "\"Dia tonga tao Nazareta, izay nahabe Azy Izy; ary araka ny fanaony dia niditra tao amin' ny synagoga tamin' ny andro sabata Izy ka nitsangana hamaky teny.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Dia natolotra Azy ny bokin' Isaia mpaminany; ary nony namelatra ny boky Izy, dia nahita ny toerana nisy teny voasoratra hoe:\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ny Fanahin' i Jehovah no ato amiko satria nanosotra Ahy hitory teny soa mahafaly amin' ny mahantra Izy; naniraka Ahy hanasitrana ny torotoro fo, hitory fahafahana amin' ny babo, sy fampahiratana amin' ny jamba, hanafaka izay nampahoriana,\""
-    },
-    {
-      "v": 19,
-      "text": "Hitory ny taona ankasitrahan' i Jehovah."
-    },
-    {
-      "v": 20,
-      "text": "Ary nahorony ny boky ka naveriny tamin' ny mpanao raharaha, dia nipetraka Izy. Ary nandinika Azy ny mason' izay rehetra teo amin' ny synagoga."
-    },
-    {
-      "v": 21,
-      "text": "Ary nanomboka niteny taminy Jesosy hoe: Androany no efa tanteraka eto anatrehanareo izany soratra izany."
-    },
-    {
-      "v": 22,
-      "text": "Ary nankalaza Azy izy rehetra sady talanjona noho ny tenin' ny fahasoavana izay naloaky ny vavany, ka hoy izy: Tsy Zanak' i Josefa va Ity?"
-    },
-    {
-      "v": 23,
-      "text": "Ary hoy koa Jesosy taminy: Hataonareo amiko tokoa izao ohabolana izao hoe: Dokotera, sitrano ny tenanao: Izay renay fa nataonao tany Kapernaomy dia mba ataovy eto amin' ny taninao koa."
-    },
-    {
-      "v": 24,
-      "text": "Ary hoy Izy: Lazaiko aminareo marina tokoa: Tsy misy mpaminany izay ankasitrahana ao amin' ny taniny."
-    },
-    {
-      "v": 25,
-      "text": "\"Fa lazaiko aminareo marina tokoa: Mpitondratena maro no teo amin' ny Isiraely tamin' ny andron' i Elia, raha nihantona ny andro telo taona sy enim-bolana, ka nisy mosary mafy tamin' ny tany rehetra;\""
-    },
-    {
-      "v": 26,
-      "text": "Nefa tsy mba nirahina ho any amin' ny anankiray tamin' ireo Elia, fa ho any Zarefata any amin' ny tany Sidona ihany, dia ho any amin' ny vehivavy iray izay mpitondratena."
-    },
-    {
-      "v": 27,
-      "text": "Ary maro no boka teo amin' ny Isiraely tamin' ny andron' i  Elisa mpaminany, nefa tsy mba nisy nodiovina na dia iray akory aza, fa Namàna Syriana ihany."
-    },
-    {
-      "v": 28,
-      "text": "Dia tezitra loatra izay rehetra teo amin' ny synagoga, raha nan-dre izany,"
-    },
-    {
-      "v": 29,
-      "text": "Ka nitsangana ireo, dia nandroaka Azy hiala ao an-tanàna ary nitondra Azy ho any an-tampon' ny havoana niorenan' ny tanàna mba hazerany amin' ny hantsana."
-    },
-    {
-      "v": 30,
-      "text": "Nefa namaky teo afovoany Izy, ka lasa nandeha."
-    },
-    {
-      "v": 31,
-      "text": "Ary nidina tany Kapernaomy tanàna any Galilia Izy ka nampianatra ny olona tamin' ny andro sabata."
-    },
-    {
-      "v": 32,
-      "text": "Dia talanjona ny olona tamin' ny foto-pampianarany satria nisy fahefana ny teniny."
-    },
-    {
-      "v": 33,
-      "text": "Ary nisy lehilahy iray tao amin' ny synagoga izay nanana ny fanahin' ny devoly maloto, dia niantso tamin' ny feo mahery izy,"
-    },
-    {
-      "v": 34,
-      "text": "Ka nanao hoe: Avelao izahay, moa mifaninona akory izahay sy Ianao, ry Jesosy avy any Nazareta? Avy handringana anay va Ianao? Fantatro fa Ilay Masin' Andriamanitra Ianao."
-    },
-    {
-      "v": 35,
-      "text": "Fa niteny mafy azy Jesosy ka nanao hoe: Mangina ianao, ka mivoaha aminy. Ary ny devoly, nony namotraka azy teo afovoan' ny olona, dia nivoaka taminy, nefa tsy naharatra azy."
-    },
-    {
-      "v": 36,
-      "text": "Ary talanjona avokoa izy rehetra ka niresaka hoe: Manao ahoana izao teny izao! fa amin' ny fahefana sy ny hery no andidiany ny fanahy maloto, dia mivoaka ireo."
-    },
-    {
-      "v": 37,
-      "text": "Ary niely teny amin' ny tany manodidina rehetra ny lazany."
-    },
-    {
-      "v": 38,
-      "text": "\"Ary nony nitsangana niala avy tao amin' ny synagoga Jesosy, dia niditra tao an-tranon' i Simona. Ary azon' ny tazo mafy ny rafozam-bavin' i Simona; ary izy ireo nangataka taminy hahasitrana azy.\""
-    },
-    {
-      "v": 39,
-      "text": "\"Dia nitsangana teo akaikiny Izy, ka noteneniny mafy ny tazo, dia niala tamin-dravehivavy izany; ary nitsangana niaraka tamin' izay izy ka nanompo azy ireo.\""
-    },
-    {
-      "v": 40,
-      "text": "\"Ary raha nilentika ny masoandro, ny olona rehetra izay nanana marary tamin' ny aretina samihafa dia nitondra azy teo Aminy; ary dia nametra-tanana tamin' izy rehetra tsirairay avy Izy ka nahasitrana azy.\""
-    },
-    {
-      "v": 41,
-      "text": "Ary nisy devoly nivoaka tamin' ny maro ka niantso nanao hoe: Ianao no Kristy Ilay Zanak' Andriamanitra. Nefa norarany ireo ka tsy navelany hiteny, satria nahalala Azy ho Kristy."
-    },
-    {
-      "v": 42,
-      "text": "\"Ary nony maraina ny andro, dia niala Jesosy ka dia nankany an-tany foana; ary ny vahoaka nitady Azy, dia nankeo aminy ka te-hihazona Azy mba tsy hialany teo aminy.\""
-    },
-    {
-      "v": 43,
-      "text": "Fa hoy Izy taminy: Tsy maintsy mitory ny fanjakan' Andriamanitra any amin' ny tanàna hafa koa Aho, satria izany no nanirahana Ahy."
-    },
-    {
-      "v": 44,
-      "text": "Ary nitoriteny tao amin' ny synagoga eran' i Galilia Izy."
-    }
-  ]
+  "verses": {
+    "1": "ARY Jesosy feno ny Fanahy Masina, dia niverina avy tany Jordana, ary nentin' ny Fanahy tany an' efitra,",
+    "2": "Nalain' ny devoly fanahy efapolo andro Izy. Ary tsy nihinan-kanina akory izy tamin' izany andro izany, ka rehefa tapitra izany dia noana Izy.",
+    "3": "Ary hoy ny devoly taminy: Raha Zanak' Andriamanitra Ianao, didio io vato io mba ho tonga mofo.",
+    "4": "Fa Jesosy namaly azy ka nanao hoe: Voasoratra hoe: Tsy ny mofo ihany no hiveloman' ny olona, fa ny tenin' Andriamanitra rehetra.",
+    "5": "Ary nitondra Azy niakatra teo amin' ny tendrombohitra avo iray ny devoly, dia naneho Azy indray mipì-maso ny fanjakana rehetra amin' izao tontolo izao.",
+    "6": "Dia hoy ny devoly taminy: Homeko Anao izao fanapahana rehetra izao mbamin' ny voninahiny, fa efa natolotra ahy izany, ka izay tiako no homeko azy;",
+    "7": "Koa raha hiankohoka eto anatrehako Ianao, dia ho anao avokoa izany rehetra izany.",
+    "8": "Fa Jesosy namaly ka nanao taminy hoe: Any ivohoko ianao, ry Satana; fa voasoratra hoe: Jehovah Andriamanitrao no hiankohofanao, ary Izy irery ihany no hotompoinao.",
+    "9": "Ary nitondra Azy nankany Jerosalema izy, dia nampitoetra Azy teo an-tampon' ny tempoly ka nanao taminy hoe: Raha Zanak' Andriamanitra Ianao, mivarìna any ambany any;",
+    "10": "Fa voasoratra hoe: Izy handidy ny anjeliny ny aminao mba hiaro Anao;",
+    "11": "Ary eny an-tanany no hitondran' ireo Anao, fandrao ho tafintohina amin' ny vato ny tongotrao.",
+    "12": "Ary Jesosy namaly ka nanao taminy hoe: Voalaza fa: Aza maka fanahy an' i Jehovah Andriamanitrao.",
+    "13": "Ary rehefa nahatapitra ny fakampanahy rehetra ny devoly, dia nandao Azy izy aloha.",
+    "14": "Ary niverina tamin' ny herin' ny fanahy nankany Galilia Jesosy; dia niely tamin' ny tany manodidina rehetra ny lazany.",
+    "15": "Ary nampianatra teny amin' ny synagogan' ny olona Izy ka nankalazain' ny rehetra.",
+    "16": "Dia tonga tao Nazareta, izay nahabe Azy Izy; ary araka ny fanaony dia niditra tao amin' ny synagoga tamin' ny andro sabata Izy ka nitsangana hamaky teny.",
+    "17": "Dia natolotra Azy ny bokin' Isaia mpaminany; ary nony namelatra ny boky Izy, dia nahita ny toerana nisy teny voasoratra hoe:",
+    "18": "Ny Fanahin' i Jehovah no ato amiko satria nanosotra Ahy hitory teny soa mahafaly amin' ny mahantra Izy; naniraka Ahy hanasitrana ny torotoro fo, hitory fahafahana amin' ny babo, sy fampahiratana amin' ny jamba, hanafaka izay nampahoriana,",
+    "19": "Hitory ny taona ankasitrahan' i Jehovah.",
+    "20": "Ary nahorony ny boky ka naveriny tamin' ny mpanao raharaha, dia nipetraka Izy. Ary nandinika Azy ny mason' izay rehetra teo amin' ny synagoga.",
+    "21": "Ary nanomboka niteny taminy Jesosy hoe: Androany no efa tanteraka eto anatrehanareo izany soratra izany.",
+    "22": "Ary nankalaza Azy izy rehetra sady talanjona noho ny tenin' ny fahasoavana izay naloaky ny vavany, ka hoy izy: Tsy Zanak' i Josefa va Ity?",
+    "23": "Ary hoy koa Jesosy taminy: Hataonareo amiko tokoa izao ohabolana izao hoe: Dokotera, sitrano ny tenanao: Izay renay fa nataonao tany Kapernaomy dia mba ataovy eto amin' ny taninao koa.",
+    "24": "Ary hoy Izy: Lazaiko aminareo marina tokoa: Tsy misy mpaminany izay ankasitrahana ao amin' ny taniny.",
+    "25": "Fa lazaiko aminareo marina tokoa: Mpitondratena maro no teo amin' ny Isiraely tamin' ny andron' i Elia, raha nihantona ny andro telo taona sy enim-bolana, ka nisy mosary mafy tamin' ny tany rehetra;",
+    "26": "Nefa tsy mba nirahina ho any amin' ny anankiray tamin' ireo Elia, fa ho any Zarefata any amin' ny tany Sidona ihany, dia ho any amin' ny vehivavy iray izay mpitondratena.",
+    "27": "Ary maro no boka teo amin' ny Isiraely tamin' ny andron' i  Elisa mpaminany, nefa tsy mba nisy nodiovina na dia iray akory aza, fa Namàna Syriana ihany.",
+    "28": "Dia tezitra loatra izay rehetra teo amin' ny synagoga, raha nan-dre izany,",
+    "29": "Ka nitsangana ireo, dia nandroaka Azy hiala ao an-tanàna ary nitondra Azy ho any an-tampon' ny havoana niorenan' ny tanàna mba hazerany amin' ny hantsana.",
+    "30": "Nefa namaky teo afovoany Izy, ka lasa nandeha.",
+    "31": "Ary nidina tany Kapernaomy tanàna any Galilia Izy ka nampianatra ny olona tamin' ny andro sabata.",
+    "32": "Dia talanjona ny olona tamin' ny foto-pampianarany satria nisy fahefana ny teniny.",
+    "33": "Ary nisy lehilahy iray tao amin' ny synagoga izay nanana ny fanahin' ny devoly maloto, dia niantso tamin' ny feo mahery izy,",
+    "34": "Ka nanao hoe: Avelao izahay, moa mifaninona akory izahay sy Ianao, ry Jesosy avy any Nazareta? Avy handringana anay va Ianao? Fantatro fa Ilay Masin' Andriamanitra Ianao.",
+    "35": "Fa niteny mafy azy Jesosy ka nanao hoe: Mangina ianao, ka mivoaha aminy. Ary ny devoly, nony namotraka azy teo afovoan' ny olona, dia nivoaka taminy, nefa tsy naharatra azy.",
+    "36": "Ary talanjona avokoa izy rehetra ka niresaka hoe: Manao ahoana izao teny izao! fa amin' ny fahefana sy ny hery no andidiany ny fanahy maloto, dia mivoaka ireo.",
+    "37": "Ary niely teny amin' ny tany manodidina rehetra ny lazany.",
+    "38": "Ary nony nitsangana niala avy tao amin' ny synagoga Jesosy, dia niditra tao an-tranon' i Simona. Ary azon' ny tazo mafy ny rafozam-bavin' i Simona; ary izy ireo nangataka taminy hahasitrana azy.",
+    "39": "Dia nitsangana teo akaikiny Izy, ka noteneniny mafy ny tazo, dia niala tamin-dravehivavy izany; ary nitsangana niaraka tamin' izay izy ka nanompo azy ireo.",
+    "40": "Ary raha nilentika ny masoandro, ny olona rehetra izay nanana marary tamin' ny aretina samihafa dia nitondra azy teo Aminy; ary dia nametra-tanana tamin' izy rehetra tsirairay avy Izy ka nahasitrana azy.",
+    "41": "Ary nisy devoly nivoaka tamin' ny maro ka niantso nanao hoe: Ianao no Kristy Ilay Zanak' Andriamanitra. Nefa norarany ireo ka tsy navelany hiteny, satria nahalala Azy ho Kristy.",
+    "42": "Ary nony maraina ny andro, dia niala Jesosy ka dia nankany an-tany foana; ary ny vahoaka nitady Azy, dia nankeo aminy ka te-hihazona Azy mba tsy hialany teo aminy.",
+    "43": "Fa hoy Izy taminy: Tsy maintsy mitory ny fanjakan' Andriamanitra any amin' ny tanàna hafa koa Aho, satria izany no nanirahana Ahy.",
+    "44": "Ary nitoriteny tao amin' ny synagoga eran' i Galilia Izy."
+  }
 }

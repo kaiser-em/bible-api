@@ -1,201 +1,55 @@
 {
+  "book": "Ezekiela",
   "chapter": 40,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tamin' ny taona fahadimy amby roapolo taorian' ny namaboana antsika, tamin' ny niandohan' ny taona, dia tamin' ny andro fahafolo tamin' ny volana, tamin' ny taona fahefatra ambin' ny folo taorian' ny namelezena ny tanàna, tamin' izany andro izany dia tamiko ny tanan' i Jehovah, ka nitondra ahy ho any Izy."
-    },
-    {
-      "v": 2,
-      "text": "Fahitana avy amin' Andriamanitra no nitondrany ahy ho any amin' ny tanin' ny Isiraely ka napetrany teo an-tendrombohitra avo dia avo aho, ary nisy nitarehin-tanàna teo amin' ny ilany atsimo."
-    },
-    {
-      "v": 3,
-      "text": "Dia nentiny nankao aho, ka, indro, nisy lehilahy izay nitarehim-barahina, nitondra tady rongony teny an-tanany sy volotara fandrefesana ary nitsangana teo am-bavahady izy."
-    },
-    {
-      "v": 4,
-      "text": "\"Dia hoy ralehilahy tamiko: ry zanak' olona, mijere amin' ny masonao, ary mihainoa amin' ny sofinao, ary aoka ny fonao handinika izay rehetra hasehoko anao; fa ny hanehoako anao izao no nitondrana anao eto. Ambarao amin' ny taranak' Isiraely izay rehetra hitanao.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary indro, nisy ampiantany manodidina teny ivelan' ny trano, ary eny an-tanan-dralehilahy nisy volotara fandrefesana enina hakiho iray, dia mihoatra vodivoam-pelatanana noho ny fanao; ka dia norefesiny ny hatevin' ny ampiantany, ka eran' ny volotara ary ny haavony dia eran' ny volotara koa.\""
-    },
-    {
-      "v": 6,
-      "text": "Dia tonga teo amin' ny vavahady manatrika ny atsinanana izy ka niakatra tamin' ny ambaratongany, dia nandrefy ny tokonam-bavahady, ka eran' ny volotara ny sakany, ary ny tokonana, ka eran' ny volotara iray koa ny sakany."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary ny trano fiambenana, dia eran' ny volotara ny lavany, ary eran' ny volotara koa ny sakany; ary ny elanelan' ny trano fiambenana dia dimy hakiho; ary ny tokonam-bavahady eo anilan' ny lavarangan' ny vavahady anatiny dia eran' ny volotara.\""
-    },
-    {
-      "v": 8,
-      "text": "Dia norefesiny koa ny lavarangan' ny vavahady, ka eran' ny volotara."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary norefesiny ny lavarangan' ny vavahady, ka valo hakiho; ary ny tongo-batony dia roa hakiho; ary ny lavarangan' ny vavahady dia teo anatiny.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary ny trano fiambenana teo amin' ny vavahady atsinanana dia telo avy no teo an-daniny; mitovy ohatra izy telo, ary mitovy ohatra koa ny tongo-bato teo amin' ny lafiny roa.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary norefesiny koa ny sakany vavahady, ka folo hakiho; ary ny lavan' ny vavahady dia telo ambin' ny folo hakiho.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary nisy nifefy teo anoloan' ny trano fiambenana ka iray hakiho avy no teo an-daniny roa; ary ny trano fiambenana dia enina hakiho ny tamin' ny lafiny iray, ary enina hakiho koa ny tamin' ny lafiny iray.\""
-    },
-    {
-      "v": 13,
-      "text": "Dia norefesiny koa ny vavahady hatramin' ny tafon' ny trano fiambenana iray ka hatramin' ny tafo iray koa, ka dimy amby roapolo hakiho ny sakany, ary mifanatrika ny varavarana."
-    },
-    {
-      "v": 14,
-      "text": "Ary ny tongo-bato dia noheveriny ho enimpolo hakiho ary nihatra tamin' ny tongo-bato ny kianja manodidina ny vavahady."
-    },
-    {
-      "v": 15,
-      "text": "Ary hatreo anoloan' ny vavahady fidirana ka hatreo anoloan' ny lavarangan' ny vavahady anatiny dia dimampolo hakiho."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary nisy varavarankely makarakara tsy mivoha manodidina, na ao amin' ny trano fiambenana, na amin' ny tongo-bato ao anatin' ny vavahady; ary toy izany koa amin' ny tohany; ary ny ao anatiny dia nisy varavarankely manodidina; ary teo amin' ny tongo-bato rehetra dia samy nisy sarin' ny hazo palma avokoa.\""
-    },
-    {
-      "v": 17,
-      "text": "Dia nentiny ho any amin' ny kianja ivelany aho, ary, indro, nisy efitrano madinika sy lampivato teny amin' ny kianja manodidina: nisy efitrano telopolo teny amin' ny lampivato."
-    },
-    {
-      "v": 18,
-      "text": "Ary ny lampivato dia teo anilan' ny vavahady, sady nifanerana tamin' ny lavan' ny vavahady: lampivato ambany io."
-    },
-    {
-      "v": 19,
-      "text": "Dia norefesiny koa ny sakany hatreo anoloan' ny vavahady ambany ka hatreo anoloan' ny kianja anatiny, dia hatreo amin' ny ivelany, ka zato hakiho, dia teo atsinanana sy teo avaratra."
-    },
-    {
-      "v": 20,
-      "text": "Ary norefesiny koa ny lavany sy ny sakan' ny vavahadin' ny kianja ivelany, izay nanatrika ny avaratra."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary ny trano fiambenany dia telo avy no teo an-daniny; ary ny tongo-batony sy ny tohany dia nitovy ohatra tamin' ny vavahady voalohany ka dimampolo hakiho ny lavany ary dimy amby roapolo hakiho ny sakany.\""
-    },
-    {
-      "v": 22,
-      "text": "Ary ny varavarankeliny sy ny tohany ary ny sarin' ny hazo palma taminy dia nitovy ohatra tamin' ireo amin' ny vavahady atsinanana, ary nisy ambaratonga fito ho fiakarana ao ary ny tohany dia tandrifin' ireo."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary nisy vavahadin' ny kianja anatiny, tandrifin' ny vavahady fidirana manatrika ny avaratra sy ny atsinanana; ka dia norefesiny hatramin' ny vavahady anankiray ka hatramin' ny anankiray, ka zato hakiho.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Dia nentiny nianatsimo aho, ka, indro, nisy vavahady teo atsimo; dia norefesiny ny tongo-batony sy ny tohany, ka araka ireo ohatra ireo ihany koa.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary nisy varavarankely teo aminy sy teo amin' ny tohany manodidina, dia tahaka ireo varavarankely ireo ihany koa, ka dimampolo hakiho ny lavany ary dimy amby roapolo hakiho ny sakany."
-    },
-    {
-      "v": 26,
-      "text": "\"Ary nisy ambaratonga fito ho fiakarana ao, ary ny tohany dia tandrifin' ireo; ary nisy sarin' ny hazo palma tamin' ny lafiny iray, ary koa tamin' ny lafiny iray teo amin' ny tongo-batony.\""
-    },
-    {
-      "v": 27,
-      "text": "Ary nisy vavahady fidirana amin' ny kianja anatiny teo atsimo, dia norefesiny teo atsimo hatramin' ny vavahady anankiray ka hatramin' ny anankiray, ka zato hakiho."
-    },
-    {
-      "v": 28,
-      "text": "\"Ary nentiny niditra tamin' ny vavahady atsimo ho any amin' ny kianja anatiny aho; dia norefesiny ny vavahady atsimo, ka araka ireo ohatra ireo ihany koa;\""
-    },
-    {
-      "v": 29,
-      "text": "Ary ny trano fiambenany sy ny tongo-batony ary ny tohany dia araka ireo ohatra ireo ihany koa, ary nisy varavarankely teo aminy sy teo amin' ny tohany manodidina, dimampolo hakiho ny lavany ary dimy amby roapolo hakiho ny sakany."
-    },
-    {
-      "v": 30,
-      "text": "Ary nisy tohany manodidina, dia dimy amby roapolo hakiho ny lavany ary dimy hakiho ny sakany."
-    },
-    {
-      "v": 31,
-      "text": "\"Ary ny tohany dia nanatrika ny kianja ivelany; ary nisy sarin' ny hazo palma teo amin' ny tongo-batony, ary nisy ambaratonga valo ho fiakarana ao.\""
-    },
-    {
-      "v": 32,
-      "text": "Dia nentiny niantsinanana aho ho any amin' ny kianja anatiny, dia norefesiny ny vavahady ka araka ireo ohatra ireo ihany koa."
-    },
-    {
-      "v": 33,
-      "text": "\"Ary ny trano fiambenany sy ny tongo-batony ary ny tohany dia araka ireo ohatra ireo ihany koa; ary nisy varavarankely teo aminy sy teo amin' ny tohany manodidina, dimampolo hakiho ny lavany ary dimy amby roapolo hakiho ny sakany.\""
-    },
-    {
-      "v": 34,
-      "text": "\"Ary nanatrika ny kianja ivelany ny tohany; ary nisy sarin' ny hazo palma teo amin' ny tongo-batony an-daniny roa, ary nisy ambaratonga valo ho fiakarana ao.\""
-    },
-    {
-      "v": 35,
-      "text": "Ary nentiny ho any amin' ny vavahady avaratra aho, dia norefesiny, ka araka ireo ohatra ireo ihany koa,"
-    },
-    {
-      "v": 36,
-      "text": "Ary ny trano fiambenany sy ny tongo-batony ary ny tohany, ary nisy varavarankely teo aminy manodidina, dia dimampolo hakiho ny lavany, ary dimy amby roapolo hakiho ny sakany."
-    },
-    {
-      "v": 37,
-      "text": "\"Ary nanatrika ny kianja ivelany ny tongo-batony; nisy sarin' ny hazo palma teo amin' ny tongo-batony an-daniny roa; ary ambaratonga valo no fiakarana ao.\""
-    },
-    {
-      "v": 38,
-      "text": "Ary nisy efitrano misy varavarana teo anilan' ny tongo-bato teo am-bavahady, izay nanakobahany ny fanatitra dorana."
-    },
-    {
-      "v": 39,
-      "text": "Ary teo amin' ny lavarangan' ny vavahady dia nisy latabatra roa avy tamin' ny lafiny roa hamonoana ny fanatitra dorana sy ny fanatitra noho ny ota ary ny fanati-panonerana."
-    },
-    {
-      "v": 40,
-      "text": "Ary teo anilany eo ivelany amin' ny fiakarana hiditra eo amin' ny vavahady avaratra dia nisy latabatra roa, ary teo anilany anankiray koa teo amin' ny lavarangan' ny vavahady, dia nisy latabatra roa koa."
-    },
-    {
-      "v": 41,
-      "text": "Nisy latabatra efatra teo amin' ny ilany iray amin' ny vavahady ary latabatra efatra koa teo amin' ny ilany iray, dia latabatra valo izay famonoany ny fanatiny."
-    },
-    {
-      "v": 42,
-      "text": "\"Ary nisy latabatra efatra natao tamin' ny vato voapaika ho amin' ny fanatitra dorana, iray hakiho sy sasany ny lavany, ary iray hakiho ny sasany koa ny sakany, ary iray hakiho ny haavony; teo no nametrahany ny zavatra famonoana ny fanatitra dorana sy ny fanatitra hafa.\""
-    },
-    {
-      "v": 43,
-      "text": "\"Ary nisy fihantonana roa rantsana, vodivoam-pelatanana ny halavany, naorina manodidina eny amin' ny rindrina; ary natao teo ambonin' ny latabatra ny hena fanatitra.\""
-    },
-    {
-      "v": 44,
-      "text": "Ary teo ivelan' ny vavahady anatiny, teo anilan' ny vavahady avaratra ka manatrika ny atsimo, dia nisy ireo efitrano ho an' ny mpihira teo amin' ny kianja anatiny, ary nisy iray koa teo anilan' ny vavahady atsinanana ka nanatrika ny avaratra."
-    },
-    {
-      "v": 45,
-      "text": "Ary hoy izy tamiko: Ity efitrano manatrika ny atsimo ity dia ho an' ny mpisorona izay mitandrina ny anjara-raharaha ny amin' ny trano."
-    },
-    {
-      "v": 46,
-      "text": "Ary ny efitrano manatrika ny avaratra kosa dia ho an' ny mpisorona izay mitandrina ny anjara-raharaha ny amin' ny alitara, ireo dia taranak' i Zadoka, izay isan' ny taranak' i Levy, ka manatona an' i Jehovah hanao ny asa fanompoana ho Azy."
-    },
-    {
-      "v": 47,
-      "text": "\"Dia norefesiny ny kianja, ka zato hakiho ny lavany ary zato hakiho koa ny sakany, dia efa-joro sokera izy; ary ny alitara dia teo anoloan' ny trano.\""
-    },
-    {
-      "v": 48,
-      "text": "Ary nentiny ho any amin' ny lavarangan' ny trano aho, dia norefesiny ny tongo-batony amin' ny lavarangana fidirana, ka dimy hakiho ny tamin' ny lafiny iray ary dimy hakiho koa ny tamin' ny lafiny iray ary ny sakan' ny vavahady dia telo hakiho ny tamin' ny lafiny iray ary telo hakiho koa ny tamin' ny lafiny iray."
-    },
-    {
-      "v": 49,
-      "text": "\"Roapolo hakiho ny lavan' ny lavarangana fidirana, ary iraika ambin' ny folo hakiho ny sakany; ary ambaratonga no fiakarana ao; ary nisy tongo-bato teo anilan' ny tolàna, iray tamin' ny lafiny iray, ary iray tamin' ny lafiny iray koa.\""
-    }
-  ]
+  "verses": {
+    "1": "Tamin' ny taona fahadimy amby roapolo taorian' ny namaboana antsika, tamin' ny niandohan' ny taona, dia tamin' ny andro fahafolo tamin' ny volana, tamin' ny taona fahefatra ambin' ny folo taorian' ny namelezena ny tanàna, tamin' izany andro izany dia tamiko ny tanan' i Jehovah, ka nitondra ahy ho any Izy.",
+    "2": "Fahitana avy amin' Andriamanitra no nitondrany ahy ho any amin' ny tanin' ny Isiraely ka napetrany teo an-tendrombohitra avo dia avo aho, ary nisy nitarehin-tanàna teo amin' ny ilany atsimo.",
+    "3": "Dia nentiny nankao aho, ka, indro, nisy lehilahy izay nitarehim-barahina, nitondra tady rongony teny an-tanany sy volotara fandrefesana ary nitsangana teo am-bavahady izy.",
+    "4": "Dia hoy ralehilahy tamiko: ry zanak' olona, mijere amin' ny masonao, ary mihainoa amin' ny sofinao, ary aoka ny fonao handinika izay rehetra hasehoko anao; fa ny hanehoako anao izao no nitondrana anao eto. Ambarao amin' ny taranak' Isiraely izay rehetra hitanao.",
+    "5": "Ary indro, nisy ampiantany manodidina teny ivelan' ny trano, ary eny an-tanan-dralehilahy nisy volotara fandrefesana enina hakiho iray, dia mihoatra vodivoam-pelatanana noho ny fanao; ka dia norefesiny ny hatevin' ny ampiantany, ka eran' ny volotara ary ny haavony dia eran' ny volotara koa.",
+    "6": "Dia tonga teo amin' ny vavahady manatrika ny atsinanana izy ka niakatra tamin' ny ambaratongany, dia nandrefy ny tokonam-bavahady, ka eran' ny volotara ny sakany, ary ny tokonana, ka eran' ny volotara iray koa ny sakany.",
+    "7": "Ary ny trano fiambenana, dia eran' ny volotara ny lavany, ary eran' ny volotara koa ny sakany; ary ny elanelan' ny trano fiambenana dia dimy hakiho; ary ny tokonam-bavahady eo anilan' ny lavarangan' ny vavahady anatiny dia eran' ny volotara.",
+    "8": "Dia norefesiny koa ny lavarangan' ny vavahady, ka eran' ny volotara.",
+    "9": "Ary norefesiny ny lavarangan' ny vavahady, ka valo hakiho; ary ny tongo-batony dia roa hakiho; ary ny lavarangan' ny vavahady dia teo anatiny.",
+    "10": "Ary ny trano fiambenana teo amin' ny vavahady atsinanana dia telo avy no teo an-daniny; mitovy ohatra izy telo, ary mitovy ohatra koa ny tongo-bato teo amin' ny lafiny roa.",
+    "11": "Ary norefesiny koa ny sakany vavahady, ka folo hakiho; ary ny lavan' ny vavahady dia telo ambin' ny folo hakiho.",
+    "12": "Ary nisy nifefy teo anoloan' ny trano fiambenana ka iray hakiho avy no teo an-daniny roa; ary ny trano fiambenana dia enina hakiho ny tamin' ny lafiny iray, ary enina hakiho koa ny tamin' ny lafiny iray.",
+    "13": "Dia norefesiny koa ny vavahady hatramin' ny tafon' ny trano fiambenana iray ka hatramin' ny tafo iray koa, ka dimy amby roapolo hakiho ny sakany, ary mifanatrika ny varavarana.",
+    "14": "Ary ny tongo-bato dia noheveriny ho enimpolo hakiho ary nihatra tamin' ny tongo-bato ny kianja manodidina ny vavahady.",
+    "15": "Ary hatreo anoloan' ny vavahady fidirana ka hatreo anoloan' ny lavarangan' ny vavahady anatiny dia dimampolo hakiho.",
+    "16": "Ary nisy varavarankely makarakara tsy mivoha manodidina, na ao amin' ny trano fiambenana, na amin' ny tongo-bato ao anatin' ny vavahady; ary toy izany koa amin' ny tohany; ary ny ao anatiny dia nisy varavarankely manodidina; ary teo amin' ny tongo-bato rehetra dia samy nisy sarin' ny hazo palma avokoa.",
+    "17": "Dia nentiny ho any amin' ny kianja ivelany aho, ary, indro, nisy efitrano madinika sy lampivato teny amin' ny kianja manodidina: nisy efitrano telopolo teny amin' ny lampivato.",
+    "18": "Ary ny lampivato dia teo anilan' ny vavahady, sady nifanerana tamin' ny lavan' ny vavahady: lampivato ambany io.",
+    "19": "Dia norefesiny koa ny sakany hatreo anoloan' ny vavahady ambany ka hatreo anoloan' ny kianja anatiny, dia hatreo amin' ny ivelany, ka zato hakiho, dia teo atsinanana sy teo avaratra.",
+    "20": "Ary norefesiny koa ny lavany sy ny sakan' ny vavahadin' ny kianja ivelany, izay nanatrika ny avaratra.",
+    "21": "Ary ny trano fiambenany dia telo avy no teo an-daniny; ary ny tongo-batony sy ny tohany dia nitovy ohatra tamin' ny vavahady voalohany ka dimampolo hakiho ny lavany ary dimy amby roapolo hakiho ny sakany.",
+    "22": "Ary ny varavarankeliny sy ny tohany ary ny sarin' ny hazo palma taminy dia nitovy ohatra tamin' ireo amin' ny vavahady atsinanana, ary nisy ambaratonga fito ho fiakarana ao ary ny tohany dia tandrifin' ireo.",
+    "23": "Ary nisy vavahadin' ny kianja anatiny, tandrifin' ny vavahady fidirana manatrika ny avaratra sy ny atsinanana; ka dia norefesiny hatramin' ny vavahady anankiray ka hatramin' ny anankiray, ka zato hakiho.",
+    "24": "Dia nentiny nianatsimo aho, ka, indro, nisy vavahady teo atsimo; dia norefesiny ny tongo-batony sy ny tohany, ka araka ireo ohatra ireo ihany koa.",
+    "25": "Ary nisy varavarankely teo aminy sy teo amin' ny tohany manodidina, dia tahaka ireo varavarankely ireo ihany koa, ka dimampolo hakiho ny lavany ary dimy amby roapolo hakiho ny sakany.",
+    "26": "Ary nisy ambaratonga fito ho fiakarana ao, ary ny tohany dia tandrifin' ireo; ary nisy sarin' ny hazo palma tamin' ny lafiny iray, ary koa tamin' ny lafiny iray teo amin' ny tongo-batony.",
+    "27": "Ary nisy vavahady fidirana amin' ny kianja anatiny teo atsimo, dia norefesiny teo atsimo hatramin' ny vavahady anankiray ka hatramin' ny anankiray, ka zato hakiho.",
+    "28": "Ary nentiny niditra tamin' ny vavahady atsimo ho any amin' ny kianja anatiny aho; dia norefesiny ny vavahady atsimo, ka araka ireo ohatra ireo ihany koa;",
+    "29": "Ary ny trano fiambenany sy ny tongo-batony ary ny tohany dia araka ireo ohatra ireo ihany koa, ary nisy varavarankely teo aminy sy teo amin' ny tohany manodidina, dimampolo hakiho ny lavany ary dimy amby roapolo hakiho ny sakany.",
+    "30": "Ary nisy tohany manodidina, dia dimy amby roapolo hakiho ny lavany ary dimy hakiho ny sakany.",
+    "31": "Ary ny tohany dia nanatrika ny kianja ivelany; ary nisy sarin' ny hazo palma teo amin' ny tongo-batony, ary nisy ambaratonga valo ho fiakarana ao.",
+    "32": "Dia nentiny niantsinanana aho ho any amin' ny kianja anatiny, dia norefesiny ny vavahady ka araka ireo ohatra ireo ihany koa.",
+    "33": "Ary ny trano fiambenany sy ny tongo-batony ary ny tohany dia araka ireo ohatra ireo ihany koa; ary nisy varavarankely teo aminy sy teo amin' ny tohany manodidina, dimampolo hakiho ny lavany ary dimy amby roapolo hakiho ny sakany.",
+    "34": "Ary nanatrika ny kianja ivelany ny tohany; ary nisy sarin' ny hazo palma teo amin' ny tongo-batony an-daniny roa, ary nisy ambaratonga valo ho fiakarana ao.",
+    "35": "Ary nentiny ho any amin' ny vavahady avaratra aho, dia norefesiny, ka araka ireo ohatra ireo ihany koa,",
+    "36": "Ary ny trano fiambenany sy ny tongo-batony ary ny tohany, ary nisy varavarankely teo aminy manodidina, dia dimampolo hakiho ny lavany, ary dimy amby roapolo hakiho ny sakany.",
+    "37": "Ary nanatrika ny kianja ivelany ny tongo-batony; nisy sarin' ny hazo palma teo amin' ny tongo-batony an-daniny roa; ary ambaratonga valo no fiakarana ao.",
+    "38": "Ary nisy efitrano misy varavarana teo anilan' ny tongo-bato teo am-bavahady, izay nanakobahany ny fanatitra dorana.",
+    "39": "Ary teo amin' ny lavarangan' ny vavahady dia nisy latabatra roa avy tamin' ny lafiny roa hamonoana ny fanatitra dorana sy ny fanatitra noho ny ota ary ny fanati-panonerana.",
+    "40": "Ary teo anilany eo ivelany amin' ny fiakarana hiditra eo amin' ny vavahady avaratra dia nisy latabatra roa, ary teo anilany anankiray koa teo amin' ny lavarangan' ny vavahady, dia nisy latabatra roa koa.",
+    "41": "Nisy latabatra efatra teo amin' ny ilany iray amin' ny vavahady ary latabatra efatra koa teo amin' ny ilany iray, dia latabatra valo izay famonoany ny fanatiny.",
+    "42": "Ary nisy latabatra efatra natao tamin' ny vato voapaika ho amin' ny fanatitra dorana, iray hakiho sy sasany ny lavany, ary iray hakiho ny sasany koa ny sakany, ary iray hakiho ny haavony; teo no nametrahany ny zavatra famonoana ny fanatitra dorana sy ny fanatitra hafa.",
+    "43": "Ary nisy fihantonana roa rantsana, vodivoam-pelatanana ny halavany, naorina manodidina eny amin' ny rindrina; ary natao teo ambonin' ny latabatra ny hena fanatitra.",
+    "44": "Ary teo ivelan' ny vavahady anatiny, teo anilan' ny vavahady avaratra ka manatrika ny atsimo, dia nisy ireo efitrano ho an' ny mpihira teo amin' ny kianja anatiny, ary nisy iray koa teo anilan' ny vavahady atsinanana ka nanatrika ny avaratra.",
+    "45": "Ary hoy izy tamiko: Ity efitrano manatrika ny atsimo ity dia ho an' ny mpisorona izay mitandrina ny anjara-raharaha ny amin' ny trano.",
+    "46": "Ary ny efitrano manatrika ny avaratra kosa dia ho an' ny mpisorona izay mitandrina ny anjara-raharaha ny amin' ny alitara, ireo dia taranak' i Zadoka, izay isan' ny taranak' i Levy, ka manatona an' i Jehovah hanao ny asa fanompoana ho Azy.",
+    "47": "Dia norefesiny ny kianja, ka zato hakiho ny lavany ary zato hakiho koa ny sakany, dia efa-joro sokera izy; ary ny alitara dia teo anoloan' ny trano.",
+    "48": "Ary nentiny ho any amin' ny lavarangan' ny trano aho, dia norefesiny ny tongo-batony amin' ny lavarangana fidirana, ka dimy hakiho ny tamin' ny lafiny iray ary dimy hakiho koa ny tamin' ny lafiny iray ary ny sakan' ny vavahady dia telo hakiho ny tamin' ny lafiny iray ary telo hakiho koa ny tamin' ny lafiny iray.",
+    "49": "Roapolo hakiho ny lavan' ny lavarangana fidirana, ary iraika ambin' ny folo hakiho ny sakany; ary ambaratonga no fiakarana ao; ary nisy tongo-bato teo anilan' ny tolàna, iray tamin' ny lafiny iray, ary iray tamin' ny lafiny iray koa."
+  }
 }

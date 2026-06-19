@@ -1,121 +1,35 @@
 {
+  "book": "Deotornomia",
   "chapter": 29,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Izao no tenin' ny fanekena izay nandidian' i Jehovah an' i Mosesy hatao amin' ny Zanak' Isiraely tany amin' ny tany Moaba, ankoatra ilay fanekena nataony taminy tao Horeba."
-    },
-    {
-      "v": 2,
-      "text": "Dia niantso ny Isiraely rehetra Mosesy ka nanao taminy hoe: Ianareo efa nahita izay nataon' i Jehovah teo imasonareo tany amin' ny tany Egypta tamin' i Farao sy ny mpanompony rehetra ary ny taniny rehetra,"
-    },
-    {
-      "v": 3,
-      "text": "Dia ny fizahan-toetra lehibe, izay efa hitan' ny masonao, dia ireny famantarana sy fahagagana lehibe ireny."
-    },
-    {
-      "v": 4,
-      "text": "Nefa tsy nomen' i Jehovah fo hahalala sy maso hahita ary sofina handre ianareo mandraka androany."
-    },
-    {
-      "v": 5,
-      "text": "\"Dia nitarika anareo tany an' efitra efapolo taona aho; tsy tonta teny aminareo ny fitafianareo, ary tsy tonta teo amin' ny tongotrao ny kapanao.\""
-    },
-    {
-      "v": 6,
-      "text": "Tsy mofo no fihinanareo, ary tsy divay na toaka no fisotronareo, mba ho fantatrareo fa Izaho no Jehovah Andriamanitrareo."
-    },
-    {
-      "v": 7,
-      "text": "Ary nony tonga tamin' ity toerana ity ianareo, dia nivoaka Sihona, mpanjakan' i Hesbona sy Oga, mpanjakan' i Basana, hiady amintsika, ka nasiantsika izy ireo."
-    },
-    {
-      "v": 8,
-      "text": "Ary nalaintsika ny taniny ka nomentsika ho lovan' ny Robenita sy ny Gadita ary ny antsasaky ny fokon' i Manase."
-    },
-    {
-      "v": 9,
-      "text": "Koa tandremo ny tenin' izao fanekena izao, ka ataovy izany, mba hambinina ianareo amin' izay rehetra ataonareo."
-    },
-    {
-      "v": 10,
-      "text": "Mijoro eto anatrehan' i Jehovah Andriamanitrareo ianareo rehetra anio, dia ny lehiben' ny fokonareo, ny loholonareo sy ny mpifehy anareo mbamin' ny lehilahy rehetra amin' ny Isiraely,"
-    },
-    {
-      "v": 11,
-      "text": "\"Ny zanakareo madinika sy ny vadinareo ary ny vahininao eo amin' ny tobinao hatramin' ny mpikapa hazonao sy ny mpantsaka ranonao;\""
-    },
-    {
-      "v": 12,
-      "text": "\"Mba hidiranao amin' ny faneken' i Jehovah Andriamanitrao sy ny fianianany izay ataon' i Jehovah Andriamanitrao aminao anio;\""
-    },
-    {
-      "v": 13,
-      "text": "Hampiorenany anao anio ho firenena ho azy, ary mba ho Andriamanitrao Izy, araka izay nolazainy taminao sy araka izay nianianany tamin' ny razanao, dia Abrahama sy Isaka ary Jakoba."
-    },
-    {
-      "v": 14,
-      "text": "Ary tsy aminareo ihany no anaovako izao fanekena sy fianianana izao,"
-    },
-    {
-      "v": 15,
-      "text": "\"Fa amin' izay mijoro eto amintsika anio, eto anatrehan' i Jehovah Andriamanitsika sy amin' izay tsy miaraka amintsika eto koa anio;\""
-    },
-    {
-      "v": 16,
-      "text": "\"(Fa fantatrareo izay nitoerantsika tany amin' ny tany Egypta sy nandehanantsika namaky ny firenena izay nandalovanareo;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary efa hitanareo ny fahavetavetany sy ny sampiny hazo sy vato sy volafotsy ary volamena, izay teo aminy);\""
-    },
-    {
-      "v": 18,
-      "text": "\"Fandrao hisy lehilahy na vehivavy, na mpianakavy, na foko eo aminareo, izay manana fo miala amin' i Jehovah Andriamanitsika anio, handehanany hanompo ny andriamanitr' ireny firenena ireny; fandrao hisy faka eo aminareo izay miteraka afero sy zava-mangidy mahafaty;\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ary izao no hiseho raha reny ny tenin' izao fanozonana izao, dia hiarahaba tena ao am-pony izy ka hanao hoe: Hanam-piadanana aho, na dia mandeha amin' ny fisainan' ny foko aza, hanampiana fahamamoana amin' ny hetaheta;\""
-    },
-    {
-      "v": 20,
-      "text": "Tsy hiantra azy Jehovah, fa hanetroka amin' izany lehilahy izany ny fahatezeran' i Jehovah sy ny fahasaro-piarony, ary hitoetra aminy ny fanozonana rehetra izay voasoratra amin' ity boky ity, ka hovonoin' i Jehovah tsy ho eo ambanin' ny lanitra ny anarany."
-    },
-    {
-      "v": 21,
-      "text": "\"Dia hosarahan' i Jehovah amin' ny fokon' Isiraely rehetra ho amin' ny loza izy araka ny fanozonana rehetra amin' ny fanekena izay voasoratra amin' ity bokin' ny lalàna ity;\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary hiteny ny taranaka ho avy amin' ny zanakareo izay hitsangana handimby anareo sy ny vahiny avy amin' ny tany lavitra, raha mahita ny loza eo amin' izany tany izany sy ny aretina izay nataon' i Jehovah teo aminy;\""
-    },
-    {
-      "v": 23,
-      "text": "\"Fa ho solifara sy sira ary fahamaizana ny tany rehetra eo: tsy hofafazana izy, na hanirian-javatra, sady tsy hisy ahitra akory hitrebona ao, tahaka ny nandravana an' i Sodoma sy Adma ary Zeboima, izay noravan' i Jehovah tamin' ny fahavinirany sy ny fahatezerany;\""
-    },
-    {
-      "v": 24,
-      "text": "Dia hiteny ny firenena rehetra hoe: Nahoana Jehovah no dia nanao toy izany tamin' ity tany ity? Inona no hevitry ny firehetan' izao fahatezerana lehibe izao?"
-    },
-    {
-      "v": 25,
-      "text": "Dia hiteny ny vahoaka ka hanao hoe: Satria nahafoy ny faneken' i Jehovah, Andriamanitry ny razany izy, izay nataony taminy fony Izy nitondra azy nivoaka avy tany amin' ny tany Egypta."
-    },
-    {
-      "v": 26,
-      "text": "\"Fa nandeha izy ka nanompo andriamani-kafa sady niankohoka teo anatrehany, dia andriamanitra izay tsy fantany sady tsy nomeny azy;\""
-    },
-    {
-      "v": 27,
-      "text": "Dia nirehitra tamin' ity tany ity ny fahatezeran' i Jehovah, ka nataony tonga taminy avokoa ny fanozonana rehetra izay voasoratra eto amin' ity boky ity."
-    },
-    {
-      "v": 28,
-      "text": "Ary tamin' ny fahatezerana sy fahavinirana ary fahasosorana lehibe no nanongotan' i Jehovah azy tsy ho eo amin' ny taniny ka nandroahany azy ho any amin' ny tany hafa tahaka ny amin' izao anio izao."
-    },
-    {
-      "v": 29,
-      "text": "\"An' i Jehovah Andriamanitsika ny zava-miafina; fa antsika sy ny zanatsika mandrakizay kosa ny zavatra ambara, hankatoavantsika ny teny rehetra amin' ity lalàna ity.\""
-    }
-  ]
+  "verses": {
+    "1": "Izao no tenin' ny fanekena izay nandidian' i Jehovah an' i Mosesy hatao amin' ny Zanak' Isiraely tany amin' ny tany Moaba, ankoatra ilay fanekena nataony taminy tao Horeba.",
+    "2": "Dia niantso ny Isiraely rehetra Mosesy ka nanao taminy hoe: Ianareo efa nahita izay nataon' i Jehovah teo imasonareo tany amin' ny tany Egypta tamin' i Farao sy ny mpanompony rehetra ary ny taniny rehetra,",
+    "3": "Dia ny fizahan-toetra lehibe, izay efa hitan' ny masonao, dia ireny famantarana sy fahagagana lehibe ireny.",
+    "4": "Nefa tsy nomen' i Jehovah fo hahalala sy maso hahita ary sofina handre ianareo mandraka androany.",
+    "5": "Dia nitarika anareo tany an' efitra efapolo taona aho; tsy tonta teny aminareo ny fitafianareo, ary tsy tonta teo amin' ny tongotrao ny kapanao.",
+    "6": "Tsy mofo no fihinanareo, ary tsy divay na toaka no fisotronareo, mba ho fantatrareo fa Izaho no Jehovah Andriamanitrareo.",
+    "7": "Ary nony tonga tamin' ity toerana ity ianareo, dia nivoaka Sihona, mpanjakan' i Hesbona sy Oga, mpanjakan' i Basana, hiady amintsika, ka nasiantsika izy ireo.",
+    "8": "Ary nalaintsika ny taniny ka nomentsika ho lovan' ny Robenita sy ny Gadita ary ny antsasaky ny fokon' i Manase.",
+    "9": "Koa tandremo ny tenin' izao fanekena izao, ka ataovy izany, mba hambinina ianareo amin' izay rehetra ataonareo.",
+    "10": "Mijoro eto anatrehan' i Jehovah Andriamanitrareo ianareo rehetra anio, dia ny lehiben' ny fokonareo, ny loholonareo sy ny mpifehy anareo mbamin' ny lehilahy rehetra amin' ny Isiraely,",
+    "11": "Ny zanakareo madinika sy ny vadinareo ary ny vahininao eo amin' ny tobinao hatramin' ny mpikapa hazonao sy ny mpantsaka ranonao;",
+    "12": "Mba hidiranao amin' ny faneken' i Jehovah Andriamanitrao sy ny fianianany izay ataon' i Jehovah Andriamanitrao aminao anio;",
+    "13": "Hampiorenany anao anio ho firenena ho azy, ary mba ho Andriamanitrao Izy, araka izay nolazainy taminao sy araka izay nianianany tamin' ny razanao, dia Abrahama sy Isaka ary Jakoba.",
+    "14": "Ary tsy aminareo ihany no anaovako izao fanekena sy fianianana izao,",
+    "15": "Fa amin' izay mijoro eto amintsika anio, eto anatrehan' i Jehovah Andriamanitsika sy amin' izay tsy miaraka amintsika eto koa anio;",
+    "16": "(Fa fantatrareo izay nitoerantsika tany amin' ny tany Egypta sy nandehanantsika namaky ny firenena izay nandalovanareo;",
+    "17": "Ary efa hitanareo ny fahavetavetany sy ny sampiny hazo sy vato sy volafotsy ary volamena, izay teo aminy);",
+    "18": "Fandrao hisy lehilahy na vehivavy, na mpianakavy, na foko eo aminareo, izay manana fo miala amin' i Jehovah Andriamanitsika anio, handehanany hanompo ny andriamanitr' ireny firenena ireny; fandrao hisy faka eo aminareo izay miteraka afero sy zava-mangidy mahafaty;",
+    "19": "Ary izao no hiseho raha reny ny tenin' izao fanozonana izao, dia hiarahaba tena ao am-pony izy ka hanao hoe: Hanam-piadanana aho, na dia mandeha amin' ny fisainan' ny foko aza, hanampiana fahamamoana amin' ny hetaheta;",
+    "20": "Tsy hiantra azy Jehovah, fa hanetroka amin' izany lehilahy izany ny fahatezeran' i Jehovah sy ny fahasaro-piarony, ary hitoetra aminy ny fanozonana rehetra izay voasoratra amin' ity boky ity, ka hovonoin' i Jehovah tsy ho eo ambanin' ny lanitra ny anarany.",
+    "21": "Dia hosarahan' i Jehovah amin' ny fokon' Isiraely rehetra ho amin' ny loza izy araka ny fanozonana rehetra amin' ny fanekena izay voasoratra amin' ity bokin' ny lalàna ity;",
+    "22": "Ary hiteny ny taranaka ho avy amin' ny zanakareo izay hitsangana handimby anareo sy ny vahiny avy amin' ny tany lavitra, raha mahita ny loza eo amin' izany tany izany sy ny aretina izay nataon' i Jehovah teo aminy;",
+    "23": "Fa ho solifara sy sira ary fahamaizana ny tany rehetra eo: tsy hofafazana izy, na hanirian-javatra, sady tsy hisy ahitra akory hitrebona ao, tahaka ny nandravana an' i Sodoma sy Adma ary Zeboima, izay noravan' i Jehovah tamin' ny fahavinirany sy ny fahatezerany;",
+    "24": "Dia hiteny ny firenena rehetra hoe: Nahoana Jehovah no dia nanao toy izany tamin' ity tany ity? Inona no hevitry ny firehetan' izao fahatezerana lehibe izao?",
+    "25": "Dia hiteny ny vahoaka ka hanao hoe: Satria nahafoy ny faneken' i Jehovah, Andriamanitry ny razany izy, izay nataony taminy fony Izy nitondra azy nivoaka avy tany amin' ny tany Egypta.",
+    "26": "Fa nandeha izy ka nanompo andriamani-kafa sady niankohoka teo anatrehany, dia andriamanitra izay tsy fantany sady tsy nomeny azy;",
+    "27": "Dia nirehitra tamin' ity tany ity ny fahatezeran' i Jehovah, ka nataony tonga taminy avokoa ny fanozonana rehetra izay voasoratra eto amin' ity boky ity.",
+    "28": "Ary tamin' ny fahatezerana sy fahavinirana ary fahasosorana lehibe no nanongotan' i Jehovah azy tsy ho eo amin' ny taniny ka nandroahany azy ho any amin' ny tany hafa tahaka ny amin' izao anio izao.",
+    "29": "An' i Jehovah Andriamanitsika ny zava-miafina; fa antsika sy ny zanatsika mandrakizay kosa ny zavatra ambara, hankatoavantsika ny teny rehetra amin' ity lalàna ity."
+  }
 }

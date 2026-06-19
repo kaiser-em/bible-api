@@ -1,109 +1,32 @@
 {
+  "book": "Galatiana",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tomoera tsara àry ao amin' ny fahafahana izay nanafahan' i Kristy antsika, fa aza mety hohazonin' ny ziogan' ny fanandevozana indray."
-    },
-    {
-      "v": 2,
-      "text": "Indro, izaho Paoly milaza aminareo fa raha mety hoforana ianareo, dia tsy hahasoa anareo akory Kristy."
-    },
-    {
-      "v": 3,
-      "text": "Ary lazaiko marina indray amin’ny olona manaiky hoforana rehetra fa mpitrosa tsy maintsy manatanteraka ny lalàna rehetra izy."
-    },
-    {
-      "v": 4,
-      "text": "\"Nanjary tsy nahasoa anareo Kristy, na iza na iza ianareo hamarinina amin’ny lalàna; fa lavo niala tamin’ny fahasoavana ianareo.\""
-    },
-    {
-      "v": 5,
-      "text": "Fa isika, amin’ny alalan’ny Fanahy no iandrasantsika ny fanantenan’ny fahamarinana amin’ny finoana."
-    },
-    {
-      "v": 6,
-      "text": "Fa ao amin’i Kristy Jesosy dia tsy mahasoa na ny famorana na ny tsy famorana, fa ny finoana izay miasa amin’ny fitiavana."
-    },
-    {
-      "v": 7,
-      "text": "Nihazakazaka tsara ianareo, iza no nisakana anareo tsy hankatò ny marina?"
-    },
-    {
-      "v": 8,
-      "text": "Izany fitaomana izany dia tsy avy tamin’Ilay niantso anareo."
-    },
-    {
-      "v": 9,
-      "text": "Ny lalivay kely dia mahatonga ny vongana rehetra ho voalalivay avokoa."
-    },
-    {
-      "v": 10,
-      "text": "\"Matoky anareo ao amin’ny Tompo aho, fa tsy hisaina zavatra hafa akory ianareo; fa ilay mampitabataba anareo no hiharan’ny fanamelohana, na zovy na zovy izy.\""
-    },
-    {
-      "v": 11,
-      "text": "Fa izaho, ry rahalahy, raha mbola mitory ny famorana ihany, nahoana aho no mbola hiaritra fanenjehana? Dia mitsahatra ny fahatafintohinana noho ny hazofijaliana."
-    },
-    {
-      "v": 12,
-      "text": "Enga anie ka hiesotra izay mampitabataba anareo."
-    },
-    {
-      "v": 13,
-      "text": "\"Fa efa nantsoina ho amin’ny fahafahana ianareo, ry rahalahy; kanefa aoka tsy hoentinareo hanaraka ny nofo izany fahafahana izany, fa mifampanompoa amin’ny fitiavana.\""
-    },
-    {
-      "v": 14,
-      "text": "Fa tanteraka amin’ny teny iray ihany ny lalàna rehetra, dia izao: “Tiava ny namanao tahaka ny tenanao”"
-    },
-    {
-      "v": 15,
-      "text": "Fa raha mifandramatra sy mifampihinana ianareo, tandremo fandrao mifandringana."
-    },
-    {
-      "v": 16,
-      "text": "Fa hoy aho: Mandehana araka ny Fanahy, dia tsy hahatanteraka ny filàn’ny nofo ianareo."
-    },
-    {
-      "v": 17,
-      "text": "\"Fa ny nofo manohitra ny Fanahy, ary ny Fanahy manohitra ny nofo; ary mifanohitra izy roroa, mba tsy ahazoanareo manao izay zavatra tianareo.\""
-    },
-    {
-      "v": 18,
-      "text": "Fa raha tarihin’ny Fanahy ianareo, dia tsy mba ambanin’ny lalàna."
-    },
-    {
-      "v": 19,
-      "text": "Fa miharihary ny asan’ny nofo dia izao: fijangajangana, fahavetavetana, fahalotoana, fijejojejoana,"
-    },
-    {
-      "v": 20,
-      "text": "Fanompoan-tsampy, fanaovana ody ratsy, fankahalana, fifandirana, adi-lahy, fahatezerana, fifampiandaniana, fisarahana, fahadisoan-dalana amin' ny finoana,"
-    },
-    {
-      "v": 21,
-      "text": "Fialonana, vonoana olona, fahamamoana, filalaovan-dratsy ary ny toy izany, izay lazaiko aminareo rahateo, tahaka ny voalazako fahiny koa, fa izay manao izany dia tsy handova ny fanjakan’Andriamanitra."
-    },
-    {
-      "v": 22,
-      "text": "Fa ny vokatry ny Fanahy kosa dia fitiavana, fifaliana, fiadanana, fahari-po, fahamoram-panahy, fahatsarana, finoana,"
-    },
-    {
-      "v": 23,
-      "text": "\"Fahalemem-panahy, fahononam-po; tsy misy lalàna manohitra izany.\""
-    },
-    {
-      "v": 24,
-      "text": "Fa izay an’i Kristy dia efa nanombo ny nofony mbamin’ny faniriany sy ny filàny tamin’ny hazofijaliana."
-    },
-    {
-      "v": 25,
-      "text": "Raha velona ao amin’ny Fanahy isika, dia aoka handeha araka ny Fanahy koa."
-    },
-    {
-      "v": 26,
-      "text": "Aoka isika tsy handrani-tena foana ka hifampihaika sy hifampialona."
-    }
-  ]
+  "verses": {
+    "1": "Tomoera tsara àry ao amin' ny fahafahana izay nanafahan' i Kristy antsika, fa aza mety hohazonin' ny ziogan' ny fanandevozana indray.",
+    "2": "Indro, izaho Paoly milaza aminareo fa raha mety hoforana ianareo, dia tsy hahasoa anareo akory Kristy.",
+    "3": "Ary lazaiko marina indray amin’ny olona manaiky hoforana rehetra fa mpitrosa tsy maintsy manatanteraka ny lalàna rehetra izy.",
+    "4": "Nanjary tsy nahasoa anareo Kristy, na iza na iza ianareo hamarinina amin’ny lalàna; fa lavo niala tamin’ny fahasoavana ianareo.",
+    "5": "Fa isika, amin’ny alalan’ny Fanahy no iandrasantsika ny fanantenan’ny fahamarinana amin’ny finoana.",
+    "6": "Fa ao amin’i Kristy Jesosy dia tsy mahasoa na ny famorana na ny tsy famorana, fa ny finoana izay miasa amin’ny fitiavana.",
+    "7": "Nihazakazaka tsara ianareo, iza no nisakana anareo tsy hankatò ny marina?",
+    "8": "Izany fitaomana izany dia tsy avy tamin’Ilay niantso anareo.",
+    "9": "Ny lalivay kely dia mahatonga ny vongana rehetra ho voalalivay avokoa.",
+    "10": "Matoky anareo ao amin’ny Tompo aho, fa tsy hisaina zavatra hafa akory ianareo; fa ilay mampitabataba anareo no hiharan’ny fanamelohana, na zovy na zovy izy.",
+    "11": "Fa izaho, ry rahalahy, raha mbola mitory ny famorana ihany, nahoana aho no mbola hiaritra fanenjehana? Dia mitsahatra ny fahatafintohinana noho ny hazofijaliana.",
+    "12": "Enga anie ka hiesotra izay mampitabataba anareo.",
+    "13": "Fa efa nantsoina ho amin’ny fahafahana ianareo, ry rahalahy; kanefa aoka tsy hoentinareo hanaraka ny nofo izany fahafahana izany, fa mifampanompoa amin’ny fitiavana.",
+    "14": "Fa tanteraka amin’ny teny iray ihany ny lalàna rehetra, dia izao: “Tiava ny namanao tahaka ny tenanao”",
+    "15": "Fa raha mifandramatra sy mifampihinana ianareo, tandremo fandrao mifandringana.",
+    "16": "Fa hoy aho: Mandehana araka ny Fanahy, dia tsy hahatanteraka ny filàn’ny nofo ianareo.",
+    "17": "Fa ny nofo manohitra ny Fanahy, ary ny Fanahy manohitra ny nofo; ary mifanohitra izy roroa, mba tsy ahazoanareo manao izay zavatra tianareo.",
+    "18": "Fa raha tarihin’ny Fanahy ianareo, dia tsy mba ambanin’ny lalàna.",
+    "19": "Fa miharihary ny asan’ny nofo dia izao: fijangajangana, fahavetavetana, fahalotoana, fijejojejoana,",
+    "20": "Fanompoan-tsampy, fanaovana ody ratsy, fankahalana, fifandirana, adi-lahy, fahatezerana, fifampiandaniana, fisarahana, fahadisoan-dalana amin' ny finoana,",
+    "21": "Fialonana, vonoana olona, fahamamoana, filalaovan-dratsy ary ny toy izany, izay lazaiko aminareo rahateo, tahaka ny voalazako fahiny koa, fa izay manao izany dia tsy handova ny fanjakan’Andriamanitra.",
+    "22": "Fa ny vokatry ny Fanahy kosa dia fitiavana, fifaliana, fiadanana, fahari-po, fahamoram-panahy, fahatsarana, finoana,",
+    "23": "Fahalemem-panahy, fahononam-po; tsy misy lalàna manohitra izany.",
+    "24": "Fa izay an’i Kristy dia efa nanombo ny nofony mbamin’ny faniriany sy ny filàny tamin’ny hazofijaliana.",
+    "25": "Raha velona ao amin’ny Fanahy isika, dia aoka handeha araka ny Fanahy koa.",
+    "26": "Aoka isika tsy handrani-tena foana ka hifampihaika sy hifampialona."
+  }
 }

@@ -1,177 +1,49 @@
 {
+  "book": "Asa",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary mbola nifofofofo fandrahonana sy famonoana tamin' ny mpianatry ny Tompo ihany Saoly, dia nankao amin' ny mpisoronabe izy,"
-    },
-    {
-      "v": 2,
-      "text": "Ka nangataka taratasy taminy ho any amin' ny synagoga any Damaskosy, mba hoentiny mifatotra ho any Jerosalema izay rehetra hitany momba izany fampianarana izany, na lahy na vavy."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary raha nandeha izy, dia tonga teo akaikin' i Damaskosy; ary nisy mazava avy tany an-danitra nanelatrelatra tampoka manodidina azy;\""
-    },
-    {
-      "v": 4,
-      "text": "Dia lavo tamin' ny tany izy ka nandre feo nanao taminy hoe: Saoly, Saoly, nahoana ianao no manenjika Ahy?"
-    },
-    {
-      "v": 5,
-      "text": "\"Ary hoy izy: Iza moa ianao Tompoko? Dia hoy ny Tompo: Izaho no Jesosy Izay enjehinao; sarotra aminao ny hanipaka ny fanindronana.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary nangovitra sady talanjona izy ka nanao hoe: Tompoko, inona no tianao hataoko? Ary hoy ny Tompo taminy: Mitsangàna, ka mankanesa any an-tanàna, dia holazaina aminao izay tsy maintsy hataonao."
-    },
-    {
-      "v": 7,
-      "text": "Ary ny olona izay nomba azy tamin' ny nalehany dia nitsangana tsy nahateny, ary nandre ny feo ireo, nefa tsy nahita olona."
-    },
-    {
-      "v": 8,
-      "text": "\"Dia nitsangana tamin' ny tany Saoly, ary rehefa nahirany ny masony, dia tsy nahita na iza na iza izy; fa nitantana azy ireo ka nitondra azy ho any Damaskosy.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary tsy nahita izy hateloana sady tsy nihinana na nisotro."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary nisy mpianatra anankiray tany Damaskosy, atao hoe Ananiasy; ary hoy ny Tompo taminy tamin'ny fahitana: Ry Ananiasy. Dia hoy izy: Indro, inty aho, Tompoko.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary hoy ny Tompo taminy: Mitsangàna, ka mandehana any amin' ny lalana atao hoe Imahitsy, ka izahao ao an-tranon' i Jodasy izay lehilahy atao hoe Saoly avy any Tarsosy; fa, indro, efa mivavaka izy.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary efa nahita tamin' ny fahitana lehilahy atao hoe Ananiasy izy, izay niditra ka nametra-tanana taminy, mba hahiratra indray ny masony."
-    },
-    {
-      "v": 13,
-      "text": "Ary namaly Ananiasy hoe: Tompoko, efa reko tamin' ny maro ny haben' ny ratsy nataon'izany lehilahy izany tamin' ny olonao masina tany Jerosalema."
-    },
-    {
-      "v": 14,
-      "text": "Ary manana fahefana aty koa avy tamin' ny mpisoronabe izy hamatotra izay rehetra miantso ny anaranao."
-    },
-    {
-      "v": 15,
-      "text": "\"Fa hoy ny Tompo taminy: Mandehana, fa fanaka voafidy ho Ahy izy hitondra ny anarako eo anatrehan' ny Jentilisa sy ny mpanjaka ary ny Zanak' Isiraely;\""
-    },
-    {
-      "v": 16,
-      "text": "Fa hasehoko azy ny habetsahan' ny zavatra tsy maintsy hiaretany noho ny anarako."
-    },
-    {
-      "v": 17,
-      "text": "Ary nandeha Ananiasy ka niditra tao an-trano, dia nametra-tanana taminy ka nanao hoe: Ry Saoly rahalahy, ny Tompo, dia Jesosy Izay niseho taminao teo amin' ny lalana nalehanao, no efa naniraka ahy, mba hahiratan' ny masonao indray, ary mba ho feno ny Fanahy Masina ianao."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary niaraka tamin' izay dia nisy zavatra toy ny kiran' ny hazandrano niala avy tamin' ny masony, dia nahiratra ny masony, ka nitsangana izy, ary natao batisa;\""
-    },
-    {
-      "v": 19,
-      "text": "Ary rehefa nihinan-kanina izy dia natanjaka.Ary nitoetra andro vitsivitsy teo amin' ny mpianatra tany Damaskosy Saoly."
-    },
-    {
-      "v": 20,
-      "text": "Ary niaraka tamin' izay izy dia nitory an' i Kristy teo amin' ny synagoga maro, fa Izy no Zanak'Andriamanitra."
-    },
-    {
-      "v": 21,
-      "text": "Ary talanjona izay rehetra nandre ka nanao hoe: Tsy ity lehilahy ity va ilay nandringana izay niantso izany anarana izany tany Jerosalema ary tonga aty koa izy mba hitondra azy mifatotra ho any amin' ny mpisoronabe?"
-    },
-    {
-      "v": 22,
-      "text": "Ary mainka nihahery Saoly, dia nandresy lahatra ny Jiosy izay nonina tany Damaskosy ka naneho marina fa Izy no Kristy."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary rehefa afaka andro maromaro, dia nihendry hamono azy ny Jiosy;\""
-    },
-    {
-      "v": 24,
-      "text": "Nefa fantatr' i Saoly ny fihendreny.Ary niambina ny vavahady andro aman' alina izy ireo hamonoany azy."
-    },
-    {
-      "v": 25,
-      "text": "Fa naka azy nony alina ny mpianatra ka nampidina azy tamin' ny sobiky avy teo amin' ny manda."
-    },
-    {
-      "v": 26,
-      "text": "\"Ary rehefa tonga tany Jerosalema Saoly, dia nitady hiray tamin' ny mpianatra; fa natahotra azy izy rehetra, ka tsy nino azy ho mpianatra.\""
-    },
-    {
-      "v": 27,
-      "text": "Fa Barnabasy naka azy ka nitondra azy ho any amin' ny apostoly, dia nanambara taminy ny nahitany ny Tompo sy ny nitenenany taminy teny an-dàlana ary ny nitoriany tamin' ny fahasahiana tamin' ny anaran' i Jesosy tany Damaskosy."
-    },
-    {
-      "v": 28,
-      "text": "Ary niara-niditra sy nivoaka tamin' ireo tany Jerosalema izy."
-    },
-    {
-      "v": 29,
-      "text": "\"Sady nanambara tamin' ny anaran' ny Tompo Jesosy tamin' ny fahasahiana izy, ary niady hevitra nanohitra ny Grika; fa ireo nitady hahafaty azy.\""
-    },
-    {
-      "v": 30,
-      "text": "Ary rehefa fantatry ny rahalahy izany, dia nentiny nidina nankany Kaisaria izy ka nampandehaniny ho any Tarsosy."
-    },
-    {
-      "v": 31,
-      "text": "Dia nanam-piadanana ny fiangonana eran' i Jodia sy Galilia ary Samaria rehetra, sady niorina tsara sy nandeha tamin' ny fahatahorana ny Tompo sy ny fampiononan' ny Fanahy Masina ka nihamaro."
-    },
-    {
-      "v": 32,
-      "text": "Ary izao no niseho, raha nandeha nitety ny tany rehetra Petera, dia nidina koa ho any amin' ny olona masina nonina tany Lyda."
-    },
-    {
-      "v": 33,
-      "text": "Ary nahita lehilahy anankiray teo izy, atao hoe Enea, izay efa narary valo taona teo am-parafara fa nararin' ny paralysisa mihovitrovitra."
-    },
-    {
-      "v": 34,
-      "text": "\"Ary hoy Petera taminy: Ry Enea, manasitrana anao tanteraka Jesosy Kristy; mitsangàna, ka amboary ny fandrianao.Dia nitsangana niaraka tamin' izay izy.\""
-    },
-    {
-      "v": 35,
-      "text": "Ary nahita azy izay rehetra nonina tany Lyda sy Sarôna, ka dia niverina ho amin' ny Tompo."
-    },
-    {
-      "v": 36,
-      "text": "\"Ary tany Jopa nisy vehivavy mpianatra atao hoe Tabita, izany hoe, raha adika, Dorkasy; ary be ny asa soa sy ny fiantrana izay nataon' izany vehivavy izany.\""
-    },
-    {
-      "v": 37,
-      "text": "\"Ary izao no niseho tamin' izany andro izany, narary izy ka dia maty; ary rehefa nampandroiny izy dia napetrany tao amin' ny efitrano ambony.\""
-    },
-    {
-      "v": 38,
-      "text": "Ary satria Lyda akaikin' i Jopa, ary nandre ny mpianatra fa efa tonga ao Petera, dia naniraka roa lahy izy ireo mba tsy hangatak' andro Petera ho tonga any aminy."
-    },
-    {
-      "v": 39,
-      "text": "\"Dia nitsangana Petera ka nandeha niaraka taminy.Ary nony tonga izy, dia nentiny tao an' efitrano ambony; ary ny mpitondratena rehetra nitsangana teo anilany ka nitomany sady nampiseho ny akanjo sy ny fitafiana izay nozairin' i Dorkasy fony teo aminy izy.\""
-    },
-    {
-      "v": 40,
-      "text": "\"Ary navoakan' i Petera avokoa izy rehetra, dia nandohalika izy ka nivavaka; ary nitodika nanatrika ny faty izy ka nanao hoe: Ry Tabita, mitsangàna.Dia nahirany ny masony; ary raha nahita an' i Petera izy, dia niarina.\""
-    },
-    {
-      "v": 41,
-      "text": "Ary nanolo-tanana azy Petera ka nanangana azy: ary rehefa niantso ny olona masina sy ny mpitondratena izy, dia nanolotra azy velona."
-    },
-    {
-      "v": 42,
-      "text": "Ary dia fantatra eran' i Jopa izany, ka maro no nino ny Tompo."
-    },
-    {
-      "v": 43,
-      "text": "Ary izao no niseho, nitoetra andro maromaro tany Jopa i Petera tao amin' i Simona mpandon-koditra."
-    }
-  ]
+  "verses": {
+    "1": "Ary mbola nifofofofo fandrahonana sy famonoana tamin' ny mpianatry ny Tompo ihany Saoly, dia nankao amin' ny mpisoronabe izy,",
+    "2": "Ka nangataka taratasy taminy ho any amin' ny synagoga any Damaskosy, mba hoentiny mifatotra ho any Jerosalema izay rehetra hitany momba izany fampianarana izany, na lahy na vavy.",
+    "3": "Ary raha nandeha izy, dia tonga teo akaikin' i Damaskosy; ary nisy mazava avy tany an-danitra nanelatrelatra tampoka manodidina azy;",
+    "4": "Dia lavo tamin' ny tany izy ka nandre feo nanao taminy hoe: Saoly, Saoly, nahoana ianao no manenjika Ahy?",
+    "5": "Ary hoy izy: Iza moa ianao Tompoko? Dia hoy ny Tompo: Izaho no Jesosy Izay enjehinao; sarotra aminao ny hanipaka ny fanindronana.",
+    "6": "Ary nangovitra sady talanjona izy ka nanao hoe: Tompoko, inona no tianao hataoko? Ary hoy ny Tompo taminy: Mitsangàna, ka mankanesa any an-tanàna, dia holazaina aminao izay tsy maintsy hataonao.",
+    "7": "Ary ny olona izay nomba azy tamin' ny nalehany dia nitsangana tsy nahateny, ary nandre ny feo ireo, nefa tsy nahita olona.",
+    "8": "Dia nitsangana tamin' ny tany Saoly, ary rehefa nahirany ny masony, dia tsy nahita na iza na iza izy; fa nitantana azy ireo ka nitondra azy ho any Damaskosy.",
+    "9": "Ary tsy nahita izy hateloana sady tsy nihinana na nisotro.",
+    "10": "Ary nisy mpianatra anankiray tany Damaskosy, atao hoe Ananiasy; ary hoy ny Tompo taminy tamin'ny fahitana: Ry Ananiasy. Dia hoy izy: Indro, inty aho, Tompoko.",
+    "11": "Ary hoy ny Tompo taminy: Mitsangàna, ka mandehana any amin' ny lalana atao hoe Imahitsy, ka izahao ao an-tranon' i Jodasy izay lehilahy atao hoe Saoly avy any Tarsosy; fa, indro, efa mivavaka izy.",
+    "12": "Ary efa nahita tamin' ny fahitana lehilahy atao hoe Ananiasy izy, izay niditra ka nametra-tanana taminy, mba hahiratra indray ny masony.",
+    "13": "Ary namaly Ananiasy hoe: Tompoko, efa reko tamin' ny maro ny haben' ny ratsy nataon'izany lehilahy izany tamin' ny olonao masina tany Jerosalema.",
+    "14": "Ary manana fahefana aty koa avy tamin' ny mpisoronabe izy hamatotra izay rehetra miantso ny anaranao.",
+    "15": "Fa hoy ny Tompo taminy: Mandehana, fa fanaka voafidy ho Ahy izy hitondra ny anarako eo anatrehan' ny Jentilisa sy ny mpanjaka ary ny Zanak' Isiraely;",
+    "16": "Fa hasehoko azy ny habetsahan' ny zavatra tsy maintsy hiaretany noho ny anarako.",
+    "17": "Ary nandeha Ananiasy ka niditra tao an-trano, dia nametra-tanana taminy ka nanao hoe: Ry Saoly rahalahy, ny Tompo, dia Jesosy Izay niseho taminao teo amin' ny lalana nalehanao, no efa naniraka ahy, mba hahiratan' ny masonao indray, ary mba ho feno ny Fanahy Masina ianao.",
+    "18": "Ary niaraka tamin' izay dia nisy zavatra toy ny kiran' ny hazandrano niala avy tamin' ny masony, dia nahiratra ny masony, ka nitsangana izy, ary natao batisa;",
+    "19": "Ary rehefa nihinan-kanina izy dia natanjaka.Ary nitoetra andro vitsivitsy teo amin' ny mpianatra tany Damaskosy Saoly.",
+    "20": "Ary niaraka tamin' izay izy dia nitory an' i Kristy teo amin' ny synagoga maro, fa Izy no Zanak'Andriamanitra.",
+    "21": "Ary talanjona izay rehetra nandre ka nanao hoe: Tsy ity lehilahy ity va ilay nandringana izay niantso izany anarana izany tany Jerosalema ary tonga aty koa izy mba hitondra azy mifatotra ho any amin' ny mpisoronabe?",
+    "22": "Ary mainka nihahery Saoly, dia nandresy lahatra ny Jiosy izay nonina tany Damaskosy ka naneho marina fa Izy no Kristy.",
+    "23": "Ary rehefa afaka andro maromaro, dia nihendry hamono azy ny Jiosy;",
+    "24": "Nefa fantatr' i Saoly ny fihendreny.Ary niambina ny vavahady andro aman' alina izy ireo hamonoany azy.",
+    "25": "Fa naka azy nony alina ny mpianatra ka nampidina azy tamin' ny sobiky avy teo amin' ny manda.",
+    "26": "Ary rehefa tonga tany Jerosalema Saoly, dia nitady hiray tamin' ny mpianatra; fa natahotra azy izy rehetra, ka tsy nino azy ho mpianatra.",
+    "27": "Fa Barnabasy naka azy ka nitondra azy ho any amin' ny apostoly, dia nanambara taminy ny nahitany ny Tompo sy ny nitenenany taminy teny an-dàlana ary ny nitoriany tamin' ny fahasahiana tamin' ny anaran' i Jesosy tany Damaskosy.",
+    "28": "Ary niara-niditra sy nivoaka tamin' ireo tany Jerosalema izy.",
+    "29": "Sady nanambara tamin' ny anaran' ny Tompo Jesosy tamin' ny fahasahiana izy, ary niady hevitra nanohitra ny Grika; fa ireo nitady hahafaty azy.",
+    "30": "Ary rehefa fantatry ny rahalahy izany, dia nentiny nidina nankany Kaisaria izy ka nampandehaniny ho any Tarsosy.",
+    "31": "Dia nanam-piadanana ny fiangonana eran' i Jodia sy Galilia ary Samaria rehetra, sady niorina tsara sy nandeha tamin' ny fahatahorana ny Tompo sy ny fampiononan' ny Fanahy Masina ka nihamaro.",
+    "32": "Ary izao no niseho, raha nandeha nitety ny tany rehetra Petera, dia nidina koa ho any amin' ny olona masina nonina tany Lyda.",
+    "33": "Ary nahita lehilahy anankiray teo izy, atao hoe Enea, izay efa narary valo taona teo am-parafara fa nararin' ny paralysisa mihovitrovitra.",
+    "34": "Ary hoy Petera taminy: Ry Enea, manasitrana anao tanteraka Jesosy Kristy; mitsangàna, ka amboary ny fandrianao.Dia nitsangana niaraka tamin' izay izy.",
+    "35": "Ary nahita azy izay rehetra nonina tany Lyda sy Sarôna, ka dia niverina ho amin' ny Tompo.",
+    "36": "Ary tany Jopa nisy vehivavy mpianatra atao hoe Tabita, izany hoe, raha adika, Dorkasy; ary be ny asa soa sy ny fiantrana izay nataon' izany vehivavy izany.",
+    "37": "Ary izao no niseho tamin' izany andro izany, narary izy ka dia maty; ary rehefa nampandroiny izy dia napetrany tao amin' ny efitrano ambony.",
+    "38": "Ary satria Lyda akaikin' i Jopa, ary nandre ny mpianatra fa efa tonga ao Petera, dia naniraka roa lahy izy ireo mba tsy hangatak' andro Petera ho tonga any aminy.",
+    "39": "Dia nitsangana Petera ka nandeha niaraka taminy.Ary nony tonga izy, dia nentiny tao an' efitrano ambony; ary ny mpitondratena rehetra nitsangana teo anilany ka nitomany sady nampiseho ny akanjo sy ny fitafiana izay nozairin' i Dorkasy fony teo aminy izy.",
+    "40": "Ary navoakan' i Petera avokoa izy rehetra, dia nandohalika izy ka nivavaka; ary nitodika nanatrika ny faty izy ka nanao hoe: Ry Tabita, mitsangàna.Dia nahirany ny masony; ary raha nahita an' i Petera izy, dia niarina.",
+    "41": "Ary nanolo-tanana azy Petera ka nanangana azy: ary rehefa niantso ny olona masina sy ny mpitondratena izy, dia nanolotra azy velona.",
+    "42": "Ary dia fantatra eran' i Jopa izany, ka maro no nino ny Tompo.",
+    "43": "Ary izao no niseho, nitoetra andro maromaro tany Jopa i Petera tao amin' i Simona mpandon-koditra."
+  }
 }

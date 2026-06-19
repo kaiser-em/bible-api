@@ -1,157 +1,44 @@
 {
+  "book": "Jeremia",
   "chapter": 25,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Izao no teny tonga tamin' i Jeremia ny amin' ny firenen' ny Joda rehetra tamin' ny taona fahefatra nanjakan' i Joiakima, zanak' i Josia mpanjakan' ny Joda, dia ny taona voalohany nanjakan' i Nebokadnezara, mpanjakan' i Babylona;\""
-    },
-    {
-      "v": 2,
-      "text": "Dia izay nolazain' i Jeremia mpaminany tamin' ny Joda rehetra sy tamin' ny mponina rehetra tany Jerosalema hoe:"
-    },
-    {
-      "v": 3,
-      "text": "\"Hatramin' ny taona fahatelo ambin' ny folo nanjakan' i Josia, zanak' i Amona, mpanjakan' ny Joda, ka mandraka androany, dia mandritra ny telo amby roapolo taona izao, no nahatongavan' ny tenin' i Jehovah tamiko, ary nolazaiko taminareo, eny, nifoha maraina koa aho ka nilaza; nefa tsy nihaino ianareo.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary Jehovah naniraka ny mpaminany mpanompony rehetra ho any aminareo, eny, nifoha maraina koa Izy ka naniraka, nefa tsy nihaino ianareo, na nanongilan-tsofina hihaino."
-    },
-    {
-      "v": 5,
-      "text": "Hoy izy ireo: Samia miala amin' ny lalan-dratsiny avy indray ianareo ankehitriny, sy amin' ny ratsy fanaonareo, ka dia honina any amin' ny tany izay nomen' i Jehovah anareo sy ny razanareo mandrakizay mandrakizay."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary aza manaraka andriamani-kafa hanompo azy sy hiankohoka eo anatrehany, ary aza mampahatezitra Ahy amin' ny asan' ny tananareo; dia tsy hahatonga loza aminareo aho;\""
-    },
-    {
-      "v": 7,
-      "text": "Nefa tsy nihaino ahy ianareo, hoy Jehovah, mba hampahatezeranareo Ahy amin' ny asan' ny tananareo hahitanareo loza."
-    },
-    {
-      "v": 8,
-      "text": "Koa izao no lazain' i Jehovah Tompon' ny maro: Noho ny tsy nihainoanareo ny teniko,"
-    },
-    {
-      "v": 9,
-      "text": "Indro, hampanalaiko ny fianakaviana rehetra any avaratra sy Nebokadnezara mpanjakan' i Babylona mpanompoko, hoy Jehovah, ary hoentiko hamely ity tany ity sy ny mponina eto mbamin' ireto firenena manodidina rehetra ireto izy, ary haringako tanteraka ireo ka hataoko ho figagàna sy zavatra mampisitrisitra sady ho rava mandrakizay."
-    },
-    {
-      "v": 10,
-      "text": "Ary hatsahatro eo aminy koa ny feo mifaly sy ny feo miravoravo, dia ny feon' ny mpampakatra sy ny feon' ny ampakarina, ny feon' ny vato fikosoham-barimbazaha ary ny fahazavan' ny jiro."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary ity tany rehetra ity dia ho foana sy ho fitalanjonana, ary ireto firenena rehetra ireto hanompo ny mpanjakan' i Babylona fitopolo taona;\""
-    },
-    {
-      "v": 12,
-      "text": "Ary izao no hiseho, rehefa tapitra ny fitopolo taona, hoy Jehovah, dia hovaliako ny mpanjakan' i Babylona sy izany firenena izany noho ny helony, ary ny tanin' ny Kaldeana dia hataoko rava mandrakizay."
-    },
-    {
-      "v": 13,
-      "text": "Ary hotoviko amin' izany tany izany ny teniko rehetra, izay efa nambarako hamelezana azy, dia izay rehetra voasoratra ato amin' ity boky ity, izay novinanian' i Jeremia hamely ny firenena rehetra."
-    },
-    {
-      "v": 14,
-      "text": "\"Fa ireo kosa indray dia hampanompoin' ny firenena maro sy ny mpanjaka lehibe; ary hovaliako araka ny ataony sy araka ny asan' ny tanany avy izy.\""
-    },
-    {
-      "v": 15,
-      "text": "Fa izao no lazain' i Jehovah, Andriamanitry ny Isiraely, amiko: Raiso ety an-tanako ity kapoaky ny divain' ny fahatezerana mirehitra ity, ka ampisotroy ny firenena rehetra izay anirahako anao."
-    },
-    {
-      "v": 16,
-      "text": "Ary hisotro izy ka hirepirepy sy ho very saina noho ny sabatra izay alefako eo aminy."
-    },
-    {
-      "v": 17,
-      "text": "Dia noraisiko ny kapoaka teny an-tanan' i Jehovah ka nampisotroiko ny firenena rehetra izay nanirahan' i Jehovah ahy,"
-    },
-    {
-      "v": 18,
-      "text": "\"Dia Jerosalema sy ny tanànan' ny Joda sy ny mpanjakany ary ny mpanapaka, mba hanao azy ho tany lao sy ho figagàna sy zavatra mampisitrisitra ary fanozonana tahaka ny amin' izao anio izao;\""
-    },
-    {
-      "v": 19,
-      "text": "Farao, mpanjakan' i Egypta, sy ny mpanompony sy ny mpanapaka mbamin' ny vahoakany rehetra,"
-    },
-    {
-      "v": 20,
-      "text": "\"Ary ny olona samy hafa firenena rehetra amin' ny tany Oza sy ny mpanjaka rehetra amin' ny tanin' ny Filistina sy Askelona sy Gaza sy Ekrona ary ny sisa any Asdoda;\""
-    },
-    {
-      "v": 21,
-      "text": "Ary Edoma sy Moaba sy ny taranak' i Amona,"
-    },
-    {
-      "v": 22,
-      "text": "\"Ary ny mpanjaka rehetra any Tyro sy ny mpanjaka rehetra any Sidona ary ny mpanjakan' ny nosy any an-dafin' ny ranomasina;\""
-    },
-    {
-      "v": 23,
-      "text": "Ary Dedana sy Tema sy Boza ary izay rehetra any am-paran' ny tany,"
-    },
-    {
-      "v": 24,
-      "text": "\"Ary ny mpanjaka rehetra any Arabia sy ny mpanjaka rehetra amin' ny firenena maro samy hafa izay monina any an' efitra;\""
-    },
-    {
-      "v": 25,
-      "text": "Ary ny mpanjaka rehetra any Zimry sy ny mpanjaka rehetra any Elama ary ny mpanjaka rehetra any Media,"
-    },
-    {
-      "v": 26,
-      "text": "\"Ary ny mpanjaka rehetra any avaratra, na ny lavitra na ny akaiky, na iza na iza, ary ny fanjakana rehetra amin' izao tontolo izao, izay ety ambonin' ny tany; ary ny mpanjakan' i Sesaka koa dia hisotro manaraka ireo.\""
-    },
-    {
-      "v": 27,
-      "text": "Koa lazao aminy hoe: Izao no lazain' i Jehovah Tompon' ny maro, Andriamanitry ny Isiraely: Misotroa ianareo, ka mimamoa, sy mandoava, ary mianjerà, ka aza miarina intsony noho ny sabatra izay halefako aminareo."
-    },
-    {
-      "v": 28,
-      "text": "Ary izao no hisy, raha tsy mety mandray ny kapoaka eny an-tananao hosotroiny izy, dia ataovy aminy hoe: Izao no lazain' i Jehovah, Tompon' ny maro: Tsy maintsy misotro ianareo."
-    },
-    {
-      "v": 29,
-      "text": "Fa, indro, ao amin' ny tanàna izay antsoina amin' ny anarako no anombohako hitondrana loza, ka tsy tokony hofaizina tokoa va ianareo? Hofaizina tokoa ianareo fa hiantso sabatra Aho ho amin' ny mponina rehetra amin' ny tany, hoy Jehovah, Tompon' ny maro."
-    },
-    {
-      "v": 30,
-      "text": "\"Koa maminania aminy ianao araka izao teny rehetra izao ka ataovy aminy hoe: Jehovah hierona avy any ambony ary hanandratra ny feony avy any amin' ny fitoerany masina; hierona mafy eo amin' ny fonenany Izy, ka hanakora toy ny mpanosihosy voaloboka, hamelezana ny mponina rehetra amin' ny tany.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Hihatra amin' ny faran' ny tany ny fihorakorahana; fa manana ady amin' ny firenena Jehovah; hifandahatra amin' ny nofo rehetra Izy, ny ratsy fanahy dia hatolony ho an' ny sabatra, hoy Jehovah.\""
-    },
-    {
-      "v": 32,
-      "text": "Izao no lazain' i Jehovah Tompon' ny maro: Indro, hisy loza hivoaka hitety ny firenena samy hafa, ary hisy tadio mahery hiposaka avy any amin' ny faran' ny tany."
-    },
-    {
-      "v": 33,
-      "text": "\"Ary amin' izany andro izany, ny voavonon' i Jehovah dia hiampatrampatra hatramin' ny faran' ny tany anankiray ka hatramin' ny ilany koa; tsy hitomaniana, na hangonina, na halevina ireny; fa ho zezika eny ambonin' ny tany.\""
-    },
-    {
-      "v": 34,
-      "text": "\"Midradradradrà ianareo mpiandry ondry, ary mitarainà; ary mihosinkosena ao amin' ny lavenona ianareo lehibe amin' ny ondry! Fa tonga ny andro hamonoana anareo sy hampielezana anareo; ka hianjera toy ny fanaka tsara ianareo.\""
-    },
-    {
-      "v": 35,
-      "text": "Ary ny mpiandry ondry tsy hanana lalana handosirana ary ny zokiny amin' ny ondry tsy hanam-pahafahana."
-    },
-    {
-      "v": 36,
-      "text": "Ho re ny feo fitarainan' ny mpiandry ondry sy ny fidradradradran' ny lehibe amin' ny ondry satria efa nosimban' i Jehovah ny saha fiandrasana azy."
-    },
-    {
-      "v": 37,
-      "text": "Ary rava ny fonenam-piadanana noho ny firehetan' ny fahatezeran' i Jehovah."
-    },
-    {
-      "v": 38,
-      "text": "\"Nandao ny fiereny toy ny liona izy; fa efa lao ny taniny noho ny fahasiahan' ny mpampahory sy noho ny firehetan' ny fahatezerany.\""
-    }
-  ]
+  "verses": {
+    "1": "Izao no teny tonga tamin' i Jeremia ny amin' ny firenen' ny Joda rehetra tamin' ny taona fahefatra nanjakan' i Joiakima, zanak' i Josia mpanjakan' ny Joda, dia ny taona voalohany nanjakan' i Nebokadnezara, mpanjakan' i Babylona;",
+    "2": "Dia izay nolazain' i Jeremia mpaminany tamin' ny Joda rehetra sy tamin' ny mponina rehetra tany Jerosalema hoe:",
+    "3": "Hatramin' ny taona fahatelo ambin' ny folo nanjakan' i Josia, zanak' i Amona, mpanjakan' ny Joda, ka mandraka androany, dia mandritra ny telo amby roapolo taona izao, no nahatongavan' ny tenin' i Jehovah tamiko, ary nolazaiko taminareo, eny, nifoha maraina koa aho ka nilaza; nefa tsy nihaino ianareo.",
+    "4": "Ary Jehovah naniraka ny mpaminany mpanompony rehetra ho any aminareo, eny, nifoha maraina koa Izy ka naniraka, nefa tsy nihaino ianareo, na nanongilan-tsofina hihaino.",
+    "5": "Hoy izy ireo: Samia miala amin' ny lalan-dratsiny avy indray ianareo ankehitriny, sy amin' ny ratsy fanaonareo, ka dia honina any amin' ny tany izay nomen' i Jehovah anareo sy ny razanareo mandrakizay mandrakizay.",
+    "6": "Ary aza manaraka andriamani-kafa hanompo azy sy hiankohoka eo anatrehany, ary aza mampahatezitra Ahy amin' ny asan' ny tananareo; dia tsy hahatonga loza aminareo aho;",
+    "7": "Nefa tsy nihaino ahy ianareo, hoy Jehovah, mba hampahatezeranareo Ahy amin' ny asan' ny tananareo hahitanareo loza.",
+    "8": "Koa izao no lazain' i Jehovah Tompon' ny maro: Noho ny tsy nihainoanareo ny teniko,",
+    "9": "Indro, hampanalaiko ny fianakaviana rehetra any avaratra sy Nebokadnezara mpanjakan' i Babylona mpanompoko, hoy Jehovah, ary hoentiko hamely ity tany ity sy ny mponina eto mbamin' ireto firenena manodidina rehetra ireto izy, ary haringako tanteraka ireo ka hataoko ho figagàna sy zavatra mampisitrisitra sady ho rava mandrakizay.",
+    "10": "Ary hatsahatro eo aminy koa ny feo mifaly sy ny feo miravoravo, dia ny feon' ny mpampakatra sy ny feon' ny ampakarina, ny feon' ny vato fikosoham-barimbazaha ary ny fahazavan' ny jiro.",
+    "11": "Ary ity tany rehetra ity dia ho foana sy ho fitalanjonana, ary ireto firenena rehetra ireto hanompo ny mpanjakan' i Babylona fitopolo taona;",
+    "12": "Ary izao no hiseho, rehefa tapitra ny fitopolo taona, hoy Jehovah, dia hovaliako ny mpanjakan' i Babylona sy izany firenena izany noho ny helony, ary ny tanin' ny Kaldeana dia hataoko rava mandrakizay.",
+    "13": "Ary hotoviko amin' izany tany izany ny teniko rehetra, izay efa nambarako hamelezana azy, dia izay rehetra voasoratra ato amin' ity boky ity, izay novinanian' i Jeremia hamely ny firenena rehetra.",
+    "14": "Fa ireo kosa indray dia hampanompoin' ny firenena maro sy ny mpanjaka lehibe; ary hovaliako araka ny ataony sy araka ny asan' ny tanany avy izy.",
+    "15": "Fa izao no lazain' i Jehovah, Andriamanitry ny Isiraely, amiko: Raiso ety an-tanako ity kapoaky ny divain' ny fahatezerana mirehitra ity, ka ampisotroy ny firenena rehetra izay anirahako anao.",
+    "16": "Ary hisotro izy ka hirepirepy sy ho very saina noho ny sabatra izay alefako eo aminy.",
+    "17": "Dia noraisiko ny kapoaka teny an-tanan' i Jehovah ka nampisotroiko ny firenena rehetra izay nanirahan' i Jehovah ahy,",
+    "18": "Dia Jerosalema sy ny tanànan' ny Joda sy ny mpanjakany ary ny mpanapaka, mba hanao azy ho tany lao sy ho figagàna sy zavatra mampisitrisitra ary fanozonana tahaka ny amin' izao anio izao;",
+    "19": "Farao, mpanjakan' i Egypta, sy ny mpanompony sy ny mpanapaka mbamin' ny vahoakany rehetra,",
+    "20": "Ary ny olona samy hafa firenena rehetra amin' ny tany Oza sy ny mpanjaka rehetra amin' ny tanin' ny Filistina sy Askelona sy Gaza sy Ekrona ary ny sisa any Asdoda;",
+    "21": "Ary Edoma sy Moaba sy ny taranak' i Amona,",
+    "22": "Ary ny mpanjaka rehetra any Tyro sy ny mpanjaka rehetra any Sidona ary ny mpanjakan' ny nosy any an-dafin' ny ranomasina;",
+    "23": "Ary Dedana sy Tema sy Boza ary izay rehetra any am-paran' ny tany,",
+    "24": "Ary ny mpanjaka rehetra any Arabia sy ny mpanjaka rehetra amin' ny firenena maro samy hafa izay monina any an' efitra;",
+    "25": "Ary ny mpanjaka rehetra any Zimry sy ny mpanjaka rehetra any Elama ary ny mpanjaka rehetra any Media,",
+    "26": "Ary ny mpanjaka rehetra any avaratra, na ny lavitra na ny akaiky, na iza na iza, ary ny fanjakana rehetra amin' izao tontolo izao, izay ety ambonin' ny tany; ary ny mpanjakan' i Sesaka koa dia hisotro manaraka ireo.",
+    "27": "Koa lazao aminy hoe: Izao no lazain' i Jehovah Tompon' ny maro, Andriamanitry ny Isiraely: Misotroa ianareo, ka mimamoa, sy mandoava, ary mianjerà, ka aza miarina intsony noho ny sabatra izay halefako aminareo.",
+    "28": "Ary izao no hisy, raha tsy mety mandray ny kapoaka eny an-tananao hosotroiny izy, dia ataovy aminy hoe: Izao no lazain' i Jehovah, Tompon' ny maro: Tsy maintsy misotro ianareo.",
+    "29": "Fa, indro, ao amin' ny tanàna izay antsoina amin' ny anarako no anombohako hitondrana loza, ka tsy tokony hofaizina tokoa va ianareo? Hofaizina tokoa ianareo fa hiantso sabatra Aho ho amin' ny mponina rehetra amin' ny tany, hoy Jehovah, Tompon' ny maro.",
+    "30": "Koa maminania aminy ianao araka izao teny rehetra izao ka ataovy aminy hoe: Jehovah hierona avy any ambony ary hanandratra ny feony avy any amin' ny fitoerany masina; hierona mafy eo amin' ny fonenany Izy, ka hanakora toy ny mpanosihosy voaloboka, hamelezana ny mponina rehetra amin' ny tany.",
+    "31": "Hihatra amin' ny faran' ny tany ny fihorakorahana; fa manana ady amin' ny firenena Jehovah; hifandahatra amin' ny nofo rehetra Izy, ny ratsy fanahy dia hatolony ho an' ny sabatra, hoy Jehovah.",
+    "32": "Izao no lazain' i Jehovah Tompon' ny maro: Indro, hisy loza hivoaka hitety ny firenena samy hafa, ary hisy tadio mahery hiposaka avy any amin' ny faran' ny tany.",
+    "33": "Ary amin' izany andro izany, ny voavonon' i Jehovah dia hiampatrampatra hatramin' ny faran' ny tany anankiray ka hatramin' ny ilany koa; tsy hitomaniana, na hangonina, na halevina ireny; fa ho zezika eny ambonin' ny tany.",
+    "34": "Midradradradrà ianareo mpiandry ondry, ary mitarainà; ary mihosinkosena ao amin' ny lavenona ianareo lehibe amin' ny ondry! Fa tonga ny andro hamonoana anareo sy hampielezana anareo; ka hianjera toy ny fanaka tsara ianareo.",
+    "35": "Ary ny mpiandry ondry tsy hanana lalana handosirana ary ny zokiny amin' ny ondry tsy hanam-pahafahana.",
+    "36": "Ho re ny feo fitarainan' ny mpiandry ondry sy ny fidradradradran' ny lehibe amin' ny ondry satria efa nosimban' i Jehovah ny saha fiandrasana azy.",
+    "37": "Ary rava ny fonenam-piadanana noho ny firehetan' ny fahatezeran' i Jehovah.",
+    "38": "Nandao ny fiereny toy ny liona izy; fa efa lao ny taniny noho ny fahasiahan' ny mpampahory sy noho ny firehetan' ny fahatezerany."
+  }
 }

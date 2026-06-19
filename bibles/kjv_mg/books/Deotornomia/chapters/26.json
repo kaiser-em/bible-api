@@ -1,81 +1,25 @@
 {
+  "book": "Deotornomia",
   "chapter": 26,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary izao no hisy, rehefa tonga ao amin' ny tany izay omen' i Jehovah Andriamanitrao ho lovanao ianao ka hanana izany sady honina ao;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Dia analao ny voaloham-bokatra rehetra amin' ny tany, izay alainao avy amin' ny taninao, izay omen' i Jehovah Andriamanitrao anao, ka ataovy an-karona; ary mankanesa ho any amin' ny toerana izay hofidin' i Jehovah Andriamanitrao hampitoerana ny anarany.\""
-    },
-    {
-      "v": 3,
-      "text": "Dia mankanesa amin' ny mpisorona amin' izany andro izany, ka lazao aminy hoe: Manambara amin' i Jehovah Andriamanitrao aho anio fa tonga eto amin' ny tany izay nianianan' i Jehovah tamin' ny razan-tsika homeny antsika."
-    },
-    {
-      "v": 4,
-      "text": "Dia horaisin' ny mpisorona eny an-tananao ny harona ka hapetrany eo anoloan' ny alitaran' i Jehovah Andriamanitrao."
-    },
-    {
-      "v": 5,
-      "text": "Dia hiteny eo anatrehan' i Jehovah Andriamanitrao ianao ka hanao hoe: Syriana efa saiky maty ny raiko, ka nidina tany Egypta izy, dia nivahiny tany mbamin' ny olom-bitsy, ary tany izy no tonga firenena lehibe sy mahery sady maro an' isa."
-    },
-    {
-      "v": 6,
-      "text": "Ary nanao ratsy tamintsika ny Egyptiana ka nampahory antsika sy nampanao antsika fanompoana mafy."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary rehefa nitaraina tamin' i Jehovah Andriamanitry ny razantsika isika, dia nihaino ny feontsika Jehovah ka nijery ny alahelontsika sy ny asantsika ary ny fahoriantsika;\""
-    },
-    {
-      "v": 8,
-      "text": "Ary tanana mahery sy sandry nahinjitra sy fampahatahorana lehibe sy famantarana ary fahagagana no nitondran' i Jehovah antsika nivoaka avy tany Egypta,"
-    },
-    {
-      "v": 9,
-      "text": "Dia nitondra antsika niditra teto amin' ity toerana ity Izy ka nanome antsika ity tany ity, dia tany tondra-dronono sy tantely."
-    },
-    {
-      "v": 10,
-      "text": "Ary ankehitriny, indro, efa nentiko ny voaloham-bokatra amin' ny tany izay nomenao ahy, Jehovah ô. Dia avelao eo anatrehan' i Jehovah Andriamanitrao izany ka miankohofa eo anatrehan' i Jehovah Andriamanitrao."
-    },
-    {
-      "v": 11,
-      "text": "Ary mifalia amin' ny soa rehetra izay nomen' i Jehovah Andriamanitrao anao sy ny ankohonanao, dia ianao sy ny Levita mbamin' ny vahiny eo aminao."
-    },
-    {
-      "v": 12,
-      "text": "\"Rehefa voangonao ny ampahafolony rehetra avy amin' ny vokatrao amin' ny taona fahatelo, izay taona fanangonana ny ampahafolony ka nomenao ny Levita sy ny vahiny sy ny kamboty ary ny mpitondratena izany, mba hohaniny eo am-bavahadinao ka ho voky izy;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Dia lazao eo anatrehan' i Jehovah Andriamanitrao hoe: Efa navoakako avokoa ny zava-masina tao an-tranoko ary koa nomeko ny Levita sy ny vahiny sy ny kamboty ary ny mpitondratena, araka ny didinao rehetra izay nandidianao ahy; tsy nandika ny didinao aho na nanadino izany.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Tsy nisy nohaniko teo amin' ny fisaonako izany, na nentiko nivoaka teo amin' ny fahalotoako, na nataoko fahan-kanina noho ny maty; fa efa nihaino ny feon' i Jehovah Andriamanitro aho ka nanao araka izay rehetra nandidianao ahy.\""
-    },
-    {
-      "v": 15,
-      "text": "Tsinjovy ao amin' ny fonenanao masina avy any an-danitra, ka tahio ny Isiraely olonao sy ny tany izay nomenao anay araka izay nianiananao tamin' ny razanay, dia tany tondra-dronono sy tantely."
-    },
-    {
-      "v": 16,
-      "text": "\"Anio no andidian' i Jehovah Andriamanitrao anao hanaraka ireo didy sy fitsipika ireo; koa tandremo sy araho amin' ny fonao rehetra sy ny fanahinao rehetra ireo.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Efa nampiteny an' i Jehovah ianao androany fa ho Andriamanitrao Izy, ka handeha amin' ny lalany sy ny hitandrina ny lalàny sy ny didiny ary ny fitsipiny ianao ary hihaino ny feony;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary Jehovah kosa efa nampiteny anao androany fa firenena manokana ho azy ianao, araka izay nampanantenainy anao, mba hitandremanao ny didiny rehetra;\""
-    },
-    {
-      "v": 19,
-      "text": "\"Sy hanandratany anao ho ambonin' ny firenena rehetra izay nataony, ho fiderana sy ho anarana ary ho voninahitra; ary mba ho firenena masina ho an' i Jehovah Andriamanitrao ianao, araka izay nolazainy.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no hisy, rehefa tonga ao amin' ny tany izay omen' i Jehovah Andriamanitrao ho lovanao ianao ka hanana izany sady honina ao;",
+    "2": "Dia analao ny voaloham-bokatra rehetra amin' ny tany, izay alainao avy amin' ny taninao, izay omen' i Jehovah Andriamanitrao anao, ka ataovy an-karona; ary mankanesa ho any amin' ny toerana izay hofidin' i Jehovah Andriamanitrao hampitoerana ny anarany.",
+    "3": "Dia mankanesa amin' ny mpisorona amin' izany andro izany, ka lazao aminy hoe: Manambara amin' i Jehovah Andriamanitrao aho anio fa tonga eto amin' ny tany izay nianianan' i Jehovah tamin' ny razan-tsika homeny antsika.",
+    "4": "Dia horaisin' ny mpisorona eny an-tananao ny harona ka hapetrany eo anoloan' ny alitaran' i Jehovah Andriamanitrao.",
+    "5": "Dia hiteny eo anatrehan' i Jehovah Andriamanitrao ianao ka hanao hoe: Syriana efa saiky maty ny raiko, ka nidina tany Egypta izy, dia nivahiny tany mbamin' ny olom-bitsy, ary tany izy no tonga firenena lehibe sy mahery sady maro an' isa.",
+    "6": "Ary nanao ratsy tamintsika ny Egyptiana ka nampahory antsika sy nampanao antsika fanompoana mafy.",
+    "7": "Ary rehefa nitaraina tamin' i Jehovah Andriamanitry ny razantsika isika, dia nihaino ny feontsika Jehovah ka nijery ny alahelontsika sy ny asantsika ary ny fahoriantsika;",
+    "8": "Ary tanana mahery sy sandry nahinjitra sy fampahatahorana lehibe sy famantarana ary fahagagana no nitondran' i Jehovah antsika nivoaka avy tany Egypta,",
+    "9": "Dia nitondra antsika niditra teto amin' ity toerana ity Izy ka nanome antsika ity tany ity, dia tany tondra-dronono sy tantely.",
+    "10": "Ary ankehitriny, indro, efa nentiko ny voaloham-bokatra amin' ny tany izay nomenao ahy, Jehovah ô. Dia avelao eo anatrehan' i Jehovah Andriamanitrao izany ka miankohofa eo anatrehan' i Jehovah Andriamanitrao.",
+    "11": "Ary mifalia amin' ny soa rehetra izay nomen' i Jehovah Andriamanitrao anao sy ny ankohonanao, dia ianao sy ny Levita mbamin' ny vahiny eo aminao.",
+    "12": "Rehefa voangonao ny ampahafolony rehetra avy amin' ny vokatrao amin' ny taona fahatelo, izay taona fanangonana ny ampahafolony ka nomenao ny Levita sy ny vahiny sy ny kamboty ary ny mpitondratena izany, mba hohaniny eo am-bavahadinao ka ho voky izy;",
+    "13": "Dia lazao eo anatrehan' i Jehovah Andriamanitrao hoe: Efa navoakako avokoa ny zava-masina tao an-tranoko ary koa nomeko ny Levita sy ny vahiny sy ny kamboty ary ny mpitondratena, araka ny didinao rehetra izay nandidianao ahy; tsy nandika ny didinao aho na nanadino izany.",
+    "14": "Tsy nisy nohaniko teo amin' ny fisaonako izany, na nentiko nivoaka teo amin' ny fahalotoako, na nataoko fahan-kanina noho ny maty; fa efa nihaino ny feon' i Jehovah Andriamanitro aho ka nanao araka izay rehetra nandidianao ahy.",
+    "15": "Tsinjovy ao amin' ny fonenanao masina avy any an-danitra, ka tahio ny Isiraely olonao sy ny tany izay nomenao anay araka izay nianiananao tamin' ny razanay, dia tany tondra-dronono sy tantely.",
+    "16": "Anio no andidian' i Jehovah Andriamanitrao anao hanaraka ireo didy sy fitsipika ireo; koa tandremo sy araho amin' ny fonao rehetra sy ny fanahinao rehetra ireo.",
+    "17": "Efa nampiteny an' i Jehovah ianao androany fa ho Andriamanitrao Izy, ka handeha amin' ny lalany sy ny hitandrina ny lalàny sy ny didiny ary ny fitsipiny ianao ary hihaino ny feony;",
+    "18": "Ary Jehovah kosa efa nampiteny anao androany fa firenena manokana ho azy ianao, araka izay nampanantenainy anao, mba hitandremanao ny didiny rehetra;",
+    "19": "Sy hanandratany anao ho ambonin' ny firenena rehetra izay nataony, ho fiderana sy ho anarana ary ho voninahitra; ary mba ho firenena masina ho an' i Jehovah Andriamanitrao ianao, araka izay nolazainy."
+  }
 }

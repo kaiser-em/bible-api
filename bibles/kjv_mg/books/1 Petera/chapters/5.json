@@ -1,61 +1,20 @@
 {
+  "book": "1 Petera",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Koa ny amin’ny loholona izay eo aminareo, izaho, izay naman’ny loholona sy vavolombelon’ny fijalian’i Kristy ary mpiombona ny voninahitra efa haseho koa, dia mananatra azy hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Fahano ny ondrin’Andriamanitra izay eo aminareo, mitandrina azy tsy an-tery, fa an-tsitrapo, tsy amin’ny fitiavana harena maloto, fa amin’ny zotom-panahy;\""
-    },
-    {
-      "v": 3,
-      "text": "Tsy ho mpanjakazaka amin’ny lovan’Andriamanitra, fa ho fianaran’ny ondry."
-    },
-    {
-      "v": 4,
-      "text": "Ary rehefa hiseho ny Lohan’ny mpiandry, dia hahazo ny satroboninahitra tsy mety simba ianareo."
-    },
-    {
-      "v": 5,
-      "text": "\"Toy izany koa, ianareo izay mbola tanora fanahy, maneke ny loholona. Eny, mifanompoa ianareo rehetra, ary mitafia fanetren-tena; fa manohitra ny mpiavonavona Andriamanitra, ary manome fahasoavana ny manetry tena\""
-    },
-    {
-      "v": 6,
-      "text": "\"Koa amin’izany manetre tena ambanin’ny tàna-maherin’Andriamanitra, mba hanandratany anareo amin’ny fotoan’andro;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Apetraho Aminy ny fanahianareo rehetra; fa miahy anareo izy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Mahonòna tena, miambena: fa ny devoly fahavalonareo mandehandeha tahaka ny liona mierona mitady izay harapany;\""
-    },
-    {
-      "v": 9,
-      "text": "Tohero izy, ka miorena mafy amin’ny finoana ianareo, satria fantatrareo fa izany fahoriana izany dia manjo ny rahalahinareo izay eto amin’izao tontolo izao."
-    },
-    {
-      "v": 10,
-      "text": "\"Fa Andriamanitry ny fahasoavana rehetra, Izay efa niantso antsika ho amin’ny voninahiny mandrakizay ao amin’i Kristy Jesosy, rehefa niaritra fahoriana vetivety ianareo, dia hahatanteraka sy hampiorina, ary hanatanjaka sy hampitoetra anareo;\""
-    },
-    {
-      "v": 11,
-      "text": "Ho Azy anie ny voninahitra sy ny fanapahana mandrakizay mandrakizay. Amena."
-    },
-    {
-      "v": 12,
-      "text": "Efa nanoratra teny fohifohy ho aminareo aho hampitondraina an’i Silasy, izay heveriko ho rahalahy mahatoky aminareo, dia mananatra anareo aho ka manambara fa izany no tena fahasoavan’Andriamanitra izay hitoeranareo."
-    },
-    {
-      "v": 13,
-      "text": "Ny fiangonana any Babylona, voafidy miaraka aminareo, manao veloma anareo, ary Marka zanako koa."
-    },
-    {
-      "v": 14,
-      "text": "Mifanaova veloma amin’ny fanoroham-pitiavana. Ho aminareo rehetra izay ao amin’i Kristy Jesosy anie ny fiadanana. Amena."
-    }
-  ]
+  "verses": {
+    "1": "Koa ny amin’ny loholona izay eo aminareo, izaho, izay naman’ny loholona sy vavolombelon’ny fijalian’i Kristy ary mpiombona ny voninahitra efa haseho koa, dia mananatra azy hoe:",
+    "2": "Fahano ny ondrin’Andriamanitra izay eo aminareo, mitandrina azy tsy an-tery, fa an-tsitrapo, tsy amin’ny fitiavana harena maloto, fa amin’ny zotom-panahy;",
+    "3": "Tsy ho mpanjakazaka amin’ny lovan’Andriamanitra, fa ho fianaran’ny ondry.",
+    "4": "Ary rehefa hiseho ny Lohan’ny mpiandry, dia hahazo ny satroboninahitra tsy mety simba ianareo.",
+    "5": "Toy izany koa, ianareo izay mbola tanora fanahy, maneke ny loholona. Eny, mifanompoa ianareo rehetra, ary mitafia fanetren-tena; fa manohitra ny mpiavonavona Andriamanitra, ary manome fahasoavana ny manetry tena",
+    "6": "Koa amin’izany manetre tena ambanin’ny tàna-maherin’Andriamanitra, mba hanandratany anareo amin’ny fotoan’andro;",
+    "7": "Apetraho Aminy ny fanahianareo rehetra; fa miahy anareo izy.",
+    "8": "Mahonòna tena, miambena: fa ny devoly fahavalonareo mandehandeha tahaka ny liona mierona mitady izay harapany;",
+    "9": "Tohero izy, ka miorena mafy amin’ny finoana ianareo, satria fantatrareo fa izany fahoriana izany dia manjo ny rahalahinareo izay eto amin’izao tontolo izao.",
+    "10": "Fa Andriamanitry ny fahasoavana rehetra, Izay efa niantso antsika ho amin’ny voninahiny mandrakizay ao amin’i Kristy Jesosy, rehefa niaritra fahoriana vetivety ianareo, dia hahatanteraka sy hampiorina, ary hanatanjaka sy hampitoetra anareo;",
+    "11": "Ho Azy anie ny voninahitra sy ny fanapahana mandrakizay mandrakizay. Amena.",
+    "12": "Efa nanoratra teny fohifohy ho aminareo aho hampitondraina an’i Silasy, izay heveriko ho rahalahy mahatoky aminareo, dia mananatra anareo aho ka manambara fa izany no tena fahasoavan’Andriamanitra izay hitoeranareo.",
+    "13": "Ny fiangonana any Babylona, voafidy miaraka aminareo, manao veloma anareo, ary Marka zanako koa.",
+    "14": "Mifanaova veloma amin’ny fanoroham-pitiavana. Ho aminareo rehetra izay ao amin’i Kristy Jesosy anie ny fiadanana. Amena."
+  }
 }

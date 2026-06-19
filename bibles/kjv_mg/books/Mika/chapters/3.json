@@ -1,53 +1,18 @@
 {
+  "book": "Mika",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary hoy aho: Masìna ianareo, mihainoa, ry loholon' i Jakoba, sy ianareo mpanapaka ny taranak' Isiraely: Tsy anjaranareo va ny hahalala ny rariny?"
-    },
-    {
-      "v": 2,
-      "text": "Dia ianareo izay mankahala ny tsara ka tia ny ratsy, izay manendaka ny hoditry ny olona sy ny nofony amin' ny taolany,"
-    },
-    {
-      "v": 3,
-      "text": "\"Dia ianareo izay homana ny nofon' ny oloko koa sady manendaka ny hodiny ary mamakivaky ny taolany; sy mitetika azy toy ny hatao am-bilany sady toy ny hena ao anatin' ny fahandroan-kena.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Amin' izany dia hitaraina amin' i Jehovah izy, nefa tsy hohenoiny; hanafina ny tavany aminy amin' izany fotoana izany Izy araka ny faharatsian' ny nataon' ireo.\""
-    },
-    {
-      "v": 5,
-      "text": "Izao no lazain' i Jehovah ny amin' ny mpaminany izay mampaniasia ny oloko, izay manaikitra amin' ny nifiny, sy miantsoantso Fiadanana, ary izay tsy manisy hanina eo am-bavany kosa dia hanomanany ady hanoherana azy."
-    },
-    {
-      "v": 6,
-      "text": "\"Koa izany no hisian' ny alina aminareo, ka tsy hisy fahitana, ary ny maizina aminareo, ka tsy hisy fankatovana; fa hilentika tsy hanazava ny mpaminany ny masoandro, ary ho maizina aminy ny andro.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Dia ho menatra ny mpahita, ary hangaihay ny mpanao fankatovana; eny, hitampim-bava avokoa izy rehetra, satria tsy misy valiny avy amin' Andriamanitra.\""
-    },
-    {
-      "v": 8,
-      "text": "Fa Izaho kosa dia feno hery amin' ny fanahin' i Jehovah, mbamin' ny rariny sy ny faherezana, mba hanambara amin' i Jakoba ny helony sy amin' Isiraely ny fahotany."
-    },
-    {
-      "v": 9,
-      "text": "Masìna ianareo, mihainoa izao, ry loholon' ny taranak' i Jakoba, sy ny mpanapaka ny taranak' Isiraely, dia ianareo izay manao ny rariny ho fahavetavetana, sy mamadika ny hitsiny rehetra."
-    },
-    {
-      "v": 10,
-      "text": "Dia izay manangana an' i Ziona amin' ny fandatsahan-drà sy Jerosalema amin' ny faharatsiana."
-    },
-    {
-      "v": 11,
-      "text": "\"Ny mpifehiny mitsara hahazoany kolikoly, ary ny mpisorona mampianatra hahazoany karama, ary ny mpaminany manao fankatovana hahazoany vola; nefa Jehovah mbola iankinany, sady hoy izy: tsy ato amintsika va Jehovah? Tsy hisy loza hanjo antsika.\""
-    },
-    {
-      "v": 12,
-      "text": "Koa dia hasaina toy ny tanimboly Ziona noho ny nataonareo, ary Jerosalema ho tonga korontam-bato, ary ny tendrombohitra misy ny trano dia ho tonga toy ny havoana mifono ala."
-    }
-  ]
+  "verses": {
+    "1": "Ary hoy aho: Masìna ianareo, mihainoa, ry loholon' i Jakoba, sy ianareo mpanapaka ny taranak' Isiraely: Tsy anjaranareo va ny hahalala ny rariny?",
+    "2": "Dia ianareo izay mankahala ny tsara ka tia ny ratsy, izay manendaka ny hoditry ny olona sy ny nofony amin' ny taolany,",
+    "3": "Dia ianareo izay homana ny nofon' ny oloko koa sady manendaka ny hodiny ary mamakivaky ny taolany; sy mitetika azy toy ny hatao am-bilany sady toy ny hena ao anatin' ny fahandroan-kena.",
+    "4": "Amin' izany dia hitaraina amin' i Jehovah izy, nefa tsy hohenoiny; hanafina ny tavany aminy amin' izany fotoana izany Izy araka ny faharatsian' ny nataon' ireo.",
+    "5": "Izao no lazain' i Jehovah ny amin' ny mpaminany izay mampaniasia ny oloko, izay manaikitra amin' ny nifiny, sy miantsoantso Fiadanana, ary izay tsy manisy hanina eo am-bavany kosa dia hanomanany ady hanoherana azy.",
+    "6": "Koa izany no hisian' ny alina aminareo, ka tsy hisy fahitana, ary ny maizina aminareo, ka tsy hisy fankatovana; fa hilentika tsy hanazava ny mpaminany ny masoandro, ary ho maizina aminy ny andro.",
+    "7": "Dia ho menatra ny mpahita, ary hangaihay ny mpanao fankatovana; eny, hitampim-bava avokoa izy rehetra, satria tsy misy valiny avy amin' Andriamanitra.",
+    "8": "Fa Izaho kosa dia feno hery amin' ny fanahin' i Jehovah, mbamin' ny rariny sy ny faherezana, mba hanambara amin' i Jakoba ny helony sy amin' Isiraely ny fahotany.",
+    "9": "Masìna ianareo, mihainoa izao, ry loholon' ny taranak' i Jakoba, sy ny mpanapaka ny taranak' Isiraely, dia ianareo izay manao ny rariny ho fahavetavetana, sy mamadika ny hitsiny rehetra.",
+    "10": "Dia izay manangana an' i Ziona amin' ny fandatsahan-drà sy Jerosalema amin' ny faharatsiana.",
+    "11": "Ny mpifehiny mitsara hahazoany kolikoly, ary ny mpisorona mampianatra hahazoany karama, ary ny mpaminany manao fankatovana hahazoany vola; nefa Jehovah mbola iankinany, sady hoy izy: tsy ato amintsika va Jehovah? Tsy hisy loza hanjo antsika.",
+    "12": "Koa dia hasaina toy ny tanimboly Ziona noho ny nataonareo, ary Jerosalema ho tonga korontam-bato, ary ny tendrombohitra misy ny trano dia ho tonga toy ny havoana mifono ala."
+  }
 }

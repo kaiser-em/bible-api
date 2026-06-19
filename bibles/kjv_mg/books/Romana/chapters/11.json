@@ -1,149 +1,42 @@
 {
+  "book": "Romana",
   "chapter": 11,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia hoy aho: Sao narian' Andriamanitra ny olony? Sanatria izany! Fa mba Isiraelita koa aho, taranak' i Abrahama ihany, avy amin' ny fokon' i Benjamina."
-    },
-    {
-      "v": 2,
-      "text": "\"Andriamanitra tsy nanary ny olony izay efa fantany rahateo; sa tsy fantatrareo izay lazain' ny Soratra Masina ny amin' i Elia? dia ilay fitarainany tamin' Andriamanitra nentiny namely ny Isiraely hoe:\""
-    },
-    {
-      "v": 3,
-      "text": "\"Tompo ô, ireo mpaminaninao novonoiny, ary ireo alitaranao noravany; ary izaho irery ihany no sisa, ka mitady ny aiko koa izy\""
-    },
-    {
-      "v": 4,
-      "text": "Fa ahoana no navalin' Andriamanitra azy? Efa niaro fito arivo lahy ho Ahy Aho, dia izay tsy mba nandohalika tamin' ny sarin' i Bala"
-    },
-    {
-      "v": 5,
-      "text": "Dia toy izany koa amin' izao andro ankehitriny izao, misy sisa ihany araka ny fifidianana amin' ny fahasoavana."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary raha avy amin' ny fahasoavana, dia tsy avy amin' ny asa intsony; raha izany dia tsy fahasoavana intsony ny fahasoavana. Fa raha avy amin' ny asa, dia tsy avy amin' ny fahasoavana intsony, raha izany dia tsy asa intsony ny asa.\""
-    },
-    {
-      "v": 7,
-      "text": "Ahoana àry? Izay notadiavin' ny Isiraely dia tsy azony, fa ny voafidy ihany no nahazo izany, ary nohajambaina kosa ny sisa"
-    },
-    {
-      "v": 8,
-      "text": "(Araka ny voasoratra hoe: Andriamanitra efa nanome azy fanahy sondrian-tory sy maso tsy mahita, ary sofina tsy mahare) mandraka androany"
-    },
-    {
-      "v": 9,
-      "text": "\"Ary hoy Davida: Aoka ny latabany ho fandrika sy ho tonta sy ho fahatafintohinana ary ho famaliana azy;\""
-    },
-    {
-      "v": 10,
-      "text": "Aoka ny masony ho jamba tsy hahita, ary aoka hamokoka mandrakariva izy"
-    },
-    {
-      "v": 11,
-      "text": "Dia hoy aho: Sao dia tafintohina ho lavo ny Isiraely? Sanatria izany! fa ny fahatafintohinany no nahatonga famonjena ho an' ny Jentilisa mba hampialona azy."
-    },
-    {
-      "v": 12,
-      "text": "Ary raha ny fahatafintohinany no tonga haren' izao tontolo izao, ary ny nihenany no tonga haren' ny Jentilisa, mainka fa ny hafenoany?"
-    },
-    {
-      "v": 13,
-      "text": "Fa ianareo Jentilisa no itenenako, satria Apostolin' ny Jentilisa aho, dia mankalaza ny fanompoako,"
-    },
-    {
-      "v": 14,
-      "text": "Raha mba misy hahazoako hampialona ireo mifanapa-tsinay amiko, mba hamonjeko ny sasany aminy."
-    },
-    {
-      "v": 15,
-      "text": "Fa raha ny fanariana azy no fampihavanana izao tontolo izao, tsy ho fahavelomana ho an' ny maty va ny fandraisana azy?"
-    },
-    {
-      "v": 16,
-      "text": "\"Ary koa, raha masina ny santatra, dia masina koa ny vongany; ary raha masina ny fakany, dia masina koa ny sampany.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary raha notapahina ny sampany sasany, ka ianao izay tahaka ny hazo oliva maniry ho azy kosa no natsofoka teo aminy ary niombona ny fakany sy ny menaky ny hazo oliva,"
-    },
-    {
-      "v": 18,
-      "text": "\"Dia aza mirehareha amin' ny sampany; fa raha mirehareha ianao, tsy ianao no mitondra ny fakany, fa ny fakany no mitondra anao.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary ianao dia hanao hoe: Notapahina ny sampany sasany hanatsofohana ahy."
-    },
-    {
-      "v": 20,
-      "text": "\"Marina ihany izany: ny tsy finoany no nanapahana azy, ary ny finoanao kosa no itoeranao. Aza miavonavona, fa matahora;\""
-    },
-    {
-      "v": 21,
-      "text": "Fa raha ny tena sampany aza tsy navelan' Andriamanitra, dia tandremo fandrao tsy havelany koa ianao."
-    },
-    {
-      "v": 22,
-      "text": "Koa indro ny fahamoram-panahin' Andriamanitra sy ny fahasaro-pony: amin' izay lavo dia fahasaro-po, fa aminao kosa dia fahamoram-panahy, raha maharitra ao amin' ny fahamoram-panahiny ianao: fa raha tsy izany, dia hotapahina koa ianao."
-    },
-    {
-      "v": 23,
-      "text": "Ary ireny kosa, raha tsy mikikitra eo amin' ny tsy finoana, dia hatsofoka ihany: fa azon' Andriamanitra atsofoka indray izy."
-    },
-    {
-      "v": 24,
-      "text": "Fa raha notapahina tamin' ny hazo oliva naniry ho azy ianao ka natsofoka tamin' ny hazo oliva tsara, nefa tsy tena sampany, mainka fa izay tena sampany no hatsofoka amin' ny hazo oliva nanapahana azy?"
-    },
-    {
-      "v": 25,
-      "text": "\"Fa tsy tiako tsy ho fantatrareo izany zava-miafina izany, ry rahalahy, fandrao mihevitra ny tenanareo ho hendry amin' ny fiavonavonanareo ianareo; fa efa misy fahajambana manjo ny Isiraely sasany mandra-piditry ny fahafenoan' ny Jentilisa.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ary amin' izany dia hovonjena avokoa ny Isiraely rehetra, araka ny voasoratra hoe: Hivoaka avy any Ziona ny Mpanafaka, ary hampiala ny haratsiam-panahy amin' i Jakoba Izy;\""
-    },
-    {
-      "v": 27,
-      "text": "Ary izao no fanekeko aminy, raha manaisotra ny fahotany Aho"
-    },
-    {
-      "v": 28,
-      "text": "\"Raha ny amin' ny filazantsara dia fahavalo izy noho ny aminareo; fa raha ny amin' ny fifidianana kosa dia malala izy noho ny amin' ny razana.\""
-    },
-    {
-      "v": 29,
-      "text": "Fa ny fanomezana sy ny fiantsoan' Andriamanitra dia tsy misy hanenenana."
-    },
-    {
-      "v": 30,
-      "text": "Fa tahaka anareo izay tsy nino an' Andriamanitra taloha, nefa ankehitriny ny tsy finoan' ireny no nahazoanareo famindrampo,"
-    },
-    {
-      "v": 31,
-      "text": "Dia toy izany kosa ankehitriny, tsy nino ireny, mba hahazoany famindrampo ankehitriny noho ny famindrampo azonareo."
-    },
-    {
-      "v": 32,
-      "text": "Fa Andriamanitra nanidy azy rehetra tamin' ny tsy finoana, mba hamindrany fo amin' izy rehetra."
-    },
-    {
-      "v": 33,
-      "text": "Endrey ny halalin' ny haren' ny fahendrena sy ny fahalalan' Andriamanitra! ny fitsarany tsy hita lany, ary ny lalany tsy azo fantarina!"
-    },
-    {
-      "v": 34,
-      "text": "Fa iza no nahalala ny sain' i Jehovah? ary iza no mpanolo-tsaina Azy?"
-    },
-    {
-      "v": 35,
-      "text": "Na iza no nanome Azy aloha hamaliana azy indray?"
-    },
-    {
-      "v": 36,
-      "text": "Fa avy Aminy sy noho ny Aminy, ary ho Azy ny zavatra rehetra, ho Azy anie ny voninahitra mandrakizay. Amena."
-    }
-  ]
+  "verses": {
+    "1": "Dia hoy aho: Sao narian' Andriamanitra ny olony? Sanatria izany! Fa mba Isiraelita koa aho, taranak' i Abrahama ihany, avy amin' ny fokon' i Benjamina.",
+    "2": "Andriamanitra tsy nanary ny olony izay efa fantany rahateo; sa tsy fantatrareo izay lazain' ny Soratra Masina ny amin' i Elia? dia ilay fitarainany tamin' Andriamanitra nentiny namely ny Isiraely hoe:",
+    "3": "Tompo ô, ireo mpaminaninao novonoiny, ary ireo alitaranao noravany; ary izaho irery ihany no sisa, ka mitady ny aiko koa izy",
+    "4": "Fa ahoana no navalin' Andriamanitra azy? Efa niaro fito arivo lahy ho Ahy Aho, dia izay tsy mba nandohalika tamin' ny sarin' i Bala",
+    "5": "Dia toy izany koa amin' izao andro ankehitriny izao, misy sisa ihany araka ny fifidianana amin' ny fahasoavana.",
+    "6": "Ary raha avy amin' ny fahasoavana, dia tsy avy amin' ny asa intsony; raha izany dia tsy fahasoavana intsony ny fahasoavana. Fa raha avy amin' ny asa, dia tsy avy amin' ny fahasoavana intsony, raha izany dia tsy asa intsony ny asa.",
+    "7": "Ahoana àry? Izay notadiavin' ny Isiraely dia tsy azony, fa ny voafidy ihany no nahazo izany, ary nohajambaina kosa ny sisa",
+    "8": "(Araka ny voasoratra hoe: Andriamanitra efa nanome azy fanahy sondrian-tory sy maso tsy mahita, ary sofina tsy mahare) mandraka androany",
+    "9": "Ary hoy Davida: Aoka ny latabany ho fandrika sy ho tonta sy ho fahatafintohinana ary ho famaliana azy;",
+    "10": "Aoka ny masony ho jamba tsy hahita, ary aoka hamokoka mandrakariva izy",
+    "11": "Dia hoy aho: Sao dia tafintohina ho lavo ny Isiraely? Sanatria izany! fa ny fahatafintohinany no nahatonga famonjena ho an' ny Jentilisa mba hampialona azy.",
+    "12": "Ary raha ny fahatafintohinany no tonga haren' izao tontolo izao, ary ny nihenany no tonga haren' ny Jentilisa, mainka fa ny hafenoany?",
+    "13": "Fa ianareo Jentilisa no itenenako, satria Apostolin' ny Jentilisa aho, dia mankalaza ny fanompoako,",
+    "14": "Raha mba misy hahazoako hampialona ireo mifanapa-tsinay amiko, mba hamonjeko ny sasany aminy.",
+    "15": "Fa raha ny fanariana azy no fampihavanana izao tontolo izao, tsy ho fahavelomana ho an' ny maty va ny fandraisana azy?",
+    "16": "Ary koa, raha masina ny santatra, dia masina koa ny vongany; ary raha masina ny fakany, dia masina koa ny sampany.",
+    "17": "Ary raha notapahina ny sampany sasany, ka ianao izay tahaka ny hazo oliva maniry ho azy kosa no natsofoka teo aminy ary niombona ny fakany sy ny menaky ny hazo oliva,",
+    "18": "Dia aza mirehareha amin' ny sampany; fa raha mirehareha ianao, tsy ianao no mitondra ny fakany, fa ny fakany no mitondra anao.",
+    "19": "Ary ianao dia hanao hoe: Notapahina ny sampany sasany hanatsofohana ahy.",
+    "20": "Marina ihany izany: ny tsy finoany no nanapahana azy, ary ny finoanao kosa no itoeranao. Aza miavonavona, fa matahora;",
+    "21": "Fa raha ny tena sampany aza tsy navelan' Andriamanitra, dia tandremo fandrao tsy havelany koa ianao.",
+    "22": "Koa indro ny fahamoram-panahin' Andriamanitra sy ny fahasaro-pony: amin' izay lavo dia fahasaro-po, fa aminao kosa dia fahamoram-panahy, raha maharitra ao amin' ny fahamoram-panahiny ianao: fa raha tsy izany, dia hotapahina koa ianao.",
+    "23": "Ary ireny kosa, raha tsy mikikitra eo amin' ny tsy finoana, dia hatsofoka ihany: fa azon' Andriamanitra atsofoka indray izy.",
+    "24": "Fa raha notapahina tamin' ny hazo oliva naniry ho azy ianao ka natsofoka tamin' ny hazo oliva tsara, nefa tsy tena sampany, mainka fa izay tena sampany no hatsofoka amin' ny hazo oliva nanapahana azy?",
+    "25": "Fa tsy tiako tsy ho fantatrareo izany zava-miafina izany, ry rahalahy, fandrao mihevitra ny tenanareo ho hendry amin' ny fiavonavonanareo ianareo; fa efa misy fahajambana manjo ny Isiraely sasany mandra-piditry ny fahafenoan' ny Jentilisa.",
+    "26": "Ary amin' izany dia hovonjena avokoa ny Isiraely rehetra, araka ny voasoratra hoe: Hivoaka avy any Ziona ny Mpanafaka, ary hampiala ny haratsiam-panahy amin' i Jakoba Izy;",
+    "27": "Ary izao no fanekeko aminy, raha manaisotra ny fahotany Aho",
+    "28": "Raha ny amin' ny filazantsara dia fahavalo izy noho ny aminareo; fa raha ny amin' ny fifidianana kosa dia malala izy noho ny amin' ny razana.",
+    "29": "Fa ny fanomezana sy ny fiantsoan' Andriamanitra dia tsy misy hanenenana.",
+    "30": "Fa tahaka anareo izay tsy nino an' Andriamanitra taloha, nefa ankehitriny ny tsy finoan' ireny no nahazoanareo famindrampo,",
+    "31": "Dia toy izany kosa ankehitriny, tsy nino ireny, mba hahazoany famindrampo ankehitriny noho ny famindrampo azonareo.",
+    "32": "Fa Andriamanitra nanidy azy rehetra tamin' ny tsy finoana, mba hamindrany fo amin' izy rehetra.",
+    "33": "Endrey ny halalin' ny haren' ny fahendrena sy ny fahalalan' Andriamanitra! ny fitsarany tsy hita lany, ary ny lalany tsy azo fantarina!",
+    "34": "Fa iza no nahalala ny sain' i Jehovah? ary iza no mpanolo-tsaina Azy?",
+    "35": "Na iza no nanome Azy aloha hamaliana azy indray?",
+    "36": "Fa avy Aminy sy noho ny Aminy, ary ho Azy ny zavatra rehetra, ho Azy anie ny voninahitra mandrakizay. Amena."
+  }
 }

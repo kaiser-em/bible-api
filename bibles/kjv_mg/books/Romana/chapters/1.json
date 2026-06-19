@@ -1,133 +1,38 @@
 {
+  "book": "Romana",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Paoly, mpanompon' i Jesosy Kristy, nantsoina ho apostoly, natokana ho amin' ny Filazantsaran' Andriamanitra,"
-    },
-    {
-      "v": 2,
-      "text": "(Izay nampanantenainy ny mpaminaniny rahateo ao amin' ny Soratra Masina),"
-    },
-    {
-      "v": 3,
-      "text": "\"Ny amin' ny Zanany Jesosy Kristy Tompontsika izay natao ho taranak' i Davida araka ny nofo;\""
-    },
-    {
-      "v": 4,
-      "text": "Ary nambara amin-kery ho Zanak' Andriamanitra, araka ny fanahin' ny fahamasinana, tamin' ny fitsanganana tamin' ny maty,"
-    },
-    {
-      "v": 5,
-      "text": "\"Izay nandraisanay fahasoavana sy ny maha-apostoly anay hahatonga fankatoavana ny finoana any amin' ny firenena rehetra noho ny anarany;\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary ianareo koa, izay isan' ireny, dia voantso ho an' i Jesosy Kristy;\""
-    },
-    {
-      "v": 7,
-      "text": "Ho an' izay rehetra any Roma, malalan' Andriamanitra, nantsoina ho olo-masina: Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin' Andriamanitra Raintsika sy Jesosy Kristy Tompo."
-    },
-    {
-      "v": 8,
-      "text": "Voalohany, misaotra an' Andriamanitro amin' ny alalan' i Jesosy Kristy aho noho ny aminareo rehetra, satria efa re eran' izao tontolo izao ny lazan' ny finoanareo."
-    },
-    {
-      "v": 9,
-      "text": "\" Fa Andriamanitra, Izay tompoin' ny fanahiko amin' ny filazantsaran' ny Zanany, no vavolombeloko, fa tsy mitsahatra manonona anareo mandrakariva amin' ny fivavahako aho;\""
-    },
-    {
-      "v": 10,
-      "text": "Mangataka aho, fandrao mba hisy fomba ihany ankehitriny ahombiazan' ny diako hankany aminareo raha sitrapon' Andriamanitra."
-    },
-    {
-      "v": 11,
-      "text": "\"Fa manina ny hahita anareo aho, mba hahazoako manolotra ho anareo fanomezam-panahy sasantsasany izay hahatonga anareo hiorina;\""
-    },
-    {
-      "v": 12,
-      "text": "Izany dia ny mba hampionona ahy miaraka aminareo amin' ny finoana iombonana dia ny anareo sy ny ahy."
-    },
-    {
-      "v": 13,
-      "text": "Ary tsy tiako tsy ho fantatrareo, ry rahalahy, fa matetika aho no efa nikasa hankaty aminareo (saingy azon-tsampona mandraka ankehitriny aho), hananako izay vokatra aty aminareo koa, toy ny any amin' ny Jentilisa sasany."
-    },
-    {
-      "v": 14,
-      "text": "Ananan' ny Grika sy ny Baribariana, ny hendry sy ny tsy hendry trosa aho."
-    },
-    {
-      "v": 15,
-      "text": "Koa raha ny amiko, dia vonona hitory ny filazantsara aminareo izay any Roma koa aho."
-    },
-    {
-      "v": 16,
-      "text": "Fa tsy menatra ny filazantsaran' i Kristy aho, fa herin' Andriamanitra ho famonjena izay rehetra mino izany, amin' ny Jiosy aloha, dia amin' ny Grika koa."
-    },
-    {
-      "v": 17,
-      "text": "Fa amin' izany no anehoana ny fahamarinan' Andriamanitra avy amin' ny finoana ho amin' ny finoana, araka ny voasoratra hoe: Ny marina ho velona amin' ny finoana."
-    },
-    {
-      "v": 18,
-      "text": "\"Fa aseho avy any an-danitra ny fahatezeran' Andriamanitra manohitra ny faharatsiam-panahy rehetra sy ny tsy fahamarinan' ny olona izay misakana ny marina amin' ny tsy fahamarinana;\""
-    },
-    {
-      "v": 19,
-      "text": "Satria izay fantatra ny amin' Andriamanitra dia miseho ao amin' izy ireny, fa nasehon' Andriamanitra taminy izany."
-    },
-    {
-      "v": 20,
-      "text": "\"Fa ny zavatra tsy hita ao aminy hatramin' ny nanaovana izao tontolo izao dia hita miharihary ary fantatra tamin' ny zavatra natao, na dia ny heriny mandrakizay sy ny maha-Andriamanitra Azy aza; ka tsy azo alàn-tsiny ireo.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Satria na dia nahalala an' Andriamanitra aza izy, dia tsy mba nanome voninahitra Azy araka ny maha-Andriamanitra Azy, na nisaotra Azy; fa tonga zava-poana izy tamin' ny fisainany, ary tonga maizina ny fony adala.\""
-    },
-    {
-      "v": 22,
-      "text": "Milaza ny tenany ho hendry izy ireo ka tonga adala."
-    },
-    {
-      "v": 23,
-      "text": "Koa ny voninahitr' Andriamanitra tsy mety lo dia nosoloany zavatra tahaka ny endriky ny olona mety lo sy ny vorona sy ny biby manan-tongotra efatra ary ny zavatra mandady sy mikisaka."
-    },
-    {
-      "v": 24,
-      "text": "\"Noho izany no nanoloran' Andriamanitra azy koa tamin' ny filàn' ny fony ho amin' ny fahalotoana, dia ny nifanalany voninahitra tamin' ny tenany avy;\""
-    },
-    {
-      "v": 25,
-      "text": "Izay nanova ny fahamarinan' Andriamanitra ho lainga, ka nanaja sy nanompo ny zavatra noforonina mihoatra noho ny Mpamorona Izay isaorana mandrakizay. Amena."
-    },
-    {
-      "v": 26,
-      "text": "\"Koa noho izany no nanoloran' Andriamanitra azy ho amin' ny filàn-dratsy mahavoafady; fa na dia ny vehivavy tao aminy aza nanova ny fanao ho amin' izay tsy fanao;\""
-    },
-    {
-      "v": 27,
-      "text": "Ary tahaka izany koa ny lehilahy, fa namela ny fanao amin' ny vehivavy izy ka maimay tamin' ny fifampilàny samy lehilahy nifanao izay mahamenatra, dia nandray tao amin' ny tenany ny valiny izay tokony ho azy noho ny fiviliany."
-    },
-    {
-      "v": 28,
-      "text": "\"Ary na dia tsy te-hitana an' Andriamanitra ao amin' ny fahalalany aza izy, dia natolotr' Andriamanitra ho amin' ny fisainana simba hanao izay zavatra tsy mety;\""
-    },
-    {
-      "v": 29,
-      "text": "\"Ka feno ny tsy fahamarinana rehetra, ny fahavetavetana, ny faharatsiana, ny fieremana, ny lolompo; feno fialonana, vonoan' olona, fifandirana, fitaka, otri-po; mpibitsibitsika,\""
-    },
-    {
-      "v": 30,
-      "text": "Mpanendrikendrika,mpankahala an' Andriamanitra, mpampahory, mpiavonavona, mpandoka tena, mpamoron-java-dratsy, tsy manoa ray sy reny,"
-    },
-    {
-      "v": 31,
-      "text": "\"Tsy manam-pahalalana, tsy mitana fanekena, tsy manam-pitiavana voajanahary, tsy mifaditrovana, tsy miantra;\""
-    },
-    {
-      "v": 32,
-      "text": "Dia olona mahalala ny fitsaran' Andriamanitra, fa izay manao izany zavatra izany, dia mendrika ho faty, nefa tsy manao izany ihany izy, fa mankasitraka ny manao koa."
-    }
-  ]
+  "verses": {
+    "1": "Paoly, mpanompon' i Jesosy Kristy, nantsoina ho apostoly, natokana ho amin' ny Filazantsaran' Andriamanitra,",
+    "2": "(Izay nampanantenainy ny mpaminaniny rahateo ao amin' ny Soratra Masina),",
+    "3": "Ny amin' ny Zanany Jesosy Kristy Tompontsika izay natao ho taranak' i Davida araka ny nofo;",
+    "4": "Ary nambara amin-kery ho Zanak' Andriamanitra, araka ny fanahin' ny fahamasinana, tamin' ny fitsanganana tamin' ny maty,",
+    "5": "Izay nandraisanay fahasoavana sy ny maha-apostoly anay hahatonga fankatoavana ny finoana any amin' ny firenena rehetra noho ny anarany;",
+    "6": "Ary ianareo koa, izay isan' ireny, dia voantso ho an' i Jesosy Kristy;",
+    "7": "Ho an' izay rehetra any Roma, malalan' Andriamanitra, nantsoina ho olo-masina: Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin' Andriamanitra Raintsika sy Jesosy Kristy Tompo.",
+    "8": "Voalohany, misaotra an' Andriamanitro amin' ny alalan' i Jesosy Kristy aho noho ny aminareo rehetra, satria efa re eran' izao tontolo izao ny lazan' ny finoanareo.",
+    "9": " Fa Andriamanitra, Izay tompoin' ny fanahiko amin' ny filazantsaran' ny Zanany, no vavolombeloko, fa tsy mitsahatra manonona anareo mandrakariva amin' ny fivavahako aho;",
+    "10": "Mangataka aho, fandrao mba hisy fomba ihany ankehitriny ahombiazan' ny diako hankany aminareo raha sitrapon' Andriamanitra.",
+    "11": "Fa manina ny hahita anareo aho, mba hahazoako manolotra ho anareo fanomezam-panahy sasantsasany izay hahatonga anareo hiorina;",
+    "12": "Izany dia ny mba hampionona ahy miaraka aminareo amin' ny finoana iombonana dia ny anareo sy ny ahy.",
+    "13": "Ary tsy tiako tsy ho fantatrareo, ry rahalahy, fa matetika aho no efa nikasa hankaty aminareo (saingy azon-tsampona mandraka ankehitriny aho), hananako izay vokatra aty aminareo koa, toy ny any amin' ny Jentilisa sasany.",
+    "14": "Ananan' ny Grika sy ny Baribariana, ny hendry sy ny tsy hendry trosa aho.",
+    "15": "Koa raha ny amiko, dia vonona hitory ny filazantsara aminareo izay any Roma koa aho.",
+    "16": "Fa tsy menatra ny filazantsaran' i Kristy aho, fa herin' Andriamanitra ho famonjena izay rehetra mino izany, amin' ny Jiosy aloha, dia amin' ny Grika koa.",
+    "17": "Fa amin' izany no anehoana ny fahamarinan' Andriamanitra avy amin' ny finoana ho amin' ny finoana, araka ny voasoratra hoe: Ny marina ho velona amin' ny finoana.",
+    "18": "Fa aseho avy any an-danitra ny fahatezeran' Andriamanitra manohitra ny faharatsiam-panahy rehetra sy ny tsy fahamarinan' ny olona izay misakana ny marina amin' ny tsy fahamarinana;",
+    "19": "Satria izay fantatra ny amin' Andriamanitra dia miseho ao amin' izy ireny, fa nasehon' Andriamanitra taminy izany.",
+    "20": "Fa ny zavatra tsy hita ao aminy hatramin' ny nanaovana izao tontolo izao dia hita miharihary ary fantatra tamin' ny zavatra natao, na dia ny heriny mandrakizay sy ny maha-Andriamanitra Azy aza; ka tsy azo alàn-tsiny ireo.",
+    "21": "Satria na dia nahalala an' Andriamanitra aza izy, dia tsy mba nanome voninahitra Azy araka ny maha-Andriamanitra Azy, na nisaotra Azy; fa tonga zava-poana izy tamin' ny fisainany, ary tonga maizina ny fony adala.",
+    "22": "Milaza ny tenany ho hendry izy ireo ka tonga adala.",
+    "23": "Koa ny voninahitr' Andriamanitra tsy mety lo dia nosoloany zavatra tahaka ny endriky ny olona mety lo sy ny vorona sy ny biby manan-tongotra efatra ary ny zavatra mandady sy mikisaka.",
+    "24": "Noho izany no nanoloran' Andriamanitra azy koa tamin' ny filàn' ny fony ho amin' ny fahalotoana, dia ny nifanalany voninahitra tamin' ny tenany avy;",
+    "25": "Izay nanova ny fahamarinan' Andriamanitra ho lainga, ka nanaja sy nanompo ny zavatra noforonina mihoatra noho ny Mpamorona Izay isaorana mandrakizay. Amena.",
+    "26": "Koa noho izany no nanoloran' Andriamanitra azy ho amin' ny filàn-dratsy mahavoafady; fa na dia ny vehivavy tao aminy aza nanova ny fanao ho amin' izay tsy fanao;",
+    "27": "Ary tahaka izany koa ny lehilahy, fa namela ny fanao amin' ny vehivavy izy ka maimay tamin' ny fifampilàny samy lehilahy nifanao izay mahamenatra, dia nandray tao amin' ny tenany ny valiny izay tokony ho azy noho ny fiviliany.",
+    "28": "Ary na dia tsy te-hitana an' Andriamanitra ao amin' ny fahalalany aza izy, dia natolotr' Andriamanitra ho amin' ny fisainana simba hanao izay zavatra tsy mety;",
+    "29": "Ka feno ny tsy fahamarinana rehetra, ny fahavetavetana, ny faharatsiana, ny fieremana, ny lolompo; feno fialonana, vonoan' olona, fifandirana, fitaka, otri-po; mpibitsibitsika,",
+    "30": "Mpanendrikendrika,mpankahala an' Andriamanitra, mpampahory, mpiavonavona, mpandoka tena, mpamoron-java-dratsy, tsy manoa ray sy reny,",
+    "31": "Tsy manam-pahalalana, tsy mitana fanekena, tsy manam-pitiavana voajanahary, tsy mifaditrovana, tsy miantra;",
+    "32": "Dia olona mahalala ny fitsaran' Andriamanitra, fa izay manao izany zavatra izany, dia mendrika ho faty, nefa tsy manao izany ihany izy, fa mankasitraka ny manao koa."
+  }
 }

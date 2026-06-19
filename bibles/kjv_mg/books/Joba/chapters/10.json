@@ -1,93 +1,28 @@
 {
+  "book": "Joba",
   "chapter": 10,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ny fanahiko dia reraky ny fiainako; havelako eo amiko ny fitarainako; hiteny amin' ny fangidian' ny fanahiko aho.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Hanao amin' Andriamanitra aho hoe: Aza manameloka ahy; ampahalalao ahy izay anton' ny iadianao amiko.\""
-    },
-    {
-      "v": 3,
-      "text": "Tsara aminao va ny hampahory sy hanao tsinontsinona ny asan' ny tananao, ka hamirapiratra amin' ny tolo-tsain' ny ratsy fanahy?"
-    },
-    {
-      "v": 4,
-      "text": "Manana maso nofo va Ianao? Na mijery tahaka ny fijerin' ny zanak' olombelona va Ianao?"
-    },
-    {
-      "v": 5,
-      "text": "Tahaka ny andron' ny zanak' olombelona va ny andronao? Na tahaka ny taonan' ny olombelona ny taonanao,"
-    },
-    {
-      "v": 6,
-      "text": "No dia mikaroka izay heloko Ianao sy mikatsaka izay fahotako,"
-    },
-    {
-      "v": 7,
-      "text": "\"Fantatrao fa tsy mba ratsy fanahy aho; ary tsy misy mahafaka amin' ny tananao.\""
-    },
-    {
-      "v": 8,
-      "text": "Ny tananao no namorona ahy ka nanisy endrika izao tenako rehetra izao, kanefa levoninao aho,"
-    },
-    {
-      "v": 9,
-      "text": "Masìna Ianao, tsarovy fa notefenao toy ny tanimanga aho, ka hamerina ahy amin' ny vovoka indray va Ianao?"
-    },
-    {
-      "v": 10,
-      "text": "Tsy naidinao toy ny ronono va aho, ka nampandrinao toy ny fromazy?"
-    },
-    {
-      "v": 11,
-      "text": "Notafianao hoditra sy nofo aho ary norarinao tamin' ny taolana sy ny ozatra."
-    },
-    {
-      "v": 12,
-      "text": "\"Aina sy famindrampo no nomenao ahy; ary ny famangianao no niaro ny aiko.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary izany zavatra izany dia nafeninao tao am-ponao; fantatro fa tao aminao izany.\""
-    },
-    {
-      "v": 14,
-      "text": "Raha manota aho, dia manamarika ahy ianao, ka tsy hanafaka ahy amin' ny heloko ianao."
-    },
-    {
-      "v": 15,
-      "text": "\"Raha ratsy fanahy aho, dia lozako! Ary raha marina aho dia tsy sahy hanandrandra ny lohako. Feno henatra aho; noho izany, jereo ny fahoriako;\""
-    },
-    {
-      "v": 16,
-      "text": "\"Fa mitombo izany. Mihaza ahy toy ny liona masiaka Ianao; ary dia amin' ny fomba mahagaga no hiverenanao amiko indray.\""
-    },
-    {
-      "v": 17,
-      "text": "Manavao ny vavolombelonao hanohitra ahy Ianao sy mampitombo ny fahatezeranao amiko. Fahavalo mifanontona no mamely ahy."
-    },
-    {
-      "v": 18,
-      "text": "Ka nahoana no namoaka ahy foana avy tany am-bohoka Ianao? Enga anie ka ho niala aina aho, dia tsy mba ho nisy maso nahita ahy akory."
-    },
-    {
-      "v": 19,
-      "text": "\"Tokony ho toy ny tsy ary aho; tokony ho nentina avy tany an-kibo ho any am-pasana aho.\""
-    },
-    {
-      "v": 20,
-      "text": "Tsy vitsy va ny androko? koa mitsahara Ianao, mihataha mba hakako aina kely,"
-    },
-    {
-      "v": 21,
-      "text": "Dieny tsy mbola lasa tsy hiverina aho, dia ho any amin' ny tanin' ny haizina sy ny aloky ny fahafatesana,"
-    },
-    {
-      "v": 22,
-      "text": "Tanin' ny haizina, tahaka ny haizim-pito sy ny an' ny aloky ny fahafatesana tsy misy filaminana, sady tahaka ny haizim-pito ny fahazavana any."
-    }
-  ]
+  "verses": {
+    "1": "Ny fanahiko dia reraky ny fiainako; havelako eo amiko ny fitarainako; hiteny amin' ny fangidian' ny fanahiko aho.",
+    "2": "Hanao amin' Andriamanitra aho hoe: Aza manameloka ahy; ampahalalao ahy izay anton' ny iadianao amiko.",
+    "3": "Tsara aminao va ny hampahory sy hanao tsinontsinona ny asan' ny tananao, ka hamirapiratra amin' ny tolo-tsain' ny ratsy fanahy?",
+    "4": "Manana maso nofo va Ianao? Na mijery tahaka ny fijerin' ny zanak' olombelona va Ianao?",
+    "5": "Tahaka ny andron' ny zanak' olombelona va ny andronao? Na tahaka ny taonan' ny olombelona ny taonanao,",
+    "6": "No dia mikaroka izay heloko Ianao sy mikatsaka izay fahotako,",
+    "7": "Fantatrao fa tsy mba ratsy fanahy aho; ary tsy misy mahafaka amin' ny tananao.",
+    "8": "Ny tananao no namorona ahy ka nanisy endrika izao tenako rehetra izao, kanefa levoninao aho,",
+    "9": "Masìna Ianao, tsarovy fa notefenao toy ny tanimanga aho, ka hamerina ahy amin' ny vovoka indray va Ianao?",
+    "10": "Tsy naidinao toy ny ronono va aho, ka nampandrinao toy ny fromazy?",
+    "11": "Notafianao hoditra sy nofo aho ary norarinao tamin' ny taolana sy ny ozatra.",
+    "12": "Aina sy famindrampo no nomenao ahy; ary ny famangianao no niaro ny aiko.",
+    "13": "Ary izany zavatra izany dia nafeninao tao am-ponao; fantatro fa tao aminao izany.",
+    "14": "Raha manota aho, dia manamarika ahy ianao, ka tsy hanafaka ahy amin' ny heloko ianao.",
+    "15": "Raha ratsy fanahy aho, dia lozako! Ary raha marina aho dia tsy sahy hanandrandra ny lohako. Feno henatra aho; noho izany, jereo ny fahoriako;",
+    "16": "Fa mitombo izany. Mihaza ahy toy ny liona masiaka Ianao; ary dia amin' ny fomba mahagaga no hiverenanao amiko indray.",
+    "17": "Manavao ny vavolombelonao hanohitra ahy Ianao sy mampitombo ny fahatezeranao amiko. Fahavalo mifanontona no mamely ahy.",
+    "18": "Ka nahoana no namoaka ahy foana avy tany am-bohoka Ianao? Enga anie ka ho niala aina aho, dia tsy mba ho nisy maso nahita ahy akory.",
+    "19": "Tokony ho toy ny tsy ary aho; tokony ho nentina avy tany an-kibo ho any am-pasana aho.",
+    "20": "Tsy vitsy va ny androko? koa mitsahara Ianao, mihataha mba hakako aina kely,",
+    "21": "Dieny tsy mbola lasa tsy hiverina aho, dia ho any amin' ny tanin' ny haizina sy ny aloky ny fahafatesana,",
+    "22": "Tanin' ny haizina, tahaka ny haizim-pito sy ny an' ny aloky ny fahafatesana tsy misy filaminana, sady tahaka ny haizim-pito ny fahazavana any."
+  }
 }

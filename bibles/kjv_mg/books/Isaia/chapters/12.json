@@ -1,29 +1,12 @@
 {
+  "book": "Isaia",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary hiteny ianao amin' izany andro izany hoe: Hidera anao aho, Jehovah ô; fa na dia tezitra tamiko aza Ianao, dia afaka ny fahatezeranao, ka mampionona ahy Ianao.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Indro, Andriamanitra no famonjena ahy; dia hatoky aho, fa tsy mba hatahotra; fa Jehovah Tompo no heriko sy hirako; efa tonga famonjena ahy koa Izy.\""
-    },
-    {
-      "v": 3,
-      "text": "Koa amin' ny fifaliana no hantsakanareo rano amin' ny loharanom-pamonjena."
-    },
-    {
-      "v": 4,
-      "text": "Ary hiteny ianareo amin' izany andro izany ka hanao hoe: Miderà an' i Jehovah, miantsoa ny anarany. Ampahafantaro any amin' ny firenena ny asany, ampahatsiarovy fa efa misandratra ny anarany."
-    },
-    {
-      "v": 5,
-      "text": "\"Mihirà ho an' i Jehovah;fa efa nanao zava-dehibe indrindra Izy; efa fantatra any amin' ny tany rehetra izany.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Miantsoa mafy sy mihobia, ry mponina any Ziona; fa lehibe ao afovoanao ny Iray Masin' ny Isiraely.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary hiteny ianao amin' izany andro izany hoe: Hidera anao aho, Jehovah ô; fa na dia tezitra tamiko aza Ianao, dia afaka ny fahatezeranao, ka mampionona ahy Ianao.",
+    "2": "Indro, Andriamanitra no famonjena ahy; dia hatoky aho, fa tsy mba hatahotra; fa Jehovah Tompo no heriko sy hirako; efa tonga famonjena ahy koa Izy.",
+    "3": "Koa amin' ny fifaliana no hantsakanareo rano amin' ny loharanom-pamonjena.",
+    "4": "Ary hiteny ianareo amin' izany andro izany ka hanao hoe: Miderà an' i Jehovah, miantsoa ny anarany. Ampahafantaro any amin' ny firenena ny asany, ampahatsiarovy fa efa misandratra ny anarany.",
+    "5": "Mihirà ho an' i Jehovah;fa efa nanao zava-dehibe indrindra Izy; efa fantatra any amin' ny tany rehetra izany.",
+    "6": "Miantsoa mafy sy mihobia, ry mponina any Ziona; fa lehibe ao afovoanao ny Iray Masin' ny Isiraely."
+  }
 }

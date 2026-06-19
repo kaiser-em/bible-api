@@ -1,41 +1,15 @@
 {
+  "book": "Salamo",
   "chapter": 47,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira. Salamo ho an' ny zanak' i Kora.]  MITEHAFA tanana, ry firenena rehetra; mihobia ho an' Andriamanitra amin' ny feom-pandresena.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Fa Jehovah no Avo Indrindra ka mahatahotra; Mpanjaka lehibe ambonin' ny tany rehetra Izy.\""
-    },
-    {
-      "v": 3,
-      "text": "Handresy ny vahoaka ho ambanintsika Izy, ary ny firenena ho ambanin' ny tongotsika."
-    },
-    {
-      "v": 4,
-      "text": "Hifidy ny lovantsika ho antsika Izy, dia ny voninahitr' i Jakoba izay tiany. [Sela.]"
-    },
-    {
-      "v": 5,
-      "text": "Efa niakatra tamin' ny fihobiana Andriamanitra, Jehovah niakatra tamin' ny fitsofana ny anjomara."
-    },
-    {
-      "v": 6,
-      "text": "\"Mihirà fiderana ho an' Andriamanitra, mihirà fiderana; mihirà fiderana ho an' ny Mpanjakantsika, mihirà fiderana.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa Mpanjakan' ny tany rehetra Andriamanitra; mihirà fiderana amin' ny fahalalana ianareo.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Manjaka amin' ny jentilisa Andriamanitra; mipetraka eo ambonin' ny sezafiandrianan' ny fahamasinany Andriamanitra.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Miara-miangona ny mpanapaky ny firenena, dia ny olon' Andriamanitr' i Abrahama; fa an' Andriamanitra ny ampingan' ny tany; asandratra avo indrindra izy.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Salamo ho an' ny zanak' i Kora.]  MITEHAFA tanana, ry firenena rehetra; mihobia ho an' Andriamanitra amin' ny feom-pandresena.",
+    "2": "Fa Jehovah no Avo Indrindra ka mahatahotra; Mpanjaka lehibe ambonin' ny tany rehetra Izy.",
+    "3": "Handresy ny vahoaka ho ambanintsika Izy, ary ny firenena ho ambanin' ny tongotsika.",
+    "4": "Hifidy ny lovantsika ho antsika Izy, dia ny voninahitr' i Jakoba izay tiany. [Sela.]",
+    "5": "Efa niakatra tamin' ny fihobiana Andriamanitra, Jehovah niakatra tamin' ny fitsofana ny anjomara.",
+    "6": "Mihirà fiderana ho an' Andriamanitra, mihirà fiderana; mihirà fiderana ho an' ny Mpanjakantsika, mihirà fiderana.",
+    "7": "Fa Mpanjakan' ny tany rehetra Andriamanitra; mihirà fiderana amin' ny fahalalana ianareo.",
+    "8": "Manjaka amin' ny jentilisa Andriamanitra; mipetraka eo ambonin' ny sezafiandrianan' ny fahamasinany Andriamanitra.",
+    "9": "Miara-miangona ny mpanapaky ny firenena, dia ny olon' Andriamanitr' i Abrahama; fa an' Andriamanitra ny ampingan' ny tany; asandratra avo indrindra izy."
+  }
 }

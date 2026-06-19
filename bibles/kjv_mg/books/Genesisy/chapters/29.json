@@ -1,145 +1,41 @@
 {
+  "book": "Genesisy",
   "chapter": 29,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia nanohy ny diany Jakoba ka nankany amin' ny tanin' ny zanaky ny atsinanana."
-    },
-    {
-      "v": 2,
-      "text": "\"Dia nijery izy, ka, indro, nisy fantsakana tany an-tsaha, ary, indro, nisy ondry aman' osy andiany telo nandry teo anilany; fa teo amin' izany fantsakana izany no nampisotroan' ny olona ny ondry aman' osy; ary nisy vato lehibe teo ambavan' ny fantsakana.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary nangonina teo ny andian' ny ondry aman' osy rehetra, dia nakodian' ny olona ny vato hiala amin' ny vavan' ny fantsakana ka nampisotroiny ny ondry aman' osy; ary dia naveriny teo ambavan' ny fantsakana indray ny vato ho amin' ny fitoerany.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary hoy Jakoba tamin' ny olona: Ry rahalahiko, avy aiza moa ianareo? Ary hoy ireo: Avy any Harana izahay."
-    },
-    {
-      "v": 5,
-      "text": "Ary hoy izy tamin' ireo: Moa mba fantatrareo va Labana, zanakalahin' i Nahora? Dia hoy ireo: Fantatray izy."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary hoy izy taminy: Tsara ihany va izy? Dia hoy izy: Tsara ihany izy; ary, indro, tamy Rahely zanany vavy mitondra ny ondry aman' osy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary hoy izy: Indro, mbola antoandrobe ny andro, ka tsy mby amin' ny fotoana famoriana ny omby aman' ondry; ampisotroy ny ondry aman' osy, dia andeha andraso.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Fa hoy ireo: Tsy azonay hatao izany, raha tsy efa tafangona avokoa ny andian' ny ondry aman' osy rehetra, ka hakodian' ny olona ny vato hiala amin' ny vavan' ny fantsakana; dia vao hampisotro ny ondry aman' osy izahay.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Raha mbola niteny taminy izy, dia tamy Rahely niaraka tamin' ny ondry aman' osin-drainy; fa niandry ireo izy.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary izao no niseho, rehefa hitan' i Jakoba i Rahely, zanakavavin' i Labana anadahin-dreniny, sy ny ondry aman' osin' i Labana anadahin-dreniny, dia nanatona Jakoba, ka nanakodia ny vato hiala tamin' ny vavan' ny fantsakana, dia nampisotro ny ondry aman' osin' i Labana anadahin-dreniny izy."
-    },
-    {
-      "v": 11,
-      "text": "Ary Jakoba nanoroka an-dRahely, dia nanandratra ny feony ka nitomany."
-    },
-    {
-      "v": 12,
-      "text": "\"Dia nambaran' i Jakoba tamin-dRahely fa havan-drainy sy zana-dRebeka izy; dia nihazakazaka Rahely nanambara izany tamin-drainy.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary izao no niseho, rehefa ren' i Labana ny vaovao ny amin' i Jakoba, zanak' anabaviny dia nihazakazaka nitsena azy izy ka namihina azy sady nanoroka azy, ary nitondra azy ho any an-tranony. Dia nambarany tamin' i Labana izany zavatra rehetra izany."
-    },
-    {
-      "v": 14,
-      "text": "Ary hoy Labana taminy: Taolako sy nofoko tokoa ianao. Dia nitoetra teo aminy nandritra ny iray volana izy."
-    },
-    {
-      "v": 15,
-      "text": "Ary hoy Labana tamin' i Jakoba: Satria rahalahiko ianao, dia moa tokony hanompo ahy maina va ianao? Lazao ahy izay ho karamanao."
-    },
-    {
-      "v": 16,
-      "text": "Ary nanan-janaka roa vavy Labana: Lea no anaran' ny zokiny, ary Rahely no anaran' ny zandriny."
-    },
-    {
-      "v": 17,
-      "text": "\"Lea dia malefa-pijery; fa Rahely bikana sady tsara tarehy.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary tia an-dRahely i Jakoba ka nanao hoe: Hanompo anao fito taona aho hahazoako an-dRahely, zanakao faravavy."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary hoy Labana: Mety kokoa ny hanomezako azy anao, noho ny hanomezako azy lehilahy hafa; tomoera eto amiko.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Ary Jakoba nanompo fito taona noho ny amin-dRahely; ka toa andro vitsy taminy izany noho ny fitiavany azy.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary hoy Jakoba tamin' i Labana: Omeo ahy ny vadiko, mba hanambadiako azy, fa efa tapitra ny fetr' androko."
-    },
-    {
-      "v": 22,
-      "text": "Ary nampamory ny tompon-tany rehetra Labana ka nanao fanasana."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary izao no niseho nony hariva, fa naka an' i Lea zanany vavy izy ka nitondra azy ho eo aminy; dia nanambady azy Jakoba.\""
-    },
-    {
-      "v": 24,
-      "text": "Ary nomen' i Labana an' i Lea zanany vavy Zilpa ankizivaviny hanompo azy."
-    },
-    {
-      "v": 25,
-      "text": "\"Ary izao no niseho, nony maraina, indro, fa Lea izy; dia hoy Jakoba tamin' i Labana: Ahoana izao nataonao tamiko izao? Moa tsy Rahely va no nanompoako anao? Ka nahoana no nofitahinao aho?\""
-    },
-    {
-      "v": 26,
-      "text": "Dia hoy Labana: Tsy fanao aty amin' ny taninay ny mamoaka ny zandriny alohan' ny zokiny."
-    },
-    {
-      "v": 27,
-      "text": "Tanteraho ny herinandron' ity anankiray ity, dia homenay anao koa ny anankiray noho ny fanompoana izay mbola hanompoanao ahy fito taona indray."
-    },
-    {
-      "v": 28,
-      "text": "\"Dia nataon' i Jakoba izany, ka notanterahiny ny herinandrony; dia nomen' i Labana azy koa Rahely zanany vavy ho vadiny.\""
-    },
-    {
-      "v": 29,
-      "text": "Ary nomen' i Labana an-dRahely zanany vavy kosa i Bila ankizivaviny hanompo azy."
-    },
-    {
-      "v": 30,
-      "text": "\"Dia novadin' i Jakoba koa Rahely; ary izy no tiany mihoatra noho Lea; dia nanompo an' i Labana fito taona indray izy.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Ary rehefa hitan' i Jehovah fa nankahalaina Lea, dia nampanana anaka azy Izy; fa momba kosa Rahely.\""
-    },
-    {
-      "v": 32,
-      "text": "\"Dia nanana anaka Lea ka niteraka zazalahy, ary ny anarany dia nataony hoe: Robena; fa hoy izy: Efa nitsinjo ny fahoriako tokoa Jehovah; fa ankehitriny dia ho tian' ny vadiko aho.\""
-    },
-    {
-      "v": 33,
-      "text": "\"Dia nanana anaka indray izy ka niteraka zazalahy; ary hoy izy: Satria efa ren' i Jehovah fa nankahalaina aho, noho izany dia nomeny ahy koa ity zazalahy ity; dia nataony hoe: Simeona ny anarany.\""
-    },
-    {
-      "v": 34,
-      "text": "\"Dia nanana anaka indray izy ka niteraka zazalahy; ary hoy izy: Ankehitriny izao dia hikambana amiko ny vadiko, fa efa niteraka zazalahy telo ho azy aho; izany no nanaovana ny anarany hoe Levy.\""
-    },
-    {
-      "v": 35,
-      "text": "\"Dia nanana anaka indray izy ka niteraka zazalahy; ary hoy izy: Ankehitriny hidera an' i Jehovah aho; noho izany, dia nataony hoe: Joda no anarany; dia nitsaha-jaza izy.\""
-    }
-  ]
+  "verses": {
+    "1": "Dia nanohy ny diany Jakoba ka nankany amin' ny tanin' ny zanaky ny atsinanana.",
+    "2": "Dia nijery izy, ka, indro, nisy fantsakana tany an-tsaha, ary, indro, nisy ondry aman' osy andiany telo nandry teo anilany; fa teo amin' izany fantsakana izany no nampisotroan' ny olona ny ondry aman' osy; ary nisy vato lehibe teo ambavan' ny fantsakana.",
+    "3": "Ary nangonina teo ny andian' ny ondry aman' osy rehetra, dia nakodian' ny olona ny vato hiala amin' ny vavan' ny fantsakana ka nampisotroiny ny ondry aman' osy; ary dia naveriny teo ambavan' ny fantsakana indray ny vato ho amin' ny fitoerany.",
+    "4": "Ary hoy Jakoba tamin' ny olona: Ry rahalahiko, avy aiza moa ianareo? Ary hoy ireo: Avy any Harana izahay.",
+    "5": "Ary hoy izy tamin' ireo: Moa mba fantatrareo va Labana, zanakalahin' i Nahora? Dia hoy ireo: Fantatray izy.",
+    "6": "Ary hoy izy taminy: Tsara ihany va izy? Dia hoy izy: Tsara ihany izy; ary, indro, tamy Rahely zanany vavy mitondra ny ondry aman' osy.",
+    "7": "Ary hoy izy: Indro, mbola antoandrobe ny andro, ka tsy mby amin' ny fotoana famoriana ny omby aman' ondry; ampisotroy ny ondry aman' osy, dia andeha andraso.",
+    "8": "Fa hoy ireo: Tsy azonay hatao izany, raha tsy efa tafangona avokoa ny andian' ny ondry aman' osy rehetra, ka hakodian' ny olona ny vato hiala amin' ny vavan' ny fantsakana; dia vao hampisotro ny ondry aman' osy izahay.",
+    "9": "Raha mbola niteny taminy izy, dia tamy Rahely niaraka tamin' ny ondry aman' osin-drainy; fa niandry ireo izy.",
+    "10": "Ary izao no niseho, rehefa hitan' i Jakoba i Rahely, zanakavavin' i Labana anadahin-dreniny, sy ny ondry aman' osin' i Labana anadahin-dreniny, dia nanatona Jakoba, ka nanakodia ny vato hiala tamin' ny vavan' ny fantsakana, dia nampisotro ny ondry aman' osin' i Labana anadahin-dreniny izy.",
+    "11": "Ary Jakoba nanoroka an-dRahely, dia nanandratra ny feony ka nitomany.",
+    "12": "Dia nambaran' i Jakoba tamin-dRahely fa havan-drainy sy zana-dRebeka izy; dia nihazakazaka Rahely nanambara izany tamin-drainy.",
+    "13": "Ary izao no niseho, rehefa ren' i Labana ny vaovao ny amin' i Jakoba, zanak' anabaviny dia nihazakazaka nitsena azy izy ka namihina azy sady nanoroka azy, ary nitondra azy ho any an-tranony. Dia nambarany tamin' i Labana izany zavatra rehetra izany.",
+    "14": "Ary hoy Labana taminy: Taolako sy nofoko tokoa ianao. Dia nitoetra teo aminy nandritra ny iray volana izy.",
+    "15": "Ary hoy Labana tamin' i Jakoba: Satria rahalahiko ianao, dia moa tokony hanompo ahy maina va ianao? Lazao ahy izay ho karamanao.",
+    "16": "Ary nanan-janaka roa vavy Labana: Lea no anaran' ny zokiny, ary Rahely no anaran' ny zandriny.",
+    "17": "Lea dia malefa-pijery; fa Rahely bikana sady tsara tarehy.",
+    "18": "Ary tia an-dRahely i Jakoba ka nanao hoe: Hanompo anao fito taona aho hahazoako an-dRahely, zanakao faravavy.",
+    "19": "Ary hoy Labana: Mety kokoa ny hanomezako azy anao, noho ny hanomezako azy lehilahy hafa; tomoera eto amiko.",
+    "20": "Ary Jakoba nanompo fito taona noho ny amin-dRahely; ka toa andro vitsy taminy izany noho ny fitiavany azy.",
+    "21": "Ary hoy Jakoba tamin' i Labana: Omeo ahy ny vadiko, mba hanambadiako azy, fa efa tapitra ny fetr' androko.",
+    "22": "Ary nampamory ny tompon-tany rehetra Labana ka nanao fanasana.",
+    "23": "Ary izao no niseho nony hariva, fa naka an' i Lea zanany vavy izy ka nitondra azy ho eo aminy; dia nanambady azy Jakoba.",
+    "24": "Ary nomen' i Labana an' i Lea zanany vavy Zilpa ankizivaviny hanompo azy.",
+    "25": "Ary izao no niseho, nony maraina, indro, fa Lea izy; dia hoy Jakoba tamin' i Labana: Ahoana izao nataonao tamiko izao? Moa tsy Rahely va no nanompoako anao? Ka nahoana no nofitahinao aho?",
+    "26": "Dia hoy Labana: Tsy fanao aty amin' ny taninay ny mamoaka ny zandriny alohan' ny zokiny.",
+    "27": "Tanteraho ny herinandron' ity anankiray ity, dia homenay anao koa ny anankiray noho ny fanompoana izay mbola hanompoanao ahy fito taona indray.",
+    "28": "Dia nataon' i Jakoba izany, ka notanterahiny ny herinandrony; dia nomen' i Labana azy koa Rahely zanany vavy ho vadiny.",
+    "29": "Ary nomen' i Labana an-dRahely zanany vavy kosa i Bila ankizivaviny hanompo azy.",
+    "30": "Dia novadin' i Jakoba koa Rahely; ary izy no tiany mihoatra noho Lea; dia nanompo an' i Labana fito taona indray izy.",
+    "31": "Ary rehefa hitan' i Jehovah fa nankahalaina Lea, dia nampanana anaka azy Izy; fa momba kosa Rahely.",
+    "32": "Dia nanana anaka Lea ka niteraka zazalahy, ary ny anarany dia nataony hoe: Robena; fa hoy izy: Efa nitsinjo ny fahoriako tokoa Jehovah; fa ankehitriny dia ho tian' ny vadiko aho.",
+    "33": "Dia nanana anaka indray izy ka niteraka zazalahy; ary hoy izy: Satria efa ren' i Jehovah fa nankahalaina aho, noho izany dia nomeny ahy koa ity zazalahy ity; dia nataony hoe: Simeona ny anarany.",
+    "34": "Dia nanana anaka indray izy ka niteraka zazalahy; ary hoy izy: Ankehitriny izao dia hikambana amiko ny vadiko, fa efa niteraka zazalahy telo ho azy aho; izany no nanaovana ny anarany hoe Levy.",
+    "35": "Dia nanana anaka indray izy ka niteraka zazalahy; ary hoy izy: Ankehitriny hidera an' i Jehovah aho; noho izany, dia nataony hoe: Joda no anarany; dia nitsaha-jaza izy."
+  }
 }

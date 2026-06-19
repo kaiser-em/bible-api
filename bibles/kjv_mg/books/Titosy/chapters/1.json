@@ -1,69 +1,22 @@
 {
+  "book": "Titosy",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Paoly, mpanompon’Andriamanitra sy apostolin’i Jesosy Kristy, araka ny finoan’ny olom-boafidin’Andriamanitra sy ny fahalalana ny marina izay manaraka ny toe-panahy araka an’Andriamanitra;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Amin’ny fanantenana ny fiainana mandrakizay, izay nampanantenain’Andriamanitra tsy mahay mandainga, talohan’ny niandohan’izao tontolo izao;\""
-    },
-    {
-      "v": 3,
-      "text": "\"Fa tamin’izay andro voatendry dia nasehony ny teniny tamin’ny fitorian-teny izay natolotra ho adidiko araka ny didin’Andriamanitra, Mpamonjy antsika;\""
-    },
-    {
-      "v": 4,
-      "text": "Ho an’i Titosy, tena zanako araka ny finoana iombonana, anie ny fahasoavana sy ny famindram-po ary ny fiadanana avy amin’Andriamanitra Ray sy Jesosy Kristy Tompo Mpamonjy antsika."
-    },
-    {
-      "v": 5,
-      "text": "\"Izao no namelako anao tany Kreta, dia ny handaminanao izay mbola tsy tanteraka sy hanendrenao loholona amin’ny isan-tanàna araka ny nanendreko anao;\""
-    },
-    {
-      "v": 6,
-      "text": "Raha misy tsy manan-tsiny, dia lehilahy manambady tokana, manana zanaka mahatoky izay tsy mba ampangaina ho mpanaram-po amin’ny ratsy na tsy azo fehezina."
-    },
-    {
-      "v": 7,
-      "text": "\"Fa ny mpitandrina dia tsy maintsy ho tsy manan-tsiny, fa mpitandrina ny an’Andriamanitra, tsy mitompo teny fantatra, tsy mora tezitra, tsy mpisotro divay, tsy mpila ady aman’olona, tsy tia harena maloto;\""
-    },
-    {
-      "v": 8,
-      "text": "Fa tia mampiantrano vahiny, tia ny olona manao ny tsara, mahonon-tena, marina, masina, mahonom-po,"
-    },
-    {
-      "v": 9,
-      "text": "Mitana mafy ny teny marina araka ny efa nampianarina, mba hahaizany hananatra amin’ny foto-pampianarana tsy misy kilema sady handresy lahatra ny mpanohitra."
-    },
-    {
-      "v": 10,
-      "text": "\"Fa maro no tsy azo fehezina, mpitaria foana sy mpamitaka, indrindra fa ny avy amin’ny voafora;\""
-    },
-    {
-      "v": 11,
-      "text": "Tsy maintsy hotampenam-bava ireo, izay mampivadika mpianakavy maro, fa mampianatra izay tsy mety mba hahazoany harena maloto."
-    },
-    {
-      "v": 12,
-      "text": "Hoy ny anankiray amin’ireny, izay mpaminany teo aminy: “Mpandainga mandrakariva ny Kretana, biby ratsy, kamo be tenda”."
-    },
-    {
-      "v": 13,
-      "text": "\"Marina izany vavolombelona izany. Ary noho izany dia anaro mafy izy ireo, mba ho marina amin’ny finoana;\""
-    },
-    {
-      "v": 14,
-      "text": "Tsy mitandrina ny anganon’ny Jiosy sy ny didin’olona izay mivily miala amin’ny fahamarinana."
-    },
-    {
-      "v": 15,
-      "text": "\"Madio avokoa ny zavatra rehetra raha amin’ny olona madio; fa raha amin’ny olona voaloto sady tsy mino kosa dia tsy misy madio na inona na inona; fa voaloto na ny sainy na ny fieritreretany.\""
-    },
-    {
-      "v": 16,
-      "text": "Manaiky fa mahalala an’Andriamanitra izy, nefa mandà Azy amin’ny asany, dia olona vetaveta sy tsy mpankatò ary mandà ny hanao ny asa tsara rehetra."
-    }
-  ]
+  "verses": {
+    "1": "Paoly, mpanompon’Andriamanitra sy apostolin’i Jesosy Kristy, araka ny finoan’ny olom-boafidin’Andriamanitra sy ny fahalalana ny marina izay manaraka ny toe-panahy araka an’Andriamanitra;",
+    "2": "Amin’ny fanantenana ny fiainana mandrakizay, izay nampanantenain’Andriamanitra tsy mahay mandainga, talohan’ny niandohan’izao tontolo izao;",
+    "3": "Fa tamin’izay andro voatendry dia nasehony ny teniny tamin’ny fitorian-teny izay natolotra ho adidiko araka ny didin’Andriamanitra, Mpamonjy antsika;",
+    "4": "Ho an’i Titosy, tena zanako araka ny finoana iombonana, anie ny fahasoavana sy ny famindram-po ary ny fiadanana avy amin’Andriamanitra Ray sy Jesosy Kristy Tompo Mpamonjy antsika.",
+    "5": "Izao no namelako anao tany Kreta, dia ny handaminanao izay mbola tsy tanteraka sy hanendrenao loholona amin’ny isan-tanàna araka ny nanendreko anao;",
+    "6": "Raha misy tsy manan-tsiny, dia lehilahy manambady tokana, manana zanaka mahatoky izay tsy mba ampangaina ho mpanaram-po amin’ny ratsy na tsy azo fehezina.",
+    "7": "Fa ny mpitandrina dia tsy maintsy ho tsy manan-tsiny, fa mpitandrina ny an’Andriamanitra, tsy mitompo teny fantatra, tsy mora tezitra, tsy mpisotro divay, tsy mpila ady aman’olona, tsy tia harena maloto;",
+    "8": "Fa tia mampiantrano vahiny, tia ny olona manao ny tsara, mahonon-tena, marina, masina, mahonom-po,",
+    "9": "Mitana mafy ny teny marina araka ny efa nampianarina, mba hahaizany hananatra amin’ny foto-pampianarana tsy misy kilema sady handresy lahatra ny mpanohitra.",
+    "10": "Fa maro no tsy azo fehezina, mpitaria foana sy mpamitaka, indrindra fa ny avy amin’ny voafora;",
+    "11": "Tsy maintsy hotampenam-bava ireo, izay mampivadika mpianakavy maro, fa mampianatra izay tsy mety mba hahazoany harena maloto.",
+    "12": "Hoy ny anankiray amin’ireny, izay mpaminany teo aminy: “Mpandainga mandrakariva ny Kretana, biby ratsy, kamo be tenda”.",
+    "13": "Marina izany vavolombelona izany. Ary noho izany dia anaro mafy izy ireo, mba ho marina amin’ny finoana;",
+    "14": "Tsy mitandrina ny anganon’ny Jiosy sy ny didin’olona izay mivily miala amin’ny fahamarinana.",
+    "15": "Madio avokoa ny zavatra rehetra raha amin’ny olona madio; fa raha amin’ny olona voaloto sady tsy mino kosa dia tsy misy madio na inona na inona; fa voaloto na ny sainy na ny fieritreretany.",
+    "16": "Manaiky fa mahalala an’Andriamanitra izy, nefa mandà Azy amin’ny asany, dia olona vetaveta sy tsy mpankatò ary mandà ny hanao ny asa tsara rehetra."
+  }
 }

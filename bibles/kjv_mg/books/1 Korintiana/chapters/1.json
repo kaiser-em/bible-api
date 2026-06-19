@@ -1,129 +1,37 @@
 {
+  "book": "1 Korintiana",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Paoly nantsoina ho apostolin’i Jesosy Kristy noho ny sitrapon’Andriamanitra, ary Sostena rahalahy,"
-    },
-    {
-      "v": 2,
-      "text": "Ho an’ny fiangonan’Andriamanitra any Korinto, dia izay nohamasinina ao amin’i Kristy Jesosy, nantsoina ho olo-masina, mbamin’izay rehetra miantso ny anaran’i Jesosy Kristy Tompontsika, Izay azy sy antsika, na aiza na aiza."
-    },
-    {
-      "v": 3,
-      "text": "Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin’Andriamanitra Raintsika sy Jesosy Kristy Tompo."
-    },
-    {
-      "v": 4,
-      "text": "Misaotra an’Andriamanitra mandrakariva ny aminareo aho noho ny fahasoavan’Andriamanitra izay nomena anareo tamin’ny alalan' i Kristy Jesosy,"
-    },
-    {
-      "v": 5,
-      "text": "Dia ny nampananana harena anareo ao aminy amin’ny zavatra rehetra, na ny teny rehetra, na ny fahalalana rehetra,"
-    },
-    {
-      "v": 6,
-      "text": "Araka ny niorenan’ny fanambarana an’i Kristy teo aminareo,"
-    },
-    {
-      "v": 7,
-      "text": "Koa tsy misy fanomezana tsy anananareo eo am-piandrasana ny fiavian’i Jesosy Kristy Tompontsika,"
-    },
-    {
-      "v": 8,
-      "text": "Izay hampiorina anareo koa hatramin’ny farany, ka dia tsy hanan-tsiny ianareo amin’ny andron’i Jesosy Kristy Tompontsika."
-    },
-    {
-      "v": 9,
-      "text": "Mahatoky Andriamanitra, Izay nahatonga ny fiantsoana anareo, hanananareo firaisana amin' ny Zanany dia Jesosy Kristy Tompontsika."
-    },
-    {
-      "v": 10,
-      "text": "Koa miangavy anareo aho, ry rahalahy, amin' ny anaran' i Jesosy Kristy Tompontsika, mba hiray teny ianareo rehetra, ary mba tsy hisy fisarahana eo aminareo, fa mba ho tafakambana tanteraka ianareo hiray saina sy hevitra."
-    },
-    {
-      "v": 11,
-      "text": "Fa efa voalazan’ny avy amin’ny ankohonan’i Kloa tamiko ny amin’ny toetrareo, ry rahalahiko, fa misy fifampiandaniana eo aminareo."
-    },
-    {
-      "v": 12,
-      "text": "Izao anefa no anaovako izany: Ianareo samy manao hoe: Izaho an’i Paoly, na: Izaho an’i Apolosy, na: Izaho an’i Kefasy, na: Izaho an’i Kristy."
-    },
-    {
-      "v": 13,
-      "text": "Voazarazara va Kristy? Paoly va no voahombo tamin’ny hazofijaliana ho anareo? sa ho amin’ny anaran’i Paoly no nanaovam-batisa anareo?"
-    },
-    {
-      "v": 14,
-      "text": "Misaotra an’Andriamanitra aho fa tsy nisy nataoko batisa ianareo afa-tsy Krispo sy Gaio,"
-    },
-    {
-      "v": 15,
-      "text": "Fandrao misy milaza fa efa nanao batisa tamin’ny anarako aho."
-    },
-    {
-      "v": 16,
-      "text": "Nefa mba efa nanao batisa ny ankohonan’i Stefanasy ihany koa aho, ankoatra ireo dia tsy hitako izay nataoko batisa."
-    },
-    {
-      "v": 17,
-      "text": "Fa tsy naniraka ahy hanao batisa Kristy, fa hitory ny filazantsara, tsy amin’ny teny fahendrena, fandrao ho foana ny hazofijalian’i Kristy."
-    },
-    {
-      "v": 18,
-      "text": "Fa ny fitoriana ny hazofijaliana dia fahadalana amin’izay very, fa herin’Andriamanitra amintsika izay voavonjy."
-    },
-    {
-      "v": 19,
-      "text": "Fa voasoratra hoe: “Hofoanako ny fahendren’ny hendry, ary hataoko tonga tsinontsinona ny fahalalan’ny manan-tsaina”"
-    },
-    {
-      "v": 20,
-      "text": "Aiza ny hendry? Aiza ny mpanoradalàna? Aiza ny mpiady hevitra amin’izao tontolo izao? Tsy nampodin’Andriamanitra ho fahadalana va ny fahendren’izao tontolo izao?"
-    },
-    {
-      "v": 21,
-      "text": "Fa araka ny fahendren’Andriamanitra, ny fahendrena tsy nahatonga izao tontolo izao hahalala an’Andriamanitra, ka dia ny fahadalan’ny fitorianteny no sitrak’Andriamanitra hamonjena izay mino."
-    },
-    {
-      "v": 22,
-      "text": "\"Satria ny Jiosy mila famantarana, ary ny Grika mitady fahendrena;\""
-    },
-    {
-      "v": 23,
-      "text": "\"Nefa mitory an’i Kristy voahombo tamin’ny hazofijaliana izahay, dia fahatafintohinana amin’ny Jiosy ary fahadalana amin’ny Grika;\""
-    },
-    {
-      "v": 24,
-      "text": "Fa amin’izay voantso kosa, na Jiosy na Grika, Kristy dia herin’Andriamanitra sy fahendren’Andriamanitra."
-    },
-    {
-      "v": 25,
-      "text": "\"Satria ny fahadalan’Andriamanitra dia hendry noho ny olona; ary ny fahalemen’Andriamanitra mahery noho ny olona.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Fa hitanareo ny fiantsoana anareo, ry rahalahy, fa tsy firy no olon-kendry araka ny nofo, tsy firy no olona mahery, tsy firy no avo razana no voantso;\""
-    },
-    {
-      "v": 27,
-      "text": "\"Fa ny adala amin’izao tontolo izao no nofidin’Andriamanitra hampahamenatra ny hendry; ary ny malemy amin’izao tontolo izao no nofidin’Andriamanitra hampahamenatra ny mahery;\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary izay ambany amin’izao tontolo izao sy izay fanevateva no nofidin’Andriamanitra, eny, izay atao ho tsy misy aza, mba hahafoana ny misy;\""
-    },
-    {
-      "v": 29,
-      "text": "Mba tsy hisy nofo hahazo mirehareha eo anatrehany."
-    },
-    {
-      "v": 30,
-      "text": "Fa avy aminy no nanaovana anareo ao amin’i Kristy Jesosy, Izay nataon’Andriamanitra fahendrena sy fahamarinana sy fahamasinana ary fanavotana ho antsika,"
-    },
-    {
-      "v": 31,
-      "text": "Mba ho araka ny voasoratra hoe: “Izay mirehareha, aoka Jehovah no ho reharehany”"
-    }
-  ]
+  "verses": {
+    "1": "Paoly nantsoina ho apostolin’i Jesosy Kristy noho ny sitrapon’Andriamanitra, ary Sostena rahalahy,",
+    "2": "Ho an’ny fiangonan’Andriamanitra any Korinto, dia izay nohamasinina ao amin’i Kristy Jesosy, nantsoina ho olo-masina, mbamin’izay rehetra miantso ny anaran’i Jesosy Kristy Tompontsika, Izay azy sy antsika, na aiza na aiza.",
+    "3": "Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin’Andriamanitra Raintsika sy Jesosy Kristy Tompo.",
+    "4": "Misaotra an’Andriamanitra mandrakariva ny aminareo aho noho ny fahasoavan’Andriamanitra izay nomena anareo tamin’ny alalan' i Kristy Jesosy,",
+    "5": "Dia ny nampananana harena anareo ao aminy amin’ny zavatra rehetra, na ny teny rehetra, na ny fahalalana rehetra,",
+    "6": "Araka ny niorenan’ny fanambarana an’i Kristy teo aminareo,",
+    "7": "Koa tsy misy fanomezana tsy anananareo eo am-piandrasana ny fiavian’i Jesosy Kristy Tompontsika,",
+    "8": "Izay hampiorina anareo koa hatramin’ny farany, ka dia tsy hanan-tsiny ianareo amin’ny andron’i Jesosy Kristy Tompontsika.",
+    "9": "Mahatoky Andriamanitra, Izay nahatonga ny fiantsoana anareo, hanananareo firaisana amin' ny Zanany dia Jesosy Kristy Tompontsika.",
+    "10": "Koa miangavy anareo aho, ry rahalahy, amin' ny anaran' i Jesosy Kristy Tompontsika, mba hiray teny ianareo rehetra, ary mba tsy hisy fisarahana eo aminareo, fa mba ho tafakambana tanteraka ianareo hiray saina sy hevitra.",
+    "11": "Fa efa voalazan’ny avy amin’ny ankohonan’i Kloa tamiko ny amin’ny toetrareo, ry rahalahiko, fa misy fifampiandaniana eo aminareo.",
+    "12": "Izao anefa no anaovako izany: Ianareo samy manao hoe: Izaho an’i Paoly, na: Izaho an’i Apolosy, na: Izaho an’i Kefasy, na: Izaho an’i Kristy.",
+    "13": "Voazarazara va Kristy? Paoly va no voahombo tamin’ny hazofijaliana ho anareo? sa ho amin’ny anaran’i Paoly no nanaovam-batisa anareo?",
+    "14": "Misaotra an’Andriamanitra aho fa tsy nisy nataoko batisa ianareo afa-tsy Krispo sy Gaio,",
+    "15": "Fandrao misy milaza fa efa nanao batisa tamin’ny anarako aho.",
+    "16": "Nefa mba efa nanao batisa ny ankohonan’i Stefanasy ihany koa aho, ankoatra ireo dia tsy hitako izay nataoko batisa.",
+    "17": "Fa tsy naniraka ahy hanao batisa Kristy, fa hitory ny filazantsara, tsy amin’ny teny fahendrena, fandrao ho foana ny hazofijalian’i Kristy.",
+    "18": "Fa ny fitoriana ny hazofijaliana dia fahadalana amin’izay very, fa herin’Andriamanitra amintsika izay voavonjy.",
+    "19": "Fa voasoratra hoe: “Hofoanako ny fahendren’ny hendry, ary hataoko tonga tsinontsinona ny fahalalan’ny manan-tsaina”",
+    "20": "Aiza ny hendry? Aiza ny mpanoradalàna? Aiza ny mpiady hevitra amin’izao tontolo izao? Tsy nampodin’Andriamanitra ho fahadalana va ny fahendren’izao tontolo izao?",
+    "21": "Fa araka ny fahendren’Andriamanitra, ny fahendrena tsy nahatonga izao tontolo izao hahalala an’Andriamanitra, ka dia ny fahadalan’ny fitorianteny no sitrak’Andriamanitra hamonjena izay mino.",
+    "22": "Satria ny Jiosy mila famantarana, ary ny Grika mitady fahendrena;",
+    "23": "Nefa mitory an’i Kristy voahombo tamin’ny hazofijaliana izahay, dia fahatafintohinana amin’ny Jiosy ary fahadalana amin’ny Grika;",
+    "24": "Fa amin’izay voantso kosa, na Jiosy na Grika, Kristy dia herin’Andriamanitra sy fahendren’Andriamanitra.",
+    "25": "Satria ny fahadalan’Andriamanitra dia hendry noho ny olona; ary ny fahalemen’Andriamanitra mahery noho ny olona.",
+    "26": "Fa hitanareo ny fiantsoana anareo, ry rahalahy, fa tsy firy no olon-kendry araka ny nofo, tsy firy no olona mahery, tsy firy no avo razana no voantso;",
+    "27": "Fa ny adala amin’izao tontolo izao no nofidin’Andriamanitra hampahamenatra ny hendry; ary ny malemy amin’izao tontolo izao no nofidin’Andriamanitra hampahamenatra ny mahery;",
+    "28": "Ary izay ambany amin’izao tontolo izao sy izay fanevateva no nofidin’Andriamanitra, eny, izay atao ho tsy misy aza, mba hahafoana ny misy;",
+    "29": "Mba tsy hisy nofo hahazo mirehareha eo anatrehany.",
+    "30": "Fa avy aminy no nanaovana anareo ao amin’i Kristy Jesosy, Izay nataon’Andriamanitra fahendrena sy fahamarinana sy fahamasinana ary fanavotana ho antsika,",
+    "31": "Mba ho araka ny voasoratra hoe: “Izay mirehareha, aoka Jehovah no ho reharehany”"
+  }
 }

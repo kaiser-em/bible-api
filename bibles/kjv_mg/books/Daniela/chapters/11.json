@@ -1,185 +1,51 @@
 {
+  "book": "Daniela",
   "chapter": 11,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary koa tamin' ny taona voalohany nanjakan' i Dariosy Mediana dia nitsangana hampahery sy hanatanjaka azy aho."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary ankehitriny dia hasehoko anao ny marina. Indro, mbola hisy mpanjaka telo koa hitsangana any Persia; ary ny fahefatra hanankarena be mihoatra noho izy rehetra; koa rehefa mahery izy noho ny hareny, dia hotairiny avokoa ny olona rehetra hamely ny fanjakan' i Grisia.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary hisy mpanjaka mahery hitsangana, izay hanapaka amin' ny fanapahana lehibe sady hanao araka izay sitrapony."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary rehefa hitsangana izy, dia horavana ny fanjakany ka hozaraina ho amin' ny rivotra efatry ny lanitra; fa tsy ho an' ny taranany, na araka ny fanapahany izay nanapahany, fa hongotana ny fanjakany ka ho an' ny hafa, fa tsy ho an' ireo.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary hahery ny mpanjakan' ny atsimo sy ny iray amin' ny mpanapany; ka ny anankiray amin' ny andriandahiny dia hahery noho izy ka hanapaka; ho fanapahana lehibe ny fanapahany.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary amin' ny faran' ny taona vitsivitsy, dia hikambana izy roa lahy ireo; fa ho avy ny zanakavavin' ny mpanjakan' ny atsimo hankany amin' ny mpanjakan' ny avaratra hahatsara ny fihavanana; nefa tsy hahatana ny herin-tsandry izy, ary tsy hahajanona ilay mpanjaka na ny sandriny, fa hatolotra razazavavy sy ireo nitondra azy sy rainy niteraka azy mbamin' izay nampahery azy tamin' izany fotoana izany.\""
-    },
-    {
-      "v": 7,
-      "text": "Fa hisy solofony anankiray avy amin' ny fakany hitsangana handimby azy, ka ho avy hitondra ny miaramila, ary hidirany ny fiarovana mafin' ny mpanjakan' ny avaratra, ka hasiany ireo, dia hahery izy."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary ny andriamaniny koa sy ny andriandahiny mbamin' ny fanaka sarobidiny volafotsy sy volamena dia entina hobaboina any Egypta; hitohy taona maromaro kokoa noho ny mpanjakan' ny avaratra izy.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary ny mpanjakan' ny atsimo ho tonga any amin' ny fanjakany, ary hody any amin' ny taniny izy."
-    },
-    {
-      "v": 10,
-      "text": "\"Fa hohetsehina ny zanany ka hanangona miaramila marobe; ka ho avy tokoa ireo sady hanerana toy ny safotra, rehefa izany, dia hiverina izy, ary hohetsehina indray na dia ny fiarovany mafy aza.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary dia hisafoaka ny mpanjakan' ny atsimo, ka hivoaka hiady aminy izy, dia amin' ny mpanjakan' ny avaratra, ary izy hanangona marobe; ary ny marobe dia hatolotra ho eo an-tanany.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary rehefa ravany ny marobe, dia hiavonavona ny fony, ary haharipaka alinalina izy, nefa tsy hahery amin' izany."
-    },
-    {
-      "v": 13,
-      "text": "Fa hiverina ny mpanjakan' ny avaratra ka hanangona olona marobe mihoatra noho ny teo,ary rehefa afaka taona maromaro, dia ho avy tokoa izy ka hiaraka amin' ny miaramila marobe mbamin' ny harem-be."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary amin' izany fotoana izany dia maro no hitsangana hamely ny mpanjakan' ny atsimo; ary ny mpandroba amin' ny olonao koa dia hanandra-tena hahatò ny fahitana, nefa ho lavo izy.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ka dia ho avy ny mpanjakan' ny avaratra hanandratra tovon-tany hanafaka ny tanàna mimanda; ary na ny sandrin' ny atsimo na ny olom-boafidiny dia tsy hahomby ary tsy hisy hery hahombiazany.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Fa izay avy hamely azy dia hanao araka izay sitrapony, ka tsy hisy hahajanona eo anatrehany; ary izy hijanona ao amin' ny tany mahafinaritra, izay ho levona amin' ny tanany.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Dia hivonona tsara handeha amin' ny herin' ny fanjakany rehetra izy sy ny olo-mahitsy hiaraka aminy, izany no hataony; ary homena azy ny zanakavavin' ny vehivavy ka holotoiny, nefa tsy homba azy razazavavy na ho azy.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Rehefa afaka izany, dia hitodika mankany amin' ny nosy izy ka hahalasa be; nefa hisy mpanapaka hampitsahatra ny latsa ataony, sady tsy hanan-kenatra izy fa hatsingeriny aminy ny latsa ataony.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Dia hitodika hankany amin' ny fiarovana mafy any amin' ny taniny izy; kanjo ho tafintohina sy ho lavo izy ka tsy ho hita.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Ary hitsangana handimby azy izay mpampandoa hetra amin' ny voninahitry ny fanjakana; fa rehefa afaka andro vitsivitsy dia ho rava izy nefa tsy amin' ny fahatezerana na amin' ny ady.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Ary hisy olona famingavinga hitsangana handimby io indray, izay tsy homena ny voninahitry ny fanjakana; fa hiditra am-piadanana izy ka hahazo ny fanjakana amin' ny fandroboana.\""
-    },
-    {
-      "v": 22,
-      "text": "Ary amin' ny sandrin' ny safotra no hanindaosina ireo hiala eo anatrehany sady hotorotoroina, eny, mbamin' ny andriana vita fanekena aminy koa."
-    },
-    {
-      "v": 23,
-      "text": "Ary rehefa mifanaiky aminy io, dia hanao fitaka izy, fa hiakatra izy ka hahery miaraka amin' ny olom-bitsy."
-    },
-    {
-      "v": 24,
-      "text": "\"Hiditra am-piadanana amin' ny faritany mahavokatra indrindra izy ka hanao izay tsy nataon' ny rainy na ny razany; hahàhany eny amin' ireny ny sambotra sy ny babo ary ny harena; eny, hamoron-tsaina izy ka hamely ny fiarovana mandra-pahalanin' ny fotoana.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ary hanaitra ny heriny sy ny fahasahiany izy hamely ny mpanjakan' ny atsimo amin' ny miaramila maro ary ny mpanjakan' ny atsimo kosa hanafika mitondra miaramila maro sady mahery indrindra; nefa tsy hahajanona izy, satria hamoron-tsaina hamely azy ireo.\""
-    },
-    {
-      "v": 26,
-      "text": "Eny, izay homana ny hanina avy aminy ihany no hahalavo azy, ary ny miaramilany hanerana toy ny safotra, sady maro ny faty hiampatrampatra."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary ny fon' ireo mpanjaka roa ireo dia samy te-hanao ratsy; ary eo an-databatra iray no hiresahany lainga, nefa tsy hambinina izany; fa ny farany dia ho amin' ny fotoana voatendry ihany.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary hiverina ho any amin' ny taniny mitondra harena be izy; koa ny fony dia hanohitra ny fanekena masina; ary hahefa sy hiverina ho any amin' ny taniny izy.\""
-    },
-    {
-      "v": 29,
-      "text": "Amin' ny fotoana voatendry dia hiverina izy ka ho lasa mianatsimo indray, nefa tsy ho toy ny voalohany na ho toy ny farany."
-    },
-    {
-      "v": 30,
-      "text": "\"Fa ny sambon' i Kitima ho avy hamely azy, ka dia ho kivy izy ka hiverina ary hisafoaka amin' ny fanekena masina, izany no hataony; eny, hiverina izy ka hisaina miaraka amin' ireo efa mahafoy ny fanekena masina.\""
-    },
-    {
-      "v": 31,
-      "text": "Ary hisy miaramila hitsangana hiandany aminy ka handoto ny fitoerana masina, dia ny fiarovana mafy, ary hampitsahatra ny fanatitra isan' andro sady hampiditra ny fahavetavetana mahatonga fandravana."
-    },
-    {
-      "v": 32,
-      "text": "\"Ary izay mivadika ny fanekena dia hambosìny amin' ny fandroboana; fa ny olona izay mahalala an' Andriamaniny kosa dia hihahery ka hahefa.\""
-    },
-    {
-      "v": 33,
-      "text": "Ary izay mahalala eo amin' ny olona dia hampianatra ny maro, nefa ho lavon' ny sabatra sy ny lelafo, sy ny famaboana, ary ny fandrobana andro maro izy."
-    },
-    {
-      "v": 34,
-      "text": "\"Ary rehefa lavo izy, dia hahazo famonjena kely hanampy azy; ary maro no hikambana aminy amin' ny fandroboana.\""
-    },
-    {
-      "v": 35,
-      "text": "Ary ho lavo ny sasany amin' izay mahalala, mba hizahan-toetra azy sy hanadiovana ary hamotsiana azy ambara-pahatongan' ny fotoana farany, fa mbola ho amin' ny fotoana voatendry ihany izany."
-    },
-    {
-      "v": 36,
-      "text": "\"Ary ny mpanjaka hanao araka izay sitrapony; ary hisandratra sy hanandra-tena ho ambonin' ny andriamanitra rehetra izy ka hiteny zavatra mahagaga hanohitra an' Andriamanitry ny andriamanitra, ary hambinina ihany izy mandra-pahatanteraky ny fahatezerana; fa izay efa voatendry no tsy maintsy hatao.\""
-    },
-    {
-      "v": 37,
-      "text": "\"Ary tsy hahoany akory ny andriamanitry ny razany, na ny fitiavan' ny vehivavy; eny, tsy hahoany akory izay andriamanitra, fa hanandra-tena noho izy rehetra izy.\""
-    },
-    {
-      "v": 38,
-      "text": "\"Fa ny andriamanitry ny fiarovana mafy no hankalazainy hisolo izany; ary volamena sy volafotsy sy vatosoa ary zavatra mahafinaritra no hoentiny mankalaza ny andriamanitra izay tsy fantatry ny razany.\""
-    },
-    {
-      "v": 39,
-      "text": "\"Izany no hataony ao amin' ny batery mafy indrindra amin' andriamani-tsy izy, izay hekeny sy hampitomboiny voninahitra; ary hataony mpanapaka ny maro ireo, ka hizara ny tany hahazoana tombony.\""
-    },
-    {
-      "v": 40,
-      "text": "\"Ary amin' ny fotoana farany dia hanoto azy ny mpanjakan' ny atsimo; ary ny mpanjakan' ny avaratra ho avy hamely azy toy ny tafio-drivotra ka hitondra kalesy sy mpitaingin-tsoavaly ary sambo maro; ary hiditra amin' ny tany izy ka hanerana toy ny safotra.\""
-    },
-    {
-      "v": 41,
-      "text": "\"Hiditra ao amin' ny tany be voninahitra koa izy, ary firenena maro no ho ripaka; fa izao kosa no ho afa-mandositra ny tanany; Edoma sy Moaba ary ireo lohan' ny taranak' i Amona.\""
-    },
-    {
-      "v": 42,
-      "text": "\"Haninjitra ny tanany amin' ny tany sasany koa izy; ary ny tany Egypta tsy ho afa-mandositra.\""
-    },
-    {
-      "v": 43,
-      "text": "\"Fa hahalasa ny rakitra volamena sy volafotsy ary ny zava-tsoan' i Egypta rehetra izy; ary ny Libyana sy ny Etiopiana hanaraka azy.\""
-    },
-    {
-      "v": 44,
-      "text": "Fa hisy siosion-teny avy any atsinanana sy avy any avaratra haharaiki-tahotra azy, ka dia hivoaka amin' ny fahatezerana be izy handrava sy handringana maro."
-    },
-    {
-      "v": 45,
-      "text": "Ary haoriny eo anelanelan' ny ranomasina sy ny tendrombohitra masina be voninahitra ny tranolain' ny lapany, nefa ho tonga ao amin' ny farany izy ka tsy hisy hanampy azy."
-    }
-  ]
+  "verses": {
+    "1": "Ary koa tamin' ny taona voalohany nanjakan' i Dariosy Mediana dia nitsangana hampahery sy hanatanjaka azy aho.",
+    "2": "Ary ankehitriny dia hasehoko anao ny marina. Indro, mbola hisy mpanjaka telo koa hitsangana any Persia; ary ny fahefatra hanankarena be mihoatra noho izy rehetra; koa rehefa mahery izy noho ny hareny, dia hotairiny avokoa ny olona rehetra hamely ny fanjakan' i Grisia.",
+    "3": "Ary hisy mpanjaka mahery hitsangana, izay hanapaka amin' ny fanapahana lehibe sady hanao araka izay sitrapony.",
+    "4": "Ary rehefa hitsangana izy, dia horavana ny fanjakany ka hozaraina ho amin' ny rivotra efatry ny lanitra; fa tsy ho an' ny taranany, na araka ny fanapahany izay nanapahany, fa hongotana ny fanjakany ka ho an' ny hafa, fa tsy ho an' ireo.",
+    "5": "Ary hahery ny mpanjakan' ny atsimo sy ny iray amin' ny mpanapany; ka ny anankiray amin' ny andriandahiny dia hahery noho izy ka hanapaka; ho fanapahana lehibe ny fanapahany.",
+    "6": "Ary amin' ny faran' ny taona vitsivitsy, dia hikambana izy roa lahy ireo; fa ho avy ny zanakavavin' ny mpanjakan' ny atsimo hankany amin' ny mpanjakan' ny avaratra hahatsara ny fihavanana; nefa tsy hahatana ny herin-tsandry izy, ary tsy hahajanona ilay mpanjaka na ny sandriny, fa hatolotra razazavavy sy ireo nitondra azy sy rainy niteraka azy mbamin' izay nampahery azy tamin' izany fotoana izany.",
+    "7": "Fa hisy solofony anankiray avy amin' ny fakany hitsangana handimby azy, ka ho avy hitondra ny miaramila, ary hidirany ny fiarovana mafin' ny mpanjakan' ny avaratra, ka hasiany ireo, dia hahery izy.",
+    "8": "Ary ny andriamaniny koa sy ny andriandahiny mbamin' ny fanaka sarobidiny volafotsy sy volamena dia entina hobaboina any Egypta; hitohy taona maromaro kokoa noho ny mpanjakan' ny avaratra izy.",
+    "9": "Ary ny mpanjakan' ny atsimo ho tonga any amin' ny fanjakany, ary hody any amin' ny taniny izy.",
+    "10": "Fa hohetsehina ny zanany ka hanangona miaramila marobe; ka ho avy tokoa ireo sady hanerana toy ny safotra, rehefa izany, dia hiverina izy, ary hohetsehina indray na dia ny fiarovany mafy aza.",
+    "11": "Ary dia hisafoaka ny mpanjakan' ny atsimo, ka hivoaka hiady aminy izy, dia amin' ny mpanjakan' ny avaratra, ary izy hanangona marobe; ary ny marobe dia hatolotra ho eo an-tanany.",
+    "12": "Ary rehefa ravany ny marobe, dia hiavonavona ny fony, ary haharipaka alinalina izy, nefa tsy hahery amin' izany.",
+    "13": "Fa hiverina ny mpanjakan' ny avaratra ka hanangona olona marobe mihoatra noho ny teo,ary rehefa afaka taona maromaro, dia ho avy tokoa izy ka hiaraka amin' ny miaramila marobe mbamin' ny harem-be.",
+    "14": "Ary amin' izany fotoana izany dia maro no hitsangana hamely ny mpanjakan' ny atsimo; ary ny mpandroba amin' ny olonao koa dia hanandra-tena hahatò ny fahitana, nefa ho lavo izy.",
+    "15": "Ka dia ho avy ny mpanjakan' ny avaratra hanandratra tovon-tany hanafaka ny tanàna mimanda; ary na ny sandrin' ny atsimo na ny olom-boafidiny dia tsy hahomby ary tsy hisy hery hahombiazany.",
+    "16": "Fa izay avy hamely azy dia hanao araka izay sitrapony, ka tsy hisy hahajanona eo anatrehany; ary izy hijanona ao amin' ny tany mahafinaritra, izay ho levona amin' ny tanany.",
+    "17": "Dia hivonona tsara handeha amin' ny herin' ny fanjakany rehetra izy sy ny olo-mahitsy hiaraka aminy, izany no hataony; ary homena azy ny zanakavavin' ny vehivavy ka holotoiny, nefa tsy homba azy razazavavy na ho azy.",
+    "18": "Rehefa afaka izany, dia hitodika mankany amin' ny nosy izy ka hahalasa be; nefa hisy mpanapaka hampitsahatra ny latsa ataony, sady tsy hanan-kenatra izy fa hatsingeriny aminy ny latsa ataony.",
+    "19": "Dia hitodika hankany amin' ny fiarovana mafy any amin' ny taniny izy; kanjo ho tafintohina sy ho lavo izy ka tsy ho hita.",
+    "20": "Ary hitsangana handimby azy izay mpampandoa hetra amin' ny voninahitry ny fanjakana; fa rehefa afaka andro vitsivitsy dia ho rava izy nefa tsy amin' ny fahatezerana na amin' ny ady.",
+    "21": "Ary hisy olona famingavinga hitsangana handimby io indray, izay tsy homena ny voninahitry ny fanjakana; fa hiditra am-piadanana izy ka hahazo ny fanjakana amin' ny fandroboana.",
+    "22": "Ary amin' ny sandrin' ny safotra no hanindaosina ireo hiala eo anatrehany sady hotorotoroina, eny, mbamin' ny andriana vita fanekena aminy koa.",
+    "23": "Ary rehefa mifanaiky aminy io, dia hanao fitaka izy, fa hiakatra izy ka hahery miaraka amin' ny olom-bitsy.",
+    "24": "Hiditra am-piadanana amin' ny faritany mahavokatra indrindra izy ka hanao izay tsy nataon' ny rainy na ny razany; hahàhany eny amin' ireny ny sambotra sy ny babo ary ny harena; eny, hamoron-tsaina izy ka hamely ny fiarovana mandra-pahalanin' ny fotoana.",
+    "25": "Ary hanaitra ny heriny sy ny fahasahiany izy hamely ny mpanjakan' ny atsimo amin' ny miaramila maro ary ny mpanjakan' ny atsimo kosa hanafika mitondra miaramila maro sady mahery indrindra; nefa tsy hahajanona izy, satria hamoron-tsaina hamely azy ireo.",
+    "26": "Eny, izay homana ny hanina avy aminy ihany no hahalavo azy, ary ny miaramilany hanerana toy ny safotra, sady maro ny faty hiampatrampatra.",
+    "27": "Ary ny fon' ireo mpanjaka roa ireo dia samy te-hanao ratsy; ary eo an-databatra iray no hiresahany lainga, nefa tsy hambinina izany; fa ny farany dia ho amin' ny fotoana voatendry ihany.",
+    "28": "Ary hiverina ho any amin' ny taniny mitondra harena be izy; koa ny fony dia hanohitra ny fanekena masina; ary hahefa sy hiverina ho any amin' ny taniny izy.",
+    "29": "Amin' ny fotoana voatendry dia hiverina izy ka ho lasa mianatsimo indray, nefa tsy ho toy ny voalohany na ho toy ny farany.",
+    "30": "Fa ny sambon' i Kitima ho avy hamely azy, ka dia ho kivy izy ka hiverina ary hisafoaka amin' ny fanekena masina, izany no hataony; eny, hiverina izy ka hisaina miaraka amin' ireo efa mahafoy ny fanekena masina.",
+    "31": "Ary hisy miaramila hitsangana hiandany aminy ka handoto ny fitoerana masina, dia ny fiarovana mafy, ary hampitsahatra ny fanatitra isan' andro sady hampiditra ny fahavetavetana mahatonga fandravana.",
+    "32": "Ary izay mivadika ny fanekena dia hambosìny amin' ny fandroboana; fa ny olona izay mahalala an' Andriamaniny kosa dia hihahery ka hahefa.",
+    "33": "Ary izay mahalala eo amin' ny olona dia hampianatra ny maro, nefa ho lavon' ny sabatra sy ny lelafo, sy ny famaboana, ary ny fandrobana andro maro izy.",
+    "34": "Ary rehefa lavo izy, dia hahazo famonjena kely hanampy azy; ary maro no hikambana aminy amin' ny fandroboana.",
+    "35": "Ary ho lavo ny sasany amin' izay mahalala, mba hizahan-toetra azy sy hanadiovana ary hamotsiana azy ambara-pahatongan' ny fotoana farany, fa mbola ho amin' ny fotoana voatendry ihany izany.",
+    "36": "Ary ny mpanjaka hanao araka izay sitrapony; ary hisandratra sy hanandra-tena ho ambonin' ny andriamanitra rehetra izy ka hiteny zavatra mahagaga hanohitra an' Andriamanitry ny andriamanitra, ary hambinina ihany izy mandra-pahatanteraky ny fahatezerana; fa izay efa voatendry no tsy maintsy hatao.",
+    "37": "Ary tsy hahoany akory ny andriamanitry ny razany, na ny fitiavan' ny vehivavy; eny, tsy hahoany akory izay andriamanitra, fa hanandra-tena noho izy rehetra izy.",
+    "38": "Fa ny andriamanitry ny fiarovana mafy no hankalazainy hisolo izany; ary volamena sy volafotsy sy vatosoa ary zavatra mahafinaritra no hoentiny mankalaza ny andriamanitra izay tsy fantatry ny razany.",
+    "39": "Izany no hataony ao amin' ny batery mafy indrindra amin' andriamani-tsy izy, izay hekeny sy hampitomboiny voninahitra; ary hataony mpanapaka ny maro ireo, ka hizara ny tany hahazoana tombony.",
+    "40": "Ary amin' ny fotoana farany dia hanoto azy ny mpanjakan' ny atsimo; ary ny mpanjakan' ny avaratra ho avy hamely azy toy ny tafio-drivotra ka hitondra kalesy sy mpitaingin-tsoavaly ary sambo maro; ary hiditra amin' ny tany izy ka hanerana toy ny safotra.",
+    "41": "Hiditra ao amin' ny tany be voninahitra koa izy, ary firenena maro no ho ripaka; fa izao kosa no ho afa-mandositra ny tanany; Edoma sy Moaba ary ireo lohan' ny taranak' i Amona.",
+    "42": "Haninjitra ny tanany amin' ny tany sasany koa izy; ary ny tany Egypta tsy ho afa-mandositra.",
+    "43": "Fa hahalasa ny rakitra volamena sy volafotsy ary ny zava-tsoan' i Egypta rehetra izy; ary ny Libyana sy ny Etiopiana hanaraka azy.",
+    "44": "Fa hisy siosion-teny avy any atsinanana sy avy any avaratra haharaiki-tahotra azy, ka dia hivoaka amin' ny fahatezerana be izy handrava sy handringana maro.",
+    "45": "Ary haoriny eo anelanelan' ny ranomasina sy ny tendrombohitra masina be voninahitra ny tranolain' ny lapany, nefa ho tonga ao amin' ny farany izy ka tsy hisy hanampy azy."
+  }
 }

@@ -1,61 +1,20 @@
 {
+  "book": "Hebreo",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Rehefa nampitenenin’Andriamanitra tamin’ny razana fahiny ny mpaminany tamin’ny andro samy hafa sy ny fanao samy hafa;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Dia amin’izao andro farany izao kosa no nampitenenany tamintsika ny Zanany, Izay voatendriny ho Mpandova ny zavatra rehetra; Izy no nahariany izao tontolo izao,\""
-    },
-    {
-      "v": 3,
-      "text": "\"Izy koa no famirapiratan’ny voninahiny sy endriky ny tenany indrindra ary mihazona ny zavatra rehetra amin’ny teniny mahery, rehefa nanao fanadiovana ny fahotantsika ny tenany, dia nipetraka teo amin’ny tanana ankavanan’ny Lehibe any amin’ny avo;\""
-    },
-    {
-      "v": 4,
-      "text": "Ka natao tsara kokoa noho ny anjely, araka ny nandovany anarana tsara noho ireny."
-    },
-    {
-      "v": 5,
-      "text": "Fa anjely iza no mba efa nilazany hoe: “Zanako Ianao, Izaho niteraka Anao androany”? Ary koa: “Izaho ho Rainy, ary Izy ho Zanako”?"
-    },
-    {
-      "v": 6,
-      "text": "Ary raha mitondra ny Lahimatoa ho amin’izao fiainana izao indray Izy, dia hoy Izy: Ary aoka ny anjelin’Andriamanitra rehetra hiankohoka Aminy.”"
-    },
-    {
-      "v": 7,
-      "text": "Ary ny anjely dia ilazany hoe: “Manao ny anjeliny ho fanahy Izy, ary ny mpanompony ho lelafo”."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa hoy Izy ny amin’ny Zanaka: “Ny sezafiandriananao, Andriamanitra ô, dia mandrakizay doria; ary tehim-pahamarinana no tehim-panjakanao.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Tianao ny fahamarinana, fa halanao ny heloka; koa Andriamanitra, dia Andriamanitrao, efa nanoso-diloilo fifaliana Anao mihoatra noho ny namanao.”\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary: “Ianao, Jehovah ô, tany am-piandohana no nanorenanao ny tany, ary asan’ny tananao ny lanitra;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ireo dia ho levona, fa Ianao no maharitra; ary izy rehetra ho tonta toy ny fitafiana,\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary toy ny lamba no hamalonanao azy, ka hovana izy; fa Ianao no tsy miova, ary ny taonanao no tsy ho tapitra.”\""
-    },
-    {
-      "v": 13,
-      "text": "Fa anjely iza no mba efa nilazany hoe: “Mipetraha eo an-tanako ankavanana, ambara-panaoko ny fahavalonao ho fitoeran-tongotrao”?"
-    },
-    {
-      "v": 14,
-      "text": "Tsy fanahy manompo va izy rehetra, nirahina hanao fanompoana ho an’izay handova famonjena?"
-    }
-  ]
+  "verses": {
+    "1": "Rehefa nampitenenin’Andriamanitra tamin’ny razana fahiny ny mpaminany tamin’ny andro samy hafa sy ny fanao samy hafa;",
+    "2": "Dia amin’izao andro farany izao kosa no nampitenenany tamintsika ny Zanany, Izay voatendriny ho Mpandova ny zavatra rehetra; Izy no nahariany izao tontolo izao,",
+    "3": "Izy koa no famirapiratan’ny voninahiny sy endriky ny tenany indrindra ary mihazona ny zavatra rehetra amin’ny teniny mahery, rehefa nanao fanadiovana ny fahotantsika ny tenany, dia nipetraka teo amin’ny tanana ankavanan’ny Lehibe any amin’ny avo;",
+    "4": "Ka natao tsara kokoa noho ny anjely, araka ny nandovany anarana tsara noho ireny.",
+    "5": "Fa anjely iza no mba efa nilazany hoe: “Zanako Ianao, Izaho niteraka Anao androany”? Ary koa: “Izaho ho Rainy, ary Izy ho Zanako”?",
+    "6": "Ary raha mitondra ny Lahimatoa ho amin’izao fiainana izao indray Izy, dia hoy Izy: Ary aoka ny anjelin’Andriamanitra rehetra hiankohoka Aminy.”",
+    "7": "Ary ny anjely dia ilazany hoe: “Manao ny anjeliny ho fanahy Izy, ary ny mpanompony ho lelafo”.",
+    "8": "Fa hoy Izy ny amin’ny Zanaka: “Ny sezafiandriananao, Andriamanitra ô, dia mandrakizay doria; ary tehim-pahamarinana no tehim-panjakanao.",
+    "9": "Tianao ny fahamarinana, fa halanao ny heloka; koa Andriamanitra, dia Andriamanitrao, efa nanoso-diloilo fifaliana Anao mihoatra noho ny namanao.”",
+    "10": "Ary: “Ianao, Jehovah ô, tany am-piandohana no nanorenanao ny tany, ary asan’ny tananao ny lanitra;",
+    "11": "Ireo dia ho levona, fa Ianao no maharitra; ary izy rehetra ho tonta toy ny fitafiana,",
+    "12": "Ary toy ny lamba no hamalonanao azy, ka hovana izy; fa Ianao no tsy miova, ary ny taonanao no tsy ho tapitra.”",
+    "13": "Fa anjely iza no mba efa nilazany hoe: “Mipetraha eo an-tanako ankavanana, ambara-panaoko ny fahavalonao ho fitoeran-tongotrao”?",
+    "14": "Tsy fanahy manompo va izy rehetra, nirahina hanao fanompoana ho an’izay handova famonjena?"
+  }
 }

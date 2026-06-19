@@ -1,105 +1,31 @@
 {
+  "book": "Romana",
   "chapter": 7,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tsy fantatrareo va, ry rahalahy (fa miteny amin' izay mahalala ny lalàna aho), fa ny lalàna dia manapaka ny lehilahy, raha mbola velona izy?"
-    },
-    {
-      "v": 2,
-      "text": "\"Fa ny vehivavy izay manambady dia fehezin' ny lalàna ho an' ny lahy, raha mbola velona ny lahy; fa raha maty kosa ny lahy, dia afaka amin' ny lalàn' ny lahy izy.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Koa raha mbola velona ny lahy, ka manambady olon-kafa ravehivavy, dia hatao hoe mpijangajanga izy; fa raha maty kosa ny lahy, dia afaka amin' izany lalàna izany izy ka tsy mba mpijangajanga, na dia manambady olon-kafa aza.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary amin' izany ianareo koa, ry rahalahiko, dia efa natao maty ny amin' ny lalàna noho ny tenan' i Kristy, mba ho vadin' ny hafa ianareo, dia Izay natsangana tamin' ny maty, mba hahavokarantsika ho an' Andriamanitra."
-    },
-    {
-      "v": 5,
-      "text": "Fa fony tao amin' ny nofo isika, dia ny filàn' ny ota, izay nohetsehin' ny lalàna, no niasa tao amin' ny momba ny tenantsika hahavokatra ho amin' ny fahafatesana."
-    },
-    {
-      "v": 6,
-      "text": "Fa ankehitriny dia efa afaka tamin' ny lalàna isika, satria maty tamin' izay nihazonana antsika, ka dia manompo amin' ny fanavaozam-panahy isika, fa tsy amin' ny soratra izay efa tranainy."
-    },
-    {
-      "v": 7,
-      "text": "Inona àry no holazaintsika? Ota va ny lalàna? Sanatria izany! Kanefa tsy nahalala ny ota aho, raha tsy tamin' ny lalàna, satria tsy fantatro akory ny fitsiriritana, raha tsy ny lalàna no nanao hoe: Aza mitsiriritra"
-    },
-    {
-      "v": 8,
-      "text": "\"Fa io didy io no nentin' ny ota nampihetsika ny fitsiriritana rehetra tato anatiko; fa maty ny ota, raha tsy misy ny lalàna.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary izaho dia velona tsy nanan-dalàna taloha; fa rehefa tonga kosa ny didy, dia velona indray ny ota, ka dia maty aho.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary ny didy izay natao hahazoana fiainana, dia hitako fa nahatonga fahafatesana tamiko kosa."
-    },
-    {
-      "v": 11,
-      "text": "Fa io didy io no nentin' ny ota namitaka sy nahafaty ahy."
-    },
-    {
-      "v": 12,
-      "text": "Noho izany dia masina ny lalàna, ary masina ny didy, sady marina no tsara."
-    },
-    {
-      "v": 13,
-      "text": "\"Koa ny tsara va no nahafaty ahy? Sanatria izany! Fa ny ota no nahafaty ahy, mba hiseho ho ota; fa ny tsara no nentiny nahafaty ahy, mba ho tonga ota indrindra ny ota noho ny nataon' ny lalàna.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Fa fantatsika fa araka ny fanahy ny lalàna; fa izaho kosa nofo,namidy ho an' ny ota.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Fa izay ataoko dia tsy fantatro; fa tsy izay sitrako no ataoko; fa izay halako no ataoko.\""
-    },
-    {
-      "v": 16,
-      "text": "Fa raha manao ny tsy sitrako aho, dia manaiky fa tsara ny lalàna."
-    },
-    {
-      "v": 17,
-      "text": "Ary amin' izany tsy izaho intsony no manao izany, fa ny ota izay mitoetra ato anatiko."
-    },
-    {
-      "v": 18,
-      "text": "Fa fantatro fa tsy misy zavatra tsara mitoetra ato amiko (dia ato amin' ny nofoko), fa ato anatiko ihany ny fikasana, saingy ny hahatanteraka ny tsara no tsy ato."
-    },
-    {
-      "v": 19,
-      "text": "\"Fa tsy ny tsara izay sitrako no ataoko; fa ny ratsy izay tsy sitrako no ataoko.\""
-    },
-    {
-      "v": 20,
-      "text": "Fa raha ny tsy sitrako no ataoko, dia tsy izaho intsony no manao izany fa ny ota izay mitoetra ato amiko."
-    },
-    {
-      "v": 21,
-      "text": "Koa hitako izao lalàna izao: raha te-hanao ny tsara aho, dia ato amiko ihany ny ratsy."
-    },
-    {
-      "v": 22,
-      "text": "\"Fa mankasitraka ny lalàn' Andriamanitra aho araka ny toetra anaty;\""
-    },
-    {
-      "v": 23,
-      "text": "Nefa mahita lalàna hafa amin' ny momba ny tenako aho, miady amin' ny lalàn' ny saiko ka mamabo ahy ho an' ny lalàn' ny ota izay ao amin' ny momba ny tenako."
-    },
-    {
-      "v": 24,
-      "text": "Indrisy! olo-mahantra aho! Iza no hanafaka ahy amin' ny tenan' ity fahafatesana ity?"
-    },
-    {
-      "v": 25,
-      "text": "Misaotra an' Andriamanitra aho amin' ny alalan' i Jesosy Kristy Tompontsika. Koa raha ny amiko, dia mankatò ny lalàn' Andriamanitra aho amin' ny saiko, fa ny lalàn' ny ota kosa amin' ny nofoko."
-    }
-  ]
+  "verses": {
+    "1": "Tsy fantatrareo va, ry rahalahy (fa miteny amin' izay mahalala ny lalàna aho), fa ny lalàna dia manapaka ny lehilahy, raha mbola velona izy?",
+    "2": "Fa ny vehivavy izay manambady dia fehezin' ny lalàna ho an' ny lahy, raha mbola velona ny lahy; fa raha maty kosa ny lahy, dia afaka amin' ny lalàn' ny lahy izy.",
+    "3": "Koa raha mbola velona ny lahy, ka manambady olon-kafa ravehivavy, dia hatao hoe mpijangajanga izy; fa raha maty kosa ny lahy, dia afaka amin' izany lalàna izany izy ka tsy mba mpijangajanga, na dia manambady olon-kafa aza.",
+    "4": "Ary amin' izany ianareo koa, ry rahalahiko, dia efa natao maty ny amin' ny lalàna noho ny tenan' i Kristy, mba ho vadin' ny hafa ianareo, dia Izay natsangana tamin' ny maty, mba hahavokarantsika ho an' Andriamanitra.",
+    "5": "Fa fony tao amin' ny nofo isika, dia ny filàn' ny ota, izay nohetsehin' ny lalàna, no niasa tao amin' ny momba ny tenantsika hahavokatra ho amin' ny fahafatesana.",
+    "6": "Fa ankehitriny dia efa afaka tamin' ny lalàna isika, satria maty tamin' izay nihazonana antsika, ka dia manompo amin' ny fanavaozam-panahy isika, fa tsy amin' ny soratra izay efa tranainy.",
+    "7": "Inona àry no holazaintsika? Ota va ny lalàna? Sanatria izany! Kanefa tsy nahalala ny ota aho, raha tsy tamin' ny lalàna, satria tsy fantatro akory ny fitsiriritana, raha tsy ny lalàna no nanao hoe: Aza mitsiriritra",
+    "8": "Fa io didy io no nentin' ny ota nampihetsika ny fitsiriritana rehetra tato anatiko; fa maty ny ota, raha tsy misy ny lalàna.",
+    "9": "Ary izaho dia velona tsy nanan-dalàna taloha; fa rehefa tonga kosa ny didy, dia velona indray ny ota, ka dia maty aho.",
+    "10": "Ary ny didy izay natao hahazoana fiainana, dia hitako fa nahatonga fahafatesana tamiko kosa.",
+    "11": "Fa io didy io no nentin' ny ota namitaka sy nahafaty ahy.",
+    "12": "Noho izany dia masina ny lalàna, ary masina ny didy, sady marina no tsara.",
+    "13": "Koa ny tsara va no nahafaty ahy? Sanatria izany! Fa ny ota no nahafaty ahy, mba hiseho ho ota; fa ny tsara no nentiny nahafaty ahy, mba ho tonga ota indrindra ny ota noho ny nataon' ny lalàna.",
+    "14": "Fa fantatsika fa araka ny fanahy ny lalàna; fa izaho kosa nofo,namidy ho an' ny ota.",
+    "15": "Fa izay ataoko dia tsy fantatro; fa tsy izay sitrako no ataoko; fa izay halako no ataoko.",
+    "16": "Fa raha manao ny tsy sitrako aho, dia manaiky fa tsara ny lalàna.",
+    "17": "Ary amin' izany tsy izaho intsony no manao izany, fa ny ota izay mitoetra ato anatiko.",
+    "18": "Fa fantatro fa tsy misy zavatra tsara mitoetra ato amiko (dia ato amin' ny nofoko), fa ato anatiko ihany ny fikasana, saingy ny hahatanteraka ny tsara no tsy ato.",
+    "19": "Fa tsy ny tsara izay sitrako no ataoko; fa ny ratsy izay tsy sitrako no ataoko.",
+    "20": "Fa raha ny tsy sitrako no ataoko, dia tsy izaho intsony no manao izany fa ny ota izay mitoetra ato amiko.",
+    "21": "Koa hitako izao lalàna izao: raha te-hanao ny tsara aho, dia ato amiko ihany ny ratsy.",
+    "22": "Fa mankasitraka ny lalàn' Andriamanitra aho araka ny toetra anaty;",
+    "23": "Nefa mahita lalàna hafa amin' ny momba ny tenako aho, miady amin' ny lalàn' ny saiko ka mamabo ahy ho an' ny lalàn' ny ota izay ao amin' ny momba ny tenako.",
+    "24": "Indrisy! olo-mahantra aho! Iza no hanafaka ahy amin' ny tenan' ity fahafatesana ity?",
+    "25": "Misaotra an' Andriamanitra aho amin' ny alalan' i Jesosy Kristy Tompontsika. Koa raha ny amiko, dia mankatò ny lalàn' Andriamanitra aho amin' ny saiko, fa ny lalàn' ny ota kosa amin' ny nofoko."
+  }
 }

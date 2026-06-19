@@ -1,213 +1,58 @@
 {
+  "book": "Deotornomia",
   "chapter": 32,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Mihainoa, ry lanitra, fa hiteny aho! ary mandrenesa, ry tany, ny tenin' ny vavako,"
-    },
-    {
-      "v": 2,
-      "text": "Ho avy tahaka ny ranonorana ny fampianarako, ary hilatsaka tahaka ny ando ny teniko, sy tahaka ny erika amin' ny ahi-maitso ary tahaka ny ranonorana amin' ny ahitra."
-    },
-    {
-      "v": 3,
-      "text": "\"Fa ny anaran' i Jehovah no hotoriko; maneke ny fahalehibiazan' Andriamanitsika.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Izy no ilay Vatolampy, tanteraka ny asany; fa ny lalany rehetra dia amin' ny rariny avokoa; Andriamanitry ny fahamarinana ka tsy misy heloka; Marina sy mahitsy Izy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Nanao ratsy ireny; ny tsininy dia tsy tsinin' ny zanany; taranaka mpiolikolika sy tsy mahitsy izy.\""
-    },
-    {
-      "v": 6,
-      "text": "Moa Jehovah hovalianareo toy izany va, ry firenena adala sy tsy hendry? Tsy izy va no Rainao, izay nividy anao? Tsy Izy va no nanao anao sy nampiorina anao?"
-    },
-    {
-      "v": 7,
-      "text": "\"Tsarovy ny andro fahiny, saino ny taona tamin' ny taranaka marobe nifandimby; anontanio ny rainao, fa hasehony anao, ny loholonao, fa hilaza aminao izy.\""
-    },
-    {
-      "v": 8,
-      "text": "Fony nozarain' ny Avo Indrindra ny lovan' ny firenena, rehefa nanavaka ny taranak' i Adama Izy, ka nanendry ny faritry ny firenena araka ny isan' ny Zanak' Isiraely."
-    },
-    {
-      "v": 9,
-      "text": "\"Fa ny anjaran' i Jehovah dia ny olony; Jakoba no anjara lovany.\""
-    },
-    {
-      "v": 10,
-      "text": "Nahita azy tany an-tany hay Izy, dia tany amin' ny tany efitra be mampierona. Nitarika azy manodidina Izy, nampianatra azy Izy, ary nitandrina azy tahaka ny anankandriamasony."
-    },
-    {
-      "v": 11,
-      "text": "\"Toy ny voromahery manaitra ny ao amin' ny akaniny, ka manidintsidina eo ambonin' ny zanany, sy mamelatra ny elany ka mandray azy ireny sady mitondra azy eo ambonin' ny elany;\""
-    },
-    {
-      "v": 12,
-      "text": "Dia Jehovah ihany no nitarika azy, ary tsy nisy andriamani-kafa teo aminy."
-    },
-    {
-      "v": 13,
-      "text": "Nampandeha azy teny ambonin' ny havoana amin' ny tany Izy, ka nohaniny ny vokatry ny saha. Nampitsentsitra azy tantely avy teo amin' ny vatolampy Izy, sy diloilo avy teo amin' ny vatolampy afovato,"
-    },
-    {
-      "v": 14,
-      "text": "\"Dibera avy tamin' ny omby sy rononon' ondry, mbamin' ny tavin' ny zanak' ondry sy ondrilahin' i Basana sy osilahy, mbamin' ny tavin' ny voambarim-bazaha; ary nisotro ny rà madion' ny voaloboka ianao.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Nihanatavy Jesorona ka namely daka; efa matavy ianao sady vory nofo no vaventibe; dia nahafoy an' Andriamanitra Izay nanao azy izy, ary nanamavo ny Vatolampy famonjena azy.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Nampahasaro-piaro azy tamin' ny andriamani-kafa izy; ary tamin' ny zava-betaveta no nampahatezerany Azy;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Nanao fanatitra ho an' ny devoly izy, fa tsy ho an' Andriamanitra; dia ireo andriamanitra izay tsy fantany, dia ireo andriamani-baovao izay vao niseho, izay tsy natahoran' ny razanareo.\""
-    },
-    {
-      "v": 18,
-      "text": "Ny Vatolampy Izay niteraka anao dia tsy tsaroanao, ary hadinoinao Andriamanitra Izay nahary anao."
-    },
-    {
-      "v": 19,
-      "text": "Ary rehefa nahita izany Jehovah dia nankahala azy ireo noho ny nampahatezerana Azy tamin' ny zanany lahy sy ny zanany vavy."
-    },
-    {
-      "v": 20,
-      "text": "\"Dia hoy izy: Hafeniko azy ny tavako; ho hitako izay hiafarany; fa taranaka tena mpivadibadika izy, zaza tsy manam-pinoana.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Efa nampahasaro-piaro Ahy tamin' izay tsy andriamanitra izy sy nampahatezitra Ahy tamin' ny zava-poanany; ary Izaho kosa hampahasaro-piaro azy amin' izay tsy olona, sy hampahatezitra azy amin' izay firenena adala.\""
-    },
-    {
-      "v": 22,
-      "text": "Fa arehitra ny afon' ny fahatezerako, ka handoro hatrany amin' ny helo ambany indrindra sady handevona ny tany mbamin' ny vokatra ao aminy, ary hampirehitra ny fanambanin' ny tendrombohitra."
-    },
-    {
-      "v": 23,
-      "text": "\"Havangongoko aminy ny loza betsaka; ary holanìko aminy ny zana-tsipìkako:\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ho main' ny mosary izy sady holanin' ny hafanana mandoro sy ny fandringanana mangidy; ary nifim-biby koa no hampandehaniko aminy, mbamin' ny poizin' ny menarana amin' ny vovoka.\""
-    },
-    {
-      "v": 25,
-      "text": "Ny sabatra eny ivelany sy ny tahotra ao anatiny no handringana ny zatovolahiny sy ny virijininy, ny zaza minono mbamin' ny fotsy volo."
-    },
-    {
-      "v": 26,
-      "text": "\"Efa nolazaiko hoe: Ataoko mihahaka amin' ny vazan-tany izy; hatsahatro tsy ho eo amin' ny zanak' olombelona ny fahatsiarovana azy.\""
-    },
-    {
-      "v": 27,
-      "text": "Raha tsy ny fahatezeran' ny fahavalo no natahorako, andrao diso hevitra ireny mpandrafy azy ireny ka hanao hoe: Avo ny tananay, fa tsy Jehovah tsy akory no nanao izao rehetra izao."
-    },
-    {
-      "v": 28,
-      "text": "Fa firenena tsy manan-tsaina izy sady tsy misy fahalalana ao aminy."
-    },
-    {
-      "v": 29,
-      "text": "Enga anie ho hendry izy ka hahalala izao mba hihevitra izay ho farany!"
-    },
-    {
-      "v": 30,
-      "text": "Hataon' ny irery ahoana no fanenjika ny arivo, ary hataon' ny roa ahoana no fampandositra ny iray alina, raha tsy ny vatolampiny no efa nivarotra azy, ary Jehovah no efa nanidy azy?"
-    },
-    {
-      "v": 31,
-      "text": "Fa tsy mba mitovy amin' ny Vatolampintsika ny vatolampin' ireny, na dia ny fahavalontsika aza no ho mpitsara."
-    },
-    {
-      "v": 32,
-      "text": "\"Fa ny tahom-boalobony dia tahomboalobok' i Sodoma, ary avy ao amin' ny sahan' i Gomora; ny voalobony dia voaloboka mangidy, ary mangidy ny sampahony.\""
-    },
-    {
-      "v": 33,
-      "text": "Ny divainy dia poizin' ny dragona, ary poizina mahatsiravina avy amin' ny bibilava."
-    },
-    {
-      "v": 34,
-      "text": "Moa tsy voatahiry ato amiko izany ka voaisy kase ato an-trano firaketako?"
-    },
-    {
-      "v": 35,
-      "text": "\"Ahy ny famaliana sy ny fampanodiavana; ho solafaka amin' ny fotoana ny tongony; fa antomotra ny andro hahitany loza, ary ho avy faingana ny zavatra izay hanjo azy.\""
-    },
-    {
-      "v": 36,
-      "text": "Fa Jehovah hitsara ny olony, ary hanenina ny amin' ny mpanompony, raha hitany fa lany ny heriny, ka lasa avokoa na ny voahazona, na ny afaka."
-    },
-    {
-      "v": 37,
-      "text": "Ary hiteny Izy hoe: Aiza ireo andriamaniny, dia ny vatolampy izay nitokiany,"
-    },
-    {
-      "v": 38,
-      "text": "Izay nihinana ny saboran' ny fanatiny sy nisotro ny divain' ny fanatitra aidiny? Aoka ireny no hitsangana ka hanampy anareo, ary ho fiarovana ho anareo."
-    },
-    {
-      "v": 39,
-      "text": "\"Jereo ankehitriny fa Izaho dia Izaho no Izy, ary tsy misy andriamanitra miaraka amiko; Izaho no mahafaty sy mahavelona; Izaho no maharatra sy mahasitrana, ka tsy misy mahafaka amin' ny tanako.\""
-    },
-    {
-      "v": 40,
-      "text": "Fa manangana ny tanako amin' ny lanitra Aho ka manao hoe: Velona mandrakizay Aho."
-    },
-    {
-      "v": 41,
-      "text": "Raha manasa ny sabatro manelatselatra Aho, ka voarain' ny tanako ny fitsarana, dia hampanodiaviko ny mpandrafy Ahy ny ataony, ary hovaliako ireo mankahala Ahy."
-    },
-    {
-      "v": 42,
-      "text": "Hataoko mamon-drà ny zana-tsipìkako, ary ny sabatro hihina-nofo, dia ny ràn' ny voavono sy ny babo mbamin' ny lohan' izay lehibe amin' ny fahavalo."
-    },
-    {
-      "v": 43,
-      "text": "\"Mihobia, ry firenena mbamin' ny olony; fa ny ràn' ny mpanompony no hovaliany ary hamaly ny mpandrafy Azy Izy, fa hamindra fo amin' ny taniny sy ny olony.\""
-    },
-    {
-      "v": 44,
-      "text": "Dia nandeha Mosesy ka nilaza ny teny rehetra amin' izao hira izao teo an-tsofin' ny olona, dia izy sy Hosea, zanak' i Nona."
-    },
-    {
-      "v": 45,
-      "text": "Dia tapitra voalazan' i Mosesy tamin' ny Isiraely rehetra izany teny rehetra izany,"
-    },
-    {
-      "v": 46,
-      "text": "Dia hoy izy tamin' ireo: Alatsaho ao am-ponareo ny teny rehetra izay ambarako aminareo anio, izay handidionareo ny zanakareo hotandremany sy hotanterahiny, dia ny teny rehetra amin' ity lalàna ity."
-    },
-    {
-      "v": 47,
-      "text": "\"Fa tsy zava-poana ho anareo izany fa izany no fiainanareo; ary izany zavatra izany no hahamaro andro anareo eo amin' ny tany izay ho azonareo rehefa tafita an' i Jordana ianareo.\""
-    },
-    {
-      "v": 48,
-      "text": "Ary Jehovah niteny tamin' i Mosesy androtrizay indrindra ka nanao hoe:"
-    },
-    {
-      "v": 49,
-      "text": "\"Miakara ianao amin' ity tendrombohitra Abarima ity, dia ny tendrombohitra Nebo, izay eo amin' ny tany Moaba tandrifin' i Jeriko; ary tazano ny tany Kanana, izay omeko ny Zanak' Isiraely ho lovany.\""
-    },
-    {
-      "v": 50,
-      "text": "Dia aoka ho faty ao amin' ny tendrombohitra izay iakaranao ianao, ka ho voangona any amin' ny razanao, tahaka ny nahafatesan' i Arona rahalahinao tao an-tendrombohitra Hora sy ny nanangonana azy any amin' ny razany,"
-    },
-    {
-      "v": 51,
-      "text": "\"Satria nandika ny didiko teo amin' ny Zanak' Isiraely ianareo tao amin' ny ranon' i Meriba any Kadesy, tany an' efitra Zina; satria tsy nanamasina Ahy teo anivon' ny Zanak' Isiraely ianareo.\""
-    },
-    {
-      "v": 52,
-      "text": "Fa hahatazana ny tany eo anoloanao ihany ianao, kanefa tsy hiditra any amin' ny tany izay omeko ny Zanak' Isiraely."
-    }
-  ]
+  "verses": {
+    "1": "Mihainoa, ry lanitra, fa hiteny aho! ary mandrenesa, ry tany, ny tenin' ny vavako,",
+    "2": "Ho avy tahaka ny ranonorana ny fampianarako, ary hilatsaka tahaka ny ando ny teniko, sy tahaka ny erika amin' ny ahi-maitso ary tahaka ny ranonorana amin' ny ahitra.",
+    "3": "Fa ny anaran' i Jehovah no hotoriko; maneke ny fahalehibiazan' Andriamanitsika.",
+    "4": "Izy no ilay Vatolampy, tanteraka ny asany; fa ny lalany rehetra dia amin' ny rariny avokoa; Andriamanitry ny fahamarinana ka tsy misy heloka; Marina sy mahitsy Izy.",
+    "5": "Nanao ratsy ireny; ny tsininy dia tsy tsinin' ny zanany; taranaka mpiolikolika sy tsy mahitsy izy.",
+    "6": "Moa Jehovah hovalianareo toy izany va, ry firenena adala sy tsy hendry? Tsy izy va no Rainao, izay nividy anao? Tsy Izy va no nanao anao sy nampiorina anao?",
+    "7": "Tsarovy ny andro fahiny, saino ny taona tamin' ny taranaka marobe nifandimby; anontanio ny rainao, fa hasehony anao, ny loholonao, fa hilaza aminao izy.",
+    "8": "Fony nozarain' ny Avo Indrindra ny lovan' ny firenena, rehefa nanavaka ny taranak' i Adama Izy, ka nanendry ny faritry ny firenena araka ny isan' ny Zanak' Isiraely.",
+    "9": "Fa ny anjaran' i Jehovah dia ny olony; Jakoba no anjara lovany.",
+    "10": "Nahita azy tany an-tany hay Izy, dia tany amin' ny tany efitra be mampierona. Nitarika azy manodidina Izy, nampianatra azy Izy, ary nitandrina azy tahaka ny anankandriamasony.",
+    "11": "Toy ny voromahery manaitra ny ao amin' ny akaniny, ka manidintsidina eo ambonin' ny zanany, sy mamelatra ny elany ka mandray azy ireny sady mitondra azy eo ambonin' ny elany;",
+    "12": "Dia Jehovah ihany no nitarika azy, ary tsy nisy andriamani-kafa teo aminy.",
+    "13": "Nampandeha azy teny ambonin' ny havoana amin' ny tany Izy, ka nohaniny ny vokatry ny saha. Nampitsentsitra azy tantely avy teo amin' ny vatolampy Izy, sy diloilo avy teo amin' ny vatolampy afovato,",
+    "14": "Dibera avy tamin' ny omby sy rononon' ondry, mbamin' ny tavin' ny zanak' ondry sy ondrilahin' i Basana sy osilahy, mbamin' ny tavin' ny voambarim-bazaha; ary nisotro ny rà madion' ny voaloboka ianao.",
+    "15": "Nihanatavy Jesorona ka namely daka; efa matavy ianao sady vory nofo no vaventibe; dia nahafoy an' Andriamanitra Izay nanao azy izy, ary nanamavo ny Vatolampy famonjena azy.",
+    "16": "Nampahasaro-piaro azy tamin' ny andriamani-kafa izy; ary tamin' ny zava-betaveta no nampahatezerany Azy;",
+    "17": "Nanao fanatitra ho an' ny devoly izy, fa tsy ho an' Andriamanitra; dia ireo andriamanitra izay tsy fantany, dia ireo andriamani-baovao izay vao niseho, izay tsy natahoran' ny razanareo.",
+    "18": "Ny Vatolampy Izay niteraka anao dia tsy tsaroanao, ary hadinoinao Andriamanitra Izay nahary anao.",
+    "19": "Ary rehefa nahita izany Jehovah dia nankahala azy ireo noho ny nampahatezerana Azy tamin' ny zanany lahy sy ny zanany vavy.",
+    "20": "Dia hoy izy: Hafeniko azy ny tavako; ho hitako izay hiafarany; fa taranaka tena mpivadibadika izy, zaza tsy manam-pinoana.",
+    "21": "Efa nampahasaro-piaro Ahy tamin' izay tsy andriamanitra izy sy nampahatezitra Ahy tamin' ny zava-poanany; ary Izaho kosa hampahasaro-piaro azy amin' izay tsy olona, sy hampahatezitra azy amin' izay firenena adala.",
+    "22": "Fa arehitra ny afon' ny fahatezerako, ka handoro hatrany amin' ny helo ambany indrindra sady handevona ny tany mbamin' ny vokatra ao aminy, ary hampirehitra ny fanambanin' ny tendrombohitra.",
+    "23": "Havangongoko aminy ny loza betsaka; ary holanìko aminy ny zana-tsipìkako:",
+    "24": "Ho main' ny mosary izy sady holanin' ny hafanana mandoro sy ny fandringanana mangidy; ary nifim-biby koa no hampandehaniko aminy, mbamin' ny poizin' ny menarana amin' ny vovoka.",
+    "25": "Ny sabatra eny ivelany sy ny tahotra ao anatiny no handringana ny zatovolahiny sy ny virijininy, ny zaza minono mbamin' ny fotsy volo.",
+    "26": "Efa nolazaiko hoe: Ataoko mihahaka amin' ny vazan-tany izy; hatsahatro tsy ho eo amin' ny zanak' olombelona ny fahatsiarovana azy.",
+    "27": "Raha tsy ny fahatezeran' ny fahavalo no natahorako, andrao diso hevitra ireny mpandrafy azy ireny ka hanao hoe: Avo ny tananay, fa tsy Jehovah tsy akory no nanao izao rehetra izao.",
+    "28": "Fa firenena tsy manan-tsaina izy sady tsy misy fahalalana ao aminy.",
+    "29": "Enga anie ho hendry izy ka hahalala izao mba hihevitra izay ho farany!",
+    "30": "Hataon' ny irery ahoana no fanenjika ny arivo, ary hataon' ny roa ahoana no fampandositra ny iray alina, raha tsy ny vatolampiny no efa nivarotra azy, ary Jehovah no efa nanidy azy?",
+    "31": "Fa tsy mba mitovy amin' ny Vatolampintsika ny vatolampin' ireny, na dia ny fahavalontsika aza no ho mpitsara.",
+    "32": "Fa ny tahom-boalobony dia tahomboalobok' i Sodoma, ary avy ao amin' ny sahan' i Gomora; ny voalobony dia voaloboka mangidy, ary mangidy ny sampahony.",
+    "33": "Ny divainy dia poizin' ny dragona, ary poizina mahatsiravina avy amin' ny bibilava.",
+    "34": "Moa tsy voatahiry ato amiko izany ka voaisy kase ato an-trano firaketako?",
+    "35": "Ahy ny famaliana sy ny fampanodiavana; ho solafaka amin' ny fotoana ny tongony; fa antomotra ny andro hahitany loza, ary ho avy faingana ny zavatra izay hanjo azy.",
+    "36": "Fa Jehovah hitsara ny olony, ary hanenina ny amin' ny mpanompony, raha hitany fa lany ny heriny, ka lasa avokoa na ny voahazona, na ny afaka.",
+    "37": "Ary hiteny Izy hoe: Aiza ireo andriamaniny, dia ny vatolampy izay nitokiany,",
+    "38": "Izay nihinana ny saboran' ny fanatiny sy nisotro ny divain' ny fanatitra aidiny? Aoka ireny no hitsangana ka hanampy anareo, ary ho fiarovana ho anareo.",
+    "39": "Jereo ankehitriny fa Izaho dia Izaho no Izy, ary tsy misy andriamanitra miaraka amiko; Izaho no mahafaty sy mahavelona; Izaho no maharatra sy mahasitrana, ka tsy misy mahafaka amin' ny tanako.",
+    "40": "Fa manangana ny tanako amin' ny lanitra Aho ka manao hoe: Velona mandrakizay Aho.",
+    "41": "Raha manasa ny sabatro manelatselatra Aho, ka voarain' ny tanako ny fitsarana, dia hampanodiaviko ny mpandrafy Ahy ny ataony, ary hovaliako ireo mankahala Ahy.",
+    "42": "Hataoko mamon-drà ny zana-tsipìkako, ary ny sabatro hihina-nofo, dia ny ràn' ny voavono sy ny babo mbamin' ny lohan' izay lehibe amin' ny fahavalo.",
+    "43": "Mihobia, ry firenena mbamin' ny olony; fa ny ràn' ny mpanompony no hovaliany ary hamaly ny mpandrafy Azy Izy, fa hamindra fo amin' ny taniny sy ny olony.",
+    "44": "Dia nandeha Mosesy ka nilaza ny teny rehetra amin' izao hira izao teo an-tsofin' ny olona, dia izy sy Hosea, zanak' i Nona.",
+    "45": "Dia tapitra voalazan' i Mosesy tamin' ny Isiraely rehetra izany teny rehetra izany,",
+    "46": "Dia hoy izy tamin' ireo: Alatsaho ao am-ponareo ny teny rehetra izay ambarako aminareo anio, izay handidionareo ny zanakareo hotandremany sy hotanterahiny, dia ny teny rehetra amin' ity lalàna ity.",
+    "47": "Fa tsy zava-poana ho anareo izany fa izany no fiainanareo; ary izany zavatra izany no hahamaro andro anareo eo amin' ny tany izay ho azonareo rehefa tafita an' i Jordana ianareo.",
+    "48": "Ary Jehovah niteny tamin' i Mosesy androtrizay indrindra ka nanao hoe:",
+    "49": "Miakara ianao amin' ity tendrombohitra Abarima ity, dia ny tendrombohitra Nebo, izay eo amin' ny tany Moaba tandrifin' i Jeriko; ary tazano ny tany Kanana, izay omeko ny Zanak' Isiraely ho lovany.",
+    "50": "Dia aoka ho faty ao amin' ny tendrombohitra izay iakaranao ianao, ka ho voangona any amin' ny razanao, tahaka ny nahafatesan' i Arona rahalahinao tao an-tendrombohitra Hora sy ny nanangonana azy any amin' ny razany,",
+    "51": "Satria nandika ny didiko teo amin' ny Zanak' Isiraely ianareo tao amin' ny ranon' i Meriba any Kadesy, tany an' efitra Zina; satria tsy nanamasina Ahy teo anivon' ny Zanak' Isiraely ianareo.",
+    "52": "Fa hahatazana ny tany eo anoloanao ihany ianao, kanefa tsy hiditra any amin' ny tany izay omeko ny Zanak' Isiraely."
+  }
 }

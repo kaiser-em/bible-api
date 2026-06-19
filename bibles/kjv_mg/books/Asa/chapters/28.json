@@ -1,129 +1,37 @@
 {
+  "book": "Asa",
   "chapter": 28,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary rehefa voavonjy izy ireo, vao fantany fa Malita no anaran' ilay nosy."
-    },
-    {
-      "v": 2,
-      "text": "Ary tsy kely ny hatsaram-panahy nasehon' ireo mponina baribariana taminay, fa namelona afo izy, ary nandray anay satria nilatsaka tamin' izay ny ranonorana, sady nangatsiaka ny andro."
-    },
-    {
-      "v": 3,
-      "text": "Ary raha namory kitay hazo iray trotroana Paoly ka nanohoka izany teo amin' ny afo, dia nisy vipera nivoaka avy tao amin' ny afo ka niraikitra tamin' ny tanany."
-    },
-    {
-      "v": 4,
-      "text": "Ary raha hitan' ireo baribariana ilay biby misy poizina nihantona tamin' ny tanany dia niresaka izy hoe: Tsy isalasalana fa mpamono olona io lehilahy io, fa na dia voavonjy tamin' ny ranomasina aza izy, tsy avelan' ny todin' aina ho velona."
-    },
-    {
-      "v": 5,
-      "text": "Ary nakifiny ho eo amin' ny afo ilay biby, ka tsy naninona izy."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary ny olona kosa nanampo azy hivonto, na hikarapoka ho faty tampoka; fa rehefa niandry ela izy ka nahita fa tsy nisy na inona na inona nanjo an' i Paoly, dia niova saina izy ka nilaza fa andriamanitra izy.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary teo akaikin' io dia nisy sahan' i Poplio, mpanapaka ny nosy, izay nandray anay ka nampiantrano anay tsara hateloana."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary izao no niseho, nararin' ny tazo sady nivalan-drà ny rain' i Poplio; ary niditra tao aminy Paoly ka nivavaka sady nametra-tanana taminy, dia nahasitrana azy.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary rehefa vita izany, dia tonga koa ny sasany izay narary teo amin' ny nosy, ka dia sitrana."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary voninahitra be koa no nomeny anay; ary rehefa handeha izahay, dia novatsiany izay zavatra nilaina.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary rehefa afaka telo volana, dia niondrana tamin' ny sambon' i Aleksandria izahay, izay mitondra ny anarana: Kastora sy Poloksa, sady efa nandany ny ririnina teo amin' izany nosy izany."
-    },
-    {
-      "v": 12,
-      "text": "Ary rehefa nitody tany Syrakosa izahay, dia nijanona teo hateloana."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary nony niala teo izahay, dia nisompirana nankany Regioma; ary rehefa afaka indray andro, dia nifofofofo avy any atsimo ny rivotra, koa nony ampitso dia tonga tao Potioly izahay;\""
-    },
-    {
-      "v": 14,
-      "text": "Tao no nahitanay rahalahy, ary niangavy anay izy ireo hijanona tao aminy hafitoana. Ary toy izany no nandrosoanay ho any Roma."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary nony nahare ny dianay ny rahalahy tany, dia tonga hitsena anay izy ireo hatrany an-kianja Apio sy ny tranom-bahiny telo; raha nahita azy ireo Paoly, dia nisaotra an' Andriamanitra ka nahazo toky.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary rehefa tonga tany Roma izahay, ny mpifatotra dia natolotry ny kapiteny ho amin' ny lehiben' ny mpiambina, fa Paoly dia navelany hitoetra mitokana teo amin' ny miaramila anankiray izay niambina azy."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary izao no niseho, rehefa afaka hateloana, dia nampanalain' i Paoly hiangona izay lohandohany tamin' ny Jiosy; ary rehefa niangona ireo, dia hoy izy taminy: Ry lehilahy sy rahalahy, na dia tsy diso tamin' olona aza aho, na tamin' ny fanaon-drazantsika, dia natolotra ho mpifatotra avy any Jerosalema ho eo an-tanan' ny Romana.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary rehefa nanadina ahy mafy ireo, dia saiky nandefa ahy ihany, satria tsy nisy nataoko izay tokony hahafaty ahy."
-    },
-    {
-      "v": 19,
-      "text": "Fa raha notoherin' ny Jiosy izany, dia tery aho ka nilaza fa handahatra amin' i Kaisara, nefa tsy mba toy ny manana teny hiampangako ny fireneko tsy akory."
-    },
-    {
-      "v": 20,
-      "text": "\"Noho izany zavatra izany no nampanalako anareo, hahitako anareo sy hiresahako aminareo; fa noho ny fanantenan' ny Isiraely no ifatorako amin' ity gadra ity.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary hoy ireo taminy: Tsy mbola nahazo taratasy avy tany Jodia milaza ny momba anao izahay, ary tsy mbola misy rahalahy izay nankaty nampiseho na nilaza ratsy anao."
-    },
-    {
-      "v": 22,
-      "text": "\"Fa tianay ho re aminao izay hevitrao; fa ny amin' izany antoko izany dia fantatray fa efa ratsy laza eny tontolo eny izy.\""
-    },
-    {
-      "v": 23,
-      "text": "Ary rehefa nanao fotoana taminy ireo, dia maro no nankeo aminy tao an-trano nitoerany, ary nanazava sy nanambara taminy ny fanjakan' Andriamanitra izy manomboka ny maraina ka hatramin' ny hariva, ary avy ao amin' ny lalàn' i Mosesy sy ny mpaminany no nandreseny lahatra azy ny amin' i Jesosy."
-    },
-    {
-      "v": 24,
-      "text": "Ary ny sasany nino izay nolazaina, fa ny sasany tsy mba nino."
-    },
-    {
-      "v": 25,
-      "text": "Ary raha tsy niray saina ireo dia niala rehefa nanao teny indraim-bava Paoly fa marina izay nampilazain' ny Fanahy Masina an' Isaia mpaminany tamin' ny razantsika,"
-    },
-    {
-      "v": 26,
-      "text": "\"Manao hoe: Mandehana any amin' ity firenena ity ianao, ka lazao hoe: Mba hahare mandrakariva ihany ianareo, fa tsy hahalala; ary mba hijery mandrakariva ihany ianareo, fa tsy hahita;\""
-    },
-    {
-      "v": 27,
-      "text": "\"Fa efa nihamatavy ny fon' ireo olona ireo, ary lalodalovana ny sofiny, ary efa nakimpiny ny masony; fandrao hahita ny masony, sy handre ny sofiny, ary hahalala ny fony, dia hiova fo izy, ka hahasitrana azy Aho\""
-    },
-    {
-      "v": 28,
-      "text": "Koa aoka ho fantatrareo fa ny famonjen' Andriamanitra dia nampitondraina ho any amin' ny Jentilisa, ary izy ireo hihaino azy."
-    },
-    {
-      "v": 29,
-      "text": "Ary rehefa nilaza izany izy, dia lasa ny Jiosy ka niady hevitra fatratra."
-    },
-    {
-      "v": 30,
-      "text": "Ary nitoetra roa taona ngarangidina tao an-trano nohofàny Paoly ka nandray izay rehetra nankeo aminy."
-    },
-    {
-      "v": 31,
-      "text": "Dia nitory ny fanjakan' Andriamanitra ary nampianatra ireo zavatra mikasika ny Tompo Jesosy Kristy tamin' ny fahatokiana rehetra sady tsy nisy nisakana azy."
-    }
-  ]
+  "verses": {
+    "1": "Ary rehefa voavonjy izy ireo, vao fantany fa Malita no anaran' ilay nosy.",
+    "2": "Ary tsy kely ny hatsaram-panahy nasehon' ireo mponina baribariana taminay, fa namelona afo izy, ary nandray anay satria nilatsaka tamin' izay ny ranonorana, sady nangatsiaka ny andro.",
+    "3": "Ary raha namory kitay hazo iray trotroana Paoly ka nanohoka izany teo amin' ny afo, dia nisy vipera nivoaka avy tao amin' ny afo ka niraikitra tamin' ny tanany.",
+    "4": "Ary raha hitan' ireo baribariana ilay biby misy poizina nihantona tamin' ny tanany dia niresaka izy hoe: Tsy isalasalana fa mpamono olona io lehilahy io, fa na dia voavonjy tamin' ny ranomasina aza izy, tsy avelan' ny todin' aina ho velona.",
+    "5": "Ary nakifiny ho eo amin' ny afo ilay biby, ka tsy naninona izy.",
+    "6": "Ary ny olona kosa nanampo azy hivonto, na hikarapoka ho faty tampoka; fa rehefa niandry ela izy ka nahita fa tsy nisy na inona na inona nanjo an' i Paoly, dia niova saina izy ka nilaza fa andriamanitra izy.",
+    "7": "Ary teo akaikin' io dia nisy sahan' i Poplio, mpanapaka ny nosy, izay nandray anay ka nampiantrano anay tsara hateloana.",
+    "8": "Ary izao no niseho, nararin' ny tazo sady nivalan-drà ny rain' i Poplio; ary niditra tao aminy Paoly ka nivavaka sady nametra-tanana taminy, dia nahasitrana azy.",
+    "9": "Ary rehefa vita izany, dia tonga koa ny sasany izay narary teo amin' ny nosy, ka dia sitrana.",
+    "10": "Ary voninahitra be koa no nomeny anay; ary rehefa handeha izahay, dia novatsiany izay zavatra nilaina.",
+    "11": "Ary rehefa afaka telo volana, dia niondrana tamin' ny sambon' i Aleksandria izahay, izay mitondra ny anarana: Kastora sy Poloksa, sady efa nandany ny ririnina teo amin' izany nosy izany.",
+    "12": "Ary rehefa nitody tany Syrakosa izahay, dia nijanona teo hateloana.",
+    "13": "Ary nony niala teo izahay, dia nisompirana nankany Regioma; ary rehefa afaka indray andro, dia nifofofofo avy any atsimo ny rivotra, koa nony ampitso dia tonga tao Potioly izahay;",
+    "14": "Tao no nahitanay rahalahy, ary niangavy anay izy ireo hijanona tao aminy hafitoana. Ary toy izany no nandrosoanay ho any Roma.",
+    "15": "Ary nony nahare ny dianay ny rahalahy tany, dia tonga hitsena anay izy ireo hatrany an-kianja Apio sy ny tranom-bahiny telo; raha nahita azy ireo Paoly, dia nisaotra an' Andriamanitra ka nahazo toky.",
+    "16": "Ary rehefa tonga tany Roma izahay, ny mpifatotra dia natolotry ny kapiteny ho amin' ny lehiben' ny mpiambina, fa Paoly dia navelany hitoetra mitokana teo amin' ny miaramila anankiray izay niambina azy.",
+    "17": "Ary izao no niseho, rehefa afaka hateloana, dia nampanalain' i Paoly hiangona izay lohandohany tamin' ny Jiosy; ary rehefa niangona ireo, dia hoy izy taminy: Ry lehilahy sy rahalahy, na dia tsy diso tamin' olona aza aho, na tamin' ny fanaon-drazantsika, dia natolotra ho mpifatotra avy any Jerosalema ho eo an-tanan' ny Romana.",
+    "18": "Ary rehefa nanadina ahy mafy ireo, dia saiky nandefa ahy ihany, satria tsy nisy nataoko izay tokony hahafaty ahy.",
+    "19": "Fa raha notoherin' ny Jiosy izany, dia tery aho ka nilaza fa handahatra amin' i Kaisara, nefa tsy mba toy ny manana teny hiampangako ny fireneko tsy akory.",
+    "20": "Noho izany zavatra izany no nampanalako anareo, hahitako anareo sy hiresahako aminareo; fa noho ny fanantenan' ny Isiraely no ifatorako amin' ity gadra ity.",
+    "21": "Ary hoy ireo taminy: Tsy mbola nahazo taratasy avy tany Jodia milaza ny momba anao izahay, ary tsy mbola misy rahalahy izay nankaty nampiseho na nilaza ratsy anao.",
+    "22": "Fa tianay ho re aminao izay hevitrao; fa ny amin' izany antoko izany dia fantatray fa efa ratsy laza eny tontolo eny izy.",
+    "23": "Ary rehefa nanao fotoana taminy ireo, dia maro no nankeo aminy tao an-trano nitoerany, ary nanazava sy nanambara taminy ny fanjakan' Andriamanitra izy manomboka ny maraina ka hatramin' ny hariva, ary avy ao amin' ny lalàn' i Mosesy sy ny mpaminany no nandreseny lahatra azy ny amin' i Jesosy.",
+    "24": "Ary ny sasany nino izay nolazaina, fa ny sasany tsy mba nino.",
+    "25": "Ary raha tsy niray saina ireo dia niala rehefa nanao teny indraim-bava Paoly fa marina izay nampilazain' ny Fanahy Masina an' Isaia mpaminany tamin' ny razantsika,",
+    "26": "Manao hoe: Mandehana any amin' ity firenena ity ianao, ka lazao hoe: Mba hahare mandrakariva ihany ianareo, fa tsy hahalala; ary mba hijery mandrakariva ihany ianareo, fa tsy hahita;",
+    "27": "Fa efa nihamatavy ny fon' ireo olona ireo, ary lalodalovana ny sofiny, ary efa nakimpiny ny masony; fandrao hahita ny masony, sy handre ny sofiny, ary hahalala ny fony, dia hiova fo izy, ka hahasitrana azy Aho",
+    "28": "Koa aoka ho fantatrareo fa ny famonjen' Andriamanitra dia nampitondraina ho any amin' ny Jentilisa, ary izy ireo hihaino azy.",
+    "29": "Ary rehefa nilaza izany izy, dia lasa ny Jiosy ka niady hevitra fatratra.",
+    "30": "Ary nitoetra roa taona ngarangidina tao an-trano nohofàny Paoly ka nandray izay rehetra nankeo aminy.",
+    "31": "Dia nitory ny fanjakan' Andriamanitra ary nampianatra ireo zavatra mikasika ny Tompo Jesosy Kristy tamin' ny fahatokiana rehetra sady tsy nisy nisakana azy."
+  }
 }

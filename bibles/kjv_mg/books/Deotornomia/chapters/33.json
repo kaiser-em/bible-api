@@ -1,121 +1,35 @@
 {
+  "book": "Deotornomia",
   "chapter": 33,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izao no tsodrano nataon' i Mosesy lehilahin' Andriamanitra, tamin' ny Zanak' Isiraely talohan' ny nahafatesany."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary hoy izy: Jehovah avy ao Sinay, ary niseho taminy avy tany Seïra; niposaka namirapiratra avy tany an-tendrombohitra Parana Izy; sady avy miaraka amin' ny masiny tsy omby alinalina; avy teo an-tanany ankavanana dia nisy lalàn' afo ho an' ireo.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Eny, tia ny firenena Izy; eo an-tananao avokoa ny masiny rehetra; ary nipetraka eo an-tongotrao ireo; ka samy handray amin' ny teninao.\""
-    },
-    {
-      "v": 4,
-      "text": "Lalàna no nandidian' i Mosesy antsika, dia ny lovan' ny fiangonan' i Jakoba."
-    },
-    {
-      "v": 5,
-      "text": "Ary tonga mpanjakan' i Jesorona Izy, rehefa tafangona avokoa ny lehiben' ny vahoaka sy ireo fokon' ny Isiraely."
-    },
-    {
-      "v": 6,
-      "text": "Aoka ho velona Robena, fa tsy ho faty, ary aoka tsy ho vitsy ny lehilahy ao aminy."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary izao no tsodranon' i Joda ; dia hoy izy: Jehovah ô, mihainoa ny feon' i Joda, ary ento ho amin' ny olony izy; aoka ho ampy azy ny tanany; ka manampia azy Ianao hamelezany ny fahavalony.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary ny amin' i Levy dia hoy izy: Aoka ny Tomimanao sy ny Orimanao ho amin' ny olonao masina, izay nizahanao toetra tao Masa sy nifamalianao tao amin' ny ranon' i Meriba;\""
-    },
-    {
-      "v": 9,
-      "text": "\"Izay nilaza ny rainy sy ny reniny hoe: Tsy nahita azy aho, sady tsy nahalala izay rahalahiny izy, ary izay zanany aza dia tsy fantany; fa nitandrina ny teninao izy ka nitana ny fanekenao.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Hampianatra an' i Jakoba ny fitsipikao izy, ary Isiraely ny lalànao; hametraka ditin-kazo manitra eo anatrehanao izy sy fanatitra dorana manontolo eo ambonin' ny alitara.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Jehovah ô, tahio ny fananany, ary aoka ho sitrakao ny asan' ny tanany; asio mafy ny valahan' izay mitsangana hiady aminy sy izay mankahala azy ka tsy hiarina intsony ireny.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary ny amin' i Benjamina dia hoy izy: Ny malalan' i Jehovah honina fahizay eo aminy; ary halofan' i Jehovah mandrakariva izy, ka hitoetra eo anelanelan' ny sorony.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary ny amin' i Josefa dia hoy izy: Hotahian' i Jehovah anie ny taniny, amin' ny zava-tsoan' ny lanitra, dia amin' ny ando ary amin' ny rano lalina mamitsaka any ambany,"
-    },
-    {
-      "v": 14,
-      "text": "Ary amin' ny zava-tsoa vokatry ny masoandro sy amin' ny zava-tsarobidy vokatry ny volana,"
-    },
-    {
-      "v": 15,
-      "text": "Ary amin' ny zava-malaza avy amin' ny tendrombohitra fahagola sy ny zava-tsoa avy amin' ny havoana mandrakizay,"
-    },
-    {
-      "v": 16,
-      "text": "\"Mbamin' ny zava-tsoan' ny tany sy izay rehetra eo aminy sy ny fankasitrahan' Izay nitoetra tao amin' ny roimemy; aoka ho tonga eo an-dohan' i Josefa ny fitahiana, dia eo an-tampon-dohan' ilay voasaraka tamin' ny rahalahiny.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ny voninahiny dia tahaka ny voalohan-teraky ny ombiny, ary tahaka ny tandrok' ombimanga ny tandrony; izany no hanosehany ny firenena rehetra hatrany amin' ny faran' ny tany; dia ireo alinalin' i Efraima sy arivoarivon' i Manase.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary ny amin' i Zebolona dia hoy izy: Mifalia, ry zebolona, amin' izay alehanao, ary ianao, ry Isakara, ao an-dainao."
-    },
-    {
-      "v": 19,
-      "text": "\"Firenena no antsoiny hankao an-tendrombohitra, ao no hanolorany fanati-pahamarinana; fa hitsentsitra ny haren' ny ranomasina izy sy ny tahiry miafina ao amin' ny fasika.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Ary ny amin' i Gada dia hoy izy: Isaorana anie Izay manalalaka an' i Gada; mamitsaka tahaka ny liona izy ka mamiravira sandry mbamin' ny tampon-doha.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Nizaha izay tsara indrindra ho an' ny tenany izy, fa teo amin' ny anjaran' ny mpanao lalàna no efa nipetrahany; niaraka tamin' ny lohan' ny firenena izy, ary araka ny fahamarinan' i Jehovah no nataony, sy araka ny fitsipiny izay iombonany amin' ny Isiraely.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary ny amin' i Dana dia hoy izy: Dana dia zana-diona; miantsampy avy ao Basana izy.\""
-    },
-    {
-      "v": 23,
-      "text": "Ary ny amin' i Naftaly dia hoy izy: Ry Naftaly, voky fankasitrahana ka feno ny fitahian' i Jehovah, aoka ho fanananao ny andrefana sy ny atsimo."
-    },
-    {
-      "v": 24,
-      "text": "\"Ary ny amin' i Asera dia hoy izy: Aoka hotahiana amin' ny zanaka i Asera; aoka hankasitrahana eo amin' ny rahalahiny izy; ary aoka hanoboka ny tongony amin' ny diloilo.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ho vy sy varahina ny kiraronao; ary hifamatra amin' ny andronao ny herinao.\""
-    },
-    {
-      "v": 26,
-      "text": "Tsy misy tahaka an' Andriamanitr' i Jesorona, izay mitaingina ny lanitra hamonjy anao, ary ny fahalehibiazany eny amin' ny habakabaka."
-    },
-    {
-      "v": 27,
-      "text": "\"Ny Andriamanitra mandrakizay no fialofanao, ary ny sandriny mandrakizay no eo ambany; ary handroaka ny fahavalo eo anoloanao Izy, ka hanao hoe: Aringano ireo.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Koa Isiraely dia handry fahizay irery; ny loharanon' i Jakoba dia ho eo amin' ny tanim-barimbazaha sy divay; ary hampilatsaka ando ny lanitra eo amboniny.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Sambatra ianao, ry isiraely; iza no tahaka anao, ry olona voavonjin' i Jehovah, ampingan' ny famonjena anao sy sabatry ny fahalehibiazanao! Ho hita mpandainga aminao ny fahavalonao; ary hani-tsakitsaka ny fitoerana avony ianao.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no tsodrano nataon' i Mosesy lehilahin' Andriamanitra, tamin' ny Zanak' Isiraely talohan' ny nahafatesany.",
+    "2": "Ary hoy izy: Jehovah avy ao Sinay, ary niseho taminy avy tany Seïra; niposaka namirapiratra avy tany an-tendrombohitra Parana Izy; sady avy miaraka amin' ny masiny tsy omby alinalina; avy teo an-tanany ankavanana dia nisy lalàn' afo ho an' ireo.",
+    "3": "Eny, tia ny firenena Izy; eo an-tananao avokoa ny masiny rehetra; ary nipetraka eo an-tongotrao ireo; ka samy handray amin' ny teninao.",
+    "4": "Lalàna no nandidian' i Mosesy antsika, dia ny lovan' ny fiangonan' i Jakoba.",
+    "5": "Ary tonga mpanjakan' i Jesorona Izy, rehefa tafangona avokoa ny lehiben' ny vahoaka sy ireo fokon' ny Isiraely.",
+    "6": "Aoka ho velona Robena, fa tsy ho faty, ary aoka tsy ho vitsy ny lehilahy ao aminy.",
+    "7": "Ary izao no tsodranon' i Joda ; dia hoy izy: Jehovah ô, mihainoa ny feon' i Joda, ary ento ho amin' ny olony izy; aoka ho ampy azy ny tanany; ka manampia azy Ianao hamelezany ny fahavalony.",
+    "8": "Ary ny amin' i Levy dia hoy izy: Aoka ny Tomimanao sy ny Orimanao ho amin' ny olonao masina, izay nizahanao toetra tao Masa sy nifamalianao tao amin' ny ranon' i Meriba;",
+    "9": "Izay nilaza ny rainy sy ny reniny hoe: Tsy nahita azy aho, sady tsy nahalala izay rahalahiny izy, ary izay zanany aza dia tsy fantany; fa nitandrina ny teninao izy ka nitana ny fanekenao.",
+    "10": "Hampianatra an' i Jakoba ny fitsipikao izy, ary Isiraely ny lalànao; hametraka ditin-kazo manitra eo anatrehanao izy sy fanatitra dorana manontolo eo ambonin' ny alitara.",
+    "11": "Jehovah ô, tahio ny fananany, ary aoka ho sitrakao ny asan' ny tanany; asio mafy ny valahan' izay mitsangana hiady aminy sy izay mankahala azy ka tsy hiarina intsony ireny.",
+    "12": "Ary ny amin' i Benjamina dia hoy izy: Ny malalan' i Jehovah honina fahizay eo aminy; ary halofan' i Jehovah mandrakariva izy, ka hitoetra eo anelanelan' ny sorony.",
+    "13": "Ary ny amin' i Josefa dia hoy izy: Hotahian' i Jehovah anie ny taniny, amin' ny zava-tsoan' ny lanitra, dia amin' ny ando ary amin' ny rano lalina mamitsaka any ambany,",
+    "14": "Ary amin' ny zava-tsoa vokatry ny masoandro sy amin' ny zava-tsarobidy vokatry ny volana,",
+    "15": "Ary amin' ny zava-malaza avy amin' ny tendrombohitra fahagola sy ny zava-tsoa avy amin' ny havoana mandrakizay,",
+    "16": "Mbamin' ny zava-tsoan' ny tany sy izay rehetra eo aminy sy ny fankasitrahan' Izay nitoetra tao amin' ny roimemy; aoka ho tonga eo an-dohan' i Josefa ny fitahiana, dia eo an-tampon-dohan' ilay voasaraka tamin' ny rahalahiny.",
+    "17": "Ny voninahiny dia tahaka ny voalohan-teraky ny ombiny, ary tahaka ny tandrok' ombimanga ny tandrony; izany no hanosehany ny firenena rehetra hatrany amin' ny faran' ny tany; dia ireo alinalin' i Efraima sy arivoarivon' i Manase.",
+    "18": "Ary ny amin' i Zebolona dia hoy izy: Mifalia, ry zebolona, amin' izay alehanao, ary ianao, ry Isakara, ao an-dainao.",
+    "19": "Firenena no antsoiny hankao an-tendrombohitra, ao no hanolorany fanati-pahamarinana; fa hitsentsitra ny haren' ny ranomasina izy sy ny tahiry miafina ao amin' ny fasika.",
+    "20": "Ary ny amin' i Gada dia hoy izy: Isaorana anie Izay manalalaka an' i Gada; mamitsaka tahaka ny liona izy ka mamiravira sandry mbamin' ny tampon-doha.",
+    "21": "Nizaha izay tsara indrindra ho an' ny tenany izy, fa teo amin' ny anjaran' ny mpanao lalàna no efa nipetrahany; niaraka tamin' ny lohan' ny firenena izy, ary araka ny fahamarinan' i Jehovah no nataony, sy araka ny fitsipiny izay iombonany amin' ny Isiraely.",
+    "22": "Ary ny amin' i Dana dia hoy izy: Dana dia zana-diona; miantsampy avy ao Basana izy.",
+    "23": "Ary ny amin' i Naftaly dia hoy izy: Ry Naftaly, voky fankasitrahana ka feno ny fitahian' i Jehovah, aoka ho fanananao ny andrefana sy ny atsimo.",
+    "24": "Ary ny amin' i Asera dia hoy izy: Aoka hotahiana amin' ny zanaka i Asera; aoka hankasitrahana eo amin' ny rahalahiny izy; ary aoka hanoboka ny tongony amin' ny diloilo.",
+    "25": "Ho vy sy varahina ny kiraronao; ary hifamatra amin' ny andronao ny herinao.",
+    "26": "Tsy misy tahaka an' Andriamanitr' i Jesorona, izay mitaingina ny lanitra hamonjy anao, ary ny fahalehibiazany eny amin' ny habakabaka.",
+    "27": "Ny Andriamanitra mandrakizay no fialofanao, ary ny sandriny mandrakizay no eo ambany; ary handroaka ny fahavalo eo anoloanao Izy, ka hanao hoe: Aringano ireo.",
+    "28": "Koa Isiraely dia handry fahizay irery; ny loharanon' i Jakoba dia ho eo amin' ny tanim-barimbazaha sy divay; ary hampilatsaka ando ny lanitra eo amboniny.",
+    "29": "Sambatra ianao, ry isiraely; iza no tahaka anao, ry olona voavonjin' i Jehovah, ampingan' ny famonjena anao sy sabatry ny fahalehibiazanao! Ho hita mpandainga aminao ny fahavalonao; ary hani-tsakitsaka ny fitoerana avony ianao."
+  }
 }

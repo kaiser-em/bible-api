@@ -1,73 +1,23 @@
 {
+  "book": "2 Timoty",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Fa aoka ho fantatrao koa izao: any am-parany any dia hisy andro mampidi-doza."
-    },
-    {
-      "v": 2,
-      "text": "Fa ny olona ho tia tena, ho tia vola, ho mpandoka tena, mpiavonavona, mpanao blasfemia, tsy manoa ray sy reny, tsy misaotra, tsy masina,"
-    },
-    {
-      "v": 3,
-      "text": "Tsy manana fitiavana voajanahary, tsy mahatoky, mpanendrikendrika, tsy mahonom-po, lozabe, mankahala izay tsara,"
-    },
-    {
-      "v": 4,
-      "text": "Mpamadika, kirina, mpieboebo, tia ny fahafinaretana mihoatra noho ny fitiavana an’Andriamanitra,"
-    },
-    {
-      "v": 5,
-      "text": "\"Manana ny endriky ny toe-panahy araka an’Andriamanitra, nefa mandà ny heriny; ireny koa dia halaviro.\""
-    },
-    {
-      "v": 6,
-      "text": "Fa isan’ireny izay misokosoko miditra any an-tranon’ny sasany ka mahalasa ho babo ny vehivavy adaladala, vesaran’ny fahotana, entin’ny filàna maro,"
-    },
-    {
-      "v": 7,
-      "text": "Mianatra mandrakariva nefa tsy mahatratra ny fahalalana ny marina."
-    },
-    {
-      "v": 8,
-      "text": "Ary tahaka ny nanoheran’i Jana sy Jambra an’i Mosesy no anoheran’ireo koa ny fahamarinana, dia olona maloto saina sady mandà ny finoana."
-    },
-    {
-      "v": 9,
-      "text": "\"Kanefa tsy handroso intsony izy ireo; fa ny hadalany dia haseho amin’ny olona rehetra, tahaka ny an’ireo koa.\""
-    },
-    {
-      "v": 10,
-      "text": "Fa ianao dia efa nahalala tsara ny foto-pampianarako, ny fitondrantenako, ny fikasako, ny finoako, ny fandeferako, ny fitiavako, ny faharetako,"
-    },
-    {
-      "v": 11,
-      "text": "\"Ny fanenjehana ahy, ny fahoriana izay nanjo ahy tany Antiokia, tany Ikonioma, tany Lystra; fanenjehana manao ahoana moa no niaretako, nefa ny Tompo nanafaka ahy tamin’izany rehetra izany.\""
-    },
-    {
-      "v": 12,
-      "text": "Eny, izay rehetra te-ho velona araka an’Andriamanitra, izay ao amin’i Kristy Jesosy, dia hiaritra fanenjehana."
-    },
-    {
-      "v": 13,
-      "text": "Fa ny ratsy fanahy sy ny mpanoloky kosa dia handroso hiharatsiratsy kokoa sady mamitaka no fitahina."
-    },
-    {
-      "v": 14,
-      "text": "\"Fa ianao kosa dia mahareta amin’izay zavatra nianaranao sy nampinoana anao, satria fantatrao izay nampianatra anao izany;\""
-    },
-    {
-      "v": 15,
-      "text": "Fa hatry ny fony vao zaza ianao dia efa nahalala ny Soratra Masina, izay mampahahendry anao ho amin’ny famonjena amin’ny finoana izay ao amin’i Kristy Jesosy."
-    },
-    {
-      "v": 16,
-      "text": "Izay soratra rehetra nomen’ny tsindrimandrin’Andriamanitra dia mahasoa koa ho foto-pampianarana, ho fandresen-dahatra, ho fanitsiana izay diso, ho fitaizana amin’ny fahamarinana,"
-    },
-    {
-      "v": 17,
-      "text": "Mba ho tanteraka ny olon’Andriamanitra, ho vonona tsara amin’ny asa tsara rehetra."
-    }
-  ]
+  "verses": {
+    "1": "Fa aoka ho fantatrao koa izao: any am-parany any dia hisy andro mampidi-doza.",
+    "2": "Fa ny olona ho tia tena, ho tia vola, ho mpandoka tena, mpiavonavona, mpanao blasfemia, tsy manoa ray sy reny, tsy misaotra, tsy masina,",
+    "3": "Tsy manana fitiavana voajanahary, tsy mahatoky, mpanendrikendrika, tsy mahonom-po, lozabe, mankahala izay tsara,",
+    "4": "Mpamadika, kirina, mpieboebo, tia ny fahafinaretana mihoatra noho ny fitiavana an’Andriamanitra,",
+    "5": "Manana ny endriky ny toe-panahy araka an’Andriamanitra, nefa mandà ny heriny; ireny koa dia halaviro.",
+    "6": "Fa isan’ireny izay misokosoko miditra any an-tranon’ny sasany ka mahalasa ho babo ny vehivavy adaladala, vesaran’ny fahotana, entin’ny filàna maro,",
+    "7": "Mianatra mandrakariva nefa tsy mahatratra ny fahalalana ny marina.",
+    "8": "Ary tahaka ny nanoheran’i Jana sy Jambra an’i Mosesy no anoheran’ireo koa ny fahamarinana, dia olona maloto saina sady mandà ny finoana.",
+    "9": "Kanefa tsy handroso intsony izy ireo; fa ny hadalany dia haseho amin’ny olona rehetra, tahaka ny an’ireo koa.",
+    "10": "Fa ianao dia efa nahalala tsara ny foto-pampianarako, ny fitondrantenako, ny fikasako, ny finoako, ny fandeferako, ny fitiavako, ny faharetako,",
+    "11": "Ny fanenjehana ahy, ny fahoriana izay nanjo ahy tany Antiokia, tany Ikonioma, tany Lystra; fanenjehana manao ahoana moa no niaretako, nefa ny Tompo nanafaka ahy tamin’izany rehetra izany.",
+    "12": "Eny, izay rehetra te-ho velona araka an’Andriamanitra, izay ao amin’i Kristy Jesosy, dia hiaritra fanenjehana.",
+    "13": "Fa ny ratsy fanahy sy ny mpanoloky kosa dia handroso hiharatsiratsy kokoa sady mamitaka no fitahina.",
+    "14": "Fa ianao kosa dia mahareta amin’izay zavatra nianaranao sy nampinoana anao, satria fantatrao izay nampianatra anao izany;",
+    "15": "Fa hatry ny fony vao zaza ianao dia efa nahalala ny Soratra Masina, izay mampahahendry anao ho amin’ny famonjena amin’ny finoana izay ao amin’i Kristy Jesosy.",
+    "16": "Izay soratra rehetra nomen’ny tsindrimandrin’Andriamanitra dia mahasoa koa ho foto-pampianarana, ho fandresen-dahatra, ho fanitsiana izay diso, ho fitaizana amin’ny fahamarinana,",
+    "17": "Mba ho tanteraka ny olon’Andriamanitra, ho vonona tsara amin’ny asa tsara rehetra."
+  }
 }

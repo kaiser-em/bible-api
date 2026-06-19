@@ -1,149 +1,42 @@
 {
+  "book": "Eksodosy",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary tamin' ny andro fahadimy ambin' ny folo tamin' ny volana faharoa taorian' ny nialany tany amin' ny tany Egypta dia niala tao Elima ny fiangonan' ny Zanak' Isiraely rehetra ka nankany an' efitr' i Sina izay eo anelanelan' i Elima sy Sinay."
-    },
-    {
-      "v": 2,
-      "text": "Dia nimonomonona tamin' i Mosesy sy Arona tany an' efitra ny fiangonan' ny Zanak' Isiraely rehetra."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary hoy ny Zanak' Isiraely taminy: Inay anie izahay mba matin' ny tanan' i Jehovah tany amin' ny tany Egypta raha nipetraka teo anilan' ny fandrahoan-kena ka nihinan-kanina ho voky; fa nitondra anay nivoaka ho aty an' efitra ianareo hahafaty mosary izao fiangonana rehetra izao.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary hoy Jehovah tamin' i Mosesy: Indro, handatsaka mofo avy any an-danitra ho anareo Aho; dia hivoaka ny olona ka hanangona izay sahaza hohaniny isan' andro, mba hizahako toetra azy na handeha araka ny lalàko izy na tsia.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary izao no hiseho, amin' ny andro fahenina dia hamboariny izay azony ka hisy indroa toraka izay angoniny isan' andro."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary hoy Mosesy sy Arona tamin' ny Zanak' Isiraely rehetra: Amin' ny hariva dia ho fantatrareo fa Jehovah no nitondra anareo nivoaka avy tany amin' ny tany Egypta;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary raha maraina, dia ho hitanareo ny voninahitr' i Jehovah; fa efa reny ny fimonomononanareo tamin' i Jehovah; fa izahay moa no inona no imonomononanareo?\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary hoy Mosesy: Izao no hisy, rehefa homen' i Jehovah hena hohanina ianareo rahariva, sy mofo hahavoky raha maraina; fa ren' i Jehovah ny fimonomononanareo izay imonomononanareo aminy; fa izahay moa no inona? Tsy izahay no imonomononanareo, fa Jehovah.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary hoy Mosesy tamin' i Arona: Lazao amin' ny fiangonan' ny Isiraely rehetra hoe: Manatòna eo anatrehan' i Jehovah; fa efa reny ny fimonomononanareo.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary izao no niseho, raha mbola niteny tamin'ny fiangonan' ny Zanak' Isiraely manontolo Arona, dia nijery nanatrika ny efitra izy ireo, ka indro, niseho teo amin' ny rahona ny voninahitr' i Jehovah."
-    },
-    {
-      "v": 11,
-      "text": "Ary niteny tamin' i Mosesy Jehovah ka nanao hoe:"
-    },
-    {
-      "v": 12,
-      "text": "\"Efa reko ny fimonomononan' ny Zanak' Isiraely, ka lazao aminy hoe: Amin' ny takariva dia hihinan-kena ianareo, ary amin' ny maraina dia ho voky mofo ianareo; dia ho fantatrareo fa izaho no Jehovah Andriamanitrareo.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary izao no niseho, nony takariva dia niakatra ny papelika ka nandrakotra ny toby; ary nony maraina dia nanodidina ny toby ny ando.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary nony niala ny ando, dia indro, nisy zava-madinika boribory toy ny fanala amin' ny tany."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary rehefa hitan' ny Zanak' Isiraely izany dia nifampilaza izy hoe: Mana itony; satria tsy fantany izany. Dia hoy Mosesy taminy: Itony no mofo izay nomen' i Jehovah ho fihinanareo.\""
-    },
-    {
-      "v": 16,
-      "text": "\" Izao no zavatra izay nandidian' i Jehovah: samia manangona araka izay fihinany, omera iray isan' olona, araka ny isan' ny olonareo; samia maka ho an' ireo ao an-dainy avy.\""
-    },
-    {
-      "v": 17,
-      "text": "Dia nanao izany ny Zanak' Isiraely, ka nanangona, ny sasany be, ny sasany kely."
-    },
-    {
-      "v": 18,
-      "text": "Ary rehefa nafatrany tamin' ny omera izany, izay nanangona be dia tsy nanana amby, ary izay nanangona kely tsy nanana ny tsy ampy: samy nanangona araka izay fihinany avy izy ireo."
-    },
-    {
-      "v": 19,
-      "text": "Ary hoy Mosesy taminy: aza misy mamela ho tra-maraina."
-    },
-    {
-      "v": 20,
-      "text": "\"Nefa tsy nihaino an' i Mosesy izy ireo; fa ny sasany namela sisa ho tra-maraina, dia niteraka olitra izany ka maimbo; ary dia tezitra tamin' ireo Mosesy.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Ary nanangona izany isa-maraina izy ireo, samy araka izay fihinany avy; ary nony nihanafana ny andro dia levona izany.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary izao no niseho, nony tamin' ny andro fahenina dia nanangona mofo avo roa heny izy ireo, omera roa isan' olona; dia avy ny mpanapaka ny fiangonana rehetra ka nanambara tamin' i Mosesy.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary hoy Mosesy tamin' ireo: Izao no lazain' i Jehovah: Rahampitso no fitsaharana ho sabata masina ho an' i Jehovah; manendasa izay hendasinareo anio, ary ampangotrahy izay hampangotrahanareo; ary izay sisa dia avelao ho anareo hotehirizina ho tra-maraina.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Dia namela izany ho tra-maraina izy, araka izay nandidian' i Mosesy; ary tsy mba maimbo na niteraka olitra izany.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ary hoy Mosesy: Hano izany anio, fa sabata ho an' i Jehovah anio; tsy hahita izany any an-tsaha ianareo anio.\""
-    },
-    {
-      "v": 26,
-      "text": "Henemana no hanangonanareo izany, fa amin' ny andro fahafito izay sabata, dia tsy hisy amin' izany."
-    },
-    {
-      "v": 27,
-      "text": "Ary izao no niseho, nony tamin' ny andro fahafito, dia nivoaka hanangona ny sasany tamin' ny olona, fa tsy nahita."
-    },
-    {
-      "v": 28,
-      "text": "Ary hoy Jehovah tamin' i Mosesy: Mandra-pahoviana no handavanareo tsy hitandrina ny didiko sy ny lalàko?"
-    },
-    {
-      "v": 29,
-      "text": "Jereo fa Jehovah no nanome anareo ny sabata, noho izany no anomezany anareo mofo ho amin' ny indroa andro amin' ny andro fahenina. Samia mitoetra eo amin' ny fitoerany avy ianareo, aoka tsy hisy hiala amin' ny fitoerany amin' ny andro fahafito."
-    },
-    {
-      "v": 30,
-      "text": "Dia nitsahatra ny olona tamin' ny andro fahafito."
-    },
-    {
-      "v": 31,
-      "text": "\"Ary ny anarany dia nataon' ny taranak' Isiraely hoe: Mana; ary fotsy tahaka ny voan-drafy izy; ary ny tsirony dia toy ny mofo manify misy tantely.\""
-    },
-    {
-      "v": 32,
-      "text": "\"Ary hoy Mosesy: Izao no zavatra izay andidian' i Jehovah: Fenoy izany ny omera iray mba hotehirizina ho an' ny taranakareo; mba ho hitany ny mofo izay namahanako anareo tany an' efitra raha nitondra anareo Aho.\""
-    },
-    {
-      "v": 33,
-      "text": "Ary hoy Mosesy tamin' i arona: Makà vilany ka asio mana iray omera feno ao anatiny, dia apetraho eo anatrehan' i Jehovah mba hotehirizina ho an' ny taranakareo."
-    },
-    {
-      "v": 34,
-      "text": "Araka izay nandidian' i Jehovah an' i Mosesy no nametrahan' i Arona izany teo anatrehan' ny Vavolombelona mba hotehirizina."
-    },
-    {
-      "v": 35,
-      "text": "\"Ary ny Zanak' Isiraely nihinana mana nandritra ny efapolo taona, mandra-pahatongany tany amin' ny tany nisy mponina; nihinana mana tokoa izy ireo, mandra-pahatongany tany amin' ny sisin' ny tany Kanana.\""
-    },
-    {
-      "v": 36,
-      "text": "Ary ny omera dia ampahafolon' ny efaha."
-    }
-  ]
+  "verses": {
+    "1": "Ary tamin' ny andro fahadimy ambin' ny folo tamin' ny volana faharoa taorian' ny nialany tany amin' ny tany Egypta dia niala tao Elima ny fiangonan' ny Zanak' Isiraely rehetra ka nankany an' efitr' i Sina izay eo anelanelan' i Elima sy Sinay.",
+    "2": "Dia nimonomonona tamin' i Mosesy sy Arona tany an' efitra ny fiangonan' ny Zanak' Isiraely rehetra.",
+    "3": "Ary hoy ny Zanak' Isiraely taminy: Inay anie izahay mba matin' ny tanan' i Jehovah tany amin' ny tany Egypta raha nipetraka teo anilan' ny fandrahoan-kena ka nihinan-kanina ho voky; fa nitondra anay nivoaka ho aty an' efitra ianareo hahafaty mosary izao fiangonana rehetra izao.",
+    "4": "Ary hoy Jehovah tamin' i Mosesy: Indro, handatsaka mofo avy any an-danitra ho anareo Aho; dia hivoaka ny olona ka hanangona izay sahaza hohaniny isan' andro, mba hizahako toetra azy na handeha araka ny lalàko izy na tsia.",
+    "5": "Ary izao no hiseho, amin' ny andro fahenina dia hamboariny izay azony ka hisy indroa toraka izay angoniny isan' andro.",
+    "6": "Ary hoy Mosesy sy Arona tamin' ny Zanak' Isiraely rehetra: Amin' ny hariva dia ho fantatrareo fa Jehovah no nitondra anareo nivoaka avy tany amin' ny tany Egypta;",
+    "7": "Ary raha maraina, dia ho hitanareo ny voninahitr' i Jehovah; fa efa reny ny fimonomononanareo tamin' i Jehovah; fa izahay moa no inona no imonomononanareo?",
+    "8": "Ary hoy Mosesy: Izao no hisy, rehefa homen' i Jehovah hena hohanina ianareo rahariva, sy mofo hahavoky raha maraina; fa ren' i Jehovah ny fimonomononanareo izay imonomononanareo aminy; fa izahay moa no inona? Tsy izahay no imonomononanareo, fa Jehovah.",
+    "9": "Ary hoy Mosesy tamin' i Arona: Lazao amin' ny fiangonan' ny Isiraely rehetra hoe: Manatòna eo anatrehan' i Jehovah; fa efa reny ny fimonomononanareo.",
+    "10": "Ary izao no niseho, raha mbola niteny tamin'ny fiangonan' ny Zanak' Isiraely manontolo Arona, dia nijery nanatrika ny efitra izy ireo, ka indro, niseho teo amin' ny rahona ny voninahitr' i Jehovah.",
+    "11": "Ary niteny tamin' i Mosesy Jehovah ka nanao hoe:",
+    "12": "Efa reko ny fimonomononan' ny Zanak' Isiraely, ka lazao aminy hoe: Amin' ny takariva dia hihinan-kena ianareo, ary amin' ny maraina dia ho voky mofo ianareo; dia ho fantatrareo fa izaho no Jehovah Andriamanitrareo.",
+    "13": "Ary izao no niseho, nony takariva dia niakatra ny papelika ka nandrakotra ny toby; ary nony maraina dia nanodidina ny toby ny ando.",
+    "14": "Ary nony niala ny ando, dia indro, nisy zava-madinika boribory toy ny fanala amin' ny tany.",
+    "15": "Ary rehefa hitan' ny Zanak' Isiraely izany dia nifampilaza izy hoe: Mana itony; satria tsy fantany izany. Dia hoy Mosesy taminy: Itony no mofo izay nomen' i Jehovah ho fihinanareo.",
+    "16": " Izao no zavatra izay nandidian' i Jehovah: samia manangona araka izay fihinany, omera iray isan' olona, araka ny isan' ny olonareo; samia maka ho an' ireo ao an-dainy avy.",
+    "17": "Dia nanao izany ny Zanak' Isiraely, ka nanangona, ny sasany be, ny sasany kely.",
+    "18": "Ary rehefa nafatrany tamin' ny omera izany, izay nanangona be dia tsy nanana amby, ary izay nanangona kely tsy nanana ny tsy ampy: samy nanangona araka izay fihinany avy izy ireo.",
+    "19": "Ary hoy Mosesy taminy: aza misy mamela ho tra-maraina.",
+    "20": "Nefa tsy nihaino an' i Mosesy izy ireo; fa ny sasany namela sisa ho tra-maraina, dia niteraka olitra izany ka maimbo; ary dia tezitra tamin' ireo Mosesy.",
+    "21": "Ary nanangona izany isa-maraina izy ireo, samy araka izay fihinany avy; ary nony nihanafana ny andro dia levona izany.",
+    "22": "Ary izao no niseho, nony tamin' ny andro fahenina dia nanangona mofo avo roa heny izy ireo, omera roa isan' olona; dia avy ny mpanapaka ny fiangonana rehetra ka nanambara tamin' i Mosesy.",
+    "23": "Ary hoy Mosesy tamin' ireo: Izao no lazain' i Jehovah: Rahampitso no fitsaharana ho sabata masina ho an' i Jehovah; manendasa izay hendasinareo anio, ary ampangotrahy izay hampangotrahanareo; ary izay sisa dia avelao ho anareo hotehirizina ho tra-maraina.",
+    "24": "Dia namela izany ho tra-maraina izy, araka izay nandidian' i Mosesy; ary tsy mba maimbo na niteraka olitra izany.",
+    "25": "Ary hoy Mosesy: Hano izany anio, fa sabata ho an' i Jehovah anio; tsy hahita izany any an-tsaha ianareo anio.",
+    "26": "Henemana no hanangonanareo izany, fa amin' ny andro fahafito izay sabata, dia tsy hisy amin' izany.",
+    "27": "Ary izao no niseho, nony tamin' ny andro fahafito, dia nivoaka hanangona ny sasany tamin' ny olona, fa tsy nahita.",
+    "28": "Ary hoy Jehovah tamin' i Mosesy: Mandra-pahoviana no handavanareo tsy hitandrina ny didiko sy ny lalàko?",
+    "29": "Jereo fa Jehovah no nanome anareo ny sabata, noho izany no anomezany anareo mofo ho amin' ny indroa andro amin' ny andro fahenina. Samia mitoetra eo amin' ny fitoerany avy ianareo, aoka tsy hisy hiala amin' ny fitoerany amin' ny andro fahafito.",
+    "30": "Dia nitsahatra ny olona tamin' ny andro fahafito.",
+    "31": "Ary ny anarany dia nataon' ny taranak' Isiraely hoe: Mana; ary fotsy tahaka ny voan-drafy izy; ary ny tsirony dia toy ny mofo manify misy tantely.",
+    "32": "Ary hoy Mosesy: Izao no zavatra izay andidian' i Jehovah: Fenoy izany ny omera iray mba hotehirizina ho an' ny taranakareo; mba ho hitany ny mofo izay namahanako anareo tany an' efitra raha nitondra anareo Aho.",
+    "33": "Ary hoy Mosesy tamin' i arona: Makà vilany ka asio mana iray omera feno ao anatiny, dia apetraho eo anatrehan' i Jehovah mba hotehirizina ho an' ny taranakareo.",
+    "34": "Araka izay nandidian' i Jehovah an' i Mosesy no nametrahan' i Arona izany teo anatrehan' ny Vavolombelona mba hotehirizina.",
+    "35": "Ary ny Zanak' Isiraely nihinana mana nandritra ny efapolo taona, mandra-pahatongany tany amin' ny tany nisy mponina; nihinana mana tokoa izy ireo, mandra-pahatongany tany amin' ny sisin' ny tany Kanana.",
+    "36": "Ary ny omera dia ampahafolon' ny efaha."
+  }
 }

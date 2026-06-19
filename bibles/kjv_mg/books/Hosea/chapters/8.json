@@ -1,61 +1,20 @@
 {
+  "book": "Hosea",
   "chapter": 8,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ataovy eo am-bavanao ny trompetra. Fa hisy toy ny voromahery hipaoka ny tranon' i Jehovah, satria efa nivadika ny fanekeko sy nandika ny lalàko izy ireo."
-    },
-    {
-      "v": 2,
-      "text": "Hitaraina Amiko Isiraely hoe: Mahalala anao izahay ry Andriamanitro ô."
-    },
-    {
-      "v": 3,
-      "text": "\"Efa nanary ny zava-tsoa Isiraely; ny fahavalo no hanenjika azy.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ireny dia nanangana mpanjaka, nefa tsy avy tamiko; nifidy mpanapaka izy, nefa tsy fantatro; ny volafotsiny sy ny volamenany no nataony sampiny mba hamongorana azy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ny ombilahy kelinao no nanary anao ry Samaria; mirehitra aminy ny fahatezerako; mandra-pahoviana aloha no ho tratrany ny tsy fananan-tsiny?\""
-    },
-    {
-      "v": 6,
-      "text": "\"Fa avy tamin' ny Isiraely koa izany; ny mpiasa no nanao azy, ka dia tsy Andriamanitra izy, fa ho torotoro ilay ombilahy kelin' i Samaria.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa rivotra no nafafiny, ary tadio no hojinjany; tsy misy taho mitsangana; ny salohiny tsy hahazoana koba; ary raha tahiny hisy aza, ny vahiny no hihinana azy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Voatelina Isiraely; ankehitriny dia efa tonga tahaka ny fanaka tsy mahafinaritra izy any amin' ny jentilisa.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Fa niakatra ho any Asyria izy toy ny boriky dia mandeha irery; Efraima dia nanangy ireo mpitia azy.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Eny, na dia nanangy tany amin' ny firenena aza izy, dia hovoriko ankehitriny; ary halahelo kely izy noho ny entan' ny mpanjakan' ireo mpanapaka.\""
-    },
-    {
-      "v": 11,
-      "text": "Satria Efraima efa nanao alitara maro hanotana, dia hahazo alitara hanotana izy."
-    },
-    {
-      "v": 12,
-      "text": "Efa nosoratako taminy ny zava-dehibe tamin' ny lalàko, nefa nataony ho toy ny zavatra hafa izany."
-    },
-    {
-      "v": 13,
-      "text": "\"Manao fanatitra hena hatao fanatitra ho ahy izy, ka mihinana izany, nefa tsy sitrak' i Jehovah ireo; ankehitriny dia hotsarovany ny helony; ary hovaliany ny fahotany; hiverina any Egypta izy ireny.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Efa nanadino ny Mpanao azy Isiraely ka nanorina tempoly maro; ary Joda nanamaro tanàna mimanda; fa haterako afo ao an-tanànany, ary holevonin' izany ny lapany.\""
-    }
-  ]
+  "verses": {
+    "1": "Ataovy eo am-bavanao ny trompetra. Fa hisy toy ny voromahery hipaoka ny tranon' i Jehovah, satria efa nivadika ny fanekeko sy nandika ny lalàko izy ireo.",
+    "2": "Hitaraina Amiko Isiraely hoe: Mahalala anao izahay ry Andriamanitro ô.",
+    "3": "Efa nanary ny zava-tsoa Isiraely; ny fahavalo no hanenjika azy.",
+    "4": "Ireny dia nanangana mpanjaka, nefa tsy avy tamiko; nifidy mpanapaka izy, nefa tsy fantatro; ny volafotsiny sy ny volamenany no nataony sampiny mba hamongorana azy.",
+    "5": "Ny ombilahy kelinao no nanary anao ry Samaria; mirehitra aminy ny fahatezerako; mandra-pahoviana aloha no ho tratrany ny tsy fananan-tsiny?",
+    "6": "Fa avy tamin' ny Isiraely koa izany; ny mpiasa no nanao azy, ka dia tsy Andriamanitra izy, fa ho torotoro ilay ombilahy kelin' i Samaria.",
+    "7": "Fa rivotra no nafafiny, ary tadio no hojinjany; tsy misy taho mitsangana; ny salohiny tsy hahazoana koba; ary raha tahiny hisy aza, ny vahiny no hihinana azy.",
+    "8": "Voatelina Isiraely; ankehitriny dia efa tonga tahaka ny fanaka tsy mahafinaritra izy any amin' ny jentilisa.",
+    "9": "Fa niakatra ho any Asyria izy toy ny boriky dia mandeha irery; Efraima dia nanangy ireo mpitia azy.",
+    "10": "Eny, na dia nanangy tany amin' ny firenena aza izy, dia hovoriko ankehitriny; ary halahelo kely izy noho ny entan' ny mpanjakan' ireo mpanapaka.",
+    "11": "Satria Efraima efa nanao alitara maro hanotana, dia hahazo alitara hanotana izy.",
+    "12": "Efa nosoratako taminy ny zava-dehibe tamin' ny lalàko, nefa nataony ho toy ny zavatra hafa izany.",
+    "13": "Manao fanatitra hena hatao fanatitra ho ahy izy, ka mihinana izany, nefa tsy sitrak' i Jehovah ireo; ankehitriny dia hotsarovany ny helony; ary hovaliany ny fahotany; hiverina any Egypta izy ireny.",
+    "14": "Efa nanadino ny Mpanao azy Isiraely ka nanorina tempoly maro; ary Joda nanamaro tanàna mimanda; fa haterako afo ao an-tanànany, ary holevonin' izany ny lapany."
+  }
 }

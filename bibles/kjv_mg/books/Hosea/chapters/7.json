@@ -1,69 +1,22 @@
 {
+  "book": "Hosea",
   "chapter": 7,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Raha te-hanasitrana ny Isiraely Aho, dia miseho ny helok' i Efraima sy ny faharatsian' i Samaria, fa manao fitaka izy; koa miditra ny mpangalatra, ary ny andian' ny mpandroba dia manimba eny ivelany.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary tsy heveriny ao am-pony fa tsarovako ny faharatsiany rehetra; ankehitriny dia gejain' ny nataony izy, eo anatrehako izany.\""
-    },
-    {
-      "v": 3,
-      "text": "Amin' ny faharatsiany no ampifaliany ny mpanjaka, ary amin' ny laingany ny mpanapaka."
-    },
-    {
-      "v": 4,
-      "text": "Samy mpaka vadin' olona avokoa izy rehetra ka toy ny fatana voafanan' ny mpanao mofo, izay mitsahatra tsy misorona afo hatramin' ny ametafetany ny koba ka ambara-pitombony."
-    },
-    {
-      "v": 5,
-      "text": "\"Tamin' ny andron' ny mpanjakantsika dia nanimba tena tamin' ny divay anaty siny ny mpanapaka; nifandray tanana tamin' ny mpaniratsira ny mpanjaka.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Fa entin' ireo ho eo am-panotrehana ny fony, toy ny ho ao amin' ny fatana; mandritra ny alina dia matory ny mpanao mofony ary nony maraina dia toy ny lelafo mirehitra ny fatana.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Samy mahamay toy ny fatana izy rehetra ka mandevona ny andriambaventiny; efa lavo avokoa ny mpanjakany, tsy misy miantso Ahy izy rehetra.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Efraima dia miharoharo amin' ireo firenena; Efraima dia efa tonga mofo tsy voavadika.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Lanin' ny vahiny ny heriny, nefa tsy fantany akory izany; eny, efa mipì-bolo ihany izy, saingy tsy fantany.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary ny avonavon' Isiraely dia vavolombelona manameloka azy; nefa, na dia izany rehetra izany aza, dia tsy miverina amin' i Jehovah Andriamaniny ihany izy, na mitady Azy.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary Efraima dia efa tonga tahaka ny voromailala adaladala tsy manan-tsaina; efa miantso an' i Egypta izy ary efa mankany Asyria.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Raha vao handeha izy, dia hovelariko aminy ny fandrika haratoko, ka hampidiriko ao toy ny voro-manidina eny amin' ny lanitra izy; hofaizako izy araka izay efa ren' ny fiangonany.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Lozan' ireny! satria nandositra Ahy izy; fandringanana no azy, satria niodina tamiko izy; na dia efa nanavotra azy aza Aho dia nilaza lainga hanoherana ahy izy.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary tsy nitaraina tamiko tamin' ny fony izy, raha nidradradradra tao am-pandriany; mitangorona hitady vary tritika sy divay izy, dia miodina miala amiko.\""
-    },
-    {
-      "v": 15,
-      "text": "Na dia Izaho aza no namehy sy nanatanjaka ny sandriny, dia misaintsain-dratsy ahy kosa izy."
-    },
-    {
-      "v": 16,
-      "text": "\"Miverina ihany izy, nefa tsy ho amin' ny Avo indrindra; tonga tahaka ny tsipìka manjiona izy; ho lavon-tsabatra ny mpanapaka azy noho ny firehitry ny lelany; izany no ho latsany any amin' ny tany Egypta.\""
-    }
-  ]
+  "verses": {
+    "1": "Raha te-hanasitrana ny Isiraely Aho, dia miseho ny helok' i Efraima sy ny faharatsian' i Samaria, fa manao fitaka izy; koa miditra ny mpangalatra, ary ny andian' ny mpandroba dia manimba eny ivelany.",
+    "2": "Ary tsy heveriny ao am-pony fa tsarovako ny faharatsiany rehetra; ankehitriny dia gejain' ny nataony izy, eo anatrehako izany.",
+    "3": "Amin' ny faharatsiany no ampifaliany ny mpanjaka, ary amin' ny laingany ny mpanapaka.",
+    "4": "Samy mpaka vadin' olona avokoa izy rehetra ka toy ny fatana voafanan' ny mpanao mofo, izay mitsahatra tsy misorona afo hatramin' ny ametafetany ny koba ka ambara-pitombony.",
+    "5": "Tamin' ny andron' ny mpanjakantsika dia nanimba tena tamin' ny divay anaty siny ny mpanapaka; nifandray tanana tamin' ny mpaniratsira ny mpanjaka.",
+    "6": "Fa entin' ireo ho eo am-panotrehana ny fony, toy ny ho ao amin' ny fatana; mandritra ny alina dia matory ny mpanao mofony ary nony maraina dia toy ny lelafo mirehitra ny fatana.",
+    "7": "Samy mahamay toy ny fatana izy rehetra ka mandevona ny andriambaventiny; efa lavo avokoa ny mpanjakany, tsy misy miantso Ahy izy rehetra.",
+    "8": "Efraima dia miharoharo amin' ireo firenena; Efraima dia efa tonga mofo tsy voavadika.",
+    "9": "Lanin' ny vahiny ny heriny, nefa tsy fantany akory izany; eny, efa mipì-bolo ihany izy, saingy tsy fantany.",
+    "10": "Ary ny avonavon' Isiraely dia vavolombelona manameloka azy; nefa, na dia izany rehetra izany aza, dia tsy miverina amin' i Jehovah Andriamaniny ihany izy, na mitady Azy.",
+    "11": "Ary Efraima dia efa tonga tahaka ny voromailala adaladala tsy manan-tsaina; efa miantso an' i Egypta izy ary efa mankany Asyria.",
+    "12": "Raha vao handeha izy, dia hovelariko aminy ny fandrika haratoko, ka hampidiriko ao toy ny voro-manidina eny amin' ny lanitra izy; hofaizako izy araka izay efa ren' ny fiangonany.",
+    "13": "Lozan' ireny! satria nandositra Ahy izy; fandringanana no azy, satria niodina tamiko izy; na dia efa nanavotra azy aza Aho dia nilaza lainga hanoherana ahy izy.",
+    "14": "Ary tsy nitaraina tamiko tamin' ny fony izy, raha nidradradradra tao am-pandriany; mitangorona hitady vary tritika sy divay izy, dia miodina miala amiko.",
+    "15": "Na dia Izaho aza no namehy sy nanatanjaka ny sandriny, dia misaintsain-dratsy ahy kosa izy.",
+    "16": "Miverina ihany izy, nefa tsy ho amin' ny Avo indrindra; tonga tahaka ny tsipìka manjiona izy; ho lavon-tsabatra ny mpanapaka azy noho ny firehitry ny lelany; izany no ho latsany any amin' ny tany Egypta."
+  }
 }

@@ -1,153 +1,43 @@
 {
+  "book": "Deotornomia",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Dia niverina isika ka nandeha tany an' efitra tamin'ny lalana mankany amin' ny Ranomasina Mena, araka izay nolazain' i Jehovah tamiko; ary nanodidina ny tendrombohitra Seïra andro maro isika.\""
-    },
-    {
-      "v": 2,
-      "text": "Dia niteny tamiko Jehovah ka nanao hoe:"
-    },
-    {
-      "v": 3,
-      "text": "Ampy izay ny nandehananareo nanodidina ity tendrombohitra ity, fa miverena mianavaratra ianareo."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary mandidia ny olona hoe: Ianareo efa handeha hamaky ny tanin' ny taranak' i Esao rahalahinareo, izay monina any Seïra; dia hatahotra anareo izy; nefa mitandrema tsara ianareo,\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ka aza mila ady aminy; fa tsy hanomezako anareo ny taniny, na dia eram-paladia akory aza, satria nomeko ho lovan' i Esao ny tendrombohitra Seïra.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Vola no hamidinareo hanina aminy hohaninareo; ary vola koa no hamidinareo rano hosotroinareo.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa Jehovah Andriamanitrao efa nitahy anao tamin' izay rehetra nataon' ny tananao; fantany ny nandehananao namaky ity efitra lehibe ity; izay efapolo taona izay Jehovah Andriamanitrao no teo aminao, ka tsy nanan-java-mahory akory ianao.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary raha nandalo ny taranak' i Esao rahalahintsika izay monina any Seïra isika ary niala ho amin' ny lalana mankany amin' ny tany lemaka Elata any Ezion-gebera, dia nivily isika ka nandeha tamin' ny lalan' ny efitr' i Moaba."
-    },
-    {
-      "v": 9,
-      "text": "Dia hoy Jehovah tamiko: Aza mampahory ny Moabita, na mila ady aminy, fa tsy hanomezako ho lovanao ny taniny, satria Ara dia efa nomeko ho fananan' ny taranak' i Lota."
-    },
-    {
-      "v": 10,
-      "text": "\"Ny Emima nonina tany fahiny, dia firenena lehibe sy maro isa ary olona lava tahaka ny Anakita;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ireo koa no natao ho isan' ny olona goavambe toy ny Anakita; fa ny Moabita kosa nanao azy hoe: Emima.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary ny tany Seïra dia nonenan' ny Horima koa fahiny, fa ny taranak' i Esao nandroaka azy ka nandringana azy tsy ho eo anoloany, dia nonina nisolo azy; izany no nataon' ny Isiraely tamin' ny tany izay nomen' i Jehovah azy ho lovany.\""
-    },
-    {
-      "v": 13,
-      "text": "Miaingà ankehitriny ianareo, hoy aho, ka mandehana mita ny renirano kely Zareda. Dia nita ny renirano Zareda isika."
-    },
-    {
-      "v": 14,
-      "text": "Ary ny andro nandehanantsika hatrany Kadesi-barnea ka hatramin' ny nitantsika ny renirano kely Zareda dia valo amby telopolo taona mandra-pahalany ritra ny mpanafika rehetra tamin' ny taranaka rehetra, ka tsy nisy intsony teo amin' ny toby, araka izay efa nianianan' i Jehovah taminy."
-    },
-    {
-      "v": 15,
-      "text": "Fa ny tanan' i Jehovah dia namely azy marimarina ka nandringana azy mandra-pahalany ritrany ka tsy nisy intsony teo amin' ny toby."
-    },
-    {
-      "v": 16,
-      "text": "Koa izao no niseho, rehefa lany ritra ny mpanafika rehetra ka tapitra maty teo amin' ny olona,"
-    },
-    {
-      "v": 17,
-      "text": "Dia niteny tamiko Jehovah ka nanao hoe:"
-    },
-    {
-      "v": 18,
-      "text": "\"Ankehitriny dia hamaky an' i Ara, sisintanin' i Moaba ianareo;\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ary raha tonga eo akaikin' ny taranak' i Amona ianao, dia aza mampahory azy, na mila ady aminy; fa tsy hanomezako ho fanananao ny tanin' ny zanak' i Amona, satria nomeko ho lovan' ny taranak' i Lota izany.\""
-    },
-    {
-      "v": 20,
-      "text": "\"(Izany koa dia natao ho tanin' ny olona goavambe fahiny; ary nataon' ny Amonita hoe Zamzomita izy ireny.\""
-    },
-    {
-      "v": 21,
-      "text": "Firenena lehibe sy maro isa ary olona lava tahaka ny Anakita ireny, nefa naringan' i Jehovah tsy ho eo anoloany izy ka ny Amonita no nonina nisolo azy."
-    },
-    {
-      "v": 22,
-      "text": "Araka izay nataony ho an' ny taranak' i Esao, izay nitoetra tany Seïra, rehefa nandringana ny Horima tsy ho eo anoloany Izy, ka dia nonina nisolo azy ireo mandraka androany."
-    },
-    {
-      "v": 23,
-      "text": "Ary ny amin' ny Avima, izay nonina any Hazerima ka hatrany Aza, dia naringan' ny Kaftorita izay avy tany Kaftora ireny, ary ireo no nonina nisolo azy)."
-    },
-    {
-      "v": 24,
-      "text": "\"Mitsangàna, miaingà, ka mità ny renirano Arnona ianareo; indro, efa natolotro eo an-tananao Sihona Amorita, mpanjakan' i Hesbona, mbamin' ny taniny. Santaro ny handovanao azy, ka tafiho izy.\""
-    },
-    {
-      "v": 25,
-      "text": "Anio no vao hataoko mahazo ny firenena ambanin' ny lanitra rehetra ny horohoro sy tahotra anareo, ka raha reny ny lazanao, dia hangovitra sy hangorohoro eo anoloanao izy."
-    },
-    {
-      "v": 26,
-      "text": "Dia naniraka olona avy tany an' efitr' i Kedemota aho hankany amin' i Sihona, mpanjakan' i Hesbona, nitondra teny fihavanana hoe:"
-    },
-    {
-      "v": 27,
-      "text": "\"Aoka mba handeha hamaky ny taninao aho; ny lalambe ihany no halehako, ka tsy hivily aho, na ho amin' ny ankavanana, na ho amin' ny ankavia.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Vola no hivarotanao hanina amiko hohaniko, ary vola no hivarotanao rano amiko hosotroiko; ary handalo fotsiny ihany aho,\""
-    },
-    {
-      "v": 29,
-      "text": "(Araka izay nataon' ny taranak' i Esao, izay monina any Seïra, sy ny Moabita, izay monina any Ara, tamiko), mandra-pitako an' i Jordana ho any amin' ny tany izay omen' i Jehovah Andriamanitray anay."
-    },
-    {
-      "v": 30,
-      "text": "\"Fa Sihona, mpanjakan' i Hesbona tsy nety namela antsika hamaky ny taniny; fa Jehovah Andriamanitrao nanamafy ny fanahiny sy nampahaditra ny fony mba hanolorany azy eo an-tananao tahaka ny amin' izao anio izao.\""
-    },
-    {
-      "v": 31,
-      "text": "Ary hoy Jehovah tamiko: Indro, vao manomboka hanolotra an' i Sihona sy ny taniny eo anoloanao Aho, santaro ny hahazoanao azy, mba handovanao ny taniny."
-    },
-    {
-      "v": 32,
-      "text": "Dia nivoaka Sihona, dia izy mbamin' ny vahoakany rehetra hiady amintsika tao Jahaza."
-    },
-    {
-      "v": 33,
-      "text": "Dia nanolotra azy teo anoloantsika Jehovah Andriamanitsika, ka namely azy sy ny zanany ary ny vahoakany rehetra isika."
-    },
-    {
-      "v": 34,
-      "text": "Ary nahafaka ny tanànany rehetra tamin' izany fotoana izany isika ka nandringana tanteraka ny lehilahy sy ny vehivavy, ary ny zaza madinika tamin' ny isan-tanàna rehetra, tsy nasiantsika niangana na dia iray aza."
-    },
-    {
-      "v": 35,
-      "text": "Ny biby fiompy sy ny fananany tao amin' ny tanàna izay afatsika ihany no nataontsika ho babo."
-    },
-    {
-      "v": 36,
-      "text": "\"Hatrany Aroera, izay eo amoron' ny reniranon' i Arnona, dia hatramin' ny tanàna izay ao amoron' ny renirano, ka hatrany Gileada, tsy nisy tanàna izay mafy loatra tamin-tsika; fa izy rehetra dia natolotr' i Jehovah Andriamanitsika ho an-tsika;\""
-    },
-    {
-      "v": 37,
-      "text": "Kanefa ny tanin' ny taranak' i Amona no tsy nakaikezinareo, dia ny toerana amoron' ny renirano Jaboka sy ny tanàna eo amin' ny tendrombohitra, ary izay rehetra nandraran' i Jehovah Andriamanitsika antsika."
-    }
-  ]
+  "verses": {
+    "1": "Dia niverina isika ka nandeha tany an' efitra tamin'ny lalana mankany amin' ny Ranomasina Mena, araka izay nolazain' i Jehovah tamiko; ary nanodidina ny tendrombohitra Seïra andro maro isika.",
+    "2": "Dia niteny tamiko Jehovah ka nanao hoe:",
+    "3": "Ampy izay ny nandehananareo nanodidina ity tendrombohitra ity, fa miverena mianavaratra ianareo.",
+    "4": "Ary mandidia ny olona hoe: Ianareo efa handeha hamaky ny tanin' ny taranak' i Esao rahalahinareo, izay monina any Seïra; dia hatahotra anareo izy; nefa mitandrema tsara ianareo,",
+    "5": "Ka aza mila ady aminy; fa tsy hanomezako anareo ny taniny, na dia eram-paladia akory aza, satria nomeko ho lovan' i Esao ny tendrombohitra Seïra.",
+    "6": "Vola no hamidinareo hanina aminy hohaninareo; ary vola koa no hamidinareo rano hosotroinareo.",
+    "7": "Fa Jehovah Andriamanitrao efa nitahy anao tamin' izay rehetra nataon' ny tananao; fantany ny nandehananao namaky ity efitra lehibe ity; izay efapolo taona izay Jehovah Andriamanitrao no teo aminao, ka tsy nanan-java-mahory akory ianao.",
+    "8": "Ary raha nandalo ny taranak' i Esao rahalahintsika izay monina any Seïra isika ary niala ho amin' ny lalana mankany amin' ny tany lemaka Elata any Ezion-gebera, dia nivily isika ka nandeha tamin' ny lalan' ny efitr' i Moaba.",
+    "9": "Dia hoy Jehovah tamiko: Aza mampahory ny Moabita, na mila ady aminy, fa tsy hanomezako ho lovanao ny taniny, satria Ara dia efa nomeko ho fananan' ny taranak' i Lota.",
+    "10": "Ny Emima nonina tany fahiny, dia firenena lehibe sy maro isa ary olona lava tahaka ny Anakita;",
+    "11": "Ireo koa no natao ho isan' ny olona goavambe toy ny Anakita; fa ny Moabita kosa nanao azy hoe: Emima.",
+    "12": "Ary ny tany Seïra dia nonenan' ny Horima koa fahiny, fa ny taranak' i Esao nandroaka azy ka nandringana azy tsy ho eo anoloany, dia nonina nisolo azy; izany no nataon' ny Isiraely tamin' ny tany izay nomen' i Jehovah azy ho lovany.",
+    "13": "Miaingà ankehitriny ianareo, hoy aho, ka mandehana mita ny renirano kely Zareda. Dia nita ny renirano Zareda isika.",
+    "14": "Ary ny andro nandehanantsika hatrany Kadesi-barnea ka hatramin' ny nitantsika ny renirano kely Zareda dia valo amby telopolo taona mandra-pahalany ritra ny mpanafika rehetra tamin' ny taranaka rehetra, ka tsy nisy intsony teo amin' ny toby, araka izay efa nianianan' i Jehovah taminy.",
+    "15": "Fa ny tanan' i Jehovah dia namely azy marimarina ka nandringana azy mandra-pahalany ritrany ka tsy nisy intsony teo amin' ny toby.",
+    "16": "Koa izao no niseho, rehefa lany ritra ny mpanafika rehetra ka tapitra maty teo amin' ny olona,",
+    "17": "Dia niteny tamiko Jehovah ka nanao hoe:",
+    "18": "Ankehitriny dia hamaky an' i Ara, sisintanin' i Moaba ianareo;",
+    "19": "Ary raha tonga eo akaikin' ny taranak' i Amona ianao, dia aza mampahory azy, na mila ady aminy; fa tsy hanomezako ho fanananao ny tanin' ny zanak' i Amona, satria nomeko ho lovan' ny taranak' i Lota izany.",
+    "20": "(Izany koa dia natao ho tanin' ny olona goavambe fahiny; ary nataon' ny Amonita hoe Zamzomita izy ireny.",
+    "21": "Firenena lehibe sy maro isa ary olona lava tahaka ny Anakita ireny, nefa naringan' i Jehovah tsy ho eo anoloany izy ka ny Amonita no nonina nisolo azy.",
+    "22": "Araka izay nataony ho an' ny taranak' i Esao, izay nitoetra tany Seïra, rehefa nandringana ny Horima tsy ho eo anoloany Izy, ka dia nonina nisolo azy ireo mandraka androany.",
+    "23": "Ary ny amin' ny Avima, izay nonina any Hazerima ka hatrany Aza, dia naringan' ny Kaftorita izay avy tany Kaftora ireny, ary ireo no nonina nisolo azy).",
+    "24": "Mitsangàna, miaingà, ka mità ny renirano Arnona ianareo; indro, efa natolotro eo an-tananao Sihona Amorita, mpanjakan' i Hesbona, mbamin' ny taniny. Santaro ny handovanao azy, ka tafiho izy.",
+    "25": "Anio no vao hataoko mahazo ny firenena ambanin' ny lanitra rehetra ny horohoro sy tahotra anareo, ka raha reny ny lazanao, dia hangovitra sy hangorohoro eo anoloanao izy.",
+    "26": "Dia naniraka olona avy tany an' efitr' i Kedemota aho hankany amin' i Sihona, mpanjakan' i Hesbona, nitondra teny fihavanana hoe:",
+    "27": "Aoka mba handeha hamaky ny taninao aho; ny lalambe ihany no halehako, ka tsy hivily aho, na ho amin' ny ankavanana, na ho amin' ny ankavia.",
+    "28": "Vola no hivarotanao hanina amiko hohaniko, ary vola no hivarotanao rano amiko hosotroiko; ary handalo fotsiny ihany aho,",
+    "29": "(Araka izay nataon' ny taranak' i Esao, izay monina any Seïra, sy ny Moabita, izay monina any Ara, tamiko), mandra-pitako an' i Jordana ho any amin' ny tany izay omen' i Jehovah Andriamanitray anay.",
+    "30": "Fa Sihona, mpanjakan' i Hesbona tsy nety namela antsika hamaky ny taniny; fa Jehovah Andriamanitrao nanamafy ny fanahiny sy nampahaditra ny fony mba hanolorany azy eo an-tananao tahaka ny amin' izao anio izao.",
+    "31": "Ary hoy Jehovah tamiko: Indro, vao manomboka hanolotra an' i Sihona sy ny taniny eo anoloanao Aho, santaro ny hahazoanao azy, mba handovanao ny taniny.",
+    "32": "Dia nivoaka Sihona, dia izy mbamin' ny vahoakany rehetra hiady amintsika tao Jahaza.",
+    "33": "Dia nanolotra azy teo anoloantsika Jehovah Andriamanitsika, ka namely azy sy ny zanany ary ny vahoakany rehetra isika.",
+    "34": "Ary nahafaka ny tanànany rehetra tamin' izany fotoana izany isika ka nandringana tanteraka ny lehilahy sy ny vehivavy, ary ny zaza madinika tamin' ny isan-tanàna rehetra, tsy nasiantsika niangana na dia iray aza.",
+    "35": "Ny biby fiompy sy ny fananany tao amin' ny tanàna izay afatsika ihany no nataontsika ho babo.",
+    "36": "Hatrany Aroera, izay eo amoron' ny reniranon' i Arnona, dia hatramin' ny tanàna izay ao amoron' ny renirano, ka hatrany Gileada, tsy nisy tanàna izay mafy loatra tamin-tsika; fa izy rehetra dia natolotr' i Jehovah Andriamanitsika ho an-tsika;",
+    "37": "Kanefa ny tanin' ny taranak' i Amona no tsy nakaikezinareo, dia ny toerana amoron' ny renirano Jaboka sy ny tanàna eo amin' ny tendrombohitra, ary izay rehetra nandraran' i Jehovah Andriamanitsika antsika."
+  }
 }

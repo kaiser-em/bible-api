@@ -1,89 +1,27 @@
 {
+  "book": "2 Korintiana",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Tsy maintsy mirehareha aho, na dia tsy mahasoa aza izany; fa handroso hilaza fahitana sy fanambaran’ny Tompo aho.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Mahalala olona iray ao amin’i Kristy aho, tokony ho efatra ambin’ny folo taona lasa izay (na tao amin’ny tena, na tsy tao amin’ny tena, tsy fantatro, Andriamanitra no mahalala); ilay anankiray dia nakarina ho any amin’ny lanitra fahatelo.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary mahalala ilay olona anankiray aho (na tao amin’ny tena, na tsy tao amin’ny tena, tsy fantatro, Andriamanitra no mahalala);\""
-    },
-    {
-      "v": 4,
-      "text": "Fa nakarina ho any Paradisa izy ka nandre teny tsy hay tenenina sady tsy tokony holazain’olona."
-    },
-    {
-      "v": 5,
-      "text": "\"Ilay anankiray no hataoko rehareha; fa ny amin’ny tenako dia tsy hirehareha aho afa tsy amin’ny fahalemena ihany.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Fa na dia te-hirehareha aza aho, dia tsy ho adala, fa hilaza ny marina; nefa tsy manao izany aho, fandrao misy olona mihevitra ahy ho mihoatra noho izay ahitany ahy na izay andrenesany ny teniko.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary fandrao hirehareha noho ny habetsaky ny fanambarana aho, dia nasiana tsilo tamin’ny nofo aho, dia irak’i Satana hamely ahy, fandrao hirehareha izaitsizy aho."
-    },
-    {
-      "v": 8,
-      "text": "Izany no niangaviako intelo tamin’ny Tompo, mba hialan’izany amiko."
-    },
-    {
-      "v": 9,
-      "text": "\"Nefa hoy Izy tamiko: Ampy ho anao ny fahasoavako; fa ny heriko dia tanterahina amin’ny fahalemena. Koa mainka sitrako ny hirehareha amin’ny fahalemeko, mba hitoeran’ny herin’i Kristy amiko.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Koa dia finaritra aho amin’ny fahalemena, amin’ny fanalam-baràka, amin’ny fahaterena, amin’ny fanenjehana, amin’ny fahantrana noho ny amin’i Kristy; fa ny fahalemeko no fahatanjahako.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Efa tonga adala aho tamin’ny fireharehana, ianareo no nanery ahy; fa tokony hoderainareo aho, satria tsy latsaka noho ireo apostoly ambony indrindra aho, na dia tsinontsinona aza aho.\""
-    },
-    {
-      "v": 12,
-      "text": "Ny famantarana maha apostoly ahy dia natao teo aminareo tokoa tamin’ny faharetana rehetra, tamin’ny famantarana sy ny fahagagana ary tamin’ny asa lehibe."
-    },
-    {
-      "v": 13,
-      "text": "Fa inona moa no nahalatsaka anareo noho ny fiangonana sasany, afa tsy ny tsy namakiako tratra anareo? Mamelà ahy àry amin’izany fahadisoana izany."
-    },
-    {
-      "v": 14,
-      "text": "\"Indro, efa fanintelony izao no vonona hankaty aminareo aho, nefa tsy hahavaky tratra anareo; fa tsy ny fanananareo no tadiaviko, fa ianareo; fa tsy ny zanaka no tokony hihary ho an’ny ray aman-dreny, fa ny ray aman-dreniny no tokony hihary ho an’ny zanaka.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary izaho dia faly indrindra handany sy holanina ho anareo, na dia araka ny fitombon’ny fitiavako anareo aza no fihenan’ny fitiavanareo ahy."
-    },
-    {
-      "v": 16,
-      "text": "Kanefa, na dia izany aza, izaho tsy nahavaky tratra anareo, fa nanao saina, hono, aho, dia nahazo anareo tamin’ny fihendrena."
-    },
-    {
-      "v": 17,
-      "text": "Moa izay nirahiko tany aminareo va nisy nanaovako anareo ho vola aman-karena?"
-    },
-    {
-      "v": 18,
-      "text": "Nangataka an’i Titosy aho, sady nirahiko nomba azy ny rahalahy iray. Moa Titosy va nanao anareo ho vola aman-karena? Tsy fanahy iray ihany va no nandehananay? Tsy iray ihany va no dianay?"
-    },
-    {
-      "v": 19,
-      "text": "Ary heverinareo koa va fa manala tsiny ny tenanay aminareo izahay? Eo anatrehan’Andriamanitra no itenenanay ao amin’i Kristy, fa ny zavatra rehetra, ry malala, dia ho fampandrosoana anareo."
-    },
-    {
-      "v": 20,
-      "text": "\"Fa matahotra aho, fandrao, rehefa tonga aho, dia hahita anareo ho toy izay tsy tiako, ary ho hitanareo aho ho toy izay tsy tianareo; fandrao hisy fifandirana, fialonana, fahatezerana, fifampiandaniana, fanaratsiana, fibitsibitsihana, fieboeboana, fikotranana,\""
-    },
-    {
-      "v": 21,
-      "text": "Eny, fandrao, rehefa tonga indray aho, dia hampietry ahy eo anatrehanareo Andriamanitro, ary izaho hanana alahelo amin' izay nanota teo aloha ka tsy mbola nibebaka tamin’ny fahalotoana sy ny fahavetavetana ary ny fijejojejoana nataony."
-    }
-  ]
+  "verses": {
+    "1": "Tsy maintsy mirehareha aho, na dia tsy mahasoa aza izany; fa handroso hilaza fahitana sy fanambaran’ny Tompo aho.",
+    "2": "Mahalala olona iray ao amin’i Kristy aho, tokony ho efatra ambin’ny folo taona lasa izay (na tao amin’ny tena, na tsy tao amin’ny tena, tsy fantatro, Andriamanitra no mahalala); ilay anankiray dia nakarina ho any amin’ny lanitra fahatelo.",
+    "3": "Ary mahalala ilay olona anankiray aho (na tao amin’ny tena, na tsy tao amin’ny tena, tsy fantatro, Andriamanitra no mahalala);",
+    "4": "Fa nakarina ho any Paradisa izy ka nandre teny tsy hay tenenina sady tsy tokony holazain’olona.",
+    "5": "Ilay anankiray no hataoko rehareha; fa ny amin’ny tenako dia tsy hirehareha aho afa tsy amin’ny fahalemena ihany.",
+    "6": "Fa na dia te-hirehareha aza aho, dia tsy ho adala, fa hilaza ny marina; nefa tsy manao izany aho, fandrao misy olona mihevitra ahy ho mihoatra noho izay ahitany ahy na izay andrenesany ny teniko.",
+    "7": "Ary fandrao hirehareha noho ny habetsaky ny fanambarana aho, dia nasiana tsilo tamin’ny nofo aho, dia irak’i Satana hamely ahy, fandrao hirehareha izaitsizy aho.",
+    "8": "Izany no niangaviako intelo tamin’ny Tompo, mba hialan’izany amiko.",
+    "9": "Nefa hoy Izy tamiko: Ampy ho anao ny fahasoavako; fa ny heriko dia tanterahina amin’ny fahalemena. Koa mainka sitrako ny hirehareha amin’ny fahalemeko, mba hitoeran’ny herin’i Kristy amiko.",
+    "10": "Koa dia finaritra aho amin’ny fahalemena, amin’ny fanalam-baràka, amin’ny fahaterena, amin’ny fanenjehana, amin’ny fahantrana noho ny amin’i Kristy; fa ny fahalemeko no fahatanjahako.",
+    "11": "Efa tonga adala aho tamin’ny fireharehana, ianareo no nanery ahy; fa tokony hoderainareo aho, satria tsy latsaka noho ireo apostoly ambony indrindra aho, na dia tsinontsinona aza aho.",
+    "12": "Ny famantarana maha apostoly ahy dia natao teo aminareo tokoa tamin’ny faharetana rehetra, tamin’ny famantarana sy ny fahagagana ary tamin’ny asa lehibe.",
+    "13": "Fa inona moa no nahalatsaka anareo noho ny fiangonana sasany, afa tsy ny tsy namakiako tratra anareo? Mamelà ahy àry amin’izany fahadisoana izany.",
+    "14": "Indro, efa fanintelony izao no vonona hankaty aminareo aho, nefa tsy hahavaky tratra anareo; fa tsy ny fanananareo no tadiaviko, fa ianareo; fa tsy ny zanaka no tokony hihary ho an’ny ray aman-dreny, fa ny ray aman-dreniny no tokony hihary ho an’ny zanaka.",
+    "15": "Ary izaho dia faly indrindra handany sy holanina ho anareo, na dia araka ny fitombon’ny fitiavako anareo aza no fihenan’ny fitiavanareo ahy.",
+    "16": "Kanefa, na dia izany aza, izaho tsy nahavaky tratra anareo, fa nanao saina, hono, aho, dia nahazo anareo tamin’ny fihendrena.",
+    "17": "Moa izay nirahiko tany aminareo va nisy nanaovako anareo ho vola aman-karena?",
+    "18": "Nangataka an’i Titosy aho, sady nirahiko nomba azy ny rahalahy iray. Moa Titosy va nanao anareo ho vola aman-karena? Tsy fanahy iray ihany va no nandehananay? Tsy iray ihany va no dianay?",
+    "19": "Ary heverinareo koa va fa manala tsiny ny tenanay aminareo izahay? Eo anatrehan’Andriamanitra no itenenanay ao amin’i Kristy, fa ny zavatra rehetra, ry malala, dia ho fampandrosoana anareo.",
+    "20": "Fa matahotra aho, fandrao, rehefa tonga aho, dia hahita anareo ho toy izay tsy tiako, ary ho hitanareo aho ho toy izay tsy tianareo; fandrao hisy fifandirana, fialonana, fahatezerana, fifampiandaniana, fanaratsiana, fibitsibitsihana, fieboeboana, fikotranana,",
+    "21": "Eny, fandrao, rehefa tonga indray aho, dia hampietry ahy eo anatrehanareo Andriamanitro, ary izaho hanana alahelo amin' izay nanota teo aloha ka tsy mbola nibebaka tamin’ny fahalotoana sy ny fahavetavetana ary ny fijejojejoana nataony."
+  }
 }

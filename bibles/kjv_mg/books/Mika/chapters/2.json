@@ -1,57 +1,19 @@
 {
+  "book": "Mika",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Lozan' izay mamoron-keloka sy misaintsain-dratsy ao am-pandriany! Ary nony maraina ny andro, dia manatanteraka izany izy, satria manan-kery ny tanany."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary mitsiriritra saha izy ka maka izany an-keriny, sy trano koa ka mahalasa azy; ary mampahory olona mbamin' ny ankohonany izy, dia olona mbamin' ny lovany.\""
-    },
-    {
-      "v": 3,
-      "text": "Koa izao no lazain' i Jehovah: Indro mamorona loza hamelezana ity ankohonana ity Aho, izay tsy hahazoanareo hanafaka ny vozonareo, ka tsy handeha miandranandrana ianareo, satria ratsy izany fotoana izany."
-    },
-    {
-      "v": 4,
-      "text": "\"Amin' izany andro izany no hanaovana oha-teny handatsana anareo, ka hitomaniana sy hidradradradrana hoe: Fongana tokoa izahay; efa nanova ny anjaran' ny oloko izy; endrey! afindrany hiala amiko izany! niodina izy sady nizara ny tanintsika.\""
-    },
-    {
-      "v": 5,
-      "text": "Koa tsy hisy aminao hanenjana famolaina akory hanaovana antsapaka ao amin' ny fiangonan' i Jehovah."
-    },
-    {
-      "v": 6,
-      "text": "\"Aza maminany ianareo, hoy izy amin' izay maminany; tsy haminany aminy izy, mba tsy hahazo henatra.\""
-    },
-    {
-      "v": 7,
-      "text": "E! Ianao izay antsoina hoe: taranak' i Jakoba, moa ve ny Fanahin' i Jehovah voageja? Moa ve izany no asany? Tsy mahasoa izay mandeha mahitsy va ny teniko?"
-    },
-    {
-      "v": 8,
-      "text": "\"Vao omaly no omaly no nitsanganan' ny oloko ho fahavalo; endahanareo hiala eo amin' ny lamba ny kapaotin' izay mandeha tsy manana ahiahy toy ny olona izay miverina avy amin' ny ady.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ny vehivavy eo amin' ny oloko dia roahinareo hiala amin' ny tranony mahafinaritra; esorinareo hiala mandrakizay amin' ny zanany madinika ny voninahitro.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Mitsangàna, ka mialà, fa tsy eto no fitsaharanareo; satria voaloto izany, ka handringana anareo, dia amin' ny fandringanana mafy.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Raha misy mandeha amin' ny fanahy sy ny fitaka ka mandainga manao hoe: Haminany aminao amin' ny divay sy ny zava-mahamamo aho; dia izy no ho mpaminany ho an' ity firenena ity.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Hamory anareo rehetra tokoa Aho, ry Jakoba, ary hanangona ny sisa amin' ny Isiraely tokoa; hakambako toy ny ondry any Bozra izy, toy ny ondry andiany ao amin' ny tany fiandrasana, hitabataba izy noho ny hamaroan' ny olona.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ny mpanabanga miakatra eo alohany, nanabanga izy ka nandroso ho eo amin' ny vavahady, dia nivoaka teo aminy; ny mpanjakany handroso eo alohany ary Jehovah no mitarika azy.\""
-    }
-  ]
+  "verses": {
+    "1": "Lozan' izay mamoron-keloka sy misaintsain-dratsy ao am-pandriany! Ary nony maraina ny andro, dia manatanteraka izany izy, satria manan-kery ny tanany.",
+    "2": "Ary mitsiriritra saha izy ka maka izany an-keriny, sy trano koa ka mahalasa azy; ary mampahory olona mbamin' ny ankohonany izy, dia olona mbamin' ny lovany.",
+    "3": "Koa izao no lazain' i Jehovah: Indro mamorona loza hamelezana ity ankohonana ity Aho, izay tsy hahazoanareo hanafaka ny vozonareo, ka tsy handeha miandranandrana ianareo, satria ratsy izany fotoana izany.",
+    "4": "Amin' izany andro izany no hanaovana oha-teny handatsana anareo, ka hitomaniana sy hidradradradrana hoe: Fongana tokoa izahay; efa nanova ny anjaran' ny oloko izy; endrey! afindrany hiala amiko izany! niodina izy sady nizara ny tanintsika.",
+    "5": "Koa tsy hisy aminao hanenjana famolaina akory hanaovana antsapaka ao amin' ny fiangonan' i Jehovah.",
+    "6": "Aza maminany ianareo, hoy izy amin' izay maminany; tsy haminany aminy izy, mba tsy hahazo henatra.",
+    "7": "E! Ianao izay antsoina hoe: taranak' i Jakoba, moa ve ny Fanahin' i Jehovah voageja? Moa ve izany no asany? Tsy mahasoa izay mandeha mahitsy va ny teniko?",
+    "8": "Vao omaly no omaly no nitsanganan' ny oloko ho fahavalo; endahanareo hiala eo amin' ny lamba ny kapaotin' izay mandeha tsy manana ahiahy toy ny olona izay miverina avy amin' ny ady.",
+    "9": "Ny vehivavy eo amin' ny oloko dia roahinareo hiala amin' ny tranony mahafinaritra; esorinareo hiala mandrakizay amin' ny zanany madinika ny voninahitro.",
+    "10": "Mitsangàna, ka mialà, fa tsy eto no fitsaharanareo; satria voaloto izany, ka handringana anareo, dia amin' ny fandringanana mafy.",
+    "11": "Raha misy mandeha amin' ny fanahy sy ny fitaka ka mandainga manao hoe: Haminany aminao amin' ny divay sy ny zava-mahamamo aho; dia izy no ho mpaminany ho an' ity firenena ity.",
+    "12": "Hamory anareo rehetra tokoa Aho, ry Jakoba, ary hanangona ny sisa amin' ny Isiraely tokoa; hakambako toy ny ondry any Bozra izy, toy ny ondry andiany ao amin' ny tany fiandrasana, hitabataba izy noho ny hamaroan' ny olona.",
+    "13": "Ny mpanabanga miakatra eo alohany, nanabanga izy ka nandroso ho eo amin' ny vavahady, dia nivoaka teo aminy; ny mpanjakany handroso eo alohany ary Jehovah no mitarika azy."
+  }
 }

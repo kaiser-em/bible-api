@@ -1,45 +1,16 @@
 {
+  "book": "Salamo",
   "chapter": 24,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Salamo nataon' i Davida.]  AN' i Jehovah ny tany sy izay rehetra eo aminy; izao rehetra izao sy ny mponina eo aminy.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Fa izy no nanorina azy tambonin' ny ranomasina; tambonin' ny rano no nampitoerany azy.\""
-    },
-    {
-      "v": 3,
-      "text": "Iza no hiakatra any an-kavoan' i Jehovah? Ary iza no hitoetra ao amin' ny fitoerany masina?"
-    },
-    {
-      "v": 4,
-      "text": "\"Izay madio tanana sy madio fo; izay tsy manandratra ny fanahiny ho amin' ny zava-poana, na mianiana amin' ny fitaka.\""
-    },
-    {
-      "v": 5,
-      "text": "Handray fitahiana avy amin' i Jehovah izy, ary fahamarinana avy amin' Andriamanitry ny famonjena azy."
-    },
-    {
-      "v": 6,
-      "text": "Izany no taranaka mitady Azy, izay mitady ny tavanao, dia Jakoba.[Sela.]"
-    },
-    {
-      "v": 7,
-      "text": "Asandrato ny lohanareo, ry vavahady, ary misandrata ianareo, ry varavarana mandrakizay, dia hiditra ao ny Mpanjakan' ny voninahitra."
-    },
-    {
-      "v": 8,
-      "text": "Iza izao Mpanjakan' ny voninahitra izao? Jehovah matanjaka sy mahery, Jehovah mahery an' ady."
-    },
-    {
-      "v": 9,
-      "text": "Asandrato ny lohanareo, ry vavahady, ary misandrata ianareo, ry varavarana mandrakizay, dia hiditra ao ny Mpanjakan' ny voninahitra."
-    },
-    {
-      "v": 10,
-      "text": "Iza àry izao Mpanjakan' ny voninahitra izao? Jehovah, Tompon' ny maro, Izy no Mpanjakan' ny voninahitra.[Sela.]"
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida.]  AN' i Jehovah ny tany sy izay rehetra eo aminy; izao rehetra izao sy ny mponina eo aminy.",
+    "2": "Fa izy no nanorina azy tambonin' ny ranomasina; tambonin' ny rano no nampitoerany azy.",
+    "3": "Iza no hiakatra any an-kavoan' i Jehovah? Ary iza no hitoetra ao amin' ny fitoerany masina?",
+    "4": "Izay madio tanana sy madio fo; izay tsy manandratra ny fanahiny ho amin' ny zava-poana, na mianiana amin' ny fitaka.",
+    "5": "Handray fitahiana avy amin' i Jehovah izy, ary fahamarinana avy amin' Andriamanitry ny famonjena azy.",
+    "6": "Izany no taranaka mitady Azy, izay mitady ny tavanao, dia Jakoba.[Sela.]",
+    "7": "Asandrato ny lohanareo, ry vavahady, ary misandrata ianareo, ry varavarana mandrakizay, dia hiditra ao ny Mpanjakan' ny voninahitra.",
+    "8": "Iza izao Mpanjakan' ny voninahitra izao? Jehovah matanjaka sy mahery, Jehovah mahery an' ady.",
+    "9": "Asandrato ny lohanareo, ry vavahady, ary misandrata ianareo, ry varavarana mandrakizay, dia hiditra ao ny Mpanjakan' ny voninahitra.",
+    "10": "Iza àry izao Mpanjakan' ny voninahitra izao? Jehovah, Tompon' ny maro, Izy no Mpanjakan' ny voninahitra.[Sela.]"
+  }
 }

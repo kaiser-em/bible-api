@@ -1,61 +1,20 @@
 {
+  "book": "Hosea",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Efraima homan-drivotra sady manenjika ny rivotra avy any atsinanana; isan' andro dia ampitomboiny ny lainga sy ny fandozana, manao fanekena amin' ny Asyriana izy, ary diloilo no entina ho any Egypta.\""
-    },
-    {
-      "v": 2,
-      "text": "Manana ady amin' i Joda koa Jehovah, ary tsy maintsy mamaly an' i Jakoba araka ny alehany, ka hatsingeriny aminy ny nataony."
-    },
-    {
-      "v": 3,
-      "text": "\"Fony tany am-bohoka dia nihazona ny ombelahin-tongotry ny rahalahiny izy, ary tamin' ny heriny no nitolomany tamin' Andriamanitra;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Eny, nitolona tamin' Ilay Anjely izy ka nahery; nitomany izy sady nifona taminy; nahita azy tao Betela Izy, ary tao no niresahany tamintsika.\""
-    },
-    {
-      "v": 5,
-      "text": "Dia Jehovah Andriamanitry ny maro, Jehovah no hahatsiarovana Azy."
-    },
-    {
-      "v": 6,
-      "text": "\"Koa miverena amin' Andriamanitrao ianao; tandremo ny famindrampo sy ny rariny, ary miandrasa an' Andriamanitrao mandrakariva.\""
-    },
-    {
-      "v": 7,
-      "text": "Mpandranto izy, eny an-tanany misy mizana miangatra, ny mampahory no tiany."
-    },
-    {
-      "v": 8,
-      "text": "Fa hoy Efraima: Eny, tonga manan-karena aho, nahita fananam-be ho ahy, amin' ny asako rehetra dia tsy misy hahitany heloka amiko izay mety ho fahotana."
-    },
-    {
-      "v": 9,
-      "text": "Nefa Izaho izay Jehovah Andriamanitrao hatrany amin' ny tany Egypta, no mbola hampitoetra anao ao amin’ny tabernakely, tahaka ny tamin' ny andron' ny fanasana lehibe."
-    },
-    {
-      "v": 10,
-      "text": "Efa niteny tamin' ny alalan' ny mpaminany koa Aho, ary Izaho no nahabetsaka ny fahitana, sady nampiasa ohatra tamin’ny asa fanompoan' ny mpaminany."
-    },
-    {
-      "v": 11,
-      "text": "\"Misy heloka va any Gileada? Tonga zava-poana tokoa izy: tany Gilgala no nanaovany fanatitra omby betsaka; eny, ny alitarany dia ho toy ny korontam-bato eny am-bavasa any an-tsaha.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary Jakoba nandositra ho any amin' ny tany Syria, ka Isiraely nanompo hahazoany vady, ary ny hahazoany vady no niandrasany ondry."
-    },
-    {
-      "v": 13,
-      "text": "Mpaminany no nentin' i Jehovah nitondra ny Isiraely nivoaka avy tany Egypta, ary mpaminany no nentiny nitahiry azy."
-    },
-    {
-      "v": 14,
-      "text": "Nanao izay nahatezitra indrindra Efraima, ka dia havelan' ny Tompony ho eo aminy ny rany, ary hatsingeriny aminy ny vava ratsy nataony."
-    }
-  ]
+  "verses": {
+    "1": "Efraima homan-drivotra sady manenjika ny rivotra avy any atsinanana; isan' andro dia ampitomboiny ny lainga sy ny fandozana, manao fanekena amin' ny Asyriana izy, ary diloilo no entina ho any Egypta.",
+    "2": "Manana ady amin' i Joda koa Jehovah, ary tsy maintsy mamaly an' i Jakoba araka ny alehany, ka hatsingeriny aminy ny nataony.",
+    "3": "Fony tany am-bohoka dia nihazona ny ombelahin-tongotry ny rahalahiny izy, ary tamin' ny heriny no nitolomany tamin' Andriamanitra;",
+    "4": "Eny, nitolona tamin' Ilay Anjely izy ka nahery; nitomany izy sady nifona taminy; nahita azy tao Betela Izy, ary tao no niresahany tamintsika.",
+    "5": "Dia Jehovah Andriamanitry ny maro, Jehovah no hahatsiarovana Azy.",
+    "6": "Koa miverena amin' Andriamanitrao ianao; tandremo ny famindrampo sy ny rariny, ary miandrasa an' Andriamanitrao mandrakariva.",
+    "7": "Mpandranto izy, eny an-tanany misy mizana miangatra, ny mampahory no tiany.",
+    "8": "Fa hoy Efraima: Eny, tonga manan-karena aho, nahita fananam-be ho ahy, amin' ny asako rehetra dia tsy misy hahitany heloka amiko izay mety ho fahotana.",
+    "9": "Nefa Izaho izay Jehovah Andriamanitrao hatrany amin' ny tany Egypta, no mbola hampitoetra anao ao amin’ny tabernakely, tahaka ny tamin' ny andron' ny fanasana lehibe.",
+    "10": "Efa niteny tamin' ny alalan' ny mpaminany koa Aho, ary Izaho no nahabetsaka ny fahitana, sady nampiasa ohatra tamin’ny asa fanompoan' ny mpaminany.",
+    "11": "Misy heloka va any Gileada? Tonga zava-poana tokoa izy: tany Gilgala no nanaovany fanatitra omby betsaka; eny, ny alitarany dia ho toy ny korontam-bato eny am-bavasa any an-tsaha.",
+    "12": "Ary Jakoba nandositra ho any amin' ny tany Syria, ka Isiraely nanompo hahazoany vady, ary ny hahazoany vady no niandrasany ondry.",
+    "13": "Mpaminany no nentin' i Jehovah nitondra ny Isiraely nivoaka avy tany Egypta, ary mpaminany no nentiny nitahiry azy.",
+    "14": "Nanao izay nahatezitra indrindra Efraima, ka dia havelan' ny Tompony ho eo aminy ny rany, ary hatsingeriny aminy ny vava ratsy nataony."
+  }
 }

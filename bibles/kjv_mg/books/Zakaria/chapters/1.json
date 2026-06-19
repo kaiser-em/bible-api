@@ -1,89 +1,27 @@
 {
+  "book": "Zakaria",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tamin' ny volana fahavalo tamin' ny taona faharoa nanjakan' i Dariosy no nahatongavan' ny tenin' i Jehovah tamin' i Zakaria mpaminany, zanak' i Berekia, zanak' Ido, nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Tezitra indrindra tamin' ny razanareo Jehovah."
-    },
-    {
-      "v": 3,
-      "text": "Koa lazao aminy hoe: izao no lazain' i Jehovah, Tompon' ny maro: miverena amiko ianareo, hoy Jehovah, Tompon' ny maro, dia hiverina aminareo kosa Aho, hoy Jehovah, Tompon' ny maro."
-    },
-    {
-      "v": 4,
-      "text": "\"Aza mba toy ny razanareo, izay nantsoin' ny mpaminany fahiny hoe: izao no lazain' i Jehovah, Tompon' ny maro: mialà amin' ny lalanareo ratsy ianareo sy amin' ny ratsy fanaonareo; nefa tsy nitandrina izy, na nihaino Ahy, hoy Jehovah.\""
-    },
-    {
-      "v": 5,
-      "text": "Ny razanareo, aiza moa ireny izao? Ary ny mpaminany, moa velona mandrakizay va ireny?"
-    },
-    {
-      "v": 6,
-      "text": "Fa ny teniko sy ny didiko, izay nandidiako ny mpaminany mpanompoko, tsy nahatratra ny razanareo va izany? Ary izy nitodika ka nanao hoe: araka izay nosainin' i Jehovah, Tompon' ny maro hatao amintsika, araka ny alehantsika sy ny ataontsika, dia araka izany no nataony tamintsika."
-    },
-    {
-      "v": 7,
-      "text": "Tamin' ny andro fahefatra amby roapolo tamin' ny volana fahiraika ambin' ny folo (volana Sebata izany) tamin' ny taona faharoa nanjakan' i Dariosy dia tonga tamin' i Zakaria mpaminany, zanak' i Berekia, zanak' Ido, ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 8,
-      "text": "Nahita tamin' ny alina aho fa, indro, nisy lehilahy nitaingina soavaly mena ka nijanona teny amin' ny myrta teny an-dohasaha, ary teo aoriany nisy soavaly mena sy mara ary fotsy."
-    },
-    {
-      "v": 9,
-      "text": "Dia hoy aho: Tompoko ô, inona moa ireo? Ary ilay anjely niresaka tamiko dia nanao tamiko hoe: izaho haneho anao ny amin' ireo."
-    },
-    {
-      "v": 10,
-      "text": "Ary ralehilahy izay nijanona teny amin' ny myrta dia namaly hoe: ireo dia nirahin' i Jehovah hivoivoy eny amin' ny tany."
-    },
-    {
-      "v": 11,
-      "text": "Ary namaly Ilay Anjelin' i Jehovah teny amin' ny myrta ireo ka nanao hoe: efa nivoivoy teny amin' ny tany izahay, ary indro, ny tany rehetra dia miadana sy mandry fahizay."
-    },
-    {
-      "v": 12,
-      "text": "Ary Ilay Anjelin' i Jehovah namaly hoe: He, Jehovah, Tompon' ny maro ô! mandra-pahoviana no tsy hamindranao fo amin' i Jerosalema sy amin' ny tanànan' ny Joda, izay efa nahatezitra Anao fito-polo taona izay?"
-    },
-    {
-      "v": 13,
-      "text": "Dia novalian' i Jehovah teny tsara sy teny mampionona ilay anjely niresaka tamiko."
-    },
-    {
-      "v": 14,
-      "text": "Ary ilay anjely niresaka tamiko dia nanao tamiko hoe: miantsoa hoe: izao no lazain' i Jehovah, Tompon' ny maro: Saro-piaro amin' i Jerosalema Aho, ary saro-piaro dia saro-piaro amin' i Ziona."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary tezitra indrindra Aho amin' ireo jentilisa miadana; satria Izaho dia tezitra kely ihany, fa ireo kosa nampitombo ny fahoriana.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Koa izao no lazain' i Jehovah: efa tafaverina eto Jerosalema amin' ny indrafo Aho; ny tranoko haorina eto, hoy Jehovah, Tompon' ny maro ary ny famolaina hohenjanina eto Jerosalema.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Miantsoa indray hoe: izao no lazain' i Jehovah, Tompon' ny maro: hihoa-pampana ny fanambinana ny tanànako; ary Jehovah hampionona an' i Ziona sady mbola hifidy an' i Jerosalema indray.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary natopiko ny masoko, ka hitako, fa indreo, nisy tandroka efatra."
-    },
-    {
-      "v": 19,
-      "text": "Ary hoy aho tamin' ilay anjely niresaka tamiko: inona moa ireo? Dia hoy izy tamiko: ireo no tandroka izay nampihahaka ny Joda sy ny Isiraely ary Jerosalema."
-    },
-    {
-      "v": 20,
-      "text": "Ary dia nanehoan' i Jehovah mpandrafitra efatra koa aho."
-    },
-    {
-      "v": 21,
-      "text": "\"Dia hoy aho: avy hanao inona moa ireto? Ary Izy nanao hoe: iretsy no tandroka nampihahaka ny Joda, ka tsy nisy olona nanandrandra loha; fa ireto kosa dia avy hampahatahotra azy mba hampiongana ny tandroky ny Jentilisa, dia izay nanandratra ny tandrony tamin' ny tanin' ny Joda hanely azy.\""
-    }
-  ]
+  "verses": {
+    "1": "Tamin' ny volana fahavalo tamin' ny taona faharoa nanjakan' i Dariosy no nahatongavan' ny tenin' i Jehovah tamin' i Zakaria mpaminany, zanak' i Berekia, zanak' Ido, nanao hoe:",
+    "2": "Tezitra indrindra tamin' ny razanareo Jehovah.",
+    "3": "Koa lazao aminy hoe: izao no lazain' i Jehovah, Tompon' ny maro: miverena amiko ianareo, hoy Jehovah, Tompon' ny maro, dia hiverina aminareo kosa Aho, hoy Jehovah, Tompon' ny maro.",
+    "4": "Aza mba toy ny razanareo, izay nantsoin' ny mpaminany fahiny hoe: izao no lazain' i Jehovah, Tompon' ny maro: mialà amin' ny lalanareo ratsy ianareo sy amin' ny ratsy fanaonareo; nefa tsy nitandrina izy, na nihaino Ahy, hoy Jehovah.",
+    "5": "Ny razanareo, aiza moa ireny izao? Ary ny mpaminany, moa velona mandrakizay va ireny?",
+    "6": "Fa ny teniko sy ny didiko, izay nandidiako ny mpaminany mpanompoko, tsy nahatratra ny razanareo va izany? Ary izy nitodika ka nanao hoe: araka izay nosainin' i Jehovah, Tompon' ny maro hatao amintsika, araka ny alehantsika sy ny ataontsika, dia araka izany no nataony tamintsika.",
+    "7": "Tamin' ny andro fahefatra amby roapolo tamin' ny volana fahiraika ambin' ny folo (volana Sebata izany) tamin' ny taona faharoa nanjakan' i Dariosy dia tonga tamin' i Zakaria mpaminany, zanak' i Berekia, zanak' Ido, ny tenin' i Jehovah nanao hoe:",
+    "8": "Nahita tamin' ny alina aho fa, indro, nisy lehilahy nitaingina soavaly mena ka nijanona teny amin' ny myrta teny an-dohasaha, ary teo aoriany nisy soavaly mena sy mara ary fotsy.",
+    "9": "Dia hoy aho: Tompoko ô, inona moa ireo? Ary ilay anjely niresaka tamiko dia nanao tamiko hoe: izaho haneho anao ny amin' ireo.",
+    "10": "Ary ralehilahy izay nijanona teny amin' ny myrta dia namaly hoe: ireo dia nirahin' i Jehovah hivoivoy eny amin' ny tany.",
+    "11": "Ary namaly Ilay Anjelin' i Jehovah teny amin' ny myrta ireo ka nanao hoe: efa nivoivoy teny amin' ny tany izahay, ary indro, ny tany rehetra dia miadana sy mandry fahizay.",
+    "12": "Ary Ilay Anjelin' i Jehovah namaly hoe: He, Jehovah, Tompon' ny maro ô! mandra-pahoviana no tsy hamindranao fo amin' i Jerosalema sy amin' ny tanànan' ny Joda, izay efa nahatezitra Anao fito-polo taona izay?",
+    "13": "Dia novalian' i Jehovah teny tsara sy teny mampionona ilay anjely niresaka tamiko.",
+    "14": "Ary ilay anjely niresaka tamiko dia nanao tamiko hoe: miantsoa hoe: izao no lazain' i Jehovah, Tompon' ny maro: Saro-piaro amin' i Jerosalema Aho, ary saro-piaro dia saro-piaro amin' i Ziona.",
+    "15": "Ary tezitra indrindra Aho amin' ireo jentilisa miadana; satria Izaho dia tezitra kely ihany, fa ireo kosa nampitombo ny fahoriana.",
+    "16": "Koa izao no lazain' i Jehovah: efa tafaverina eto Jerosalema amin' ny indrafo Aho; ny tranoko haorina eto, hoy Jehovah, Tompon' ny maro ary ny famolaina hohenjanina eto Jerosalema.",
+    "17": "Miantsoa indray hoe: izao no lazain' i Jehovah, Tompon' ny maro: hihoa-pampana ny fanambinana ny tanànako; ary Jehovah hampionona an' i Ziona sady mbola hifidy an' i Jerosalema indray.",
+    "18": "Ary natopiko ny masoko, ka hitako, fa indreo, nisy tandroka efatra.",
+    "19": "Ary hoy aho tamin' ilay anjely niresaka tamiko: inona moa ireo? Dia hoy izy tamiko: ireo no tandroka izay nampihahaka ny Joda sy ny Isiraely ary Jerosalema.",
+    "20": "Ary dia nanehoan' i Jehovah mpandrafitra efatra koa aho.",
+    "21": "Dia hoy aho: avy hanao inona moa ireto? Ary Izy nanao hoe: iretsy no tandroka nampihahaka ny Joda, ka tsy nisy olona nanandrandra loha; fa ireto kosa dia avy hampahatahotra azy mba hampiongana ny tandroky ny Jentilisa, dia izay nanandratra ny tandrony tamin' ny tanin' ny Joda hanely azy."
+  }
 }

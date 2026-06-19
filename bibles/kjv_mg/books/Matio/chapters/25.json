@@ -1,189 +1,52 @@
 {
+  "book": "Matio",
   "chapter": 25,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary amin’izany ny fanjakan’ny lanitra dia ho tahaka ny virijina folo, izay nitondra ny fanilony ka nivoaka hitsena ny mpampakatra."
-    },
-    {
-      "v": 2,
-      "text": "Ary ny dimy tamin’ireo dia hendry, fa ny dimy kosa adala."
-    },
-    {
-      "v": 3,
-      "text": "\"Ireo adala nandray ny fanilony, nefa tsy nitondra solika fitaiza;\""
-    },
-    {
-      "v": 4,
-      "text": "Fa ny hendry kosa nitondra solika tao anatin’ny fitondrany sy ny fanilony."
-    },
-    {
-      "v": 5,
-      "text": "Ary raha naharitra ela ny mpampakatra, dia samy rendremana avy izy rehetra, ka dia natory."
-    },
-    {
-      "v": 6,
-      "text": "Ary nony mamatonalina, dia nisy antso hoe: Indry ny mpampakatra! mivoaha mba hitsena azy."
-    },
-    {
-      "v": 7,
-      "text": "Dia nitsangana ireo virijina rehetra ireo ka samy namboatra ny fanilony."
-    },
-    {
-      "v": 8,
-      "text": "\"Dia hoy ny adala tamin’ny hendry: Mba omeo kely amin’ny solikareo izahay; fa efa ho faty ny fanilonay.\""
-    },
-    {
-      "v": 9,
-      "text": "Fa ny hendry namaly ka nanao hoe: Tsia, sao tsy ampy ho anay sy ho anareo, fa aleo ianareo mankany amin’ny mpivarotra, ka mividiana ho anareo."
-    },
-    {
-      "v": 10,
-      "text": "Fa raha mbola lasa nividy izy ireo, dia tonga ny mpampakatra, ary izay efa vonona dia niara-niditra taminy tao amin’ny fampakaram-bady, ary dia narindrina ny varavarana."
-    },
-    {
-      "v": 11,
-      "text": "Ary rehefa afaka izany, dia tonga kosa ireo virijina teo ka nanao hoe: Tompoko, tompoko, vohay izahay."
-    },
-    {
-      "v": 12,
-      "text": "Fa izy namaly ka nanao hoe: Lazaiko aminareo marina tokoa: Tsy fantatro ianareo."
-    },
-    {
-      "v": 13,
-      "text": "Koa amin' izany miambena ianareo fa tsy fantatrareo, na ny andro na ny ora, izay hiavian' ny Zanak' olona."
-    },
-    {
-      "v": 14,
-      "text": "Fa ny fanjakan' ny lanitra dia tahaka ny olona izay efa handeha ho any an-tany lavitra ka niantso ny mpanompony, dia nanolotra azy ny fananany."
-    },
-    {
-      "v": 15,
-      "text": "\"Koa ny anankiray nomeny talenta dimy, ny anankiray roa, ary ny anankiray iray, samy araka ny fahaizany avy; dia lasa nandeha avy hatrany izy.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary niaraka tamin’izay dia lasa ilay nandray ny talenta dimy, ka nataony varotra izany; ary nahazo talenta dimy hafa koa izy.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary toy izany koa, ilay nandray ny roa dia nahazo roa hafa ho tombony."
-    },
-    {
-      "v": 18,
-      "text": "Fa ilay nandray ny iray kosa dia lasa nihady ny tany ka nanafina ny volan’ny tompony."
-    },
-    {
-      "v": 19,
-      "text": "Nony ela, dia tonga ny tompon' ireo mpanompo ireo ka nampamoaka azy ireo."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary dia nanatona ilay nandray ny talenta dimy, dia nitondra talenta dimy hafa izy ka nanao hoe: Tompoko, talenta dimy no natolotrao ahy; indro, nahazo talenta dimy koa ankoatra ireo aho.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Hoy ny tompony taminy: Tsara izany, ry mpanompo tsara sady mahatoky; nahatoky tamin’ny kely ianao, dia hotendreko ho mpanapaka ny be; midira amin' ny fifalian’ny tomponao.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary nony nanatona koa ilay nandray ny talenta roa, dia hoy izy: Tompoko, talenta roa no natolotrao ahy; indro, nahazo tombony talenta roa hafa ankoatra ireo koa aho.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Hoy ny tompony taminy: Tsara izany, ry mpanompo tsara sady mahatoky; nahatoky tamin’ny kely ianao, dia hotendreko ho mpanapaka ny be; midìra amin’ny fifalian’ny tomponao.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Fa nony nanatona kosa ilay nandray ny talenta iray, dia nilaza hoe: Tompoko, fantatro fa olona henjana ianao, mijinja eny amin’izay tsy namafazanao, ary manangona eny amin' izay tsy nanahafanao;\""
-    },
-    {
-      "v": 25,
-      "text": "\"Dia natahotra aho ka lasa nanafina ny talentanao tao anatin’ny tany; indry, lasanao ny anao.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ary ny tompony namaly ka nanao taminy hoe: Ry mpanompo ratsy sady malaina, efa fantatrao fa mijinja eny amin' izay tsy namafazako aho, ary manangona eny amin' izay tsy nanahafako;\""
-    },
-    {
-      "v": 27,
-      "text": "Koa tokony ho nampanàna ny volako tamin’ny mpampanàna vola ianao, ka raha tonga aho, dia ho nandray ny ahy mbamin-janany."
-    },
-    {
-      "v": 28,
-      "text": "Koa alao aminy ny talenta, dia omeo ilay manana ny talenta folo."
-    },
-    {
-      "v": 29,
-      "text": "\"Fa izay rehetra manana dia homena, ka hanam-be izy; fa izay tsy manana kosa, na dia izay ananany aza dia halaina aminy.\""
-    },
-    {
-      "v": 30,
-      "text": "\"Ary ario ho any amin’ny maizina any ivelany ny mpanompo tsy mahasoa; any no hisy ny fitomaniana sy ny fikitroha-nify.\""
-    },
-    {
-      "v": 31,
-      "text": "Ary raha tonga amin' ny voninahiny ny Zanak' olona arahin' ny anjely masina rehetra, dia hipetraka eo ambonin' ny sezafiandrianan' ny voninahiny Izy."
-    },
-    {
-      "v": 32,
-      "text": "\"Ary ny firenena rehetra hangonina eo anatrehany, dia hanavaka azy Izy, tahaka ny mpiandry ondry manavaka ny ondry amin' ny osy;\""
-    },
-    {
-      "v": 33,
-      "text": "Ary hametraka ny ondry eo amin' ny ankavanany Izy, fa ny osy eo amin' ny ankaviany."
-    },
-    {
-      "v": 34,
-      "text": "Ary amin' izany ny Mpanjaka dia hilaza amin' izay eo amin' ny ankavanany hoe: Avia ianareo izay notahian' ny Raiko, mandovà ny fanjakana izay voavotra ho anareo hatramin' ny nanorenana izao tontolo izao:"
-    },
-    {
-      "v": 35,
-      "text": "\"Fa noana Aho, dia nomenareo hanina; nangetaheta Aho, dia nampisotroinareo; nivahiny Aho dia nampiantranoinareo;\""
-    },
-    {
-      "v": 36,
-      "text": "\"Tsy nanan-kitafy Aho, dia notafianareo; narary Aho dia novangianareo; tao an-tranomaizina Aho dia tonga tao amiko ianareo.\""
-    },
-    {
-      "v": 37,
-      "text": "Ary dia hamaly Azy ny marina ka hanao hoe: Tompoko, oviana no hitanay noana Ianao ka nomenay hanina, na nangetaheta ka nampisotroinay?"
-    },
-    {
-      "v": 38,
-      "text": "Ary oviana no hitanay nivahiny Ianao ka nampiantranoinay, na tsy nanan-kitafy ka notafianay?"
-    },
-    {
-      "v": 39,
-      "text": "Ary oviana no hitanay narary Ianao, na tao an-tranomaizina ka tonga tany aminao izahay?"
-    },
-    {
-      "v": 40,
-      "text": "Dia hamaly ny Mpanjaka ka hanao aminy hoe: Lazaiko aminareo marina tokoa: Araka izay efa nataonareo tamin' ny anankiray amin' ireto rahalahiko kely indrindra ireto no nataonareo tamiko."
-    },
-    {
-      "v": 41,
-      "text": "\"Ary dia hilaza indray amin' izay eo amin' ny ankaviany kosa Izy hoe: Mialà amiko ianareo izay voaozona, ho any amin' ny afo maharitra mandrakizay, izay voavoatra ho an' ny devoly sy ny anjeliny;\""
-    },
-    {
-      "v": 42,
-      "text": "\"Fa noana Aho, fa tsy mba nomenareo hanina; nangetaheta Aho, fa tsy mba nampisotroinareo;\""
-    },
-    {
-      "v": 43,
-      "text": "\"Nivahiny Aho, fa tsy mba nampiantranoinareo; tsy nanan-kitafy Aho, fa tsy mba notafianareo; narary sy tao an-tranomaizina Aho, fa tsy mba novangianareo.\""
-    },
-    {
-      "v": 44,
-      "text": "Ary dia hamaly kosa ireo hoe: Tompoko, oviana no hitanay noana Ianao, na nangetaheta, na nivahiny, na tsy nanan-kitafy, na narary, na tao an-tranomaizina, ka tsy mba nanompo Anao izahay?"
-    },
-    {
-      "v": 45,
-      "text": "Fa hamaly azy Izy ka hanao hoe: Lazaiko aminareo marina tokoa, araka izay tsy nataonareo tamin' ny anankiray amin' ireto kely indrindra ireto no tsy mba nataonareo tamiko."
-    },
-    {
-      "v": 46,
-      "text": "\"Ary ireo dia hiala ho any amin' ny fampijaliana mandrakizay; fa ny marina ho any amin' ny fiainana mandrakizay.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary amin’izany ny fanjakan’ny lanitra dia ho tahaka ny virijina folo, izay nitondra ny fanilony ka nivoaka hitsena ny mpampakatra.",
+    "2": "Ary ny dimy tamin’ireo dia hendry, fa ny dimy kosa adala.",
+    "3": "Ireo adala nandray ny fanilony, nefa tsy nitondra solika fitaiza;",
+    "4": "Fa ny hendry kosa nitondra solika tao anatin’ny fitondrany sy ny fanilony.",
+    "5": "Ary raha naharitra ela ny mpampakatra, dia samy rendremana avy izy rehetra, ka dia natory.",
+    "6": "Ary nony mamatonalina, dia nisy antso hoe: Indry ny mpampakatra! mivoaha mba hitsena azy.",
+    "7": "Dia nitsangana ireo virijina rehetra ireo ka samy namboatra ny fanilony.",
+    "8": "Dia hoy ny adala tamin’ny hendry: Mba omeo kely amin’ny solikareo izahay; fa efa ho faty ny fanilonay.",
+    "9": "Fa ny hendry namaly ka nanao hoe: Tsia, sao tsy ampy ho anay sy ho anareo, fa aleo ianareo mankany amin’ny mpivarotra, ka mividiana ho anareo.",
+    "10": "Fa raha mbola lasa nividy izy ireo, dia tonga ny mpampakatra, ary izay efa vonona dia niara-niditra taminy tao amin’ny fampakaram-bady, ary dia narindrina ny varavarana.",
+    "11": "Ary rehefa afaka izany, dia tonga kosa ireo virijina teo ka nanao hoe: Tompoko, tompoko, vohay izahay.",
+    "12": "Fa izy namaly ka nanao hoe: Lazaiko aminareo marina tokoa: Tsy fantatro ianareo.",
+    "13": "Koa amin' izany miambena ianareo fa tsy fantatrareo, na ny andro na ny ora, izay hiavian' ny Zanak' olona.",
+    "14": "Fa ny fanjakan' ny lanitra dia tahaka ny olona izay efa handeha ho any an-tany lavitra ka niantso ny mpanompony, dia nanolotra azy ny fananany.",
+    "15": "Koa ny anankiray nomeny talenta dimy, ny anankiray roa, ary ny anankiray iray, samy araka ny fahaizany avy; dia lasa nandeha avy hatrany izy.",
+    "16": "Ary niaraka tamin’izay dia lasa ilay nandray ny talenta dimy, ka nataony varotra izany; ary nahazo talenta dimy hafa koa izy.",
+    "17": "Ary toy izany koa, ilay nandray ny roa dia nahazo roa hafa ho tombony.",
+    "18": "Fa ilay nandray ny iray kosa dia lasa nihady ny tany ka nanafina ny volan’ny tompony.",
+    "19": "Nony ela, dia tonga ny tompon' ireo mpanompo ireo ka nampamoaka azy ireo.",
+    "20": "Ary dia nanatona ilay nandray ny talenta dimy, dia nitondra talenta dimy hafa izy ka nanao hoe: Tompoko, talenta dimy no natolotrao ahy; indro, nahazo talenta dimy koa ankoatra ireo aho.",
+    "21": "Hoy ny tompony taminy: Tsara izany, ry mpanompo tsara sady mahatoky; nahatoky tamin’ny kely ianao, dia hotendreko ho mpanapaka ny be; midira amin' ny fifalian’ny tomponao.",
+    "22": "Ary nony nanatona koa ilay nandray ny talenta roa, dia hoy izy: Tompoko, talenta roa no natolotrao ahy; indro, nahazo tombony talenta roa hafa ankoatra ireo koa aho.",
+    "23": "Hoy ny tompony taminy: Tsara izany, ry mpanompo tsara sady mahatoky; nahatoky tamin’ny kely ianao, dia hotendreko ho mpanapaka ny be; midìra amin’ny fifalian’ny tomponao.",
+    "24": "Fa nony nanatona kosa ilay nandray ny talenta iray, dia nilaza hoe: Tompoko, fantatro fa olona henjana ianao, mijinja eny amin’izay tsy namafazanao, ary manangona eny amin' izay tsy nanahafanao;",
+    "25": "Dia natahotra aho ka lasa nanafina ny talentanao tao anatin’ny tany; indry, lasanao ny anao.",
+    "26": "Ary ny tompony namaly ka nanao taminy hoe: Ry mpanompo ratsy sady malaina, efa fantatrao fa mijinja eny amin' izay tsy namafazako aho, ary manangona eny amin' izay tsy nanahafako;",
+    "27": "Koa tokony ho nampanàna ny volako tamin’ny mpampanàna vola ianao, ka raha tonga aho, dia ho nandray ny ahy mbamin-janany.",
+    "28": "Koa alao aminy ny talenta, dia omeo ilay manana ny talenta folo.",
+    "29": "Fa izay rehetra manana dia homena, ka hanam-be izy; fa izay tsy manana kosa, na dia izay ananany aza dia halaina aminy.",
+    "30": "Ary ario ho any amin’ny maizina any ivelany ny mpanompo tsy mahasoa; any no hisy ny fitomaniana sy ny fikitroha-nify.",
+    "31": "Ary raha tonga amin' ny voninahiny ny Zanak' olona arahin' ny anjely masina rehetra, dia hipetraka eo ambonin' ny sezafiandrianan' ny voninahiny Izy.",
+    "32": "Ary ny firenena rehetra hangonina eo anatrehany, dia hanavaka azy Izy, tahaka ny mpiandry ondry manavaka ny ondry amin' ny osy;",
+    "33": "Ary hametraka ny ondry eo amin' ny ankavanany Izy, fa ny osy eo amin' ny ankaviany.",
+    "34": "Ary amin' izany ny Mpanjaka dia hilaza amin' izay eo amin' ny ankavanany hoe: Avia ianareo izay notahian' ny Raiko, mandovà ny fanjakana izay voavotra ho anareo hatramin' ny nanorenana izao tontolo izao:",
+    "35": "Fa noana Aho, dia nomenareo hanina; nangetaheta Aho, dia nampisotroinareo; nivahiny Aho dia nampiantranoinareo;",
+    "36": "Tsy nanan-kitafy Aho, dia notafianareo; narary Aho dia novangianareo; tao an-tranomaizina Aho dia tonga tao amiko ianareo.",
+    "37": "Ary dia hamaly Azy ny marina ka hanao hoe: Tompoko, oviana no hitanay noana Ianao ka nomenay hanina, na nangetaheta ka nampisotroinay?",
+    "38": "Ary oviana no hitanay nivahiny Ianao ka nampiantranoinay, na tsy nanan-kitafy ka notafianay?",
+    "39": "Ary oviana no hitanay narary Ianao, na tao an-tranomaizina ka tonga tany aminao izahay?",
+    "40": "Dia hamaly ny Mpanjaka ka hanao aminy hoe: Lazaiko aminareo marina tokoa: Araka izay efa nataonareo tamin' ny anankiray amin' ireto rahalahiko kely indrindra ireto no nataonareo tamiko.",
+    "41": "Ary dia hilaza indray amin' izay eo amin' ny ankaviany kosa Izy hoe: Mialà amiko ianareo izay voaozona, ho any amin' ny afo maharitra mandrakizay, izay voavoatra ho an' ny devoly sy ny anjeliny;",
+    "42": "Fa noana Aho, fa tsy mba nomenareo hanina; nangetaheta Aho, fa tsy mba nampisotroinareo;",
+    "43": "Nivahiny Aho, fa tsy mba nampiantranoinareo; tsy nanan-kitafy Aho, fa tsy mba notafianareo; narary sy tao an-tranomaizina Aho, fa tsy mba novangianareo.",
+    "44": "Ary dia hamaly kosa ireo hoe: Tompoko, oviana no hitanay noana Ianao, na nangetaheta, na nivahiny, na tsy nanan-kitafy, na narary, na tao an-tranomaizina, ka tsy mba nanompo Anao izahay?",
+    "45": "Fa hamaly azy Izy ka hanao hoe: Lazaiko aminareo marina tokoa, araka izay tsy nataonareo tamin' ny anankiray amin' ireto kely indrindra ireto no tsy mba nataonareo tamiko.",
+    "46": "Ary ireo dia hiala ho any amin' ny fampijaliana mandrakizay; fa ny marina ho any amin' ny fiainana mandrakizay."
+  }
 }

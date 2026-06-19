@@ -1,85 +1,26 @@
 {
+  "book": "Genesisy",
   "chapter": 33,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nanopy ny masony Jakoba ka nahatazana fa indro, tamy Esao rahalahiny, ary ny efajato lahy miaraka aminy. Dia nozarainy ny zaza ho amin' i Lea sy ho amin-dRahely ary ho amin' ny mpanompovavy anankiroa."
-    },
-    {
-      "v": 2,
-      "text": "Ary nataony loha-lalana ny mpanompovaviny roa mbamin' ny zanany, ary Lea sy ny zanany nanarakaraka, ary Rahely sy Josefa no vodi-lalana."
-    },
-    {
-      "v": 3,
-      "text": "Ary nandeha teo alohan' izy rehetra Jakoba ka niankohoka impito tamin' ny tany mandra-pahatongany teo akaikin' ny rahalahiny."
-    },
-    {
-      "v": 4,
-      "text": "\"Dia nihazakazaka hitsena azy Esao, ary nisakambina azy, dia namihina ny vozony sady nanoroka azy; dia nitomany izy ireo.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary nanopy ny masony Esao ka nahita ny zaza amim-behivavy; dia hoy izy: Iza moa ireo miaraka aminao ireo? Ary hoy Jakoba: Ny zaza izay nomen' Andriamanitra ny mpanomponao noho ny fahasoavany.\""
-    },
-    {
-      "v": 6,
-      "text": "Dia nanatona ny mpanompovavy mbamin' ny zanany ka niankohoka."
-    },
-    {
-      "v": 7,
-      "text": "Dia nanatona koa Lea sy ny zanany ka niankohoka: ary avy eo dia nanatona Josefa sy Rahely ka niankohoka."
-    },
-    {
-      "v": 8,
-      "text": "Ary hoy Esao: Inona moa no hevitrao ny amin' ireny antokony rehetra nifanena tamiko ireny? Dia hoy izy: Mba hahitako fitia eo imason' ny tompoko ireny."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary hoy Esao: Manana ny ampy aho, ry rahalahiko; tehirizo ho anao ihany ny anao.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary hoy Jakoba: Tsia, trarantitra ianao, raha nahita fitia teo imasonao aho ankehitriny, dia raiso ny fanomezana avy amin' ny tanako; fa efa nahita ny tavanao aho tahaka ny efa nahita ny tavan' Andriamanitra, ary efa sitrakao aho.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Trarantitra ianao, raiso ny saotro izay nentiko ho anao; fa efa nanao soa tamiko Andriamanitra, ary manana ny ampy aho. Dia nanery azy izy ka dia noraisiny izany.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary hoy Esao: Aoka hiainga isika, ka handeha, dia hialoha anao aho."
-    },
-    {
-      "v": 13,
-      "text": "\"Fa hoy Jakoba taminy: Fantatry ny tompoko fa mbola osa ny zaza, sady ampianahana ny ondry aman' osy sy ny omby ato amiko; koa raha hokorodosina indray andro ireo, dia ho faty avokoa ny andiam-biby fiompy rehetra.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Trarantitra ianao, aoka ny tompoko hialoha ny mpanompony; ary handeha miadana aho araka ny dian' ny biby fiompy eo anoloako sy araka izay mety ho zakan' ny zaza, mandra-pahatongako any amin' ny tompoko any Seïra.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary hoy Esao: Aoka àry avelako aminao ny sasany amin' ny olona izay momba ahy. Fa hoy Jakoba: Inona moa no ilàna izany? Aoka hahita fitia eo imason' ny tompoko aho."
-    },
-    {
-      "v": 16,
-      "text": "Dia niverina tamin' ny lalany ho any Seïra androtrizay Esao."
-    },
-    {
-      "v": 17,
-      "text": "Ary nandeha nankany Sokota i Jakoba, ka nanorina trano ho azy sy nanao trano rantsan-kazo ho an' ny biby fiompiny, izany no nanaovana ny anaran' ilay toerana hoe: Sokota."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary Jakoba dia tonga tany Salema, tanànan' i Sekema izay ao amin' ny tany Kanana, rehefa avy tany Padan-arama; dia nanorina ny lainy tandrifin' ny tanàna izy.\""
-    },
-    {
-      "v": 19,
-      "text": "Dia novidiny vola zato tamin' ny tanan' i zanak' i Hamora, rain' i Sekema ny ampahan' ny saha izay nanorenany ny lainy."
-    },
-    {
-      "v": 20,
-      "text": "Ary nanangana alitara teo izy ka nataony hoe: El-elohe-Isiraely izany."
-    }
-  ]
+  "verses": {
+    "1": "Ary nanopy ny masony Jakoba ka nahatazana fa indro, tamy Esao rahalahiny, ary ny efajato lahy miaraka aminy. Dia nozarainy ny zaza ho amin' i Lea sy ho amin-dRahely ary ho amin' ny mpanompovavy anankiroa.",
+    "2": "Ary nataony loha-lalana ny mpanompovaviny roa mbamin' ny zanany, ary Lea sy ny zanany nanarakaraka, ary Rahely sy Josefa no vodi-lalana.",
+    "3": "Ary nandeha teo alohan' izy rehetra Jakoba ka niankohoka impito tamin' ny tany mandra-pahatongany teo akaikin' ny rahalahiny.",
+    "4": "Dia nihazakazaka hitsena azy Esao, ary nisakambina azy, dia namihina ny vozony sady nanoroka azy; dia nitomany izy ireo.",
+    "5": "Ary nanopy ny masony Esao ka nahita ny zaza amim-behivavy; dia hoy izy: Iza moa ireo miaraka aminao ireo? Ary hoy Jakoba: Ny zaza izay nomen' Andriamanitra ny mpanomponao noho ny fahasoavany.",
+    "6": "Dia nanatona ny mpanompovavy mbamin' ny zanany ka niankohoka.",
+    "7": "Dia nanatona koa Lea sy ny zanany ka niankohoka: ary avy eo dia nanatona Josefa sy Rahely ka niankohoka.",
+    "8": "Ary hoy Esao: Inona moa no hevitrao ny amin' ireny antokony rehetra nifanena tamiko ireny? Dia hoy izy: Mba hahitako fitia eo imason' ny tompoko ireny.",
+    "9": "Ary hoy Esao: Manana ny ampy aho, ry rahalahiko; tehirizo ho anao ihany ny anao.",
+    "10": "Ary hoy Jakoba: Tsia, trarantitra ianao, raha nahita fitia teo imasonao aho ankehitriny, dia raiso ny fanomezana avy amin' ny tanako; fa efa nahita ny tavanao aho tahaka ny efa nahita ny tavan' Andriamanitra, ary efa sitrakao aho.",
+    "11": "Trarantitra ianao, raiso ny saotro izay nentiko ho anao; fa efa nanao soa tamiko Andriamanitra, ary manana ny ampy aho. Dia nanery azy izy ka dia noraisiny izany.",
+    "12": "Ary hoy Esao: Aoka hiainga isika, ka handeha, dia hialoha anao aho.",
+    "13": "Fa hoy Jakoba taminy: Fantatry ny tompoko fa mbola osa ny zaza, sady ampianahana ny ondry aman' osy sy ny omby ato amiko; koa raha hokorodosina indray andro ireo, dia ho faty avokoa ny andiam-biby fiompy rehetra.",
+    "14": "Trarantitra ianao, aoka ny tompoko hialoha ny mpanompony; ary handeha miadana aho araka ny dian' ny biby fiompy eo anoloako sy araka izay mety ho zakan' ny zaza, mandra-pahatongako any amin' ny tompoko any Seïra.",
+    "15": "Ary hoy Esao: Aoka àry avelako aminao ny sasany amin' ny olona izay momba ahy. Fa hoy Jakoba: Inona moa no ilàna izany? Aoka hahita fitia eo imason' ny tompoko aho.",
+    "16": "Dia niverina tamin' ny lalany ho any Seïra androtrizay Esao.",
+    "17": "Ary nandeha nankany Sokota i Jakoba, ka nanorina trano ho azy sy nanao trano rantsan-kazo ho an' ny biby fiompiny, izany no nanaovana ny anaran' ilay toerana hoe: Sokota.",
+    "18": "Ary Jakoba dia tonga tany Salema, tanànan' i Sekema izay ao amin' ny tany Kanana, rehefa avy tany Padan-arama; dia nanorina ny lainy tandrifin' ny tanàna izy.",
+    "19": "Dia novidiny vola zato tamin' ny tanan' i zanak' i Hamora, rain' i Sekema ny ampahan' ny saha izay nanorenany ny lainy.",
+    "20": "Ary nanangana alitara teo izy ka nataony hoe: El-elohe-Isiraely izany."
+  }
 }

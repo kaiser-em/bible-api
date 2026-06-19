@@ -1,197 +1,54 @@
 {
+  "book": "Asa",
   "chapter": 10,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary nisy lehilahy anankiray tany Kaisaria, atao hoe Kornelio, kapiteny tamin' ny antokon' ny miaramila atao hoe Italiana;\""
-    },
-    {
-      "v": 2,
-      "text": "Mpivavaka tsara sady natahotra an' Andriamanitra izy mbamin' ny ankohonany rehetra ka nanao fiantrana be tamin' ny olona sady nivavaka tamin' Andriamanitra mandrakariva."
-    },
-    {
-      "v": 3,
-      "text": "Ary nahita miharihary tamin' ny fahitana izy, rehefa tokony ho tamin' ny ora fahasivy antoandro, fa indro, nisy anjelin' Andriamanitra niditra tao aminy ka nanao hoe: Ry Kornelio."
-    },
-    {
-      "v": 4,
-      "text": "Ary nony nibanjina azy izy, dia raiki-tahotra ka nanao hoe: Ahoana Tompoko? Ary hoy izy taminy: Ny fivavakao sy ny fiantranao dia efa tafakatra ho fampahatsiarovana eo anatrehan' Andriamanitra."
-    },
-    {
-      "v": 5,
-      "text": "Koa ankehitriny maniraha olona hankany Jopa, ka ampanalao ilay Simona izay atao koa hoe Petera:"
-    },
-    {
-      "v": 6,
-      "text": "\"Mitoetra ao amin' i Simona mpandon-koditra izy, eo amoron-dranomasina ny tranony; izy no hilaza aminao izay tokony hataonao.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary rehefa lasa ny anjely izay niteny tamin' i Kornelio, dia niantso roa lahy tamin' ny mpanompony izy sy miaramila mpivavaka anankiray isan' izay nanaraka azy mandrakariva."
-    },
-    {
-      "v": 8,
-      "text": "Ary rehefa nambarany taminy izany rehetra izany, dia naniraka azy hankany Jopa izy."
-    },
-    {
-      "v": 9,
-      "text": "Ary nony ampitso, raha mbola nandeha teny an-dalana izy ireo ka mby teo akaikin' ny tanàna, dia niakatra teo ambonin' ny tampon-trano Petera mba hivavaka, rehefa tokony ho tamin' ny ora fahenina."
-    },
-    {
-      "v": 10,
-      "text": "\"Dia noana loatra izy ka te-hihinana; fa raha mbola natao ny nahandro, dia azon-tsindrimandry izy,\""
-    },
-    {
-      "v": 11,
-      "text": "Ka nahita ny lanitra misokatra, sady nisy zavatra midina toa lamba lehibe nampidinina tamin' ny zorony efatra ho amin' ny tany."
-    },
-    {
-      "v": 12,
-      "text": "Ary tao anatiny nisy ny biby rehetra izay manan-tongotra efatra ety an-tany, ny biby dia, ny biby mandady sy mikisaka, ary ny voro-manidina eny amin' ny habakabaka."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary nisy feo tonga taminy nanao hoe: Mitsangàna, ry Petera; vonoy, ka hano.\""
-    },
-    {
-      "v": 14,
-      "text": "Fa hoy Petera: Sanatria Tompoko! fa tsy mbola nihinana zava-padìna na tsy madio aho."
-    },
-    {
-      "v": 15,
-      "text": "Fa hoy ilay feo taminy fanindroany: Izay efa nodiovin' Andriamanitra dia aza ataonao ho fady."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary intelo no nanaovana izany; dia nakarina tany an-danitra indray ilay lamba.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary raha mbola niahanahana tao am-pony Petera ny amin' izay hevitry ny fahitana efa hitany, dia, indreo ny olona izay nirahin' i Kornelio nanontany ny tranon' i Simona ka nijanona teo am-bavahady,"
-    },
-    {
-      "v": 18,
-      "text": "Dia niantso ka nanontany raha mitoetra ao Simona izay atao koa hoe Petera."
-    },
-    {
-      "v": 19,
-      "text": "\"Fa raha mbola nieritreritra ny fahitana Petera, dia hoy ny Fanahy taminy: Indreo, misy telo lahy mitady anao;\""
-    },
-    {
-      "v": 20,
-      "text": "Fa mitsangàna ianao, dia midìna, ary mandehana miaraka aminy, ka aza misalasala, fa Izaho no naniraka azy."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary nidina tany amin' ireo lehilahy izay nirahin' i Kornelio ho any aminy Petera ka nanao hoe: Inty aho izay tadiavinareo; inona no antony ahatongavanareo aty?\""
-    },
-    {
-      "v": 22,
-      "text": "Dia hoy ireo: Kornelio kapiteny, lehilahy marina sady matahotra an' Andriamanitra ary tsara laza amin' ny firenen' ny Jiosy rehetra, dia nilazan' Andriamanitra mialoha tamin' ny alalan' ny anjely masina hampaka anao ho any an-tranony sy hihaino ny teny avy aminao."
-    },
-    {
-      "v": 23,
-      "text": "Ary nampiantrano azy ireo handry tao izy. Ary nony ampitso dia niainga Petera ka nandeha niaraka taminy, ary ny rahalahy sasany avy tany Jopa niaraka taminy koa."
-    },
-    {
-      "v": 24,
-      "text": "Ary ny afak' ampitso indray dia tonga tany Kaisaria izy. Ary niandry azy ireo Kornelio sady efa nampiangona ny havany sy ny tena sakaizany."
-    },
-    {
-      "v": 25,
-      "text": "Ary raha vao niditra Petera, dia nitsena azy Kornelio ka niankohoka teo amin' ny tongony sady nitsaoka azy."
-    },
-    {
-      "v": 26,
-      "text": "Fa nampitsangana azy Petera ka nanao hoe: Mitsangàna, fa izaho koa dia olona ihany."
-    },
-    {
-      "v": 27,
-      "text": "Ary nony niresaka taminy izy, dia niditra tao an-trano ka nahita ny olona maro tafangona tao."
-    },
-    {
-      "v": 28,
-      "text": "\"Dia hoy izy taminy: Ianareo mahalala fa tsy fanao amin' ny Jiosy ny hanan-draharaha na hiantrano amin' ny olona hafa firenena; nefa nasehon' Andriamanitra ahy fa tsy misy olona azoko antsoina hoe fady na tsy madio.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Ary amin' izany dia tsy nandà tsy hankaty aho, raha nampanalaina; koa manontany aho: Ahoana moa no nampanalanareo ahy?\""
-    },
-    {
-      "v": 30,
-      "text": "Dia hoy Kornelio: Efatr' andro izay, nifady hanina aho mandra-paha toy izao ny andro, raha nivavaka tato an-tranoko aho tamin' ny ora fahasivy, dia, indro, nisy lehilahy niakanjo mamirapiratra nitsangana teto anatrehako,"
-    },
-    {
-      "v": 31,
-      "text": "Ka nanao hoe: Ry Kornelio, efa re ny fivavakao, ary efa tsarovana eo anatrehan' Andriamanitra ny fiantranao."
-    },
-    {
-      "v": 32,
-      "text": "\"Koa maniraha hankany Jopa, ka ampanalao Simona, izay atao koa hoe Petera; mitoetra ao an-tranon' i Simona mpandon-koditra eo amoron-dranomasina izy, koa raha avy izy dia hilaza teny aminao.\""
-    },
-    {
-      "v": 33,
-      "text": "\"Koa niaraka tamin' izay, dia naniraka tany aminao aho; ary nanao soa ianao no avy. Koa ankehitriny izahay rehetra dia efa eto anatrehan' Andriamanitra, hihaino izay rehetra nandidian' Andriamanitra anao.\""
-    },
-    {
-      "v": 34,
-      "text": "Ary niloa-bava Petera ka nanao hoe: Hitako marina tokoa izao fa tsy mizaha tavan' olona Andriamanitra."
-    },
-    {
-      "v": 35,
-      "text": "Fa amin' ny firenena rehetra, izay olona matahotra Azy ka manao ny marina no ankasitrahany."
-    },
-    {
-      "v": 36,
-      "text": "\"Ny teny izay nampitondrain' Andriamanitra ho an' ny Zanak' Isiraely, dia mitory fiadanana amin' ny alalan' i Jesosy Kristy: (Izy no Tompon' izao rehetra izao);\""
-    },
-    {
-      "v": 37,
-      "text": "Izany teny izany, hoy aho, dia fantatrareo, ilay naely eran' i Jodia ary natomboka tany Galilia, taorian' ny batisa izay notorin' i Jaona,"
-    },
-    {
-      "v": 38,
-      "text": "Dia ny amin' i Jesosy avy any Nazareta, Izay nohosoran' Andriamanitra tamin' ny Fanahy Masina sy ny hery sady nandehandeha nanao soa sy nahasitrana izay rehetra nampahorian' ny devoly, satria Andriamanitra nomba azy."
-    },
-    {
-      "v": 39,
-      "text": "\"Ary izahay no vavolombelon' ny zavatra rehetra izay nataony tany amin' ny tanin' ny Jiosy sy tany Jerosalema; Izy dia novonoiny nahantony teo amin' ny hazo;\""
-    },
-    {
-      "v": 40,
-      "text": "Nefa natsangan' Andriamanitra tamin' ny maty kosa Izy tamin' ny andro fahatelo, ka nasehony miharihary,"
-    },
-    {
-      "v": 41,
-      "text": "Tsy tamin' ny olona rehetra, fa tamin' ny vavolombelona izay notendren' Andriamanitra rahateo, dia taminay izay niara-nihinana sy nisotro taminy, rehefa nitsangana tamin' ny maty Izy."
-    },
-    {
-      "v": 42,
-      "text": "Ary nandidy anay Izy hitory amin' ny olona ka hijoro ho vavolombelona fa Izy no voatendrin' Andriamanitra ho mpitsara ny velona sy ny maty."
-    },
-    {
-      "v": 43,
-      "text": "Izy no nijoroan' ny mpaminany rehetra vavolombelona, fa amin' ny Anarany no hahazoan' izay rehetra mino Azy famelan-keloka."
-    },
-    {
-      "v": 44,
-      "text": "Raha mbola nilaza izany teny izany Petera, dia nilatsaka tamin' izay rehetra nandre ny teny ny Fanahy Masina."
-    },
-    {
-      "v": 45,
-      "text": "Ary talanjona ny mino isan' ny voafora izay niaraka tamin' i Petera, satria nilatsaka tamin' ny Jentilisa koa ny fanomezana, dia ny Fanahy Masina."
-    },
-    {
-      "v": 46,
-      "text": "Fa nandre azy ireo niteny tamin' ny fiteny tsy fantatra sy nankalaza an' Andriamanitra izy. Dia namaly Petera ka nanao hoe:"
-    },
-    {
-      "v": 47,
-      "text": "Moa misy olona mahazo mandrara ny rano tsy hanaovana batisa ireo izay efa nandray ny Fanahy Masina tahaka antsika koa?"
-    },
-    {
-      "v": 48,
-      "text": "Dia nasainy natao batisa amin' ny anaran' ny Tompo ireo. Ary nangatahin' ireo mba hitoetra ao aminy andro vitsivitsy izy."
-    }
-  ]
+  "verses": {
+    "1": "Ary nisy lehilahy anankiray tany Kaisaria, atao hoe Kornelio, kapiteny tamin' ny antokon' ny miaramila atao hoe Italiana;",
+    "2": "Mpivavaka tsara sady natahotra an' Andriamanitra izy mbamin' ny ankohonany rehetra ka nanao fiantrana be tamin' ny olona sady nivavaka tamin' Andriamanitra mandrakariva.",
+    "3": "Ary nahita miharihary tamin' ny fahitana izy, rehefa tokony ho tamin' ny ora fahasivy antoandro, fa indro, nisy anjelin' Andriamanitra niditra tao aminy ka nanao hoe: Ry Kornelio.",
+    "4": "Ary nony nibanjina azy izy, dia raiki-tahotra ka nanao hoe: Ahoana Tompoko? Ary hoy izy taminy: Ny fivavakao sy ny fiantranao dia efa tafakatra ho fampahatsiarovana eo anatrehan' Andriamanitra.",
+    "5": "Koa ankehitriny maniraha olona hankany Jopa, ka ampanalao ilay Simona izay atao koa hoe Petera:",
+    "6": "Mitoetra ao amin' i Simona mpandon-koditra izy, eo amoron-dranomasina ny tranony; izy no hilaza aminao izay tokony hataonao.",
+    "7": "Ary rehefa lasa ny anjely izay niteny tamin' i Kornelio, dia niantso roa lahy tamin' ny mpanompony izy sy miaramila mpivavaka anankiray isan' izay nanaraka azy mandrakariva.",
+    "8": "Ary rehefa nambarany taminy izany rehetra izany, dia naniraka azy hankany Jopa izy.",
+    "9": "Ary nony ampitso, raha mbola nandeha teny an-dalana izy ireo ka mby teo akaikin' ny tanàna, dia niakatra teo ambonin' ny tampon-trano Petera mba hivavaka, rehefa tokony ho tamin' ny ora fahenina.",
+    "10": "Dia noana loatra izy ka te-hihinana; fa raha mbola natao ny nahandro, dia azon-tsindrimandry izy,",
+    "11": "Ka nahita ny lanitra misokatra, sady nisy zavatra midina toa lamba lehibe nampidinina tamin' ny zorony efatra ho amin' ny tany.",
+    "12": "Ary tao anatiny nisy ny biby rehetra izay manan-tongotra efatra ety an-tany, ny biby dia, ny biby mandady sy mikisaka, ary ny voro-manidina eny amin' ny habakabaka.",
+    "13": "Ary nisy feo tonga taminy nanao hoe: Mitsangàna, ry Petera; vonoy, ka hano.",
+    "14": "Fa hoy Petera: Sanatria Tompoko! fa tsy mbola nihinana zava-padìna na tsy madio aho.",
+    "15": "Fa hoy ilay feo taminy fanindroany: Izay efa nodiovin' Andriamanitra dia aza ataonao ho fady.",
+    "16": "Ary intelo no nanaovana izany; dia nakarina tany an-danitra indray ilay lamba.",
+    "17": "Ary raha mbola niahanahana tao am-pony Petera ny amin' izay hevitry ny fahitana efa hitany, dia, indreo ny olona izay nirahin' i Kornelio nanontany ny tranon' i Simona ka nijanona teo am-bavahady,",
+    "18": "Dia niantso ka nanontany raha mitoetra ao Simona izay atao koa hoe Petera.",
+    "19": "Fa raha mbola nieritreritra ny fahitana Petera, dia hoy ny Fanahy taminy: Indreo, misy telo lahy mitady anao;",
+    "20": "Fa mitsangàna ianao, dia midìna, ary mandehana miaraka aminy, ka aza misalasala, fa Izaho no naniraka azy.",
+    "21": "Ary nidina tany amin' ireo lehilahy izay nirahin' i Kornelio ho any aminy Petera ka nanao hoe: Inty aho izay tadiavinareo; inona no antony ahatongavanareo aty?",
+    "22": "Dia hoy ireo: Kornelio kapiteny, lehilahy marina sady matahotra an' Andriamanitra ary tsara laza amin' ny firenen' ny Jiosy rehetra, dia nilazan' Andriamanitra mialoha tamin' ny alalan' ny anjely masina hampaka anao ho any an-tranony sy hihaino ny teny avy aminao.",
+    "23": "Ary nampiantrano azy ireo handry tao izy. Ary nony ampitso dia niainga Petera ka nandeha niaraka taminy, ary ny rahalahy sasany avy tany Jopa niaraka taminy koa.",
+    "24": "Ary ny afak' ampitso indray dia tonga tany Kaisaria izy. Ary niandry azy ireo Kornelio sady efa nampiangona ny havany sy ny tena sakaizany.",
+    "25": "Ary raha vao niditra Petera, dia nitsena azy Kornelio ka niankohoka teo amin' ny tongony sady nitsaoka azy.",
+    "26": "Fa nampitsangana azy Petera ka nanao hoe: Mitsangàna, fa izaho koa dia olona ihany.",
+    "27": "Ary nony niresaka taminy izy, dia niditra tao an-trano ka nahita ny olona maro tafangona tao.",
+    "28": "Dia hoy izy taminy: Ianareo mahalala fa tsy fanao amin' ny Jiosy ny hanan-draharaha na hiantrano amin' ny olona hafa firenena; nefa nasehon' Andriamanitra ahy fa tsy misy olona azoko antsoina hoe fady na tsy madio.",
+    "29": "Ary amin' izany dia tsy nandà tsy hankaty aho, raha nampanalaina; koa manontany aho: Ahoana moa no nampanalanareo ahy?",
+    "30": "Dia hoy Kornelio: Efatr' andro izay, nifady hanina aho mandra-paha toy izao ny andro, raha nivavaka tato an-tranoko aho tamin' ny ora fahasivy, dia, indro, nisy lehilahy niakanjo mamirapiratra nitsangana teto anatrehako,",
+    "31": "Ka nanao hoe: Ry Kornelio, efa re ny fivavakao, ary efa tsarovana eo anatrehan' Andriamanitra ny fiantranao.",
+    "32": "Koa maniraha hankany Jopa, ka ampanalao Simona, izay atao koa hoe Petera; mitoetra ao an-tranon' i Simona mpandon-koditra eo amoron-dranomasina izy, koa raha avy izy dia hilaza teny aminao.",
+    "33": "Koa niaraka tamin' izay, dia naniraka tany aminao aho; ary nanao soa ianao no avy. Koa ankehitriny izahay rehetra dia efa eto anatrehan' Andriamanitra, hihaino izay rehetra nandidian' Andriamanitra anao.",
+    "34": "Ary niloa-bava Petera ka nanao hoe: Hitako marina tokoa izao fa tsy mizaha tavan' olona Andriamanitra.",
+    "35": "Fa amin' ny firenena rehetra, izay olona matahotra Azy ka manao ny marina no ankasitrahany.",
+    "36": "Ny teny izay nampitondrain' Andriamanitra ho an' ny Zanak' Isiraely, dia mitory fiadanana amin' ny alalan' i Jesosy Kristy: (Izy no Tompon' izao rehetra izao);",
+    "37": "Izany teny izany, hoy aho, dia fantatrareo, ilay naely eran' i Jodia ary natomboka tany Galilia, taorian' ny batisa izay notorin' i Jaona,",
+    "38": "Dia ny amin' i Jesosy avy any Nazareta, Izay nohosoran' Andriamanitra tamin' ny Fanahy Masina sy ny hery sady nandehandeha nanao soa sy nahasitrana izay rehetra nampahorian' ny devoly, satria Andriamanitra nomba azy.",
+    "39": "Ary izahay no vavolombelon' ny zavatra rehetra izay nataony tany amin' ny tanin' ny Jiosy sy tany Jerosalema; Izy dia novonoiny nahantony teo amin' ny hazo;",
+    "40": "Nefa natsangan' Andriamanitra tamin' ny maty kosa Izy tamin' ny andro fahatelo, ka nasehony miharihary,",
+    "41": "Tsy tamin' ny olona rehetra, fa tamin' ny vavolombelona izay notendren' Andriamanitra rahateo, dia taminay izay niara-nihinana sy nisotro taminy, rehefa nitsangana tamin' ny maty Izy.",
+    "42": "Ary nandidy anay Izy hitory amin' ny olona ka hijoro ho vavolombelona fa Izy no voatendrin' Andriamanitra ho mpitsara ny velona sy ny maty.",
+    "43": "Izy no nijoroan' ny mpaminany rehetra vavolombelona, fa amin' ny Anarany no hahazoan' izay rehetra mino Azy famelan-keloka.",
+    "44": "Raha mbola nilaza izany teny izany Petera, dia nilatsaka tamin' izay rehetra nandre ny teny ny Fanahy Masina.",
+    "45": "Ary talanjona ny mino isan' ny voafora izay niaraka tamin' i Petera, satria nilatsaka tamin' ny Jentilisa koa ny fanomezana, dia ny Fanahy Masina.",
+    "46": "Fa nandre azy ireo niteny tamin' ny fiteny tsy fantatra sy nankalaza an' Andriamanitra izy. Dia namaly Petera ka nanao hoe:",
+    "47": "Moa misy olona mahazo mandrara ny rano tsy hanaovana batisa ireo izay efa nandray ny Fanahy Masina tahaka antsika koa?",
+    "48": "Dia nasainy natao batisa amin' ny anaran' ny Tompo ireo. Ary nangatahin' ireo mba hitoetra ao aminy andro vitsivitsy izy."
+  }
 }

@@ -1,57 +1,19 @@
 {
+  "book": "Joba",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary tamin' ny indray andro koa, rehefa avy ireo zanak' Andriamanitra hiseho teo anatrehan' i Jehovah, dia mba tonga teo koa Satana tafaharo taminy hiseho teo anatrehan' i Jehovah."
-    },
-    {
-      "v": 2,
-      "text": "Dia hoy Jehovah tamin' i Satana: Avy taiza ianao? Ary Satana dia namaly an' i Jehovah ka nanao hoe: Avy nizahazaha teny amin' ny tany aho ka nivezivezy teny."
-    },
-    {
-      "v": 3,
-      "text": "Dia hoy Jehovah tamin' i Satana: Efa nandinika an' i Joba mpanompoko va ianao, fa tsy misy tahaka azy eny ambonin' ny tany, fa olona marina sy mahitsy izy sady matahotra an' Andriamanitra ka mifady ny ratsy? Ary mbola mitana mafy ny fahamarinany ihany izy, na dia nanesika Ahy hamongotra azy foana aza ianao."
-    },
-    {
-      "v": 4,
-      "text": "Ary Satana dia namaly an' i Jehovah ka nanao hoe: Hoditra fefin' ny hoditra, eny, izay rehetra ananan' ny olona dia homeny ho fefin' ny ainy."
-    },
-    {
-      "v": 5,
-      "text": "Fa ahinjiro ange ny tananao ankehitriny, ka tendreo ny taolany sy ny nofony, raha tsy hanozona Anao eo imasonao izy e!"
-    },
-    {
-      "v": 6,
-      "text": "\"Dia hoy Jehovah tamin' i Satana: Indro, eo an-tananao izy; ny ainy tokana ihany no aza asianao.\""
-    },
-    {
-      "v": 7,
-      "text": "Dia nivoaka avy teo anatrehan' i Jehovah i Satana ka namely vay ratsy an' i Joba hatramin' ny faladiany ka hatramin' ny tampon-dohany."
-    },
-    {
-      "v": 8,
-      "text": "Dia naka tavim-bilany hihaorany izy sady nipetraka teo amin’ny lavenona."
-    },
-    {
-      "v": 9,
-      "text": "Dia hoy ny vadiny taminy: Mbola mitana ny fahamarinanao ihany va ianao? Manozòna an' Andriamanitra, dia aoka ho faty ianao."
-    },
-    {
-      "v": 10,
-      "text": "Fa hoy izy taminy: Tahaka ny fitenin' ny anankiray amin' ny vehivavy adala ny fiteninao. Moa ny soa ihany va no horaisintsika avy amin' ny tanan' Andriamanitra, fa tsy mba horaisintsika koa ny ratsy? Tamin' izany rehetra izany dia tsy nanota tamin' ny molony Joba."
-    },
-    {
-      "v": 11,
-      "text": "Ary rehefa ren' ny sakaizan' i Joba telo lahy io fahoriana izay tonga taminy io dia samy niainga avy tany amin' ny fonenany avy izy ireo, dia Elifaza Temanita sy Bildada Sohita ary Zafara Namatita, fa nifamotoana izy mba handeha hi-tsapa alahelo sy hampionona azy."
-    },
-    {
-      "v": 12,
-      "text": "Ary rehefa nanopy ny masony teny lavidavitra eny izy ireo ka tsy nahafantatra azy, dia nanandratra ny feony ka nitomany, ary samy nandriatra ny kapaotiny avy izy rehetra, dia nanopy vovoka ho amin' ny lanitra hiraraka amin' ny lohany."
-    },
-    {
-      "v": 13,
-      "text": "Ary niara-nipetraka teo aminy tamin' ny hafitoan' andro sy hafitoan' alina izy, nefa tsy nisy niteny taminy na dia indraim-bava akory aza, satria hitany fa mafy loatra ny fahoriany."
-    }
-  ]
+  "verses": {
+    "1": "Ary tamin' ny indray andro koa, rehefa avy ireo zanak' Andriamanitra hiseho teo anatrehan' i Jehovah, dia mba tonga teo koa Satana tafaharo taminy hiseho teo anatrehan' i Jehovah.",
+    "2": "Dia hoy Jehovah tamin' i Satana: Avy taiza ianao? Ary Satana dia namaly an' i Jehovah ka nanao hoe: Avy nizahazaha teny amin' ny tany aho ka nivezivezy teny.",
+    "3": "Dia hoy Jehovah tamin' i Satana: Efa nandinika an' i Joba mpanompoko va ianao, fa tsy misy tahaka azy eny ambonin' ny tany, fa olona marina sy mahitsy izy sady matahotra an' Andriamanitra ka mifady ny ratsy? Ary mbola mitana mafy ny fahamarinany ihany izy, na dia nanesika Ahy hamongotra azy foana aza ianao.",
+    "4": "Ary Satana dia namaly an' i Jehovah ka nanao hoe: Hoditra fefin' ny hoditra, eny, izay rehetra ananan' ny olona dia homeny ho fefin' ny ainy.",
+    "5": "Fa ahinjiro ange ny tananao ankehitriny, ka tendreo ny taolany sy ny nofony, raha tsy hanozona Anao eo imasonao izy e!",
+    "6": "Dia hoy Jehovah tamin' i Satana: Indro, eo an-tananao izy; ny ainy tokana ihany no aza asianao.",
+    "7": "Dia nivoaka avy teo anatrehan' i Jehovah i Satana ka namely vay ratsy an' i Joba hatramin' ny faladiany ka hatramin' ny tampon-dohany.",
+    "8": "Dia naka tavim-bilany hihaorany izy sady nipetraka teo amin’ny lavenona.",
+    "9": "Dia hoy ny vadiny taminy: Mbola mitana ny fahamarinanao ihany va ianao? Manozòna an' Andriamanitra, dia aoka ho faty ianao.",
+    "10": "Fa hoy izy taminy: Tahaka ny fitenin' ny anankiray amin' ny vehivavy adala ny fiteninao. Moa ny soa ihany va no horaisintsika avy amin' ny tanan' Andriamanitra, fa tsy mba horaisintsika koa ny ratsy? Tamin' izany rehetra izany dia tsy nanota tamin' ny molony Joba.",
+    "11": "Ary rehefa ren' ny sakaizan' i Joba telo lahy io fahoriana izay tonga taminy io dia samy niainga avy tany amin' ny fonenany avy izy ireo, dia Elifaza Temanita sy Bildada Sohita ary Zafara Namatita, fa nifamotoana izy mba handeha hi-tsapa alahelo sy hampionona azy.",
+    "12": "Ary rehefa nanopy ny masony teny lavidavitra eny izy ireo ka tsy nahafantatra azy, dia nanandratra ny feony ka nitomany, ary samy nandriatra ny kapaotiny avy izy rehetra, dia nanopy vovoka ho amin' ny lanitra hiraraka amin' ny lohany.",
+    "13": "Ary niara-nipetraka teo aminy tamin' ny hafitoan' andro sy hafitoan' alina izy, nefa tsy nisy niteny taminy na dia indraim-bava akory aza, satria hitany fa mafy loatra ny fahoriany."
+  }
 }

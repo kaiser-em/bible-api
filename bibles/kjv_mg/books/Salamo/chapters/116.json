@@ -1,81 +1,25 @@
 {
+  "book": "Salamo",
   "chapter": 116,
-  "verses": [
-    {
-      "v": 1,
-      "text": "TIA an' i Jehovah aho, satria efa nandre ny feoko sy ny fitarainako Izy."
-    },
-    {
-      "v": 2,
-      "text": "Satria efa nanongilana ny sofiny tamiko Izy, dia hiantso Azy aho, raha mbola velona koa."
-    },
-    {
-      "v": 3,
-      "text": "\"Nihodidina tamiko ny alahelon' ny fahafatesana, ary nahazo ahy ny fanaintainan' ny helo; nahita fahoriana sy alahelo aho.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Dia niantso ny anaran' i Jehovah aho; Jehovah ô, mifona aminao aho, vonjeo ny fanahiko.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Miantra sy marina Jehovah; eny, mamindra fo Andriamanitsika.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Miaro ny kely saina Jehovah; naetry aho, nefa namonjy ahy Izy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Miverena ho amin' ny fitsaharanao, ry fanahiko; fa efa nanisy soa anao Jehovah.\""
-    },
-    {
-      "v": 8,
-      "text": "Fa nanafaka ny fanahiko tamin'ny fahafatesana Ianao, ny masoko tamin' ny ranomaso ary ny tongotro tamin' ny fahalavoana."
-    },
-    {
-      "v": 9,
-      "text": "Handeha eo anatrehan' i Jehovah eo amin' ny tanin' ny velona aho."
-    },
-    {
-      "v": 10,
-      "text": "\"Nino aho, ka dia niteny; ory indrindra aho;\""
-    },
-    {
-      "v": 11,
-      "text": "Hoy aho tamin' ny fahatairako: Mpandainga ny olona rehetra."
-    },
-    {
-      "v": 12,
-      "text": "Inona no havaliko an' i Jehovah noho ny soa rehetra nataony tamiko?"
-    },
-    {
-      "v": 13,
-      "text": "Handray ny kapoaky ny famonjena aho ka hiantso ny anaran' i Jehovah."
-    },
-    {
-      "v": 14,
-      "text": "Hanefa ny voadiko amin' i Jehovah aho izao, eo anatrehan' ny olony rehetra."
-    },
-    {
-      "v": 15,
-      "text": "Sarobidy eo anatrehan' i Jehovah ny fahafatesan' ny olony masina."
-    },
-    {
-      "v": 16,
-      "text": "\"Jehovah ô, mpanomponao tokoa aho; mpanomponao tokoa aho sady zanaky ny ankizivavinao; namaha ny fatorako Ianao.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ianao no hanaterako fanati-pisaorana, ary ny anaran' i Jehovah no hantsoiko;\""
-    },
-    {
-      "v": 18,
-      "text": "Hanefa ny voadiko amin' i Jehovah aho ankehitriny eo anatrehan' ny olony rehetra."
-    },
-    {
-      "v": 19,
-      "text": "Dia eo an-kianjan' ny tranon' i Jehovah, eo afovoanao, ry Jerosalema ô. Miderà an' i Jehovah."
-    }
-  ]
+  "verses": {
+    "1": "TIA an' i Jehovah aho, satria efa nandre ny feoko sy ny fitarainako Izy.",
+    "2": "Satria efa nanongilana ny sofiny tamiko Izy, dia hiantso Azy aho, raha mbola velona koa.",
+    "3": "Nihodidina tamiko ny alahelon' ny fahafatesana, ary nahazo ahy ny fanaintainan' ny helo; nahita fahoriana sy alahelo aho.",
+    "4": "Dia niantso ny anaran' i Jehovah aho; Jehovah ô, mifona aminao aho, vonjeo ny fanahiko.",
+    "5": "Miantra sy marina Jehovah; eny, mamindra fo Andriamanitsika.",
+    "6": "Miaro ny kely saina Jehovah; naetry aho, nefa namonjy ahy Izy.",
+    "7": "Miverena ho amin' ny fitsaharanao, ry fanahiko; fa efa nanisy soa anao Jehovah.",
+    "8": "Fa nanafaka ny fanahiko tamin'ny fahafatesana Ianao, ny masoko tamin' ny ranomaso ary ny tongotro tamin' ny fahalavoana.",
+    "9": "Handeha eo anatrehan' i Jehovah eo amin' ny tanin' ny velona aho.",
+    "10": "Nino aho, ka dia niteny; ory indrindra aho;",
+    "11": "Hoy aho tamin' ny fahatairako: Mpandainga ny olona rehetra.",
+    "12": "Inona no havaliko an' i Jehovah noho ny soa rehetra nataony tamiko?",
+    "13": "Handray ny kapoaky ny famonjena aho ka hiantso ny anaran' i Jehovah.",
+    "14": "Hanefa ny voadiko amin' i Jehovah aho izao, eo anatrehan' ny olony rehetra.",
+    "15": "Sarobidy eo anatrehan' i Jehovah ny fahafatesan' ny olony masina.",
+    "16": "Jehovah ô, mpanomponao tokoa aho; mpanomponao tokoa aho sady zanaky ny ankizivavinao; namaha ny fatorako Ianao.",
+    "17": "Ianao no hanaterako fanati-pisaorana, ary ny anaran' i Jehovah no hantsoiko;",
+    "18": "Hanefa ny voadiko amin' i Jehovah aho ankehitriny eo anatrehan' ny olony rehetra.",
+    "19": "Dia eo an-kianjan' ny tranon' i Jehovah, eo afovoanao, ry Jerosalema ô. Miderà an' i Jehovah."
+  }
 }

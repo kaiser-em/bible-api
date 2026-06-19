@@ -1,181 +1,50 @@
 {
+  "book": "1 Tantara",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Dia nisaina araka ny firazanany avy ny Isiraely rehetra; ary, indro, efa voasoratra ao amin' ny bokin' ny mpanjakan' ny Isiraely sy ny Joda izay nentina ho babo tany Babylona noho ny fandikan-dalàny.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary ny mponina taloha tamin' ny taniny sy ny tanànany avy dia ny Isiraely sy ny mpisorona sy ny Levita ary ny Netinima."
-    },
-    {
-      "v": 3,
-      "text": "Ary tany Jerosalema no nonenan' ny avy amin' ny taranak' i Joda sy ny taranak' i Benjamina ary ny taranak' i Efraima sy Manase:"
-    },
-    {
-      "v": 4,
-      "text": "Otahy, zanak' i Amihoda, zanak' i Omry, zanak' Imry, zanak' i Bany, avy amin' ny zanak' i Fareza, zanak' i Joda."
-    },
-    {
-      "v": 5,
-      "text": "Ary tamin' ny Silonita dia Asay, lahimatoa sy ny zanany."
-    },
-    {
-      "v": 6,
-      "text": "Ary tamin' ny taranak' i Zera dia Jeoela sy ny rahalahiny, dia sivifolo amby eninjato."
-    },
-    {
-      "v": 7,
-      "text": "Ary tamin' ny taranak' i Benjamina dia Salo, zanak' i Mesolama, zanak' i Hodavia, zanak' i Hasenoa,"
-    },
-    {
-      "v": 8,
-      "text": "\"Sy Jibnia, zanak' i Jehorama, sy Elaha, zanak' i Ozy, zanak' i Mikry, zanak' i Mesolama zanak' i Sefatia, zanak' i Regoela, zanak' i Jibnia;\""
-    },
-    {
-      "v": 9,
-      "text": "Ary ny rahalahiny araka ny firazanany dia enina amby dimampolo sy sivinjato. Ireo lehilahy rehetra ireo dia samy lohan' ny fianakaviany avy amin' ny ankohonan-drainy,"
-    },
-    {
-      "v": 10,
-      "text": "Tamin' ny mpisorona dia Jedaia sy Joiariba sy Jakina"
-    },
-    {
-      "v": 11,
-      "text": "Sy Azaria, zanak' i Hilkia, zanak' i Mesolama, zanak' i Zadoka, zanak' i Meraiota, zanak' i Ahitoba, mpanapaka ny tranon' Andriamanitra,"
-    },
-    {
-      "v": 12,
-      "text": "Ary Adaia, zanak' i Jerohama, zanak' i Pasora, zanak' i Malkia, ary Masay, zanak' i Adiela, zanak' i Jazera, zanak' i Mesolama, zanak' i Mesilemita, zanak' Imera."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ny rahalahin' ireo, izay samy lohan' ny fianakaviany avy, dia enimpolo amby fitonjato amby arivo; lehilahy mahery amin' ny fanaovana ny fanompoana ao an-tranon' Andriamanitra ireo.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary tamin' ny Levita dia Semaia, zanak' i Hasoba, zanak' i Azrikama, zanak' i Hasabia, tamin' ny taranak' i Merary,"
-    },
-    {
-      "v": 15,
-      "text": "Ary Bakbakara sy Haresy sy Galala sy Matania, zanak' i Mika, zanak' i Zikry, zanak' i Asafa,"
-    },
-    {
-      "v": 16,
-      "text": "Ary Obadia, zanak' i Semaia, zanak' i Galala, zanak' i Jedotona, ary Berekia, zanak' i Asa, zanak' i Elkana, izay nonina tamin' ny vohitry ny Netofatita."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ny mpiandry varavarana dia Saloma sy Akoba sy Talmona sy Ahimana ary ny rahalahiny; fa Saloma no lohany;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ambaraka ankehitriny dia ao amin' ny vavahadin' ny mpanjaka atsinanana izy; ireo no mpiandry varavarana tamin' ny tobin' ny taranak' i Levy.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ary Saloma, zanak' i Kore, zanak' i Abiasafa, zanak' i Kora sy ny Koraïta rahalahiny araka ny fianakaviany avy no mpanao ny fanompoana amin' ny fiandrasana ny varavaran' ny lay; ary ny razany koa dia mpiambina ny vavahady tao amin' ny tobin' ny Jehovah.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary Finehasa, zanak' i Eleazara, no mpanapaka ireo taloha, ary Jehovah nomba azy."
-    },
-    {
-      "v": 21,
-      "text": "Ary Zakaria, zanak' i Meselemia, no mpiandry ny varavaran' ny tranolay fihaonana."
-    },
-    {
-      "v": 22,
-      "text": "Ary ireo voafidy ho mpiandry varavarana dia roa ambin' ny folo amby roanjato. Ireo dia nisaina araka ny firazanany tany amin' ny vohiny avy, ka notendren' i Davida sy Samoela mpahita ho amin' ny raharahany avy."
-    },
-    {
-      "v": 23,
-      "text": "Ka dia ireo sy ny taranany no niandry varavarana tao amin' ny tranon' i Jehovah, dia ny tranolay."
-    },
-    {
-      "v": 24,
-      "text": "Teo amin' ny lafiny efatra no nitoeran' ny mpiandry varavarana, dia teo atsinanana sy andrefana sy avaratra ary atsimo."
-    },
-    {
-      "v": 25,
-      "text": "Ary ny rahalahiny izay nonina teo amin' ny vohiny dia nasaina ho avy isan-kafitoana indraindray eo aminy."
-    },
-    {
-      "v": 26,
-      "text": "Fa nanao ny raharahany ireo Levita efa-dahy lohan' ny mpiandry varavarana ireo, dia tonian' ny efitrano fitahirizana sy ny rakitry ny tranon' Andriamanitra."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary manodidina ny tranon' Andriamanitra no nandriany; fa izy ireo no mpiambina azy sady adidiny ny famohana ny trano isa-maraina.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary ny sasany aminy nitandrina ny fanaka momba ny fanompoana; fa an' isany no nitondrany azy miditra sy mivoaka.\""
-    },
-    {
-      "v": 29,
-      "text": "Ary ny sasany aminy koa notendrena hitandrina ny fanaka sy ny fitaovana rehetra momba ny fitoerana masina, ary ny koba tsara toto sy ny divay sy ny diloilo sy ny ditin-kazo manitra ary ny zava-manitra."
-    },
-    {
-      "v": 30,
-      "text": "Ary ny sasany tamin' ny zanaky ny mpisorona nangaroharo ny zava-manitra fanosorana."
-    },
-    {
-      "v": 31,
-      "text": "Ary Matatia, anankiray tamin' ny Levita, lahimatoan' i Saloma Koraïta, no tonian' ny zavatra izay natao tamin' ny fanendasana."
-    },
-    {
-      "v": 32,
-      "text": "Ary ny sasany tamin' ny rahalahin' ireo tamin' ny taranaky ny Kehatita, no tonian' ny mofo aseho hamboatra izany isan-tsabata."
-    },
-    {
-      "v": 33,
-      "text": "Ary ireo no mpihira, lohan' ny fianakaviana amin' ny Levita, izay mitoetra tsy manan-draharaha hafa eo amin' ireo efitrano fa nampiasaina ho amin' izany raharaha izany andro aman' alina izy."
-    },
-    {
-      "v": 34,
-      "text": "Ireo dia lohan' ny fianakaviana tamin' ny Levita araka ny firazanany avy, dia samy loholona. Ireo no nonina tany Jerosalema."
-    },
-    {
-      "v": 35,
-      "text": "Ary tao Gibeona no nonenan' i Jeiela, rain' i Gibeona, ary ny anaran' ny vadiny dia Imaka."
-    },
-    {
-      "v": 36,
-      "text": "Ary ny zanany lahimatoa dia Abdona, dia Zora, dia Kisy, dia Bala, dia Nera, dia Nadaba,"
-    },
-    {
-      "v": 37,
-      "text": "Dia Gedora, dia Ahio, dia Zakaria, dia Miklota."
-    },
-    {
-      "v": 38,
-      "text": "Ary Miklota niteraka an' i Simeama. Ary ireo koa niara-nonina tamin' ny rahalahiny tany Jerosalema nifanandrify fonenana taminy."
-    },
-    {
-      "v": 39,
-      "text": "\"Ary Nera niteraka an' i Kisy; ary Kisy niteraka an' i Saoly; ary Saoly niteraka an' i Jonatana sy Malkisoa sy Abinadaba ary Esbala.\""
-    },
-    {
-      "v": 40,
-      "text": "\"Ary ny zanakalahin' i Jonatana dia Meribala; ary Meribala niteraka an' i Mika.\""
-    },
-    {
-      "v": 41,
-      "text": "Ary ny zanakalahin' i Mika dia Pitona sy Maleka sy Tarea ary Ahaza."
-    },
-    {
-      "v": 42,
-      "text": "\"Ary Ahaza niteraka an' i Jara; ary Jara niteraka an' i Alemeta sy Azmaveta ary Zimry; ary Zimry niteraka an' i Moza;\""
-    },
-    {
-      "v": 43,
-      "text": "\"Ary Moza niteraka an' i Binea; ary Refaia no zanakalahin' i Binea, Elasa no zanakalahin' i Refaia, Azela no zanakalahin' i Elasa.\""
-    },
-    {
-      "v": 44,
-      "text": "\"Ary Azela nanana zanaka enina mirahalahy, ka izao avy no anarany: Azrikama sy Bokero sy Isimaela sy Searia sy Obadia ary Hanana; ireo no zanakalahin' i Azela.\""
-    }
-  ]
+  "verses": {
+    "1": "Dia nisaina araka ny firazanany avy ny Isiraely rehetra; ary, indro, efa voasoratra ao amin' ny bokin' ny mpanjakan' ny Isiraely sy ny Joda izay nentina ho babo tany Babylona noho ny fandikan-dalàny.",
+    "2": "Ary ny mponina taloha tamin' ny taniny sy ny tanànany avy dia ny Isiraely sy ny mpisorona sy ny Levita ary ny Netinima.",
+    "3": "Ary tany Jerosalema no nonenan' ny avy amin' ny taranak' i Joda sy ny taranak' i Benjamina ary ny taranak' i Efraima sy Manase:",
+    "4": "Otahy, zanak' i Amihoda, zanak' i Omry, zanak' Imry, zanak' i Bany, avy amin' ny zanak' i Fareza, zanak' i Joda.",
+    "5": "Ary tamin' ny Silonita dia Asay, lahimatoa sy ny zanany.",
+    "6": "Ary tamin' ny taranak' i Zera dia Jeoela sy ny rahalahiny, dia sivifolo amby eninjato.",
+    "7": "Ary tamin' ny taranak' i Benjamina dia Salo, zanak' i Mesolama, zanak' i Hodavia, zanak' i Hasenoa,",
+    "8": "Sy Jibnia, zanak' i Jehorama, sy Elaha, zanak' i Ozy, zanak' i Mikry, zanak' i Mesolama zanak' i Sefatia, zanak' i Regoela, zanak' i Jibnia;",
+    "9": "Ary ny rahalahiny araka ny firazanany dia enina amby dimampolo sy sivinjato. Ireo lehilahy rehetra ireo dia samy lohan' ny fianakaviany avy amin' ny ankohonan-drainy,",
+    "10": "Tamin' ny mpisorona dia Jedaia sy Joiariba sy Jakina",
+    "11": "Sy Azaria, zanak' i Hilkia, zanak' i Mesolama, zanak' i Zadoka, zanak' i Meraiota, zanak' i Ahitoba, mpanapaka ny tranon' Andriamanitra,",
+    "12": "Ary Adaia, zanak' i Jerohama, zanak' i Pasora, zanak' i Malkia, ary Masay, zanak' i Adiela, zanak' i Jazera, zanak' i Mesolama, zanak' i Mesilemita, zanak' Imera.",
+    "13": "Ary ny rahalahin' ireo, izay samy lohan' ny fianakaviany avy, dia enimpolo amby fitonjato amby arivo; lehilahy mahery amin' ny fanaovana ny fanompoana ao an-tranon' Andriamanitra ireo.",
+    "14": "Ary tamin' ny Levita dia Semaia, zanak' i Hasoba, zanak' i Azrikama, zanak' i Hasabia, tamin' ny taranak' i Merary,",
+    "15": "Ary Bakbakara sy Haresy sy Galala sy Matania, zanak' i Mika, zanak' i Zikry, zanak' i Asafa,",
+    "16": "Ary Obadia, zanak' i Semaia, zanak' i Galala, zanak' i Jedotona, ary Berekia, zanak' i Asa, zanak' i Elkana, izay nonina tamin' ny vohitry ny Netofatita.",
+    "17": "Ary ny mpiandry varavarana dia Saloma sy Akoba sy Talmona sy Ahimana ary ny rahalahiny; fa Saloma no lohany;",
+    "18": "Ambaraka ankehitriny dia ao amin' ny vavahadin' ny mpanjaka atsinanana izy; ireo no mpiandry varavarana tamin' ny tobin' ny taranak' i Levy.",
+    "19": "Ary Saloma, zanak' i Kore, zanak' i Abiasafa, zanak' i Kora sy ny Koraïta rahalahiny araka ny fianakaviany avy no mpanao ny fanompoana amin' ny fiandrasana ny varavaran' ny lay; ary ny razany koa dia mpiambina ny vavahady tao amin' ny tobin' ny Jehovah.",
+    "20": "Ary Finehasa, zanak' i Eleazara, no mpanapaka ireo taloha, ary Jehovah nomba azy.",
+    "21": "Ary Zakaria, zanak' i Meselemia, no mpiandry ny varavaran' ny tranolay fihaonana.",
+    "22": "Ary ireo voafidy ho mpiandry varavarana dia roa ambin' ny folo amby roanjato. Ireo dia nisaina araka ny firazanany tany amin' ny vohiny avy, ka notendren' i Davida sy Samoela mpahita ho amin' ny raharahany avy.",
+    "23": "Ka dia ireo sy ny taranany no niandry varavarana tao amin' ny tranon' i Jehovah, dia ny tranolay.",
+    "24": "Teo amin' ny lafiny efatra no nitoeran' ny mpiandry varavarana, dia teo atsinanana sy andrefana sy avaratra ary atsimo.",
+    "25": "Ary ny rahalahiny izay nonina teo amin' ny vohiny dia nasaina ho avy isan-kafitoana indraindray eo aminy.",
+    "26": "Fa nanao ny raharahany ireo Levita efa-dahy lohan' ny mpiandry varavarana ireo, dia tonian' ny efitrano fitahirizana sy ny rakitry ny tranon' Andriamanitra.",
+    "27": "Ary manodidina ny tranon' Andriamanitra no nandriany; fa izy ireo no mpiambina azy sady adidiny ny famohana ny trano isa-maraina.",
+    "28": "Ary ny sasany aminy nitandrina ny fanaka momba ny fanompoana; fa an' isany no nitondrany azy miditra sy mivoaka.",
+    "29": "Ary ny sasany aminy koa notendrena hitandrina ny fanaka sy ny fitaovana rehetra momba ny fitoerana masina, ary ny koba tsara toto sy ny divay sy ny diloilo sy ny ditin-kazo manitra ary ny zava-manitra.",
+    "30": "Ary ny sasany tamin' ny zanaky ny mpisorona nangaroharo ny zava-manitra fanosorana.",
+    "31": "Ary Matatia, anankiray tamin' ny Levita, lahimatoan' i Saloma Koraïta, no tonian' ny zavatra izay natao tamin' ny fanendasana.",
+    "32": "Ary ny sasany tamin' ny rahalahin' ireo tamin' ny taranaky ny Kehatita, no tonian' ny mofo aseho hamboatra izany isan-tsabata.",
+    "33": "Ary ireo no mpihira, lohan' ny fianakaviana amin' ny Levita, izay mitoetra tsy manan-draharaha hafa eo amin' ireo efitrano fa nampiasaina ho amin' izany raharaha izany andro aman' alina izy.",
+    "34": "Ireo dia lohan' ny fianakaviana tamin' ny Levita araka ny firazanany avy, dia samy loholona. Ireo no nonina tany Jerosalema.",
+    "35": "Ary tao Gibeona no nonenan' i Jeiela, rain' i Gibeona, ary ny anaran' ny vadiny dia Imaka.",
+    "36": "Ary ny zanany lahimatoa dia Abdona, dia Zora, dia Kisy, dia Bala, dia Nera, dia Nadaba,",
+    "37": "Dia Gedora, dia Ahio, dia Zakaria, dia Miklota.",
+    "38": "Ary Miklota niteraka an' i Simeama. Ary ireo koa niara-nonina tamin' ny rahalahiny tany Jerosalema nifanandrify fonenana taminy.",
+    "39": "Ary Nera niteraka an' i Kisy; ary Kisy niteraka an' i Saoly; ary Saoly niteraka an' i Jonatana sy Malkisoa sy Abinadaba ary Esbala.",
+    "40": "Ary ny zanakalahin' i Jonatana dia Meribala; ary Meribala niteraka an' i Mika.",
+    "41": "Ary ny zanakalahin' i Mika dia Pitona sy Maleka sy Tarea ary Ahaza.",
+    "42": "Ary Ahaza niteraka an' i Jara; ary Jara niteraka an' i Alemeta sy Azmaveta ary Zimry; ary Zimry niteraka an' i Moza;",
+    "43": "Ary Moza niteraka an' i Binea; ary Refaia no zanakalahin' i Binea, Elasa no zanakalahin' i Refaia, Azela no zanakalahin' i Elasa.",
+    "44": "Ary Azela nanana zanaka enina mirahalahy, ka izao avy no anarany: Azrikama sy Bokero sy Isimaela sy Searia sy Obadia ary Hanana; ireo no zanakalahin' i Azela."
+  }
 }

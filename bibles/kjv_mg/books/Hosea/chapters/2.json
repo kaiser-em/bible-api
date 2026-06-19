@@ -1,97 +1,29 @@
 {
+  "book": "Hosea",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Manaova amin' ny rahalahinareo hoe: Amy; ary amin' ny anabavinareo hoe: Rohama.\""
-    },
-    {
-      "v": 2,
-      "text": "Mifandahara amin-dreninareo, eny mifandahara, fa izy tsy vadiko, ary Izaho tsy vadiny, ary aoka hoesoriny ny fomba fanaony janga tsy ho eo anatrehany sy ny fijangajangany tsy ho eo amin' ny tratrany."
-    },
-    {
-      "v": 3,
-      "text": "Fandrao hampihanjahanjaiko izy ka hataoko toy ny tamin' ny andro nahaterahany, ary hataoko toy ny efitra sy ny tany karankaina izy, sady hataoko matin-ketaheta."
-    },
-    {
-      "v": 4,
-      "text": "Ary tsy hamindrako fo ny zanany satria zanaky ny fijangajangana ireny."
-    },
-    {
-      "v": 5,
-      "text": "\"Fa efa nijangajanga ny reniny; ilay notorontoronina azy efa nanao izay mahamenatra, fa hoy izy: Hanaraka ireo lehilahiko ihany aho, izay manome ahy ny mofoko sy ny rano hosotroiko, ny volon' ondriko sy ny rongoniko, ny diloiloko ary ny fisotroko.\""
-    },
-    {
-      "v": 6,
-      "text": "Koa, indro, hotampenako tsilo ny lalanao sady hasiako manda, ka tsy hahita izay lalan-kalehany izy."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary hiezaka hanenjika ireo lehilahiny izy, nefa tsy hahatratra azy; ary hitady ireo izy, nefa tsy hahita; dia hanao izy hoe: Handeha hiverina amin' ny vadiko voalohany aho, fa niadana aho tany noho ny ankehitriny.\""
-    },
-    {
-      "v": 8,
-      "text": "Fa tsy fantany fa Izaho no nanome azy ny varimbazaha sy ny ranom-boaloboka, sy ny diloilo sady nampitomboiko ny volafotsiny sy ny volamenany izay nomaniny ho an' i Bala."
-    },
-    {
-      "v": 9,
-      "text": "Noho izany dia hiverina aho ka halaiko indray ny varimbazahako amin' ny androny sy ny ranom-boaloboko amin' ny taonany, ary hoesoriko ny volon' ondriko sy ny rongoniko, izay nomena hasarony ny fitanjahany."
-    },
-    {
-      "v": 10,
-      "text": "Ary ankehitriny hasehoko eo imason' ireo lehilahiny ny fahamenarany, ka tsy hisy hahafaka azy amin' ny tanako."
-    },
-    {
-      "v": 11,
-      "text": "Ary hatsahatro koa ny fifaliany rehetra, dia ny andro firavoravoany sy voaloham-bolany ary ny sabatany mbamin' ny andro firavoravoany lehibe rehetra."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary hosimbako ny voalobony sy ny hazo aviaviny, izay nataony hoe: Tangiko avy tamin' ireo lehilahiko ireto; ary hataoko ho tonga ala ireny ka hohanin' ny biby eny an-tsaha.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary hovaliako izy noho ny andron' ireo Bala izay efa nandoroany ditin-kazo manitra sady niravahany ny kaviny sy ny firavany, ka nanaraka ireo lehilahiny izy; fa Izaho kosa nohadinoiny, hoy Jehovah.\""
-    },
-    {
-      "v": 14,
-      "text": "Koa, indro, Izaho dia hitaona azy ka hitondra azy ho any an' efitra ary hanao teny malefaka hahafinaritra azy."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary hatrany dia homeko azy ny tanimboalobony sy ny lohasaha Akora ho varavaram-panantenana; ary any no hihirany toy ny tamin' ny andro fahatanorany, dia toy ny tamin' ny andro niakarany avy tany amin' ny tany Egypta.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary raha mby amin' izany andro izany, hoy Jehovah, dia hataonao hoe: Isy aho, fa tsy hataonao intsony hoe: Balako."
-    },
-    {
-      "v": 17,
-      "text": "Fa hoesoriko amin' ny vavany ny anaran' ireo Bala, ka tsy hotsarovana amin' ny anarany intsony ireo."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary amin' izany andro izany, Izaho dia hanao fanekena ho azy amin' ny biby eny an-tsaha sy amin' ny voro-manidina eny amin' ny lanitra ary amin' ny biby mandady sy mikisaka amin' ny tany; ary hotapatapahiko tsy hisy amin' ny tany intsony ny tsipìka sy ny sabatra ary ny ady, dia hataoko mandry fahizay izy.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ary hofofoiko ho vadiko mandrakizay ianao, eny, hofofoiko ho vadiko amin' ny hitsiny sy ny rariny ary amin' ny fitiavana sy ny indrafo ianao;\""
-    },
-    {
-      "v": 20,
-      "text": "Eny, hofofoiko ho vadiko amin' ny fahamarinana ianao, ka dia hahalala an' i Jehovah."
-    },
-    {
-      "v": 21,
-      "text": "Ary amin' izany andro izany, izao no hiseho: hihaino Aho, hoy Jehovah, hihaino ny lanitra Aho, ary izy kosa hihaino ny tany."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary ny tany kosa hihaino ny varimbazaha sy ny ranom-boaloboka ary ny diloilo; ary ireo kosa hihaino an' i Jezirela.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Dia hafafiko ho Ahy amin' ny tany izy ary hamindra fo aminy, izay tsy namindrana fo Aho; sady hanao amin' izay tsy oloko hoe: Oloko ianao; ary izy kosa hanao hoe : Andriamanitro Ianao.\""
-    }
-  ]
+  "verses": {
+    "1": "Manaova amin' ny rahalahinareo hoe: Amy; ary amin' ny anabavinareo hoe: Rohama.",
+    "2": "Mifandahara amin-dreninareo, eny mifandahara, fa izy tsy vadiko, ary Izaho tsy vadiny, ary aoka hoesoriny ny fomba fanaony janga tsy ho eo anatrehany sy ny fijangajangany tsy ho eo amin' ny tratrany.",
+    "3": "Fandrao hampihanjahanjaiko izy ka hataoko toy ny tamin' ny andro nahaterahany, ary hataoko toy ny efitra sy ny tany karankaina izy, sady hataoko matin-ketaheta.",
+    "4": "Ary tsy hamindrako fo ny zanany satria zanaky ny fijangajangana ireny.",
+    "5": "Fa efa nijangajanga ny reniny; ilay notorontoronina azy efa nanao izay mahamenatra, fa hoy izy: Hanaraka ireo lehilahiko ihany aho, izay manome ahy ny mofoko sy ny rano hosotroiko, ny volon' ondriko sy ny rongoniko, ny diloiloko ary ny fisotroko.",
+    "6": "Koa, indro, hotampenako tsilo ny lalanao sady hasiako manda, ka tsy hahita izay lalan-kalehany izy.",
+    "7": "Ary hiezaka hanenjika ireo lehilahiny izy, nefa tsy hahatratra azy; ary hitady ireo izy, nefa tsy hahita; dia hanao izy hoe: Handeha hiverina amin' ny vadiko voalohany aho, fa niadana aho tany noho ny ankehitriny.",
+    "8": "Fa tsy fantany fa Izaho no nanome azy ny varimbazaha sy ny ranom-boaloboka, sy ny diloilo sady nampitomboiko ny volafotsiny sy ny volamenany izay nomaniny ho an' i Bala.",
+    "9": "Noho izany dia hiverina aho ka halaiko indray ny varimbazahako amin' ny androny sy ny ranom-boaloboko amin' ny taonany, ary hoesoriko ny volon' ondriko sy ny rongoniko, izay nomena hasarony ny fitanjahany.",
+    "10": "Ary ankehitriny hasehoko eo imason' ireo lehilahiny ny fahamenarany, ka tsy hisy hahafaka azy amin' ny tanako.",
+    "11": "Ary hatsahatro koa ny fifaliany rehetra, dia ny andro firavoravoany sy voaloham-bolany ary ny sabatany mbamin' ny andro firavoravoany lehibe rehetra.",
+    "12": "Ary hosimbako ny voalobony sy ny hazo aviaviny, izay nataony hoe: Tangiko avy tamin' ireo lehilahiko ireto; ary hataoko ho tonga ala ireny ka hohanin' ny biby eny an-tsaha.",
+    "13": "Ary hovaliako izy noho ny andron' ireo Bala izay efa nandoroany ditin-kazo manitra sady niravahany ny kaviny sy ny firavany, ka nanaraka ireo lehilahiny izy; fa Izaho kosa nohadinoiny, hoy Jehovah.",
+    "14": "Koa, indro, Izaho dia hitaona azy ka hitondra azy ho any an' efitra ary hanao teny malefaka hahafinaritra azy.",
+    "15": "Ary hatrany dia homeko azy ny tanimboalobony sy ny lohasaha Akora ho varavaram-panantenana; ary any no hihirany toy ny tamin' ny andro fahatanorany, dia toy ny tamin' ny andro niakarany avy tany amin' ny tany Egypta.",
+    "16": "Ary raha mby amin' izany andro izany, hoy Jehovah, dia hataonao hoe: Isy aho, fa tsy hataonao intsony hoe: Balako.",
+    "17": "Fa hoesoriko amin' ny vavany ny anaran' ireo Bala, ka tsy hotsarovana amin' ny anarany intsony ireo.",
+    "18": "Ary amin' izany andro izany, Izaho dia hanao fanekena ho azy amin' ny biby eny an-tsaha sy amin' ny voro-manidina eny amin' ny lanitra ary amin' ny biby mandady sy mikisaka amin' ny tany; ary hotapatapahiko tsy hisy amin' ny tany intsony ny tsipìka sy ny sabatra ary ny ady, dia hataoko mandry fahizay izy.",
+    "19": "Ary hofofoiko ho vadiko mandrakizay ianao, eny, hofofoiko ho vadiko amin' ny hitsiny sy ny rariny ary amin' ny fitiavana sy ny indrafo ianao;",
+    "20": "Eny, hofofoiko ho vadiko amin' ny fahamarinana ianao, ka dia hahalala an' i Jehovah.",
+    "21": "Ary amin' izany andro izany, izao no hiseho: hihaino Aho, hoy Jehovah, hihaino ny lanitra Aho, ary izy kosa hihaino ny tany.",
+    "22": "Ary ny tany kosa hihaino ny varimbazaha sy ny ranom-boaloboka ary ny diloilo; ary ireo kosa hihaino an' i Jezirela.",
+    "23": "Dia hafafiko ho Ahy amin' ny tany izy ary hamindra fo aminy, izay tsy namindrana fo Aho; sady hanao amin' izay tsy oloko hoe: Oloko ianao; ary izy kosa hanao hoe : Andriamanitro Ianao."
+  }
 }

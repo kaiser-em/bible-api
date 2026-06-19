@@ -1,129 +1,37 @@
 {
+  "book": "Mpitsara",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Samsona nankany Gaza ka nahita vehivavy janga teo, dia niditra tao aminy."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary nolazaina tamin' ny Gazita hoe: Tonga aty Samsona. Dia nanemitra azy izy ary nanotrika mandritra ny alina teo am-bavahadin' ny tanàna ka nangina mandritra ny alina; fa hoy izy: Raha maraina ny andro, dia hovonointsika izy.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary nandry Samsona mandra-pahamamatonalina, dia nifoha izy ka noraisiny ny vavahadin' ny tanàna mbamin' ny tolana roa, dia nongotany izany mbamin' ny hidiny ka nataony teny an-tsorony, dia nentiny ho any an-tampon' ny tendrombohitra izay tandrifin' i Hebrona."
-    },
-    {
-      "v": 4,
-      "text": "Ary izao no niseho, taorian' izany, dia tia vehivavy atao hoe Delila izy, tany an-dohasaha Soreka."
-    },
-    {
-      "v": 5,
-      "text": "Ary ireo andrianan' ny Filistina niakatra nankany amin-dravehivavy ka nanao taminy hoe: Kolikoleo izy, ka izahao izay itoeran' ny heriny lehibe sy izay ahazoanay mandresy azy mba hahazoanay mamatotra azy ka hampahoriana azy, dia samy hanome anao sekely zato amby arivo avy izahay rehetra."
-    },
-    {
-      "v": 6,
-      "text": "Dia hoy Delila tamin' i Samsona: Masìna ianao, lazao amiko izay itoeran' ny herinao lehibe sy izay ahazoana mamatotra anao hampahoriana anao."
-    },
-    {
-      "v": 7,
-      "text": "Dia hoy Samsona taminy: Raha tady vaovao fito izay tsy mbola maina no amatorana ahy, dia ho osa aho ka ho tahaka ny olon-kafa."
-    },
-    {
-      "v": 8,
-      "text": "Dia niakatra nankany amin-dravehivavy ireo andrianan' ny Filistina nitondra tady vaovao fito izay tsy mbola maina, dia namatotra azy tamin' ireny ravehivavy."
-    },
-    {
-      "v": 9,
-      "text": "Ary nisy lehilahy nanotrika ka nitoetra taminy tao an' efitrano. Dia hoy ravehivavy tamin' i Samsona: Hamely anao ny Filistina, ry Samsona! Dia notosany ny tady, tahaka ny fahamaiton' ny taretran-drongony, raha lelafin' ny afo. Dia tsy fantatra ny heriny."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary hoy Delila tamin' i Samsona: Indro, efa namitaka ahy ianao ka nilaza lainga tamiko; ankehitriny, masìna ianao, lazao amiko izay ahazoana mamatotra anao.\""
-    },
-    {
-      "v": 11,
-      "text": "Dia hoy kosa izy taminy: Raha mahazaka vaovao izay tsy mbola nanaovan-draharaha no amatorany ahy mafy, dia ho osa aho ka ho tahaka ny olon-kafa."
-    },
-    {
-      "v": 12,
-      "text": "Dia naka mahazaka vaovao Delila, ka namatotra azy, dia hoy izy taminy: Hamely anao ny Filistina, ry Samsona! Ary nisy mpanotrika nitoetra tao an' efitrano. Dia notosan' i Samsona ho afaka tamin' ny sandriny ireny tahaka ny fahamaiton' ny taretra."
-    },
-    {
-      "v": 13,
-      "text": "\"Dia hoy Delila tamin' i Samsona: mandraka ankehitriny dia mbola namitaka ahy ihany ianao ka nilaza lainga tamiko; lazao amiko izay ahazoana mamatotra anao. Dia hoy kosa izy taminy: Raha tenominao hikambana amin' ny tenona ny foto-bolo fito amin' ny lohako.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary notsatohany fàntaka izany, dia hoy izy taminy: Hamely anao ny Filistina, ry Samsona! Dia nifoha tamin' ny torimasony izy, ka nongotany ny fàntaka sy ny tenona."
-    },
-    {
-      "v": 15,
-      "text": "Dia hoy ravehivavy taminy: Ahoana no ahazoanao milaza hoe: Tiako ianao, nefa ny fonao tsy amiko tsinona? Efa namitaka ahy intelo ianao izay, ka tsy mbola nolazainao tamiko ihany izay itoeran' ny herinao lehibe."
-    },
-    {
-      "v": 16,
-      "text": "Ary izao no niseho, rehefa nitorikisina taminy isan' andro tamin' ny teniny ravehivavy ka nanery azy, dia tsy nahafinaritra ny fanahiny intsony ny miaina."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary dia nambarany azy ny tao am-pony rehetra, ka hoy izy taminy: Tsy mbola nokasihin-kareza ny lohako, fa Nazirita ho an' Andriamanitra hatrany an-kibon-dreniko aho; koa raha haratana aho, dia hiala amiko ny heriko, ary ho osa aho ka ho tahaka ny olona rehetra.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary rehefa hitan' i Delila fa efa nambarany azy ny tao am-pony rehetra, dia naniraka nampaka ny andrianan' ny Filistina izy, ka nanao hoe: Miakara amin' izao indray mandeha izao, fa efa nasehony ahy ny tao am-pony rehetra. Ary ireo andrianan' ny Filistina niakatra ho any aminy nitondra ny vola teny an-tanany."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary ravehivavy nanondana an' i Samsona hatory teo an-dohaliny, dia niantso lehilahy iray ka nampanaratra ny foto-bolo fito tamin' ny lohany; dia vao izay no nampahory azy ravehivavy, ary dia niala taminy ny heriny.\""
-    },
-    {
-      "v": 20,
-      "text": "Dia hoy ravehivavy: Hamely anao ny Filistina, ry Samsona! Dia nifoha tamin' ny torimasony izy ka nanao hoe: Hivoaka tahaka ny teo aloha aho ka hanetsika ny tenako. Kanjo tsy fantany fa efa niala taminy Jehovah."
-    },
-    {
-      "v": 21,
-      "text": "\"Fa nisambotra azy ny Filistina ka namotsitra ny masony, dia nitondra azy nidina nankany Gaza ary namatotra azy tamin' ny gadra varahina; ary dia nitoto varimbazaha tao an-tranomaizina izy.\""
-    },
-    {
-      "v": 22,
-      "text": "Na izany aza dia nanomboka naniry indray ny volon-dohany, rehefa voaharatra."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary nivory ireo andrianan' ny Filistina mba hamono zavatra betsaka hatao fanatitra ho an' i Dagona andriamaniny sy hifaly; fa hoy izy: Efa natolotry ny andriamanitsika eto an-tanantsika i Samsona fahavalontsika.\""
-    },
-    {
-      "v": 24,
-      "text": "Ary rehefa nahita azy ny vahoaka, dia nidera ny andriamaniny ka nanao hoe: Efa natolotry ny andriamanitsika eto an-tanantsika ilay fahavalontsika mpanimba ny tanintsika, izay naha-be maty antsika."
-    },
-    {
-      "v": 25,
-      "text": "\"Ary izao no niseho, rehefa faly ny fony, dia hoy izy ireo: Alao Samsona mba hanao laolao ho antsika. Dia nampaka an' i Samsona avy tao an-tranomaizina izy, ka nanao laolao teo anatrehan' ireo Samsona; ary nampitsanganiny teo anelanelan' ny andry izy.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary hoy Samsona tamin' ny zatovo izay nitantana azy: Avelao kely aho hitsapa ny andry izay manohana ny trano, hiankinako aminy."
-    },
-    {
-      "v": 27,
-      "text": "Ary feno lehilahy sy vehivavy ny trano, ary tao ireo andrianan' ny Filistina rehetra, ary teo an-tampon-trano koa nisy lehilahy sy vehivavy tokony ho telo arivo izay nijery an' i Samsona nanao laolao."
-    },
-    {
-      "v": 28,
-      "text": "Ary Samsona niantso an' i Jehovah ka nanao hoe: Jehovah Tompo ô, mifona aminao aho, tsarovy aho, ary mifona aminao aho, ampaherezo izao indray mandeha izao monja aho, ry Andriamanitra ô, hamaliako avy hatrany ny Filistina noho ny amin' ireo masoko roa."
-    },
-    {
-      "v": 29,
-      "text": "Dia notanan' i Samsona ny andry roa teo afovoany izay nitsanganan' ny trano sy nanohana izany, ny anankiray tamin' ny tanany ankavanana, ary ny anankiray tamin' ny tanany ankavia."
-    },
-    {
-      "v": 30,
-      "text": "Dia hoy Samsona: Aoka hiara-maty amin' ny Filistina aho. Dia nezahiny mafy tamin' ny heriny rehetra ka dia nianjera tamin' ireo andriana sy ireo vahoaka rehetra izay teo ny trano. Ary ny maty izay novonoiny teo amin' ny nahafatesany dia be lavitra noho izay novonoiny tamin' ny andro nahavelomany."
-    },
-    {
-      "v": 31,
-      "text": "Ary nidina ny rahalahiny sy ny mpianakavin-drainy rehetra, dia naka ny fatiny ka nitondra azy niakatra ary nandevina azy teo anelanelan' i Zora sy Estaola tao amin' ny toeram-pandevenan' i Manoa rainy. Ary efa nitsara ny Isiraely roapolo taona izy."
-    }
-  ]
+  "verses": {
+    "1": "Ary Samsona nankany Gaza ka nahita vehivavy janga teo, dia niditra tao aminy.",
+    "2": "Ary nolazaina tamin' ny Gazita hoe: Tonga aty Samsona. Dia nanemitra azy izy ary nanotrika mandritra ny alina teo am-bavahadin' ny tanàna ka nangina mandritra ny alina; fa hoy izy: Raha maraina ny andro, dia hovonointsika izy.",
+    "3": "Ary nandry Samsona mandra-pahamamatonalina, dia nifoha izy ka noraisiny ny vavahadin' ny tanàna mbamin' ny tolana roa, dia nongotany izany mbamin' ny hidiny ka nataony teny an-tsorony, dia nentiny ho any an-tampon' ny tendrombohitra izay tandrifin' i Hebrona.",
+    "4": "Ary izao no niseho, taorian' izany, dia tia vehivavy atao hoe Delila izy, tany an-dohasaha Soreka.",
+    "5": "Ary ireo andrianan' ny Filistina niakatra nankany amin-dravehivavy ka nanao taminy hoe: Kolikoleo izy, ka izahao izay itoeran' ny heriny lehibe sy izay ahazoanay mandresy azy mba hahazoanay mamatotra azy ka hampahoriana azy, dia samy hanome anao sekely zato amby arivo avy izahay rehetra.",
+    "6": "Dia hoy Delila tamin' i Samsona: Masìna ianao, lazao amiko izay itoeran' ny herinao lehibe sy izay ahazoana mamatotra anao hampahoriana anao.",
+    "7": "Dia hoy Samsona taminy: Raha tady vaovao fito izay tsy mbola maina no amatorana ahy, dia ho osa aho ka ho tahaka ny olon-kafa.",
+    "8": "Dia niakatra nankany amin-dravehivavy ireo andrianan' ny Filistina nitondra tady vaovao fito izay tsy mbola maina, dia namatotra azy tamin' ireny ravehivavy.",
+    "9": "Ary nisy lehilahy nanotrika ka nitoetra taminy tao an' efitrano. Dia hoy ravehivavy tamin' i Samsona: Hamely anao ny Filistina, ry Samsona! Dia notosany ny tady, tahaka ny fahamaiton' ny taretran-drongony, raha lelafin' ny afo. Dia tsy fantatra ny heriny.",
+    "10": "Ary hoy Delila tamin' i Samsona: Indro, efa namitaka ahy ianao ka nilaza lainga tamiko; ankehitriny, masìna ianao, lazao amiko izay ahazoana mamatotra anao.",
+    "11": "Dia hoy kosa izy taminy: Raha mahazaka vaovao izay tsy mbola nanaovan-draharaha no amatorany ahy mafy, dia ho osa aho ka ho tahaka ny olon-kafa.",
+    "12": "Dia naka mahazaka vaovao Delila, ka namatotra azy, dia hoy izy taminy: Hamely anao ny Filistina, ry Samsona! Ary nisy mpanotrika nitoetra tao an' efitrano. Dia notosan' i Samsona ho afaka tamin' ny sandriny ireny tahaka ny fahamaiton' ny taretra.",
+    "13": "Dia hoy Delila tamin' i Samsona: mandraka ankehitriny dia mbola namitaka ahy ihany ianao ka nilaza lainga tamiko; lazao amiko izay ahazoana mamatotra anao. Dia hoy kosa izy taminy: Raha tenominao hikambana amin' ny tenona ny foto-bolo fito amin' ny lohako.",
+    "14": "Ary notsatohany fàntaka izany, dia hoy izy taminy: Hamely anao ny Filistina, ry Samsona! Dia nifoha tamin' ny torimasony izy, ka nongotany ny fàntaka sy ny tenona.",
+    "15": "Dia hoy ravehivavy taminy: Ahoana no ahazoanao milaza hoe: Tiako ianao, nefa ny fonao tsy amiko tsinona? Efa namitaka ahy intelo ianao izay, ka tsy mbola nolazainao tamiko ihany izay itoeran' ny herinao lehibe.",
+    "16": "Ary izao no niseho, rehefa nitorikisina taminy isan' andro tamin' ny teniny ravehivavy ka nanery azy, dia tsy nahafinaritra ny fanahiny intsony ny miaina.",
+    "17": "Ary dia nambarany azy ny tao am-pony rehetra, ka hoy izy taminy: Tsy mbola nokasihin-kareza ny lohako, fa Nazirita ho an' Andriamanitra hatrany an-kibon-dreniko aho; koa raha haratana aho, dia hiala amiko ny heriko, ary ho osa aho ka ho tahaka ny olona rehetra.",
+    "18": "Ary rehefa hitan' i Delila fa efa nambarany azy ny tao am-pony rehetra, dia naniraka nampaka ny andrianan' ny Filistina izy, ka nanao hoe: Miakara amin' izao indray mandeha izao, fa efa nasehony ahy ny tao am-pony rehetra. Ary ireo andrianan' ny Filistina niakatra ho any aminy nitondra ny vola teny an-tanany.",
+    "19": "Ary ravehivavy nanondana an' i Samsona hatory teo an-dohaliny, dia niantso lehilahy iray ka nampanaratra ny foto-bolo fito tamin' ny lohany; dia vao izay no nampahory azy ravehivavy, ary dia niala taminy ny heriny.",
+    "20": "Dia hoy ravehivavy: Hamely anao ny Filistina, ry Samsona! Dia nifoha tamin' ny torimasony izy ka nanao hoe: Hivoaka tahaka ny teo aloha aho ka hanetsika ny tenako. Kanjo tsy fantany fa efa niala taminy Jehovah.",
+    "21": "Fa nisambotra azy ny Filistina ka namotsitra ny masony, dia nitondra azy nidina nankany Gaza ary namatotra azy tamin' ny gadra varahina; ary dia nitoto varimbazaha tao an-tranomaizina izy.",
+    "22": "Na izany aza dia nanomboka naniry indray ny volon-dohany, rehefa voaharatra.",
+    "23": "Ary nivory ireo andrianan' ny Filistina mba hamono zavatra betsaka hatao fanatitra ho an' i Dagona andriamaniny sy hifaly; fa hoy izy: Efa natolotry ny andriamanitsika eto an-tanantsika i Samsona fahavalontsika.",
+    "24": "Ary rehefa nahita azy ny vahoaka, dia nidera ny andriamaniny ka nanao hoe: Efa natolotry ny andriamanitsika eto an-tanantsika ilay fahavalontsika mpanimba ny tanintsika, izay naha-be maty antsika.",
+    "25": "Ary izao no niseho, rehefa faly ny fony, dia hoy izy ireo: Alao Samsona mba hanao laolao ho antsika. Dia nampaka an' i Samsona avy tao an-tranomaizina izy, ka nanao laolao teo anatrehan' ireo Samsona; ary nampitsanganiny teo anelanelan' ny andry izy.",
+    "26": "Ary hoy Samsona tamin' ny zatovo izay nitantana azy: Avelao kely aho hitsapa ny andry izay manohana ny trano, hiankinako aminy.",
+    "27": "Ary feno lehilahy sy vehivavy ny trano, ary tao ireo andrianan' ny Filistina rehetra, ary teo an-tampon-trano koa nisy lehilahy sy vehivavy tokony ho telo arivo izay nijery an' i Samsona nanao laolao.",
+    "28": "Ary Samsona niantso an' i Jehovah ka nanao hoe: Jehovah Tompo ô, mifona aminao aho, tsarovy aho, ary mifona aminao aho, ampaherezo izao indray mandeha izao monja aho, ry Andriamanitra ô, hamaliako avy hatrany ny Filistina noho ny amin' ireo masoko roa.",
+    "29": "Dia notanan' i Samsona ny andry roa teo afovoany izay nitsanganan' ny trano sy nanohana izany, ny anankiray tamin' ny tanany ankavanana, ary ny anankiray tamin' ny tanany ankavia.",
+    "30": "Dia hoy Samsona: Aoka hiara-maty amin' ny Filistina aho. Dia nezahiny mafy tamin' ny heriny rehetra ka dia nianjera tamin' ireo andriana sy ireo vahoaka rehetra izay teo ny trano. Ary ny maty izay novonoiny teo amin' ny nahafatesany dia be lavitra noho izay novonoiny tamin' ny andro nahavelomany.",
+    "31": "Ary nidina ny rahalahiny sy ny mpianakavin-drainy rehetra, dia naka ny fatiny ka nitondra azy niakatra ary nandevina azy teo anelanelan' i Zora sy Estaola tao amin' ny toeram-pandevenan' i Manoa rainy. Ary efa nitsara ny Isiraely roapolo taona izy."
+  }
 }

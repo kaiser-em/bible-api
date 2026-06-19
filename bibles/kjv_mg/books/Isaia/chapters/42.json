@@ -1,105 +1,31 @@
 {
+  "book": "Isaia",
   "chapter": 42,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Indro ny Mpanompoko, izay tantanako, dia Ilay voafidiko sady sitraky ny fanahiko; napetrako tao aminy ny Fanahiko; hamoaka fitsarana amin' ny jentilisa Izy.\""
-    },
-    {
-      "v": 2,
-      "text": "Tsy hiantsoantso Izy, na hanandratra ny feony, na hanao izay handrenesana ny feony eny an-dalana."
-    },
-    {
-      "v": 3,
-      "text": "\"Tsy hotapahiny ny volotara torotoro, ary tsy hovonoiny ny lahin-jiro manentona; hamoaka ny fitsarana amin' ny fahamarinana Izy.\""
-    },
-    {
-      "v": 4,
-      "text": "Tsy ho reraka na ho kivy Izy, mandra-panoriny ny rariny amin' ny tany, ary ny nosy hiandry ny lalàny."
-    },
-    {
-      "v": 5,
-      "text": "Izao no lazain' i Jehovah Andriamanitra, Izay nahary ny lanitra sy nanenjana azy, Izay namelatra ny tany sy ny vokatra avy aminy, Izay manome fofonaina ny olona eo aminy sy fanahy ho an' izay mandeha eo aminy:"
-    },
-    {
-      "v": 6,
-      "text": "\"Izaho Jehovah no efa niantso Anao tamin' ny fahamarinana ary hitantana ny tananao sy hiaro Anao Aho ka hanome Anao ho fanekena ho an' ny olona, ho fanazavana ny jentilisa;\""
-    },
-    {
-      "v": 7,
-      "text": "Hampahiratra ny mason' ny jamba, hamoaka ny mpifatotra hiala ao an-tranomaizina ary izay mipetraka ao amin' ny maizina hiala ao an-trano famatorana."
-    },
-    {
-      "v": 8,
-      "text": "Izaho no Jehovah, izany no anarako, ka ny voninahitro tsy homeko ny hafa, na ny fiderana ahy ho an' ny sarin-javatra voasokitra."
-    },
-    {
-      "v": 9,
-      "text": "\"Ny amin' ny zavatra taloha, dia indreo, efa miseho, ary zava-baovao kosa no toriko izao; mialoha ny iposahan' izany, dia ambarako aminareo izany.\""
-    },
-    {
-      "v": 10,
-      "text": "Ianareo izay midina any amin' ny ranomasina sy ny ao aminy rehetra, dia ianareo nosy sy ny mponina ao aminy, samia mihira fihiram-baovao ho an' i Jehovah, dia ny fiderana Azy hatramin' ny faran' ny tany."
-    },
-    {
-      "v": 11,
-      "text": "\"Aoka ny efitra sy ireo tanàna eny aminy hanandratra ny feony, dia ny vohitra izay onenan' i Kedara; aoka hihira ny mponina any amin' ny harambato, aoka hanao feo avo any an-tampon' ny tendrombohitra izy.\""
-    },
-    {
-      "v": 12,
-      "text": "Aoka hanome voninahitra an' i Jehovah izy ary hitory ny fiderana Azy any amin' ny nosy."
-    },
-    {
-      "v": 13,
-      "text": "\"Hivoaka tahaka ny lehilahy mahery Jehovah, tahaka ny fanaon' ny mpiady no hamohazany ny fahasaro-piarony; hiantsoantso izy, eny, hihiaka mafy; hampiseho hery haharesy ny fahavalony Izy.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Efa tsy niteny Aho hatrizay hatrizay, nangina ihany aho ka nanindry fo; fa izao aho dia hitaraina tahaka ny vehivavy mihetsi-jaza; sady handrava aho no handevona.\""
-    },
-    {
-      "v": 15,
-      "text": "Hataoko mariry ny tendrombohitra sy ny havoana, hataoko maina ny ahitra rehetra ao aminy, ary ny ony ho tonga nosy, ary hataoko tankina ny farihy."
-    },
-    {
-      "v": 16,
-      "text": "\"Hitondra ny jamba amin' izay lalana tsy fantany Aho; ary amin' ny lalana tsy fantany no hitarihako azy; ny maizina dia hataoko mazava eo anoloany, ary ny mikitoantoana halamako tsara; izany zavatra izany no hataoko aminy, ka tsy hafoiko izy.\""
-    },
-    {
-      "v": 17,
-      "text": "Hihemotra sady ho menatra tokoa izay matoky ny sarin-javatra voasokitra, dia izay manao amin' ny sarin-javatra an' idina hoe: Ianareo no andriamanitray."
-    },
-    {
-      "v": 18,
-      "text": "\"Mihainoa ianareo, ry marenina; ary mijere, ry jamba, mba hahita.\""
-    },
-    {
-      "v": 19,
-      "text": "Iza no jamba, afa-tsy ny mpanompoko? Na iza no marenina tahaka ny iraka izay irahiko? Iza no jamba tahaka izay tanteraka, ary jamba tahaka ny mpanompon' i Jehovah?"
-    },
-    {
-      "v": 20,
-      "text": "\"Mahita zavatra maro ianao, nefa tsy mitandrina; manongilana ny sofiny izy, nefa tsy mihaino.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Sitrak' i Jehovah Izy noho ny fahamarinany; hahalehibe ny lalàna Izy ka hahabe voninahitra azy.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Kanefa ity dia firenena nobaboina sy norobaina; voafandrika ao an-davaka avokoa izy rehetra ary voafina ao an-tranomaizina; voababo izy ka tsy misy mamonjy; voasambotra izy, ka tsy misy manao hoe: Ampodio.\""
-    },
-    {
-      "v": 23,
-      "text": "Iza aminareo no hihaino izany? Iza no handre, dia hitandrina izany amin' ny andro ho avy?"
-    },
-    {
-      "v": 24,
-      "text": "Iza no nanolotra an' i Jakoba ho babo, ary Isiraely ho an' ny mpandroba? Tsy Jehovah, Izay efa nanotantsika va? Satria tsy nety nandeha tamin' ny lalany ireo sady tsy nety nankatò ny lalàny."
-    },
-    {
-      "v": 25,
-      "text": "\"Ka dia nalatsany taminy ny firehitry ny fahatezerany sy ny halozan' ny ady; dia nampirehitra afo manodidina azy izany, nefa tsy fantany; ary nandoro azy, nefa tsy noheverin' ny fony.\""
-    }
-  ]
+  "verses": {
+    "1": "Indro ny Mpanompoko, izay tantanako, dia Ilay voafidiko sady sitraky ny fanahiko; napetrako tao aminy ny Fanahiko; hamoaka fitsarana amin' ny jentilisa Izy.",
+    "2": "Tsy hiantsoantso Izy, na hanandratra ny feony, na hanao izay handrenesana ny feony eny an-dalana.",
+    "3": "Tsy hotapahiny ny volotara torotoro, ary tsy hovonoiny ny lahin-jiro manentona; hamoaka ny fitsarana amin' ny fahamarinana Izy.",
+    "4": "Tsy ho reraka na ho kivy Izy, mandra-panoriny ny rariny amin' ny tany, ary ny nosy hiandry ny lalàny.",
+    "5": "Izao no lazain' i Jehovah Andriamanitra, Izay nahary ny lanitra sy nanenjana azy, Izay namelatra ny tany sy ny vokatra avy aminy, Izay manome fofonaina ny olona eo aminy sy fanahy ho an' izay mandeha eo aminy:",
+    "6": "Izaho Jehovah no efa niantso Anao tamin' ny fahamarinana ary hitantana ny tananao sy hiaro Anao Aho ka hanome Anao ho fanekena ho an' ny olona, ho fanazavana ny jentilisa;",
+    "7": "Hampahiratra ny mason' ny jamba, hamoaka ny mpifatotra hiala ao an-tranomaizina ary izay mipetraka ao amin' ny maizina hiala ao an-trano famatorana.",
+    "8": "Izaho no Jehovah, izany no anarako, ka ny voninahitro tsy homeko ny hafa, na ny fiderana ahy ho an' ny sarin-javatra voasokitra.",
+    "9": "Ny amin' ny zavatra taloha, dia indreo, efa miseho, ary zava-baovao kosa no toriko izao; mialoha ny iposahan' izany, dia ambarako aminareo izany.",
+    "10": "Ianareo izay midina any amin' ny ranomasina sy ny ao aminy rehetra, dia ianareo nosy sy ny mponina ao aminy, samia mihira fihiram-baovao ho an' i Jehovah, dia ny fiderana Azy hatramin' ny faran' ny tany.",
+    "11": "Aoka ny efitra sy ireo tanàna eny aminy hanandratra ny feony, dia ny vohitra izay onenan' i Kedara; aoka hihira ny mponina any amin' ny harambato, aoka hanao feo avo any an-tampon' ny tendrombohitra izy.",
+    "12": "Aoka hanome voninahitra an' i Jehovah izy ary hitory ny fiderana Azy any amin' ny nosy.",
+    "13": "Hivoaka tahaka ny lehilahy mahery Jehovah, tahaka ny fanaon' ny mpiady no hamohazany ny fahasaro-piarony; hiantsoantso izy, eny, hihiaka mafy; hampiseho hery haharesy ny fahavalony Izy.",
+    "14": "Efa tsy niteny Aho hatrizay hatrizay, nangina ihany aho ka nanindry fo; fa izao aho dia hitaraina tahaka ny vehivavy mihetsi-jaza; sady handrava aho no handevona.",
+    "15": "Hataoko mariry ny tendrombohitra sy ny havoana, hataoko maina ny ahitra rehetra ao aminy, ary ny ony ho tonga nosy, ary hataoko tankina ny farihy.",
+    "16": "Hitondra ny jamba amin' izay lalana tsy fantany Aho; ary amin' ny lalana tsy fantany no hitarihako azy; ny maizina dia hataoko mazava eo anoloany, ary ny mikitoantoana halamako tsara; izany zavatra izany no hataoko aminy, ka tsy hafoiko izy.",
+    "17": "Hihemotra sady ho menatra tokoa izay matoky ny sarin-javatra voasokitra, dia izay manao amin' ny sarin-javatra an' idina hoe: Ianareo no andriamanitray.",
+    "18": "Mihainoa ianareo, ry marenina; ary mijere, ry jamba, mba hahita.",
+    "19": "Iza no jamba, afa-tsy ny mpanompoko? Na iza no marenina tahaka ny iraka izay irahiko? Iza no jamba tahaka izay tanteraka, ary jamba tahaka ny mpanompon' i Jehovah?",
+    "20": "Mahita zavatra maro ianao, nefa tsy mitandrina; manongilana ny sofiny izy, nefa tsy mihaino.",
+    "21": "Sitrak' i Jehovah Izy noho ny fahamarinany; hahalehibe ny lalàna Izy ka hahabe voninahitra azy.",
+    "22": "Kanefa ity dia firenena nobaboina sy norobaina; voafandrika ao an-davaka avokoa izy rehetra ary voafina ao an-tranomaizina; voababo izy ka tsy misy mamonjy; voasambotra izy, ka tsy misy manao hoe: Ampodio.",
+    "23": "Iza aminareo no hihaino izany? Iza no handre, dia hitandrina izany amin' ny andro ho avy?",
+    "24": "Iza no nanolotra an' i Jakoba ho babo, ary Isiraely ho an' ny mpandroba? Tsy Jehovah, Izay efa nanotantsika va? Satria tsy nety nandeha tamin' ny lalany ireo sady tsy nety nankatò ny lalàny.",
+    "25": "Ka dia nalatsany taminy ny firehitry ny fahatezerany sy ny halozan' ny ady; dia nampirehitra afo manodidina azy izany, nefa tsy fantany; ary nandoro azy, nefa tsy noheverin' ny fony."
+  }
 }

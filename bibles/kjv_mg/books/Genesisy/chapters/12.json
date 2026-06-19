@@ -1,85 +1,26 @@
 {
+  "book": "Genesisy",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Koa hoy Jehovah tamin' i Abrama: Mivoaha ianao hiala amin' ny firenenao, sy ny fianakavianao, ary ny tranon' ny rainao, hankany amin' ny tany izay hasehoko anao;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Dia hahatonga anao ho firenena lehibe Aho sady hitahy anao sy hahalehibe ny anaranao; ary ho fitahiana ianao.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary hitahy izay manisy soa anao Aho, fa hanozona izay manozona anao, ary aminao no hitahiana ny ankohonana rehetra ambonin' ny tany."
-    },
-    {
-      "v": 4,
-      "text": "\"Dia niainga Abrama araka izay efa nolazain' i Jehovah taminy; ary niaraka taminy Lota, ary efa dimy amby fitopolo taona Abrama raha niala tany Harana izy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary Abrama nitondra an' i Saray vadiny sy Lota zana-drahalahiny mbamin' ny fananan' izy rehetra izay efa nohariny sy ny olona izay efa azony tao Harana; dia niainga izy ireo hankany amin' ny tany Kanana, ka dia tonga tany amin' ny tany Kanana izy.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary Abrama nitety ny tany hatrany Sekema dia hatrany amin' ny lemak' i More. Ary ny Kananita no tompon-tany tao fahizay."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary Jehovah niseho tamin' i Abrama ka nanao hoe: Ny taranakao no homeko ity tany ity; dia nanorina alitara teo izy ho an' i Jehovah izay efa niseho taminy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary nifindra niala teo izy hankany amin' ny tendrombohitra atsinanan' i Betela ka nanorina ny lainy teo anelanelan' i Betela tao andrefany sy Ay tao atsinanany; dia nanorina alitara teo ho an' i Jehovah izy, ka niantso ny anaran' i Jehovah.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary nandeha Abrama ka nandroso niandalana ho any amin' ny tany atsimo."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary nisy mosary teo amin' ny tany; ary Abrama dia nidina nankany Egypta hivahiny any, fa mafy ny mosary teo amin' ny tany.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary izao no niseho, rehefa nadiva ho tonga tany Egypta izy, dia hoy izy tamin' i Saray vadiny: Indro, fantatro fa vehivavy tsara tarehy ianao;\""
-    },
-    {
-      "v": 12,
-      "text": "\"Noho izany, izao no hiseho, raha hitan' ny Egyptiana ianao, dia hataony hoe: Vadiny io; ka hovonoiny aho, fa ianao hovelominy.\""
-    },
-    {
-      "v": 13,
-      "text": "Masìna ianao, lazao fa anabaviko ianao, mba hasiana soa aho noho ny aminao, ka noho ianao no hamelomana ahy."
-    },
-    {
-      "v": 14,
-      "text": "Ary izao no niseho, rehefa tonga tany Egypta Abrama, dia hitan' ny Egyptiana fa tsara tarehy indrindra ravehivavy."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary nahita azy koa ny tandapan' i Farao ka nidera azy tamin' i Farao; dia nentina tao an-tranon' i Farao ravehivavy.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary nasian' i Farao soa Abrama noho ny amin' i Saray vadiny; dia nahazo ondry sy omby sy borikilahy sy andevolahy sy andevovavy sy borikivavy sy rameva izy.\""
-    },
-    {
-      "v": 17,
-      "text": "Dia nasian' i Jehovah areti-mandoza Farao sy ny ankohonany noho ny amin' i Saray, vadin' i Abrama."
-    },
-    {
-      "v": 18,
-      "text": "Ary nampaka an' i Abrama i Farao ka nanao hoe: Inona izao nataonao tamiko izao? Nahoana no tsy nambaranao tamiko fa vadinao izy?"
-    },
-    {
-      "v": 19,
-      "text": "\"Nahoana ianao no nanao hoe: Anabaviko izy? Ka nalaiko ho vady izy; Koa ankehitriny, indro ny vadinao, ento izy, ka mandehana.\""
-    },
-    {
-      "v": 20,
-      "text": "Dia nomen' i Farao teny ny mpanompony ny amin' i Abrama, ary dia nandefa azy sy ny vadiny mbamin' izay rehetra azy ireo."
-    }
-  ]
+  "verses": {
+    "1": "Koa hoy Jehovah tamin' i Abrama: Mivoaha ianao hiala amin' ny firenenao, sy ny fianakavianao, ary ny tranon' ny rainao, hankany amin' ny tany izay hasehoko anao;",
+    "2": "Dia hahatonga anao ho firenena lehibe Aho sady hitahy anao sy hahalehibe ny anaranao; ary ho fitahiana ianao.",
+    "3": "Ary hitahy izay manisy soa anao Aho, fa hanozona izay manozona anao, ary aminao no hitahiana ny ankohonana rehetra ambonin' ny tany.",
+    "4": "Dia niainga Abrama araka izay efa nolazain' i Jehovah taminy; ary niaraka taminy Lota, ary efa dimy amby fitopolo taona Abrama raha niala tany Harana izy.",
+    "5": "Ary Abrama nitondra an' i Saray vadiny sy Lota zana-drahalahiny mbamin' ny fananan' izy rehetra izay efa nohariny sy ny olona izay efa azony tao Harana; dia niainga izy ireo hankany amin' ny tany Kanana, ka dia tonga tany amin' ny tany Kanana izy.",
+    "6": "Ary Abrama nitety ny tany hatrany Sekema dia hatrany amin' ny lemak' i More. Ary ny Kananita no tompon-tany tao fahizay.",
+    "7": "Ary Jehovah niseho tamin' i Abrama ka nanao hoe: Ny taranakao no homeko ity tany ity; dia nanorina alitara teo izy ho an' i Jehovah izay efa niseho taminy.",
+    "8": "Ary nifindra niala teo izy hankany amin' ny tendrombohitra atsinanan' i Betela ka nanorina ny lainy teo anelanelan' i Betela tao andrefany sy Ay tao atsinanany; dia nanorina alitara teo ho an' i Jehovah izy, ka niantso ny anaran' i Jehovah.",
+    "9": "Ary nandeha Abrama ka nandroso niandalana ho any amin' ny tany atsimo.",
+    "10": "Ary nisy mosary teo amin' ny tany; ary Abrama dia nidina nankany Egypta hivahiny any, fa mafy ny mosary teo amin' ny tany.",
+    "11": "Ary izao no niseho, rehefa nadiva ho tonga tany Egypta izy, dia hoy izy tamin' i Saray vadiny: Indro, fantatro fa vehivavy tsara tarehy ianao;",
+    "12": "Noho izany, izao no hiseho, raha hitan' ny Egyptiana ianao, dia hataony hoe: Vadiny io; ka hovonoiny aho, fa ianao hovelominy.",
+    "13": "Masìna ianao, lazao fa anabaviko ianao, mba hasiana soa aho noho ny aminao, ka noho ianao no hamelomana ahy.",
+    "14": "Ary izao no niseho, rehefa tonga tany Egypta Abrama, dia hitan' ny Egyptiana fa tsara tarehy indrindra ravehivavy.",
+    "15": "Ary nahita azy koa ny tandapan' i Farao ka nidera azy tamin' i Farao; dia nentina tao an-tranon' i Farao ravehivavy.",
+    "16": "Ary nasian' i Farao soa Abrama noho ny amin' i Saray vadiny; dia nahazo ondry sy omby sy borikilahy sy andevolahy sy andevovavy sy borikivavy sy rameva izy.",
+    "17": "Dia nasian' i Jehovah areti-mandoza Farao sy ny ankohonany noho ny amin' i Saray, vadin' i Abrama.",
+    "18": "Ary nampaka an' i Abrama i Farao ka nanao hoe: Inona izao nataonao tamiko izao? Nahoana no tsy nambaranao tamiko fa vadinao izy?",
+    "19": "Nahoana ianao no nanao hoe: Anabaviko izy? Ka nalaiko ho vady izy; Koa ankehitriny, indro ny vadinao, ento izy, ka mandehana.",
+    "20": "Dia nomen' i Farao teny ny mpanompony ny amin' i Abrama, ary dia nandefa azy sy ny vadiny mbamin' izay rehetra azy ireo."
+  }
 }

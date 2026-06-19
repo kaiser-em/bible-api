@@ -1,53 +1,18 @@
 {
+  "book": "Salamo",
   "chapter": 97,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"MANJAKA Jehovah; aoka ho ravo ny tany; aoka ho faly amin' izany ny nosy maro.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Rahona sy haizim-pito no manodidina Azy; fahamarinana sy fitsarana no fanorenan' ny sezafiandrianany.\""
-    },
-    {
-      "v": 3,
-      "text": "Misy afo mialoha Azy ka mandevona ny fahavalony manodidina."
-    },
-    {
-      "v": 4,
-      "text": "\"Nahazava izao tontolo izao ny helany; nahita izany ny tany ka nihorohoro.\""
-    },
-    {
-      "v": 5,
-      "text": "Niempo tahaka ny savoka ny havoana teo anatrehan' i Jehovah, dia teo anatrehan' ny Tompon' ny tany rehetra."
-    },
-    {
-      "v": 6,
-      "text": "Maneho ny fahamarinany ny lanitra ary mahita ny voninahiny ny olon-drehetra."
-    },
-    {
-      "v": 7,
-      "text": "\"Aoka ho menatra izay rehetra manompo sarin-javatra voasokitra, izay miarahaba tena ny amin' ny sampy; miankohofa Aminy ianareo andriamanitra rehetra.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Nandre Ziona ka nifaly; ary niravoravo ny zanakavavin' i Joda noho ny fitsaranao, Jehovah ô.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Fa Ianao, Jehovah ô, no Avo Indrindra ambonin' ny tany rehetra; asandratra avo ambonin' ny andriamanitra rehetra Ianao.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ianareo izay tia an' i Jehovah, mankahalà ny ratsy; miaro ny fanahin' ny olony masina Izy; manafaka azy amin' ny tanan' ny ratsy fanahy.\""
-    },
-    {
-      "v": 11,
-      "text": "Ny fahazavana no voafafy ho an' ny marina, ary ny fifaliana ho an' ny mahitsy fo."
-    },
-    {
-      "v": 12,
-      "text": "Mifalia amin' i Jehovah, ry olo-marina ary misaora amin' ny fahatsiarovana ny fahamasinany."
-    }
-  ]
+  "verses": {
+    "1": "MANJAKA Jehovah; aoka ho ravo ny tany; aoka ho faly amin' izany ny nosy maro.",
+    "2": "Rahona sy haizim-pito no manodidina Azy; fahamarinana sy fitsarana no fanorenan' ny sezafiandrianany.",
+    "3": "Misy afo mialoha Azy ka mandevona ny fahavalony manodidina.",
+    "4": "Nahazava izao tontolo izao ny helany; nahita izany ny tany ka nihorohoro.",
+    "5": "Niempo tahaka ny savoka ny havoana teo anatrehan' i Jehovah, dia teo anatrehan' ny Tompon' ny tany rehetra.",
+    "6": "Maneho ny fahamarinany ny lanitra ary mahita ny voninahiny ny olon-drehetra.",
+    "7": "Aoka ho menatra izay rehetra manompo sarin-javatra voasokitra, izay miarahaba tena ny amin' ny sampy; miankohofa Aminy ianareo andriamanitra rehetra.",
+    "8": "Nandre Ziona ka nifaly; ary niravoravo ny zanakavavin' i Joda noho ny fitsaranao, Jehovah ô.",
+    "9": "Fa Ianao, Jehovah ô, no Avo Indrindra ambonin' ny tany rehetra; asandratra avo ambonin' ny andriamanitra rehetra Ianao.",
+    "10": "Ianareo izay tia an' i Jehovah, mankahalà ny ratsy; miaro ny fanahin' ny olony masina Izy; manafaka azy amin' ny tanan' ny ratsy fanahy.",
+    "11": "Ny fahazavana no voafafy ho an' ny marina, ary ny fifaliana ho an' ny mahitsy fo.",
+    "12": "Mifalia amin' i Jehovah, ry olo-marina ary misaora amin' ny fahatsiarovana ny fahamasinany."
+  }
 }

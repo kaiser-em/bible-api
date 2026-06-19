@@ -1,125 +1,36 @@
 {
+  "book": "Levitikosy",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ARY Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Raha manota ny fanahy iray, ka manao fahadisoana amin' i Jehovah, sy mandainga amin' ny namany ny amin' ny zavatra izay nampitehirizina azy, na amin' ny fisakaizana, na amin' ny zavatra alaina an-keriny, na efa namitaka ny namany;\""
-    },
-    {
-      "v": 3,
-      "text": "\"Na efa nahita izay very ka mandainga ny amin' izany, sady mianian-tsy tò; amin' izay anankiray amin' izany rehetra izany no ataon' ny olona, ka hanotany;\""
-    },
-    {
-      "v": 4,
-      "text": "Koa satria efa nanota izy dia meloka, ka hanonitra izay nalainy an-keriny, na izay nalainy tamim-pitaka, na izay nampitehirizina azy, na izay zavatra very hitany,"
-    },
-    {
-      "v": 5,
-      "text": "Na izay rehetra nianianany tsy tò, dia hanonitra toraka izany izy sady hampiany ny ampahadimin' izany, ka omeny ilay tompony amin' ny andro anaterany ny fanatitra noho ny fahadisoany."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary hitondra fanatitra noho ny fahadisoana ho an' i Jehovah izy, dia ondrilahy tsy misy kilema avy amin' ny biby fiompy, araka ny anombananao azy ho fanatitra noho ny fahadisoana ho an' ny mpisorona;\""
-    },
-    {
-      "v": 7,
-      "text": "Ary hanao fanavotana ho azy eo anatrehan' i Jehovah ny mpisorona ka havela ny helony na inona na inona no fahadisoana efa nataony."
-    },
-    {
-      "v": 8,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 9,
-      "text": "Mandidia an' i Arona sy ireo zanany lahy hoe: Izao no lalàna ny amin' ny fanatitra dorana: fanatitra dorana izany noho ny fandoroana eo ambonin' ny alitara mandritra ny alina mandra-pahamaraina, ary hirehitra eo ny afon' ny alitara."
-    },
-    {
-      "v": 10,
-      "text": "Ary hiankanjoan' ny mpisorona ny akanjony rongony fotsy madinika, ary ny kalisaoniny rongony fotsy hataony manolo-koditra, dia hitondra ny lavenona avy amin' ny fanatitra dorana izay nolevonin' ny afo teo ambonin' ny alitara izy, ka hametraka azy eo anilan' ny alitara."
-    },
-    {
-      "v": 11,
-      "text": "Ary hanala ny fitafiany izy ka hitafy fitafiana hafa, dia hamoaka ny lavenona ho eny ivelan' ny toby amin' izay fitoerana madio."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary ny afo eo ambonin' ny alitara hirehitra eo ka tsy havela ho faty fa hotohofan' ny mpisorona kitay hazo isa-maraina; ary ny fanatitra dorana halahany eo amboniny ka hodorany eo ambonin' ny saboran' ny fanati-pihavanana.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Hirehitra mandrakariva eo ambony alitara ny afo; tsy ho faty mihitsy izany.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary izao no lalàna ny amin' ny fanatitra hohanina: Ireo zanakalahin' i Arona no hanatitra izany eo anatrehan' i Jehovah, eo anoloan' ny alitara."
-    },
-    {
-      "v": 15,
-      "text": "Ary hangalany eran-tanan' ila ny koba tsara toto amin' ny fanatitra hohanina sy amin' ny diloilony, mbamin' ny ditin-kazo mani-pofona rehetra izay eo ambonin' ny fanatitra hohanina, dia hodorany eo ambonin' ny alitara ho fahatsiarovana ho hanitra ankasitrahana ho an' i Jehovah."
-    },
-    {
-      "v": 16,
-      "text": "Ary ny sisa amin' izany dia hohanin' i Arona mbamin' ny zanany lahy: miaraka amin' ny mofo tsy misy lalivay no hihinanany azy ao amin' ny fitoerana masina, ao anatin' ny kianjan' ny tranolay fihaonana."
-    },
-    {
-      "v": 17,
-      "text": "\"Tsy hendasina miaraka amin' ny lalivay izany. Efa nomeko azy ho anjarany avy amin' ny fanatitra atao amin' ny afo izany; masina indrindra izany, tahaka ny fanatitra noho ny ota sy tahaka ny fanatitra noho ny fahadisoana.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ny lehilahy rehetra amin' ny zanak' i Arona no hihinana izany. Ho lalàna mandrakizay amin' ny taranakareo mifandimby momba ny fanatitra atao amin' ny afo ho an' i Jehovah izany; ho masina izay rehetra manendry izany.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary Jehovah niteny tamin' i Mosesy nanao hoe:"
-    },
-    {
-      "v": 20,
-      "text": "Izao no fanatitr' i Arona sy ireo zanany lahy, izay hateriny ho an' i Jehovah amin' ny andro hanosorana azy: koba tsara toto ampahafolon' ny efaha no hatao fanatitra hohanina mandrakariva, ka ny antsasany amin' ny maraina ary ny antsasany amin' ny hariva."
-    },
-    {
-      "v": 21,
-      "text": "\"Amin' ny vilany no hanaovana azy ka asiana diloilo; ary rehefa nandrahoina izy dia entonao; ny didin' ny fanatitra hohanina nandrahoina no haterinao ho hanitra ankasitrahana ho an' i Jehovah.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary ny mpisorona avy amin' ny zanany lahy izay voahosotra handimby azy no hanatitra izany; lalàna mandrakizay ho an' i Jehovah izany; hodorana avokoa izany.\""
-    },
-    {
-      "v": 23,
-      "text": "Fa ny fanatitra hohanina rehetra an' ny mpisorona dia hodorana avokoa: tsy hohanina izany."
-    },
-    {
-      "v": 24,
-      "text": "Ary Jehovah niteny tamin' i Mosesy nanao hoe:"
-    },
-    {
-      "v": 25,
-      "text": "\"Mitenena amin' i Arona sy ny zanany lahy hoe: Izao no lalàna ny amin' ny fanatitra noho ny ota: Eo amin' ny fitoerana izay namonoana ny fanatitra dorana no hamonoana ny fanatitra noho ny ota eo anatrehan' i Jehovah; masina indrindra izany.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ny mpisorona izay manatitra izany noho ny ota no hihinana izany; eo amin' ny fitoerana masina no hihinanana izany, dia eo amin' ny kianjan' ny tranolay fihaonana.\""
-    },
-    {
-      "v": 27,
-      "text": "Ho masina izay rehetra manendry ny henany: ary raha misy fitafiana ipitihan' ny rany dia hosasanao eo amin' ny fitoerana masina izay nipitihany."
-    },
-    {
-      "v": 28,
-      "text": "\"Fa ny vilany tany nandrahoana azy dia hovakivakiana; ary raha vilany varahina kosa no nandrahoana azy, dia hofotsiana sy hosasan-drano izany.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Ny lehilahy rehetra amin' ny mpisorona no hihinana izany; masina indrindra izany.\""
-    },
-    {
-      "v": 30,
-      "text": "\"Ary tsy hohanina ny fanatitra noho ny ota izay angalan-drà hoentiny ao amin' ny tranolay fihaonana hanaovana fampihavanana ao amin' ny fitoerana masina; hodorana amin' ny afo izany.\""
-    }
-  ]
+  "verses": {
+    "1": "ARY Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "2": "Raha manota ny fanahy iray, ka manao fahadisoana amin' i Jehovah, sy mandainga amin' ny namany ny amin' ny zavatra izay nampitehirizina azy, na amin' ny fisakaizana, na amin' ny zavatra alaina an-keriny, na efa namitaka ny namany;",
+    "3": "Na efa nahita izay very ka mandainga ny amin' izany, sady mianian-tsy tò; amin' izay anankiray amin' izany rehetra izany no ataon' ny olona, ka hanotany;",
+    "4": "Koa satria efa nanota izy dia meloka, ka hanonitra izay nalainy an-keriny, na izay nalainy tamim-pitaka, na izay nampitehirizina azy, na izay zavatra very hitany,",
+    "5": "Na izay rehetra nianianany tsy tò, dia hanonitra toraka izany izy sady hampiany ny ampahadimin' izany, ka omeny ilay tompony amin' ny andro anaterany ny fanatitra noho ny fahadisoany.",
+    "6": "Ary hitondra fanatitra noho ny fahadisoana ho an' i Jehovah izy, dia ondrilahy tsy misy kilema avy amin' ny biby fiompy, araka ny anombananao azy ho fanatitra noho ny fahadisoana ho an' ny mpisorona;",
+    "7": "Ary hanao fanavotana ho azy eo anatrehan' i Jehovah ny mpisorona ka havela ny helony na inona na inona no fahadisoana efa nataony.",
+    "8": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "9": "Mandidia an' i Arona sy ireo zanany lahy hoe: Izao no lalàna ny amin' ny fanatitra dorana: fanatitra dorana izany noho ny fandoroana eo ambonin' ny alitara mandritra ny alina mandra-pahamaraina, ary hirehitra eo ny afon' ny alitara.",
+    "10": "Ary hiankanjoan' ny mpisorona ny akanjony rongony fotsy madinika, ary ny kalisaoniny rongony fotsy hataony manolo-koditra, dia hitondra ny lavenona avy amin' ny fanatitra dorana izay nolevonin' ny afo teo ambonin' ny alitara izy, ka hametraka azy eo anilan' ny alitara.",
+    "11": "Ary hanala ny fitafiany izy ka hitafy fitafiana hafa, dia hamoaka ny lavenona ho eny ivelan' ny toby amin' izay fitoerana madio.",
+    "12": "Ary ny afo eo ambonin' ny alitara hirehitra eo ka tsy havela ho faty fa hotohofan' ny mpisorona kitay hazo isa-maraina; ary ny fanatitra dorana halahany eo amboniny ka hodorany eo ambonin' ny saboran' ny fanati-pihavanana.",
+    "13": "Hirehitra mandrakariva eo ambony alitara ny afo; tsy ho faty mihitsy izany.",
+    "14": "Ary izao no lalàna ny amin' ny fanatitra hohanina: Ireo zanakalahin' i Arona no hanatitra izany eo anatrehan' i Jehovah, eo anoloan' ny alitara.",
+    "15": "Ary hangalany eran-tanan' ila ny koba tsara toto amin' ny fanatitra hohanina sy amin' ny diloilony, mbamin' ny ditin-kazo mani-pofona rehetra izay eo ambonin' ny fanatitra hohanina, dia hodorany eo ambonin' ny alitara ho fahatsiarovana ho hanitra ankasitrahana ho an' i Jehovah.",
+    "16": "Ary ny sisa amin' izany dia hohanin' i Arona mbamin' ny zanany lahy: miaraka amin' ny mofo tsy misy lalivay no hihinanany azy ao amin' ny fitoerana masina, ao anatin' ny kianjan' ny tranolay fihaonana.",
+    "17": "Tsy hendasina miaraka amin' ny lalivay izany. Efa nomeko azy ho anjarany avy amin' ny fanatitra atao amin' ny afo izany; masina indrindra izany, tahaka ny fanatitra noho ny ota sy tahaka ny fanatitra noho ny fahadisoana.",
+    "18": "Ny lehilahy rehetra amin' ny zanak' i Arona no hihinana izany. Ho lalàna mandrakizay amin' ny taranakareo mifandimby momba ny fanatitra atao amin' ny afo ho an' i Jehovah izany; ho masina izay rehetra manendry izany.",
+    "19": "Ary Jehovah niteny tamin' i Mosesy nanao hoe:",
+    "20": "Izao no fanatitr' i Arona sy ireo zanany lahy, izay hateriny ho an' i Jehovah amin' ny andro hanosorana azy: koba tsara toto ampahafolon' ny efaha no hatao fanatitra hohanina mandrakariva, ka ny antsasany amin' ny maraina ary ny antsasany amin' ny hariva.",
+    "21": "Amin' ny vilany no hanaovana azy ka asiana diloilo; ary rehefa nandrahoina izy dia entonao; ny didin' ny fanatitra hohanina nandrahoina no haterinao ho hanitra ankasitrahana ho an' i Jehovah.",
+    "22": "Ary ny mpisorona avy amin' ny zanany lahy izay voahosotra handimby azy no hanatitra izany; lalàna mandrakizay ho an' i Jehovah izany; hodorana avokoa izany.",
+    "23": "Fa ny fanatitra hohanina rehetra an' ny mpisorona dia hodorana avokoa: tsy hohanina izany.",
+    "24": "Ary Jehovah niteny tamin' i Mosesy nanao hoe:",
+    "25": "Mitenena amin' i Arona sy ny zanany lahy hoe: Izao no lalàna ny amin' ny fanatitra noho ny ota: Eo amin' ny fitoerana izay namonoana ny fanatitra dorana no hamonoana ny fanatitra noho ny ota eo anatrehan' i Jehovah; masina indrindra izany.",
+    "26": "Ny mpisorona izay manatitra izany noho ny ota no hihinana izany; eo amin' ny fitoerana masina no hihinanana izany, dia eo amin' ny kianjan' ny tranolay fihaonana.",
+    "27": "Ho masina izay rehetra manendry ny henany: ary raha misy fitafiana ipitihan' ny rany dia hosasanao eo amin' ny fitoerana masina izay nipitihany.",
+    "28": "Fa ny vilany tany nandrahoana azy dia hovakivakiana; ary raha vilany varahina kosa no nandrahoana azy, dia hofotsiana sy hosasan-drano izany.",
+    "29": "Ny lehilahy rehetra amin' ny mpisorona no hihinana izany; masina indrindra izany.",
+    "30": "Ary tsy hohanina ny fanatitra noho ny ota izay angalan-drà hoentiny ao amin' ny tranolay fihaonana hanaovana fampihavanana ao amin' ny fitoerana masina; hodorana amin' ny afo izany."
+  }
 }

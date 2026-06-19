@@ -1,61 +1,20 @@
 {
+  "book": "Zakaria",
   "chapter": 7,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary izao no niseho, tamin' ny taona fahefatra nanjakan' i Dariosy no nahatongavan' ny tenin' i Jehovah tamin' i Zakaria, tamin' ny andro fahefatra tamin' ny volana fahasivy, Kisleva izany;\""
-    },
-    {
-      "v": 2,
-      "text": "Ary efa nirahina ho ao an-tranon' i Jehovah i Serezera sy Regema-meleka sy ny olony hivavaka eo anatrehan' i Jehovah,"
-    },
-    {
-      "v": 3,
-      "text": "Ka hiteny amin' ny mpisorona izay tao an-tranon' i Jehovah Tompon' ny maro sy amin' ny mpaminany hoe: hitomany amin' ny volana fahadimy va aho ka hanoka-tena tahaka izay nataoko nandritra izao taona maro izao?"
-    },
-    {
-      "v": 4,
-      "text": "Dia tonga tamiko ny tenin' i Jehovah, Tompon' ny maro, nanao hoe:"
-    },
-    {
-      "v": 5,
-      "text": "Lazao amin' ny vahoaka rehetra amin' ny tany sy amin' ny mpisorona hoe: raha nifady hanina sy nitomany tamin' ny volana fahadimy sy ny fahafito tamin' izao fitopolo taona izao ianareo, moa nifady ho Ahy va ianareo?"
-    },
-    {
-      "v": 6,
-      "text": "Ary raha nihinana sy nisotro ianareo, moa tsy nihinana sy nisotro ho an' ny tenanareo ihany va ianareo?"
-    },
-    {
-      "v": 7,
-      "text": "Moa tsy tokony ho nihaino ny teny izay nasain' i Jehovah nantsoin' ny mpaminany fahiny va ianareo, fony mbola nonenana sy nambinina Jerosalema sy ny tanàna manodidina azy, sady nonenan' olona koa ny tany atsimo sy ny tany lemaka?"
-    },
-    {
-      "v": 8,
-      "text": "Ary tonga tamin' i Zakaria ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 9,
-      "text": "\"Izao no lazain' i Jehovah, Tompon' ny maro: manaova fitsarana marina, ary samia mifampiantra sy mifamindra fo amin' ny rahalahiny avy;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary aza mampahory ny mpitondratena na ny kamboty, na ny vahiny, na ny mahantra; ary aza misy mihevitra ao am-ponareo hanisy ratsy ny rahalahinareo ianareo.\""
-    },
-    {
-      "v": 11,
-      "text": "Nefa nandà tsy hihaino ireny, fa nampihemotra ny sorony, ary nanentsin-tadìny izy mba tsy handre."
-    },
-    {
-      "v": 12,
-      "text": "Eny, nanao ny fony ho mafy toy ny vato diamondra izy, mba tsy hihaino ny lalàna sy ny teny izay nampitondrain' ny Fanahin' i Jehovah, Tompon' ny maro, holazain' ny mpaminany fahiny, ka dia tonga izay fahatezerana mafy avy tamin' i Jehovah, Tompon' ny maro."
-    },
-    {
-      "v": 13,
-      "text": "\"Koa izao no hiseho, tahaka ny niantsoany ka tsy nety nihaino ireo; dia hiantso kosa ireo, fa tsy hety hihaino Aho, hoy Jehovah, Tompon' ny maro.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Fa naeliko tamin' ny tafiodrivotra ho any amin' ny firenena rehetra izay tsy fantany izy. Toy izany no nahalao ny tany taoriany, ka tsy nisy olona nandroso na niverina; fa nahatonga ny tany mahafinaritra ho tany lao izy.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no niseho, tamin' ny taona fahefatra nanjakan' i Dariosy no nahatongavan' ny tenin' i Jehovah tamin' i Zakaria, tamin' ny andro fahefatra tamin' ny volana fahasivy, Kisleva izany;",
+    "2": "Ary efa nirahina ho ao an-tranon' i Jehovah i Serezera sy Regema-meleka sy ny olony hivavaka eo anatrehan' i Jehovah,",
+    "3": "Ka hiteny amin' ny mpisorona izay tao an-tranon' i Jehovah Tompon' ny maro sy amin' ny mpaminany hoe: hitomany amin' ny volana fahadimy va aho ka hanoka-tena tahaka izay nataoko nandritra izao taona maro izao?",
+    "4": "Dia tonga tamiko ny tenin' i Jehovah, Tompon' ny maro, nanao hoe:",
+    "5": "Lazao amin' ny vahoaka rehetra amin' ny tany sy amin' ny mpisorona hoe: raha nifady hanina sy nitomany tamin' ny volana fahadimy sy ny fahafito tamin' izao fitopolo taona izao ianareo, moa nifady ho Ahy va ianareo?",
+    "6": "Ary raha nihinana sy nisotro ianareo, moa tsy nihinana sy nisotro ho an' ny tenanareo ihany va ianareo?",
+    "7": "Moa tsy tokony ho nihaino ny teny izay nasain' i Jehovah nantsoin' ny mpaminany fahiny va ianareo, fony mbola nonenana sy nambinina Jerosalema sy ny tanàna manodidina azy, sady nonenan' olona koa ny tany atsimo sy ny tany lemaka?",
+    "8": "Ary tonga tamin' i Zakaria ny tenin' i Jehovah nanao hoe:",
+    "9": "Izao no lazain' i Jehovah, Tompon' ny maro: manaova fitsarana marina, ary samia mifampiantra sy mifamindra fo amin' ny rahalahiny avy;",
+    "10": "Ary aza mampahory ny mpitondratena na ny kamboty, na ny vahiny, na ny mahantra; ary aza misy mihevitra ao am-ponareo hanisy ratsy ny rahalahinareo ianareo.",
+    "11": "Nefa nandà tsy hihaino ireny, fa nampihemotra ny sorony, ary nanentsin-tadìny izy mba tsy handre.",
+    "12": "Eny, nanao ny fony ho mafy toy ny vato diamondra izy, mba tsy hihaino ny lalàna sy ny teny izay nampitondrain' ny Fanahin' i Jehovah, Tompon' ny maro, holazain' ny mpaminany fahiny, ka dia tonga izay fahatezerana mafy avy tamin' i Jehovah, Tompon' ny maro.",
+    "13": "Koa izao no hiseho, tahaka ny niantsoany ka tsy nety nihaino ireo; dia hiantso kosa ireo, fa tsy hety hihaino Aho, hoy Jehovah, Tompon' ny maro.",
+    "14": "Fa naeliko tamin' ny tafiodrivotra ho any amin' ny firenena rehetra izay tsy fantany izy. Toy izany no nahalao ny tany taoriany, ka tsy nisy olona nandroso na niverina; fa nahatonga ny tany mahafinaritra ho tany lao izy."
+  }
 }

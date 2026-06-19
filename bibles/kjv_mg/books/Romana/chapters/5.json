@@ -1,89 +1,27 @@
 {
+  "book": "Romana",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Koa amin' izany, satria efa nohamarinina tamin' ny finoana isika, dia manana fihavanana amin' Andriamanitra amin' ny alalan' i Jesosy Kristy Tompontsika;\""
-    },
-    {
-      "v": 2,
-      "text": "Tamin' ny alalany koa no efa nahazoantsika fanatonana amin' ny finoana ho amin' izao fahasoavana itoerantsika izao, ary miravoravo amin' ny fanantenana ny voninahitr' Andriamanitra."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary tsy izany ihany, fa aoka isika hifaly amin' ny fahoriana aza, satria fantatsika fa ny fahoriana mahatonga faharetana;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary ny faharetana mahatonga fahatsapana ary ny fahatsapana mahatonga fanantenana;\""
-    },
-    {
-      "v": 5,
-      "text": "Ary ny fanantenana dia tsy mampahamenatra, satria ny fitiavan' Andriamanitra natosaka ao am-pontsika tamin' ny alalan' ny Fanahy Masina Izay nomena antsika."
-    },
-    {
-      "v": 6,
-      "text": "Fa fony mbola tsy nanan-kery isika, dia maty ho an' ny ratsy fanahy Kristy tamin' ny fotoan' andro."
-    },
-    {
-      "v": 7,
-      "text": "Fa saiky tsy misy olona manaiky ho faty hamonjy ny marina, fa angamba misy sahy ny ho faty ihany ny sasany hamonjy ny mpanao soa."
-    },
-    {
-      "v": 8,
-      "text": "Fa Andriamanitra mampiseho ny fitiavany antsika fa fony mbola mpanota isika, dia maty ho antsika Kristy."
-    },
-    {
-      "v": 9,
-      "text": "Koa mainka aza ny hamonjeny antsika ho afaka amin' ny fahatezerana amin' ny alalany, rehefa nohamarinina tamin' ny rany isika ankehitriny."
-    },
-    {
-      "v": 10,
-      "text": "Fa raha fony mbola fahavalo aza isika no nampihavanina tamin'Andriamanitra tamin' ny nahafatesan' ny Zanany, mainka ny hamonjena antsika amin' ny fahavelomany, rehefa nampihavanina."
-    },
-    {
-      "v": 11,
-      "text": "Ary tsy izany ihany koa, fa mifaly amin' Andriamanitra isika amin' ny alalan' i Jesosy Kristy Tompontsika, Izay nahazoantsika ny asa fisoloana ankehitriny."
-    },
-    {
-      "v": 12,
-      "text": "Koa izany dia tahaka ny nidiran' ny ota avy tamin' ny olona iray ho amin' izao tontolo izao, ary ny ota no nidiran' ny fahafatesana, ka nahatratra ny olona rehetra ny fahafatesana, satria samy efa nanota izy rehetra,"
-    },
-    {
-      "v": 13,
-      "text": "(Fa hatrany alohan' ny lalàna aza dia nisy ota tamin' izao tontolo izao: nefa tsy isaina ny ota, raha tsy misy lalàna."
-    },
-    {
-      "v": 14,
-      "text": "Kanefa ny fahafatesana nanjaka hatramin' i Adama ka hatramin' i Mosesy, na dia tamin' izay tsy nanota tahaka ny nanotan' i Adama aza, izay tandindon' Ilay ho avy."
-    },
-    {
-      "v": 15,
-      "text": "Nefa tsy tahaka ny fahadisoana ny fanomezana maimaimpoana.Fa raha ny fahadisoan' ny anankiray no nahatonga fahafatesana ho an' ny maro, mainka ny fahasoavan' Andriamanitra, sy ny fanomezana avy amin' ny fahasoavana, avy amin' ny Olona Iray, dia Jesosy Kristy no tonga be ho an' ny maro."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary tsy tahaka ny avy amin' ny anankiray izay nanota ny fanomezana; fa noho ny nataon' ny anankiray no nisehoan' ny fitsarana ho fanamelohana, fa noho ny fahadisoana maro kosa no nisehoan' ny fanomezana maimaimpoana ho fanamarinana.\""
-    },
-    {
-      "v": 17,
-      "text": "Fa raha ny fahadisoan' ny olona anankiray no nanjakan' ny fahafatesana noho ny nataon' ny anankiray, mainka ny fandraisana fahasoavana be dia be sy ny fanomezan' ny fahamarinana no hanjaka amin' ny fiainana noho ny nataon' ny Anankiray dia Jesosy Kristy)."
-    },
-    {
-      "v": 18,
-      "text": "\"Koa tahaka ny nahatongavan' ny fanamelohana ho an' ny olona rehetra noho ny fahadisoana iray; dia toy izany koa, noho ny fahamarinan' ny Anankiray no nahatongavan' ny fanomezana maimaimpoana kosa ho an' ny olona rehetra ho amin' ny fanamarinan' ny fiainana.\""
-    },
-    {
-      "v": 19,
-      "text": "Fa tahaka ny nanaovana ny maro ho mpanota noho ny tsy fankatoavan' ny olona iray, no hanaovana ny maro ho marina kosa noho ny fankatoavan' ny Anankiray."
-    },
-    {
-      "v": 20,
-      "text": "Ary ny lalàna dia niditra koa hahabe ny fahadisoana.Nefa teo amin' izay nihabiazan' ny ota no nihoaran' ny fahasoavana be lavitra,"
-    },
-    {
-      "v": 21,
-      "text": "Mba ho tahaka ny nanjakan' ny ota tao amin' ny fahafatesana no hanjakan' ny fahasoavana kosa amin' ny fahamarinana ho amin' ny fiainana mandrakizay amin' ny alalan' i Jesosy Kristy Tompontsika."
-    }
-  ]
+  "verses": {
+    "1": "Koa amin' izany, satria efa nohamarinina tamin' ny finoana isika, dia manana fihavanana amin' Andriamanitra amin' ny alalan' i Jesosy Kristy Tompontsika;",
+    "2": "Tamin' ny alalany koa no efa nahazoantsika fanatonana amin' ny finoana ho amin' izao fahasoavana itoerantsika izao, ary miravoravo amin' ny fanantenana ny voninahitr' Andriamanitra.",
+    "3": "Ary tsy izany ihany, fa aoka isika hifaly amin' ny fahoriana aza, satria fantatsika fa ny fahoriana mahatonga faharetana;",
+    "4": "Ary ny faharetana mahatonga fahatsapana ary ny fahatsapana mahatonga fanantenana;",
+    "5": "Ary ny fanantenana dia tsy mampahamenatra, satria ny fitiavan' Andriamanitra natosaka ao am-pontsika tamin' ny alalan' ny Fanahy Masina Izay nomena antsika.",
+    "6": "Fa fony mbola tsy nanan-kery isika, dia maty ho an' ny ratsy fanahy Kristy tamin' ny fotoan' andro.",
+    "7": "Fa saiky tsy misy olona manaiky ho faty hamonjy ny marina, fa angamba misy sahy ny ho faty ihany ny sasany hamonjy ny mpanao soa.",
+    "8": "Fa Andriamanitra mampiseho ny fitiavany antsika fa fony mbola mpanota isika, dia maty ho antsika Kristy.",
+    "9": "Koa mainka aza ny hamonjeny antsika ho afaka amin' ny fahatezerana amin' ny alalany, rehefa nohamarinina tamin' ny rany isika ankehitriny.",
+    "10": "Fa raha fony mbola fahavalo aza isika no nampihavanina tamin'Andriamanitra tamin' ny nahafatesan' ny Zanany, mainka ny hamonjena antsika amin' ny fahavelomany, rehefa nampihavanina.",
+    "11": "Ary tsy izany ihany koa, fa mifaly amin' Andriamanitra isika amin' ny alalan' i Jesosy Kristy Tompontsika, Izay nahazoantsika ny asa fisoloana ankehitriny.",
+    "12": "Koa izany dia tahaka ny nidiran' ny ota avy tamin' ny olona iray ho amin' izao tontolo izao, ary ny ota no nidiran' ny fahafatesana, ka nahatratra ny olona rehetra ny fahafatesana, satria samy efa nanota izy rehetra,",
+    "13": "(Fa hatrany alohan' ny lalàna aza dia nisy ota tamin' izao tontolo izao: nefa tsy isaina ny ota, raha tsy misy lalàna.",
+    "14": "Kanefa ny fahafatesana nanjaka hatramin' i Adama ka hatramin' i Mosesy, na dia tamin' izay tsy nanota tahaka ny nanotan' i Adama aza, izay tandindon' Ilay ho avy.",
+    "15": "Nefa tsy tahaka ny fahadisoana ny fanomezana maimaimpoana.Fa raha ny fahadisoan' ny anankiray no nahatonga fahafatesana ho an' ny maro, mainka ny fahasoavan' Andriamanitra, sy ny fanomezana avy amin' ny fahasoavana, avy amin' ny Olona Iray, dia Jesosy Kristy no tonga be ho an' ny maro.",
+    "16": "Ary tsy tahaka ny avy amin' ny anankiray izay nanota ny fanomezana; fa noho ny nataon' ny anankiray no nisehoan' ny fitsarana ho fanamelohana, fa noho ny fahadisoana maro kosa no nisehoan' ny fanomezana maimaimpoana ho fanamarinana.",
+    "17": "Fa raha ny fahadisoan' ny olona anankiray no nanjakan' ny fahafatesana noho ny nataon' ny anankiray, mainka ny fandraisana fahasoavana be dia be sy ny fanomezan' ny fahamarinana no hanjaka amin' ny fiainana noho ny nataon' ny Anankiray dia Jesosy Kristy).",
+    "18": "Koa tahaka ny nahatongavan' ny fanamelohana ho an' ny olona rehetra noho ny fahadisoana iray; dia toy izany koa, noho ny fahamarinan' ny Anankiray no nahatongavan' ny fanomezana maimaimpoana kosa ho an' ny olona rehetra ho amin' ny fanamarinan' ny fiainana.",
+    "19": "Fa tahaka ny nanaovana ny maro ho mpanota noho ny tsy fankatoavan' ny olona iray, no hanaovana ny maro ho marina kosa noho ny fankatoavan' ny Anankiray.",
+    "20": "Ary ny lalàna dia niditra koa hahabe ny fahadisoana.Nefa teo amin' izay nihabiazan' ny ota no nihoaran' ny fahasoavana be lavitra,",
+    "21": "Mba ho tahaka ny nanjakan' ny ota tao amin' ny fahafatesana no hanjakan' ny fahasoavana kosa amin' ny fahamarinana ho amin' ny fiainana mandrakizay amin' ny alalan' i Jesosy Kristy Tompontsika."
+  }
 }

@@ -1,65 +1,21 @@
 {
+  "book": "Salamo",
   "chapter": 17,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Vavaka nataon' i Davida.] Jehovah ô, henoy ny marina, mandrenesa ny fitarainako, atongilano ny sofinao amin' ny fivavako avy amin' ny molotra tsy misy fitaka."
-    },
-    {
-      "v": 2,
-      "text": "\"Aoka hivoaka avy eo anatrehanao ny fitsarana ahy; aoka ny masonao hijery marina.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Nizaha toetra ny foko Ianao; namangy ahy tamin' ny alina Ianao; nizaha toetra ahy Ianao fa tsy nahita na inona na inona; efa nikasa aho fa tsy hanota ny vavako.\""
-    },
-    {
-      "v": 4,
-      "text": "Ny amin' ny asan' ny olona, dia ny tenin' ny molotrao no nitandremako tena tsy ho amin' ny lalan' ny mpandringana."
-    },
-    {
-      "v": 5,
-      "text": "Tazony eo amin' ny lalanao ny diako, mba tsy ho solafaka ny tongotro."
-    },
-    {
-      "v": 6,
-      "text": "\"Niantso Anao aho fa hihaino ahy Ianao Andriamanitra ô; atongilano amiko ny sofinao, ka henoy ny teniko.\""
-    },
-    {
-      "v": 7,
-      "text": "Asehoy ny fahatsaram-panahinao mahagaga, ry Mpamonjy amin' ny tananao ankavanana izay olona matoky anao mba tsy ho azon' ny mitsangana hanohitra azy."
-    },
-    {
-      "v": 8,
-      "text": "Arovy tahaka ny anakandriamaso aho, afeno ao ambanin' ny aloky ny elatrao aho,"
-    },
-    {
-      "v": 9,
-      "text": "Mba tsy ho azon' ny ratsy fanahy izay mampahory ahy, dia ny fahavalo masiaka izay manodidina ahy."
-    },
-    {
-      "v": 10,
-      "text": "\"Efa voahidy ao amin' ny taviny ihany izy; teny miavonavona no aloaky ny vavany.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Manodidina anay amin' ny alehanay ankehitriny izy, vandrininy hapotraka amin' ny tany izahay;\""
-    },
-    {
-      "v": 12,
-      "text": "Ny fijery azy dia tahaka ny liona noana te-hamiravira, sy tahaka ny liona tanora mamitsaka ao am-pierena."
-    },
-    {
-      "v": 13,
-      "text": "\"Mitsangàna, Jehovah ô, ataovy diso fanantenana izy, aripaho izy, afaho ny fanahiko tsy ho azon' ny ratsy fanahy, izay sabatrao;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Afaho amin' ny olona, izay tananao aho, Jehovah ô, dia ny olon' izao tontolo izao, izay manana ny anjarany amin' izao fiainana izao, sady fenoinao ny tahirinao miafina ny kibony; maro anaka izy ka mamela ny fananany ho an' ny zanany madinika.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Fa izaho kosa, dia hizaha ny tavanao amin' ny fahamarinana; ary ny endrikao no hahafapo ahy, raha mifoha aho.\""
-    }
-  ]
+  "verses": {
+    "1": "[Vavaka nataon' i Davida.] Jehovah ô, henoy ny marina, mandrenesa ny fitarainako, atongilano ny sofinao amin' ny fivavako avy amin' ny molotra tsy misy fitaka.",
+    "2": "Aoka hivoaka avy eo anatrehanao ny fitsarana ahy; aoka ny masonao hijery marina.",
+    "3": "Nizaha toetra ny foko Ianao; namangy ahy tamin' ny alina Ianao; nizaha toetra ahy Ianao fa tsy nahita na inona na inona; efa nikasa aho fa tsy hanota ny vavako.",
+    "4": "Ny amin' ny asan' ny olona, dia ny tenin' ny molotrao no nitandremako tena tsy ho amin' ny lalan' ny mpandringana.",
+    "5": "Tazony eo amin' ny lalanao ny diako, mba tsy ho solafaka ny tongotro.",
+    "6": "Niantso Anao aho fa hihaino ahy Ianao Andriamanitra ô; atongilano amiko ny sofinao, ka henoy ny teniko.",
+    "7": "Asehoy ny fahatsaram-panahinao mahagaga, ry Mpamonjy amin' ny tananao ankavanana izay olona matoky anao mba tsy ho azon' ny mitsangana hanohitra azy.",
+    "8": "Arovy tahaka ny anakandriamaso aho, afeno ao ambanin' ny aloky ny elatrao aho,",
+    "9": "Mba tsy ho azon' ny ratsy fanahy izay mampahory ahy, dia ny fahavalo masiaka izay manodidina ahy.",
+    "10": "Efa voahidy ao amin' ny taviny ihany izy; teny miavonavona no aloaky ny vavany.",
+    "11": "Manodidina anay amin' ny alehanay ankehitriny izy, vandrininy hapotraka amin' ny tany izahay;",
+    "12": "Ny fijery azy dia tahaka ny liona noana te-hamiravira, sy tahaka ny liona tanora mamitsaka ao am-pierena.",
+    "13": "Mitsangàna, Jehovah ô, ataovy diso fanantenana izy, aripaho izy, afaho ny fanahiko tsy ho azon' ny ratsy fanahy, izay sabatrao;",
+    "14": "Afaho amin' ny olona, izay tananao aho, Jehovah ô, dia ny olon' izao tontolo izao, izay manana ny anjarany amin' izao fiainana izao, sady fenoinao ny tahirinao miafina ny kibony; maro anaka izy ka mamela ny fananany ho an' ny zanany madinika.",
+    "15": "Fa izaho kosa, dia hizaha ny tavanao amin' ny fahamarinana; ary ny endrikao no hahafapo ahy, raha mifoha aho."
+  }
 }

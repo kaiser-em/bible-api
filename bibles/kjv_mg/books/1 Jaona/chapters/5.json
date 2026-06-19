@@ -1,89 +1,27 @@
 {
+  "book": "1 Jaona",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Izay rehetra mino fa Jesosy no Kristy dia naterak’Andriamanitra; ary izay rehetra tia Izay niteraka dia tia izay naterany koa.\""
-    },
-    {
-      "v": 2,
-      "text": "Izao no ahafantarantsika fa tia ireo zanak’Andriamanitra isika, rehefa tia an’Andriamanitra isika sady mitandrina ny didiny."
-    },
-    {
-      "v": 3,
-      "text": "Fa izao no fitiavana an’Andriamanitra, dia ny hitandremantsika ny didiny, sady tsy mavesatra ny didiny."
-    },
-    {
-      "v": 4,
-      "text": "\"Fa izay rehetra naterak’Andriamanitra dia maharesy izao tontolo izao; ary ny fandresena izay enti-mandresy izao tontolo izao dia ny finoantsika.\""
-    },
-    {
-      "v": 5,
-      "text": "Iza moa no maharesy izao tontolo izao afa-tsy izay mino fa Jesosy no Zanak’Andriamanitra?"
-    },
-    {
-      "v": 6,
-      "text": "\"Izy ilay avy tamin’ny rano sy ny ra, dia Jesosy Kristy; tsy avy tamin’ny rano ihany, fa avy tamin’ny rano sy ny ra. Ary ny Fanahy no manambara, satria ny Fanahy no fahamarinana.\""
-    },
-    {
-      "v": 7,
-      "text": "Fa misy telo izay mitondra fanambarana any an-danitra, dia ny Ray, ny Teny ary ny Fanahy Masina: ary izy telo ireo dia iray."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary misy telo izay mitondra fanambarana ety an-tany, dia ny Fanahy sy ny Rano ary ny Rà; ary mifanaraka ho iray izy telo ireo.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Raha mandray ny fanambaran’olona isika, lehibe lavitra ny fanambaran’Andriamanitra; fa ny fanambaran’Andriamanitra dia ny nanambarany ny Zanany.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Izay mino ny Zanak’Andriamanitra no manana ny fanambarana ao anatiny; izay tsy mino an’Andriamanitra dia efa nampandainga Azy, satria tsy mino ny fanambaran’Andriamanitra izay nanambarany ny Zanany izy.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary izao no fanambarana: Fiainana mandrakizay no nomen’Andriamanitra antsika, ary ao amin’ny Zanany izany fiainana izany."
-    },
-    {
-      "v": 12,
-      "text": "\"Izay manana ny Zanaka no manana fiainana; izay tsy manana ny Zanak’Andriamanitra no tsy manana fiainana.\""
-    },
-    {
-      "v": 13,
-      "text": "Izany zavatra izany no nosoratako taminareo izay mino ny anaran’ny Zanak’Andriamanitra, mba ho fantatrareo fa manana fiainana mandrakizay ianareo, ary mba hinoanareo ny anaran’ny Zanak’Andriamanitra."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary izao ny fahatokiana ananantsika ao aminy: Raha mangataka zavatra araka ny sitrapony isika, dia mihaino antsika Izy;\""
-    },
-    {
-      "v": 15,
-      "text": "Ary raha fantatsika fa mihaino antsika Izy, na inona na inona no angatahintsika, dia fantatsika fa azontsika izay fangatahana irintsika aminy."
-    },
-    {
-      "v": 16,
-      "text": "\"Raha misy mahita ny rahalahiny manao ota tsy mahafaty, dia aoka hifona ho azy izy, ary Andriamanitra dia hanome azy fiainana, dia ho an’ireo nanao ota tsy mahafaty. Misy ota mahafaty; tsy mba lazaiko fa tokony hivavaka ny amin’izany izy.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ota avokoa ny tsy fahamarinana rehetra; ary misy ota tsy mahafaty.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Fantatsika fa izay rehetra naterak’Andriamanitra dia tsy manota; fa izay naterak’Andriamanitra dia miaro ny tenany, ka tsy mikasika azy akory ilay ratsy.\""
-    },
-    {
-      "v": 19,
-      "text": "Fantatsika fa avy amin’Andriamanitra isika, ary izao tontolo izao kosa dia mipetraka eo amin’ny faharatsiana."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary fantatsika fa tonga ny Zanak’Andriamanitra, ka efa nanome antsika ny fahazavan-tsaina, mba ho fantatsika Ilay marina; ary isika ao amin’Ilay marina, dia ao amin’i Jesosy Kristy Zanany. Izy no Andriamanitra marina sy fiainana mandrakizay.\""
-    },
-    {
-      "v": 21,
-      "text": "Rankizy madinika, arovy ny tenanareo amin’ny sampy. Amena."
-    }
-  ]
+  "verses": {
+    "1": "Izay rehetra mino fa Jesosy no Kristy dia naterak’Andriamanitra; ary izay rehetra tia Izay niteraka dia tia izay naterany koa.",
+    "2": "Izao no ahafantarantsika fa tia ireo zanak’Andriamanitra isika, rehefa tia an’Andriamanitra isika sady mitandrina ny didiny.",
+    "3": "Fa izao no fitiavana an’Andriamanitra, dia ny hitandremantsika ny didiny, sady tsy mavesatra ny didiny.",
+    "4": "Fa izay rehetra naterak’Andriamanitra dia maharesy izao tontolo izao; ary ny fandresena izay enti-mandresy izao tontolo izao dia ny finoantsika.",
+    "5": "Iza moa no maharesy izao tontolo izao afa-tsy izay mino fa Jesosy no Zanak’Andriamanitra?",
+    "6": "Izy ilay avy tamin’ny rano sy ny ra, dia Jesosy Kristy; tsy avy tamin’ny rano ihany, fa avy tamin’ny rano sy ny ra. Ary ny Fanahy no manambara, satria ny Fanahy no fahamarinana.",
+    "7": "Fa misy telo izay mitondra fanambarana any an-danitra, dia ny Ray, ny Teny ary ny Fanahy Masina: ary izy telo ireo dia iray.",
+    "8": "Ary misy telo izay mitondra fanambarana ety an-tany, dia ny Fanahy sy ny Rano ary ny Rà; ary mifanaraka ho iray izy telo ireo.",
+    "9": "Raha mandray ny fanambaran’olona isika, lehibe lavitra ny fanambaran’Andriamanitra; fa ny fanambaran’Andriamanitra dia ny nanambarany ny Zanany.",
+    "10": "Izay mino ny Zanak’Andriamanitra no manana ny fanambarana ao anatiny; izay tsy mino an’Andriamanitra dia efa nampandainga Azy, satria tsy mino ny fanambaran’Andriamanitra izay nanambarany ny Zanany izy.",
+    "11": "Ary izao no fanambarana: Fiainana mandrakizay no nomen’Andriamanitra antsika, ary ao amin’ny Zanany izany fiainana izany.",
+    "12": "Izay manana ny Zanaka no manana fiainana; izay tsy manana ny Zanak’Andriamanitra no tsy manana fiainana.",
+    "13": "Izany zavatra izany no nosoratako taminareo izay mino ny anaran’ny Zanak’Andriamanitra, mba ho fantatrareo fa manana fiainana mandrakizay ianareo, ary mba hinoanareo ny anaran’ny Zanak’Andriamanitra.",
+    "14": "Ary izao ny fahatokiana ananantsika ao aminy: Raha mangataka zavatra araka ny sitrapony isika, dia mihaino antsika Izy;",
+    "15": "Ary raha fantatsika fa mihaino antsika Izy, na inona na inona no angatahintsika, dia fantatsika fa azontsika izay fangatahana irintsika aminy.",
+    "16": "Raha misy mahita ny rahalahiny manao ota tsy mahafaty, dia aoka hifona ho azy izy, ary Andriamanitra dia hanome azy fiainana, dia ho an’ireo nanao ota tsy mahafaty. Misy ota mahafaty; tsy mba lazaiko fa tokony hivavaka ny amin’izany izy.",
+    "17": "Ota avokoa ny tsy fahamarinana rehetra; ary misy ota tsy mahafaty.",
+    "18": "Fantatsika fa izay rehetra naterak’Andriamanitra dia tsy manota; fa izay naterak’Andriamanitra dia miaro ny tenany, ka tsy mikasika azy akory ilay ratsy.",
+    "19": "Fantatsika fa avy amin’Andriamanitra isika, ary izao tontolo izao kosa dia mipetraka eo amin’ny faharatsiana.",
+    "20": "Ary fantatsika fa tonga ny Zanak’Andriamanitra, ka efa nanome antsika ny fahazavan-tsaina, mba ho fantatsika Ilay marina; ary isika ao amin’Ilay marina, dia ao amin’i Jesosy Kristy Zanany. Izy no Andriamanitra marina sy fiainana mandrakizay.",
+    "21": "Rankizy madinika, arovy ny tenanareo amin’ny sampy. Amena."
+  }
 }

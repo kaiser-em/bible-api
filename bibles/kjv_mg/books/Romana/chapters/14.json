@@ -1,97 +1,29 @@
 {
+  "book": "Romana",
   "chapter": 14,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary raiso ny malemy finoana, fa aza asiana fisalasalana sy fifandirana."
-    },
-    {
-      "v": 2,
-      "text": "Ny anankiray mino fa mahazo mihinana ny zavatra rehetra izy, fa ny anankiray kosa malemy finoana, ka dia mihinana zavatra maniry ihany."
-    },
-    {
-      "v": 3,
-      "text": "\"Aoka ny mihinana tsy hanamavo ny tsy mihinana; ary aoka kosa ny tsy mihinana tsy hitsara ny mihinana; fa Andriamanitra no efa nandray azy.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Iza moa ianao izay mitsara ny mpanompon’ny hafa? Amin’ny tompony ihany no ijoroany na ahalavoany. Eny, hampitoerina ihany anefa izy; fa mahay mampitoetra azy Andriamanitra.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ny anankiray manao ny andro anankiray ho mihoatra noho ny andro sasany; ary ny anankiray kosa manao ny andro rehetra ho mitovy. Aoka samy ho resy lahatra tanteraka ao amin’ny sainy avy.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Izay mitandrina ny andro dia mitandrina izany ho an’ny Tompo; ary izay tsy mitandrina ny andro, dia tsy mitandrina izany ho an’ny Tompo. Ary ny mihinana dia mihinana ho an’ny Tompo satria misaotra an’Andriamanitra izy; ary ny tsy mihinana kosa dia tsy mihinana ho an’ny Tompo, ary misaotra an' Andriamanitra izy.\""
-    },
-    {
-      "v": 7,
-      "text": "Fa tsy misy velon-ko an’ny tenany isika, ary tsy misy maty ho an’ny tenany."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa raha velona isika, dia velona ho an’ny Tompo; ary raha maty isika, dia maty ho an’ny Tompo; koa na velona na maty isika dia an’ny Tompo ihany.\""
-    },
-    {
-      "v": 9,
-      "text": "Fa izany no nahafatesan’i Kristy sy nitsanganany ary nahavelomany indray, mba ho Tompon’ny maty sy ny velona Izy."
-    },
-    {
-      "v": 10,
-      "text": "Fa nahoana ianao no mitsara ny rahalahinao? Ary nahoana ianao no manao tsinontsinona ny rahalahinao? Fa samy hiseho eo anoloan’ny seza fitsaran’i Kristy isika rehetra."
-    },
-    {
-      "v": 11,
-      "text": "Fa voasoratra hoe: Raha velona koa Aho, hoy ny Tompo, ny lohalika rehetra handohalika amiko, ary ny lela rehetra hanaiky an’Andriamanitra"
-    },
-    {
-      "v": 12,
-      "text": "Koa samy hampamoahin’Andriamanitra ny amin’ny tenany avy isika tsirairay avy."
-    },
-    {
-      "v": 13,
-      "text": "\"Koa aza mifampitsara intsony isika; fa aleo mitsara toy izao, dia ny tsy hanisy fandavoana na fanafintohinana eo amin' ny lalan’ny rahalahiny.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Fantatro sady resy lahatra ao amin’i Jesosy Tompo aho fa tsy misy zavatra maloto ho azy; fa raha misy manao zavatra ho maloto, dia aminy ihany no maloto izany.\""
-    },
-    {
-      "v": 15,
-      "text": "Fa raha mampalahelo ny rahalahinao ny fihinanao, dia tsy mba manaraka ny fitiavana ianao. Aza ny fihinanao no hanimbanao azy, fa efa maty ho azy Kristy."
-    },
-    {
-      "v": 16,
-      "text": "Aoka àry tsy mba hotenenina ratsy ny fahasoavana azonareo."
-    },
-    {
-      "v": 17,
-      "text": "Fa ny fanjakan’Andriamanitra dia tsy amin' ny fihinana sy ny fisotro, fa amin' ny fahamarinana sy fiadanana ary fifaliana ao amin’ny Fanahy Masina."
-    },
-    {
-      "v": 18,
-      "text": "Fa izay manompo an’i Kristy amin’izany zavatra izany no sitrak’Andriamanitra sy eken’ny olona fa tsara."
-    },
-    {
-      "v": 19,
-      "text": "Koa dia aoka isika hiezaka hitady ny momba ny fiadanana sy ny momba ny fifampandrosoana."
-    },
-    {
-      "v": 20,
-      "text": "Aza izay hanina no handravanao ny asan’Andriamanitra. Madio avokoa ny zavatra rehetra, nefa ratsy ho an’ny olona izay mihinana amin’ny fahatafintohinana."
-    },
-    {
-      "v": 21,
-      "text": "Fa tsara ny tsy mihinana hena, na misotro divay, na manao izay hahatafintohina, na hahalavo, na hahalemy ny rahalahinao."
-    },
-    {
-      "v": 22,
-      "text": "Manam-pinoana va ianao? Hazòny ho anao eo anatrehan’Andriamanitra izany. Sambatra izay tsy manameloka ny tenany amin’izay zavatra ekeny."
-    },
-    {
-      "v": 23,
-      "text": "\"Fa izay miahanahana dia meloka raha homana, satria tsy mihinana amin’ny finoana izy; fa ota izay rehetra tsy avy amin’ny finoana.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary raiso ny malemy finoana, fa aza asiana fisalasalana sy fifandirana.",
+    "2": "Ny anankiray mino fa mahazo mihinana ny zavatra rehetra izy, fa ny anankiray kosa malemy finoana, ka dia mihinana zavatra maniry ihany.",
+    "3": "Aoka ny mihinana tsy hanamavo ny tsy mihinana; ary aoka kosa ny tsy mihinana tsy hitsara ny mihinana; fa Andriamanitra no efa nandray azy.",
+    "4": "Iza moa ianao izay mitsara ny mpanompon’ny hafa? Amin’ny tompony ihany no ijoroany na ahalavoany. Eny, hampitoerina ihany anefa izy; fa mahay mampitoetra azy Andriamanitra.",
+    "5": "Ny anankiray manao ny andro anankiray ho mihoatra noho ny andro sasany; ary ny anankiray kosa manao ny andro rehetra ho mitovy. Aoka samy ho resy lahatra tanteraka ao amin’ny sainy avy.",
+    "6": "Izay mitandrina ny andro dia mitandrina izany ho an’ny Tompo; ary izay tsy mitandrina ny andro, dia tsy mitandrina izany ho an’ny Tompo. Ary ny mihinana dia mihinana ho an’ny Tompo satria misaotra an’Andriamanitra izy; ary ny tsy mihinana kosa dia tsy mihinana ho an’ny Tompo, ary misaotra an' Andriamanitra izy.",
+    "7": "Fa tsy misy velon-ko an’ny tenany isika, ary tsy misy maty ho an’ny tenany.",
+    "8": "Fa raha velona isika, dia velona ho an’ny Tompo; ary raha maty isika, dia maty ho an’ny Tompo; koa na velona na maty isika dia an’ny Tompo ihany.",
+    "9": "Fa izany no nahafatesan’i Kristy sy nitsanganany ary nahavelomany indray, mba ho Tompon’ny maty sy ny velona Izy.",
+    "10": "Fa nahoana ianao no mitsara ny rahalahinao? Ary nahoana ianao no manao tsinontsinona ny rahalahinao? Fa samy hiseho eo anoloan’ny seza fitsaran’i Kristy isika rehetra.",
+    "11": "Fa voasoratra hoe: Raha velona koa Aho, hoy ny Tompo, ny lohalika rehetra handohalika amiko, ary ny lela rehetra hanaiky an’Andriamanitra",
+    "12": "Koa samy hampamoahin’Andriamanitra ny amin’ny tenany avy isika tsirairay avy.",
+    "13": "Koa aza mifampitsara intsony isika; fa aleo mitsara toy izao, dia ny tsy hanisy fandavoana na fanafintohinana eo amin' ny lalan’ny rahalahiny.",
+    "14": "Fantatro sady resy lahatra ao amin’i Jesosy Tompo aho fa tsy misy zavatra maloto ho azy; fa raha misy manao zavatra ho maloto, dia aminy ihany no maloto izany.",
+    "15": "Fa raha mampalahelo ny rahalahinao ny fihinanao, dia tsy mba manaraka ny fitiavana ianao. Aza ny fihinanao no hanimbanao azy, fa efa maty ho azy Kristy.",
+    "16": "Aoka àry tsy mba hotenenina ratsy ny fahasoavana azonareo.",
+    "17": "Fa ny fanjakan’Andriamanitra dia tsy amin' ny fihinana sy ny fisotro, fa amin' ny fahamarinana sy fiadanana ary fifaliana ao amin’ny Fanahy Masina.",
+    "18": "Fa izay manompo an’i Kristy amin’izany zavatra izany no sitrak’Andriamanitra sy eken’ny olona fa tsara.",
+    "19": "Koa dia aoka isika hiezaka hitady ny momba ny fiadanana sy ny momba ny fifampandrosoana.",
+    "20": "Aza izay hanina no handravanao ny asan’Andriamanitra. Madio avokoa ny zavatra rehetra, nefa ratsy ho an’ny olona izay mihinana amin’ny fahatafintohinana.",
+    "21": "Fa tsara ny tsy mihinana hena, na misotro divay, na manao izay hahatafintohina, na hahalavo, na hahalemy ny rahalahinao.",
+    "22": "Manam-pinoana va ianao? Hazòny ho anao eo anatrehan’Andriamanitra izany. Sambatra izay tsy manameloka ny tenany amin’izay zavatra ekeny.",
+    "23": "Fa izay miahanahana dia meloka raha homana, satria tsy mihinana amin’ny finoana izy; fa ota izay rehetra tsy avy amin’ny finoana."
+  }
 }

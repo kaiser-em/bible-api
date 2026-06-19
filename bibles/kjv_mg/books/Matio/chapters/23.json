@@ -1,161 +1,45 @@
 {
+  "book": "Matio",
   "chapter": 23,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ARY tamin' izany Jesosy dia niteny tamin' ny vahoaka sy tamin' ny mpianany,"
-    },
-    {
-      "v": 2,
-      "text": "\"Nanao hoe: Eo amin' ny fipetrahan' i Mosesy no ipetrahan' ny mpanoradalàna sy ny Fariseo;\""
-    },
-    {
-      "v": 3,
-      "text": "\"Koa amin' izany, izay rehetra andidiany hataonareo dia tandremo ka ataovy; fa aza mba manao araka ny asany, satria miteny ihany izy, nefa tsy manao.\""
-    },
-    {
-      "v": 4,
-      "text": "Fa mamehy entana sady mavesatra no sarotra entina izy ka manaingina izany eo amin' ny soroky ny olona, nefa ny tenany tsy mety manetsika izany na dia amin' ny rantsan-tanany anankiray aza."
-    },
-    {
-      "v": 5,
-      "text": "\"Fa ny asany rehetra dia ataony mba ho hitan' ny olona; fa ataony lehibe ny filakiterany, ary ataony vaventy ny somotraviaviny.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary tia ny fitoerana aloha eo amin' ny fanasana izy, sy ny fipetrahana aloha ao amin' ny synagoga,"
-    },
-    {
-      "v": 7,
-      "text": "Sy ny hoarahabain' ny olona eny an-tsena ary ny hataon' ny olona hoe: Raby ô, Raby ô."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa ianareo kosa aza mba mety hatao hoe: Raby ô; fa iray ihany no Mpampianatra anareo, dia Kristy, ary ianareo rehetra dia mpirahalahy avokoa.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary aza milaza olona ety an-tany ho rainareo; fa iray ihany no Rainareo, dia Izay any an-danitra.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary aza mba mety hatao hoe mpampianatra ianareo, fa iray ihany no Mpampianatra anareo dia Kristy."
-    },
-    {
-      "v": 11,
-      "text": "Fa izay lehibe indrindra aminareo no ho mpanomponareo."
-    },
-    {
-      "v": 12,
-      "text": "\"Fa izay manandra-tena no haetry; ary izay manetry tena no hasandratra.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Fa loza ho anareo, mpanoradalàna sy Fariseo, mpihatsaravelatsihy! fa arindrinareo eo anoloan' ny olona ny fanjakan' ny lanitra; fa ianareo tsy miditra, ary izay miditra dia tsy avelanareo hiditra.\""
-    },
-    {
-      "v": 14,
-      "text": "Loza ho anareo, mpanoradalàna sy Fariseo, mpihatsaravelatsihy! fa laninareo ny tranon' ny mpitondratena, ary dia manao vavaka lavareny mba ho fisehosehoana ianareo, koa izany no hahazoanareo fahamelohana mafimafy kokoa."
-    },
-    {
-      "v": 15,
-      "text": "\"Loza ho anareo, mpanoradalàna sy Fariseo, mpihatsaravelatsihy! fa mandeha mitety ny ranomasina sy ny tany maina ianareo mba hahazoanareo na dia iray ihany aza ho prozelyta; ary rehefa azonareo izy, dia ataonareo zanaky ny helo indroa mihoatra noho ianareo aza.\""
-    },
-    {
-      "v": 16,
-      "text": "Loza ho anareo, mpitarika jamba, izay manao hoe: Raha misy mianiana amin' ny tempoly, dia tsy mampaninona izany, fa raha misy mianiana amin' ny volamena amin' ny tempoly dia mpitrosa izy!"
-    },
-    {
-      "v": 17,
-      "text": "Ry adala sy jamba! iza no lehibe kokoa, ny volamena va, sa ny tempoly izay mahamasina ny volamena?"
-    },
-    {
-      "v": 18,
-      "text": "Ary koa: Raha misy mianiana amin' ny alitara, dia tsy mampaninona izany, fa raha misy mianiana amin' ny fanatitra eo amboniny dia meloka."
-    },
-    {
-      "v": 19,
-      "text": "Ry adala sy jamba! iza no lehibe kokoa, ny fanatitra sa ny alitara izay mahamasina ny fanatitra?"
-    },
-    {
-      "v": 20,
-      "text": "Koa amin' izany, izay mianiana amin' ny alitara, dia mianiana aminy mbamin' ny zavatra rehetra izay eo amboniny."
-    },
-    {
-      "v": 21,
-      "text": "Ary izay mianiana amin' ny tempoly dia mianiana aminy mbamin' Izay mitoetra ao anatiny."
-    },
-    {
-      "v": 22,
-      "text": "Ary izay mianiana amin' ny lanitra dia mianiana amin' ny sezafiandrianan' Andriamanitra mbamin' Izay mipetraka eo amboniny."
-    },
-    {
-      "v": 23,
-      "text": "Loza ho anareo, mpanoradalàna sy Fariseo, mpihatsaravelatsihy! fa mandoa ny fahafolon' ny solila sy ny aneta ary ny komina ianareo, nefa navelanareo izay mavesa-danja amin' ny lalàna, dia ny rariny sy ny famindrampo ary ny finoana, ireto tokony ho nataonareo, nefa tsy tokony havelanareo ireroana."
-    },
-    {
-      "v": 24,
-      "text": "Ry mpitarika jamba! tantavaninareo ny moka, nefa atelinareo ny rameva."
-    },
-    {
-      "v": 25,
-      "text": "Loza ho anareo mpanoradalàna sy Fariseo, mpihatsaravelatsihy, fa diovinareo ny vohon' ny kapoaka sy ny lovia, nefa ny ao anatiny dia feno rombaka sy tsy fahononana."
-    },
-    {
-      "v": 26,
-      "text": "Ry Fariseo jamba! diovy aloha ny atin' ny kapoaka sy ny lovia, mba ho madio koa ny vohony."
-    },
-    {
-      "v": 27,
-      "text": "Loza ho anareo, mpanoradalàna sy Fariseo mpihatsaravelatsihy! fa ianareo dia tahaka ny fasana voalalotra fotsy, izay miseho tokoa ho tsara tarehy eo ivelany, nefa ny ao anatiny dia feno taolan' ny maty mbamin' ny fahalotoana rehetra."
-    },
-    {
-      "v": 28,
-      "text": "Dia tahaka izany koa ianareo, raha amin' ny eo ivelany dia miseho amin' ny olona ho marina, nefa ny ao anatinareo dia feno fihatsarambelatsihy sy heloka."
-    },
-    {
-      "v": 29,
-      "text": "Loza ho anareo, mpanoradalàna sy Fariseo mpihatsaravelatsihy! fa manao ny fasan' ny mpaminany ianareo sady manisy haingony ny fasan' ny olona marina,"
-    },
-    {
-      "v": 30,
-      "text": "Ka hoy ianareo: Raha niara-belona tamin' ny razanay izahay, dia tsy mba nikambana taminy handatsa-drà ny mpaminany."
-    },
-    {
-      "v": 31,
-      "text": "Ka dia miampanga tena ianareo fa zanak' izay namono ny mpaminany."
-    },
-    {
-      "v": 32,
-      "text": "Ary ianareo koa dia mamenoa ny famaran' ny razanareo."
-    },
-    {
-      "v": 33,
-      "text": "Ry bibilava, taranaky ny menarana, hataonareo ahoana ny fandositra ny fanamelohana ho any amin' ny helo?"
-    },
-    {
-      "v": 34,
-      "text": "\"Ary noho izany, indro Izaho maniraka mpaminany sy olon-kendry ary mpanoradalàna ho aty aminareo; koa ny sasany hovonoinareo sy hohomboanareo amin' ny hazofijaliana, ary ny sasany hokapohinareo ao amin' ny synagoganareo sy henjehinareo mitety vohitra,\""
-    },
-    {
-      "v": 35,
-      "text": "Mba hanody anareo ny rà marina rehetra izay nalatsaka tambonin' ny tany, hatramin' ny ràn' i Abela marina ka hatramin' ny ràn' i Zakaria, zanak' i Barakia, izay novonoinareo teo anelanelan' ny tempoly sy ny alitara."
-    },
-    {
-      "v": 36,
-      "text": "Lazaiko aminareo marina tokoa: Hanody ity taranaka ity izany zavatra rehetra izany."
-    },
-    {
-      "v": 37,
-      "text": "Ry Jerosalema, ry Jerosalema, izay mamono ny mpaminany sy mitora-bato izay irahina ho aminao, impiry Aho no te-hanangona ny zanakao, tahaka ny fanòmban' ny reniakoho ny zanany ao ambanin' ny elany, fa tsy nety ianareo!"
-    },
-    {
-      "v": 38,
-      "text": "Indro, avela ho lao ho anareo ny tranonareo."
-    },
-    {
-      "v": 39,
-      "text": "Fa lazaiko aminareo: Hatramin' izao dia tsy hahita Ahy tokoa ianareo mandra-pilazanareo hoe: Isaorana anie Izay avy amin' ny anaran' ny Tompo."
-    }
-  ]
+  "verses": {
+    "1": "ARY tamin' izany Jesosy dia niteny tamin' ny vahoaka sy tamin' ny mpianany,",
+    "2": "Nanao hoe: Eo amin' ny fipetrahan' i Mosesy no ipetrahan' ny mpanoradalàna sy ny Fariseo;",
+    "3": "Koa amin' izany, izay rehetra andidiany hataonareo dia tandremo ka ataovy; fa aza mba manao araka ny asany, satria miteny ihany izy, nefa tsy manao.",
+    "4": "Fa mamehy entana sady mavesatra no sarotra entina izy ka manaingina izany eo amin' ny soroky ny olona, nefa ny tenany tsy mety manetsika izany na dia amin' ny rantsan-tanany anankiray aza.",
+    "5": "Fa ny asany rehetra dia ataony mba ho hitan' ny olona; fa ataony lehibe ny filakiterany, ary ataony vaventy ny somotraviaviny.",
+    "6": "Ary tia ny fitoerana aloha eo amin' ny fanasana izy, sy ny fipetrahana aloha ao amin' ny synagoga,",
+    "7": "Sy ny hoarahabain' ny olona eny an-tsena ary ny hataon' ny olona hoe: Raby ô, Raby ô.",
+    "8": "Fa ianareo kosa aza mba mety hatao hoe: Raby ô; fa iray ihany no Mpampianatra anareo, dia Kristy, ary ianareo rehetra dia mpirahalahy avokoa.",
+    "9": "Ary aza milaza olona ety an-tany ho rainareo; fa iray ihany no Rainareo, dia Izay any an-danitra.",
+    "10": "Ary aza mba mety hatao hoe mpampianatra ianareo, fa iray ihany no Mpampianatra anareo dia Kristy.",
+    "11": "Fa izay lehibe indrindra aminareo no ho mpanomponareo.",
+    "12": "Fa izay manandra-tena no haetry; ary izay manetry tena no hasandratra.",
+    "13": "Fa loza ho anareo, mpanoradalàna sy Fariseo, mpihatsaravelatsihy! fa arindrinareo eo anoloan' ny olona ny fanjakan' ny lanitra; fa ianareo tsy miditra, ary izay miditra dia tsy avelanareo hiditra.",
+    "14": "Loza ho anareo, mpanoradalàna sy Fariseo, mpihatsaravelatsihy! fa laninareo ny tranon' ny mpitondratena, ary dia manao vavaka lavareny mba ho fisehosehoana ianareo, koa izany no hahazoanareo fahamelohana mafimafy kokoa.",
+    "15": "Loza ho anareo, mpanoradalàna sy Fariseo, mpihatsaravelatsihy! fa mandeha mitety ny ranomasina sy ny tany maina ianareo mba hahazoanareo na dia iray ihany aza ho prozelyta; ary rehefa azonareo izy, dia ataonareo zanaky ny helo indroa mihoatra noho ianareo aza.",
+    "16": "Loza ho anareo, mpitarika jamba, izay manao hoe: Raha misy mianiana amin' ny tempoly, dia tsy mampaninona izany, fa raha misy mianiana amin' ny volamena amin' ny tempoly dia mpitrosa izy!",
+    "17": "Ry adala sy jamba! iza no lehibe kokoa, ny volamena va, sa ny tempoly izay mahamasina ny volamena?",
+    "18": "Ary koa: Raha misy mianiana amin' ny alitara, dia tsy mampaninona izany, fa raha misy mianiana amin' ny fanatitra eo amboniny dia meloka.",
+    "19": "Ry adala sy jamba! iza no lehibe kokoa, ny fanatitra sa ny alitara izay mahamasina ny fanatitra?",
+    "20": "Koa amin' izany, izay mianiana amin' ny alitara, dia mianiana aminy mbamin' ny zavatra rehetra izay eo amboniny.",
+    "21": "Ary izay mianiana amin' ny tempoly dia mianiana aminy mbamin' Izay mitoetra ao anatiny.",
+    "22": "Ary izay mianiana amin' ny lanitra dia mianiana amin' ny sezafiandrianan' Andriamanitra mbamin' Izay mipetraka eo amboniny.",
+    "23": "Loza ho anareo, mpanoradalàna sy Fariseo, mpihatsaravelatsihy! fa mandoa ny fahafolon' ny solila sy ny aneta ary ny komina ianareo, nefa navelanareo izay mavesa-danja amin' ny lalàna, dia ny rariny sy ny famindrampo ary ny finoana, ireto tokony ho nataonareo, nefa tsy tokony havelanareo ireroana.",
+    "24": "Ry mpitarika jamba! tantavaninareo ny moka, nefa atelinareo ny rameva.",
+    "25": "Loza ho anareo mpanoradalàna sy Fariseo, mpihatsaravelatsihy, fa diovinareo ny vohon' ny kapoaka sy ny lovia, nefa ny ao anatiny dia feno rombaka sy tsy fahononana.",
+    "26": "Ry Fariseo jamba! diovy aloha ny atin' ny kapoaka sy ny lovia, mba ho madio koa ny vohony.",
+    "27": "Loza ho anareo, mpanoradalàna sy Fariseo mpihatsaravelatsihy! fa ianareo dia tahaka ny fasana voalalotra fotsy, izay miseho tokoa ho tsara tarehy eo ivelany, nefa ny ao anatiny dia feno taolan' ny maty mbamin' ny fahalotoana rehetra.",
+    "28": "Dia tahaka izany koa ianareo, raha amin' ny eo ivelany dia miseho amin' ny olona ho marina, nefa ny ao anatinareo dia feno fihatsarambelatsihy sy heloka.",
+    "29": "Loza ho anareo, mpanoradalàna sy Fariseo mpihatsaravelatsihy! fa manao ny fasan' ny mpaminany ianareo sady manisy haingony ny fasan' ny olona marina,",
+    "30": "Ka hoy ianareo: Raha niara-belona tamin' ny razanay izahay, dia tsy mba nikambana taminy handatsa-drà ny mpaminany.",
+    "31": "Ka dia miampanga tena ianareo fa zanak' izay namono ny mpaminany.",
+    "32": "Ary ianareo koa dia mamenoa ny famaran' ny razanareo.",
+    "33": "Ry bibilava, taranaky ny menarana, hataonareo ahoana ny fandositra ny fanamelohana ho any amin' ny helo?",
+    "34": "Ary noho izany, indro Izaho maniraka mpaminany sy olon-kendry ary mpanoradalàna ho aty aminareo; koa ny sasany hovonoinareo sy hohomboanareo amin' ny hazofijaliana, ary ny sasany hokapohinareo ao amin' ny synagoganareo sy henjehinareo mitety vohitra,",
+    "35": "Mba hanody anareo ny rà marina rehetra izay nalatsaka tambonin' ny tany, hatramin' ny ràn' i Abela marina ka hatramin' ny ràn' i Zakaria, zanak' i Barakia, izay novonoinareo teo anelanelan' ny tempoly sy ny alitara.",
+    "36": "Lazaiko aminareo marina tokoa: Hanody ity taranaka ity izany zavatra rehetra izany.",
+    "37": "Ry Jerosalema, ry Jerosalema, izay mamono ny mpaminany sy mitora-bato izay irahina ho aminao, impiry Aho no te-hanangona ny zanakao, tahaka ny fanòmban' ny reniakoho ny zanany ao ambanin' ny elany, fa tsy nety ianareo!",
+    "38": "Indro, avela ho lao ho anareo ny tranonareo.",
+    "39": "Fa lazaiko aminareo: Hatramin' izao dia tsy hahita Ahy tokoa ianareo mandra-pilazanareo hoe: Isaorana anie Izay avy amin' ny anaran' ny Tompo."
+  }
 }

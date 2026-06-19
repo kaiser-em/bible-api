@@ -1,105 +1,31 @@
 {
+  "book": "Deotornomia",
   "chapter": 23,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tsy mahazo miditra amin' ny fiangonan' i Jehovah izay torotoro vihina, na izay voatapaka ny filahiany."
-    },
-    {
-      "v": 2,
-      "text": "Ny zazasary tsy mahazo miditra amin' ny fiangonan' i Jehovah: na dia hatramin' ny taranany fahafolo mandimby aza dia tsy hahazo miditra amin' ny fiangonan' i Jehovah."
-    },
-    {
-      "v": 3,
-      "text": "\"Ny Amonita sy ny Moabita tsy mahazo miditra amin' ny fiangonan' i Jehovah; na dia hatramin' ny taranany fahafolo mandimby aza dia tsy hahazo miditra amin' ny fiangonan' i Jehovah mandrakizay;\""
-    },
-    {
-      "v": 4,
-      "text": "Satria tsy nitsena hanina sy rano anareo teny an-dalana izy, raha nivoaka avy tany Egypta ianareo, ary satria nanamby an' i Balama, zanak' i Beora, avy any Petora any Mesopotamia, hanozona anao izy."
-    },
-    {
-      "v": 5,
-      "text": "Kanefa Jehovah Andriamanitrao tsy nety nihaino an' i Balama, fa nampody ny fanozonana ho fitahiana anao Jehovah Andriamanitrao, satria notiavin' i Jehovah Andriamanitrao ianao."
-    },
-    {
-      "v": 6,
-      "text": "Aza mitady izay hiadanany, na izay hanambinana azy amin' ny andronao rehetra mandrakizay."
-    },
-    {
-      "v": 7,
-      "text": "\"Aza atao ho fahavetavetana ny Edomita fa rahalahinao izy; aza atao ho fahavetavetana ny Egyptiana, fa efa mba vahiny tany amin' ny taniny ianao.\""
-    },
-    {
-      "v": 8,
-      "text": "Ny zafiafin' ireo dia hahazo miditra amin' ny fiangonan' i Jehovah."
-    },
-    {
-      "v": 9,
-      "text": "Raha mivoaka hiady amin' ny fahavalonao ny tafikao, dia mifadia ny ratsy rehetra."
-    },
-    {
-      "v": 10,
-      "text": "Raha misy olona eo aminareo, izay tsy madio noho izay nanjo azy tamin' ny alina, dia hivoaka eny ivelan' ny toby izy, fa tsy hiditra ao anatiny."
-    },
-    {
-      "v": 11,
-      "text": "\"Fa izao no hisy rehefa hariva, dia handro amin' ny rano izy; ary nony maty masoandro, dia hiverina eo amin' ny toby indray izy.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary aoka hisy tany koa eny ivelan' ny toby ho faritra fivoahanao;\""
-    },
-    {
-      "v": 13,
-      "text": "Ary mitondrà fàntaka miaraka amin' ny fiadianao, ka izao no hisy, raha hipetraka eny ivelany ianao, dia mihadia lavaka amin' ny fàntaka, ka totofy ny fivalananao."
-    },
-    {
-      "v": 14,
-      "text": "\"Fa Jehovah Andriamanitrao mandeha eo afovoan' ny tobinao hanafaka anao sy hanolotra ny fahavalonao eo anoloanao; ka dia ho masina ny tobinao, mba tsy hahita zavatra maloto eo aminao Izy, ka hiala tsy ho aminao.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Aza atolotrao amin' ny tompony ny mpanompo izay mandositra ny tompony ho eo aminao;\""
-    },
-    {
-      "v": 16,
-      "text": "\"Eo aminao no honenany, dia eo amin' ny toerana izay hofidiny amin' ny anankiray amin' ny vavahadinao, izay tiany indrindra; aza mampahory azy.\""
-    },
-    {
-      "v": 17,
-      "text": "Aoka tsy hisy ho mpijangajanga amin' ny zanakavavin' ny Isiraely, na ho sodomita amin' ny zanakalahin' ny Isiraely."
-    },
-    {
-      "v": 18,
-      "text": "\"Aza mitondra ny tangin' ny vehivavy janga, na ny vidin' alika, ho ao an-tranon' i Jehovah Andriamanitrao hanefana voady; fa samy fahavetavetana eo imason' i Jehovah Andriamanitrao ireo zavatra roa ireo.\""
-    },
-    {
-      "v": 19,
-      "text": "Aza mampanàna zavatra amin' ny rahalahinao, na vola, na hanina, na zavatra rehetra mety hampananaina."
-    },
-    {
-      "v": 20,
-      "text": "\"Ny olona hafa firenena no hampananànao zavatra; fa ny rahalahinao kosa dia tsy hampananànao; mba hotahian' i Jehovah Andriamanitrao ianao amin' izay rehetra ataon' ny tananao eo amin' ny tany izay efa halehanao ho fanananao.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Raha mivoady amin' i Jehovah Andriamanitrao ianao, dia aza ela fanefa; fa hadinin' i Jehovah Andriamanitrao aminao tokoa izany ka ho fahotana aminao.\""
-    },
-    {
-      "v": 22,
-      "text": "Fa raha tsy mivoady ianao dia tsy fahotana aminao izany."
-    },
-    {
-      "v": 23,
-      "text": "\"Izay aloaky ny vavanao dia tandremo hotanterahinao; dia ny fanati-tsitrapo, araka izay efa nivoadinao tamin' i Jehovah Andriamanitrao, izay nampanantenainao tamin' ny vavanao.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Raha mankany amin' ny tanimboaloboky ny namanao ianao, dia mahazo manaram-po mihinam-boaloboka hahavoky anao; fa aza asiana ny fitondranao.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Raha mankany amin' ny tanimbarimbazahan’ny namanao ianao, dia mahazo mioty varimbazaha amin' ny tananao ianao; fa aza jinjaina ny varimbazahan’ny namanao.\""
-    }
-  ]
+  "verses": {
+    "1": "Tsy mahazo miditra amin' ny fiangonan' i Jehovah izay torotoro vihina, na izay voatapaka ny filahiany.",
+    "2": "Ny zazasary tsy mahazo miditra amin' ny fiangonan' i Jehovah: na dia hatramin' ny taranany fahafolo mandimby aza dia tsy hahazo miditra amin' ny fiangonan' i Jehovah.",
+    "3": "Ny Amonita sy ny Moabita tsy mahazo miditra amin' ny fiangonan' i Jehovah; na dia hatramin' ny taranany fahafolo mandimby aza dia tsy hahazo miditra amin' ny fiangonan' i Jehovah mandrakizay;",
+    "4": "Satria tsy nitsena hanina sy rano anareo teny an-dalana izy, raha nivoaka avy tany Egypta ianareo, ary satria nanamby an' i Balama, zanak' i Beora, avy any Petora any Mesopotamia, hanozona anao izy.",
+    "5": "Kanefa Jehovah Andriamanitrao tsy nety nihaino an' i Balama, fa nampody ny fanozonana ho fitahiana anao Jehovah Andriamanitrao, satria notiavin' i Jehovah Andriamanitrao ianao.",
+    "6": "Aza mitady izay hiadanany, na izay hanambinana azy amin' ny andronao rehetra mandrakizay.",
+    "7": "Aza atao ho fahavetavetana ny Edomita fa rahalahinao izy; aza atao ho fahavetavetana ny Egyptiana, fa efa mba vahiny tany amin' ny taniny ianao.",
+    "8": "Ny zafiafin' ireo dia hahazo miditra amin' ny fiangonan' i Jehovah.",
+    "9": "Raha mivoaka hiady amin' ny fahavalonao ny tafikao, dia mifadia ny ratsy rehetra.",
+    "10": "Raha misy olona eo aminareo, izay tsy madio noho izay nanjo azy tamin' ny alina, dia hivoaka eny ivelan' ny toby izy, fa tsy hiditra ao anatiny.",
+    "11": "Fa izao no hisy rehefa hariva, dia handro amin' ny rano izy; ary nony maty masoandro, dia hiverina eo amin' ny toby indray izy.",
+    "12": "Ary aoka hisy tany koa eny ivelan' ny toby ho faritra fivoahanao;",
+    "13": "Ary mitondrà fàntaka miaraka amin' ny fiadianao, ka izao no hisy, raha hipetraka eny ivelany ianao, dia mihadia lavaka amin' ny fàntaka, ka totofy ny fivalananao.",
+    "14": "Fa Jehovah Andriamanitrao mandeha eo afovoan' ny tobinao hanafaka anao sy hanolotra ny fahavalonao eo anoloanao; ka dia ho masina ny tobinao, mba tsy hahita zavatra maloto eo aminao Izy, ka hiala tsy ho aminao.",
+    "15": "Aza atolotrao amin' ny tompony ny mpanompo izay mandositra ny tompony ho eo aminao;",
+    "16": "Eo aminao no honenany, dia eo amin' ny toerana izay hofidiny amin' ny anankiray amin' ny vavahadinao, izay tiany indrindra; aza mampahory azy.",
+    "17": "Aoka tsy hisy ho mpijangajanga amin' ny zanakavavin' ny Isiraely, na ho sodomita amin' ny zanakalahin' ny Isiraely.",
+    "18": "Aza mitondra ny tangin' ny vehivavy janga, na ny vidin' alika, ho ao an-tranon' i Jehovah Andriamanitrao hanefana voady; fa samy fahavetavetana eo imason' i Jehovah Andriamanitrao ireo zavatra roa ireo.",
+    "19": "Aza mampanàna zavatra amin' ny rahalahinao, na vola, na hanina, na zavatra rehetra mety hampananaina.",
+    "20": "Ny olona hafa firenena no hampananànao zavatra; fa ny rahalahinao kosa dia tsy hampananànao; mba hotahian' i Jehovah Andriamanitrao ianao amin' izay rehetra ataon' ny tananao eo amin' ny tany izay efa halehanao ho fanananao.",
+    "21": "Raha mivoady amin' i Jehovah Andriamanitrao ianao, dia aza ela fanefa; fa hadinin' i Jehovah Andriamanitrao aminao tokoa izany ka ho fahotana aminao.",
+    "22": "Fa raha tsy mivoady ianao dia tsy fahotana aminao izany.",
+    "23": "Izay aloaky ny vavanao dia tandremo hotanterahinao; dia ny fanati-tsitrapo, araka izay efa nivoadinao tamin' i Jehovah Andriamanitrao, izay nampanantenainao tamin' ny vavanao.",
+    "24": "Raha mankany amin' ny tanimboaloboky ny namanao ianao, dia mahazo manaram-po mihinam-boaloboka hahavoky anao; fa aza asiana ny fitondranao.",
+    "25": "Raha mankany amin' ny tanimbarimbazahan’ny namanao ianao, dia mahazo mioty varimbazaha amin' ny tananao ianao; fa aza jinjaina ny varimbazahan’ny namanao."
+  }
 }

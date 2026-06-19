@@ -1,77 +1,24 @@
 {
+  "book": "1 Tesaloniana",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary farany, ry rahalahy, miangavy anareo sy mananatra anareo ao amin’i Jesosy Tompo izahay, mba ho araka ny nandraisanareo taminay izay mety handehananareo sy hampifalianareo an' Andriamanitra; dia araka ny andehananareo ihany no hitomboanareo bebe kokoa.\""
-    },
-    {
-      "v": 2,
-      "text": "Fa fantatrareo ny didy nomenay anareo avy tamin’i Jesosy Tompo."
-    },
-    {
-      "v": 3,
-      "text": "Fa izao no sitrapon’Andriamanitra, dia ny fanamasinana anareo, hifadianareo ny fahavetavetana,"
-    },
-    {
-      "v": 4,
-      "text": "Mba samy hahafantatra izay hahazoanareo ny fanaky ny tenanareo avy amin’ny fahamasinana sy ny voninahitra ianareo,"
-    },
-    {
-      "v": 5,
-      "text": "Tsy amin’ny filàna maloto tahaka ny Jentilisa izay tsy mahalala an’Andriamanitra,"
-    },
-    {
-      "v": 6,
-      "text": "\"Mba tsy hisy hanao saina hifetsy ny rahalahiny amin’izany; fa ny Tompo no mpamaly ny amin’izany zavatra rehetra izany, toy ny nolazainay sy nambaranay taminareo rahateo.\""
-    },
-    {
-      "v": 7,
-      "text": "Fa Andriamanitra tsy niantso antsika ho amin’ny fahalotoana, fa ho amin’ny fahamasinana."
-    },
-    {
-      "v": 8,
-      "text": "Koa izay mandà, dia tsy olona no laviny, fa Andriamanitra, Izay nanome antsika ny Fanahiny Masina koa."
-    },
-    {
-      "v": 9,
-      "text": "Fa ny amin’ny fifankatiavan’ny mpirahalahy, dia tsy misy tokony hosoratako aminareo, satria ny tenanareo dia ampianarin’Andriamanitra hifankatia."
-    },
-    {
-      "v": 10,
-      "text": "\"Fa manao izany ihany ianareo amin’ny rahalahy rehetra eran’i Masedonia; nefa miangavy anareo ihany izahay, ry rahalahy, mba hitombo bebe kokoa ianareo,\""
-    },
-    {
-      "v": 11,
-      "text": "Ary mba hianaranareo ny hangina sy hanao ny asanareo, ary hiasa amin’ny tananareo, araka ny nandidianay anareo,"
-    },
-    {
-      "v": 12,
-      "text": "Mba handehananareo amin’izay fitondrantena mahamendrika amin’ny eo ivelany, ary mba tsy hanan-java-mahory ianareo."
-    },
-    {
-      "v": 13,
-      "text": "Fa tsy tiako tsy ho fantatrareo, ry rahalahy, ny amin’izay modimandry, mba tsy hahalahelovanareo tahaka ny sasany izay tsy manana fanantenana."
-    },
-    {
-      "v": 14,
-      "text": "Fa raha inoantsika fa efa maty Jesosy sady efa nitsangana indray, dia toy izany koa no hitondran’Andriamanitra izay efa nodimandry tao amin’i Jesosy hiaraka aminy."
-    },
-    {
-      "v": 15,
-      "text": "\"Fa izao no lazainay aminareo amin’ny tenin’ny Tompo; isika izay velona ka mbola mitoetra mandra-piavin’ny Tompo, dia tsy mba hialoha izay efa nodimandry tsy akory.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Fa ny tenan’ny Tompo no hidina avy any an-danitra amin’ny antso mafy sy ny feon’ny arikanjely ary ny trompetran’Andriamanitra, ka izay maty ao amin’ny Tompo no hitsangana aloha;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary rehefa afaka izany, dia isika izay velona ka mbola mitoetra no hakarina hiaraka aminy ho eny amin’ny rahona hitsena ny Tompo any amin’ny habakabaka; dia ho any amin’ny Tompo mandrakariva isika.\""
-    },
-    {
-      "v": 18,
-      "text": "Koa dia mifampionòna ianareo amin’izany teny izany."
-    }
-  ]
+  "verses": {
+    "1": "Ary farany, ry rahalahy, miangavy anareo sy mananatra anareo ao amin’i Jesosy Tompo izahay, mba ho araka ny nandraisanareo taminay izay mety handehananareo sy hampifalianareo an' Andriamanitra; dia araka ny andehananareo ihany no hitomboanareo bebe kokoa.",
+    "2": "Fa fantatrareo ny didy nomenay anareo avy tamin’i Jesosy Tompo.",
+    "3": "Fa izao no sitrapon’Andriamanitra, dia ny fanamasinana anareo, hifadianareo ny fahavetavetana,",
+    "4": "Mba samy hahafantatra izay hahazoanareo ny fanaky ny tenanareo avy amin’ny fahamasinana sy ny voninahitra ianareo,",
+    "5": "Tsy amin’ny filàna maloto tahaka ny Jentilisa izay tsy mahalala an’Andriamanitra,",
+    "6": "Mba tsy hisy hanao saina hifetsy ny rahalahiny amin’izany; fa ny Tompo no mpamaly ny amin’izany zavatra rehetra izany, toy ny nolazainay sy nambaranay taminareo rahateo.",
+    "7": "Fa Andriamanitra tsy niantso antsika ho amin’ny fahalotoana, fa ho amin’ny fahamasinana.",
+    "8": "Koa izay mandà, dia tsy olona no laviny, fa Andriamanitra, Izay nanome antsika ny Fanahiny Masina koa.",
+    "9": "Fa ny amin’ny fifankatiavan’ny mpirahalahy, dia tsy misy tokony hosoratako aminareo, satria ny tenanareo dia ampianarin’Andriamanitra hifankatia.",
+    "10": "Fa manao izany ihany ianareo amin’ny rahalahy rehetra eran’i Masedonia; nefa miangavy anareo ihany izahay, ry rahalahy, mba hitombo bebe kokoa ianareo,",
+    "11": "Ary mba hianaranareo ny hangina sy hanao ny asanareo, ary hiasa amin’ny tananareo, araka ny nandidianay anareo,",
+    "12": "Mba handehananareo amin’izay fitondrantena mahamendrika amin’ny eo ivelany, ary mba tsy hanan-java-mahory ianareo.",
+    "13": "Fa tsy tiako tsy ho fantatrareo, ry rahalahy, ny amin’izay modimandry, mba tsy hahalahelovanareo tahaka ny sasany izay tsy manana fanantenana.",
+    "14": "Fa raha inoantsika fa efa maty Jesosy sady efa nitsangana indray, dia toy izany koa no hitondran’Andriamanitra izay efa nodimandry tao amin’i Jesosy hiaraka aminy.",
+    "15": "Fa izao no lazainay aminareo amin’ny tenin’ny Tompo; isika izay velona ka mbola mitoetra mandra-piavin’ny Tompo, dia tsy mba hialoha izay efa nodimandry tsy akory.",
+    "16": "Fa ny tenan’ny Tompo no hidina avy any an-danitra amin’ny antso mafy sy ny feon’ny arikanjely ary ny trompetran’Andriamanitra, ka izay maty ao amin’ny Tompo no hitsangana aloha;",
+    "17": "Ary rehefa afaka izany, dia isika izay velona ka mbola mitoetra no hakarina hiaraka aminy ho eny amin’ny rahona hitsena ny Tompo any amin’ny habakabaka; dia ho any amin’ny Tompo mandrakariva isika.",
+    "18": "Koa dia mifampionòna ianareo amin’izany teny izany."
+  }
 }

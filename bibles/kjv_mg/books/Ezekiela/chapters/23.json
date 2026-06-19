@@ -1,201 +1,55 @@
 {
+  "book": "Ezekiela",
   "chapter": 23,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary tonga tamiko indray ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Ry zanak' olona, nisy vehivavy mirahavavy iray tam-po;\""
-    },
-    {
-      "v": 3,
-      "text": "\"Nanao ny fanaon' ny janga tany Egypta izy, fony izy mbola tanora no nijangajanga; tao no nisafosafoana ny tratrany, ary tao no nitsapatsapana ny nonon' ny fahavirijinany.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ny anaran' ny zokiny dia Ohola, ary ny rahavaviny dia Oholiba; ary novadiko izy ka niteraka zazalahy sy zazavavy. Ny amin' ny anarany: Samaria no Ohola, ary Jerosalema no Oholiba.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary raha mbola vadiko Ohola, dia nijangajanga izy; maimay izy tamin' ireo lehilahiny, dia ny Asyriana mifanolotra aminy,\""
-    },
-    {
-      "v": 6,
-      "text": "Izay mitafy mangamanga, dia kapiteny sy mpanapaka, tovolahy bikana izy rehetra sady mpitaingin-tsoavaly."
-    },
-    {
-      "v": 7,
-      "text": "\"Toy izany no nanaovany ny fombany fanaon' ny janga tamin' ireny, dia tamin' izay tsara indrindra tamin' ny lehilahin' i Asyria sy tamin' izay rehetra nahamaimay azy; tamin' ny sampiny rehetra no nandotoany tena.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary ny fombany fanaon' ny janga hatrany Egypta dia tsy nafoiny; fa fony izy mbola tanora dia nandrian' ireny ary ireny no nitsapatsapa ny tratran' ny fahavirijinany sady nanaram-po nijangajanga taminy.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary noho izany dia natolotro ho eo an-tanan' ireo lehilahiny izy, dia eo an-tanan' ny Asyriana izay nahamaimay azy."
-    },
-    {
-      "v": 10,
-      "text": "\"Ireny no nampiseho ny fitanjahany; ny zanany lahy sy ny zanany vavy dia lasan' ireny, ary ny tenany novonoiny tamin' ny sabatra, ka dia tonga ambentinteny tamin' ny vehivavy izy ary efa niharan' ny fitsarana.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary nony hitan' i Oholiba rahavaviny izany, dia vao mainka nataony manoatra noho ny azy indray ny filàn-dratsiny ary ny fombany fanaon' ny janga manoatra noho ny an' ny rahavaviny."
-    },
-    {
-      "v": 12,
-      "text": "Maimay tamin' ny Asyriana mifanolotra aminy izy, dia kapiteny sy mpanapaka mareva-pitafiana, sady mpitaingin-tsoavaly, samy tovolahy bikana izy rehetra."
-    },
-    {
-      "v": 13,
-      "text": "\"Dia hitako fa efa nandoto ny tenany izy, fa lalana iray ihany no nalehan' izy mirahavavy;\""
-    },
-    {
-      "v": 14,
-      "text": "Ary mbola nampitomboiny ihany ny fombany fanaon' ny janga, fa raha nahita sariolona voasoratra teo amin' ny rindrina izy, sy ny sarin' ny Kaldeana voasoratra tamin' ny lokomena,"
-    },
-    {
-      "v": 15,
-      "text": "\"Samy nisy fehikibo nifehy teo am-balahany sy hamama voanato nisy rambony teo an-dohany; ny fijery azy rehetra dia toy ny fijery zanak'andriana, dia tahaka ny Babyloniana avy tany amin' ny tany Kaldea tany nahaterahany.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary raha vao hitan' ny masony ireny, dia maimay taminy izy ka naniraka olona ho any aminy tany Kaldea."
-    },
-    {
-      "v": 17,
-      "text": "Ary tonga tany aminy ho ao amin' ny fandriam-pitiavana ireo Babyloniana ka nandoto azy tamin' ny fombany fanaon' ny janga ary rehefa voaloton' ireny izy, dia niombotra niala tamin' ireny ny fanahiny."
-    },
-    {
-      "v": 18,
-      "text": "Koa nasehony ny fombany fanaon' ny janga ary nasehony ny fitanjahany ka dia niombotra niala taminy ny fanahiko toy ny efa niombotan' ny fanahiko niala tamin' ny rahavaviny ihany."
-    },
-    {
-      "v": 19,
-      "text": "Dia nampitombo ny fombany fanaon' ny janga ihany izy tamin' ny nahatsiarovany ny andro fahatanorany, izay nijangajangany tany amin' tany Egypta."
-    },
-    {
-      "v": 20,
-      "text": "Fa izy dia maimay tamin' ireo lehilahiny, izay manana nofo tahaka ny nofom-boriky ary ny avy aminy dia toy ny avy amin' ny soavaly."
-    },
-    {
-      "v": 21,
-      "text": "Nahatsiaro ny fijejojejoan' ny fahatanoranao ianao, dia ilay nitsapatsapan' ny Egyptiana ny nononao, satria nonon' ny fahavirijinanao ireo."
-    },
-    {
-      "v": 22,
-      "text": "Koa izao, ry Oholiba, no lazain' i Jehovah Tompo: Indro, hotairiko hamely anao ireo lehilahinao izay efa niombotan' ny fanahinao, ka hoentiko avy amin' ny tany manodidina izy mba hamely anao,"
-    },
-    {
-      "v": 23,
-      "text": "\"Dia ny Babyloniana mbamin' ny Kaldeana rehetra, Pekoda, Soa sy Koa ary ny Asyriana rehetra miaraka aminy; tovolahy bikana izy rehetra, kapiteny sy mpanapaka, andriandahy lehibe sy malaza, sady mpitaingin-tsoavaly avokoa izy rehetra.\""
-    },
-    {
-      "v": 24,
-      "text": "Ary ho avy izy hamely anao mitondra kalesy, fiara misy kodia, ary kodia mbamin' ny firenena betsaka izay hanisy ampinga lehibe sy ampinga kely sy fiarovan-doha manodidina hamelezana anao, ary hatolotro azy ny fitsarana ka hitsara anao araka ny fitsarany izy."
-    },
-    {
-      "v": 25,
-      "text": "Ary hoentiko hamely anao ny fahasaro-piaroko, ka hamely anao amin' ny fahatezerana ireny: hoesoriny ny oronao sy ny sofinao, ary izay sisa aminao dia ho lavon' ny sabatra ka ho lasan-ko babony ny zanakalahinao sy ny zanakavavinao, ary izay sisa aminao holevonin' ny afo."
-    },
-    {
-      "v": 26,
-      "text": "Ary hendahiny ny lambanao sady hoesoriny aminao ny firavakao soa."
-    },
-    {
-      "v": 27,
-      "text": "Toa izany no hampitsaharako ny fijejojejoanao, dia ny fombanareo fanaon' ny janga hatrany amin' ny tany Egypta, ka tsy handrandrainao aminy intsony ny masonao, sady tsy hotsarovanao intsony Egypta."
-    },
-    {
-      "v": 28,
-      "text": "\"Fa izao no lazain' i Jehovah Andriamanitra: indro, hatolotro eo an-tananan' izay halanao ianao, dia eo an-tanan' izay efa niombotan' ny fanahinao;\""
-    },
-    {
-      "v": 29,
-      "text": "Ary hamely anao amin' ny fankahalana izy ka hoesoriny ny vokatry ny asanao rehetra, dia hilaozany mitanjaka sy mihanjahanja ianao ary hiseho ny fitanjahan' ny fijangajanganao, dia ny fijejojejoanao sy ny fombanao fanaon' ny janga."
-    },
-    {
-      "v": 30,
-      "text": "Hataoko aminao izany zavatra izany noho ny nijangajanganao nanaraka ny jentilisa sy noho ny nandotoanao tena tamin' ny sampiny."
-    },
-    {
-      "v": 31,
-      "text": "Tamin' ny nalehan' ny rahavavinao no nalehanao ka dia hataoko eo an-tananao ny kapoakany."
-    },
-    {
-      "v": 32,
-      "text": "\"Izao no lazain' i Jehovah Andriamanitra: amin' ny kapoaky ny rahavavinao no hisotroanao, dia ilay lalina àty sady lehibe; ho fihomehezana sy ho fanakorana tsy tanty ianao.\""
-    },
-    {
-      "v": 33,
-      "text": "Ho feno fahamamoana sy alahelo ianao, mbamin' ny kapoaka fahatalanjonana sy fandringanana izay kapoak' i Samaria rahavavinao."
-    },
-    {
-      "v": 34,
-      "text": "\"Hosotroinao sy hotrohinao izy, ary hokikisanao ny vakivakiny sady handriatanao ny nononao; fa Izaho no niteny izany, hoy Jehovah Andriamanitra.\""
-    },
-    {
-      "v": 35,
-      "text": "Koa izao no lazain' i Jehovah Andriamanitra: noho ny nanadinoanao Ahy sy ny nanarianao Ahy teo ivohonao, dia mba zakaonao kosa ny fijejojejoanao sy ny fombanao fanaon' ny janga."
-    },
-    {
-      "v": 36,
-      "text": "Jehovah niteny tamiko koa hoe: Ry zanak' olona, tsy hotsarainao va Ohola sy Oholiba? Eny, ambarao aminy ny fahavetavetany."
-    },
-    {
-      "v": 37,
-      "text": "Fa efa nijangajanga izy sady misy rà eny an-tanany, eny, ny sampiny no nijangajangany ary ny zanany lahy naterany ho Ahy koa dia nampamakiny ny afo ho an' ireny mba ho levona."
-    },
-    {
-      "v": 38,
-      "text": "Izao koa no nataony tamiko: nandoto ny fitoerako masina izy tamin' izany andro izany sady nandoto ireo sabatako koa."
-    },
-    {
-      "v": 39,
-      "text": "\"Fa nony efa novonoiny ho an' ny sampiny ny zanany, dia nidirany tamin' iny andro iny ihany ny fitoerako masina ka nolotoiny; koa, he! izany no nataony teo anatin' ny tranoko.\""
-    },
-    {
-      "v": 40,
-      "text": "\"Ary koa, niantso olona avy lavitra ianareo, izay nandefasana iraka; ka indreo tonga ireo, izay efa nisasanao sy nanosoranao loko ny masonao sy niravahanao,\""
-    },
-    {
-      "v": 41,
-      "text": "Ary nipetrahanao tamin' ny farafara marevaka, sady nisy latabatra voavelatra teo anoloany, izay nametrahanao ny ditin-kazo manitro sy ny diloiloko."
-    },
-    {
-      "v": 42,
-      "text": "Ary teo aminy nisy ny feon' ny maro izay mipetraka tsy manana ahiahy, ary miaraka amin' ny ankabiazam-bahoaka dia nisy Sabeana nentina avy tany an' efitra, nisy haba teny an-tanany sy satroboninahitra tsara tarehy teny an-dohany."
-    },
-    {
-      "v": 43,
-      "text": "Dia hoy Aho ny amin' ilay efa tontan' ny fijangajangana: amin' izao va dia mbola hisy hanao ny fanaon' ny janga aminy ihany, ary ho ao aminy va ireo?"
-    },
-    {
-      "v": 44,
-      "text": "\"Kanjo mbola nankao aminy ihany ireo toy ny ankanesany ao amin' ny vehivavy janga; dia nankao amin' i Ohola sy Oholiba, vehivavy jejo ireo.\""
-    },
-    {
-      "v": 45,
-      "text": "Ary ny olona marina hitsara azy araka izay fitsarana vehivavy mpijangajanga sy vehivavy nandatsa-drà satria mpijangajanga izy sady misy rà eny an-tanany."
-    },
-    {
-      "v": 46,
-      "text": "Fa izao no lazain' i Jehovah Andriamanitra: hoentiko hamely azy ny olona maro, ka hatolotro ho mpanjenjena sy ho babo izy."
-    },
-    {
-      "v": 47,
-      "text": "\"Ary ireo olona maro ireo dia hitora-bato azy sy hitetitetika azy amin' ny sabatra; hovonoiny ny zanany lahy sy ny zanany vavy ary hodorany amin' ny afo ny tranony.\""
-    },
-    {
-      "v": 48,
-      "text": "Toy izany no hampitsaharako ny fijejojejoana tsy ho amin' ny tany, mba hahazo anatra ny vehivavy rehetra tsy hanao araka ny fijejojejoanareo."
-    },
-    {
-      "v": 49,
-      "text": "\"Ary hatsingeriny aminareo ny fahavetavetanareo ary hoentinareo ny heloka noho ny sampinareo; ka dia ho fantatrareo fa Izaho no Jehovah Andriamanitra.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary tonga tamiko indray ny tenin' i Jehovah nanao hoe:",
+    "2": "Ry zanak' olona, nisy vehivavy mirahavavy iray tam-po;",
+    "3": "Nanao ny fanaon' ny janga tany Egypta izy, fony izy mbola tanora no nijangajanga; tao no nisafosafoana ny tratrany, ary tao no nitsapatsapana ny nonon' ny fahavirijinany.",
+    "4": "Ny anaran' ny zokiny dia Ohola, ary ny rahavaviny dia Oholiba; ary novadiko izy ka niteraka zazalahy sy zazavavy. Ny amin' ny anarany: Samaria no Ohola, ary Jerosalema no Oholiba.",
+    "5": "Ary raha mbola vadiko Ohola, dia nijangajanga izy; maimay izy tamin' ireo lehilahiny, dia ny Asyriana mifanolotra aminy,",
+    "6": "Izay mitafy mangamanga, dia kapiteny sy mpanapaka, tovolahy bikana izy rehetra sady mpitaingin-tsoavaly.",
+    "7": "Toy izany no nanaovany ny fombany fanaon' ny janga tamin' ireny, dia tamin' izay tsara indrindra tamin' ny lehilahin' i Asyria sy tamin' izay rehetra nahamaimay azy; tamin' ny sampiny rehetra no nandotoany tena.",
+    "8": "Ary ny fombany fanaon' ny janga hatrany Egypta dia tsy nafoiny; fa fony izy mbola tanora dia nandrian' ireny ary ireny no nitsapatsapa ny tratran' ny fahavirijinany sady nanaram-po nijangajanga taminy.",
+    "9": "Ary noho izany dia natolotro ho eo an-tanan' ireo lehilahiny izy, dia eo an-tanan' ny Asyriana izay nahamaimay azy.",
+    "10": "Ireny no nampiseho ny fitanjahany; ny zanany lahy sy ny zanany vavy dia lasan' ireny, ary ny tenany novonoiny tamin' ny sabatra, ka dia tonga ambentinteny tamin' ny vehivavy izy ary efa niharan' ny fitsarana.",
+    "11": "Ary nony hitan' i Oholiba rahavaviny izany, dia vao mainka nataony manoatra noho ny azy indray ny filàn-dratsiny ary ny fombany fanaon' ny janga manoatra noho ny an' ny rahavaviny.",
+    "12": "Maimay tamin' ny Asyriana mifanolotra aminy izy, dia kapiteny sy mpanapaka mareva-pitafiana, sady mpitaingin-tsoavaly, samy tovolahy bikana izy rehetra.",
+    "13": "Dia hitako fa efa nandoto ny tenany izy, fa lalana iray ihany no nalehan' izy mirahavavy;",
+    "14": "Ary mbola nampitomboiny ihany ny fombany fanaon' ny janga, fa raha nahita sariolona voasoratra teo amin' ny rindrina izy, sy ny sarin' ny Kaldeana voasoratra tamin' ny lokomena,",
+    "15": "Samy nisy fehikibo nifehy teo am-balahany sy hamama voanato nisy rambony teo an-dohany; ny fijery azy rehetra dia toy ny fijery zanak'andriana, dia tahaka ny Babyloniana avy tany amin' ny tany Kaldea tany nahaterahany.",
+    "16": "Ary raha vao hitan' ny masony ireny, dia maimay taminy izy ka naniraka olona ho any aminy tany Kaldea.",
+    "17": "Ary tonga tany aminy ho ao amin' ny fandriam-pitiavana ireo Babyloniana ka nandoto azy tamin' ny fombany fanaon' ny janga ary rehefa voaloton' ireny izy, dia niombotra niala tamin' ireny ny fanahiny.",
+    "18": "Koa nasehony ny fombany fanaon' ny janga ary nasehony ny fitanjahany ka dia niombotra niala taminy ny fanahiko toy ny efa niombotan' ny fanahiko niala tamin' ny rahavaviny ihany.",
+    "19": "Dia nampitombo ny fombany fanaon' ny janga ihany izy tamin' ny nahatsiarovany ny andro fahatanorany, izay nijangajangany tany amin' tany Egypta.",
+    "20": "Fa izy dia maimay tamin' ireo lehilahiny, izay manana nofo tahaka ny nofom-boriky ary ny avy aminy dia toy ny avy amin' ny soavaly.",
+    "21": "Nahatsiaro ny fijejojejoan' ny fahatanoranao ianao, dia ilay nitsapatsapan' ny Egyptiana ny nononao, satria nonon' ny fahavirijinanao ireo.",
+    "22": "Koa izao, ry Oholiba, no lazain' i Jehovah Tompo: Indro, hotairiko hamely anao ireo lehilahinao izay efa niombotan' ny fanahinao, ka hoentiko avy amin' ny tany manodidina izy mba hamely anao,",
+    "23": "Dia ny Babyloniana mbamin' ny Kaldeana rehetra, Pekoda, Soa sy Koa ary ny Asyriana rehetra miaraka aminy; tovolahy bikana izy rehetra, kapiteny sy mpanapaka, andriandahy lehibe sy malaza, sady mpitaingin-tsoavaly avokoa izy rehetra.",
+    "24": "Ary ho avy izy hamely anao mitondra kalesy, fiara misy kodia, ary kodia mbamin' ny firenena betsaka izay hanisy ampinga lehibe sy ampinga kely sy fiarovan-doha manodidina hamelezana anao, ary hatolotro azy ny fitsarana ka hitsara anao araka ny fitsarany izy.",
+    "25": "Ary hoentiko hamely anao ny fahasaro-piaroko, ka hamely anao amin' ny fahatezerana ireny: hoesoriny ny oronao sy ny sofinao, ary izay sisa aminao dia ho lavon' ny sabatra ka ho lasan-ko babony ny zanakalahinao sy ny zanakavavinao, ary izay sisa aminao holevonin' ny afo.",
+    "26": "Ary hendahiny ny lambanao sady hoesoriny aminao ny firavakao soa.",
+    "27": "Toa izany no hampitsaharako ny fijejojejoanao, dia ny fombanareo fanaon' ny janga hatrany amin' ny tany Egypta, ka tsy handrandrainao aminy intsony ny masonao, sady tsy hotsarovanao intsony Egypta.",
+    "28": "Fa izao no lazain' i Jehovah Andriamanitra: indro, hatolotro eo an-tananan' izay halanao ianao, dia eo an-tanan' izay efa niombotan' ny fanahinao;",
+    "29": "Ary hamely anao amin' ny fankahalana izy ka hoesoriny ny vokatry ny asanao rehetra, dia hilaozany mitanjaka sy mihanjahanja ianao ary hiseho ny fitanjahan' ny fijangajanganao, dia ny fijejojejoanao sy ny fombanao fanaon' ny janga.",
+    "30": "Hataoko aminao izany zavatra izany noho ny nijangajanganao nanaraka ny jentilisa sy noho ny nandotoanao tena tamin' ny sampiny.",
+    "31": "Tamin' ny nalehan' ny rahavavinao no nalehanao ka dia hataoko eo an-tananao ny kapoakany.",
+    "32": "Izao no lazain' i Jehovah Andriamanitra: amin' ny kapoaky ny rahavavinao no hisotroanao, dia ilay lalina àty sady lehibe; ho fihomehezana sy ho fanakorana tsy tanty ianao.",
+    "33": "Ho feno fahamamoana sy alahelo ianao, mbamin' ny kapoaka fahatalanjonana sy fandringanana izay kapoak' i Samaria rahavavinao.",
+    "34": "Hosotroinao sy hotrohinao izy, ary hokikisanao ny vakivakiny sady handriatanao ny nononao; fa Izaho no niteny izany, hoy Jehovah Andriamanitra.",
+    "35": "Koa izao no lazain' i Jehovah Andriamanitra: noho ny nanadinoanao Ahy sy ny nanarianao Ahy teo ivohonao, dia mba zakaonao kosa ny fijejojejoanao sy ny fombanao fanaon' ny janga.",
+    "36": "Jehovah niteny tamiko koa hoe: Ry zanak' olona, tsy hotsarainao va Ohola sy Oholiba? Eny, ambarao aminy ny fahavetavetany.",
+    "37": "Fa efa nijangajanga izy sady misy rà eny an-tanany, eny, ny sampiny no nijangajangany ary ny zanany lahy naterany ho Ahy koa dia nampamakiny ny afo ho an' ireny mba ho levona.",
+    "38": "Izao koa no nataony tamiko: nandoto ny fitoerako masina izy tamin' izany andro izany sady nandoto ireo sabatako koa.",
+    "39": "Fa nony efa novonoiny ho an' ny sampiny ny zanany, dia nidirany tamin' iny andro iny ihany ny fitoerako masina ka nolotoiny; koa, he! izany no nataony teo anatin' ny tranoko.",
+    "40": "Ary koa, niantso olona avy lavitra ianareo, izay nandefasana iraka; ka indreo tonga ireo, izay efa nisasanao sy nanosoranao loko ny masonao sy niravahanao,",
+    "41": "Ary nipetrahanao tamin' ny farafara marevaka, sady nisy latabatra voavelatra teo anoloany, izay nametrahanao ny ditin-kazo manitro sy ny diloiloko.",
+    "42": "Ary teo aminy nisy ny feon' ny maro izay mipetraka tsy manana ahiahy, ary miaraka amin' ny ankabiazam-bahoaka dia nisy Sabeana nentina avy tany an' efitra, nisy haba teny an-tanany sy satroboninahitra tsara tarehy teny an-dohany.",
+    "43": "Dia hoy Aho ny amin' ilay efa tontan' ny fijangajangana: amin' izao va dia mbola hisy hanao ny fanaon' ny janga aminy ihany, ary ho ao aminy va ireo?",
+    "44": "Kanjo mbola nankao aminy ihany ireo toy ny ankanesany ao amin' ny vehivavy janga; dia nankao amin' i Ohola sy Oholiba, vehivavy jejo ireo.",
+    "45": "Ary ny olona marina hitsara azy araka izay fitsarana vehivavy mpijangajanga sy vehivavy nandatsa-drà satria mpijangajanga izy sady misy rà eny an-tanany.",
+    "46": "Fa izao no lazain' i Jehovah Andriamanitra: hoentiko hamely azy ny olona maro, ka hatolotro ho mpanjenjena sy ho babo izy.",
+    "47": "Ary ireo olona maro ireo dia hitora-bato azy sy hitetitetika azy amin' ny sabatra; hovonoiny ny zanany lahy sy ny zanany vavy ary hodorany amin' ny afo ny tranony.",
+    "48": "Toy izany no hampitsaharako ny fijejojejoana tsy ho amin' ny tany, mba hahazo anatra ny vehivavy rehetra tsy hanao araka ny fijejojejoanareo.",
+    "49": "Ary hatsingeriny aminareo ny fahavetavetanareo ary hoentinareo ny heloka noho ny sampinareo; ka dia ho fantatrareo fa Izaho no Jehovah Andriamanitra."
+  }
 }

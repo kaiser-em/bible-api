@@ -1,121 +1,35 @@
 {
+  "book": "Kolosiana",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Paoly Apostolin’i Jesosy Kristy noho ny sitrapon’Andriamanitra, ary Timoty rahalahintsika,"
-    },
-    {
-      "v": 2,
-      "text": "Mamangy ny olona masina any Kolosia, sy ny rahalahy mahatoky ao amin’i Kristy: Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin’Andriamanitra Raintsika sy Jesosy Kristy Tompo."
-    },
-    {
-      "v": 3,
-      "text": "Misaotra an’Andriamanitra sady Rain’i Jesosy Kristy Tompontsika izahay amin’ny fivavahanay mandrakariva ho anareo,"
-    },
-    {
-      "v": 4,
-      "text": "Rehefa renay ny finoanareo an’i Kristy Jesosy sy ny fitiavanareo ny olona masina rehetra,"
-    },
-    {
-      "v": 5,
-      "text": "Noho ny fanantenana izay tahirizina any an-danitra ho anareo, dia ilay efa renareo fahiny tamin’ny tenin’ny fahamarinan’ny filazantsara,"
-    },
-    {
-      "v": 6,
-      "text": "\"Izay efa mby eo aminareo, tahaka ny eny amin’izao tontolo izao rehetra koa, sady vokatra sy mitombo tahaka ny eo aminareo koa hatramin’ny andro nandrenesanareo sy nahalalanareo ny fahasoavan’Andriamanitra araka ny marina;\""
-    },
-    {
-      "v": 7,
-      "text": "Tahaka ny efa renareo koa tamin’i Epafra, mpanompo namanay sady malala izay mpanompon’i Kristy mahatoky ho anareo,"
-    },
-    {
-      "v": 8,
-      "text": "Sady efa nanambara taminay koa ny fitiavanareo ao amin’ny Fanahy."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary noho izany izahay koa hatramin’ny andro nandrenesanay dia tsy mitsahatra mivavaka ho anareo sady maniry mba hofenoina fahalalana tsara ny sitrapony ianareo amin’ny fahendrena sy ny fahazavan-tsaina rehetra ara-panahy;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Mba handehananareo mendrika ny Tompo, hanaovana ny sitrapony amin’ny zavatra rehetra, dia mahavokatra amin’ny asa tsara rehetra sady mitombo amin’ny fahalalana an’Andriamanitra;\""
-    },
-    {
-      "v": 11,
-      "text": "Ary ampahatanjahina amin’ny hery rehetra araka ny herin’ny voninahiny ho amin’ny faharetana rehetra sy ny fandeferana amin’ny hafaliana,"
-    },
-    {
-      "v": 12,
-      "text": "Ka misaotra ny Ray, Izay nampahamendrika antsika hanana anjara amin’ny lovan’ny olona masina eo amin’ny mazava,"
-    },
-    {
-      "v": 13,
-      "text": "Sady nanafaka antsika tamin’ny fahefan’ny maizina ka namindra antsika ho amin’ny fanjakan’ny Zanany malalany,"
-    },
-    {
-      "v": 14,
-      "text": "Izay ananantsika fanavotana noho ny rany, dia ny famelana ny heloka."
-    },
-    {
-      "v": 15,
-      "text": "\"Izy no endrik’Andriamanitra tsy hita, ny lahimatoan’ny voaforona rehetra;\""
-    },
-    {
-      "v": 16,
-      "text": "\"Fa tao aminy no nahariana ny zavatra rehetra any an-danitra sy ety ambonin’ny tany, dia ny hita sy ny tsy hita, na ny sezafiandrianana, na ny fanjakana, na fanapahana, na fahefana, Izy no nahariana ny zavatra rehetra sady ho Azy izany;\""
-    },
-    {
-      "v": 17,
-      "text": "Ary Izy no talohan’ny zavatra rehetra, sady ao aminy no aharetan’ny zavatra rehetra."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary Izy no Lohan’ny tena, dia ny fiangonana; Izy no voalohany, dia ny Lahimatoa tamin’ny maty, mba ho lohany amin’ny zavatra rehetra Izy.\""
-    },
-    {
-      "v": 19,
-      "text": "Fa sitraky ny Ray ho ao aminy no hitoeran’ny fahafenoana rehetra,"
-    },
-    {
-      "v": 20,
-      "text": "Sady Izy no hampihavanany ny zavatra rehetra aminy, ka dia ny rany teo amin’ny hazofijaliana no nanaovany fampihavanana, amin’ny alalany, hoy aho, na ny ety ambonin’ny tany, na ny any an-danitra."
-    },
-    {
-      "v": 21,
-      "text": "Ary ianareo, izay olon-ko azy fahiny sy fahavalo tamin’ny sainareo noho ny fanaovan-dratsy, no efa nampihavaniny ankehitriny"
-    },
-    {
-      "v": 22,
-      "text": "Tao amin’ny tenan’ny nofony, tamin’ny fahafatesana, mba hatolony ho masina sady tsy hanan-tsiny amam-pondro eo anatrehany,"
-    },
-    {
-      "v": 23,
-      "text": "\"Raha maharitra amin’ny finoana ianareo ka mafy orina sady tafatoetra ary tsy mety hafindra hiala amin’ny fanantenana avy amin’ny filazantsara, izay efa renareo, sady notorina tamin’ny olona rehetra tambanin’ny lanitra; ary izany no nanaovana ahy Paoly ho mpanompo.\""
-    },
-    {
-      "v": 24,
-      "text": "Ankehitriny dia mifaly amin’ny fiaretako ho anareo aho, ary mahatanteraka ao amin’ny nofoko izay tsy vita tamin’ny fahorian’i Kristy ho an’ny tenany, dia ny fiangonana,"
-    },
-    {
-      "v": 25,
-      "text": "Izay nanaovana ahy ho mpanompo araka ny fitondran’Andriamanitra nomena ahy ho anareo, hahatanteraka ny tenin’Andriamanitra,"
-    },
-    {
-      "v": 26,
-      "text": "Dia ny zava-miafina, ilay voafina hatramin’ny fahagola sy ny taranaka maro, fa voaseho ankehitriny amin’ny olony masina,"
-    },
-    {
-      "v": 27,
-      "text": "\"Izay efa tian’Andriamanitra ho nampahafantarina ny haren’ny voninahitr’ity zava-miafina ity any amin’ny Jentilisa, dia Kristy ao anatinareo, Izay fanantenana ny voninahitra;\""
-    },
-    {
-      "v": 28,
-      "text": "Izy no torinay, ka samy anarinay sy ampianarinay amin’ny fahendrena rehetra ny olona rehetra, mba samy hatolotray ho tanteraka ao amin’i Jesosy Kristy ny olona rehetra."
-    },
-    {
-      "v": 29,
-      "text": "Ary ny hahatanteraka izany no ikelezako aina koa sy iezahako fatratra araka ny fiàsan’ny herin’Ilay miasa mahery ato anatiko."
-    }
-  ]
+  "verses": {
+    "1": "Paoly Apostolin’i Jesosy Kristy noho ny sitrapon’Andriamanitra, ary Timoty rahalahintsika,",
+    "2": "Mamangy ny olona masina any Kolosia, sy ny rahalahy mahatoky ao amin’i Kristy: Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin’Andriamanitra Raintsika sy Jesosy Kristy Tompo.",
+    "3": "Misaotra an’Andriamanitra sady Rain’i Jesosy Kristy Tompontsika izahay amin’ny fivavahanay mandrakariva ho anareo,",
+    "4": "Rehefa renay ny finoanareo an’i Kristy Jesosy sy ny fitiavanareo ny olona masina rehetra,",
+    "5": "Noho ny fanantenana izay tahirizina any an-danitra ho anareo, dia ilay efa renareo fahiny tamin’ny tenin’ny fahamarinan’ny filazantsara,",
+    "6": "Izay efa mby eo aminareo, tahaka ny eny amin’izao tontolo izao rehetra koa, sady vokatra sy mitombo tahaka ny eo aminareo koa hatramin’ny andro nandrenesanareo sy nahalalanareo ny fahasoavan’Andriamanitra araka ny marina;",
+    "7": "Tahaka ny efa renareo koa tamin’i Epafra, mpanompo namanay sady malala izay mpanompon’i Kristy mahatoky ho anareo,",
+    "8": "Sady efa nanambara taminay koa ny fitiavanareo ao amin’ny Fanahy.",
+    "9": "Ary noho izany izahay koa hatramin’ny andro nandrenesanay dia tsy mitsahatra mivavaka ho anareo sady maniry mba hofenoina fahalalana tsara ny sitrapony ianareo amin’ny fahendrena sy ny fahazavan-tsaina rehetra ara-panahy;",
+    "10": "Mba handehananareo mendrika ny Tompo, hanaovana ny sitrapony amin’ny zavatra rehetra, dia mahavokatra amin’ny asa tsara rehetra sady mitombo amin’ny fahalalana an’Andriamanitra;",
+    "11": "Ary ampahatanjahina amin’ny hery rehetra araka ny herin’ny voninahiny ho amin’ny faharetana rehetra sy ny fandeferana amin’ny hafaliana,",
+    "12": "Ka misaotra ny Ray, Izay nampahamendrika antsika hanana anjara amin’ny lovan’ny olona masina eo amin’ny mazava,",
+    "13": "Sady nanafaka antsika tamin’ny fahefan’ny maizina ka namindra antsika ho amin’ny fanjakan’ny Zanany malalany,",
+    "14": "Izay ananantsika fanavotana noho ny rany, dia ny famelana ny heloka.",
+    "15": "Izy no endrik’Andriamanitra tsy hita, ny lahimatoan’ny voaforona rehetra;",
+    "16": "Fa tao aminy no nahariana ny zavatra rehetra any an-danitra sy ety ambonin’ny tany, dia ny hita sy ny tsy hita, na ny sezafiandrianana, na ny fanjakana, na fanapahana, na fahefana, Izy no nahariana ny zavatra rehetra sady ho Azy izany;",
+    "17": "Ary Izy no talohan’ny zavatra rehetra, sady ao aminy no aharetan’ny zavatra rehetra.",
+    "18": "Ary Izy no Lohan’ny tena, dia ny fiangonana; Izy no voalohany, dia ny Lahimatoa tamin’ny maty, mba ho lohany amin’ny zavatra rehetra Izy.",
+    "19": "Fa sitraky ny Ray ho ao aminy no hitoeran’ny fahafenoana rehetra,",
+    "20": "Sady Izy no hampihavanany ny zavatra rehetra aminy, ka dia ny rany teo amin’ny hazofijaliana no nanaovany fampihavanana, amin’ny alalany, hoy aho, na ny ety ambonin’ny tany, na ny any an-danitra.",
+    "21": "Ary ianareo, izay olon-ko azy fahiny sy fahavalo tamin’ny sainareo noho ny fanaovan-dratsy, no efa nampihavaniny ankehitriny",
+    "22": "Tao amin’ny tenan’ny nofony, tamin’ny fahafatesana, mba hatolony ho masina sady tsy hanan-tsiny amam-pondro eo anatrehany,",
+    "23": "Raha maharitra amin’ny finoana ianareo ka mafy orina sady tafatoetra ary tsy mety hafindra hiala amin’ny fanantenana avy amin’ny filazantsara, izay efa renareo, sady notorina tamin’ny olona rehetra tambanin’ny lanitra; ary izany no nanaovana ahy Paoly ho mpanompo.",
+    "24": "Ankehitriny dia mifaly amin’ny fiaretako ho anareo aho, ary mahatanteraka ao amin’ny nofoko izay tsy vita tamin’ny fahorian’i Kristy ho an’ny tenany, dia ny fiangonana,",
+    "25": "Izay nanaovana ahy ho mpanompo araka ny fitondran’Andriamanitra nomena ahy ho anareo, hahatanteraka ny tenin’Andriamanitra,",
+    "26": "Dia ny zava-miafina, ilay voafina hatramin’ny fahagola sy ny taranaka maro, fa voaseho ankehitriny amin’ny olony masina,",
+    "27": "Izay efa tian’Andriamanitra ho nampahafantarina ny haren’ny voninahitr’ity zava-miafina ity any amin’ny Jentilisa, dia Kristy ao anatinareo, Izay fanantenana ny voninahitra;",
+    "28": "Izy no torinay, ka samy anarinay sy ampianarinay amin’ny fahendrena rehetra ny olona rehetra, mba samy hatolotray ho tanteraka ao amin’i Jesosy Kristy ny olona rehetra.",
+    "29": "Ary ny hahatanteraka izany no ikelezako aina koa sy iezahako fatratra araka ny fiàsan’ny herin’Ilay miasa mahery ato anatiko."
+  }
 }

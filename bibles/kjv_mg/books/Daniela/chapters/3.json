@@ -1,125 +1,36 @@
 {
+  "book": "Daniela",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Nebokadnezara mpanjaka nanao sariolona volamena, enimpolo hakiho ny haavony, ary enina hakiho ny sakany; dia natsangany teo amin' ny tany lemaka Dora tamin' ny fehin' i Babylona izany.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary Nebokadnezara mpanjaka naniraka nampamory ny solo-mpanjaka sy ny governora sy ny mpanapaka sy ny andriambaventy sy ny mpitahiry ny volam-panjakana sy ny mpahay lalàna sy ny mpitsara ary ny komandy isan-tokony mba hanamasina ilay sariolona efa natsangan' i Nebokadnezara mpanjaka."
-    },
-    {
-      "v": 3,
-      "text": "Dia nivory hanamasina ny sariolona izay efa natsangan' i Nebokadnezara mpanjaka ny solo-mpanjaka sy ny governora sy ny andriambaventy sy ny mpitahiry ny volam-panjakana sy ny mpahay lalàna sy ny mpitsara ary ny komandy isan-tokony, ka dia nitsangana tandrifin' ny sariolona izay efa natsangan' i Nebokadnezara ireo."
-    },
-    {
-      "v": 4,
-      "text": "Ary nisy mpikabary niantso mafy hoe: Izao no andidiana anareo ry vahoaka, ry firenena, ry samy hafa fiteny:"
-    },
-    {
-      "v": 5,
-      "text": "\"Rehefa mandre ny fanenon' ny anjomara, ny sodina, ny harpa, ny samboka sy ny valiha sy ny symponia ary ny zava-maneno isan-karazany ianareo, dia miankohofa, ka mivavaha amin' ny sariolona volamena izay efa natsangan' i Nebokadnezara mpanjaka;\""
-    },
-    {
-      "v": 6,
-      "text": "Ary na iza na iza no tsy miankohoka sy tsy mivavaka dia hatsipy miaraka amin' izay ho ao anatin' ny lafaoro misy afo mirehitra."
-    },
-    {
-      "v": 7,
-      "text": "Koa tamin' ny fotoana nandrenesan' ny vahoaka rehetra ny fanenon' ny anjomara sy ny sodina sy ny harpa sy ny samboka sy ny valiha ary ny zava-maneno isan-karazany, dia niankohoka sy nivavaka tamin' ny sariolona volamena izay natsangan' i Nebokadnezara mpanjaka ny vahoaka rehetra sy ny firenena ary ny samy hafa fiteny rehetra."
-    },
-    {
-      "v": 8,
-      "text": "Ary tamin' izay dia nisy Kaldeana sasany nanatona ka niampanga ny Jiosy."
-    },
-    {
-      "v": 9,
-      "text": "Dia niteny izy ka nanao tamin' i Nebokadnezara mpanjaka hoe: Ry mpanjaka ô, ho velona mandrakizay anie ianao."
-    },
-    {
-      "v": 10,
-      "text": "\"Ry mpanjaka ô, ianao efa nanao lalàna fa ny olona rehetra izay handre ny fanenon' ny anjomara sy ny sodina sy ny harpa sy ny samboka sy ny valiha sy ny symponia ary ny zava-maneno isan-karazany dia hiankohoka hivavaka amin' ny sariolona volamena;\""
-    },
-    {
-      "v": 11,
-      "text": "Fa izay tsy miankohoka sy tsy mivavaka kosa dia hatsipy ao anatin' ny lafaoro misy afo mirehitra."
-    },
-    {
-      "v": 12,
-      "text": "\"Koa misy Jiosy sasany izay nataonao ho tonian' ny raharaha amin' i Babylona sy ny fehiny, dia Sadraka sy Mesaka ary Abednego; ireo lehilahy ireo tsy mba manaiky ny teninao akory, ry mpanjaka ô: tsy mba manompo ny andriamanitrao izy, na mivavaka amin' ny sariolona volamena izay efa natsanganao.\""
-    },
-    {
-      "v": 13,
-      "text": "Dia nandidy tamin' ny fahavinirana sy ny fahatezerana Nebokadnezara, ka nasainy nalaina Sadraka sy Mesaka ary Abednego.Dia nentiny teo anatrehan' ny mpanjaka ireo lehilahy ireo."
-    },
-    {
-      "v": 14,
-      "text": "Dia niteny Nebokadnezara ka nanao taminy hoe: Marina ve, ry Sadraka sy Mesaka ary Abednego fa tsy manompo ny andriamanitro ianareo, ary tsy mivavaka amin' ny sariolona volamena izay natsangako?"
-    },
-    {
-      "v": 15,
-      "text": "\"Ankehitriny raha miomana ianareo amin' ny fotoana izay handrenesanareo ny fanenon' ny anjomara sy ny sodina sy ny harpa sy ny sobaba sy ny valiha sy ny symponia ary ny zava-maneno isan-karazany ka miankohoka sy mivavaka amin' ny sariolona izay nataoko dia tsara izany; fa raha tsy mety mivavaka kosa ianareo, dia hatsipy miaraka amin' izay ho ao anatin' ny lafaoro misy afo mirehitra; ary iza moa izany Andriamanitra hahavonjy anareo amin' ny tanako izany?\""
-    },
-    {
-      "v": 16,
-      "text": "Dia namaly Sadraka sy Mesaka ary Abednego ka nanao tamin' ny mpanjaka hoe: Ry Nebokadnezara, tsy misy antony tokony hamalianay anao akory ny amin' izany zavatra izany."
-    },
-    {
-      "v": 17,
-      "text": "Fa raha izany no izy, Andriamanitray izay tompoinay dia mahavonjy anay amin' ny lafaoro misy afo mirehitra sady hamonjy anay amin' ny tananao, ry mpanjaka ô."
-    },
-    {
-      "v": 18,
-      "text": "Ary na dia tsy izany aza, aoka ho fantatrao, ry mpanjaka ô, fa ny andriamanitrao dia tsy hotompoinay, ary ny sariolona volamena efa natsanganao dia tsy hivavahanay."
-    },
-    {
-      "v": 19,
-      "text": "Dia feno fahatezerana Nebokadnezara, ka niova ny tarehiny tamin' i Sadraka sy Mesaka ary Abednego, dia niteny izy ka nasainy nafanaina ho impito mihoatra noho ny famana azy ny lafaoro."
-    },
-    {
-      "v": 20,
-      "text": "Ary izay lehilahy matanjaka indrindra tamin' ny miaramilany no nasainy namatotra an' i Sadraka sy Mesaka ary Abednego sy nanipy azy tao anatin' ny lafaoro nisy afo mirehitra."
-    },
-    {
-      "v": 21,
-      "text": "Dia nafatotra ireo lehilahy ireo, nefa mbola teny aminy ihany ny akanjony, ny ba-tongony, ny satrony, mbamin' ny fitafiany hafa koa, dia natsipy tao anatin' ny lafaoro misy afo mirehitra."
-    },
-    {
-      "v": 22,
-      "text": "Ary satria mafy ny didin' ny mpanjaka, ka natao mahamay indrindra ny lafaoro, dia matin' ny lelafo ireny lehilahy izay nanipy an' i Sadraka sy Mesaka sy Abednego."
-    },
-    {
-      "v": 23,
-      "text": "Ary izy telo lahy ireo, Sadraka sy Mesaka sy Abednego, dia voatsipy am-patorana teo anatin' ny lafaoro nisy afo mirehitra."
-    },
-    {
-      "v": 24,
-      "text": "Dia talanjona Nebokadnezara mpanjaka ary nitsangana faingana izy ka niteny tamin' ny mpanolo-tsainy hoe: Moa tsy telo lahy mifatotra va no natsipintsika tao anatin' ny afo? Dia namaly ny mpanjaka ireo ka nanao hoe: Marina izany, ry mpanjaka ô."
-    },
-    {
-      "v": 25,
-      "text": "\"Ary namaly izy ka nanao hoe: Indro aho mahita efa-dahy tsy mifatotra, mandehandeha ao anaty afo, nefa tsy maninona tsy maninona akory izy; ary ny fijery ilay fahefatra dia toy Ilay Zanak' Andriamanitra.\""
-    },
-    {
-      "v": 26,
-      "text": "Dia nanatona ny varavaran' ny lafaoro nisy afo mirehitra Nebokadnezara ka niantso hoe: Ry Sadraka sy Mesaka sy Abednego, mpanompon' Andriamanitra Avo Indrindra, mivoaha, ka avia aty.Dia nivoaka avy tao anatin' ny afo Sadraka sy Mesaka ary Abednego."
-    },
-    {
-      "v": 27,
-      "text": "Dia nifanatona ny solo-mpanjaka sy ny governora sy ny kapiteny sy ny mpanolo-tsain' ny mpanjaka ka nahita ireo lehilahy ireo, fa tsy nanan-kery hampaninona ny tenany akory ny afo na nisy singam-bolo nikainkona tamin' ny lohany, na niova ny akanjony, ary tsy nisy fofon' afo akory nandalo taminy."
-    },
-    {
-      "v": 28,
-      "text": "Dia niteny Nebokadnezara ka nanao hoe: Isaorana anie Andriamanitr' i Sadraka sy Mesaka sy Abednego, Izay naniraka ny anjeliny hamonjy ny mpanompony izay natoky Azy ka nandika ny tenin' ny mpanjaka ary nanolotra ny tenany tsy hanompo na hivavaka amin' izay andriamani-kafa afa-tsy Andriamaniny ihany."
-    },
-    {
-      "v": 29,
-      "text": "\"Koa dia manao lalàna aho fa ny vahoaka sy ny firenena ary ny samy hafa fiteny rehetra izay manao teny tsy mety ny amin' Andriamanitr' i Sadraka sy Mesaka sy Abednego dia hotetitetehina ary hatao trano fivoahana ny tranony; fa tsy misy Andriamanitra hafa mahavonjy tahaka izao.\""
-    },
-    {
-      "v": 30,
-      "text": "Ary Sadraka sy Mesaka sy Abednego dia nasandratry ny mpanjaka tao amin' ny faritanin' i Babylona."
-    }
-  ]
+  "verses": {
+    "1": "Nebokadnezara mpanjaka nanao sariolona volamena, enimpolo hakiho ny haavony, ary enina hakiho ny sakany; dia natsangany teo amin' ny tany lemaka Dora tamin' ny fehin' i Babylona izany.",
+    "2": "Ary Nebokadnezara mpanjaka naniraka nampamory ny solo-mpanjaka sy ny governora sy ny mpanapaka sy ny andriambaventy sy ny mpitahiry ny volam-panjakana sy ny mpahay lalàna sy ny mpitsara ary ny komandy isan-tokony mba hanamasina ilay sariolona efa natsangan' i Nebokadnezara mpanjaka.",
+    "3": "Dia nivory hanamasina ny sariolona izay efa natsangan' i Nebokadnezara mpanjaka ny solo-mpanjaka sy ny governora sy ny andriambaventy sy ny mpitahiry ny volam-panjakana sy ny mpahay lalàna sy ny mpitsara ary ny komandy isan-tokony, ka dia nitsangana tandrifin' ny sariolona izay efa natsangan' i Nebokadnezara ireo.",
+    "4": "Ary nisy mpikabary niantso mafy hoe: Izao no andidiana anareo ry vahoaka, ry firenena, ry samy hafa fiteny:",
+    "5": "Rehefa mandre ny fanenon' ny anjomara, ny sodina, ny harpa, ny samboka sy ny valiha sy ny symponia ary ny zava-maneno isan-karazany ianareo, dia miankohofa, ka mivavaha amin' ny sariolona volamena izay efa natsangan' i Nebokadnezara mpanjaka;",
+    "6": "Ary na iza na iza no tsy miankohoka sy tsy mivavaka dia hatsipy miaraka amin' izay ho ao anatin' ny lafaoro misy afo mirehitra.",
+    "7": "Koa tamin' ny fotoana nandrenesan' ny vahoaka rehetra ny fanenon' ny anjomara sy ny sodina sy ny harpa sy ny samboka sy ny valiha ary ny zava-maneno isan-karazany, dia niankohoka sy nivavaka tamin' ny sariolona volamena izay natsangan' i Nebokadnezara mpanjaka ny vahoaka rehetra sy ny firenena ary ny samy hafa fiteny rehetra.",
+    "8": "Ary tamin' izay dia nisy Kaldeana sasany nanatona ka niampanga ny Jiosy.",
+    "9": "Dia niteny izy ka nanao tamin' i Nebokadnezara mpanjaka hoe: Ry mpanjaka ô, ho velona mandrakizay anie ianao.",
+    "10": "Ry mpanjaka ô, ianao efa nanao lalàna fa ny olona rehetra izay handre ny fanenon' ny anjomara sy ny sodina sy ny harpa sy ny samboka sy ny valiha sy ny symponia ary ny zava-maneno isan-karazany dia hiankohoka hivavaka amin' ny sariolona volamena;",
+    "11": "Fa izay tsy miankohoka sy tsy mivavaka kosa dia hatsipy ao anatin' ny lafaoro misy afo mirehitra.",
+    "12": "Koa misy Jiosy sasany izay nataonao ho tonian' ny raharaha amin' i Babylona sy ny fehiny, dia Sadraka sy Mesaka ary Abednego; ireo lehilahy ireo tsy mba manaiky ny teninao akory, ry mpanjaka ô: tsy mba manompo ny andriamanitrao izy, na mivavaka amin' ny sariolona volamena izay efa natsanganao.",
+    "13": "Dia nandidy tamin' ny fahavinirana sy ny fahatezerana Nebokadnezara, ka nasainy nalaina Sadraka sy Mesaka ary Abednego.Dia nentiny teo anatrehan' ny mpanjaka ireo lehilahy ireo.",
+    "14": "Dia niteny Nebokadnezara ka nanao taminy hoe: Marina ve, ry Sadraka sy Mesaka ary Abednego fa tsy manompo ny andriamanitro ianareo, ary tsy mivavaka amin' ny sariolona volamena izay natsangako?",
+    "15": "Ankehitriny raha miomana ianareo amin' ny fotoana izay handrenesanareo ny fanenon' ny anjomara sy ny sodina sy ny harpa sy ny sobaba sy ny valiha sy ny symponia ary ny zava-maneno isan-karazany ka miankohoka sy mivavaka amin' ny sariolona izay nataoko dia tsara izany; fa raha tsy mety mivavaka kosa ianareo, dia hatsipy miaraka amin' izay ho ao anatin' ny lafaoro misy afo mirehitra; ary iza moa izany Andriamanitra hahavonjy anareo amin' ny tanako izany?",
+    "16": "Dia namaly Sadraka sy Mesaka ary Abednego ka nanao tamin' ny mpanjaka hoe: Ry Nebokadnezara, tsy misy antony tokony hamalianay anao akory ny amin' izany zavatra izany.",
+    "17": "Fa raha izany no izy, Andriamanitray izay tompoinay dia mahavonjy anay amin' ny lafaoro misy afo mirehitra sady hamonjy anay amin' ny tananao, ry mpanjaka ô.",
+    "18": "Ary na dia tsy izany aza, aoka ho fantatrao, ry mpanjaka ô, fa ny andriamanitrao dia tsy hotompoinay, ary ny sariolona volamena efa natsanganao dia tsy hivavahanay.",
+    "19": "Dia feno fahatezerana Nebokadnezara, ka niova ny tarehiny tamin' i Sadraka sy Mesaka ary Abednego, dia niteny izy ka nasainy nafanaina ho impito mihoatra noho ny famana azy ny lafaoro.",
+    "20": "Ary izay lehilahy matanjaka indrindra tamin' ny miaramilany no nasainy namatotra an' i Sadraka sy Mesaka ary Abednego sy nanipy azy tao anatin' ny lafaoro nisy afo mirehitra.",
+    "21": "Dia nafatotra ireo lehilahy ireo, nefa mbola teny aminy ihany ny akanjony, ny ba-tongony, ny satrony, mbamin' ny fitafiany hafa koa, dia natsipy tao anatin' ny lafaoro misy afo mirehitra.",
+    "22": "Ary satria mafy ny didin' ny mpanjaka, ka natao mahamay indrindra ny lafaoro, dia matin' ny lelafo ireny lehilahy izay nanipy an' i Sadraka sy Mesaka sy Abednego.",
+    "23": "Ary izy telo lahy ireo, Sadraka sy Mesaka sy Abednego, dia voatsipy am-patorana teo anatin' ny lafaoro nisy afo mirehitra.",
+    "24": "Dia talanjona Nebokadnezara mpanjaka ary nitsangana faingana izy ka niteny tamin' ny mpanolo-tsainy hoe: Moa tsy telo lahy mifatotra va no natsipintsika tao anatin' ny afo? Dia namaly ny mpanjaka ireo ka nanao hoe: Marina izany, ry mpanjaka ô.",
+    "25": "Ary namaly izy ka nanao hoe: Indro aho mahita efa-dahy tsy mifatotra, mandehandeha ao anaty afo, nefa tsy maninona tsy maninona akory izy; ary ny fijery ilay fahefatra dia toy Ilay Zanak' Andriamanitra.",
+    "26": "Dia nanatona ny varavaran' ny lafaoro nisy afo mirehitra Nebokadnezara ka niantso hoe: Ry Sadraka sy Mesaka sy Abednego, mpanompon' Andriamanitra Avo Indrindra, mivoaha, ka avia aty.Dia nivoaka avy tao anatin' ny afo Sadraka sy Mesaka ary Abednego.",
+    "27": "Dia nifanatona ny solo-mpanjaka sy ny governora sy ny kapiteny sy ny mpanolo-tsain' ny mpanjaka ka nahita ireo lehilahy ireo, fa tsy nanan-kery hampaninona ny tenany akory ny afo na nisy singam-bolo nikainkona tamin' ny lohany, na niova ny akanjony, ary tsy nisy fofon' afo akory nandalo taminy.",
+    "28": "Dia niteny Nebokadnezara ka nanao hoe: Isaorana anie Andriamanitr' i Sadraka sy Mesaka sy Abednego, Izay naniraka ny anjeliny hamonjy ny mpanompony izay natoky Azy ka nandika ny tenin' ny mpanjaka ary nanolotra ny tenany tsy hanompo na hivavaka amin' izay andriamani-kafa afa-tsy Andriamaniny ihany.",
+    "29": "Koa dia manao lalàna aho fa ny vahoaka sy ny firenena ary ny samy hafa fiteny rehetra izay manao teny tsy mety ny amin' Andriamanitr' i Sadraka sy Mesaka sy Abednego dia hotetitetehina ary hatao trano fivoahana ny tranony; fa tsy misy Andriamanitra hafa mahavonjy tahaka izao.",
+    "30": "Ary Sadraka sy Mesaka sy Abednego dia nasandratry ny mpanjaka tao amin' ny faritanin' i Babylona."
+  }
 }

@@ -1,113 +1,33 @@
 {
+  "book": "Romana",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Foiby anabavintsika, mpanompon’ny fiangonana aty Kenkrea, dia atolotro anareo;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Mba horaisinareo ao amin’ny Tompo izy, toy izay mendrika ny olona masina, ary mba ampianareo izy amin’ny raharaha ilany anareo; fa izy dia niahy ny maro mbamin’ny tenako koa.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Veloma amin’i Prisila sy Akoila, mpanampy ahy ao amin’i Kristy Jesosy;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Izy ireo dia nanolotra ny tendany hamonjy ny aiko; nefa tsy izaho ihany no misaotra azy ireo, fa ny fiangonana any amin’ny Jentilisa rehetra koa.\""
-    },
-    {
-      "v": 5,
-      "text": "Toy izany koa, manaova veloma amin’ny fiangonana izay ao an-tranony. Veloma amin' i Epaineto malalako, izay voaloham-bokatr' i Akaia ho an' i Kristy."
-    },
-    {
-      "v": 6,
-      "text": "Veloma amin’i Maria izay nikely aina fatratra ho antsika."
-    },
-    {
-      "v": 7,
-      "text": "Veloma amin’i Androniko sy Jonia, havako sy namako niara-nifatotra tamiko, izay malaza eo amin’ny apostoly sady tao amin’i Kristy talohako koa."
-    },
-    {
-      "v": 8,
-      "text": "Veloma amin’i Ampliato malalako ao amin’ny Tompo."
-    },
-    {
-      "v": 9,
-      "text": "Veloma amin’i Orbano, mpanampy anay ao amin’i Kristy sy Staky malalako."
-    },
-    {
-      "v": 10,
-      "text": "Veloma amin’i Apela, ilay voazaha toetra ao amin’i Kristy. Veloma amin’ny ankohonan' i Aristobolo."
-    },
-    {
-      "v": 11,
-      "text": "Veloma amin’i Herodiona havako. Veloma amin’ny ankohonan' i Narkisa, izay ao amin’ny Tompo."
-    },
-    {
-      "v": 12,
-      "text": "Veloma amin’i Tryfena sy Tryfosa izay mikely aina ao amin’ny Tompo. Veloma amin’i Persy malala, izay nikely aina fatratra tao amin’ny Tompo."
-    },
-    {
-      "v": 13,
-      "text": "Veloma amin’i Rofosy, ilay voafidy ao amin’ny Tompo, ary amin’ny reniny sy reniko."
-    },
-    {
-      "v": 14,
-      "text": "Veloma amin’i Asynkrito, Flegona, Herma, Patroba, hermesy, mbamin’ny rahalahy ao aminy."
-    },
-    {
-      "v": 15,
-      "text": "Veloma amin’i Filologo sy Jolia, Nerea sy ny anabaviny sy Olympa ary ny olona masina rehetra izay ao aminy."
-    },
-    {
-      "v": 16,
-      "text": "Mifanaova veloma amin’ny fanorohana masina. Ny fiangonana rehetra an’i Kristy manao veloma anareo."
-    },
-    {
-      "v": 17,
-      "text": "\"Fa miangavy anareo aho, ry rahalahy, mariho izay mahatonga ny fisarahana sy ny fahatafintohinana tsy araka ny foto-pampianarana efa nianaranareo; ka mialà amin’ireny.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Fa tsy mba manompo an’i Jesosy Kristy Tompontsika izy ireny, fa ny kibony ihany; ary teny malefaka sady tsara lahatra no amitahany ny fon’ny kely saina.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Fa efa niely any amin’ny olona rehetra ny lazan’ny fankatoavanareo. Ary faly aho noho ny aminareo; satria tiako ho hendry amin’izay tsara ianareo ary ho bodo amin’izay ratsy.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary Andriamanitry ny fiadanana hanorotoro an’i Satana faingana eo ambanin’ny tongotrareo. Ho aminareo anie ny fahasoavan’i Jesosy Kristy Tompontsika. Amena."
-    },
-    {
-      "v": 21,
-      "text": "Manao veloma anareo Timoty, mpiara-miasa amiko, sy Losio sy Jasona ary Sosipatro havako."
-    },
-    {
-      "v": 22,
-      "text": "Izaho Tertio, izay manoratra ity epistily ity, manao veloma anareo ao amin' ny Tompo."
-    },
-    {
-      "v": 23,
-      "text": "Gaio, ilay itoerako sy ny fiangonana rehetra, manao veloma anareo. Erasto, mpitahiry ny volam-panjakana ato an-tanàna sy Koarto rahalahy manao veloma anareo."
-    },
-    {
-      "v": 24,
-      "text": "Ho aminareo rehetra anie ny fahasoavan’i Jesosy Kristy Tompontsika. Amena."
-    },
-    {
-      "v": 25,
-      "text": "Ary ho an’izay manan-kery hampiorina anareo araka ny filazantsarako sy ny fitoriana an’i Jesosy Kristy, araka ny fanambarana ny zava-miafina, izay voafina hatramin’ny niandohan’izao tontolo izao,"
-    },
-    {
-      "v": 26,
-      "text": "Fa efa naseho ankehitriny tamin’izay soratry ny mpaminany, araka ny didin’Andriamanitra mandrakizay ka nampahafantarina any amin’ny firenena rehetra hahatonga fanekena ny finoana,"
-    },
-    {
-      "v": 27,
-      "text": "Ho an’Andriamanitra tokana ihany sady hendry anie ny voninahitra mandrakizay amin’ny alalan’i Jesosy Kristy. Amena.(Nosoratana tany Korinto, ho an’ny Romana ary nalefan’i Foiby mpanompon’ny fiangonana tany Kenkrea)."
-    }
-  ]
+  "verses": {
+    "1": "Foiby anabavintsika, mpanompon’ny fiangonana aty Kenkrea, dia atolotro anareo;",
+    "2": "Mba horaisinareo ao amin’ny Tompo izy, toy izay mendrika ny olona masina, ary mba ampianareo izy amin’ny raharaha ilany anareo; fa izy dia niahy ny maro mbamin’ny tenako koa.",
+    "3": "Veloma amin’i Prisila sy Akoila, mpanampy ahy ao amin’i Kristy Jesosy;",
+    "4": "Izy ireo dia nanolotra ny tendany hamonjy ny aiko; nefa tsy izaho ihany no misaotra azy ireo, fa ny fiangonana any amin’ny Jentilisa rehetra koa.",
+    "5": "Toy izany koa, manaova veloma amin’ny fiangonana izay ao an-tranony. Veloma amin' i Epaineto malalako, izay voaloham-bokatr' i Akaia ho an' i Kristy.",
+    "6": "Veloma amin’i Maria izay nikely aina fatratra ho antsika.",
+    "7": "Veloma amin’i Androniko sy Jonia, havako sy namako niara-nifatotra tamiko, izay malaza eo amin’ny apostoly sady tao amin’i Kristy talohako koa.",
+    "8": "Veloma amin’i Ampliato malalako ao amin’ny Tompo.",
+    "9": "Veloma amin’i Orbano, mpanampy anay ao amin’i Kristy sy Staky malalako.",
+    "10": "Veloma amin’i Apela, ilay voazaha toetra ao amin’i Kristy. Veloma amin’ny ankohonan' i Aristobolo.",
+    "11": "Veloma amin’i Herodiona havako. Veloma amin’ny ankohonan' i Narkisa, izay ao amin’ny Tompo.",
+    "12": "Veloma amin’i Tryfena sy Tryfosa izay mikely aina ao amin’ny Tompo. Veloma amin’i Persy malala, izay nikely aina fatratra tao amin’ny Tompo.",
+    "13": "Veloma amin’i Rofosy, ilay voafidy ao amin’ny Tompo, ary amin’ny reniny sy reniko.",
+    "14": "Veloma amin’i Asynkrito, Flegona, Herma, Patroba, hermesy, mbamin’ny rahalahy ao aminy.",
+    "15": "Veloma amin’i Filologo sy Jolia, Nerea sy ny anabaviny sy Olympa ary ny olona masina rehetra izay ao aminy.",
+    "16": "Mifanaova veloma amin’ny fanorohana masina. Ny fiangonana rehetra an’i Kristy manao veloma anareo.",
+    "17": "Fa miangavy anareo aho, ry rahalahy, mariho izay mahatonga ny fisarahana sy ny fahatafintohinana tsy araka ny foto-pampianarana efa nianaranareo; ka mialà amin’ireny.",
+    "18": "Fa tsy mba manompo an’i Jesosy Kristy Tompontsika izy ireny, fa ny kibony ihany; ary teny malefaka sady tsara lahatra no amitahany ny fon’ny kely saina.",
+    "19": "Fa efa niely any amin’ny olona rehetra ny lazan’ny fankatoavanareo. Ary faly aho noho ny aminareo; satria tiako ho hendry amin’izay tsara ianareo ary ho bodo amin’izay ratsy.",
+    "20": "Ary Andriamanitry ny fiadanana hanorotoro an’i Satana faingana eo ambanin’ny tongotrareo. Ho aminareo anie ny fahasoavan’i Jesosy Kristy Tompontsika. Amena.",
+    "21": "Manao veloma anareo Timoty, mpiara-miasa amiko, sy Losio sy Jasona ary Sosipatro havako.",
+    "22": "Izaho Tertio, izay manoratra ity epistily ity, manao veloma anareo ao amin' ny Tompo.",
+    "23": "Gaio, ilay itoerako sy ny fiangonana rehetra, manao veloma anareo. Erasto, mpitahiry ny volam-panjakana ato an-tanàna sy Koarto rahalahy manao veloma anareo.",
+    "24": "Ho aminareo rehetra anie ny fahasoavan’i Jesosy Kristy Tompontsika. Amena.",
+    "25": "Ary ho an’izay manan-kery hampiorina anareo araka ny filazantsarako sy ny fitoriana an’i Jesosy Kristy, araka ny fanambarana ny zava-miafina, izay voafina hatramin’ny niandohan’izao tontolo izao,",
+    "26": "Fa efa naseho ankehitriny tamin’izay soratry ny mpaminany, araka ny didin’Andriamanitra mandrakizay ka nampahafantarina any amin’ny firenena rehetra hahatonga fanekena ny finoana,",
+    "27": "Ho an’Andriamanitra tokana ihany sady hendry anie ny voninahitra mandrakizay amin’ny alalan’i Jesosy Kristy. Amena.(Nosoratana tany Korinto, ho an’ny Romana ary nalefan’i Foiby mpanompon’ny fiangonana tany Kenkrea)."
+  }
 }

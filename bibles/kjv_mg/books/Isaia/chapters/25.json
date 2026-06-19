@@ -1,53 +1,18 @@
 {
+  "book": "Isaia",
   "chapter": 25,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Jehovah ô, Ianao no Andriamanitro, hanandratra anao sy hidera ny anaranao aho, fa efa nanao zava-mahagaga Ianao; ny tolo-tsainao efa voakasa hatramin' ny ela dia mahatoky sy marina.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Fa nataonao korontam-bato ny tanàna; ny tanàna mimanda dia rava tokoa; ny lapan' ny vahiny dia nataonao tsy vanon-ko tanàna; tsy haorina mandrakizay izany.\""
-    },
-    {
-      "v": 3,
-      "text": "Ka dia hankalaza Anao ny firenena mahery, hatahotra Anao ny tanànan' ny firenena lozabe."
-    },
-    {
-      "v": 4,
-      "text": "\"Fa hery ho an' ny mahantra Ianao; tanjaka ho an' ny sahirana ao amin' ny fahoriany, fierena amin' ny ranonoram-baratra, fialokalofana amin' ny hainandro, rehefa toy ny tafiotra mahery mamely ny ampiantany ny rivotry ny mahery.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Tahaka ny fandresinao ny hainandro izay mamely ny tany karankaina no andresenao ny fitabataban' ny firenena hafa; eny, tahaka ny amin' ny hainandro resin' ny aloky ny rahona matevina no andresena ny fanakoran' ny olon-dozabe.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary Jehovah, Tompon' ny maro, dia hanao fanasana ho an' ny firenena rehetra eto amin' ity tendrombohitra ity, dia fanasana amin' ny zavatra matavy, fanasana amin' ny divay efa niotrika ela, zavatra matavy be tsoka, divay efa niotrika ela sady voadio."
-    },
-    {
-      "v": 7,
-      "text": "Ary hofoanany eto amin' ity tendrombohitra ity ny sarona izay manarona ny olona rehetra sy ny rakotra arakotra ny firenena rehetra."
-    },
-    {
-      "v": 8,
-      "text": "\"Hofoanany amin' ny fandresena ny fahafatesana; ary Jehovah Tompo hamafa ny ranomaso amin' ny tava rehetra sady hanafa-tondromaso ny olony eny amin' ny tany rehetra; fa Jehovah no efa niteny izany.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary holazaina amin' izany andro izany hoe: Indro Andriamanitsika, Izay nandrasantsika hamonjy antsika; indro, Jehovah, Izay nandrasantsika, hifaly sy hiravoravo amin' ny famonjeny isika.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Fa hipetraka amin' ity tendrombohitra ity ny tànan' i Jehovah, ary Moaba hohosihosena ao amin' izay itoerany, dia tahaka ny fanosihosena ny mololo miavosa amin' ny rano ao am-pahitra;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary Izy dia hamelatra ny tanany eo afovoan' izany, tahaka ny famelatry ny mpilomano ny tanany raha milomano; ary Izy no hampietry ny fiavonavonany mbamin' ny babo azon' ny tanany.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary ny mandanao mafy sy avo dia harodany ka haetriny sy hofongorany hatramin' ny tany, dia hatramin' ny vovoka."
-    }
-  ]
+  "verses": {
+    "1": "Jehovah ô, Ianao no Andriamanitro, hanandratra anao sy hidera ny anaranao aho, fa efa nanao zava-mahagaga Ianao; ny tolo-tsainao efa voakasa hatramin' ny ela dia mahatoky sy marina.",
+    "2": "Fa nataonao korontam-bato ny tanàna; ny tanàna mimanda dia rava tokoa; ny lapan' ny vahiny dia nataonao tsy vanon-ko tanàna; tsy haorina mandrakizay izany.",
+    "3": "Ka dia hankalaza Anao ny firenena mahery, hatahotra Anao ny tanànan' ny firenena lozabe.",
+    "4": "Fa hery ho an' ny mahantra Ianao; tanjaka ho an' ny sahirana ao amin' ny fahoriany, fierena amin' ny ranonoram-baratra, fialokalofana amin' ny hainandro, rehefa toy ny tafiotra mahery mamely ny ampiantany ny rivotry ny mahery.",
+    "5": "Tahaka ny fandresinao ny hainandro izay mamely ny tany karankaina no andresenao ny fitabataban' ny firenena hafa; eny, tahaka ny amin' ny hainandro resin' ny aloky ny rahona matevina no andresena ny fanakoran' ny olon-dozabe.",
+    "6": "Ary Jehovah, Tompon' ny maro, dia hanao fanasana ho an' ny firenena rehetra eto amin' ity tendrombohitra ity, dia fanasana amin' ny zavatra matavy, fanasana amin' ny divay efa niotrika ela, zavatra matavy be tsoka, divay efa niotrika ela sady voadio.",
+    "7": "Ary hofoanany eto amin' ity tendrombohitra ity ny sarona izay manarona ny olona rehetra sy ny rakotra arakotra ny firenena rehetra.",
+    "8": "Hofoanany amin' ny fandresena ny fahafatesana; ary Jehovah Tompo hamafa ny ranomaso amin' ny tava rehetra sady hanafa-tondromaso ny olony eny amin' ny tany rehetra; fa Jehovah no efa niteny izany.",
+    "9": "Ary holazaina amin' izany andro izany hoe: Indro Andriamanitsika, Izay nandrasantsika hamonjy antsika; indro, Jehovah, Izay nandrasantsika, hifaly sy hiravoravo amin' ny famonjeny isika.",
+    "10": "Fa hipetraka amin' ity tendrombohitra ity ny tànan' i Jehovah, ary Moaba hohosihosena ao amin' izay itoerany, dia tahaka ny fanosihosena ny mololo miavosa amin' ny rano ao am-pahitra;",
+    "11": "Ary Izy dia hamelatra ny tanany eo afovoan' izany, tahaka ny famelatry ny mpilomano ny tanany raha milomano; ary Izy no hampietry ny fiavonavonany mbamin' ny babo azon' ny tanany.",
+    "12": "Ary ny mandanao mafy sy avo dia harodany ka haetriny sy hofongorany hatramin' ny tany, dia hatramin' ny vovoka."
+  }
 }

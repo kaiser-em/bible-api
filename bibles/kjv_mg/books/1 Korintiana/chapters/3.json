@@ -1,97 +1,29 @@
 {
+  "book": "1 Korintiana",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izaho, ry rahalahy, tsy nahazo niteny taminareo tahaka ny amin’izay araka ny Fanahy, fa tahaka ny amin’izay mbola nofo, dia tahaka izay mbola zaza ihany ao amin’i Kristy."
-    },
-    {
-      "v": 2,
-      "text": "Ronono no namahanako anareo, fa tsy hena, satria tsy mbola zakanareo izany hatramin’izao, ary tsy zakanareo na dia ankehitriny aza."
-    },
-    {
-      "v": 3,
-      "text": "Fa mbola araka ny nofo ihany ianareo. Fa raha misy fialonana sy fifandirana ary fisarahana eo aminareo, tsy araka ny nofo va ianareo ka mandeha araka ny fanaon’ny olona?"
-    },
-    {
-      "v": 4,
-      "text": "Fa raha hoy ny anankiray: Izaho an’i Paoly, ary ny anankiray kosa: Izaho an’i Apolosy, moa tsy ara-nofo va ianareo?"
-    },
-    {
-      "v": 5,
-      "text": "Koa inona moa Paoly, ary inona moa Apolosy? Mpanompo ihany izay nahatonga anareo ho mpino ireo, dia samy araka ny nomen’ny Tompo azy avy."
-    },
-    {
-      "v": 6,
-      "text": "Izaho namboly, Apolosy nanondraka, fa Andriamanitra no nampitombo."
-    },
-    {
-      "v": 7,
-      "text": "Ka dia tsinontsinona izay mamboly, na izay manondraka, fa Andriamanitra Izay mampitombo no izy."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary iray ihany ny mpamboly, sy ny mpanondraka; nefa samy handray izay valim-pitiany avy araka izay fisasarany izy.\""
-    },
-    {
-      "v": 9,
-      "text": "Fa mpiara-miasa amin’Andriamanitra izahay, ary sahan’Andriamanitra sy trano arafitr’Andriamanitra ianareo."
-    },
-    {
-      "v": 10,
-      "text": "Araka ny fahasoavan’Andriamanitra nomena ahy, tahaka ny fanaon’ny mpita-marika mahay no nanaovako ny fanorenana, ary ny hafa mandrafitra eo amboniny. Nefa aoka ny olona rehetra hitandrina izay arafiny eo amboniny."
-    },
-    {
-      "v": 11,
-      "text": "Fa tsy misy afaka manao fanorenana hafa afa-tsy izay natao, dia Jesosy Kristy."
-    },
-    {
-      "v": 12,
-      "text": "Ary raha misy mandrafitra volamena, na volafotsy, na vatosoa, na hazo, na bozaka, na mololo, eo ambonin’ny fanorenana,"
-    },
-    {
-      "v": 13,
-      "text": "\"Dia haseho avokoa ny asan’ny olona rehetra; fa ny andro no hampiseho azy, satria haseho amin’ny afo izany, ka ny afo no hamantatra ny toetry ny asan’ny olona rehetra.\""
-    },
-    {
-      "v": 14,
-      "text": "Raha maharitra ny asan’ny olona izay narafiny teo amboniny, dia handray valim-pitia izy."
-    },
-    {
-      "v": 15,
-      "text": "\"Raha ho levon’ny afo ny asan’ny olona, dia ho fatiantoka izy; fa ny tenany kosa dia hovonjena, nefa toy ny avy ao amin’ny afo ihany izy.\""
-    },
-    {
-      "v": 16,
-      "text": "Tsy fantatrareo va fa tempolin’Andriamanitra ianareo, ary ny Fanahin’Andriamanitra mitoetra ao anatinareo?"
-    },
-    {
-      "v": 17,
-      "text": "\"Raha misy manimba ny tempolin’Andriamanitra, dia mba hosimban’Andriamanitra kosa izy; fa masina ny tempolin’Andriamanitra ary ianareo izany tempoly izany.\""
-    },
-    {
-      "v": 18,
-      "text": "Aza misy mamita-tena. Raha misy eo aminareo manao azy ho hendry amin’izao tontolo izao, aoka ho adala izy mba ho hendry."
-    },
-    {
-      "v": 19,
-      "text": "\"Fa ny fahendren’izao tontolo izao dia fahadalana amin’Andriamanitra; fa voasoratra hoe: “Ny hafetsen’ny hendry ihany no entiny misambotra azy”\""
-    },
-    {
-      "v": 20,
-      "text": "Ary indray: “Jehovah no mahalala ny hevitry ny hendry, fa zava-poana izany”"
-    },
-    {
-      "v": 21,
-      "text": "\"Ka dia aza misy manao olona ho reharehany. Fa anareo ny zavatra rehetra;\""
-    },
-    {
-      "v": 22,
-      "text": "\"Na Paoly, na Apolosy, na Kefasy, na izao tontolo izao, na fiainana, na fahafatesana, na ny zavatra ankehitriny, na ny zavatra ho avy; anareo ny zavatra rehetra;\""
-    },
-    {
-      "v": 23,
-      "text": "Ary ianareo an’i Kristy ary Kristy an’Andriamanitra."
-    }
-  ]
+  "verses": {
+    "1": "Ary izaho, ry rahalahy, tsy nahazo niteny taminareo tahaka ny amin’izay araka ny Fanahy, fa tahaka ny amin’izay mbola nofo, dia tahaka izay mbola zaza ihany ao amin’i Kristy.",
+    "2": "Ronono no namahanako anareo, fa tsy hena, satria tsy mbola zakanareo izany hatramin’izao, ary tsy zakanareo na dia ankehitriny aza.",
+    "3": "Fa mbola araka ny nofo ihany ianareo. Fa raha misy fialonana sy fifandirana ary fisarahana eo aminareo, tsy araka ny nofo va ianareo ka mandeha araka ny fanaon’ny olona?",
+    "4": "Fa raha hoy ny anankiray: Izaho an’i Paoly, ary ny anankiray kosa: Izaho an’i Apolosy, moa tsy ara-nofo va ianareo?",
+    "5": "Koa inona moa Paoly, ary inona moa Apolosy? Mpanompo ihany izay nahatonga anareo ho mpino ireo, dia samy araka ny nomen’ny Tompo azy avy.",
+    "6": "Izaho namboly, Apolosy nanondraka, fa Andriamanitra no nampitombo.",
+    "7": "Ka dia tsinontsinona izay mamboly, na izay manondraka, fa Andriamanitra Izay mampitombo no izy.",
+    "8": "Ary iray ihany ny mpamboly, sy ny mpanondraka; nefa samy handray izay valim-pitiany avy araka izay fisasarany izy.",
+    "9": "Fa mpiara-miasa amin’Andriamanitra izahay, ary sahan’Andriamanitra sy trano arafitr’Andriamanitra ianareo.",
+    "10": "Araka ny fahasoavan’Andriamanitra nomena ahy, tahaka ny fanaon’ny mpita-marika mahay no nanaovako ny fanorenana, ary ny hafa mandrafitra eo amboniny. Nefa aoka ny olona rehetra hitandrina izay arafiny eo amboniny.",
+    "11": "Fa tsy misy afaka manao fanorenana hafa afa-tsy izay natao, dia Jesosy Kristy.",
+    "12": "Ary raha misy mandrafitra volamena, na volafotsy, na vatosoa, na hazo, na bozaka, na mololo, eo ambonin’ny fanorenana,",
+    "13": "Dia haseho avokoa ny asan’ny olona rehetra; fa ny andro no hampiseho azy, satria haseho amin’ny afo izany, ka ny afo no hamantatra ny toetry ny asan’ny olona rehetra.",
+    "14": "Raha maharitra ny asan’ny olona izay narafiny teo amboniny, dia handray valim-pitia izy.",
+    "15": "Raha ho levon’ny afo ny asan’ny olona, dia ho fatiantoka izy; fa ny tenany kosa dia hovonjena, nefa toy ny avy ao amin’ny afo ihany izy.",
+    "16": "Tsy fantatrareo va fa tempolin’Andriamanitra ianareo, ary ny Fanahin’Andriamanitra mitoetra ao anatinareo?",
+    "17": "Raha misy manimba ny tempolin’Andriamanitra, dia mba hosimban’Andriamanitra kosa izy; fa masina ny tempolin’Andriamanitra ary ianareo izany tempoly izany.",
+    "18": "Aza misy mamita-tena. Raha misy eo aminareo manao azy ho hendry amin’izao tontolo izao, aoka ho adala izy mba ho hendry.",
+    "19": "Fa ny fahendren’izao tontolo izao dia fahadalana amin’Andriamanitra; fa voasoratra hoe: “Ny hafetsen’ny hendry ihany no entiny misambotra azy”",
+    "20": "Ary indray: “Jehovah no mahalala ny hevitry ny hendry, fa zava-poana izany”",
+    "21": "Ka dia aza misy manao olona ho reharehany. Fa anareo ny zavatra rehetra;",
+    "22": "Na Paoly, na Apolosy, na Kefasy, na izao tontolo izao, na fiainana, na fahafatesana, na ny zavatra ankehitriny, na ny zavatra ho avy; anareo ny zavatra rehetra;",
+    "23": "Ary ianareo an’i Kristy ary Kristy an’Andriamanitra."
+  }
 }

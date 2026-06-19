@@ -1,41 +1,15 @@
 {
+  "book": "Josoa",
   "chapter": 20,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Josoa ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Lazao amin' ny Zanak' Isiraely hoe: Manokàna tanàna fandosirana ho anareo, izay nolazaiko anareo tamin' ny alalan' i Mosesy:"
-    },
-    {
-      "v": 3,
-      "text": "\"Mba ho afa-mandositra ao izay nahafaty olona tsy nahy; dia ho fandosirana ho anareo izany mba tsy ho azon' ny mpamaly ra.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary raha misy mandositra ho ao amin' ny anankiray amin' ireo tanàna ireo ka hijanona eo anoloan' ny vavahady ary handahatra ny teniny eo anatrehan' ny loholona amin' izany tanàna izany, dia hampidiriny ho ao an-tanàna izy ka homeny toerana, mba hitoetra ao aminy."
-    },
-    {
-      "v": 5,
-      "text": "Ary raha manenjika azy ny mpamaly ra, dia tsy hanolotra ilay nahafaty olona ho eo an-tanany izy, satria nahafaty tsy nahy ny namany izy, fa tsy nankahala azy teo aloha."
-    },
-    {
-      "v": 6,
-      "text": "\"Dia hitoetra eo amin' izany tanàna izany izy mandra-pisehony eo anatrehan' ny fiangonana hotsaraina sy mandra-pahafatin' ny mpisoronabe amin' izany andro izany; dia hiverina ilay nahafaty olona ka hody any an-tanànany sy any an-tranony, dia any amin' ny tanàna izay nialany fony izy nandositra.\""
-    },
-    {
-      "v": 7,
-      "text": "Dia nanokana an' i Kadesy any Galilia any an-tendrombohitra Naftaly izy sy Sekema any amin' ny tendrombohitra Efraima any Kiriata-arba, Hebrona izany, any amin' ny tendrombohitr' i Joda."
-    },
-    {
-      "v": 8,
-      "text": "Ary any an-dafy atsinanan' i Jordana, tandrifin' i Jeriko dia nifidy an' i Bezera any an' efitra amin' ny tany lemaka avy amin' ny fokon' i Robena izy, sy Ramota any Gileada avy amin' ny fokon' i Gada, ary Golana any Basana avy amin' ny fokon' i Manase."
-    },
-    {
-      "v": 9,
-      "text": "Ireo no tanàna voatokana ho an' ny Zanak' Isiraely rehetra sy ny vahiny izay mivahiny eo aminy, handosiran' izay rehetra nahafaty olona tsy nahy, mba tsy ho fatin' ny tanan' ny mpamaly rà izy mandra-pisehony eo anatrehan' ny fiangonana."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Josoa ka nanao hoe:",
+    "2": "Lazao amin' ny Zanak' Isiraely hoe: Manokàna tanàna fandosirana ho anareo, izay nolazaiko anareo tamin' ny alalan' i Mosesy:",
+    "3": "Mba ho afa-mandositra ao izay nahafaty olona tsy nahy; dia ho fandosirana ho anareo izany mba tsy ho azon' ny mpamaly ra.",
+    "4": "Ary raha misy mandositra ho ao amin' ny anankiray amin' ireo tanàna ireo ka hijanona eo anoloan' ny vavahady ary handahatra ny teniny eo anatrehan' ny loholona amin' izany tanàna izany, dia hampidiriny ho ao an-tanàna izy ka homeny toerana, mba hitoetra ao aminy.",
+    "5": "Ary raha manenjika azy ny mpamaly ra, dia tsy hanolotra ilay nahafaty olona ho eo an-tanany izy, satria nahafaty tsy nahy ny namany izy, fa tsy nankahala azy teo aloha.",
+    "6": "Dia hitoetra eo amin' izany tanàna izany izy mandra-pisehony eo anatrehan' ny fiangonana hotsaraina sy mandra-pahafatin' ny mpisoronabe amin' izany andro izany; dia hiverina ilay nahafaty olona ka hody any an-tanànany sy any an-tranony, dia any amin' ny tanàna izay nialany fony izy nandositra.",
+    "7": "Dia nanokana an' i Kadesy any Galilia any an-tendrombohitra Naftaly izy sy Sekema any amin' ny tendrombohitra Efraima any Kiriata-arba, Hebrona izany, any amin' ny tendrombohitr' i Joda.",
+    "8": "Ary any an-dafy atsinanan' i Jordana, tandrifin' i Jeriko dia nifidy an' i Bezera any an' efitra amin' ny tany lemaka avy amin' ny fokon' i Robena izy, sy Ramota any Gileada avy amin' ny fokon' i Gada, ary Golana any Basana avy amin' ny fokon' i Manase.",
+    "9": "Ireo no tanàna voatokana ho an' ny Zanak' Isiraely rehetra sy ny vahiny izay mivahiny eo aminy, handosiran' izay rehetra nahafaty olona tsy nahy, mba tsy ho fatin' ny tanan' ny mpamaly rà izy mandra-pisehony eo anatrehan' ny fiangonana."
+  }
 }

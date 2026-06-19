@@ -1,89 +1,27 @@
 {
+  "book": "Deotornomia",
   "chapter": 19,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Rehefa aringan' i Jehovah Andriamanitrao ny firenena maro, izay tompon' ny tany omen' i Jehovah Andriamanitrao anao, ary mandimby azy ianao ka monina ao an-tanànany sy ao an-tranony;\""
-    },
-    {
-      "v": 2,
-      "text": "Dia manokàna tanàna telo ho anao eo afovoan' ny taninao, izay omen' i Jehovah Andriamanitrao ho fanananao."
-    },
-    {
-      "v": 3,
-      "text": "Amboary ny lalana, ka zarao ho telo toko ny faritry ny taninao, izay omen' i Jehovah Andriamanitrao ho lovanao, mba handosiran' ny nahafaty olona rehetra ao."
-    },
-    {
-      "v": 4,
-      "text": "Ary ny mahafaty olona izay hovelomina, raha mandositra ao, dia ny mahafaty ny namany tsy nahy ka tsy nankahala azy teo aloha,"
-    },
-    {
-      "v": 5,
-      "text": "\"Toy ny olona izay miaraka amin' ny namany ho any an' ala hikapa hazo, koa manainga ny famaky hikapa ny hazo ny tanany, dia mitsoaka amin' ny zarany ny lela-famaky, ary mahavoa ny namany ka mahafaty azy; dia aoka handositra ao amin' ny anankiray amin' ireo tanàna ireo izy ka hovelomina;\""
-    },
-    {
-      "v": 6,
-      "text": "\"Fandrao hanenjika ny nahafaty olona ny mpamaly ra, raha mbola mirehitra ny fony, ka hahatratra azy, noho ny halavitry ny alehany, dia hahafaty azy izy; nefa tsy tokony ho faty izy, satria tsy nankahala ny namany teo aloha.\""
-    },
-    {
-      "v": 7,
-      "text": "Koa izany no andidiako anao hoe: Manokàna tanàna telo ho anao."
-    },
-    {
-      "v": 8,
-      "text": "Ary raha hitarin' i Jehovah Andriamanitrao ny faritaninao, araka izay nianianany tamin' ny razanao, ka homeny anao ny tany rehetra izay nampanantenainy homena ny razanao,"
-    },
-    {
-      "v": 9,
-      "text": "\"Raha hitandrina ianao ka hanaraka izao lalàna rehetra izao, izay andidiako anao anio, ka ho tia an' i Jehovah Andriamanitrao, ary handeha mandrakariva amin' ny lalany, dia hampianao tanàna telo koa ireo telo ireo;\""
-    },
-    {
-      "v": 10,
-      "text": "Mba tsy hisy rà marina alatsaka eo amin' ny taninao, izay omen' i Jehovah Andriamanitrao anao ho lovanao, ka tsy ho meloka amin' ny rà ianao."
-    },
-    {
-      "v": 11,
-      "text": "Fa raha misy olona mankahala ny namany ka manotrika azy, ary mitsangana ka mamely mahafaty azy, ary mandositra ho ao amin' ny anankiray amin' ireo tanàna ireo,"
-    },
-    {
-      "v": 12,
-      "text": "Ny loholona amin' ny tanànany dia haniraka haka azy ao, ka hanolotra azy eo an-tanan' ny mpamaly ra, mba ho faty izy."
-    },
-    {
-      "v": 13,
-      "text": "\"Tsy hiantra azy ny masonao; fa hoesorinao tsy ho eo amin' ny Isiraely ny heloka ny amin' ny rà marina, mba hahita soa ianao.\""
-    },
-    {
-      "v": 14,
-      "text": "Aza mamindra ny faritanin' ny namanao, izay efa vitan' ny razana teo amin' ny lovanao, izay ho lovanao eo amin' ny tany izay omen' i Jehovah Andriamanitrao ho azonao."
-    },
-    {
-      "v": 15,
-      "text": "\"Raha vavolombelona iray monja, dia aoka tsy hitsangana hiampanga olona ny amin' izay heloka, na ota nataony, na inona na inona; fa amin' ny vavan' ny vavolombelona roa na telo no hampiorenana ny teny.\""
-    },
-    {
-      "v": 16,
-      "text": "Raha misy vavolombelona sandoka mitsangana hiampanga olona ho nanao ratsy,"
-    },
-    {
-      "v": 17,
-      "text": "\"Dia hitsangana eo anatrehan' i Jehovah izy roa lahy izay miady, eo anatrehan' ny mpisorona sy ny mpitsara amin' izany andro izany;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary raha hadinin' ny mpitsara mafy izy ka hitany, fa indro, vavolombelona sandoka ilay vavolombelona, ka niampanga lainga ny namany;\""
-    },
-    {
-      "v": 19,
-      "text": "\"Dia araka izay nokasainy hatao amin' ny rahalahiny no hataonareo aminy; ka dia hofongoranao tsy ho eo aminareo ny ratsy.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary ny olona sisa dia handre izany ka hatahotra ary tsy hanao araka izany ratsy izany eo aminareo intsony."
-    },
-    {
-      "v": 21,
-      "text": "\"Dia tsy hiantra azy ny masonao; fa aina no hataonao solon' ny aina, maso solon' ny maso, nify solon' ny nify, tanana solon' ny tanana, tongotra solon' ny tongotra.\""
-    }
-  ]
+  "verses": {
+    "1": "Rehefa aringan' i Jehovah Andriamanitrao ny firenena maro, izay tompon' ny tany omen' i Jehovah Andriamanitrao anao, ary mandimby azy ianao ka monina ao an-tanànany sy ao an-tranony;",
+    "2": "Dia manokàna tanàna telo ho anao eo afovoan' ny taninao, izay omen' i Jehovah Andriamanitrao ho fanananao.",
+    "3": "Amboary ny lalana, ka zarao ho telo toko ny faritry ny taninao, izay omen' i Jehovah Andriamanitrao ho lovanao, mba handosiran' ny nahafaty olona rehetra ao.",
+    "4": "Ary ny mahafaty olona izay hovelomina, raha mandositra ao, dia ny mahafaty ny namany tsy nahy ka tsy nankahala azy teo aloha,",
+    "5": "Toy ny olona izay miaraka amin' ny namany ho any an' ala hikapa hazo, koa manainga ny famaky hikapa ny hazo ny tanany, dia mitsoaka amin' ny zarany ny lela-famaky, ary mahavoa ny namany ka mahafaty azy; dia aoka handositra ao amin' ny anankiray amin' ireo tanàna ireo izy ka hovelomina;",
+    "6": "Fandrao hanenjika ny nahafaty olona ny mpamaly ra, raha mbola mirehitra ny fony, ka hahatratra azy, noho ny halavitry ny alehany, dia hahafaty azy izy; nefa tsy tokony ho faty izy, satria tsy nankahala ny namany teo aloha.",
+    "7": "Koa izany no andidiako anao hoe: Manokàna tanàna telo ho anao.",
+    "8": "Ary raha hitarin' i Jehovah Andriamanitrao ny faritaninao, araka izay nianianany tamin' ny razanao, ka homeny anao ny tany rehetra izay nampanantenainy homena ny razanao,",
+    "9": "Raha hitandrina ianao ka hanaraka izao lalàna rehetra izao, izay andidiako anao anio, ka ho tia an' i Jehovah Andriamanitrao, ary handeha mandrakariva amin' ny lalany, dia hampianao tanàna telo koa ireo telo ireo;",
+    "10": "Mba tsy hisy rà marina alatsaka eo amin' ny taninao, izay omen' i Jehovah Andriamanitrao anao ho lovanao, ka tsy ho meloka amin' ny rà ianao.",
+    "11": "Fa raha misy olona mankahala ny namany ka manotrika azy, ary mitsangana ka mamely mahafaty azy, ary mandositra ho ao amin' ny anankiray amin' ireo tanàna ireo,",
+    "12": "Ny loholona amin' ny tanànany dia haniraka haka azy ao, ka hanolotra azy eo an-tanan' ny mpamaly ra, mba ho faty izy.",
+    "13": "Tsy hiantra azy ny masonao; fa hoesorinao tsy ho eo amin' ny Isiraely ny heloka ny amin' ny rà marina, mba hahita soa ianao.",
+    "14": "Aza mamindra ny faritanin' ny namanao, izay efa vitan' ny razana teo amin' ny lovanao, izay ho lovanao eo amin' ny tany izay omen' i Jehovah Andriamanitrao ho azonao.",
+    "15": "Raha vavolombelona iray monja, dia aoka tsy hitsangana hiampanga olona ny amin' izay heloka, na ota nataony, na inona na inona; fa amin' ny vavan' ny vavolombelona roa na telo no hampiorenana ny teny.",
+    "16": "Raha misy vavolombelona sandoka mitsangana hiampanga olona ho nanao ratsy,",
+    "17": "Dia hitsangana eo anatrehan' i Jehovah izy roa lahy izay miady, eo anatrehan' ny mpisorona sy ny mpitsara amin' izany andro izany;",
+    "18": "Ary raha hadinin' ny mpitsara mafy izy ka hitany, fa indro, vavolombelona sandoka ilay vavolombelona, ka niampanga lainga ny namany;",
+    "19": "Dia araka izay nokasainy hatao amin' ny rahalahiny no hataonareo aminy; ka dia hofongoranao tsy ho eo aminareo ny ratsy.",
+    "20": "Ary ny olona sisa dia handre izany ka hatahotra ary tsy hanao araka izany ratsy izany eo aminareo intsony.",
+    "21": "Dia tsy hiantra azy ny masonao; fa aina no hataonao solon' ny aina, maso solon' ny maso, nify solon' ny nify, tanana solon' ny tanana, tongotra solon' ny tongotra."
+  }
 }

@@ -1,53 +1,18 @@
 {
+  "book": "1 Samoela",
   "chapter": 27,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary Davida nanao anakampo hoe: Mbola ho fatin' ny tanan' i Saoly ihany aho indray andro any; tsy misy mahasoa ahy afa-tsy ny mandositra haingana any amin' ny tanin' ny Filistina, dia hamoy ahy Saoly ka tsy hitady ahy eran' ny tanin' ny Isiraely intsony, dia ho afaka amin' ny tanany aho.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary niainga i Davida nandeha mbamin' ny eninjato lahy nanaraka azy nankany amin' i Akisy, zanak' i Maoka, mpanjakan' i Gata."
-    },
-    {
-      "v": 3,
-      "text": "Ary nitoetra tao amin' i Akisy tany Gata i Davida, dia izy sy ny olony, samy nomban' ny ankohonany avy, ary Davida mbamin' ny vadiny roa dia Ahinoama Jezirelita sy Abigaila karmelita, ilay novinadin' i Nabala."
-    },
-    {
-      "v": 4,
-      "text": "Ary nambara tamin' i Saoly fa Davida efa nandositra nankany Gata, ka dia tsy nitady azy intsony izy."
-    },
-    {
-      "v": 5,
-      "text": "Ary hoy Davida tamin' i Akisy: Raha mahita fitia eo imasonao aho, aoka mba homena fonenana ao amin' ny tanàna anankiray any an-tsaha aho mba honenako any, fa nahoana ny mpanomponao no hitoetra aminao eto amin' ny renivohitry ny fanjakana?"
-    },
-    {
-      "v": 6,
-      "text": "\"Dia nomen' i Akisy azy androtrizay Ziklaga; ka dia an' ny mpanjakan' i Joda ambaraka androany Ziklaga.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary ny andro nitoeran' i Davida tany amin' ny tanin' ny Filistina dia herintaona sy efa-bolana."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary Davida sy ny olony niakatra ka nanafika ny Gesorita sy ny Gizrita ary ny Amalekita; fa ireo nonina tamin' ny tany hatrizay ela izay, dia hatrany akaikin' i Sora, hatramin' ny tany Egypta.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary namely ny tany Davida, ka tsy nisy novelominy na lehilahy, na vehivavy, sady namabo ny ondry sy ny omby sy ny boriky sy ny rameva ary ny fitafiana izy, dia niverina nankany amin' i Akisy."
-    },
-    {
-      "v": 10,
-      "text": "Ary hoy Akisy: taiza no nalehanareo androany? Dia hoy Davida: Nanafika ny atsimo izay an' ny Joda sy izay an' ny Jeramelita ary izay an' ny Kenita izahay."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary tsy nisy novelomin' i Davida hoentiny any Gata, na lehilahy na vehivavy; fa hoy izy: Andrao izahay lazainy hoe: Toy izany no nataon' i Davida, ary toy izany no fanaony tamin' ny andro rehetra nitoerany tany amin' ny tanin' ny Filistina.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary Akisy nino an' i Davida ka nanao hoe: Efa nanamaimbo ny tenany any amin' ny Isiraely olony izy, ka dia ho mpanompoko mandrakizay."
-    }
-  ]
+  "verses": {
+    "1": "Ary Davida nanao anakampo hoe: Mbola ho fatin' ny tanan' i Saoly ihany aho indray andro any; tsy misy mahasoa ahy afa-tsy ny mandositra haingana any amin' ny tanin' ny Filistina, dia hamoy ahy Saoly ka tsy hitady ahy eran' ny tanin' ny Isiraely intsony, dia ho afaka amin' ny tanany aho.",
+    "2": "Ary niainga i Davida nandeha mbamin' ny eninjato lahy nanaraka azy nankany amin' i Akisy, zanak' i Maoka, mpanjakan' i Gata.",
+    "3": "Ary nitoetra tao amin' i Akisy tany Gata i Davida, dia izy sy ny olony, samy nomban' ny ankohonany avy, ary Davida mbamin' ny vadiny roa dia Ahinoama Jezirelita sy Abigaila karmelita, ilay novinadin' i Nabala.",
+    "4": "Ary nambara tamin' i Saoly fa Davida efa nandositra nankany Gata, ka dia tsy nitady azy intsony izy.",
+    "5": "Ary hoy Davida tamin' i Akisy: Raha mahita fitia eo imasonao aho, aoka mba homena fonenana ao amin' ny tanàna anankiray any an-tsaha aho mba honenako any, fa nahoana ny mpanomponao no hitoetra aminao eto amin' ny renivohitry ny fanjakana?",
+    "6": "Dia nomen' i Akisy azy androtrizay Ziklaga; ka dia an' ny mpanjakan' i Joda ambaraka androany Ziklaga.",
+    "7": "Ary ny andro nitoeran' i Davida tany amin' ny tanin' ny Filistina dia herintaona sy efa-bolana.",
+    "8": "Ary Davida sy ny olony niakatra ka nanafika ny Gesorita sy ny Gizrita ary ny Amalekita; fa ireo nonina tamin' ny tany hatrizay ela izay, dia hatrany akaikin' i Sora, hatramin' ny tany Egypta.",
+    "9": "Ary namely ny tany Davida, ka tsy nisy novelominy na lehilahy, na vehivavy, sady namabo ny ondry sy ny omby sy ny boriky sy ny rameva ary ny fitafiana izy, dia niverina nankany amin' i Akisy.",
+    "10": "Ary hoy Akisy: taiza no nalehanareo androany? Dia hoy Davida: Nanafika ny atsimo izay an' ny Joda sy izay an' ny Jeramelita ary izay an' ny Kenita izahay.",
+    "11": "Ary tsy nisy novelomin' i Davida hoentiny any Gata, na lehilahy na vehivavy; fa hoy izy: Andrao izahay lazainy hoe: Toy izany no nataon' i Davida, ary toy izany no fanaony tamin' ny andro rehetra nitoerany tany amin' ny tanin' ny Filistina.",
+    "12": "Ary Akisy nino an' i Davida ka nanao hoe: Efa nanamaimbo ny tenany any amin' ny Isiraely olony izy, ka dia ho mpanompoko mandrakizay."
+  }
 }

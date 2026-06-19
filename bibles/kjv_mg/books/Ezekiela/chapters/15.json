@@ -1,37 +1,14 @@
 {
+  "book": "Ezekiela",
   "chapter": 15,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary tonga tamiko ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Ry zanak' olona, inona no ihoaran' ny tahom-boaloboka noho ny hazo rehetra, na noho ny sampana izay amin' ny hazo any an' ala?"
-    },
-    {
-      "v": 3,
-      "text": "Moa mba fangalan-kazo hatao zavatra akory va izy, na mba fangalana fihantonan-javatra?"
-    },
-    {
-      "v": 4,
-      "text": "\"Indro, atsipy any anaty afo hataina izy; ny laniny roa ho levon' ny afo, ary ny tenatenany ho may.Ka moa azo atao zavatra akory va izy?\""
-    },
-    {
-      "v": 5,
-      "text": "Indro, fony izy tsy mbola nahafahana aza, dia tsy azo natao zavatra, koa mainka fa rehefa levon' ny afo sy may izy?"
-    },
-    {
-      "v": 6,
-      "text": "Koa izao no lazain' i Jehovah Andriamanitra: Toy ny tahom-boaloboka amin' ny hazo any an' ala, izay natolotro ny afo hataina, dia toy izany no hanolorako ny mponina any Jerosalema."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary hanandrina azy ny tavako; hiala avy amin' ny afo izy, nefa ho levon' ny afo hafa indray; ka dia ho fantatrareo fa Izaho no Jehovah, raha manandrina azy ny tavako.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary hataoko lao ny tany noho ny nivadihany tamiko, hoy Jehovah Tompo."
-    }
-  ]
+  "verses": {
+    "1": "Ary tonga tamiko ny tenin' i Jehovah nanao hoe:",
+    "2": "Ry zanak' olona, inona no ihoaran' ny tahom-boaloboka noho ny hazo rehetra, na noho ny sampana izay amin' ny hazo any an' ala?",
+    "3": "Moa mba fangalan-kazo hatao zavatra akory va izy, na mba fangalana fihantonan-javatra?",
+    "4": "Indro, atsipy any anaty afo hataina izy; ny laniny roa ho levon' ny afo, ary ny tenatenany ho may.Ka moa azo atao zavatra akory va izy?",
+    "5": "Indro, fony izy tsy mbola nahafahana aza, dia tsy azo natao zavatra, koa mainka fa rehefa levon' ny afo sy may izy?",
+    "6": "Koa izao no lazain' i Jehovah Andriamanitra: Toy ny tahom-boaloboka amin' ny hazo any an' ala, izay natolotro ny afo hataina, dia toy izany no hanolorako ny mponina any Jerosalema.",
+    "7": "Ary hanandrina azy ny tavako; hiala avy amin' ny afo izy, nefa ho levon' ny afo hafa indray; ka dia ho fantatrareo fa Izaho no Jehovah, raha manandrina azy ny tavako.",
+    "8": "Ary hataoko lao ny tany noho ny nivadihany tamiko, hoy Jehovah Tompo."
+  }
 }

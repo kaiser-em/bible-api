@@ -1,129 +1,37 @@
 {
+  "book": "Mpitsara",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Debora sy Baraka, zanak' i Abinoama, dia nihira tamin' izany andro izany ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Miderà an' i Jehovah, noho ny famaliany ny Isiraely rehefa nanolo-tena an-tsitrapo ny olona."
-    },
-    {
-      "v": 3,
-      "text": "\"Mandrenesa ianareo, ry mpanjaka, mihainoa ianareo, ry mpanapaka: Izaho, eny, izaho no hihira ho an' i Jehovah; hihira fiderana ho an' i Jehovah, Andriamanitry ny Isiraely aho.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Jehovah ô, fony nivoaka avy tany Seïra Ianao ary nandeha avy tany amin' ny sahan' i Edoma, dia nihorohoro ny tany, ary ny lanitra nitete; eny, ny rahona koa nitete rano.\""
-    },
-    {
-      "v": 5,
-      "text": "Ny tendrombohitra niempo teo anatrehan' i Jehovah, eny, na dia iry Sinay iry aza teo anatrehan' i Jehovah, Andriamanitry ny Isiraely."
-    },
-    {
-      "v": 6,
-      "text": "Tamin' ny andron' i Samgara, zanak' i Anata sy tamin' ny andron' i Jaela, dia tsy nodiavina ny lalambe, fa ny sakeli-dalana mivilivily no nalehan' ny mpandeha."
-    },
-    {
-      "v": 7,
-      "text": "Lao ny mponina tany amin' ny zana-bohitra, eny, lao monina ny Isiraely, mandra-pitsangako, izaho Debora, eny, mandra-pitsangako ho reny teo amin' ny Isiraely."
-    },
-    {
-      "v": 8,
-      "text": "Nifidy andriamani-baovao ny olona, ary tamin' izay dia nisy ady hatreny am-bavahady. Moa nisy ampinga, na lefona na dia iray akory aza hita va teo amin' ny olona efatra alina tamin' ny Isiraely?"
-    },
-    {
-      "v": 9,
-      "text": "Ny foko mankasitraka ny mpanapaka amin' ny Isiraely, izay nanolo-tena an-tsitrapo teo amin' ny vahoaka. Miderà an' i Jehovah ianareo."
-    },
-    {
-      "v": 10,
-      "text": "Mitenena, ianareo izay mitaingina borikivavy fotsy, ianareo izay mipetraka eo amin' ny fitsarana sy mandeha amin' ny lalana."
-    },
-    {
-      "v": 11,
-      "text": "\"Ireo izay afaka tamin' ny tabataban' ny mpandefa zana-tsipìka eo amin' ny fantsakan-drano, eo no hiresahany ny asa marina ataon' i Jehovah, dia ny asa marina amin' ny mponin' ny zana-bohiny eo amin' ny Isiraely; amin' izany dia hidina ny olon' i Jehovah ho any am-bavahady.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Mifohaza, mifohaza, ry Debora; Mitsangàna, ry Baraka; ka ento ny babonao, ry zanak' i Abinoama.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Tamin' izany, izay sisa tavela dia nataony nanapaka ny olo-malaza tamin' ny vahoaka; Jehovah nanao ahy hanapaka ny mahery.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Avy tamin' i Efraima dia nisy fototra taminy nanohitra an' i Amaleka, dia nomba anao teo amin' ny firenenao ny Benjamina; ary avy tamin' i Makira no nidinan' ny governora, ary avy tamin' i Zebolona ireo mitana ny penin' ny mpanoratra.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ny andrianan' Isakara niaraka tamin' i Debora, dia Isakara sy Baraka koa; nampandehaniny an-tongotra tany an-dohasaha izy. Lehibe ny fiheverana am-po tamin' ny fizarana teo amin' i Robena!\""
-    },
-    {
-      "v": 16,
-      "text": "Nahoana ianareo no mitoetra eo anelanelan' ny vala, hihaino ny fibarareoky ny ondry? Fa lehibe ny fiheverana am-po tamin' ny fizarana teo amin' i Robena!"
-    },
-    {
-      "v": 17,
-      "text": "\"Gileada nitoetra tany an-dafin' i Jordana; ary nahoana Dana no nitoetra tany an-tsambo? Asera nitoetra tany amoron-dranomasina, ary teny amin' ny fitodiany no nipetrahany.\""
-    },
-    {
-      "v": 18,
-      "text": "Zebolona sy Naftaly dia olona nanao vy very ny ainy, na dia ho faty aza, teo amin' ny fitoerana avo any an-tsaha."
-    },
-    {
-      "v": 19,
-      "text": "\"Tonga ireo mpanjaka ka niady, eny niady tao Tanaka ireo mpanjakan' i Kanana, dia teo anilan' ny ranon' i Megido; tsy nandray vola ho tombony izy.\""
-    },
-    {
-      "v": 20,
-      "text": "Avy any an-danitra no niadiany, ny kintana tamin' ny nalehany niady tamin' i Sisera."
-    },
-    {
-      "v": 21,
-      "text": "Ny ony Kisona nipaoka azy, ilay ony ela, dia ny ony Kisona. Efa nanitsakitsaka olo-mahery ianao, ry fanahiko!"
-    },
-    {
-      "v": 22,
-      "text": "Tamin' izany dia nikatrokatroka ny kitron-tsoavaly noho ny fihazakazaka, dia ny fihazakazaky ny mahery."
-    },
-    {
-      "v": 23,
-      "text": "Ozòny Meroza, hoy Ilay Anjelin' i Jehovah, ozòny dia ozòny ny mponina ao, satria tsy mba tonga hanampy an' i Jehovah izy, eny, tsy nanampy an' i Jehovah hamely ny mahery."
-    },
-    {
-      "v": 24,
-      "text": "\"Hotahiana mihoatra noho ny vehivavy anie i Jaela, vadin' i Hebera Kenita; eny, hotahiana mihoatra noho ny vehivavy mitoetra an-day anie izy.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Rano no nangatahin-dralehilahy, fa ronono no nomeny azy; dibera no nentiny teo an-dovian' andriana.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ny tanany nandray ny tsima-day, ary ny tanany ankavanana nandray ny tantanan' ny mpiasa, dia namely an' i Sisera tamin' ny tantanana izy ka nahavoa ny lohany; namely mafy izy, dia nahaboroaka ny fihirifany.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Teo amin' ny tongo-dravehivavy no niondrehany, nahalavoany, niamparany; eny, teo amin' ny tongony no niondrehany, nahalavoany; teo amin' izay niondrehany no niamparan' ny fatiny.\""
-    },
-    {
-      "v": 28,
-      "text": "Teo amin' ny varavarankely no nitazanan' ny renin' i Sisera ka niantsoantsoany teo amin' ny makarakara hoe: Nahoana no ela fiavy izato kalesiny? Nahoana no mitaredretra ny kodian' ny kalesiny?"
-    },
-    {
-      "v": 29,
-      "text": "Ny vehivahy hendry teo aminy no namaly azy, eny, ny tenany no namaly azy."
-    },
-    {
-      "v": 30,
-      "text": "Tsy efa mahita va izy? Tsy mizara babo va izy? Dia zazavavy iray na roa ho an' ny isan-dahy, ary lamba samihafa loko ho babon' i Sisera, lamba roa samihafa soratra ho eo am-bozon' ny nahazo babo."
-    },
-    {
-      "v": 31,
-      "text": "\"Ho levona tahaka izany anie ny fahavalonao rehetra, Jehovah ô; fa aoka izay tia Azy kosa ho tahaka ny masoandro, raha miposaka amin' ny heriny izy. Dia nandry efapolo taona ny tany.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary Debora sy Baraka, zanak' i Abinoama, dia nihira tamin' izany andro izany ka nanao hoe:",
+    "2": "Miderà an' i Jehovah, noho ny famaliany ny Isiraely rehefa nanolo-tena an-tsitrapo ny olona.",
+    "3": "Mandrenesa ianareo, ry mpanjaka, mihainoa ianareo, ry mpanapaka: Izaho, eny, izaho no hihira ho an' i Jehovah; hihira fiderana ho an' i Jehovah, Andriamanitry ny Isiraely aho.",
+    "4": "Jehovah ô, fony nivoaka avy tany Seïra Ianao ary nandeha avy tany amin' ny sahan' i Edoma, dia nihorohoro ny tany, ary ny lanitra nitete; eny, ny rahona koa nitete rano.",
+    "5": "Ny tendrombohitra niempo teo anatrehan' i Jehovah, eny, na dia iry Sinay iry aza teo anatrehan' i Jehovah, Andriamanitry ny Isiraely.",
+    "6": "Tamin' ny andron' i Samgara, zanak' i Anata sy tamin' ny andron' i Jaela, dia tsy nodiavina ny lalambe, fa ny sakeli-dalana mivilivily no nalehan' ny mpandeha.",
+    "7": "Lao ny mponina tany amin' ny zana-bohitra, eny, lao monina ny Isiraely, mandra-pitsangako, izaho Debora, eny, mandra-pitsangako ho reny teo amin' ny Isiraely.",
+    "8": "Nifidy andriamani-baovao ny olona, ary tamin' izay dia nisy ady hatreny am-bavahady. Moa nisy ampinga, na lefona na dia iray akory aza hita va teo amin' ny olona efatra alina tamin' ny Isiraely?",
+    "9": "Ny foko mankasitraka ny mpanapaka amin' ny Isiraely, izay nanolo-tena an-tsitrapo teo amin' ny vahoaka. Miderà an' i Jehovah ianareo.",
+    "10": "Mitenena, ianareo izay mitaingina borikivavy fotsy, ianareo izay mipetraka eo amin' ny fitsarana sy mandeha amin' ny lalana.",
+    "11": "Ireo izay afaka tamin' ny tabataban' ny mpandefa zana-tsipìka eo amin' ny fantsakan-drano, eo no hiresahany ny asa marina ataon' i Jehovah, dia ny asa marina amin' ny mponin' ny zana-bohiny eo amin' ny Isiraely; amin' izany dia hidina ny olon' i Jehovah ho any am-bavahady.",
+    "12": "Mifohaza, mifohaza, ry Debora; Mitsangàna, ry Baraka; ka ento ny babonao, ry zanak' i Abinoama.",
+    "13": "Tamin' izany, izay sisa tavela dia nataony nanapaka ny olo-malaza tamin' ny vahoaka; Jehovah nanao ahy hanapaka ny mahery.",
+    "14": "Avy tamin' i Efraima dia nisy fototra taminy nanohitra an' i Amaleka, dia nomba anao teo amin' ny firenenao ny Benjamina; ary avy tamin' i Makira no nidinan' ny governora, ary avy tamin' i Zebolona ireo mitana ny penin' ny mpanoratra.",
+    "15": "Ary ny andrianan' Isakara niaraka tamin' i Debora, dia Isakara sy Baraka koa; nampandehaniny an-tongotra tany an-dohasaha izy. Lehibe ny fiheverana am-po tamin' ny fizarana teo amin' i Robena!",
+    "16": "Nahoana ianareo no mitoetra eo anelanelan' ny vala, hihaino ny fibarareoky ny ondry? Fa lehibe ny fiheverana am-po tamin' ny fizarana teo amin' i Robena!",
+    "17": "Gileada nitoetra tany an-dafin' i Jordana; ary nahoana Dana no nitoetra tany an-tsambo? Asera nitoetra tany amoron-dranomasina, ary teny amin' ny fitodiany no nipetrahany.",
+    "18": "Zebolona sy Naftaly dia olona nanao vy very ny ainy, na dia ho faty aza, teo amin' ny fitoerana avo any an-tsaha.",
+    "19": "Tonga ireo mpanjaka ka niady, eny niady tao Tanaka ireo mpanjakan' i Kanana, dia teo anilan' ny ranon' i Megido; tsy nandray vola ho tombony izy.",
+    "20": "Avy any an-danitra no niadiany, ny kintana tamin' ny nalehany niady tamin' i Sisera.",
+    "21": "Ny ony Kisona nipaoka azy, ilay ony ela, dia ny ony Kisona. Efa nanitsakitsaka olo-mahery ianao, ry fanahiko!",
+    "22": "Tamin' izany dia nikatrokatroka ny kitron-tsoavaly noho ny fihazakazaka, dia ny fihazakazaky ny mahery.",
+    "23": "Ozòny Meroza, hoy Ilay Anjelin' i Jehovah, ozòny dia ozòny ny mponina ao, satria tsy mba tonga hanampy an' i Jehovah izy, eny, tsy nanampy an' i Jehovah hamely ny mahery.",
+    "24": "Hotahiana mihoatra noho ny vehivavy anie i Jaela, vadin' i Hebera Kenita; eny, hotahiana mihoatra noho ny vehivavy mitoetra an-day anie izy.",
+    "25": "Rano no nangatahin-dralehilahy, fa ronono no nomeny azy; dibera no nentiny teo an-dovian' andriana.",
+    "26": "Ny tanany nandray ny tsima-day, ary ny tanany ankavanana nandray ny tantanan' ny mpiasa, dia namely an' i Sisera tamin' ny tantanana izy ka nahavoa ny lohany; namely mafy izy, dia nahaboroaka ny fihirifany.",
+    "27": "Teo amin' ny tongo-dravehivavy no niondrehany, nahalavoany, niamparany; eny, teo amin' ny tongony no niondrehany, nahalavoany; teo amin' izay niondrehany no niamparan' ny fatiny.",
+    "28": "Teo amin' ny varavarankely no nitazanan' ny renin' i Sisera ka niantsoantsoany teo amin' ny makarakara hoe: Nahoana no ela fiavy izato kalesiny? Nahoana no mitaredretra ny kodian' ny kalesiny?",
+    "29": "Ny vehivahy hendry teo aminy no namaly azy, eny, ny tenany no namaly azy.",
+    "30": "Tsy efa mahita va izy? Tsy mizara babo va izy? Dia zazavavy iray na roa ho an' ny isan-dahy, ary lamba samihafa loko ho babon' i Sisera, lamba roa samihafa soratra ho eo am-bozon' ny nahazo babo.",
+    "31": "Ho levona tahaka izany anie ny fahavalonao rehetra, Jehovah ô; fa aoka izay tia Azy kosa ho tahaka ny masoandro, raha miposaka amin' ny heriny izy. Dia nandry efapolo taona ny tany."
+  }
 }

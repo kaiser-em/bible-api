@@ -1,129 +1,37 @@
 {
+  "book": "Eksodosy",
   "chapter": 14,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary niteny tamin' i Mosesy Jehovah ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Lazao amin' ny Zanak' Isiraely mba hivily izy ka hitoby tandrifin' i Pi-hahirota, eo anelanelan' i Migdola sy ny ranomasina manandrify an' i Bala-zefona, eo anoloany no hitobianareo, eo amoron-dranomasina."
-    },
-    {
-      "v": 3,
-      "text": "Fa hilaza ny amin' ny Zanak' Isiraely Farao hoe: Azon' ny tamberintany izy ka voahidin' ny efitra."
-    },
-    {
-      "v": 4,
-      "text": "\"Dia hanamafy ny fon' i Farao Aho, ka hanenjika azy ireo izy; dia hankalazaina Aho eo amin' i Farao sy ny miaramilany rehetra, mba ho fantatry ny Egyptiana fa Izaho no Jehovah. dia nataon' izy ireo izany.\""
-    },
-    {
-      "v": 5,
-      "text": "\" Ary nambara tamin' ny mpanjakan' i Egypta fa efa nandositra ny olona; dia niova ny fon' i Farao sy ny mpanompony ny amin' ny olona, ka hoy izy: Nahoana isika no nanao izao, ka nandefa ny Isiraely hiala tamin' ny fanompoana antsika?\""
-    },
-    {
-      "v": 6,
-      "text": "Dia nanomana ny kalesiny izy ka nitondra ny olony hiaraka aminy."
-    },
-    {
-      "v": 7,
-      "text": "Ary nitondra kalesy voafantina eninjato sy ny kalesin' ny Egyptiana rehetra izy, ka samy nisy kapiteny avy tambonin' izy rehetra."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary Jehovah nanamafy ny fon' i Farao mpanjakan' i Egypta, dia nanenjika ny Zanak' Isiraely izy; ary tamin' ny tanana avo no nivoahan' ny zanak' Isiraely.\""
-    },
-    {
-      "v": 9,
-      "text": "Fa nanenjika azy ny Egyptiana, dia ny soavaly rehetra sy ny kalesin' i Farao, ary ny mpitaingin-tsoavaliny sy ny miaramilany, ka nahatratra azy nitoby teo amoron' ny ranomasina teo anilan' i Pi-hahirota tandrifin' i Bala-zefona."
-    },
-    {
-      "v": 10,
-      "text": "\" Ary rehefa mby akaiky Farao, dia natopin' ny Zanak' Isiraely ny masony, ka, indreo, ny Egyptiana tamy manenjika azy; dia raiki-tahotra indrindra ny Zanak' Isiraely ka nitaraina tamin' i Jehovah.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary hoy izy ireo tamin' i Mosesy: Fa tsy nisy fasana va tany Egypta no nentinao ho faty aty an' efitra izahay? Nahoana no nanao izany taminay ianao ka nitondra anay nivoaka avy tany Egypta?"
-    },
-    {
-      "v": 12,
-      "text": "Tsy izao va no teny nolazainay taminao fony tany Egypta hoe: Avelao ihany izahay hanompo ny Egyptiana? Fa naleonay nanompo ny Egyptiana toy izay ho faty any an' efitra."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary hoy Mosesy tamin' ny olona: Aza matahotra ianareo, mijanòna, ka jereo ny famonjen' i Jehovah izay hasehony anareo anio; fa ny Egyptiana izay hitanareo anio, dia tsy ho hitanareo intsony mandrakizay.\""
-    },
-    {
-      "v": 14,
-      "text": "Jehovah hiady ho anareo fa ianareo kosa hangina."
-    },
-    {
-      "v": 15,
-      "text": "Ary hoy Jehovah tamin' i Mosesy: Nahoana no mitaraina amiko ianao? Lazao amin' ny Zanak' Isiraely mba handroso izy ireo."
-    },
-    {
-      "v": 16,
-      "text": "Ary aingao ny tehinao, dia ahinjiro ambonin' ny ranomasina ny tananao, ka saraho izany, dia handeha hamaky eo afovoan' ny ranomasina mandia ny tany maina ny Zanak' Isiraely."
-    },
-    {
-      "v": 17,
-      "text": "Ary Izaho, indro, Izaho hanamafy ny fon' ny Egyptiana, ka hanaraka azy ireo izy, dia hankalazaina eo amin' i Farao aho sy eo amin' ny miaramilany, sy eo amin' ny kalesiny ary eo amin' ny mpitaingin-tsoavaliny."
-    },
-    {
-      "v": 18,
-      "text": "Dia ho fantatry ny Egyptiana fa Izaho no Jehovah, rehefa ankalazaina Aho eo amin' i farao, eo amin' ny kalesiny ary eo amin' ny mpitaingin-tsoavaliny."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary Ilay Anjelin' Andriamanitra, Izay nandeha teo alohan' ny tobin' ny Isiraely dia nifindra ka nankeo aoriany; ary ny andri-rahona niala avy teo anoloany ka nijanona teo aoriany.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Ary dia tonga tanelanelan' ny tobin' ny Egyptiana sy ny tobin' ny Isiraely izany; ka dia rahona sy fahamaizinana ho an' ny Egyptiana izany, fa nampahazava ny Zanak' Isiraely nony alina, ka tsy nifanatona izy ireo nandritra ny alina.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Dia nahinjitr' i Mosesy teo ambonin' ny ranomasina ny tanany; ary rivotra mahery avy any atsinanana no nampisavan' i Jehovah ny ranomasina mandritra iny alina iny, ka nataony tany maina ny ranomasina, ary dia voasaraka ny rano.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Dia nandeha teo afovoan' ny ranomasina nandia ny tany maina ny Zanak' Isiraely; ary ny rano dia tonga manda ho azy teo amin' ny ankavanany sy teo amin' ny ankaviany.\""
-    },
-    {
-      "v": 23,
-      "text": "Dia nanenjika ny Egyptiana ka niditra nanaraka azy teo afovoan' ny ranomasina, dia ny soavalin' i Farao rehetra sy ny kalesiny ary ny mpitaingin-tsoavaliny."
-    },
-    {
-      "v": 24,
-      "text": "Ary izao no niseho, tamin' ny fiambenana maraina dia nijery ny tafiky ny Egyptiana tao amin' ny andri-afo sy ny rahona Jehovah ka nampifanaritaka ny tafiky ny Egyptiana."
-    },
-    {
-      "v": 25,
-      "text": "Ary nanala ny kodiaran' ny kalesiny Izy, mba hampahasarotra ny fitondrany azy, ka nilazan' ny Egyptiana hoe: Aoka handositra ny tavan' ny Isiraely isika, fa Jehovah no miady amin' ny Egyptiana ho azy ireo."
-    },
-    {
-      "v": 26,
-      "text": "Ary hoy Jehovah tamin' i Mosesy: Ahinjiro eo ambonin' ny ranomasina ny tananao, mba hikatonan' ny rano amin' ny Egyptiana mbamin' ny kalesiny sy ny mpitaingin-tsoavaliny."
-    },
-    {
-      "v": 27,
-      "text": "\"Dia nahinjitr' i Mosesy teo ambonin' ny ranomasina ny tanany ka niverina ho amin' ny heriny ny ranomasina nony tonga ny maraina; ary nandositra izany ny Egyptiana; fa nalentik' i Jehovah teo afovoan' ny ranomasina ny Egyptiana.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary dia nikatona ny rano ka nanarona ny kalesy sy ny mpitaingin-tsoavaly mbamin' ny tafik' i Farao rehetra izay nanaraka azy ireo tao amin' ny ranomasina; tsy nisy niangana na dia iray akory aza.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Fa ny Zanak' Isiraely kosa nandeha tamin' ny tany maina teo afovoan' ny ranomasina; ary ny rano dia tonga manda ho azy teo amin' ny ankavanany sy teo amin' ny ankaviany.\""
-    },
-    {
-      "v": 30,
-      "text": "\"Toy izany no namonjen' i Jehovah ny Isiraely avy tamin' ny tanan' ny Egyptiana tamin' izany andro izany; ary hitan' ny Isiraely teny amoron-dranomasina ny fatin' ny Egyptiana.\""
-    },
-    {
-      "v": 31,
-      "text": "Ary hitan' ny Isiraely izany asa lehibe izay nataon' i Jehovah teo amin' ny Egyptiana izany ka dia natahotra an' i Jehovah ny olona, ary nino an' i Jehovah sy Mosesy mpanompony."
-    }
-  ]
+  "verses": {
+    "1": "Ary niteny tamin' i Mosesy Jehovah ka nanao hoe:",
+    "2": "Lazao amin' ny Zanak' Isiraely mba hivily izy ka hitoby tandrifin' i Pi-hahirota, eo anelanelan' i Migdola sy ny ranomasina manandrify an' i Bala-zefona, eo anoloany no hitobianareo, eo amoron-dranomasina.",
+    "3": "Fa hilaza ny amin' ny Zanak' Isiraely Farao hoe: Azon' ny tamberintany izy ka voahidin' ny efitra.",
+    "4": "Dia hanamafy ny fon' i Farao Aho, ka hanenjika azy ireo izy; dia hankalazaina Aho eo amin' i Farao sy ny miaramilany rehetra, mba ho fantatry ny Egyptiana fa Izaho no Jehovah. dia nataon' izy ireo izany.",
+    "5": " Ary nambara tamin' ny mpanjakan' i Egypta fa efa nandositra ny olona; dia niova ny fon' i Farao sy ny mpanompony ny amin' ny olona, ka hoy izy: Nahoana isika no nanao izao, ka nandefa ny Isiraely hiala tamin' ny fanompoana antsika?",
+    "6": "Dia nanomana ny kalesiny izy ka nitondra ny olony hiaraka aminy.",
+    "7": "Ary nitondra kalesy voafantina eninjato sy ny kalesin' ny Egyptiana rehetra izy, ka samy nisy kapiteny avy tambonin' izy rehetra.",
+    "8": "Ary Jehovah nanamafy ny fon' i Farao mpanjakan' i Egypta, dia nanenjika ny Zanak' Isiraely izy; ary tamin' ny tanana avo no nivoahan' ny zanak' Isiraely.",
+    "9": "Fa nanenjika azy ny Egyptiana, dia ny soavaly rehetra sy ny kalesin' i Farao, ary ny mpitaingin-tsoavaliny sy ny miaramilany, ka nahatratra azy nitoby teo amoron' ny ranomasina teo anilan' i Pi-hahirota tandrifin' i Bala-zefona.",
+    "10": " Ary rehefa mby akaiky Farao, dia natopin' ny Zanak' Isiraely ny masony, ka, indreo, ny Egyptiana tamy manenjika azy; dia raiki-tahotra indrindra ny Zanak' Isiraely ka nitaraina tamin' i Jehovah.",
+    "11": "Ary hoy izy ireo tamin' i Mosesy: Fa tsy nisy fasana va tany Egypta no nentinao ho faty aty an' efitra izahay? Nahoana no nanao izany taminay ianao ka nitondra anay nivoaka avy tany Egypta?",
+    "12": "Tsy izao va no teny nolazainay taminao fony tany Egypta hoe: Avelao ihany izahay hanompo ny Egyptiana? Fa naleonay nanompo ny Egyptiana toy izay ho faty any an' efitra.",
+    "13": "Ary hoy Mosesy tamin' ny olona: Aza matahotra ianareo, mijanòna, ka jereo ny famonjen' i Jehovah izay hasehony anareo anio; fa ny Egyptiana izay hitanareo anio, dia tsy ho hitanareo intsony mandrakizay.",
+    "14": "Jehovah hiady ho anareo fa ianareo kosa hangina.",
+    "15": "Ary hoy Jehovah tamin' i Mosesy: Nahoana no mitaraina amiko ianao? Lazao amin' ny Zanak' Isiraely mba handroso izy ireo.",
+    "16": "Ary aingao ny tehinao, dia ahinjiro ambonin' ny ranomasina ny tananao, ka saraho izany, dia handeha hamaky eo afovoan' ny ranomasina mandia ny tany maina ny Zanak' Isiraely.",
+    "17": "Ary Izaho, indro, Izaho hanamafy ny fon' ny Egyptiana, ka hanaraka azy ireo izy, dia hankalazaina eo amin' i Farao aho sy eo amin' ny miaramilany, sy eo amin' ny kalesiny ary eo amin' ny mpitaingin-tsoavaliny.",
+    "18": "Dia ho fantatry ny Egyptiana fa Izaho no Jehovah, rehefa ankalazaina Aho eo amin' i farao, eo amin' ny kalesiny ary eo amin' ny mpitaingin-tsoavaliny.",
+    "19": "Ary Ilay Anjelin' Andriamanitra, Izay nandeha teo alohan' ny tobin' ny Isiraely dia nifindra ka nankeo aoriany; ary ny andri-rahona niala avy teo anoloany ka nijanona teo aoriany.",
+    "20": "Ary dia tonga tanelanelan' ny tobin' ny Egyptiana sy ny tobin' ny Isiraely izany; ka dia rahona sy fahamaizinana ho an' ny Egyptiana izany, fa nampahazava ny Zanak' Isiraely nony alina, ka tsy nifanatona izy ireo nandritra ny alina.",
+    "21": "Dia nahinjitr' i Mosesy teo ambonin' ny ranomasina ny tanany; ary rivotra mahery avy any atsinanana no nampisavan' i Jehovah ny ranomasina mandritra iny alina iny, ka nataony tany maina ny ranomasina, ary dia voasaraka ny rano.",
+    "22": "Dia nandeha teo afovoan' ny ranomasina nandia ny tany maina ny Zanak' Isiraely; ary ny rano dia tonga manda ho azy teo amin' ny ankavanany sy teo amin' ny ankaviany.",
+    "23": "Dia nanenjika ny Egyptiana ka niditra nanaraka azy teo afovoan' ny ranomasina, dia ny soavalin' i Farao rehetra sy ny kalesiny ary ny mpitaingin-tsoavaliny.",
+    "24": "Ary izao no niseho, tamin' ny fiambenana maraina dia nijery ny tafiky ny Egyptiana tao amin' ny andri-afo sy ny rahona Jehovah ka nampifanaritaka ny tafiky ny Egyptiana.",
+    "25": "Ary nanala ny kodiaran' ny kalesiny Izy, mba hampahasarotra ny fitondrany azy, ka nilazan' ny Egyptiana hoe: Aoka handositra ny tavan' ny Isiraely isika, fa Jehovah no miady amin' ny Egyptiana ho azy ireo.",
+    "26": "Ary hoy Jehovah tamin' i Mosesy: Ahinjiro eo ambonin' ny ranomasina ny tananao, mba hikatonan' ny rano amin' ny Egyptiana mbamin' ny kalesiny sy ny mpitaingin-tsoavaliny.",
+    "27": "Dia nahinjitr' i Mosesy teo ambonin' ny ranomasina ny tanany ka niverina ho amin' ny heriny ny ranomasina nony tonga ny maraina; ary nandositra izany ny Egyptiana; fa nalentik' i Jehovah teo afovoan' ny ranomasina ny Egyptiana.",
+    "28": "Ary dia nikatona ny rano ka nanarona ny kalesy sy ny mpitaingin-tsoavaly mbamin' ny tafik' i Farao rehetra izay nanaraka azy ireo tao amin' ny ranomasina; tsy nisy niangana na dia iray akory aza.",
+    "29": "Fa ny Zanak' Isiraely kosa nandeha tamin' ny tany maina teo afovoan' ny ranomasina; ary ny rano dia tonga manda ho azy teo amin' ny ankavanany sy teo amin' ny ankaviany.",
+    "30": "Toy izany no namonjen' i Jehovah ny Isiraely avy tamin' ny tanan' ny Egyptiana tamin' izany andro izany; ary hitan' ny Isiraely teny amoron-dranomasina ny fatin' ny Egyptiana.",
+    "31": "Ary hitan' ny Isiraely izany asa lehibe izay nataon' i Jehovah teo amin' ny Egyptiana izany ka dia natahotra an' i Jehovah ny olona, ary nino an' i Jehovah sy Mosesy mpanompony."
+  }
 }

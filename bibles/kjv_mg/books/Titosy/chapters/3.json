@@ -1,65 +1,21 @@
 {
+  "book": "Titosy",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Mampahatsiarova azy ireo hanaiky izay manapaka sy manampahefana, hanoa ny mpitondra, ho vonona ho amin’ny asa tsara rehetra,"
-    },
-    {
-      "v": 2,
-      "text": "Tsy hiteny ratsy olona, tsy ho mpila ady, fa ho mpandefitra, maneho ny halemem-panahy rehetra amin’ny olona rehetra."
-    },
-    {
-      "v": 3,
-      "text": "Fa isika koa dia adala fahiny, tsy mpankatò, voafitaka, dia andevon’ny filàna sy ny fahafinaretana maro, ary velona teo amin’ny lolompo sy ny fialonana, sady hala no nifankahala."
-    },
-    {
-      "v": 4,
-      "text": "Fa rehefa niseho ny fahamoram-panahin’Andriamanitra, Mpamonjy antsika, sy ny fitiavany ny olona,"
-    },
-    {
-      "v": 5,
-      "text": "\"Dia tsy avy tamin’ny asan’ny fahamarinana izay nataontsika, fa araka ny famindrampony kosa no namonjeny antsika, tamin’ny fanasan’ny fiterahana indray, sy ny fanavaozan’ny Fanahy Masina;\""
-    },
-    {
-      "v": 6,
-      "text": "Izay naidiny betsaka tamintsika tamin’ny alalan’i Jesosy Kristy, Mpamonjy antsika,"
-    },
-    {
-      "v": 7,
-      "text": "Mba hohamarinina amin’ny fahasoavany isika ka ho tonga mpandova araka ny fanantenana ny fiainana mandrakizay."
-    },
-    {
-      "v": 8,
-      "text": "Mahatoky izany teny izany, ary izany zavatra izany dia tiako hitompoanao mafy, mba hotandreman’izay efa mino an’Andriamanitra ny hanao asa tsara. Izany zavatra izany dia sady tsara no mahasoa ny olona."
-    },
-    {
-      "v": 9,
-      "text": "\"Fa halaviro ny fanontaniana adala sy ny tantaram-pirazanana sy ny fifandirana sy ny ady teny ny amin’ny lalàna; fa tsy mahasoa sady zava-poana izany.\""
-    },
-    {
-      "v": 10,
-      "text": "Izay diso lalana amin' ny finoana, rehefa nanarinao indray maka na indroa, dia ialao,"
-    },
-    {
-      "v": 11,
-      "text": "Satria fantatrao fa voavadika izay manao izany ka sady manota no manamelo-tena koa."
-    },
-    {
-      "v": 12,
-      "text": "Rehefa haniraka an’i Artema na Tykiko ho aty aminao aho dia mazotoa hankany amiko any Nikopolia ianao, fa mikasa handany ny ririnina any aho."
-    },
-    {
-      "v": 13,
-      "text": "Mazotoa hamoaka an’i Zena mpahay lalàna sy Apolosy, mba tsy hisy zavatra tsy ampy aminy."
-    },
-    {
-      "v": 14,
-      "text": "Ary aoka ny antsika koa hianatra hanao asa tsara hahazoany izay ilainy, fandrao tsy hisy vokatra izy."
-    },
-    {
-      "v": 15,
-      "text": "Manao veloma anao izay rehetra aty amiko. Manaova veloma amin’izay rehetra tia anay amin’ny finoana. Ho aminareo rehetra anie ny fahasoavana. Amena.(Nosoratana ho an’i Titosy izay notendrena voalohany ho mpitandrina ny fiangonan’ny Kretana, avy any Nikopolia any Masedonia)."
-    }
-  ]
+  "verses": {
+    "1": "Mampahatsiarova azy ireo hanaiky izay manapaka sy manampahefana, hanoa ny mpitondra, ho vonona ho amin’ny asa tsara rehetra,",
+    "2": "Tsy hiteny ratsy olona, tsy ho mpila ady, fa ho mpandefitra, maneho ny halemem-panahy rehetra amin’ny olona rehetra.",
+    "3": "Fa isika koa dia adala fahiny, tsy mpankatò, voafitaka, dia andevon’ny filàna sy ny fahafinaretana maro, ary velona teo amin’ny lolompo sy ny fialonana, sady hala no nifankahala.",
+    "4": "Fa rehefa niseho ny fahamoram-panahin’Andriamanitra, Mpamonjy antsika, sy ny fitiavany ny olona,",
+    "5": "Dia tsy avy tamin’ny asan’ny fahamarinana izay nataontsika, fa araka ny famindrampony kosa no namonjeny antsika, tamin’ny fanasan’ny fiterahana indray, sy ny fanavaozan’ny Fanahy Masina;",
+    "6": "Izay naidiny betsaka tamintsika tamin’ny alalan’i Jesosy Kristy, Mpamonjy antsika,",
+    "7": "Mba hohamarinina amin’ny fahasoavany isika ka ho tonga mpandova araka ny fanantenana ny fiainana mandrakizay.",
+    "8": "Mahatoky izany teny izany, ary izany zavatra izany dia tiako hitompoanao mafy, mba hotandreman’izay efa mino an’Andriamanitra ny hanao asa tsara. Izany zavatra izany dia sady tsara no mahasoa ny olona.",
+    "9": "Fa halaviro ny fanontaniana adala sy ny tantaram-pirazanana sy ny fifandirana sy ny ady teny ny amin’ny lalàna; fa tsy mahasoa sady zava-poana izany.",
+    "10": "Izay diso lalana amin' ny finoana, rehefa nanarinao indray maka na indroa, dia ialao,",
+    "11": "Satria fantatrao fa voavadika izay manao izany ka sady manota no manamelo-tena koa.",
+    "12": "Rehefa haniraka an’i Artema na Tykiko ho aty aminao aho dia mazotoa hankany amiko any Nikopolia ianao, fa mikasa handany ny ririnina any aho.",
+    "13": "Mazotoa hamoaka an’i Zena mpahay lalàna sy Apolosy, mba tsy hisy zavatra tsy ampy aminy.",
+    "14": "Ary aoka ny antsika koa hianatra hanao asa tsara hahazoany izay ilainy, fandrao tsy hisy vokatra izy.",
+    "15": "Manao veloma anao izay rehetra aty amiko. Manaova veloma amin’izay rehetra tia anay amin’ny finoana. Ho aminareo rehetra anie ny fahasoavana. Amena.(Nosoratana ho an’i Titosy izay notendrena voalohany ho mpitandrina ny fiangonan’ny Kretana, avy any Nikopolia any Masedonia)."
+  }
 }

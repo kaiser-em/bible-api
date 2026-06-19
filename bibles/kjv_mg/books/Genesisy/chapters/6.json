@@ -1,93 +1,28 @@
 {
+  "book": "Genesisy",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izao no niseho, raha vao nihamaro ny olona tambonin' ny tany, ka niteraka zazavavy maro,"
-    },
-    {
-      "v": 2,
-      "text": "Dia hitan' ireo zanak' Andriamanitra fa tsara tarehy ny zanakavavin' ny olona, ka dia naka vady betsaka ho azy tamin' izy rehetra izy araka izay nofidiny."
-    },
-    {
-      "v": 3,
-      "text": "Ary hoy Jehovah: Tsy mba hifandahatra mandrakariva amin' ny olona ny Fanahiko satria nofo ihany izy, ka ho roapolo amby zato taona ny androny."
-    },
-    {
-      "v": 4,
-      "text": "Nisy olona goavambe teto ambonin' ny tany tamin' izany andro izany, ary taorian' izany koa, raha nivady tamin' ny zanakavavin' ny olona ny zanak' Andriamanitra, ka niterahany, dia ireo no tonga olo-mahery hatrizay ela izay, dia lehilahy manan-daza."
-    },
-    {
-      "v": 5,
-      "text": "Ary hitan' i Jehovah fa be ny faharatsian' ny olona tambonin'ny tany, ka ny fiheverany avy amin' ny fisainan' ny fony rehetra dia ratsy ihany mandrakariva."
-    },
-    {
-      "v": 6,
-      "text": "Ary nanenina Jehovah noho ny nanaovany ny olona tambonin'ny tany, ka nalahelo ny fony."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary hoy Jehovah: Haringako tsy ho ambonin' ny tany ny olona izay noforoniko; ny olona mbamin' ny biby, sy ny biby mandady na mikisaka, ary ny voro-manidina eny amin' ny habakabaka; fa manenina Aho noho ny nanaovako azy ireo.\""
-    },
-    {
-      "v": 8,
-      "text": "Fa Noa kosa nahita fitia teo imason' i Jehovah."
-    },
-    {
-      "v": 9,
-      "text": "\"Izao no tantaran' i Noa: Noa dia lehilahy marina sady tsy misy tsiny teo amin' ny olona mpiara-belona taminy; ary niara-nandeha tamin' Andriamanitra Noa.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary niteraka zanakalahy telo Noa dia Sema sy Hama ary Jafeta."
-    },
-    {
-      "v": 11,
-      "text": "Ary simba koa ny tany teo anatrehan' Andriamanitra sady feno herisetra."
-    },
-    {
-      "v": 12,
-      "text": "\"Dia hitan' Andriamanitra ny tany, ka indro, efa simba izy; fa ny nofo rehetra samy efa nanimba ny làlany avy tambonin' ny tany.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Dia hoy Andriamanitra tamin' i Noa: Ny faran' ny nofo rehetra efa mby eto anatrehako, satria efa feno herisetra ny tany noho ny amin' ireo; ka, indro, efa handringana azy mbamin' ny tany aho.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Koa manaova sambofiara ho anao amin' ny hazo gofera; ary hasianao efitrefitra ny sambofiara, dia hopetahanao dity ao anatiny sy eo ivelany izy.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary toy izao no fomba hanaovanao azy: hakiho telonjato ny lavan' ny sambofiara, hakiho dimampolo ny sakany, ary hakiho telopolo ny haavony."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary hasianao varavarankely ny sambofiara, ary amin' ny hakiho iray no hahavitanao azy eo ambony; ary hasianao varavarana ny rindriny; hasianao efitra ambany indrindra, sy faharoa ary fahatelo izy.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary, indro, Izaho, eny, Izaho, no hahatonga safodrano ambonin' ny tany handringana ny nofo rehetra izay manam-pofonaina ambanin' ny lanitra; dia ho faty izay rehetra eo amin' ny tany.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Nefa aminao kosa no hanorenako ny fanekeko; ary hiditra ao anatin' ny sambofiara ianao, sy ny zanakalahinao, sy ny vadinao, ary ny vinantovavinao miaraka aminao.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ary avy amin' ny zava-manan' aina rehetra amin' ny nofo rehetra, no hitondranao roa avy isan-karazany ho ao anatin' ny sambofiara, mba hovelomina miaraka aminao; ho lahy sy vavy ireo.\""
-    },
-    {
-      "v": 20,
-      "text": "Avy amin' ny vorona samy araka ny karazany avy, ary avy amin' ny biby fiompy samy araka ny karazany avy, ary amin' ny biby mandady na mikisaka amin' ny tany samy araka ny karazany avy, roa avy isan-karazany no hankeo aminao, hovelomina."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary analao ho anao ny zavatra rehetra izay mety ho fihinana, ka angony ho eo aminao; dia ho fihinana ho anao sy ho an' ireo koa izany.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Toy izany no nataon' i Noa; araka izay rehetra nandidian' Andriamanitra azy no nataony.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no niseho, raha vao nihamaro ny olona tambonin' ny tany, ka niteraka zazavavy maro,",
+    "2": "Dia hitan' ireo zanak' Andriamanitra fa tsara tarehy ny zanakavavin' ny olona, ka dia naka vady betsaka ho azy tamin' izy rehetra izy araka izay nofidiny.",
+    "3": "Ary hoy Jehovah: Tsy mba hifandahatra mandrakariva amin' ny olona ny Fanahiko satria nofo ihany izy, ka ho roapolo amby zato taona ny androny.",
+    "4": "Nisy olona goavambe teto ambonin' ny tany tamin' izany andro izany, ary taorian' izany koa, raha nivady tamin' ny zanakavavin' ny olona ny zanak' Andriamanitra, ka niterahany, dia ireo no tonga olo-mahery hatrizay ela izay, dia lehilahy manan-daza.",
+    "5": "Ary hitan' i Jehovah fa be ny faharatsian' ny olona tambonin'ny tany, ka ny fiheverany avy amin' ny fisainan' ny fony rehetra dia ratsy ihany mandrakariva.",
+    "6": "Ary nanenina Jehovah noho ny nanaovany ny olona tambonin'ny tany, ka nalahelo ny fony.",
+    "7": "Ary hoy Jehovah: Haringako tsy ho ambonin' ny tany ny olona izay noforoniko; ny olona mbamin' ny biby, sy ny biby mandady na mikisaka, ary ny voro-manidina eny amin' ny habakabaka; fa manenina Aho noho ny nanaovako azy ireo.",
+    "8": "Fa Noa kosa nahita fitia teo imason' i Jehovah.",
+    "9": "Izao no tantaran' i Noa: Noa dia lehilahy marina sady tsy misy tsiny teo amin' ny olona mpiara-belona taminy; ary niara-nandeha tamin' Andriamanitra Noa.",
+    "10": "Ary niteraka zanakalahy telo Noa dia Sema sy Hama ary Jafeta.",
+    "11": "Ary simba koa ny tany teo anatrehan' Andriamanitra sady feno herisetra.",
+    "12": "Dia hitan' Andriamanitra ny tany, ka indro, efa simba izy; fa ny nofo rehetra samy efa nanimba ny làlany avy tambonin' ny tany.",
+    "13": "Dia hoy Andriamanitra tamin' i Noa: Ny faran' ny nofo rehetra efa mby eto anatrehako, satria efa feno herisetra ny tany noho ny amin' ireo; ka, indro, efa handringana azy mbamin' ny tany aho.",
+    "14": "Koa manaova sambofiara ho anao amin' ny hazo gofera; ary hasianao efitrefitra ny sambofiara, dia hopetahanao dity ao anatiny sy eo ivelany izy.",
+    "15": "Ary toy izao no fomba hanaovanao azy: hakiho telonjato ny lavan' ny sambofiara, hakiho dimampolo ny sakany, ary hakiho telopolo ny haavony.",
+    "16": "Ary hasianao varavarankely ny sambofiara, ary amin' ny hakiho iray no hahavitanao azy eo ambony; ary hasianao varavarana ny rindriny; hasianao efitra ambany indrindra, sy faharoa ary fahatelo izy.",
+    "17": "Ary, indro, Izaho, eny, Izaho, no hahatonga safodrano ambonin' ny tany handringana ny nofo rehetra izay manam-pofonaina ambanin' ny lanitra; dia ho faty izay rehetra eo amin' ny tany.",
+    "18": "Nefa aminao kosa no hanorenako ny fanekeko; ary hiditra ao anatin' ny sambofiara ianao, sy ny zanakalahinao, sy ny vadinao, ary ny vinantovavinao miaraka aminao.",
+    "19": "Ary avy amin' ny zava-manan' aina rehetra amin' ny nofo rehetra, no hitondranao roa avy isan-karazany ho ao anatin' ny sambofiara, mba hovelomina miaraka aminao; ho lahy sy vavy ireo.",
+    "20": "Avy amin' ny vorona samy araka ny karazany avy, ary avy amin' ny biby fiompy samy araka ny karazany avy, ary amin' ny biby mandady na mikisaka amin' ny tany samy araka ny karazany avy, roa avy isan-karazany no hankeo aminao, hovelomina.",
+    "21": "Ary analao ho anao ny zavatra rehetra izay mety ho fihinana, ka angony ho eo aminao; dia ho fihinana ho anao sy ho an' ireo koa izany.",
+    "22": "Toy izany no nataon' i Noa; araka izay rehetra nandidian' Andriamanitra azy no nataony."
+  }
 }

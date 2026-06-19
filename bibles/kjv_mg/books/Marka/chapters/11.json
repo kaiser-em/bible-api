@@ -1,137 +1,39 @@
 {
+  "book": "Marka",
   "chapter": 11,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ARY raha nanakaiky an’i Jerosalema tao Betifaga sy Betania any an-tendrombohitra Oliva izy ireo, dia naniraka roa lahy tamin’ny mpianany Jesosy,"
-    },
-    {
-      "v": 2,
-      "text": "\"ka nanao taminy hoe: Mankanesa amin’iroa vohitra tandrifinareo iroa; ary raha vao miditra ao ianareo, miaraka amin’izay dia hahita zana-boriky mifatotra, izay tsy mbola nitaingenan’olona; vahao izy ka ento ety.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary raha misy olona manao aminareo hoe: Ahoana no anaovanareo izao? dia lazao fa misy ilàn’ny Tompo azy; dia havelany hoentina aty miaraka amin’izay izy.\""
-    },
-    {
-      "v": 4,
-      "text": "Dia nandeha izy ka nahita zana-boriky nifatotra teo alatrano anilan’ny varavarana, teo an-tsampanan-dalana, dia novahany izy."
-    },
-    {
-      "v": 5,
-      "text": "Ary ny olona sasany teo nanao taminy hoe: Ahoana no amahanareo ny zana-boriky?"
-    },
-    {
-      "v": 6,
-      "text": "Ary nilaza taminy izy ireo, araka izay nandidian’i Jesosy, dia navelan’ny olona handeha izy."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary nentiny teo amin’i Jesosy ny zana-boriky, dia nataony teo amboniny ny lambany; ary Jesosy nitaingina azy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary maro no namelatra ny lambany teny an-dalana; ary ny sasany nampihahaka rantsan-kazo izay efa notapahany teny an-dalana.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary izay nandeha teo alohany sy izay nanaraka teo aoriany dia niantso sy nanao hoe: Hosana! Isaorana anie Izay avy amin’ny anaran’i Jehovah!"
-    },
-    {
-      "v": 10,
-      "text": "Hotahiana anie ny fanjakana, izay avy amin’ny anaran’i Jehovah, dia ny an’i Davida raintsika! Hosana any amin’ny Avo Indrindra."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary niditra tany Jerosalema Jesosy ka nankeo amin’ny tempoly; ary rehefa nijerijery ny zavatra rehetra Izy, sady efa hariva ny andro tamin’izay, dia niala Izy mbamin’ny roa ambin’ny folo lahy ka nankany Betania.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary nony ampitson’iny, rehefa niala tany Betania ireo, dia noana Izy;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary nahatsinjo hazo aviavimbazaha anankiray mandravina ery lavidavitra Izy, dia nankeo, fa toa hahita voany eo aminy; kanjo nony tonga teo aminy Izy, dia tsy nahita na inona na inona, afa-tsy ravina ihany; fa tsy mbola tonga ny taom-pamoazan’ny aviavimbazaha.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary Jesosy namaly ka nanao taminy hoe: Aza misy mihinana voa avy aminao intsony mandrakizay. Ary ny mpianany nahare izany."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary tonga tany Jerosalema izy ireo; ary niditra teo amin’ny tempoly Jesosy, dia nanomboka nandroaka izay nivarotra sy izay nividy teo amin’ny tempoly sady nanjera ny latabatry ny mpanakalo vola sy ny fipetrahan’ny mpivarotra voromailala;\""
-    },
-    {
-      "v": 16,
-      "text": "Ary tsy navelany hisy olona hitondra fanaka handeha hamaky ny tempoly."
-    },
-    {
-      "v": 17,
-      "text": "\"Dia nampianatra Izy ka nanao taminy hoe: Tsy voasoratra hoe va: “Ny tranoko hatao hoe trano fivavahana ho an’ny firenena rehetra?” ; fa ianareo kosa efa nanao azy ho “zohy fieren’ny jiolahy”.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary nahare izany ny lohan’ny mpisorona mbamin’ny mpanoradalàna, ka nitady izay hamonoany Azy; saingy natahotra Azy izy, satria talanjona ny vahoaka rehetra noho ny foto-pampianarany.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary isan-kariva dia niala tao an-tanàna Izy."
-    },
-    {
-      "v": 20,
-      "text": "Ary nony maraina, raha nandalo izy ireo, dia hitany fa efa maina hatramin’ny fakany ilay hazo aviavimbazaha."
-    },
-    {
-      "v": 21,
-      "text": "Ary Petera nahatsiahy ka nanao taminy hoe: Raby ô, indro fa efa malazo ilay hazo aviavimbazaha nozoninao."
-    },
-    {
-      "v": 22,
-      "text": "Ary namaly Jesosy ka nanao taminy hoe: Manàna finoana an’Andriamanitra."
-    },
-    {
-      "v": 23,
-      "text": "Lazaiko marina aminareo: Na zovy na zovy no hilaza amin’ity tendrombohitra ity hoe: Mifindrà, ka mianjerà any an-dranomasina, ka tsy misalasala ao am-pony, fa hino, fa ho tonga ny zavatra lazainy, dia ho azony izay rehetra lazainy."
-    },
-    {
-      "v": 24,
-      "text": "Koa lazaiko aminareo: Na inona na inona irinareo, rehefa mivavaka ianareo, dia minoa fa efa nandray izany ianareo, dia ho azonareo izany."
-    },
-    {
-      "v": 25,
-      "text": "Ary raha mitsangana mivavaka ianareo, ka misy olona anananareo alahelo, dia mamelà ny helony, mba havelan’ny Rainareo Izay any an-danitra kosa ny helokareo."
-    },
-    {
-      "v": 26,
-      "text": "Fa raha tsy mamela heloka ianareo, ny Rainareo Izay any an-danitra kosa tsy hamela ny helokareo."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary tonga tany Jerosalema indray izy ireo; ary raha nandeha teo amin’ny tempoly Jesosy dia nanatona Azy ny lohan’ny mpisorona sy ny mpanoradalàna ary ny loholona,\""
-    },
-    {
-      "v": 28,
-      "text": "Ka nanao taminy hoe: Fahefana manao ahoana no anaovanao izao zavatra izao? Ary iza no nanome Anao izany fahefana izany hanaovana izao zavatra izao?"
-    },
-    {
-      "v": 29,
-      "text": "\"Ary Jesosy namaly ka nanao taminy hoe: Hanontany anareo zavatra iray loha kosa Aho, ka valio Aho; ary dia holazaiko aminareo izay fahefana anaovako izao zavatra izao:\""
-    },
-    {
-      "v": 30,
-      "text": "Ny batisan’i Jaona, avy tany an-danitra va, sa avy tamin’ny olona? Valio Aho."
-    },
-    {
-      "v": 31,
-      "text": "Ary niara-nisaina izy ireo ka nanao hoe: Raha holazaintsika hoe mantsy: Avy tany an-danitra, dia hataony hoe: Nahoana àry no tsy nino azy ianareo?"
-    },
-    {
-      "v": 32,
-      "text": "Fa raha holazaintsika kosa hoe: Avy tamin’ny olona, natahotra ny olona izy ireo, satria neken’ny olona rehetra fa mpaminany tokoa Jaona."
-    },
-    {
-      "v": 33,
-      "text": "Dia namaly an’i Jesosy izy ireo ka nanao hoe: tsy afaka hilaza izahay. Ary Jesosy namaly ka nanao taminy hoe: Izaho kosa tsy hilaza aminareo izay fahefana anaovako izao zavatra izao."
-    }
-  ]
+  "verses": {
+    "1": "ARY raha nanakaiky an’i Jerosalema tao Betifaga sy Betania any an-tendrombohitra Oliva izy ireo, dia naniraka roa lahy tamin’ny mpianany Jesosy,",
+    "2": "ka nanao taminy hoe: Mankanesa amin’iroa vohitra tandrifinareo iroa; ary raha vao miditra ao ianareo, miaraka amin’izay dia hahita zana-boriky mifatotra, izay tsy mbola nitaingenan’olona; vahao izy ka ento ety.",
+    "3": "Ary raha misy olona manao aminareo hoe: Ahoana no anaovanareo izao? dia lazao fa misy ilàn’ny Tompo azy; dia havelany hoentina aty miaraka amin’izay izy.",
+    "4": "Dia nandeha izy ka nahita zana-boriky nifatotra teo alatrano anilan’ny varavarana, teo an-tsampanan-dalana, dia novahany izy.",
+    "5": "Ary ny olona sasany teo nanao taminy hoe: Ahoana no amahanareo ny zana-boriky?",
+    "6": "Ary nilaza taminy izy ireo, araka izay nandidian’i Jesosy, dia navelan’ny olona handeha izy.",
+    "7": "Ary nentiny teo amin’i Jesosy ny zana-boriky, dia nataony teo amboniny ny lambany; ary Jesosy nitaingina azy.",
+    "8": "Ary maro no namelatra ny lambany teny an-dalana; ary ny sasany nampihahaka rantsan-kazo izay efa notapahany teny an-dalana.",
+    "9": "Ary izay nandeha teo alohany sy izay nanaraka teo aoriany dia niantso sy nanao hoe: Hosana! Isaorana anie Izay avy amin’ny anaran’i Jehovah!",
+    "10": "Hotahiana anie ny fanjakana, izay avy amin’ny anaran’i Jehovah, dia ny an’i Davida raintsika! Hosana any amin’ny Avo Indrindra.",
+    "11": "Ary niditra tany Jerosalema Jesosy ka nankeo amin’ny tempoly; ary rehefa nijerijery ny zavatra rehetra Izy, sady efa hariva ny andro tamin’izay, dia niala Izy mbamin’ny roa ambin’ny folo lahy ka nankany Betania.",
+    "12": "Ary nony ampitson’iny, rehefa niala tany Betania ireo, dia noana Izy;",
+    "13": "Ary nahatsinjo hazo aviavimbazaha anankiray mandravina ery lavidavitra Izy, dia nankeo, fa toa hahita voany eo aminy; kanjo nony tonga teo aminy Izy, dia tsy nahita na inona na inona, afa-tsy ravina ihany; fa tsy mbola tonga ny taom-pamoazan’ny aviavimbazaha.",
+    "14": "Ary Jesosy namaly ka nanao taminy hoe: Aza misy mihinana voa avy aminao intsony mandrakizay. Ary ny mpianany nahare izany.",
+    "15": "Ary tonga tany Jerosalema izy ireo; ary niditra teo amin’ny tempoly Jesosy, dia nanomboka nandroaka izay nivarotra sy izay nividy teo amin’ny tempoly sady nanjera ny latabatry ny mpanakalo vola sy ny fipetrahan’ny mpivarotra voromailala;",
+    "16": "Ary tsy navelany hisy olona hitondra fanaka handeha hamaky ny tempoly.",
+    "17": "Dia nampianatra Izy ka nanao taminy hoe: Tsy voasoratra hoe va: “Ny tranoko hatao hoe trano fivavahana ho an’ny firenena rehetra?” ; fa ianareo kosa efa nanao azy ho “zohy fieren’ny jiolahy”.",
+    "18": "Ary nahare izany ny lohan’ny mpisorona mbamin’ny mpanoradalàna, ka nitady izay hamonoany Azy; saingy natahotra Azy izy, satria talanjona ny vahoaka rehetra noho ny foto-pampianarany.",
+    "19": "Ary isan-kariva dia niala tao an-tanàna Izy.",
+    "20": "Ary nony maraina, raha nandalo izy ireo, dia hitany fa efa maina hatramin’ny fakany ilay hazo aviavimbazaha.",
+    "21": "Ary Petera nahatsiahy ka nanao taminy hoe: Raby ô, indro fa efa malazo ilay hazo aviavimbazaha nozoninao.",
+    "22": "Ary namaly Jesosy ka nanao taminy hoe: Manàna finoana an’Andriamanitra.",
+    "23": "Lazaiko marina aminareo: Na zovy na zovy no hilaza amin’ity tendrombohitra ity hoe: Mifindrà, ka mianjerà any an-dranomasina, ka tsy misalasala ao am-pony, fa hino, fa ho tonga ny zavatra lazainy, dia ho azony izay rehetra lazainy.",
+    "24": "Koa lazaiko aminareo: Na inona na inona irinareo, rehefa mivavaka ianareo, dia minoa fa efa nandray izany ianareo, dia ho azonareo izany.",
+    "25": "Ary raha mitsangana mivavaka ianareo, ka misy olona anananareo alahelo, dia mamelà ny helony, mba havelan’ny Rainareo Izay any an-danitra kosa ny helokareo.",
+    "26": "Fa raha tsy mamela heloka ianareo, ny Rainareo Izay any an-danitra kosa tsy hamela ny helokareo.",
+    "27": "Ary tonga tany Jerosalema indray izy ireo; ary raha nandeha teo amin’ny tempoly Jesosy dia nanatona Azy ny lohan’ny mpisorona sy ny mpanoradalàna ary ny loholona,",
+    "28": "Ka nanao taminy hoe: Fahefana manao ahoana no anaovanao izao zavatra izao? Ary iza no nanome Anao izany fahefana izany hanaovana izao zavatra izao?",
+    "29": "Ary Jesosy namaly ka nanao taminy hoe: Hanontany anareo zavatra iray loha kosa Aho, ka valio Aho; ary dia holazaiko aminareo izay fahefana anaovako izao zavatra izao:",
+    "30": "Ny batisan’i Jaona, avy tany an-danitra va, sa avy tamin’ny olona? Valio Aho.",
+    "31": "Ary niara-nisaina izy ireo ka nanao hoe: Raha holazaintsika hoe mantsy: Avy tany an-danitra, dia hataony hoe: Nahoana àry no tsy nino azy ianareo?",
+    "32": "Fa raha holazaintsika kosa hoe: Avy tamin’ny olona, natahotra ny olona izy ireo, satria neken’ny olona rehetra fa mpaminany tokoa Jaona.",
+    "33": "Dia namaly an’i Jesosy izy ireo ka nanao hoe: tsy afaka hilaza izahay. Ary Jesosy namaly ka nanao taminy hoe: Izaho kosa tsy hilaza aminareo izay fahefana anaovako izao zavatra izao."
+  }
 }

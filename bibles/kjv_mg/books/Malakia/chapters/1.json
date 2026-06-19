@@ -1,61 +1,20 @@
 {
+  "book": "Malakia",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ny teny faminaniana avy tamin' i Jehovah nampitondrainy an' i Malakia ho amin' ny Isiraely."
-    },
-    {
-      "v": 2,
-      "text": "\"Efa tia anareo Aho, hoy Jehovah; nefa hoy ianareo: inona no nentinao nitia anay? Tsy rahalahin' i Jakoba va Esao? hoy Jehovah; nefa Jakoba no tiako,\""
-    },
-    {
-      "v": 3,
-      "text": "Fa Esao no halako, ka nataoko tany lao ny tendrombohiny, ary ny lovany natolotro ho an' ny dragona any an' efitra."
-    },
-    {
-      "v": 4,
-      "text": "\"Satria hoy Edoma: efa nampahantraina izahay, nefa hiverina sy hanorina ny toerana rava; izao no lazain' i Jehovah, Tompon' ny maro: Ireo dia hanamboatra, fa Izaho kosa handrava; ary ireo dia hatao hoe tanin' ny faharatsiana, dia firenena izay tezeran' i Jehovah mandrakizay.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary ny masonareo no hahita, ka dia hiteny ianareo hanao hoe: Jehovah dia ho lehibe any ankoatra ny tanin' ny Isiraely."
-    },
-    {
-      "v": 6,
-      "text": "\"Ny zanaka manaja ny rainy, ary ny mpanompo ny tompony; koa raha Ray Aho, aiza àry izay hajako? ary raha Tompo Aho, aiza izay tahotra Ahy? hoy Jehovah, Tompon' ny maro, aminareo, ry mpisorona, izay manamavo ny anarako, nefa manao hoe: amin' inona no nanamavoanay ny anaranao?\""
-    },
-    {
-      "v": 7,
-      "text": "Manatitra mofo voaloto eo ambonin' ny alitarako ianareo, nefa manao hoe: amin' inona no nandotoanay Anao? Amin' ny fanaovanareo hoe: ny latabatr' i Jehovah dia fanazimbazimba."
-    },
-    {
-      "v": 8,
-      "text": "Ary raha jamba no entinareo atao fanatitra, tsy ratsy hoe izany? Ary raha mandringa sy marary no atolotrareo, tsy ratsy hoe izany? Atero ho an' ny governoranao ange izany ankehitriny, moa hahazo sitraka na fitia aminy va ianao? hoy Jehovah, Tompon' ny maro."
-    },
-    {
-      "v": 9,
-      "text": "\"Koa ankehitriny, masìna ianareo, andeha mifona amin' Andriamanitra hamindrany fo amintsika; ny tananareo no nahatonga izany, moa hankasitraka va Izy noho ny aminareo? hoy Jehovah, Tompon' ny maro.\""
-    },
-    {
-      "v": 10,
-      "text": "Iza eo aminareo no handrindrina ny varavarana mba tsy handrehitra afo fahatany eo amin' ny alitarako? Tsy hankasitraka anareo Aho, hoy Jehovah, Tompon' ny maro, na te-handray fanatitra amin' ny tananareo."
-    },
-    {
-      "v": 11,
-      "text": "\"Fa hatramin' ny fiposahan' ny masoandro ka hatramin' ny filentehany dia ho lehibe ny anarako any amin' ny Jentilisa, ary any amin' ny toerana rehetra no handoroana ditin-kazo manitra sy hanaterana fanatitra madio ho an' ny anarako; fa ho lehibe any amin' ny jentilisa ny anarako, hoy Jehovah, Tompon' ny maro\""
-    },
-    {
-      "v": 12,
-      "text": "Fa ianareo kosa nanamavo izany amin' ny fanaovanareo hoe: voaloto ny latabatr' i Jehovah ary ny vokany, eny, ny haniny dia tsinontsinona."
-    },
-    {
-      "v": 13,
-      "text": "\"Hoy koa ianareo: endrey, hasasarana lahy! Ary ikefonanareo izany, hoy Jehovah, Tompon' ny maro; entinareo ny noviraviraina sy ny mandringa sy ny marary, toy izany no entinareo ho fanatitra, moa te-handray izany amin' ny tananareo va Aho? hoy Jehovah.\""
-    },
-    {
-      "v": 14,
-      "text": "Fa voaozona ny mpamitaka izay manana ondrilahy ao amin' ny ondriny, ary mivoady ka manao fanatitra zava-dratsy ho an' i Jehovah. Fa Mpanjaka lehibe Aho, hoy Jehovah, Tompon' ny maro, ary ny anarako dia mahatahotra any amin' ny jentilisa."
-    }
-  ]
+  "verses": {
+    "1": "Ny teny faminaniana avy tamin' i Jehovah nampitondrainy an' i Malakia ho amin' ny Isiraely.",
+    "2": "Efa tia anareo Aho, hoy Jehovah; nefa hoy ianareo: inona no nentinao nitia anay? Tsy rahalahin' i Jakoba va Esao? hoy Jehovah; nefa Jakoba no tiako,",
+    "3": "Fa Esao no halako, ka nataoko tany lao ny tendrombohiny, ary ny lovany natolotro ho an' ny dragona any an' efitra.",
+    "4": "Satria hoy Edoma: efa nampahantraina izahay, nefa hiverina sy hanorina ny toerana rava; izao no lazain' i Jehovah, Tompon' ny maro: Ireo dia hanamboatra, fa Izaho kosa handrava; ary ireo dia hatao hoe tanin' ny faharatsiana, dia firenena izay tezeran' i Jehovah mandrakizay.",
+    "5": "Ary ny masonareo no hahita, ka dia hiteny ianareo hanao hoe: Jehovah dia ho lehibe any ankoatra ny tanin' ny Isiraely.",
+    "6": "Ny zanaka manaja ny rainy, ary ny mpanompo ny tompony; koa raha Ray Aho, aiza àry izay hajako? ary raha Tompo Aho, aiza izay tahotra Ahy? hoy Jehovah, Tompon' ny maro, aminareo, ry mpisorona, izay manamavo ny anarako, nefa manao hoe: amin' inona no nanamavoanay ny anaranao?",
+    "7": "Manatitra mofo voaloto eo ambonin' ny alitarako ianareo, nefa manao hoe: amin' inona no nandotoanay Anao? Amin' ny fanaovanareo hoe: ny latabatr' i Jehovah dia fanazimbazimba.",
+    "8": "Ary raha jamba no entinareo atao fanatitra, tsy ratsy hoe izany? Ary raha mandringa sy marary no atolotrareo, tsy ratsy hoe izany? Atero ho an' ny governoranao ange izany ankehitriny, moa hahazo sitraka na fitia aminy va ianao? hoy Jehovah, Tompon' ny maro.",
+    "9": "Koa ankehitriny, masìna ianareo, andeha mifona amin' Andriamanitra hamindrany fo amintsika; ny tananareo no nahatonga izany, moa hankasitraka va Izy noho ny aminareo? hoy Jehovah, Tompon' ny maro.",
+    "10": "Iza eo aminareo no handrindrina ny varavarana mba tsy handrehitra afo fahatany eo amin' ny alitarako? Tsy hankasitraka anareo Aho, hoy Jehovah, Tompon' ny maro, na te-handray fanatitra amin' ny tananareo.",
+    "11": "Fa hatramin' ny fiposahan' ny masoandro ka hatramin' ny filentehany dia ho lehibe ny anarako any amin' ny Jentilisa, ary any amin' ny toerana rehetra no handoroana ditin-kazo manitra sy hanaterana fanatitra madio ho an' ny anarako; fa ho lehibe any amin' ny jentilisa ny anarako, hoy Jehovah, Tompon' ny maro",
+    "12": "Fa ianareo kosa nanamavo izany amin' ny fanaovanareo hoe: voaloto ny latabatr' i Jehovah ary ny vokany, eny, ny haniny dia tsinontsinona.",
+    "13": "Hoy koa ianareo: endrey, hasasarana lahy! Ary ikefonanareo izany, hoy Jehovah, Tompon' ny maro; entinareo ny noviraviraina sy ny mandringa sy ny marary, toy izany no entinareo ho fanatitra, moa te-handray izany amin' ny tananareo va Aho? hoy Jehovah.",
+    "14": "Fa voaozona ny mpamitaka izay manana ondrilahy ao amin' ny ondriny, ary mivoady ka manao fanatitra zava-dratsy ho an' i Jehovah. Fa Mpanjaka lehibe Aho, hoy Jehovah, Tompon' ny maro, ary ny anarako dia mahatahotra any amin' ny jentilisa."
+  }
 }

@@ -1,73 +1,23 @@
 {
+  "book": "2 Tantara",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Solomona, zanak' i Davida dia nitombo hery tamin' ny fanjakany, ary Jehovah Andriamaniny nomba azy ka nanandratra azy indrindra."
-    },
-    {
-      "v": 2,
-      "text": "Ary Solomona niteny tamin' ny Isiraely rehetra, dia ny mpifehy arivo sy ny mpifehy zato sy ny mpitsara ary ny loham-pirenena rehetra tamin' ny Isiraely, dia ny lohan' ny fianakaviana,"
-    },
-    {
-      "v": 3,
-      "text": "\"Ka dia niakatra ho any amin' ny fitoerana avo tao Gibeona i Solomona sy ny fiangonana rehetra; fa tao ny tranolay fihaonana izay an' Andriamanitra, ilay nataon' i Mosesy, mpanompon' i Jehovah, tany an' efitra.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Fa ny fiaran' Andriamanitra efa nampakarin' i Davida avy tany Kiriata-jearima ho ao amin' ny fitoerana efa namboariny ho azy; fa efa nanorina lay ho azy tany Jerosalema izy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary koa ny alitara varahina izay nataon' i Bezalila, zanak' i Ory, zanak' i Hora, dia napetrany teo anoloan' ny tabernakelin' i Jehovah; ary Solomona sy ny fiangonana nitady azy tao.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary Solomona niakatra ho eo amin' ny alitara varahina eo anatrehan' i Jehovah izay tao amin' ny tranolay fihaonana ary nanolotra fanatitra dorana arivo teo amboniny."
-    },
-    {
-      "v": 7,
-      "text": "Tamin' iny alina iny no nisehoan' i Jehovah tamin' i Solomona, ka hoy Izy taminy: Angataho izay tianao homeko anao."
-    },
-    {
-      "v": 8,
-      "text": "Dia hoy Solomona tamin' Andriamanitra: Ianao efa naneho famindrampo lehibe tamin' i Davida raiko ary nampanjaka ahy handimby azy."
-    },
-    {
-      "v": 9,
-      "text": "\"Koa ankehitriny, ry Jehovah Andriamanitra ô, aoka ho tanteraka ny teninao tamin' i Davida raiko; fa Ianao efa nampanjaka ahy tamin' ny vahoaka marobe tahaka ny vovo-tany.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Koa omeo fahendrena sy fahalalana aho hitarihako ireto vahoaka ireto mivoaka sy miditra; fa iza no hahay mitsara izao olonao betsaka izao?\""
-    },
-    {
-      "v": 11,
-      "text": "\"Dia hoy Andriamanitra tamin' i Solomona: Satria tao am-ponao izany, ka tsy nangataka fananana sy harena ianao, na voninahitra, na ny ain' ny fahavalonao, na ny ho ela velona aza tsy mba nangatahinao, fa nangataka fahendrena sy fahalalana ho anao ianao mba hitsaranao ny oloko izay nampanjakako anao;\""
-    },
-    {
-      "v": 12,
-      "text": "\"Dia omena anao ny fahendrena sy ny fahalalana; ary homeko fananana sy harena ary voninahitra ianao, izay tsy mbola nananan' ny mpanjaka talohanao ary tsy hisy hanana tahaka izany any aorianao.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary tonga tany Jerosalema Solomona avy teo amin' ny fitoerana avo tao Gibeona, dia teo anoloan' ny tranolay fihaonana; ary nanjaka tamin' ny Isiraely izy.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary nanangona kalesy sy mpitaingin-tsoavaly Solomona; ary nanana kalesy efajato amby arivo izy sy mpitaingin-tsoavaly roa arivo sy iray alina, izay nataony tany amin' ny tanàna fitoeran' ny kalesy ary tao amin' ny mpanjaka tany Jerosalema.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary nataon' ny mpanjaka ho tahaka ny vato ny habetsahan' ny volafotsy sy ny volamena tany Jerosalema ary ny hazo sedera nataony ho toy ny hazo amontana eny an-dohasaha ny habetsahany."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary avy tany Egypta no nahazoan' i Solomona soavaly sy folin-kariry; ary tamin' ny vidiny voatendry no nandraisan' ny mpandranton' ny mpanjaka ny folin-kariry.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ny vidin' ny kalesy iray nentiny niakatra avy tany Egypta dia sekely volafotsy eninjato, ary ny soavaly dia dimampolo amby zato avy; ary toy izany koa no nitondrany soavaly ho an' ny mpanjakan' ny Hetita rehetra sy ny mpanjakan' ny Syriana.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary Solomona, zanak' i Davida dia nitombo hery tamin' ny fanjakany, ary Jehovah Andriamaniny nomba azy ka nanandratra azy indrindra.",
+    "2": "Ary Solomona niteny tamin' ny Isiraely rehetra, dia ny mpifehy arivo sy ny mpifehy zato sy ny mpitsara ary ny loham-pirenena rehetra tamin' ny Isiraely, dia ny lohan' ny fianakaviana,",
+    "3": "Ka dia niakatra ho any amin' ny fitoerana avo tao Gibeona i Solomona sy ny fiangonana rehetra; fa tao ny tranolay fihaonana izay an' Andriamanitra, ilay nataon' i Mosesy, mpanompon' i Jehovah, tany an' efitra.",
+    "4": "Fa ny fiaran' Andriamanitra efa nampakarin' i Davida avy tany Kiriata-jearima ho ao amin' ny fitoerana efa namboariny ho azy; fa efa nanorina lay ho azy tany Jerosalema izy.",
+    "5": "Ary koa ny alitara varahina izay nataon' i Bezalila, zanak' i Ory, zanak' i Hora, dia napetrany teo anoloan' ny tabernakelin' i Jehovah; ary Solomona sy ny fiangonana nitady azy tao.",
+    "6": "Ary Solomona niakatra ho eo amin' ny alitara varahina eo anatrehan' i Jehovah izay tao amin' ny tranolay fihaonana ary nanolotra fanatitra dorana arivo teo amboniny.",
+    "7": "Tamin' iny alina iny no nisehoan' i Jehovah tamin' i Solomona, ka hoy Izy taminy: Angataho izay tianao homeko anao.",
+    "8": "Dia hoy Solomona tamin' Andriamanitra: Ianao efa naneho famindrampo lehibe tamin' i Davida raiko ary nampanjaka ahy handimby azy.",
+    "9": "Koa ankehitriny, ry Jehovah Andriamanitra ô, aoka ho tanteraka ny teninao tamin' i Davida raiko; fa Ianao efa nampanjaka ahy tamin' ny vahoaka marobe tahaka ny vovo-tany.",
+    "10": "Koa omeo fahendrena sy fahalalana aho hitarihako ireto vahoaka ireto mivoaka sy miditra; fa iza no hahay mitsara izao olonao betsaka izao?",
+    "11": "Dia hoy Andriamanitra tamin' i Solomona: Satria tao am-ponao izany, ka tsy nangataka fananana sy harena ianao, na voninahitra, na ny ain' ny fahavalonao, na ny ho ela velona aza tsy mba nangatahinao, fa nangataka fahendrena sy fahalalana ho anao ianao mba hitsaranao ny oloko izay nampanjakako anao;",
+    "12": "Dia omena anao ny fahendrena sy ny fahalalana; ary homeko fananana sy harena ary voninahitra ianao, izay tsy mbola nananan' ny mpanjaka talohanao ary tsy hisy hanana tahaka izany any aorianao.",
+    "13": "Ary tonga tany Jerosalema Solomona avy teo amin' ny fitoerana avo tao Gibeona, dia teo anoloan' ny tranolay fihaonana; ary nanjaka tamin' ny Isiraely izy.",
+    "14": "Ary nanangona kalesy sy mpitaingin-tsoavaly Solomona; ary nanana kalesy efajato amby arivo izy sy mpitaingin-tsoavaly roa arivo sy iray alina, izay nataony tany amin' ny tanàna fitoeran' ny kalesy ary tao amin' ny mpanjaka tany Jerosalema.",
+    "15": "Ary nataon' ny mpanjaka ho tahaka ny vato ny habetsahan' ny volafotsy sy ny volamena tany Jerosalema ary ny hazo sedera nataony ho toy ny hazo amontana eny an-dohasaha ny habetsahany.",
+    "16": "Ary avy tany Egypta no nahazoan' i Solomona soavaly sy folin-kariry; ary tamin' ny vidiny voatendry no nandraisan' ny mpandranton' ny mpanjaka ny folin-kariry.",
+    "17": "Ary ny vidin' ny kalesy iray nentiny niakatra avy tany Egypta dia sekely volafotsy eninjato, ary ny soavaly dia dimampolo amby zato avy; ary toy izany koa no nitondrany soavaly ho an' ny mpanjakan' ny Hetita rehetra sy ny mpanjakan' ny Syriana."
+  }
 }

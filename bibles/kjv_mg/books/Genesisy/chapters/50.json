@@ -1,109 +1,32 @@
 {
+  "book": "Genesisy",
   "chapter": 50,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nihohoka tamin' ny tavan' ny rainy Josefa ka nitomany teo amboniny sady nanoroka azy."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary nasain' i Josefa nanosotra zava-manitra an-drainy ny mpanompony izay dokotera; dia nanosotra an' Isiraely ny dokotera.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary notanterahiny taminy ny efapolo andro, fa izany no fanatanterahana ny andron' izay faty hosorana; ary nisaona azy fitopolo andro ny Egyptiana.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary rehefa tapitra ny andro nisaonana azy, Josefa dia niteny tamin' ny tao an-tranon' i Farao ka nanao hoe: Raha mba mahita fitia eo imasonareo aho ankehitriny, masìna ianareo, lazao eo an-tsofin' i Farao hoe:"
-    },
-    {
-      "v": 5,
-      "text": "\"Ny raiko efa nampianiana ahy nanao hoe: Indro, ho faty aho; koa ao amin' ny fasako izay efa nohadiko ho ahy any amin' ny tany Kanana, dia ao no andeveno ahy. Koa ankehitriny, trarantitra ianao, aoka aho hiakatra ka handevina ny raiko, dia hiverina indray.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary hoy Farao: Miakara àry, ka aleveno ny rainao araka izay efa nampianianany anao."
-    },
-    {
-      "v": 7,
-      "text": "\" Dia lasa niakatra Josefa handevina ny rainy; ary niara-niakatra taminy ny mpanompon' i Farao rehetra, dia ny loholona tao an-tranony sy ny loholona rehetra tany amin' ny tany Egypta,\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary ny ankohonan' i Josefa rehetra sy ny rahalahiny ary ny ankohonan-drainy; ny ankizy madinika sy ny ondriny aman' osiny sy ny ombiny ihany no navelany tao amin' ny tany Gosena.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary nisy kalesy sy mpitaingin-tsoavaly niara-niakatra taminy koa, ka lehibe dia lehibe ny tobiny."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary rehefa tonga tao am-pamoloan' i Atada ireo, izay ao an-dafin' i Jordana, dia nanao fisaonana lehibe sy mafy indrindra teo izy; dia nisaona an-drainy hafitoana Josefa.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary rehefa hitan' ny Kananita tompon-tany ny fisaonana teo am-pamoloan' i Atada, dia hoy izy: Fisaonana mafy amin' ny Egyptiana izao; izany no nanaovany ny anarany hoe: Abel-mizraima, izay ao an-dafin' i Jordana.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary ny zanakalahin' i Jakoba nanao taminy araka izay nandidiany azy."
-    },
-    {
-      "v": 13,
-      "text": "Dia nitondra azy tao amin' ny tany Kanana, ary nandevina azy tao amin' ny zohy amin' ny saha Makpela, tandrifin' i Mamre, dia ilay novidin' i Abrahama mbamin' ny saha tamin' i Efrona Hetita ho tany fandevenana."
-    },
-    {
-      "v": 14,
-      "text": "Ary rehefa voalevin' i Josefa ny rainy, dia niverina tany Egypta izy sy ny rahalahiny mbamin' izay rehetra niara-niakatra taminy handevina ny rainy."
-    },
-    {
-      "v": 15,
-      "text": "Ary rehefa hitan' ny rahalahin' i Josefa fa maty ny rainy, dia hoy izy: Angamba hankahala antsika Josefa ka hamaly antsika tokoa noho ny ratsy rehetra izay nataontsika taminy."
-    },
-    {
-      "v": 16,
-      "text": "Dia nandefa iraka nankany amin' i Josefa izy nanao hoe: Ny rainao nanafatra tokoa talohan' ny nahafatesany nanao hoe:"
-    },
-    {
-      "v": 17,
-      "text": "\" Izao no holazainareo amin' i Josefa: Ankehitriny masìna ianao, mamelà re ny fahadisoan' ny rahalahinao sy ny fahotany; fa efa nanao ratsy taminao izy; ary ankehitriny, masìna ianao, mamelà ny fahadisoan'ny mpanompon'ny Andriamanitry ny rainao. Dia nitomany Josefa raha niteny taminy izy ireo.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary nanatona azy ny rahalahiny, dia niankohoka teo anatrehany ka nanao hoe: Indreto izahay ho mpanomponao."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary hoy Josefa taminy: Aza matahotra; fa moa solon' Andriamanitra va aho?\""
-    },
-    {
-      "v": 20,
-      "text": "\"Fa ianareo dia nisaina hanisy ratsy ahy; fa Andriamanitra kosa nihevitra izany ho soa, mba hanao tahaka ny amin' izao anio izao, hamelona olona betsaka.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Koa ankehitriny, aza matahotra ianareo; hamelona anareo sy ny zanakareo madinika aho. Dia nampionona azy sy nanao teny malefaka nahafinaritra azy izy.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary Josefa sy ny ankohonan' ny rainy nonina tany Egypta; ary velona folo amby zato taona Josefa.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary hitan' i Josefa ny zafiafin' i Efraima; ny zanak' i Makira koa, zanakalahin' i Manase, dia noraisin' i Josefa ho eo am-pofoany.\""
-    },
-    {
-      "v": 24,
-      "text": "Ary hoy Josefa tamin' ny rahalahiny: Ho faty aho, ary Andriamanitra hamangy anareo tokoa ka hitondra anareo hiala amin' ity tany ity ho any amin' ny tany izay nianianany tamin' i Abrahama sy Isaka ary Jakoba."
-    },
-    {
-      "v": 25,
-      "text": "Ary Josefa dia nampianiana ny zanak' Isiraely ka nanao hoe: Hamangy anareo tokoa Andriamanitra, dia hitondra ny taolako hiala eto ianareo."
-    },
-    {
-      "v": 26,
-      "text": "\"Dia maty Josefa, rehefa folo amby zato taona; ary dia nohosorany zava-manitra izy ka napetrany tao anaty vatam-paty tany Egypta.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary nihohoka tamin' ny tavan' ny rainy Josefa ka nitomany teo amboniny sady nanoroka azy.",
+    "2": "Ary nasain' i Josefa nanosotra zava-manitra an-drainy ny mpanompony izay dokotera; dia nanosotra an' Isiraely ny dokotera.",
+    "3": "Ary notanterahiny taminy ny efapolo andro, fa izany no fanatanterahana ny andron' izay faty hosorana; ary nisaona azy fitopolo andro ny Egyptiana.",
+    "4": "Ary rehefa tapitra ny andro nisaonana azy, Josefa dia niteny tamin' ny tao an-tranon' i Farao ka nanao hoe: Raha mba mahita fitia eo imasonareo aho ankehitriny, masìna ianareo, lazao eo an-tsofin' i Farao hoe:",
+    "5": "Ny raiko efa nampianiana ahy nanao hoe: Indro, ho faty aho; koa ao amin' ny fasako izay efa nohadiko ho ahy any amin' ny tany Kanana, dia ao no andeveno ahy. Koa ankehitriny, trarantitra ianao, aoka aho hiakatra ka handevina ny raiko, dia hiverina indray.",
+    "6": "Ary hoy Farao: Miakara àry, ka aleveno ny rainao araka izay efa nampianianany anao.",
+    "7": " Dia lasa niakatra Josefa handevina ny rainy; ary niara-niakatra taminy ny mpanompon' i Farao rehetra, dia ny loholona tao an-tranony sy ny loholona rehetra tany amin' ny tany Egypta,",
+    "8": "Ary ny ankohonan' i Josefa rehetra sy ny rahalahiny ary ny ankohonan-drainy; ny ankizy madinika sy ny ondriny aman' osiny sy ny ombiny ihany no navelany tao amin' ny tany Gosena.",
+    "9": "Ary nisy kalesy sy mpitaingin-tsoavaly niara-niakatra taminy koa, ka lehibe dia lehibe ny tobiny.",
+    "10": "Ary rehefa tonga tao am-pamoloan' i Atada ireo, izay ao an-dafin' i Jordana, dia nanao fisaonana lehibe sy mafy indrindra teo izy; dia nisaona an-drainy hafitoana Josefa.",
+    "11": "Ary rehefa hitan' ny Kananita tompon-tany ny fisaonana teo am-pamoloan' i Atada, dia hoy izy: Fisaonana mafy amin' ny Egyptiana izao; izany no nanaovany ny anarany hoe: Abel-mizraima, izay ao an-dafin' i Jordana.",
+    "12": "Ary ny zanakalahin' i Jakoba nanao taminy araka izay nandidiany azy.",
+    "13": "Dia nitondra azy tao amin' ny tany Kanana, ary nandevina azy tao amin' ny zohy amin' ny saha Makpela, tandrifin' i Mamre, dia ilay novidin' i Abrahama mbamin' ny saha tamin' i Efrona Hetita ho tany fandevenana.",
+    "14": "Ary rehefa voalevin' i Josefa ny rainy, dia niverina tany Egypta izy sy ny rahalahiny mbamin' izay rehetra niara-niakatra taminy handevina ny rainy.",
+    "15": "Ary rehefa hitan' ny rahalahin' i Josefa fa maty ny rainy, dia hoy izy: Angamba hankahala antsika Josefa ka hamaly antsika tokoa noho ny ratsy rehetra izay nataontsika taminy.",
+    "16": "Dia nandefa iraka nankany amin' i Josefa izy nanao hoe: Ny rainao nanafatra tokoa talohan' ny nahafatesany nanao hoe:",
+    "17": " Izao no holazainareo amin' i Josefa: Ankehitriny masìna ianao, mamelà re ny fahadisoan' ny rahalahinao sy ny fahotany; fa efa nanao ratsy taminao izy; ary ankehitriny, masìna ianao, mamelà ny fahadisoan'ny mpanompon'ny Andriamanitry ny rainao. Dia nitomany Josefa raha niteny taminy izy ireo.",
+    "18": "Ary nanatona azy ny rahalahiny, dia niankohoka teo anatrehany ka nanao hoe: Indreto izahay ho mpanomponao.",
+    "19": "Ary hoy Josefa taminy: Aza matahotra; fa moa solon' Andriamanitra va aho?",
+    "20": "Fa ianareo dia nisaina hanisy ratsy ahy; fa Andriamanitra kosa nihevitra izany ho soa, mba hanao tahaka ny amin' izao anio izao, hamelona olona betsaka.",
+    "21": "Koa ankehitriny, aza matahotra ianareo; hamelona anareo sy ny zanakareo madinika aho. Dia nampionona azy sy nanao teny malefaka nahafinaritra azy izy.",
+    "22": "Ary Josefa sy ny ankohonan' ny rainy nonina tany Egypta; ary velona folo amby zato taona Josefa.",
+    "23": "Ary hitan' i Josefa ny zafiafin' i Efraima; ny zanak' i Makira koa, zanakalahin' i Manase, dia noraisin' i Josefa ho eo am-pofoany.",
+    "24": "Ary hoy Josefa tamin' ny rahalahiny: Ho faty aho, ary Andriamanitra hamangy anareo tokoa ka hitondra anareo hiala amin' ity tany ity ho any amin' ny tany izay nianianany tamin' i Abrahama sy Isaka ary Jakoba.",
+    "25": "Ary Josefa dia nampianiana ny zanak' Isiraely ka nanao hoe: Hamangy anareo tokoa Andriamanitra, dia hitondra ny taolako hiala eto ianareo.",
+    "26": "Dia maty Josefa, rehefa folo amby zato taona; ary dia nohosorany zava-manitra izy ka napetrany tao anaty vatam-paty tany Egypta."
+  }
 }

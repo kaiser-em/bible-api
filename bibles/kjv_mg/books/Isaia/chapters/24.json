@@ -1,97 +1,29 @@
 {
+  "book": "Isaia",
   "chapter": 24,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Indro, Jehovah mahafoana ny tany ka mahalao azy ary mampihohoka azy ka manely izay mponina ao aminy."
-    },
-    {
-      "v": 2,
-      "text": "Ary toy izao no hisy, ho sahala ihany ny hanjo ny mpisorona sy ny vahoaka, ny tompolahy sy ny mpanompolahiny, ny tompovavy sy ny mpanompovaviny, ny mpivarotra sy ny mpividy, ny mpampisambotra sy ny mpisambotra, ny mpampanàna vola sy ny mpanàna vola."
-    },
-    {
-      "v": 3,
-      "text": "\"Ho foana dia foana ny tany, ary hobaboina dia hobaboina tokoa izy; fa Jehovah no efa niteny izao teny izao:\""
-    },
-    {
-      "v": 4,
-      "text": "Misaona sy malazo ny tany, milofika sy malazo izao tontolo izao, milofika ny olona mpirehareha eto an-tany."
-    },
-    {
-      "v": 5,
-      "text": "Ary ny tany dia efa voaloton' ny mponina ao aminy, satria nandika ny lalàna sy nanova ny didy ireo ary nivadika ny fanekena mandrakizay."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary noho izany dia ozona no mandevona ny tany, ary lao ny mponina ao; noho izany dia voadotra ny mponina amin' ny tany, ka dia olona vitsy foana no sisa ao.\""
-    },
-    {
-      "v": 7,
-      "text": "Misaona ny ranomboaloboka, milofika ny taro-boaloboka, misento dia misento tokoa ny nifaly am-po rehetra."
-    },
-    {
-      "v": 8,
-      "text": "\"Mitsahatra ny firavoravoana amin' ny ampongatapaka, tapitra ny fitabataban' izay niravoravo; mitsahatra ny fifaliana amin' ny harpa.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Tsy mihira eo am-pisotroan-divay intsony izy, mangidy amin' izay misotro azy ny toaka;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Rava ny tanàna be fikorontanana, mirindrina ny trano rehetra ka tsy azo idiran' olona;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Misy fitarainana divay eny an-dalambe; mihamaizina ny fifaliana rehetra; lasa ny faharavoravoan' ny tany.\""
-    },
-    {
-      "v": 12,
-      "text": "Fahafoanana ihany no sisa ao an-tanàna, ary fandravana no namelezana ny vavahady."
-    },
-    {
-      "v": 13,
-      "text": "Fa toy izao no hisy, ao amin' ny tany, ao amin' ny olona, dia hisy toy ny amin' ny fikapohana hazo oliva sy ny fitsimpotsimponam-boaloboka, rehefa tapitra ny andro fiotazana azy."
-    },
-    {
-      "v": 14,
-      "text": "\"Ireo dia hanandratra ny feony ka hihoby; noho ny fiandrianan' i Jehovah dia hiantso mafy eny amin' ny ranomasina izy hoe:\""
-    },
-    {
-      "v": 15,
-      "text": "Koa mankalazà an' i Jehovah any amin' ny hafanana, dia ny anaran' i Jehovah Andriamanitry ny Isiraely, any amin' ny nosin-dranomasina."
-    },
-    {
-      "v": 16,
-      "text": "Avy any am-paran' ny tany no nandrenesanay hira, hoe: Voninahitra ho an' ny marina. Fa hoy aho, lozako, ny fahalevonako, indrisy ity fahalevonako! Ny mpamitaka dia mamitaka, eny, ny mpamitaka dia mamitaka fatratra."
-    },
-    {
-      "v": 17,
-      "text": "Tahotra sy longoa ary fandrika no mahazo anao, ry mponina amin' ny tany."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary izao no hiseho, izay mandositra noho ny tabataban' ny tahotra dia ho latsaka any an-davaka; ary izay miakatra avy ao afovoan' ny lavaka dia ho voan' ny fandrika; fa mivoha ny varavarankely avy any amin' ny avo ary mihorohoro dia mihorohoro ny fanorenan' ny tany.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Rava dia rava ny tany, mitresaka dia mitresaka ny tany; mihorohoro dia mihorohoro ny tany.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Hivembena dia hivembena tahaka ny mamo ny tany ka hitsingevaheva tahaka ny fandriana mihantona; ary hitambesatra aminy ny fahadisoany, dia ho potraka izy ka tsy ho tafarina intsony.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary izao no hiseho amin' izany andro izany, hamely ny antokon' ny eny amin' ny avo Jehovah, ary ety an-tany kosa ny mpanjakan' ny tany."
-    },
-    {
-      "v": 22,
-      "text": "Dia hangonina ao an-davaka tahaka ny mpifatotra ireny ka hohidiana ao an-tranomaizina, ary rehefa afaka andro maro, dia hovangiana ihany izy."
-    },
-    {
-      "v": 23,
-      "text": "Dia hivoaramena ny volana, ary hivaloarika ny masoandro rehefa hanjaka ny Tompon' ny maro, ao an-tendrombohitra Ziona sy any Jerosalema ary eo anatrehan' ny loholony amim-boninahitra."
-    }
-  ]
+  "verses": {
+    "1": "Indro, Jehovah mahafoana ny tany ka mahalao azy ary mampihohoka azy ka manely izay mponina ao aminy.",
+    "2": "Ary toy izao no hisy, ho sahala ihany ny hanjo ny mpisorona sy ny vahoaka, ny tompolahy sy ny mpanompolahiny, ny tompovavy sy ny mpanompovaviny, ny mpivarotra sy ny mpividy, ny mpampisambotra sy ny mpisambotra, ny mpampanàna vola sy ny mpanàna vola.",
+    "3": "Ho foana dia foana ny tany, ary hobaboina dia hobaboina tokoa izy; fa Jehovah no efa niteny izao teny izao:",
+    "4": "Misaona sy malazo ny tany, milofika sy malazo izao tontolo izao, milofika ny olona mpirehareha eto an-tany.",
+    "5": "Ary ny tany dia efa voaloton' ny mponina ao aminy, satria nandika ny lalàna sy nanova ny didy ireo ary nivadika ny fanekena mandrakizay.",
+    "6": "Ary noho izany dia ozona no mandevona ny tany, ary lao ny mponina ao; noho izany dia voadotra ny mponina amin' ny tany, ka dia olona vitsy foana no sisa ao.",
+    "7": "Misaona ny ranomboaloboka, milofika ny taro-boaloboka, misento dia misento tokoa ny nifaly am-po rehetra.",
+    "8": "Mitsahatra ny firavoravoana amin' ny ampongatapaka, tapitra ny fitabataban' izay niravoravo; mitsahatra ny fifaliana amin' ny harpa.",
+    "9": "Tsy mihira eo am-pisotroan-divay intsony izy, mangidy amin' izay misotro azy ny toaka;",
+    "10": "Rava ny tanàna be fikorontanana, mirindrina ny trano rehetra ka tsy azo idiran' olona;",
+    "11": "Misy fitarainana divay eny an-dalambe; mihamaizina ny fifaliana rehetra; lasa ny faharavoravoan' ny tany.",
+    "12": "Fahafoanana ihany no sisa ao an-tanàna, ary fandravana no namelezana ny vavahady.",
+    "13": "Fa toy izao no hisy, ao amin' ny tany, ao amin' ny olona, dia hisy toy ny amin' ny fikapohana hazo oliva sy ny fitsimpotsimponam-boaloboka, rehefa tapitra ny andro fiotazana azy.",
+    "14": "Ireo dia hanandratra ny feony ka hihoby; noho ny fiandrianan' i Jehovah dia hiantso mafy eny amin' ny ranomasina izy hoe:",
+    "15": "Koa mankalazà an' i Jehovah any amin' ny hafanana, dia ny anaran' i Jehovah Andriamanitry ny Isiraely, any amin' ny nosin-dranomasina.",
+    "16": "Avy any am-paran' ny tany no nandrenesanay hira, hoe: Voninahitra ho an' ny marina. Fa hoy aho, lozako, ny fahalevonako, indrisy ity fahalevonako! Ny mpamitaka dia mamitaka, eny, ny mpamitaka dia mamitaka fatratra.",
+    "17": "Tahotra sy longoa ary fandrika no mahazo anao, ry mponina amin' ny tany.",
+    "18": "Ary izao no hiseho, izay mandositra noho ny tabataban' ny tahotra dia ho latsaka any an-davaka; ary izay miakatra avy ao afovoan' ny lavaka dia ho voan' ny fandrika; fa mivoha ny varavarankely avy any amin' ny avo ary mihorohoro dia mihorohoro ny fanorenan' ny tany.",
+    "19": "Rava dia rava ny tany, mitresaka dia mitresaka ny tany; mihorohoro dia mihorohoro ny tany.",
+    "20": "Hivembena dia hivembena tahaka ny mamo ny tany ka hitsingevaheva tahaka ny fandriana mihantona; ary hitambesatra aminy ny fahadisoany, dia ho potraka izy ka tsy ho tafarina intsony.",
+    "21": "Ary izao no hiseho amin' izany andro izany, hamely ny antokon' ny eny amin' ny avo Jehovah, ary ety an-tany kosa ny mpanjakan' ny tany.",
+    "22": "Dia hangonina ao an-davaka tahaka ny mpifatotra ireny ka hohidiana ao an-tranomaizina, ary rehefa afaka andro maro, dia hovangiana ihany izy.",
+    "23": "Dia hivoaramena ny volana, ary hivaloarika ny masoandro rehefa hanjaka ny Tompon' ny maro, ao an-tendrombohitra Ziona sy any Jerosalema ary eo anatrehan' ny loholony amim-boninahitra."
+  }
 }

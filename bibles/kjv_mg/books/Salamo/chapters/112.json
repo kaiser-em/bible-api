@@ -1,45 +1,16 @@
 {
+  "book": "Salamo",
   "chapter": 112,
-  "verses": [
-    {
-      "v": 1,
-      "text": "MIDERÀ an' i Jehovah. Sambatra ny olona izay matahotra an' i Jehovah sady mankasitraka ny didiny indrindra."
-    },
-    {
-      "v": 2,
-      "text": "\"Hahery ambonin' ny tany ny taranany; hotahiana ny taranaky ny mahitsy.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Fananana sy harena no ho ao an-tranony; ary ny fahamarinany maharitra mandrakizay.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ao amin' ny maizina no hiposahan' ny mazava ho an' ny mahitsy; miantra sy be indrafo ary marina izy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ny olona tsara maneho fiantrana ka mampisambotra; mitondra ny raharahany amin' ny fahamalinana izy.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Tsy hangozohozo mihitsy izy mandrakizay; hotsarovana mandrakizay ny marina.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Tsy hatahotra ny vaovao ratsy izy; tafatoetra matoky an' i Jehovah ny fony.\""
-    },
-    {
-      "v": 8,
-      "text": "Voaorina ny fony ka tsy hatahotra izy, mandra-pifaliny mahita ny amin' ny mpandrafy azy."
-    },
-    {
-      "v": 9,
-      "text": "\"Nampiely izy, nanome ho an' ny mahantra; ny fahamarinany maharitra mandrakizay; hisandratra amim-boninahitra ny tandrony.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Hahita izany ny ratsy fanahy ka halahelo; hihidy vazana izy ka ho levona; ho foana ny fanirian' ny ratsy fanahy.\""
-    }
-  ]
+  "verses": {
+    "1": "MIDERÀ an' i Jehovah. Sambatra ny olona izay matahotra an' i Jehovah sady mankasitraka ny didiny indrindra.",
+    "2": "Hahery ambonin' ny tany ny taranany; hotahiana ny taranaky ny mahitsy.",
+    "3": "Fananana sy harena no ho ao an-tranony; ary ny fahamarinany maharitra mandrakizay.",
+    "4": "Ao amin' ny maizina no hiposahan' ny mazava ho an' ny mahitsy; miantra sy be indrafo ary marina izy.",
+    "5": "Ny olona tsara maneho fiantrana ka mampisambotra; mitondra ny raharahany amin' ny fahamalinana izy.",
+    "6": "Tsy hangozohozo mihitsy izy mandrakizay; hotsarovana mandrakizay ny marina.",
+    "7": "Tsy hatahotra ny vaovao ratsy izy; tafatoetra matoky an' i Jehovah ny fony.",
+    "8": "Voaorina ny fony ka tsy hatahotra izy, mandra-pifaliny mahita ny amin' ny mpandrafy azy.",
+    "9": "Nampiely izy, nanome ho an' ny mahantra; ny fahamarinany maharitra mandrakizay; hisandratra amim-boninahitra ny tandrony.",
+    "10": "Hahita izany ny ratsy fanahy ka halahelo; hihidy vazana izy ka ho levona; ho foana ny fanirian' ny ratsy fanahy."
+  }
 }

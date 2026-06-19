@@ -1,49 +1,17 @@
 {
+  "book": "Hosea",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Andeha hiverina ho amin' i Jehovah isika; fa Izy no namiravira, ary Izy ihany no hahasitrana antsika; Izy no namely, ary Izy no hamehy ny ferintsika.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Rehefa afaka indroa andro, dia hovelominy indray isika; ary amin' ny andro fahatelo dia hatsangany isika ka ho velona eo anatrehany.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Dia hahalala isika, raha mitohy hahalala an' i Jehovah; mahatoky toy ny maraina ny fiposahany; fa ho avy amintsika toy ny ranonorana Izy, dia toy ny loha-orana sy fara-orana izay mahavonto ny tany.\""
-    },
-    {
-      "v": 4,
-      "text": "Inona re no hataoko aminao, ry Efraima? Inona re no hataoko aminao, ry Joda? Fa toy ny rahona maraina ny fahatsaranao sy tahaka ny ando izay levona raha vao maraina ny andro."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary noho izany ny mpaminany no nentiko nikapa azy, ny tenin' ny vavako no nentiko namono azy; ary ny fitsarana anao dia hiposaka toy ny mazava.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Fa famindrampo no sitrako, fa tsy fanatitra; ary fahalalana an' Andriamanitra noho ny fanatitra dorana.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa ireny dia tahaka ny olona nandika ny fanekena; tao no nivadihany nahafoizany ahy.\""
-    },
-    {
-      "v": 8,
-      "text": "Gileada dia tanànan' ny mpanao heloka sady voaloton' ny ra."
-    },
-    {
-      "v": 9,
-      "text": "\"Fa tahaka ny andiam-pandroba manao otrika amin' ny olona iray, dia toy izany ny fikambanan' ny mpisorona mifanaiky hamono eny an-dàlana eny; efa nanao fahavetavetana izy.\""
-    },
-    {
-      "v": 10,
-      "text": "Tao amin' ny taranak' Isiraely no nahitako zavatra mahatsiravina: ao ny fijangajangan' i Efraima, voaloto Isiraely."
-    },
-    {
-      "v": 11,
-      "text": "Ny aminao, ry Joda, dia voatendry koa ny andro hijinjana anao, rehefa ampodiko avy amin' ny fahababoana ny oloko."
-    }
-  ]
+  "verses": {
+    "1": "Andeha hiverina ho amin' i Jehovah isika; fa Izy no namiravira, ary Izy ihany no hahasitrana antsika; Izy no namely, ary Izy no hamehy ny ferintsika.",
+    "2": "Rehefa afaka indroa andro, dia hovelominy indray isika; ary amin' ny andro fahatelo dia hatsangany isika ka ho velona eo anatrehany.",
+    "3": "Dia hahalala isika, raha mitohy hahalala an' i Jehovah; mahatoky toy ny maraina ny fiposahany; fa ho avy amintsika toy ny ranonorana Izy, dia toy ny loha-orana sy fara-orana izay mahavonto ny tany.",
+    "4": "Inona re no hataoko aminao, ry Efraima? Inona re no hataoko aminao, ry Joda? Fa toy ny rahona maraina ny fahatsaranao sy tahaka ny ando izay levona raha vao maraina ny andro.",
+    "5": "Ary noho izany ny mpaminany no nentiko nikapa azy, ny tenin' ny vavako no nentiko namono azy; ary ny fitsarana anao dia hiposaka toy ny mazava.",
+    "6": "Fa famindrampo no sitrako, fa tsy fanatitra; ary fahalalana an' Andriamanitra noho ny fanatitra dorana.",
+    "7": "Fa ireny dia tahaka ny olona nandika ny fanekena; tao no nivadihany nahafoizany ahy.",
+    "8": "Gileada dia tanànan' ny mpanao heloka sady voaloton' ny ra.",
+    "9": "Fa tahaka ny andiam-pandroba manao otrika amin' ny olona iray, dia toy izany ny fikambanan' ny mpisorona mifanaiky hamono eny an-dàlana eny; efa nanao fahavetavetana izy.",
+    "10": "Tao amin' ny taranak' Isiraely no nahitako zavatra mahatsiravina: ao ny fijangajangan' i Efraima, voaloto Isiraely.",
+    "11": "Ny aminao, ry Joda, dia voatendry koa ny andro hijinjana anao, rehefa ampodiko avy amin' ny fahababoana ny oloko."
+  }
 }

@@ -1,65 +1,21 @@
 {
+  "book": "Amosa",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Henoy izao teny izao, izay lazain' i Jehovah ny aminareo, ry zanak' Isiraely, dia ny amin' ny ankohonana rehetra izay nentiko niakatra avy tany amin' ny tany Egypta manao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Ianareo ihany no fantatro tamin' ny ankohonana rehetra ambonin' ny tany; noho izany dia hovaliako ianareo noho ny helokareo rehetra.\""
-    },
-    {
-      "v": 3,
-      "text": "Ho tafara-dalana va ny roa, raha tsy efa nifanaiky?"
-    },
-    {
-      "v": 4,
-      "text": "Hierona any an' ala va ny liona raha tsy mahita toha? Hanerona ao an-davany va ny liona tanora, raha tsy mahazo zavatra?"
-    },
-    {
-      "v": 5,
-      "text": "Voan' ny fandrika eo amin' ny tany va ny vorona raha tsy nisy tadivavarana? Hikatona va ny fandrika eo amin' ny tany, raha tsy nahavoa zavatra?"
-    },
-    {
-      "v": 6,
-      "text": "Hotsofina ao an-tanàna va ny anjomara ka tsy hatahotra ny vahoaka? Hisy loza va ao an-tanàna, raha tsy Jehovah no nahatonga izany?"
-    },
-    {
-      "v": 7,
-      "text": "Tsy hanao na inona na inona tokoa Jehovah Tompo, raha tsy manambara ny zava-miafiny amin' ny mpaminany mpanompony."
-    },
-    {
-      "v": 8,
-      "text": "Ny liona no mierona, ka iza no tsy hatahotra? Jehovah Tompo no miteny, ka iza no tsy haminany?"
-    },
-    {
-      "v": 9,
-      "text": "Aelezo ao amin' ny lapa any Asdoda sy ao amin' ny lapa any amin' ny tany Egypta ka ataovy hoe: Miangòna any an-tendrombohitr' i Samaria ianareo, ary jereo ny tabataba be ao aminy sy ny ampahoriana eo aminy."
-    },
-    {
-      "v": 10,
-      "text": "Fa tsy mahalala hanao ny marina izy ireo, hoy Jehovah, dia ireo izay mitahiry fandozana sy fandrobana ao amin' ny lapany."
-    },
-    {
-      "v": 11,
-      "text": "\"Koa izao no lazain' i Jehovah Andriamanitra: Hisy fahavalo hanodidina ny tany; ary hazerany ho afaka aminao ny herinao, ary hobaboina ny lapanao.\""
-    },
-    {
-      "v": 12,
-      "text": "Izao no lazain' i Jehovah: Toy ny famonjin' ny mpiandry ondry ny tongotr' ondry roa na ny sombin-tsofina eny am-bavan' ny liona, dia toy izany no ho famonjy ny zanak' Isiraely, izay mipetraka ao Samaria, eo an-jorom-parafara sy eo amin' ny lamba fandriandriana avy any Damaskosy."
-    },
-    {
-      "v": 13,
-      "text": "\"Henoinareo, ka ambarao ao amin' ny taranak' i Jakoba, hoy Jehovah Tompo, Andriamanitry ny maro;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Fa amin' ny andro hamaliako ny Isiraely noho ny fandikan-dalàn' Isiraely ao aminy no hamaliako ny alitara ao Betela; dia hokapaina ny tandroky ny alitara ka hianjera amin' ny tany.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary hamely ny trano ririnina sy ny trano fahavaratra Aho; ary ho rava ny trano ivory sady ho fongana ny trano lehibe, hoy Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "Henoy izao teny izao, izay lazain' i Jehovah ny aminareo, ry zanak' Isiraely, dia ny amin' ny ankohonana rehetra izay nentiko niakatra avy tany amin' ny tany Egypta manao hoe:",
+    "2": "Ianareo ihany no fantatro tamin' ny ankohonana rehetra ambonin' ny tany; noho izany dia hovaliako ianareo noho ny helokareo rehetra.",
+    "3": "Ho tafara-dalana va ny roa, raha tsy efa nifanaiky?",
+    "4": "Hierona any an' ala va ny liona raha tsy mahita toha? Hanerona ao an-davany va ny liona tanora, raha tsy mahazo zavatra?",
+    "5": "Voan' ny fandrika eo amin' ny tany va ny vorona raha tsy nisy tadivavarana? Hikatona va ny fandrika eo amin' ny tany, raha tsy nahavoa zavatra?",
+    "6": "Hotsofina ao an-tanàna va ny anjomara ka tsy hatahotra ny vahoaka? Hisy loza va ao an-tanàna, raha tsy Jehovah no nahatonga izany?",
+    "7": "Tsy hanao na inona na inona tokoa Jehovah Tompo, raha tsy manambara ny zava-miafiny amin' ny mpaminany mpanompony.",
+    "8": "Ny liona no mierona, ka iza no tsy hatahotra? Jehovah Tompo no miteny, ka iza no tsy haminany?",
+    "9": "Aelezo ao amin' ny lapa any Asdoda sy ao amin' ny lapa any amin' ny tany Egypta ka ataovy hoe: Miangòna any an-tendrombohitr' i Samaria ianareo, ary jereo ny tabataba be ao aminy sy ny ampahoriana eo aminy.",
+    "10": "Fa tsy mahalala hanao ny marina izy ireo, hoy Jehovah, dia ireo izay mitahiry fandozana sy fandrobana ao amin' ny lapany.",
+    "11": "Koa izao no lazain' i Jehovah Andriamanitra: Hisy fahavalo hanodidina ny tany; ary hazerany ho afaka aminao ny herinao, ary hobaboina ny lapanao.",
+    "12": "Izao no lazain' i Jehovah: Toy ny famonjin' ny mpiandry ondry ny tongotr' ondry roa na ny sombin-tsofina eny am-bavan' ny liona, dia toy izany no ho famonjy ny zanak' Isiraely, izay mipetraka ao Samaria, eo an-jorom-parafara sy eo amin' ny lamba fandriandriana avy any Damaskosy.",
+    "13": "Henoinareo, ka ambarao ao amin' ny taranak' i Jakoba, hoy Jehovah Tompo, Andriamanitry ny maro;",
+    "14": "Fa amin' ny andro hamaliako ny Isiraely noho ny fandikan-dalàn' Isiraely ao aminy no hamaliako ny alitara ao Betela; dia hokapaina ny tandroky ny alitara ka hianjera amin' ny tany.",
+    "15": "Ary hamely ny trano ririnina sy ny trano fahavaratra Aho; ary ho rava ny trano ivory sady ho fongana ny trano lehibe, hoy Jehovah."
+  }
 }

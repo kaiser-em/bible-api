@@ -1,153 +1,43 @@
 {
+  "book": "Marka",
   "chapter": 13,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ARY nony niala teo amin' ny tempoly Jesosy, dia hoy ny mpianany anankiray taminy: Mpampianatra ô, akory re ireto vato sy rafitra ireto!"
-    },
-    {
-      "v": 2,
-      "text": "Ary namaly Jesosy ka nanao taminy hoe: Hitanao va ireto rafitra lehibe ireto? Tsy havela hisy vato hifanongoa eto ka tsy horavàna."
-    },
-    {
-      "v": 3,
-      "text": "Ary raha nipetraka teo amin' ny tendrombohitra Oliva tandrifin' ny tempoly Izy, dia nanontany Azy mangingina Petera sy Jakoba sy Jaona ary Andrea hoe:"
-    },
-    {
-      "v": 4,
-      "text": "Lazao aminay: Rahoviana no hisy izany? ary inona no ho famantarana, rehefa ho tanteraka izany rehetra izany?"
-    },
-    {
-      "v": 5,
-      "text": "Ary namaly Jesosy sady nanomboka niteny hoe: Mitandrema fandrao hisy hamitaka anareo."
-    },
-    {
-      "v": 6,
-      "text": "Fa maro no ho avy amin' ny anarako hanao hoe: Izaho no Kristy, ka maro no ho voafitany."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary raha handre ady sy filazana ady ianareo, dia aza matahotra; tsy maintsy hisy izany, nefa tsy mbola tonga ny farany.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Fa hisy firenena hitsangana hamely firenena, ary hisy fanjakana hitsangana hamely fanjakana; ary hisy horohorontany any amin' ny toerana maro samy hafa, sady hisy mosary sy fikorontanana; izany no fiandohan' ny fahoriana.\""
-    },
-    {
-      "v": 9,
-      "text": "Fa mitandrema ianareo, fa hatolotra amin' ny Synedriona sy hokapohina ao amin' ny synagoga ary hitsangana eo anatrehan' ny mpanapaka sy ny mpanjaka noho ny amiko ianareo ho vavolombelona aminy."
-    },
-    {
-      "v": 10,
-      "text": "Ary ny filazantsara tsy maintsy ampielezina aloha amin' ny firenena rehetra."
-    },
-    {
-      "v": 11,
-      "text": "\"Koa raha mitondra anareo hatolotra izy ireo, dia aza manahy rahateo izay holazainareo, na mihevitra izany; fa izay homena anareo amin' izany ora izany no holazainareo; fa tsy ianareo no hiteny fa ny Fanahy Masina.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary ny rahalahy hamadika ny rahalahiny ho amin' ny fahafatesana, ary ny ray hanolotra ny zanany; ary ny zanaka hitsangana hanohitra ny ray aman-dreniny ka hahafaty azy.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary ho halan'ny olona rehetra ianareo noho ny anarako: fa izay maharitra hatramin' ny farany no hovonjena."
-    },
-    {
-      "v": 14,
-      "text": "Fa raha hitanareo mitsangana amin' izay tsy tokony hitsanganany “ny fahavetavetana mahatonga fandravana” araka izay nolazain' i Daniela mpaminany (aoka hisaina izay mamaky izany), dia aoka handositra ho any an-tendrombohitra izay olona any Jodia."
-    },
-    {
-      "v": 15,
-      "text": "Ary izay ao an-tampon-trano aoka tsy hidina na hiditra haka zavatra ao an-tranony."
-    },
-    {
-      "v": 16,
-      "text": "Ary izay any an-tsaha aoka tsy hiverina haka ny lambany."
-    },
-    {
-      "v": 17,
-      "text": "Ary loza ho an' ny bevohoka sy ny mampinono amin' izany andro izany!"
-    },
-    {
-      "v": 18,
-      "text": "Ary mivavaha mba tsy ho amin' ny ririnina no handosiranareo."
-    },
-    {
-      "v": 19,
-      "text": "Fa amin' izany andro izany dia hisy fahoriana, izay tsy mbola nisy toy izany hatramin' ny niandohan' ny namoronan' Andriamanitra izao zavatra ary rehetra izao ka mandraka ankehitriny, sady tsy hisy intsony."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary raha tsy nohafohezin' ny Tompo izany andro izany, dia tsy nisy nofo hovonjena; fa noho ny olom-boafidy, izay nofidìny, dia nohafoheziny izany andro izany.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary amin' izany raha tàhiny misy olona miteny aminareo hoe: Indro, ety Kristy, na indro ery, aza mino azy ianareo."
-    },
-    {
-      "v": 22,
-      "text": "Fa hisy Kristy sandoka sy mpaminany sandoka hitsangana, ka haneho famantarana sy fahagagana hamitahany na dia ny olom-boafidy aza, raha azo atao izany."
-    },
-    {
-      "v": 23,
-      "text": "\"Fa mitandrema kosa ianareo; indro, efa voalazako taminareo rahateo ny zavatra rehetra.\""
-    },
-    {
-      "v": 24,
-      "text": "Fa amin' izany andro izany, raha afaka izany fahoriana izany, ny masoandro hohamaizinina, ary ny volana tsy haneho fahazavana,"
-    },
-    {
-      "v": 25,
-      "text": "Ary ny kintana hiraraka avy eny amin' ny lanitra, ary hohozongozonina ny hery izay ao amin' ny lanitra."
-    },
-    {
-      "v": 26,
-      "text": "Ary amin' izay ny Zanak' olona dia ho hita avy eo amin' ny rahona amin' ny hery lehibe sy ny voninahitra."
-    },
-    {
-      "v": 27,
-      "text": "Ary amin' izay dia haniraka ny anjeliny Izy, ary hanangona ny olom-boafidiny avy amin' ny rivotra efatra hatramin' ny faran' ny tany ka hatramin' ny faran' ny lanitra."
-    },
-    {
-      "v": 28,
-      "text": "Ary mianara ny fanoharana ny amin' ny hazo aviavimbazaha: Raha vao manaroka ny rantsany ka mandravina, dia fantatrareo fa efa akaiky ny fahavaratra."
-    },
-    {
-      "v": 29,
-      "text": "Dia tahaka izany koa ianareo, raha vao hitanareo fa tonga izany zavatra izany, dia aoka ho fantatrareo fa efa akaiky eo am-baravarana izany."
-    },
-    {
-      "v": 30,
-      "text": "Lazaiko aminareo marina tokoa fa tsy mba ho lany io taranaka io mandra-pahatongan' izany rehetra izany."
-    },
-    {
-      "v": 31,
-      "text": "Ny lanitra sy ny tany ho levona, fa ny teniko tsy mba ho levona."
-    },
-    {
-      "v": 32,
-      "text": "Fa ny amin' izany andro na ora izany dia tsy misy mahalala, na ny anjely any an-danitra, ary na dia ny Zanaka aza, afa-tsy ny Ray ihany."
-    },
-    {
-      "v": 33,
-      "text": "\"Mitandrema, miambena, ka mivavaha; fa tsy fantatrareo izay hiavian' ny fotoana.\""
-    },
-    {
-      "v": 34,
-      "text": "Fa ny Zanak' olona dia tahaka ny olona nandeha hivahiny lavitra, izay nandao ny tranony ka nanome fahefana ny mpanompony, ka samy notolorany ny raharahany avy, ary nodidiany ny mpiandry varavarana hiambina."
-    },
-    {
-      "v": 35,
-      "text": "Koa miambena ianareo, fa tsy fantatrareo izay andro hiavian' ny tompon-trano, na ho hariva, na ho mamatonalina, na ho maneno akoho, na ho maraina,"
-    },
-    {
-      "v": 36,
-      "text": "Fandrao avy tampoka izy ka mahita anareo matory."
-    },
-    {
-      "v": 37,
-      "text": "Ary izay lazaiko aminareo dia lazaiko amin' ny olona rehetra koa: Miambena."
-    }
-  ]
+  "verses": {
+    "1": "ARY nony niala teo amin' ny tempoly Jesosy, dia hoy ny mpianany anankiray taminy: Mpampianatra ô, akory re ireto vato sy rafitra ireto!",
+    "2": "Ary namaly Jesosy ka nanao taminy hoe: Hitanao va ireto rafitra lehibe ireto? Tsy havela hisy vato hifanongoa eto ka tsy horavàna.",
+    "3": "Ary raha nipetraka teo amin' ny tendrombohitra Oliva tandrifin' ny tempoly Izy, dia nanontany Azy mangingina Petera sy Jakoba sy Jaona ary Andrea hoe:",
+    "4": "Lazao aminay: Rahoviana no hisy izany? ary inona no ho famantarana, rehefa ho tanteraka izany rehetra izany?",
+    "5": "Ary namaly Jesosy sady nanomboka niteny hoe: Mitandrema fandrao hisy hamitaka anareo.",
+    "6": "Fa maro no ho avy amin' ny anarako hanao hoe: Izaho no Kristy, ka maro no ho voafitany.",
+    "7": "Ary raha handre ady sy filazana ady ianareo, dia aza matahotra; tsy maintsy hisy izany, nefa tsy mbola tonga ny farany.",
+    "8": "Fa hisy firenena hitsangana hamely firenena, ary hisy fanjakana hitsangana hamely fanjakana; ary hisy horohorontany any amin' ny toerana maro samy hafa, sady hisy mosary sy fikorontanana; izany no fiandohan' ny fahoriana.",
+    "9": "Fa mitandrema ianareo, fa hatolotra amin' ny Synedriona sy hokapohina ao amin' ny synagoga ary hitsangana eo anatrehan' ny mpanapaka sy ny mpanjaka noho ny amiko ianareo ho vavolombelona aminy.",
+    "10": "Ary ny filazantsara tsy maintsy ampielezina aloha amin' ny firenena rehetra.",
+    "11": "Koa raha mitondra anareo hatolotra izy ireo, dia aza manahy rahateo izay holazainareo, na mihevitra izany; fa izay homena anareo amin' izany ora izany no holazainareo; fa tsy ianareo no hiteny fa ny Fanahy Masina.",
+    "12": "Ary ny rahalahy hamadika ny rahalahiny ho amin' ny fahafatesana, ary ny ray hanolotra ny zanany; ary ny zanaka hitsangana hanohitra ny ray aman-dreniny ka hahafaty azy.",
+    "13": "Ary ho halan'ny olona rehetra ianareo noho ny anarako: fa izay maharitra hatramin' ny farany no hovonjena.",
+    "14": "Fa raha hitanareo mitsangana amin' izay tsy tokony hitsanganany “ny fahavetavetana mahatonga fandravana” araka izay nolazain' i Daniela mpaminany (aoka hisaina izay mamaky izany), dia aoka handositra ho any an-tendrombohitra izay olona any Jodia.",
+    "15": "Ary izay ao an-tampon-trano aoka tsy hidina na hiditra haka zavatra ao an-tranony.",
+    "16": "Ary izay any an-tsaha aoka tsy hiverina haka ny lambany.",
+    "17": "Ary loza ho an' ny bevohoka sy ny mampinono amin' izany andro izany!",
+    "18": "Ary mivavaha mba tsy ho amin' ny ririnina no handosiranareo.",
+    "19": "Fa amin' izany andro izany dia hisy fahoriana, izay tsy mbola nisy toy izany hatramin' ny niandohan' ny namoronan' Andriamanitra izao zavatra ary rehetra izao ka mandraka ankehitriny, sady tsy hisy intsony.",
+    "20": "Ary raha tsy nohafohezin' ny Tompo izany andro izany, dia tsy nisy nofo hovonjena; fa noho ny olom-boafidy, izay nofidìny, dia nohafoheziny izany andro izany.",
+    "21": "Ary amin' izany raha tàhiny misy olona miteny aminareo hoe: Indro, ety Kristy, na indro ery, aza mino azy ianareo.",
+    "22": "Fa hisy Kristy sandoka sy mpaminany sandoka hitsangana, ka haneho famantarana sy fahagagana hamitahany na dia ny olom-boafidy aza, raha azo atao izany.",
+    "23": "Fa mitandrema kosa ianareo; indro, efa voalazako taminareo rahateo ny zavatra rehetra.",
+    "24": "Fa amin' izany andro izany, raha afaka izany fahoriana izany, ny masoandro hohamaizinina, ary ny volana tsy haneho fahazavana,",
+    "25": "Ary ny kintana hiraraka avy eny amin' ny lanitra, ary hohozongozonina ny hery izay ao amin' ny lanitra.",
+    "26": "Ary amin' izay ny Zanak' olona dia ho hita avy eo amin' ny rahona amin' ny hery lehibe sy ny voninahitra.",
+    "27": "Ary amin' izay dia haniraka ny anjeliny Izy, ary hanangona ny olom-boafidiny avy amin' ny rivotra efatra hatramin' ny faran' ny tany ka hatramin' ny faran' ny lanitra.",
+    "28": "Ary mianara ny fanoharana ny amin' ny hazo aviavimbazaha: Raha vao manaroka ny rantsany ka mandravina, dia fantatrareo fa efa akaiky ny fahavaratra.",
+    "29": "Dia tahaka izany koa ianareo, raha vao hitanareo fa tonga izany zavatra izany, dia aoka ho fantatrareo fa efa akaiky eo am-baravarana izany.",
+    "30": "Lazaiko aminareo marina tokoa fa tsy mba ho lany io taranaka io mandra-pahatongan' izany rehetra izany.",
+    "31": "Ny lanitra sy ny tany ho levona, fa ny teniko tsy mba ho levona.",
+    "32": "Fa ny amin' izany andro na ora izany dia tsy misy mahalala, na ny anjely any an-danitra, ary na dia ny Zanaka aza, afa-tsy ny Ray ihany.",
+    "33": "Mitandrema, miambena, ka mivavaha; fa tsy fantatrareo izay hiavian' ny fotoana.",
+    "34": "Fa ny Zanak' olona dia tahaka ny olona nandeha hivahiny lavitra, izay nandao ny tranony ka nanome fahefana ny mpanompony, ka samy notolorany ny raharahany avy, ary nodidiany ny mpiandry varavarana hiambina.",
+    "35": "Koa miambena ianareo, fa tsy fantatrareo izay andro hiavian' ny tompon-trano, na ho hariva, na ho mamatonalina, na ho maneno akoho, na ho maraina,",
+    "36": "Fandrao avy tampoka izy ka mahita anareo matory.",
+    "37": "Ary izay lazaiko aminareo dia lazaiko amin' ny olona rehetra koa: Miambena."
+  }
 }

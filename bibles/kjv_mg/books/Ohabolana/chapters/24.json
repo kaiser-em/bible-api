@@ -1,141 +1,40 @@
 {
+  "book": "Ohabolana",
   "chapter": 24,
-  "verses": [
-    {
-      "v": 1,
-      "text": "AZA mialona ny olona ratsy fanahy, na maniry hiaraka aminy."
-    },
-    {
-      "v": 2,
-      "text": "Fa fandravana no saintsainin' ny fony, ary fampahoriana no tenenin' ny molony."
-    },
-    {
-      "v": 3,
-      "text": "\"Fahendrena no anaovana ny trano; ary fahalalinan-tsaina no mampaharitra azy;\""
-    },
-    {
-      "v": 4,
-      "text": "Sady fahalalana no hamenoana ny efitrano amin' izay harena sarobidy sy mahafinaritra rehetra."
-    },
-    {
-      "v": 5,
-      "text": "Mahery ny lehilahy hendry, eny, mitombo hery ny olona manam-pahalalana."
-    },
-    {
-      "v": 6,
-      "text": "\"Fa ny fahaiza-mandamina no entonao miady; ary ny habetsahan' ny mpanolo-tsaina no hisian' ny famonjena.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Avo loatra ho an' ny adala ny fahendrena; tsy mba mahaloa-bava eo am-bavahady izy.\""
-    },
-    {
-      "v": 8,
-      "text": "Izay misaintsaina hanao ratsy dia hatao hoe olona mpamoron-tsain-dratsy."
-    },
-    {
-      "v": 9,
-      "text": "\"Ota ny fisainan' ny fahadalana; ary fahavetavetana amin' ny olona ny mpaniratsira.\""
-    },
-    {
-      "v": 10,
-      "text": "Raha reraka amin' ny andro fahoriana ianao, dia kely ny herinao."
-    },
-    {
-      "v": 11,
-      "text": "\"Raha mamihin-tena tsy hamonjy izay efa ho faty sy izay efa mby eo am-pamonoana ianao;\""
-    },
-    {
-      "v": 12,
-      "text": "\"Raha hoy ianao: Indro, tsy fantatray izany; moa izay mandanja ny fo tsy hihevitra izany va? Ary izay mitandrina ny fanahinao, moa tsy hahalala izany va? Ary tsy hamaly ny olona rehetra araka ny asany va Izy?\""
-    },
-    {
-      "v": 13,
-      "text": "\"Anaka, homàna tantely, fa tsara izany, sy toho-tantely, izay mamy raha andramanao;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Aoka ho toy izany no fahalalana fahendrena ho an' ny fanahinao; fa raha azonao izany, dia hisy valisoa, ka tsy ho foana ny fanantenanao.\""
-    },
-    {
-      "v": 15,
-      "text": "Aza manotrika eo akaikin' ny tranon' ny marina, ry ilay ratsy fanahy, ary aza ravana ny fonenany."
-    },
-    {
-      "v": 16,
-      "text": "\"Fa potraka impito ny marina, nefa tafarina ihany; fa ny ratsy fanahy ho lavo ao anaty loza.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Aza ravoravo, raha lavo ny fahavalonao, ary aoka tsy ho faly ny fonao raha tafintohina izy;\""
-    },
-    {
-      "v": 18,
-      "text": "Fandrao hitan' i Jehovah izany ka tsy ho tiany, ary ampialàny aminy ny fahatezerany."
-    },
-    {
-      "v": 19,
-      "text": "\"Aoka tsy hirehitra ny fahatezeranao noho ny amin' ny mpanao ratsy, ary aza mialona ny ratsy fanahy;\""
-    },
-    {
-      "v": 20,
-      "text": "\"Fa tsy hisy fiafarana tsara ho an' ny mpanao ratsy; ho faty ny jiron' ny ratsy fanahy.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Anaka, matahora an' i Jehovah sy ny mpanjaka; ary aza mikambana amin' ireo izay miovaova;\""
-    },
-    {
-      "v": 22,
-      "text": "Fa ho tampoka ny loza hanjo ireo, ary iza no mahalala ny fandringanana iretsy roa iretsy?"
-    },
-    {
-      "v": 23,
-      "text": "Izao koa no an' ny hendry. Tsy tsara raha mizaha tavan' olona amin' ny fitsarana."
-    },
-    {
-      "v": 24,
-      "text": "Izay manao amin' ny ratsy fanahy hoe: Marina ianao, dia hozonin' ny olona sady ho halan' ny firenena."
-    },
-    {
-      "v": 25,
-      "text": "Fa izay mananatra azy dia hifaly, sady hahazo fitahiana tsara."
-    },
-    {
-      "v": 26,
-      "text": "Horohana ny molotr' izay manome valin-teny marina."
-    },
-    {
-      "v": 27,
-      "text": "Amboary ny asanao eny ivelany, ary ataovy lavorary ny any an-tsaha, ka rehefa vita izany, dia manaova ny tranonao."
-    },
-    {
-      "v": 28,
-      "text": "\"Aza mety ho vavolombelona foana hanameloka ny namanao; ary aza mamitaka amin' ny molotrao.\""
-    },
-    {
-      "v": 29,
-      "text": "Aza manao hoe: araka izay nataony tamiko no mba hataoko aminy kosa, hovaliako ny olona araka izay nataony."
-    },
-    {
-      "v": 30,
-      "text": "\"Nandalo ny sahan' ny kamo sy ny tanimboaloboky ny tsy ampy fahalalana aho;\""
-    },
-    {
-      "v": 31,
-      "text": "Fa, indro, feno tsilo izy sady voasaron' ny amiana, ary mirodana ny manda vatony."
-    },
-    {
-      "v": 32,
-      "text": "Dia nojereko sy noheveriko tsara, eny, hitako ka nahazoako anatra."
-    },
-    {
-      "v": 33,
-      "text": "\"Mbola hatory kely ihany, mbola ho renoka kely ihany, mbola hanohon-tanana kely hatory;\""
-    },
-    {
-      "v": 34,
-      "text": "\"Dia ho tonga toy ny mimaona ny fahantranao; ary ny tsy fahampiana eo aminao ho toy ny lehilahy mitam-piadiana.\""
-    }
-  ]
+  "verses": {
+    "1": "AZA mialona ny olona ratsy fanahy, na maniry hiaraka aminy.",
+    "2": "Fa fandravana no saintsainin' ny fony, ary fampahoriana no tenenin' ny molony.",
+    "3": "Fahendrena no anaovana ny trano; ary fahalalinan-tsaina no mampaharitra azy;",
+    "4": "Sady fahalalana no hamenoana ny efitrano amin' izay harena sarobidy sy mahafinaritra rehetra.",
+    "5": "Mahery ny lehilahy hendry, eny, mitombo hery ny olona manam-pahalalana.",
+    "6": "Fa ny fahaiza-mandamina no entonao miady; ary ny habetsahan' ny mpanolo-tsaina no hisian' ny famonjena.",
+    "7": "Avo loatra ho an' ny adala ny fahendrena; tsy mba mahaloa-bava eo am-bavahady izy.",
+    "8": "Izay misaintsaina hanao ratsy dia hatao hoe olona mpamoron-tsain-dratsy.",
+    "9": "Ota ny fisainan' ny fahadalana; ary fahavetavetana amin' ny olona ny mpaniratsira.",
+    "10": "Raha reraka amin' ny andro fahoriana ianao, dia kely ny herinao.",
+    "11": "Raha mamihin-tena tsy hamonjy izay efa ho faty sy izay efa mby eo am-pamonoana ianao;",
+    "12": "Raha hoy ianao: Indro, tsy fantatray izany; moa izay mandanja ny fo tsy hihevitra izany va? Ary izay mitandrina ny fanahinao, moa tsy hahalala izany va? Ary tsy hamaly ny olona rehetra araka ny asany va Izy?",
+    "13": "Anaka, homàna tantely, fa tsara izany, sy toho-tantely, izay mamy raha andramanao;",
+    "14": "Aoka ho toy izany no fahalalana fahendrena ho an' ny fanahinao; fa raha azonao izany, dia hisy valisoa, ka tsy ho foana ny fanantenanao.",
+    "15": "Aza manotrika eo akaikin' ny tranon' ny marina, ry ilay ratsy fanahy, ary aza ravana ny fonenany.",
+    "16": "Fa potraka impito ny marina, nefa tafarina ihany; fa ny ratsy fanahy ho lavo ao anaty loza.",
+    "17": "Aza ravoravo, raha lavo ny fahavalonao, ary aoka tsy ho faly ny fonao raha tafintohina izy;",
+    "18": "Fandrao hitan' i Jehovah izany ka tsy ho tiany, ary ampialàny aminy ny fahatezerany.",
+    "19": "Aoka tsy hirehitra ny fahatezeranao noho ny amin' ny mpanao ratsy, ary aza mialona ny ratsy fanahy;",
+    "20": "Fa tsy hisy fiafarana tsara ho an' ny mpanao ratsy; ho faty ny jiron' ny ratsy fanahy.",
+    "21": "Anaka, matahora an' i Jehovah sy ny mpanjaka; ary aza mikambana amin' ireo izay miovaova;",
+    "22": "Fa ho tampoka ny loza hanjo ireo, ary iza no mahalala ny fandringanana iretsy roa iretsy?",
+    "23": "Izao koa no an' ny hendry. Tsy tsara raha mizaha tavan' olona amin' ny fitsarana.",
+    "24": "Izay manao amin' ny ratsy fanahy hoe: Marina ianao, dia hozonin' ny olona sady ho halan' ny firenena.",
+    "25": "Fa izay mananatra azy dia hifaly, sady hahazo fitahiana tsara.",
+    "26": "Horohana ny molotr' izay manome valin-teny marina.",
+    "27": "Amboary ny asanao eny ivelany, ary ataovy lavorary ny any an-tsaha, ka rehefa vita izany, dia manaova ny tranonao.",
+    "28": "Aza mety ho vavolombelona foana hanameloka ny namanao; ary aza mamitaka amin' ny molotrao.",
+    "29": "Aza manao hoe: araka izay nataony tamiko no mba hataoko aminy kosa, hovaliako ny olona araka izay nataony.",
+    "30": "Nandalo ny sahan' ny kamo sy ny tanimboaloboky ny tsy ampy fahalalana aho;",
+    "31": "Fa, indro, feno tsilo izy sady voasaron' ny amiana, ary mirodana ny manda vatony.",
+    "32": "Dia nojereko sy noheveriko tsara, eny, hitako ka nahazoako anatra.",
+    "33": "Mbola hatory kely ihany, mbola ho renoka kely ihany, mbola hanohon-tanana kely hatory;",
+    "34": "Dia ho tonga toy ny mimaona ny fahantranao; ary ny tsy fahampiana eo aminao ho toy ny lehilahy mitam-piadiana."
+  }
 }

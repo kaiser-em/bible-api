@@ -1,53 +1,18 @@
 {
+  "book": "Salamo",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Nahoana no mitabataba ny jentilisa, ary misaina zava-poana ny olona?"
-    },
-    {
-      "v": 2,
-      "text": "Mitsangana ny mpanjakan’ny tany ary ny mpanapaka miara-mioko hanohitra an’i Jehovah sy ny voahosony ka manao hoe:"
-    },
-    {
-      "v": 3,
-      "text": "“Aoka hotosantsika ny famatorany, ka hariantsika hiala amintsika ny famehezany”."
-    },
-    {
-      "v": 4,
-      "text": "Izay mipetraka any an-danitra hihomehy, ny Tompo haneso ireo."
-    },
-    {
-      "v": 5,
-      "text": "Dia hiteny azy amin’ny fahavinirany Izy, ka hampahory azy amin’ny fahatezerana mafy."
-    },
-    {
-      "v": 6,
-      "text": "Efa nanendry ny mpanjakako tambonin’i Ziona tendrombohitro masina Aho."
-    },
-    {
-      "v": 7,
-      "text": "Hilaza zava-boatendry Aho, Jehovah nilaza tamiko hoe: Zanako Ianao, Izaho no niteraka Anao androany."
-    },
-    {
-      "v": 8,
-      "text": "Mangataha amiko, dia homeko ho lovanao ny jentilisa ary ny faran’ny tany ho fanananao."
-    },
-    {
-      "v": 9,
-      "text": "\"Hotorotoroinao amin’ny tehim-by izy; toy ny famaky vilany tany no hanamontsamontsananao azy”.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Noho izany, dia hendre ianareo ry mpanjaka; mahazoa fahalalana ianareo, ry mpitsaran’ny tany.\""
-    },
-    {
-      "v": 11,
-      "text": "Manompoa an’i Jehovah amin’ny fahatahorana, ary mifalia amin’ny fangovitana."
-    },
-    {
-      "v": 12,
-      "text": "Manoroha ny Zanaka, fandrao ho tezitra Izy, ka ho very eny an-dalana ianareo, dieny mbola kely ny firehetan’ny fahatezerany. Sambatra izay rehetra mitoky Aminy."
-    }
-  ]
+  "verses": {
+    "1": "Nahoana no mitabataba ny jentilisa, ary misaina zava-poana ny olona?",
+    "2": "Mitsangana ny mpanjakan’ny tany ary ny mpanapaka miara-mioko hanohitra an’i Jehovah sy ny voahosony ka manao hoe:",
+    "3": "“Aoka hotosantsika ny famatorany, ka hariantsika hiala amintsika ny famehezany”.",
+    "4": "Izay mipetraka any an-danitra hihomehy, ny Tompo haneso ireo.",
+    "5": "Dia hiteny azy amin’ny fahavinirany Izy, ka hampahory azy amin’ny fahatezerana mafy.",
+    "6": "Efa nanendry ny mpanjakako tambonin’i Ziona tendrombohitro masina Aho.",
+    "7": "Hilaza zava-boatendry Aho, Jehovah nilaza tamiko hoe: Zanako Ianao, Izaho no niteraka Anao androany.",
+    "8": "Mangataha amiko, dia homeko ho lovanao ny jentilisa ary ny faran’ny tany ho fanananao.",
+    "9": "Hotorotoroinao amin’ny tehim-by izy; toy ny famaky vilany tany no hanamontsamontsananao azy”.",
+    "10": "Noho izany, dia hendre ianareo ry mpanjaka; mahazoa fahalalana ianareo, ry mpitsaran’ny tany.",
+    "11": "Manompoa an’i Jehovah amin’ny fahatahorana, ary mifalia amin’ny fangovitana.",
+    "12": "Manoroha ny Zanaka, fandrao ho tezitra Izy, ka ho very eny an-dalana ianareo, dieny mbola kely ny firehetan’ny fahatezerany. Sambatra izay rehetra mitoky Aminy."
+  }
 }

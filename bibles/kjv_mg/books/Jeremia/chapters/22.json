@@ -1,125 +1,36 @@
 {
+  "book": "Jeremia",
   "chapter": 22,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Izao no lazain' i Jehovah: Midìna any amin' ny tranon' ny mpanjakan' ny Joda, ka ambarao any izao teny izao:"
-    },
-    {
-      "v": 2,
-      "text": "Ary lazao hoe: Henoy ny tenin' i Jehovah, ry mpanjakan' ny Joda, izay mipetraka amin' ny sezafiandrianan' i Davida, dia ianao sy ireo mpanomponao ary ny vahoakanao izay miditra amin' ireto vavahady ireto."
-    },
-    {
-      "v": 3,
-      "text": "\"Izao no lazain' i Jehovah: Manaova fitsarana sy fahamarinana ianareo, ka afaho amin' ny tanan' ny mpampahory ny olona voaroba; ary aza manao ratsy na manao an-keriny amin' ny vahiny sy ny kamboty ary ny mpitondratena, ary aza mandatsaka rà marina amin' ity toerana ity.\""
-    },
-    {
-      "v": 4,
-      "text": "Fa raha manao izany tokoa ianareo, dia hisy mpanjaka hipetraka eo amin' ny sezafiandrianan' i Davida hiditra amin' ity vavahady ity mitaingin-kalesy sy soavaly, dia izy sy ny mpanompony ary ny vahoakany."
-    },
-    {
-      "v": 5,
-      "text": "Fa raha tsy hihaino izany teny izany kosa ianareo, dia ny tenako no ianianako, hoy Jehovah, fa ho lao tokoa ity trano ity."
-    },
-    {
-      "v": 6,
-      "text": "Fa izao no lazain' i Jehovah amin' ny mpanjakan' ny Joda sy ny mpianakaviny: Tahaka an' i Gileada sy ny tampon' i Libanona amiko ianao, nefa hataoko tonga efitra sy tanàna tsy onenana tokoa ianao."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary hanomana mpandrava hamely anao Aho, izay samy hitondra ny fiadiany avy; dia hokapain' ireo ny sederanao voafantina ka hariany ao anaty afo.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary firenena maro no handalo ity tanàna ity, ka samy hanao amin' ny namany avy hoe: Nahoana Jehovah no dia nanao izao tamin' ity tanàna lehibe ity?"
-    },
-    {
-      "v": 9,
-      "text": "Dia hovaliana hoe: Noho ny nahafoizany ny faneken' i Jehovah Andriamaniny sy ny niankohofany tamin' andriamani-kafa sy ny nanompoany azy."
-    },
-    {
-      "v": 10,
-      "text": "\"Aza mitomany ny maty ianareo, na misaona azy; fa mitomania dia mitomania noho ilay efa lasa, fa tsy hiverina intsony izy, na hahita ny tany nahaterahany.\""
-    },
-    {
-      "v": 11,
-      "text": "Fa izao no lazain' i Jehovah ny amin' i Saloma, zanak' i Josia, mpanjakan' ny Joda, dia ilay nanjaka nandimby an' i Josia rainy, saingy efa niala tamin' ity tany ity: Tsy hiverina aty intsony izy,"
-    },
-    {
-      "v": 12,
-      "text": "Fa ho faty any amin' ny toerana izay nitondrana azy ho babo izy ka tsy hahita ity tany ity intsony."
-    },
-    {
-      "v": 13,
-      "text": "Loza ho an' izay manorina ny tranony amin' ny tsy fahamarinana sy ny ati-tranony amin' ny fitaka ka mampiasa maina ny namany fa tsy mandoa ny karamany,"
-    },
-    {
-      "v": 14,
-      "text": "Sady manao hoe: Hanao trano lehibe ho ahy aho sy ati-trano malalaka, ary loahany hisy varavarankely sady asiany valin-drihana sedera sy hosorana loko mena."
-    },
-    {
-      "v": 15,
-      "text": "Hanjaka va ianao, saingy mirindrina ao anaty sedera ianao? Tsy efa nihinana sy nisotro va rainao sady nanao fitsarana sy fahamarinana, ary tamin' izany dia nambinina izy."
-    },
-    {
-      "v": 16,
-      "text": "\"Nitsara ny adin' ny mahantra sy ny sahirana izy; tamin' izany dia nambinina izy.Tsy izany va no fahalalana Ahy? Hoy Jehovah.\""
-    },
-    {
-      "v": 17,
-      "text": "Nefa tsy misy alehan' ny masonao sy ny fonao afa-tsy ny filan-karenanao ihany sy ny fandatsahana rà marina ary ny fampahoriana sy ny fanaovana an-keriny hanatanterahana izany."
-    },
-    {
-      "v": 18,
-      "text": "Ary noho izany dia izao no lazain' i Jehovah ny amin' i Joiakima, zanak' i Josia, mpanjakan' ny Joda: Ny olona tsy hisaona azy hoe: Indrisy, ry rahalahiko! na indrisy, ry anabaviko! Ny olona tsy hitomany azy hoe: Indrisy tompoko! na Indrisy ny voninahiny!"
-    },
-    {
-      "v": 19,
-      "text": "Halevina toy ny fandevina boriky izy, ka hotaritarihina sy hariana any ivelan' ny vavahadin' i Jerosalema."
-    },
-    {
-      "v": 20,
-      "text": "\"Miakara any Libanona, ka mitarainà; dia asandrato any Basana ny feonao, ary mitarainà any Abarima; fa ringana avokoa ireo tia anao.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Efa niteny taminao Aho, fony ianao tao amin' ny fanambinana; nefa hoy ianao: Izaho tsy hihaino. Fanaonao hatry ny fony mbola tanora izany, dia ny tsy nankatoavanao ny feoko.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ny mpiandry ondrinao rehetra hopaohin' ny rivotra, ary ireo tia anao ho lasan-ko babo; ho menatra sy hangaihay tokoa ianao amin' izay noho ny haratsianao rehetra.\""
-    },
-    {
-      "v": 23,
-      "text": "Ry ilay mponina any Libanona, izay manao ny akaninao eny amin' ny sedera, hanao ahoana ny fahalemem-panahinao raha tonga aminao ny fanaintainana toy ny fanaintainan' ny vehivavy mihetsi-jaza!"
-    },
-    {
-      "v": 24,
-      "text": "Raha velona koa Aho, hoy Jehovah, na dia fanombohan-kase eo an-tanako ankavanana aza Konia, zanak' i Joiakima, mpanjakan' ny Joda, dia hotsoahako hiala eo ianao,"
-    },
-    {
-      "v": 25,
-      "text": "Ka hatolotro eo an-tanan' izay mitady ny ainao ianao sy eo an-tanan' izay atahoranao, dia eo an-tanan' i Nebokadnezara, mpanjakan' i Babylona, sy eo amin' ny tanan' ny Kaldeana."
-    },
-    {
-      "v": 26,
-      "text": "Ary ianao sy ny reninao niteraka anao dia hariako any an-tany hafa izay tsy nahaterahanareo, ka any no hahafatesanareo."
-    },
-    {
-      "v": 27,
-      "text": "Fa ny tany iriny hiverenana dia tsy hiverenany."
-    },
-    {
-      "v": 28,
-      "text": "Moa ity lehilahy Konia ity dia sampy vaky vingavingaina? moa fanaka tsy mahafinaritra va izy? Nahoana no nariana izy sy ny taranany, ka natsipy any amin' ny tany tsy fantany?"
-    },
-    {
-      "v": 29,
-      "text": "Ry tany! ry tany! ry tany! Henoy ny tenin' i Jehovah."
-    },
-    {
-      "v": 30,
-      "text": "\"Izao no lazain' i Jehovah: Soratinareo ho tsy manam-para ity lehilahy ity, dia lehilahy tsy hambinina amin' ny androny; fa tsy hisy lehilahy amin' ny taranany izay hambinina hipetraka eo amin' ny sezafiandrianan' i Davida, na hanapaka ao amin' ny Joda intsony.\""
-    }
-  ]
+  "verses": {
+    "1": "Izao no lazain' i Jehovah: Midìna any amin' ny tranon' ny mpanjakan' ny Joda, ka ambarao any izao teny izao:",
+    "2": "Ary lazao hoe: Henoy ny tenin' i Jehovah, ry mpanjakan' ny Joda, izay mipetraka amin' ny sezafiandrianan' i Davida, dia ianao sy ireo mpanomponao ary ny vahoakanao izay miditra amin' ireto vavahady ireto.",
+    "3": "Izao no lazain' i Jehovah: Manaova fitsarana sy fahamarinana ianareo, ka afaho amin' ny tanan' ny mpampahory ny olona voaroba; ary aza manao ratsy na manao an-keriny amin' ny vahiny sy ny kamboty ary ny mpitondratena, ary aza mandatsaka rà marina amin' ity toerana ity.",
+    "4": "Fa raha manao izany tokoa ianareo, dia hisy mpanjaka hipetraka eo amin' ny sezafiandrianan' i Davida hiditra amin' ity vavahady ity mitaingin-kalesy sy soavaly, dia izy sy ny mpanompony ary ny vahoakany.",
+    "5": "Fa raha tsy hihaino izany teny izany kosa ianareo, dia ny tenako no ianianako, hoy Jehovah, fa ho lao tokoa ity trano ity.",
+    "6": "Fa izao no lazain' i Jehovah amin' ny mpanjakan' ny Joda sy ny mpianakaviny: Tahaka an' i Gileada sy ny tampon' i Libanona amiko ianao, nefa hataoko tonga efitra sy tanàna tsy onenana tokoa ianao.",
+    "7": "Ary hanomana mpandrava hamely anao Aho, izay samy hitondra ny fiadiany avy; dia hokapain' ireo ny sederanao voafantina ka hariany ao anaty afo.",
+    "8": "Ary firenena maro no handalo ity tanàna ity, ka samy hanao amin' ny namany avy hoe: Nahoana Jehovah no dia nanao izao tamin' ity tanàna lehibe ity?",
+    "9": "Dia hovaliana hoe: Noho ny nahafoizany ny faneken' i Jehovah Andriamaniny sy ny niankohofany tamin' andriamani-kafa sy ny nanompoany azy.",
+    "10": "Aza mitomany ny maty ianareo, na misaona azy; fa mitomania dia mitomania noho ilay efa lasa, fa tsy hiverina intsony izy, na hahita ny tany nahaterahany.",
+    "11": "Fa izao no lazain' i Jehovah ny amin' i Saloma, zanak' i Josia, mpanjakan' ny Joda, dia ilay nanjaka nandimby an' i Josia rainy, saingy efa niala tamin' ity tany ity: Tsy hiverina aty intsony izy,",
+    "12": "Fa ho faty any amin' ny toerana izay nitondrana azy ho babo izy ka tsy hahita ity tany ity intsony.",
+    "13": "Loza ho an' izay manorina ny tranony amin' ny tsy fahamarinana sy ny ati-tranony amin' ny fitaka ka mampiasa maina ny namany fa tsy mandoa ny karamany,",
+    "14": "Sady manao hoe: Hanao trano lehibe ho ahy aho sy ati-trano malalaka, ary loahany hisy varavarankely sady asiany valin-drihana sedera sy hosorana loko mena.",
+    "15": "Hanjaka va ianao, saingy mirindrina ao anaty sedera ianao? Tsy efa nihinana sy nisotro va rainao sady nanao fitsarana sy fahamarinana, ary tamin' izany dia nambinina izy.",
+    "16": "Nitsara ny adin' ny mahantra sy ny sahirana izy; tamin' izany dia nambinina izy.Tsy izany va no fahalalana Ahy? Hoy Jehovah.",
+    "17": "Nefa tsy misy alehan' ny masonao sy ny fonao afa-tsy ny filan-karenanao ihany sy ny fandatsahana rà marina ary ny fampahoriana sy ny fanaovana an-keriny hanatanterahana izany.",
+    "18": "Ary noho izany dia izao no lazain' i Jehovah ny amin' i Joiakima, zanak' i Josia, mpanjakan' ny Joda: Ny olona tsy hisaona azy hoe: Indrisy, ry rahalahiko! na indrisy, ry anabaviko! Ny olona tsy hitomany azy hoe: Indrisy tompoko! na Indrisy ny voninahiny!",
+    "19": "Halevina toy ny fandevina boriky izy, ka hotaritarihina sy hariana any ivelan' ny vavahadin' i Jerosalema.",
+    "20": "Miakara any Libanona, ka mitarainà; dia asandrato any Basana ny feonao, ary mitarainà any Abarima; fa ringana avokoa ireo tia anao.",
+    "21": "Efa niteny taminao Aho, fony ianao tao amin' ny fanambinana; nefa hoy ianao: Izaho tsy hihaino. Fanaonao hatry ny fony mbola tanora izany, dia ny tsy nankatoavanao ny feoko.",
+    "22": "Ny mpiandry ondrinao rehetra hopaohin' ny rivotra, ary ireo tia anao ho lasan-ko babo; ho menatra sy hangaihay tokoa ianao amin' izay noho ny haratsianao rehetra.",
+    "23": "Ry ilay mponina any Libanona, izay manao ny akaninao eny amin' ny sedera, hanao ahoana ny fahalemem-panahinao raha tonga aminao ny fanaintainana toy ny fanaintainan' ny vehivavy mihetsi-jaza!",
+    "24": "Raha velona koa Aho, hoy Jehovah, na dia fanombohan-kase eo an-tanako ankavanana aza Konia, zanak' i Joiakima, mpanjakan' ny Joda, dia hotsoahako hiala eo ianao,",
+    "25": "Ka hatolotro eo an-tanan' izay mitady ny ainao ianao sy eo an-tanan' izay atahoranao, dia eo an-tanan' i Nebokadnezara, mpanjakan' i Babylona, sy eo amin' ny tanan' ny Kaldeana.",
+    "26": "Ary ianao sy ny reninao niteraka anao dia hariako any an-tany hafa izay tsy nahaterahanareo, ka any no hahafatesanareo.",
+    "27": "Fa ny tany iriny hiverenana dia tsy hiverenany.",
+    "28": "Moa ity lehilahy Konia ity dia sampy vaky vingavingaina? moa fanaka tsy mahafinaritra va izy? Nahoana no nariana izy sy ny taranany, ka natsipy any amin' ny tany tsy fantany?",
+    "29": "Ry tany! ry tany! ry tany! Henoy ny tenin' i Jehovah.",
+    "30": "Izao no lazain' i Jehovah: Soratinareo ho tsy manam-para ity lehilahy ity, dia lehilahy tsy hambinina amin' ny androny; fa tsy hisy lehilahy amin' ny taranany izay hambinina hipetraka eo amin' ny sezafiandrianan' i Davida, na hanapaka ao amin' ny Joda intsony."
+  }
 }

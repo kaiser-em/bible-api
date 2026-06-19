@@ -1,73 +1,23 @@
 {
+  "book": "Salamo",
   "chapter": 90,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Vavak' i Mosesy lehilahin' Andriamanitra.] TOMPO ô, efa fonenanay hatramin' ny taranaka rehetra Ianao."
-    },
-    {
-      "v": 2,
-      "text": "Fony tsy mbola ary ny tendrombohitra, na voaforonao ny tany sy izao rehetra izao, dia Andriamanitra Ianao hatramin' ny taloha indrindra ka mandrakizay."
-    },
-    {
-      "v": 3,
-      "text": "Mamerina ny olona ho amin' ny fahalevonana Ianao ka manao hoe: Miverena, ry zanak' olombelona."
-    },
-    {
-      "v": 4,
-      "text": "Fa eo imasonao ny arivo taona dia toy ny fandalon' ny omaly, ary tahaka ny fotoam-piambenana iray amin' ny alina."
-    },
-    {
-      "v": 5,
-      "text": "\"Manindao azy ireo tahaka ny riaka Ianao; tahaka ny torimaso izy; amin' ny maraina dia tahaka ny ahitra mamony izy.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Amin' ny maraina mamony izy, ary mitombo; amin' ny hariva voajinja izy ka malazo.\""
-    },
-    {
-      "v": 7,
-      "text": "Fa lanin' ny fahatezeranao izahay, ary ory izahay noho ny fahaviniranao."
-    },
-    {
-      "v": 8,
-      "text": "Ny helokay dia efa nataonao teo anatrehanao, ary ny fahotanay miafina teo amin' ny fahazavan' ny tavanao."
-    },
-    {
-      "v": 9,
-      "text": "\"Efa lasa amin' ny fahatezeranao ny andronay rehetra; efa laninay toy ny tantara ny taonanay.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Fitopolo taona no andron' ny taonanay, ary raha tàhiny matanjaka dia ho valopolo taona; nefa ny fahatanjahany dia asa mafy sy alahelo, fa esorina faingana izany, ka lasa manidina izahay.\""
-    },
-    {
-      "v": 11,
-      "text": "Iza no mahafantatra ny herin' ny fahatezeranao sy ny fahaviniranao, araka izay tokony ho fahatahorana Anao?"
-    },
-    {
-      "v": 12,
-      "text": "Koa mampianara anay hanisa ny andronay, hahazoanay fo hendry."
-    },
-    {
-      "v": 13,
-      "text": "Miverena, Jehovah ô! Mandra-pahoviana?"
-    },
-    {
-      "v": 14,
-      "text": "Vokiso ny famindramponao nony maraina izahay mba hiravoravoanay sy hifalianay amin' ny andronay rehetra."
-    },
-    {
-      "v": 15,
-      "text": "Mampifalia anay araka ny andro nampahorianao anay sy ny taona nahitanay loza."
-    },
-    {
-      "v": 16,
-      "text": "Aoka hiseho amin' ny mpanomponao ny asanao, ary ny voninahitrao amin' ny zanany."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary aoka ho aminay ny fahatsaran' ny Tompo Andriamanitray; ary ampitoero aminay ny asan' ny tananay; eny, ny asan' ny tananay, ampitoero izany.\""
-    }
-  ]
+  "verses": {
+    "1": "[Vavak' i Mosesy lehilahin' Andriamanitra.] TOMPO ô, efa fonenanay hatramin' ny taranaka rehetra Ianao.",
+    "2": "Fony tsy mbola ary ny tendrombohitra, na voaforonao ny tany sy izao rehetra izao, dia Andriamanitra Ianao hatramin' ny taloha indrindra ka mandrakizay.",
+    "3": "Mamerina ny olona ho amin' ny fahalevonana Ianao ka manao hoe: Miverena, ry zanak' olombelona.",
+    "4": "Fa eo imasonao ny arivo taona dia toy ny fandalon' ny omaly, ary tahaka ny fotoam-piambenana iray amin' ny alina.",
+    "5": "Manindao azy ireo tahaka ny riaka Ianao; tahaka ny torimaso izy; amin' ny maraina dia tahaka ny ahitra mamony izy.",
+    "6": "Amin' ny maraina mamony izy, ary mitombo; amin' ny hariva voajinja izy ka malazo.",
+    "7": "Fa lanin' ny fahatezeranao izahay, ary ory izahay noho ny fahaviniranao.",
+    "8": "Ny helokay dia efa nataonao teo anatrehanao, ary ny fahotanay miafina teo amin' ny fahazavan' ny tavanao.",
+    "9": "Efa lasa amin' ny fahatezeranao ny andronay rehetra; efa laninay toy ny tantara ny taonanay.",
+    "10": "Fitopolo taona no andron' ny taonanay, ary raha tàhiny matanjaka dia ho valopolo taona; nefa ny fahatanjahany dia asa mafy sy alahelo, fa esorina faingana izany, ka lasa manidina izahay.",
+    "11": "Iza no mahafantatra ny herin' ny fahatezeranao sy ny fahaviniranao, araka izay tokony ho fahatahorana Anao?",
+    "12": "Koa mampianara anay hanisa ny andronay, hahazoanay fo hendry.",
+    "13": "Miverena, Jehovah ô! Mandra-pahoviana?",
+    "14": "Vokiso ny famindramponao nony maraina izahay mba hiravoravoanay sy hifalianay amin' ny andronay rehetra.",
+    "15": "Mampifalia anay araka ny andro nampahorianao anay sy ny taona nahitanay loza.",
+    "16": "Aoka hiseho amin' ny mpanomponao ny asanao, ary ny voninahitrao amin' ny zanany.",
+    "17": "Ary aoka ho aminay ny fahatsaran' ny Tompo Andriamanitray; ary ampitoero aminay ny asan' ny tananay; eny, ny asan' ny tananay, ampitoero izany."
+  }
 }

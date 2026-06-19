@@ -1,105 +1,31 @@
 {
+  "book": "Joba",
   "chapter": 29,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia mbola nandroso nanao oha-teny ihany Joba ka niteny hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Enga anie ka ho tahaka ny tamin' ireny volana lasa ireny aho! dia tahaka ilay tamin' ny andro niarovan' Andriamanitra ahy!"
-    },
-    {
-      "v": 3,
-      "text": "\"Fony mbola nazava teo ambonin' ny lohako ny jirony, ary ny fahazavany no nandehanako tao amin' ny maizina;\""
-    },
-    {
-      "v": 4,
-      "text": "Tahaka ahy tamin' ny andron' ny fahatanorako raha teo ambonin' ny laiko ny fisakaizan' Andriamanitra,"
-    },
-    {
-      "v": 5,
-      "text": "\"Fony mbola tao amiko ny Tsitoha, ary nanodidina ahy ny zanako;\""
-    },
-    {
-      "v": 6,
-      "text": "\"Fony mbola nanasa ny tongotro tamin' ny ronono mandry aho, ary ny vatolampy namoaka renirano diloilo teo amiko;\""
-    },
-    {
-      "v": 7,
-      "text": "Raha nivoaka ny vavahady aho namaky ny tanàna, dia nanomana ny fipetrahako teo an-dalambe!"
-    },
-    {
-      "v": 8,
-      "text": "Nahita ahy ny zatovo ka niampirimpirina ary niainga ny zokiolona ka nijoro."
-    },
-    {
-      "v": 9,
-      "text": "Nitsaha-niteny ny lehibe ka nitampim-bava."
-    },
-    {
-      "v": 10,
-      "text": "Nangina ny mpanapaka, ary ny lelany niraikitra tamin' ny lanilaniny."
-    },
-    {
-      "v": 11,
-      "text": "\"Ny sofina izay nandre ahy, dia nanao ahy hoe sambatra; ary izay maso nahita ahy dia vavolombelona ho ahy.\""
-    },
-    {
-      "v": 12,
-      "text": "Satria namonjy ny ory izay nitaraina aho sy ny kamboty ary izay tsy nanan-kamonjy."
-    },
-    {
-      "v": 13,
-      "text": "\"Ny tso-dranon' izay efa ho faty dia tonga tamiko; ary izaho no nampihoby ny fon' ny mpitondratena.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Nitafy fahamarinana aho, ka mba nitafy ahy kosa izany; tahaka ny fitafiana sy ny diadema ny rariny ho ahy.\""
-    },
-    {
-      "v": 15,
-      "text": "Efa maso ho an' ny jamba aho ary tongotra ho an' ny mandringa."
-    },
-    {
-      "v": 16,
-      "text": "Efa ray ho an' ny mahantra aho ary ny adin' ny olona tsy fantatro aza nodinihiko."
-    },
-    {
-      "v": 17,
-      "text": "\"Novakiako ny valanoranon' ny ratsy fanahy, ka norombahiko ny babo teo am-bavany;\""
-    },
-    {
-      "v": 18,
-      "text": "Dia hoy aho: eo amin' ny akaniko no hahafatesako, ary hanamaro ny androko ho toy ny fasika aho."
-    },
-    {
-      "v": 19,
-      "text": "Ny fakako azon' ny rano, ary ny ando mitoetra amin' ny sampako mandritra ny alina."
-    },
-    {
-      "v": 20,
-      "text": "Vaovao teo amiko ny voninahitro, ary ny tsipikako nihahenjana teny an-tanako."
-    },
-    {
-      "v": 21,
-      "text": "Nihaino ahy ny olona, dia niandry, ka nangina tamin' ny fanolorako saina izy."
-    },
-    {
-      "v": 22,
-      "text": "\"Rehefa niteny aho, dia tsy mba namaly intsony izy; ary nitetevan' ny teniko izy.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary niandry ahy toy ny fiandry ranonorana izy; ka nitanatana vava toy ny fiandry ny fara-orana.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Raha nihomehy taminy aho, dia tsy ninoany; ary tsy nahamaloka ny fahazavan' ny tavako ireo.\""
-    },
-    {
-      "v": 25,
-      "text": "Nifidy ny lalan-kalehany aho ka nipetraka ho lohany, ary nitoetra toy ny mpanjaka teo amin' ny miaramila sy toy ny mpampionona ny misaona."
-    }
-  ]
+  "verses": {
+    "1": "Dia mbola nandroso nanao oha-teny ihany Joba ka niteny hoe:",
+    "2": "Enga anie ka ho tahaka ny tamin' ireny volana lasa ireny aho! dia tahaka ilay tamin' ny andro niarovan' Andriamanitra ahy!",
+    "3": "Fony mbola nazava teo ambonin' ny lohako ny jirony, ary ny fahazavany no nandehanako tao amin' ny maizina;",
+    "4": "Tahaka ahy tamin' ny andron' ny fahatanorako raha teo ambonin' ny laiko ny fisakaizan' Andriamanitra,",
+    "5": "Fony mbola tao amiko ny Tsitoha, ary nanodidina ahy ny zanako;",
+    "6": "Fony mbola nanasa ny tongotro tamin' ny ronono mandry aho, ary ny vatolampy namoaka renirano diloilo teo amiko;",
+    "7": "Raha nivoaka ny vavahady aho namaky ny tanàna, dia nanomana ny fipetrahako teo an-dalambe!",
+    "8": "Nahita ahy ny zatovo ka niampirimpirina ary niainga ny zokiolona ka nijoro.",
+    "9": "Nitsaha-niteny ny lehibe ka nitampim-bava.",
+    "10": "Nangina ny mpanapaka, ary ny lelany niraikitra tamin' ny lanilaniny.",
+    "11": "Ny sofina izay nandre ahy, dia nanao ahy hoe sambatra; ary izay maso nahita ahy dia vavolombelona ho ahy.",
+    "12": "Satria namonjy ny ory izay nitaraina aho sy ny kamboty ary izay tsy nanan-kamonjy.",
+    "13": "Ny tso-dranon' izay efa ho faty dia tonga tamiko; ary izaho no nampihoby ny fon' ny mpitondratena.",
+    "14": "Nitafy fahamarinana aho, ka mba nitafy ahy kosa izany; tahaka ny fitafiana sy ny diadema ny rariny ho ahy.",
+    "15": "Efa maso ho an' ny jamba aho ary tongotra ho an' ny mandringa.",
+    "16": "Efa ray ho an' ny mahantra aho ary ny adin' ny olona tsy fantatro aza nodinihiko.",
+    "17": "Novakiako ny valanoranon' ny ratsy fanahy, ka norombahiko ny babo teo am-bavany;",
+    "18": "Dia hoy aho: eo amin' ny akaniko no hahafatesako, ary hanamaro ny androko ho toy ny fasika aho.",
+    "19": "Ny fakako azon' ny rano, ary ny ando mitoetra amin' ny sampako mandritra ny alina.",
+    "20": "Vaovao teo amiko ny voninahitro, ary ny tsipikako nihahenjana teny an-tanako.",
+    "21": "Nihaino ahy ny olona, dia niandry, ka nangina tamin' ny fanolorako saina izy.",
+    "22": "Rehefa niteny aho, dia tsy mba namaly intsony izy; ary nitetevan' ny teniko izy.",
+    "23": "Ary niandry ahy toy ny fiandry ranonorana izy; ka nitanatana vava toy ny fiandry ny fara-orana.",
+    "24": "Raha nihomehy taminy aho, dia tsy ninoany; ary tsy nahamaloka ny fahazavan' ny tavako ireo.",
+    "25": "Nifidy ny lalan-kalehany aho ka nipetraka ho lohany, ary nitoetra toy ny mpanjaka teo amin' ny miaramila sy toy ny mpampionona ny misaona."
+  }
 }

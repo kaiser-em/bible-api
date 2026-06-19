@@ -1,93 +1,28 @@
 {
+  "book": "Salamo",
   "chapter": 33,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"MIHOBIA ho an' i Jehovah ianareo, ry olo-marina; fa mendrika hataon' ny olo-mahitsy ny fiderana.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Miderà an' i Jehovah amin' ny harpa; mihirà ho Azy amin' ny salamo sy ny valiha tory folo.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Mihirà fihiram-baovao ho azy; mitendre tsara amin' ny feo mafy.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Fa mahitsy ny tenin' i Jehovah; ary ny asany rehetra dia natao tamim-pahamarinana.\""
-    },
-    {
-      "v": 5,
-      "text": "Tia fahamarinana sy rariny Izy. Henika ny fahatsaran' i Jehovah ny tany."
-    },
-    {
-      "v": 6,
-      "text": "\"Ny tenin' i Jehovah no nanaovana ny lanitra; ary ny fofonain' ny vavany no nanaovana ny hamaroany rehetra.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Mampiavosa ny rano ao an-dranomasina ho toy ny antontan-javatra Izy; mitahiry ny rano lalina ao an-trano fitahirizana Izy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Aoka hatahotra an' i Jehovah ny tany rehetra; aoka hangovitra eo anatrehany ny mponina rehetra amin' izao tontolo izao.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Fa Izy no niteny dia ary izany; izy no nandidy dia nitoetra mafy izany.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Mahafoana ny fisainan' ny jentilisa Jehovah; mahatsinontsinona ny hevitry ny olona Izy.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Maharitra mandrakizay ny tolo-tsain' i Jehovah; mahatratra ny taranaka mifandimby rehetra ny hevitry ny fony.\""
-    },
-    {
-      "v": 12,
-      "text": "Sambatra ny firenena izay manana an' i Jehovah ho Andriamaniny sy ny olona nofidiny ho lovany."
-    },
-    {
-      "v": 13,
-      "text": "\"Eny an-danitra no itsinjovan' i Jehovah; mijery ny zanak' olombelona rehetra Izy;\""
-    },
-    {
-      "v": 14,
-      "text": "Eo amin' ny fonenany no ijereny ny mponina rehetra ambonin' ny tany,"
-    },
-    {
-      "v": 15,
-      "text": "Eo amin' ny fonenany no ijereny ny mponina rehetra ambonin' ny tany,"
-    },
-    {
-      "v": 16,
-      "text": "\"Tsy misy mpanjaka voavonjin' ny hamaroan' ny miaramilany; ny olo-mahery tsy voavonjin' ny haben' ny heriny.\""
-    },
-    {
-      "v": 17,
-      "text": "Zava-poana tsy mahavonjy ny soavaly, na mahafaka ny haben' ny heriny."
-    },
-    {
-      "v": 18,
-      "text": "Indro, ny mason' i Jehovah mitsinjo izay matahotra Azy, dia izay manantena ny famindrampony,"
-    },
-    {
-      "v": 19,
-      "text": "Mba hanafaka ny fanahiny amin' ny fahafatesana sy hamelona azy, raha misy mosary."
-    },
-    {
-      "v": 20,
-      "text": "\"Miandry an' i Jehovah ny fanahintsika; famonjena antsika sy ampingantsika izy.\""
-    },
-    {
-      "v": 21,
-      "text": "Fa Izy no hifalian' ny fontsika, satria ny anarany masina no itokiantsika."
-    },
-    {
-      "v": 22,
-      "text": "Jehovah ô, aoka ny famindramponao hitoetra aminay araka ny anantenanay anao."
-    }
-  ]
+  "verses": {
+    "1": "MIHOBIA ho an' i Jehovah ianareo, ry olo-marina; fa mendrika hataon' ny olo-mahitsy ny fiderana.",
+    "2": "Miderà an' i Jehovah amin' ny harpa; mihirà ho Azy amin' ny salamo sy ny valiha tory folo.",
+    "3": "Mihirà fihiram-baovao ho azy; mitendre tsara amin' ny feo mafy.",
+    "4": "Fa mahitsy ny tenin' i Jehovah; ary ny asany rehetra dia natao tamim-pahamarinana.",
+    "5": "Tia fahamarinana sy rariny Izy. Henika ny fahatsaran' i Jehovah ny tany.",
+    "6": "Ny tenin' i Jehovah no nanaovana ny lanitra; ary ny fofonain' ny vavany no nanaovana ny hamaroany rehetra.",
+    "7": "Mampiavosa ny rano ao an-dranomasina ho toy ny antontan-javatra Izy; mitahiry ny rano lalina ao an-trano fitahirizana Izy.",
+    "8": "Aoka hatahotra an' i Jehovah ny tany rehetra; aoka hangovitra eo anatrehany ny mponina rehetra amin' izao tontolo izao.",
+    "9": "Fa Izy no niteny dia ary izany; izy no nandidy dia nitoetra mafy izany.",
+    "10": "Mahafoana ny fisainan' ny jentilisa Jehovah; mahatsinontsinona ny hevitry ny olona Izy.",
+    "11": "Maharitra mandrakizay ny tolo-tsain' i Jehovah; mahatratra ny taranaka mifandimby rehetra ny hevitry ny fony.",
+    "12": "Sambatra ny firenena izay manana an' i Jehovah ho Andriamaniny sy ny olona nofidiny ho lovany.",
+    "13": "Eny an-danitra no itsinjovan' i Jehovah; mijery ny zanak' olombelona rehetra Izy;",
+    "14": "Eo amin' ny fonenany no ijereny ny mponina rehetra ambonin' ny tany,",
+    "15": "Eo amin' ny fonenany no ijereny ny mponina rehetra ambonin' ny tany,",
+    "16": "Tsy misy mpanjaka voavonjin' ny hamaroan' ny miaramilany; ny olo-mahery tsy voavonjin' ny haben' ny heriny.",
+    "17": "Zava-poana tsy mahavonjy ny soavaly, na mahafaka ny haben' ny heriny.",
+    "18": "Indro, ny mason' i Jehovah mitsinjo izay matahotra Azy, dia izay manantena ny famindrampony,",
+    "19": "Mba hanafaka ny fanahiny amin' ny fahafatesana sy hamelona azy, raha misy mosary.",
+    "20": "Miandry an' i Jehovah ny fanahintsika; famonjena antsika sy ampingantsika izy.",
+    "21": "Fa Izy no hifalian' ny fontsika, satria ny anarany masina no itokiantsika.",
+    "22": "Jehovah ô, aoka ny famindramponao hitoetra aminay araka ny anantenanay anao."
+  }
 }

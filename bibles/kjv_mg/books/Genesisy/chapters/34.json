@@ -1,129 +1,37 @@
 {
+  "book": "Genesisy",
   "chapter": 34,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia nivoaka Dina, zanakavavin' i Lea, izay naterany tamin' i Jakoba, mba hizaha ny zazavavy tompon-tany."
-    },
-    {
-      "v": 2,
-      "text": "Ary raha nahita azy Sekema, zanakalahin' i Hamora Hivita, andriana tamin' izany tany izany, dia naka azy, ary nandry taminy ka nampietry azy."
-    },
-    {
-      "v": 3,
-      "text": "Ary ny fanahiny raiki-pitia tamin' i Dina zanakavavin' i Jakoba, ka tiany razazavavy, dia nanao teny malefaka mahafinaritra tamin-drazazavavy izy."
-    },
-    {
-      "v": 4,
-      "text": "Ary Sekema dia niteny tamin' i Hamora rainy ka nanao hoe: Alao io zazavavy io ho vadiko."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary ren' i Jakoba fa efa nandoto an'i Dina zanany vavy izy; fa ny zanany lahy mbola niandry ny biby fiompiny tany an-tsaha; ka dia nangina Jakoba mandra-pahatongan' ireo.\""
-    },
-    {
-      "v": 6,
-      "text": "Dia nivoaka Hamora, rain' i Sekema, nankany amin' i Jakoba mba hidinika taminy."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary ny zanakalahin' i Jakoba dia tonga avy tany an-tsaha rehefa nandre izany; ary nalahelo ireo, sady tezitra indrindra, satria efa nanao fahadalana teo amin' ny Isiraely izy noho ny nandriany tamin' ny zanakavavin' i Jakoba, izay zavatra tsy tokony ho natao.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary nidinika tamin' ireo Hamora ka nanao hoe: Ny fanahin' i Sekema zanako lahy dia raiki-pitia amin' ny zanakareo vavy; masìna ianareo, omeo azy izy ho vadiny.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary manaova fanambadiana aminay ianareo, ka omeo anay ny zanakavavinareo, dia alao ho anareo ny zanakay vavy."
-    },
-    {
-      "v": 10,
-      "text": "\"Dia hiara-monina aminay ianareo; ka ny tany dia eo anoloanareo: oneno, dia manaova varotra ao, ary aoka hahazo fananana ao ianareo.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary hoy Sekema tamin' ny rain' i Dina sy ny anadahiny: Aoka mba hahita fitia eto imasonareo aho, ary izay lazainareo amiko dia homeko:"
-    },
-    {
-      "v": 12,
-      "text": "\"Na dia harena sy fanomezana be sy zavatra betsaka aza no asainareo homeko, dia homeko ihany izany araka izay holazainareo amiko; fa omeo ahy ny zazavavy ho vadiko.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ny zanakalahin' i Jakoba namaly an' i Sekema sy Hamora rainy tamin' ny fitaka ka nisaroro azy noho ny nandotoany an' i Dina anabaviny;\""
-    },
-    {
-      "v": 14,
-      "text": "Ary hoy izy taminy: Tsy azonay atao izany zavatra izany, dia ny hanome ny anabavinay ho an' izay lehilahy tsy mifora: Fa fahafaham-baràka aminay izany."
-    },
-    {
-      "v": 15,
-      "text": "Fa izao ihany no hanekenay anareo: Raha ho tahaka anay ianareo, ka hoforana ny lehilahy rehetra aminareo."
-    },
-    {
-      "v": 16,
-      "text": "Dia homenay anareo ny zanakay vavy, ary ny zanakareo vavy kosa halainay ho anay, dia hiara-monina aminareo izahay, ka ho firenena iray isika."
-    },
-    {
-      "v": 17,
-      "text": "\"Fa raha tsy hihaino anay ianareo ka hoforana; dia halainay ny zanakay vavy ka handeha izahay.\""
-    },
-    {
-      "v": 18,
-      "text": "Dia sitrak' i Hamora sy Sekema zanany izany teniny izany."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary tsy nitaredretra ilay zatovo hanao izany zavatra izany satria efa tia ny zanakavavin' i Jakoba izy; ary izy no malaza kokoa noho izay rehetra ao an-tranon' ny rainy.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary Hamora sy Sekema zanany lahy nankeo amin' ny vavahadin' ny tanànany, dia niteny tamin' ny mponina tao an-tanànany ka nanao hoe:"
-    },
-    {
-      "v": 21,
-      "text": "\"Ireo olona ireo mipetraka tsara eto amintsika; noho izany aoka honina eto amin' ny tany izy, ka hanao varotra eto; fa, indro, ny tany dia malalaka ho azy ireo; ny zanany vavy dia aoka halaintsika ho vadintsika, ary ny zanatsika vavy dia aoka homentsika azy.\""
-    },
-    {
-      "v": 22,
-      "text": "Nefa izao ihany no hanaovan' ireo olona ireo fanekena amintsika mba honenany miaraka amintsika ho firenena iray: Raha hoforana ny lehilahy rehetra amintsika tahaka izay namorana azy ireo."
-    },
-    {
-      "v": 23,
-      "text": "Tsy ho antsika va ny biby fiompiny sy ny fananany mbamin' ny bibiny rehetra? Aoka hifanaiky aminy fotsiny isika, dia hiara-monina amintsika izy."
-    },
-    {
-      "v": 24,
-      "text": "\"Ary izay rehetra nivoaka tamin' ny vavahadin' ny tanànany dia nihaino an' i Hamora sy Sekema zanany; ary noforana ny lehilahy rehetra, dia izay rehetra nivoaka tamin' ny vavahadin' ny tanànany.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary izao no niseho tamin' ny andro fahatelo, rehefa ilay narary mafy iny izy ireo, dia samy nitondra ny sabany ny zanak' i Jakoba roa lahy, dia Simeona sy Levy, anadahin' i Dina, ka niakatra tamim-pahasahiana tao an-tanàna, dia namono ny lehilahy rehetra."
-    },
-    {
-      "v": 26,
-      "text": "\"Ary Hamora sy Sekema zanany lahy dia novonoiny tamin' ny lelan-tsabatra; dia naka an' i Dina tao an-tranon' i Sekema izy ka lasa nandeha.\""
-    },
-    {
-      "v": 27,
-      "text": "Nankeny amin' ny faty ny zanakalahin' i Jakoba ka namabo ny tanàna noho ny nandotoany ny anabaviny."
-    },
-    {
-      "v": 28,
-      "text": "Ny ondriny rehetra sy ny ombiny, sy ny borikiny, ary izay tao an-tanàna, sy izay tany an-tsaha dia nalainy avokoa."
-    },
-    {
-      "v": 29,
-      "text": "Ary ny fananany rehetra sy ireo zanany madinika ary ny vadiny izay nentina ho babo, mbamin' izay rehetra ao an-tranony dia nofaohiny avokoa."
-    },
-    {
-      "v": 30,
-      "text": "\"Ary hoy Jakoba tamin' i Simeona sy Levy: Efa nahatonga fahoriana tamiko ianareo fa nomaimbonareo eto amin' ny mponina amin' ny tany aho, dia amin' ny Kananita sy ny Perizita: fa olom-bitsy aho, ka hiangona hamely ahy izy ireo, dia hamono ahy; dia ho fongotra aho sy ny ankohonako.\""
-    },
-    {
-      "v": 31,
-      "text": "Ary hoy izy ireo: Moa ve ny anabavinay havela ataony toy ny vehivavy janga?"
-    }
-  ]
+  "verses": {
+    "1": "Dia nivoaka Dina, zanakavavin' i Lea, izay naterany tamin' i Jakoba, mba hizaha ny zazavavy tompon-tany.",
+    "2": "Ary raha nahita azy Sekema, zanakalahin' i Hamora Hivita, andriana tamin' izany tany izany, dia naka azy, ary nandry taminy ka nampietry azy.",
+    "3": "Ary ny fanahiny raiki-pitia tamin' i Dina zanakavavin' i Jakoba, ka tiany razazavavy, dia nanao teny malefaka mahafinaritra tamin-drazazavavy izy.",
+    "4": "Ary Sekema dia niteny tamin' i Hamora rainy ka nanao hoe: Alao io zazavavy io ho vadiko.",
+    "5": "Ary ren' i Jakoba fa efa nandoto an'i Dina zanany vavy izy; fa ny zanany lahy mbola niandry ny biby fiompiny tany an-tsaha; ka dia nangina Jakoba mandra-pahatongan' ireo.",
+    "6": "Dia nivoaka Hamora, rain' i Sekema, nankany amin' i Jakoba mba hidinika taminy.",
+    "7": "Ary ny zanakalahin' i Jakoba dia tonga avy tany an-tsaha rehefa nandre izany; ary nalahelo ireo, sady tezitra indrindra, satria efa nanao fahadalana teo amin' ny Isiraely izy noho ny nandriany tamin' ny zanakavavin' i Jakoba, izay zavatra tsy tokony ho natao.",
+    "8": "Ary nidinika tamin' ireo Hamora ka nanao hoe: Ny fanahin' i Sekema zanako lahy dia raiki-pitia amin' ny zanakareo vavy; masìna ianareo, omeo azy izy ho vadiny.",
+    "9": "Ary manaova fanambadiana aminay ianareo, ka omeo anay ny zanakavavinareo, dia alao ho anareo ny zanakay vavy.",
+    "10": "Dia hiara-monina aminay ianareo; ka ny tany dia eo anoloanareo: oneno, dia manaova varotra ao, ary aoka hahazo fananana ao ianareo.",
+    "11": "Ary hoy Sekema tamin' ny rain' i Dina sy ny anadahiny: Aoka mba hahita fitia eto imasonareo aho, ary izay lazainareo amiko dia homeko:",
+    "12": "Na dia harena sy fanomezana be sy zavatra betsaka aza no asainareo homeko, dia homeko ihany izany araka izay holazainareo amiko; fa omeo ahy ny zazavavy ho vadiko.",
+    "13": "Ary ny zanakalahin' i Jakoba namaly an' i Sekema sy Hamora rainy tamin' ny fitaka ka nisaroro azy noho ny nandotoany an' i Dina anabaviny;",
+    "14": "Ary hoy izy taminy: Tsy azonay atao izany zavatra izany, dia ny hanome ny anabavinay ho an' izay lehilahy tsy mifora: Fa fahafaham-baràka aminay izany.",
+    "15": "Fa izao ihany no hanekenay anareo: Raha ho tahaka anay ianareo, ka hoforana ny lehilahy rehetra aminareo.",
+    "16": "Dia homenay anareo ny zanakay vavy, ary ny zanakareo vavy kosa halainay ho anay, dia hiara-monina aminareo izahay, ka ho firenena iray isika.",
+    "17": "Fa raha tsy hihaino anay ianareo ka hoforana; dia halainay ny zanakay vavy ka handeha izahay.",
+    "18": "Dia sitrak' i Hamora sy Sekema zanany izany teniny izany.",
+    "19": "Ary tsy nitaredretra ilay zatovo hanao izany zavatra izany satria efa tia ny zanakavavin' i Jakoba izy; ary izy no malaza kokoa noho izay rehetra ao an-tranon' ny rainy.",
+    "20": "Ary Hamora sy Sekema zanany lahy nankeo amin' ny vavahadin' ny tanànany, dia niteny tamin' ny mponina tao an-tanànany ka nanao hoe:",
+    "21": "Ireo olona ireo mipetraka tsara eto amintsika; noho izany aoka honina eto amin' ny tany izy, ka hanao varotra eto; fa, indro, ny tany dia malalaka ho azy ireo; ny zanany vavy dia aoka halaintsika ho vadintsika, ary ny zanatsika vavy dia aoka homentsika azy.",
+    "22": "Nefa izao ihany no hanaovan' ireo olona ireo fanekena amintsika mba honenany miaraka amintsika ho firenena iray: Raha hoforana ny lehilahy rehetra amintsika tahaka izay namorana azy ireo.",
+    "23": "Tsy ho antsika va ny biby fiompiny sy ny fananany mbamin' ny bibiny rehetra? Aoka hifanaiky aminy fotsiny isika, dia hiara-monina amintsika izy.",
+    "24": "Ary izay rehetra nivoaka tamin' ny vavahadin' ny tanànany dia nihaino an' i Hamora sy Sekema zanany; ary noforana ny lehilahy rehetra, dia izay rehetra nivoaka tamin' ny vavahadin' ny tanànany.",
+    "25": "Ary izao no niseho tamin' ny andro fahatelo, rehefa ilay narary mafy iny izy ireo, dia samy nitondra ny sabany ny zanak' i Jakoba roa lahy, dia Simeona sy Levy, anadahin' i Dina, ka niakatra tamim-pahasahiana tao an-tanàna, dia namono ny lehilahy rehetra.",
+    "26": "Ary Hamora sy Sekema zanany lahy dia novonoiny tamin' ny lelan-tsabatra; dia naka an' i Dina tao an-tranon' i Sekema izy ka lasa nandeha.",
+    "27": "Nankeny amin' ny faty ny zanakalahin' i Jakoba ka namabo ny tanàna noho ny nandotoany ny anabaviny.",
+    "28": "Ny ondriny rehetra sy ny ombiny, sy ny borikiny, ary izay tao an-tanàna, sy izay tany an-tsaha dia nalainy avokoa.",
+    "29": "Ary ny fananany rehetra sy ireo zanany madinika ary ny vadiny izay nentina ho babo, mbamin' izay rehetra ao an-tranony dia nofaohiny avokoa.",
+    "30": "Ary hoy Jakoba tamin' i Simeona sy Levy: Efa nahatonga fahoriana tamiko ianareo fa nomaimbonareo eto amin' ny mponina amin' ny tany aho, dia amin' ny Kananita sy ny Perizita: fa olom-bitsy aho, ka hiangona hamely ahy izy ireo, dia hamono ahy; dia ho fongotra aho sy ny ankohonako.",
+    "31": "Ary hoy izy ireo: Moa ve ny anabavinay havela ataony toy ny vehivavy janga?"
+  }
 }

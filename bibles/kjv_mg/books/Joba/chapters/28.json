@@ -1,117 +1,34 @@
 {
+  "book": "Joba",
   "chapter": 28,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Fa misy tany fihadiana volafotsy, ary misy tany fahazoana volamena, izay diovina."
-    },
-    {
-      "v": 2,
-      "text": "Ny vy dia alaina avy amin' ny tany, ary ny varahina, arendrika avy amin' ny vato."
-    },
-    {
-      "v": 3,
-      "text": "Manarona ny fahamaizinana izy ary mikatsaka ny fahatanterahana rehetra, dia ny vaton' ny fahamaizinana sy ny aloky ny fahafatesana."
-    },
-    {
-      "v": 4,
-      "text": "\"Ny tondra-drano dia mipoitra avy amin' ny mponina, dia ny rano tsy diavin' ny tongotra; ritra ireny, lasa nanalavitra ny olombelona.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ny tany no iavian' ny hanina; ary ny ao ambaniny dia avadika ka tahaka ny afo.\""
-    },
-    {
-      "v": 6,
-      "text": "Fitoeran' ny safira ny vatony, ary misy vovo-bolamena ao aminy."
-    },
-    {
-      "v": 7,
-      "text": "Misy lalana tsy fantatry ny voro-manidina, ary tsy hitan' ny mason' ny voltora."
-    },
-    {
-      "v": 8,
-      "text": "Tsy nodiavin' ny zana-diona izany ary tsy mbola nalehan' ny liona masiaka."
-    },
-    {
-      "v": 9,
-      "text": "Maninjitra ny tanany amin' ny vatolampy izy ary mamadika ny tendrombohitra hatramin' ny fotony."
-    },
-    {
-      "v": 10,
-      "text": "Manataka ony eo amin' ny vatolampy izy, ary hitan' ny masony izay zava-tsoa rehetra."
-    },
-    {
-      "v": 11,
-      "text": "Tampenany ny lalan-drano mba tsy hisy mitete, ary izay zava-miafina dia avoakany ho amin' ny mazava."
-    },
-    {
-      "v": 12,
-      "text": "Fa aiza kosa no hahitana ny fahendrena? Ary aiza no fitoeran' ny fahalalana?"
-    },
-    {
-      "v": 13,
-      "text": "Tsy misy zanak' olombelona mahalala ny vidiny, ary tsy hita eo amin' ny tanin' ny velona izany."
-    },
-    {
-      "v": 14,
-      "text": "\"Hoy ny lalina: Tsy ato anatiko izy; ary tsy ato amiko izy, hoy ny ranomasina.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ny volamena tsy mahatakalo azy, ary ny volafotsy tsy azo lanjaina ho vidiny;\""
-    },
-    {
-      "v": 16,
-      "text": "Ny volamena avy any Ofira tsy ampy ho tombany, na ny onyksa sarobidy sy ny safira."
-    },
-    {
-      "v": 17,
-      "text": "\"Ny volamena sy ny kristaly tsy azo ampitahaina aminy; ary tsy azo takalozana firavaka tena volamena tsara izy.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Tsy hotononina akory ny haran-dranomasina sy ny perla; fa ny fahazoana fahendrena dia mihoatra noho ny robia.\""
-    },
-    {
-      "v": 19,
-      "text": "Ny topaza avy any Etiopia dia tsy azo ampitahaina aminy, ary tsy mahatakalo azy ny volamena madio."
-    },
-    {
-      "v": 20,
-      "text": "Dia avy aiza àry ny fahendrena? Ary aiza no fitoeran' ny fahalalana?"
-    },
-    {
-      "v": 21,
-      "text": "Hita fa miafina amin' ny mason' ny velona rehetra izany ary takona amin' ny voro-manidina eny amin' ny habakabaka."
-    },
-    {
-      "v": 22,
-      "text": "Hoy Ifandringanana sy Ifahafatesana: Ny sofinay ihany no nandrenesanay ny filazana azy."
-    },
-    {
-      "v": 23,
-      "text": "\"Andriamanitra no mahalala ny lalana ho any aminy; Izy no mahafantatra ny itoerany;\""
-    },
-    {
-      "v": 24,
-      "text": "Fa Izy no mitsinjo hatramin' ny faran' ny tany, ary mahatazana manerana izao ambanin' ny lanitra rehetra izao,"
-    },
-    {
-      "v": 25,
-      "text": "Ka manendry ny lanjan' ny rivotra ary mamatra ny rano amin' ny famarana."
-    },
-    {
-      "v": 26,
-      "text": "Raha nanao lalana ho an' ny ranonorana Izy sy lalana alehan' ny helatry ny kotrokorana,"
-    },
-    {
-      "v": 27,
-      "text": "\"Dia nahita ka nanambara izany Izy; nanomana izany Izy sady namantatra azy;\""
-    },
-    {
-      "v": 28,
-      "text": "Dia hoy izy tamin' ny olona: Indro, ny fahatahorana ny Tompo no fahendrena, ary ny fialana amin' ny ratsy no fahalalana."
-    }
-  ]
+  "verses": {
+    "1": "Fa misy tany fihadiana volafotsy, ary misy tany fahazoana volamena, izay diovina.",
+    "2": "Ny vy dia alaina avy amin' ny tany, ary ny varahina, arendrika avy amin' ny vato.",
+    "3": "Manarona ny fahamaizinana izy ary mikatsaka ny fahatanterahana rehetra, dia ny vaton' ny fahamaizinana sy ny aloky ny fahafatesana.",
+    "4": "Ny tondra-drano dia mipoitra avy amin' ny mponina, dia ny rano tsy diavin' ny tongotra; ritra ireny, lasa nanalavitra ny olombelona.",
+    "5": "Ny tany no iavian' ny hanina; ary ny ao ambaniny dia avadika ka tahaka ny afo.",
+    "6": "Fitoeran' ny safira ny vatony, ary misy vovo-bolamena ao aminy.",
+    "7": "Misy lalana tsy fantatry ny voro-manidina, ary tsy hitan' ny mason' ny voltora.",
+    "8": "Tsy nodiavin' ny zana-diona izany ary tsy mbola nalehan' ny liona masiaka.",
+    "9": "Maninjitra ny tanany amin' ny vatolampy izy ary mamadika ny tendrombohitra hatramin' ny fotony.",
+    "10": "Manataka ony eo amin' ny vatolampy izy, ary hitan' ny masony izay zava-tsoa rehetra.",
+    "11": "Tampenany ny lalan-drano mba tsy hisy mitete, ary izay zava-miafina dia avoakany ho amin' ny mazava.",
+    "12": "Fa aiza kosa no hahitana ny fahendrena? Ary aiza no fitoeran' ny fahalalana?",
+    "13": "Tsy misy zanak' olombelona mahalala ny vidiny, ary tsy hita eo amin' ny tanin' ny velona izany.",
+    "14": "Hoy ny lalina: Tsy ato anatiko izy; ary tsy ato amiko izy, hoy ny ranomasina.",
+    "15": "Ny volamena tsy mahatakalo azy, ary ny volafotsy tsy azo lanjaina ho vidiny;",
+    "16": "Ny volamena avy any Ofira tsy ampy ho tombany, na ny onyksa sarobidy sy ny safira.",
+    "17": "Ny volamena sy ny kristaly tsy azo ampitahaina aminy; ary tsy azo takalozana firavaka tena volamena tsara izy.",
+    "18": "Tsy hotononina akory ny haran-dranomasina sy ny perla; fa ny fahazoana fahendrena dia mihoatra noho ny robia.",
+    "19": "Ny topaza avy any Etiopia dia tsy azo ampitahaina aminy, ary tsy mahatakalo azy ny volamena madio.",
+    "20": "Dia avy aiza àry ny fahendrena? Ary aiza no fitoeran' ny fahalalana?",
+    "21": "Hita fa miafina amin' ny mason' ny velona rehetra izany ary takona amin' ny voro-manidina eny amin' ny habakabaka.",
+    "22": "Hoy Ifandringanana sy Ifahafatesana: Ny sofinay ihany no nandrenesanay ny filazana azy.",
+    "23": "Andriamanitra no mahalala ny lalana ho any aminy; Izy no mahafantatra ny itoerany;",
+    "24": "Fa Izy no mitsinjo hatramin' ny faran' ny tany, ary mahatazana manerana izao ambanin' ny lanitra rehetra izao,",
+    "25": "Ka manendry ny lanjan' ny rivotra ary mamatra ny rano amin' ny famarana.",
+    "26": "Raha nanao lalana ho an' ny ranonorana Izy sy lalana alehan' ny helatry ny kotrokorana,",
+    "27": "Dia nahita ka nanambara izany Izy; nanomana izany Izy sady namantatra azy;",
+    "28": "Dia hoy izy tamin' ny olona: Indro, ny fahatahorana ny Tompo no fahendrena, ary ny fialana amin' ny ratsy no fahalalana."
+  }
 }

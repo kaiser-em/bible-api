@@ -1,73 +1,23 @@
 {
+  "book": "Mpitoriteny",
   "chapter": 8,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Iza no toy ny hendry? Ary iza no mahalala ny hevitry ny zavatra iray? Ny fahendren' ny olona mahamiramirana ny tarehiny; ary ny fahasahian' ny endriny dia ho voaova.\""
-    },
-    {
-      "v": 2,
-      "text": "Manolo-tsaina anao aho mba hitandrina ny didin' ny mpanjaka noho ny nianianana tamin' Andriamanitra."
-    },
-    {
-      "v": 3,
-      "text": "\"Aza malaky miala eo anatrehany; aza mikikitra amin' ny zava-dratsy, fa na inona na inona sitrany dia ataony avokoa.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ao amin' ny tenin' ny mpanjaka dia misy hery; ka iza no mahazo manao aminy hoe: Inona no ataonao?\""
-    },
-    {
-      "v": 5,
-      "text": "\"Izay mitandrina ny didy tsy mba hahalala zava-dratsy; ary ny fon' ny olona hendry dia manavaka ny fotoana sy ny fitsarana.\""
-    },
-    {
-      "v": 6,
-      "text": "Satria samy manana ny fotoanany sy ny fitsarana azy avy ny zavatra atao rehetra, noho izany dia mitambesatra amin' ny olona ny fahoriany."
-    },
-    {
-      "v": 7,
-      "text": "\"Fa tsy mahafantatra izay hitranga izy; fa iza no afaka hilaza aminy ny fotoana hitrangan' izany?\""
-    },
-    {
-      "v": 8,
-      "text": "\"Tsy misy olona manana fahefana amin' ny fanahy hahatana ny fanahy, na manan-kery amin' ny andro hahafatesana; tsy misy fahafahana amin' izany ady izany, ary ny faharatsiam-panahy tsy hahafaka izay azon' izany.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary nampiasaiko ny foko handinika ny asa rehetra atao aty ambany masoandro. Misy fotoana anapahan' ny olona ny namany ka ampidirany loza ho an' ny tenany."
-    },
-    {
-      "v": 10,
-      "text": "Ary tamin' izany dia hitako ny ratsy fanahy nalevina, izay efa tonga ary niala avy teo amin' ny fitoeran' ny masina, ary izy ireo dia nohadinoina tao an-tanàna izay efa nanaovany izany. Izany koa dia zava-poana."
-    },
-    {
-      "v": 11,
-      "text": "Saingy tsy tanterahina vetivety ny famaliana ny ratsy atao, dia izany no ikirizan' ny fon' ny zanak' olombelona amin' ny fanaovan-dratsy."
-    },
-    {
-      "v": 12,
-      "text": "Na dia manao ratsy injato aza ny mpanota ka ela velona ihany, dia fantatro marina kosa fa hisy soa ho an' izay matahotra an' Andriamanitra, dia izay matahotra eo anatrehany."
-    },
-    {
-      "v": 13,
-      "text": "Fa tsy hisy soa ho an' ny ratsy fanahy, sady tsy hahalava ny androny izay toy ny aloka izy, satria tsy matahotra eo anatrehan' Andriamanitra izy."
-    },
-    {
-      "v": 14,
-      "text": "\"Izao koa no zava-poana izay atao aty ambonin' ny tany: Misy olo-marina iharan' izay tokony ho valin' asan' ny ratsy fanahy; ary misy olona ratsy fanahy mahazo izay tokony ho valin' asan' ny marina; lazaiko fa zava-poana koa izany.\""
-    },
-    {
-      "v": 15,
-      "text": "Dia noderaiko ny fifaliana, satria tsy misy tsara kokoa amin' ny olona aty ambany masoandro afa-tsy ny mihinana sy misotro, ary ny miravoravo, fa izany no hany anjarany ny amin' izay fisasarany mandritra ny androm-piainany izay omen' Andriamanitra azy aty ambany masoandro."
-    },
-    {
-      "v": 16,
-      "text": "Raha nampiasaiko ny foko hahalala fahendrena sy hahita ny raharaha atao aty ambonin' ny tany (satria koa misy izay tsy mahita tory ny masony na andro na alina),"
-    },
-    {
-      "v": 17,
-      "text": "\"Dia hitako avokoa ny asan' Andriamanitra, fa tsy takatry ny sain' ny olona ny asa atao aty ambany masoandro; satria na dia mikely aina hitady izany aza ny olona, dia tsy ho hitany izany; ary koa, na dia ny hendry aza izay mihevitra hahafantatra izany, dia tsy ho azony fantarina izany.\""
-    }
-  ]
+  "verses": {
+    "1": "Iza no toy ny hendry? Ary iza no mahalala ny hevitry ny zavatra iray? Ny fahendren' ny olona mahamiramirana ny tarehiny; ary ny fahasahian' ny endriny dia ho voaova.",
+    "2": "Manolo-tsaina anao aho mba hitandrina ny didin' ny mpanjaka noho ny nianianana tamin' Andriamanitra.",
+    "3": "Aza malaky miala eo anatrehany; aza mikikitra amin' ny zava-dratsy, fa na inona na inona sitrany dia ataony avokoa.",
+    "4": "Ao amin' ny tenin' ny mpanjaka dia misy hery; ka iza no mahazo manao aminy hoe: Inona no ataonao?",
+    "5": "Izay mitandrina ny didy tsy mba hahalala zava-dratsy; ary ny fon' ny olona hendry dia manavaka ny fotoana sy ny fitsarana.",
+    "6": "Satria samy manana ny fotoanany sy ny fitsarana azy avy ny zavatra atao rehetra, noho izany dia mitambesatra amin' ny olona ny fahoriany.",
+    "7": "Fa tsy mahafantatra izay hitranga izy; fa iza no afaka hilaza aminy ny fotoana hitrangan' izany?",
+    "8": "Tsy misy olona manana fahefana amin' ny fanahy hahatana ny fanahy, na manan-kery amin' ny andro hahafatesana; tsy misy fahafahana amin' izany ady izany, ary ny faharatsiam-panahy tsy hahafaka izay azon' izany.",
+    "9": "Ary nampiasaiko ny foko handinika ny asa rehetra atao aty ambany masoandro. Misy fotoana anapahan' ny olona ny namany ka ampidirany loza ho an' ny tenany.",
+    "10": "Ary tamin' izany dia hitako ny ratsy fanahy nalevina, izay efa tonga ary niala avy teo amin' ny fitoeran' ny masina, ary izy ireo dia nohadinoina tao an-tanàna izay efa nanaovany izany. Izany koa dia zava-poana.",
+    "11": "Saingy tsy tanterahina vetivety ny famaliana ny ratsy atao, dia izany no ikirizan' ny fon' ny zanak' olombelona amin' ny fanaovan-dratsy.",
+    "12": "Na dia manao ratsy injato aza ny mpanota ka ela velona ihany, dia fantatro marina kosa fa hisy soa ho an' izay matahotra an' Andriamanitra, dia izay matahotra eo anatrehany.",
+    "13": "Fa tsy hisy soa ho an' ny ratsy fanahy, sady tsy hahalava ny androny izay toy ny aloka izy, satria tsy matahotra eo anatrehan' Andriamanitra izy.",
+    "14": "Izao koa no zava-poana izay atao aty ambonin' ny tany: Misy olo-marina iharan' izay tokony ho valin' asan' ny ratsy fanahy; ary misy olona ratsy fanahy mahazo izay tokony ho valin' asan' ny marina; lazaiko fa zava-poana koa izany.",
+    "15": "Dia noderaiko ny fifaliana, satria tsy misy tsara kokoa amin' ny olona aty ambany masoandro afa-tsy ny mihinana sy misotro, ary ny miravoravo, fa izany no hany anjarany ny amin' izay fisasarany mandritra ny androm-piainany izay omen' Andriamanitra azy aty ambany masoandro.",
+    "16": "Raha nampiasaiko ny foko hahalala fahendrena sy hahita ny raharaha atao aty ambonin' ny tany (satria koa misy izay tsy mahita tory ny masony na andro na alina),",
+    "17": "Dia hitako avokoa ny asan' Andriamanitra, fa tsy takatry ny sain' ny olona ny asa atao aty ambany masoandro; satria na dia mikely aina hitady izany aza ny olona, dia tsy ho hitany izany; ary koa, na dia ny hendry aza izay mihevitra hahafantatra izany, dia tsy ho azony fantarina izany."
+  }
 }

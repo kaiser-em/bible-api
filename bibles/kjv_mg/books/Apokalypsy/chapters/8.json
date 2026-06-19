@@ -1,57 +1,19 @@
 {
+  "book": "Apokalypsy",
   "chapter": 8,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary rehefa novahany ny tombo-kase fahafito, dia nangina tokony ho an-tsasaky ny ora ny tany an-danitra."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary hitako ny anjely fito izay nitsangana teo anatrehan’Andriamanitra; ary nomena trompetra fito ireo.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary nisy anjely anankiray koa tonga ka nitsangana teo ambonin’ny alitara ary nitondra lovia volamena fandoroana ditin-kazo manitra; ary nomena ditin-kazo manitra betsaka izy, hanaterany azy mbamin’ny vavaky ny olona masina rehetra eo ambonin’ny alitara volamena, izay eo anoloan’ny sezafiandrianana.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary ny fofon’ny ditin-kazo manitra mbamin’ny vavaky ny olona masina dia niakatra avy eo an-tanan’ny anjely ho eo anatrehan’Andriamanitra."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary ny anjely nandray ny lovia fandoroana ditin-kazo manitra, dia nameno azy tamin’ny afo teo amin’ny alitara ka nanipy izany tamin’ny tany; dia nisy feo sy kotrokorana sy helatra ary horohorontany.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary ny anjely fito izay nanana ny trompetra fito dia niomana hitsoka."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary nitsoka ny anjely voalohany, dia nisy havandra sy afo miharoharo ra, ka nararaka tamin’ny tany izany; ary may ny ampahatelon’ny hazo, ary may koa ny ahi-maitso rehetra.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary nitsoka ny anjely faharoa, dia nisy toa tendrombohitra lehibe mirehitra afo natsipy tany an-dranomasina; ary tonga rà ny ampahatelon’ny ranomasina;\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary maty ny ampahatelon’ny zava-boahary manan’aina tao an-dranomasina; ary rava ny ampahatelon’ny sambo.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary nitsoka ny anjely fahatelo, dia nisy kintana lehibe mirehitra toy ny fanilo latsaka avy tany an-danitra, ary latsaka tamin’ny ampahatelon’ny ony sy tamin’ny loharano izany;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary ny anaran’ilay kintana dia atao hoe Zava-mangidy; dia tonga mangidy ny ampahatelon’ny rano; ary maro ny olona no matin’ny rano, satria efa nangidy izany.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary nitsoka ny anjely fahefatra, dia nasiana ny ampahatelon’ny masoandro sy ny ampahatelon’ny volana ary ny ampahatelon’ny kintana, mba ho maizina ny ampahatelony, ka tsy hanazava ny ampahatelon’ny andro, ary mba ho toy izany koa ny alina."
-    },
-    {
-      "v": 13,
-      "text": "Dia nahita sy nahare anjely anankiray nanidina teny afovoan’ny lanitra aho, izay nanao tamin’ny feo mahery hoe: Loza, loza, loza ho an’izay monina eny ambonin’ny tany noho ny feo sisa amin’ny trompetry ny anjely telo izay efa hitsoka!"
-    }
-  ]
+  "verses": {
+    "1": "Ary rehefa novahany ny tombo-kase fahafito, dia nangina tokony ho an-tsasaky ny ora ny tany an-danitra.",
+    "2": "Ary hitako ny anjely fito izay nitsangana teo anatrehan’Andriamanitra; ary nomena trompetra fito ireo.",
+    "3": "Ary nisy anjely anankiray koa tonga ka nitsangana teo ambonin’ny alitara ary nitondra lovia volamena fandoroana ditin-kazo manitra; ary nomena ditin-kazo manitra betsaka izy, hanaterany azy mbamin’ny vavaky ny olona masina rehetra eo ambonin’ny alitara volamena, izay eo anoloan’ny sezafiandrianana.",
+    "4": "Ary ny fofon’ny ditin-kazo manitra mbamin’ny vavaky ny olona masina dia niakatra avy eo an-tanan’ny anjely ho eo anatrehan’Andriamanitra.",
+    "5": "Ary ny anjely nandray ny lovia fandoroana ditin-kazo manitra, dia nameno azy tamin’ny afo teo amin’ny alitara ka nanipy izany tamin’ny tany; dia nisy feo sy kotrokorana sy helatra ary horohorontany.",
+    "6": "Ary ny anjely fito izay nanana ny trompetra fito dia niomana hitsoka.",
+    "7": "Ary nitsoka ny anjely voalohany, dia nisy havandra sy afo miharoharo ra, ka nararaka tamin’ny tany izany; ary may ny ampahatelon’ny hazo, ary may koa ny ahi-maitso rehetra.",
+    "8": "Ary nitsoka ny anjely faharoa, dia nisy toa tendrombohitra lehibe mirehitra afo natsipy tany an-dranomasina; ary tonga rà ny ampahatelon’ny ranomasina;",
+    "9": "Ary maty ny ampahatelon’ny zava-boahary manan’aina tao an-dranomasina; ary rava ny ampahatelon’ny sambo.",
+    "10": "Ary nitsoka ny anjely fahatelo, dia nisy kintana lehibe mirehitra toy ny fanilo latsaka avy tany an-danitra, ary latsaka tamin’ny ampahatelon’ny ony sy tamin’ny loharano izany;",
+    "11": "Ary ny anaran’ilay kintana dia atao hoe Zava-mangidy; dia tonga mangidy ny ampahatelon’ny rano; ary maro ny olona no matin’ny rano, satria efa nangidy izany.",
+    "12": "Ary nitsoka ny anjely fahefatra, dia nasiana ny ampahatelon’ny masoandro sy ny ampahatelon’ny volana ary ny ampahatelon’ny kintana, mba ho maizina ny ampahatelony, ka tsy hanazava ny ampahatelon’ny andro, ary mba ho toy izany koa ny alina.",
+    "13": "Dia nahita sy nahare anjely anankiray nanidina teny afovoan’ny lanitra aho, izay nanao tamin’ny feo mahery hoe: Loza, loza, loza ho an’izay monina eny ambonin’ny tany noho ny feo sisa amin’ny trompetry ny anjely telo izay efa hitsoka!"
+  }
 }

@@ -1,141 +1,40 @@
 {
+  "book": "1 Mpanjaka",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nanjaka tamin' ny Isiraely rehetra Solomona mpanjaka."
-    },
-    {
-      "v": 2,
-      "text": "Ary izao no lehibe tao aminy: Azaria zanak' i Zadoka mpisorona,"
-    },
-    {
-      "v": 3,
-      "text": "\"Elihorefa sy Ahia, zanak' i Sisa no mpanoratra; Josafata, zanak' i Ahiloda, no mpitadidy ny raharaham-panjakana;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary Benaia, zanak' i Joiada, no komandin' ny miaramila; ary Zadoka sy Abiatara no mpisorona;\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary Azaria, zanak' i Natana, no lehiben' ny manamboninahitra; ary Zaboda, zanak' i Natana no manamboninahitra lehibe sady sakaizan' ny mpanjaka;\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary Ahisara no lehiben' ny tao an-trano; ary Adonirama, zanak' i Abda, no niadidy ny amin' ny hetra.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary Solomona nanana manamboninahitra roa ambin' ny folo lahy manerana ny Isiraely rehetra niadidy ny hanina ho an' ny mpanjaka sy ny ankohonany; samy niadidy ny iray volana avy amin' ny herintaona izy.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary izao no anaran' izy ireo: Ny zanak' i Hora any an-tendrombohitra Efraima."
-    },
-    {
-      "v": 9,
-      "text": "\"Ny zanak' i Dakera tao Makaza sy tao Salbima sy Beti-semesy ary Elon-beti-hanana;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ny zanak' i Haseda tao Arobota; Soko sy ny tany Hefera rehetra no azy;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ny zanak' i Abinadaba tao amin' ny faritr' i Dora rehetra; Tafata, zanakavavin' i Solomona no vadiny;\""
-    },
-    {
-      "v": 12,
-      "text": "\"Bana, zanak' i Ahiloda; ary Tanaka sy Megido ary Beti-sana rehetra, izay anilan' i Zaretana, ambanin' i Jezirela, hatrany Beti-sana ka hatrany Abela-mehola, dia hatrany ankoatr' i Jokneama no azy.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ny zanak' i Gabera tao Ramota-gileada; ary ny tanànan' i Jaïra, zanak' i Manase, izay any Gileada, no azy; azy koa ny tany Argoba, izay any basana, dia tanàna enimpolo lehibe nisy manda sy hidy varahina;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ahinadaba, zanak' Ido, tany Mahanaima ;\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ahimaza tany Naftaly ; izy kosa nanambady an' i Basemata, zanakavavin' i Solomona;\""
-    },
-    {
-      "v": 16,
-      "text": "\"Bana, zanak' i Hosay tany Asera sy Alota;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Josafata, zanak' i Paroa, tany Isakara;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Simey, zanak' i Ela, tany Benjamina;\""
-    },
-    {
-      "v": 19,
-      "text": "\"Gabera, zanak' i Ory, tany amin' ny tany Gileada, tany amin' ny tanin' i Sihona, mpanjakan' ny Amorita, sy Oga, mpanjakan' i Basana; ary izy ihany no manamboninahitra tao amin' izany tany izany.\""
-    },
-    {
-      "v": 20,
-      "text": "Ny Joda sy ny Isiraely dia maro, tahaka ny fasika amoron-dranomasina ny hamaroany, sady mihinana no misotro ary mifaly."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary Solomona nanjaka tamin' ny fanjakana rehetra hatramin' ny Ony ka hatramin' ny tanin' ny Filistina sy hatramin' ny sisin' i Egypta; nitondra fanomezana ireo sady nanompo an' i Solomona tamin' ny andro rehetra niainany.\""
-    },
-    {
-      "v": 22,
-      "text": "Ary ny fihinan' i Solomona amin' ny andro iray dia koba tsara toto telopolo famarana sy koba hafa enimpolo famarana."
-    },
-    {
-      "v": 23,
-      "text": "Sy omby mifahy folo, sy omby antondraka roapolo ary ondry zato, afa-tsy ny diera sy ny gazela, ny kapreola sy ny vorona mifahy."
-    },
-    {
-      "v": 24,
-      "text": "\"Fa nanapaka ny tany rehetra ety an-dafin' ny Ony hatrany Tifsa ka hatrany Azaha izy, dia tamin' ny mpanjaka rehetra ety an-dafin' ny Ony; ary izy dia tsara fihavanana tamin' izay rehetra nanodidina azy.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary ny Joda sy ny Isiraely dia nandry fahizay tamin' ny andron' i Solomona rehetra, samy teny ambanin' ny voalobony sy ny aviaviny ny olona hatrany Dana ka hatrany Beri-sheba."
-    },
-    {
-      "v": 26,
-      "text": "Ary Solomona nanana efitrano efatra alina ho an' ny soavaly mpitarika kalesiny, ary mpitaingin-tsoavaly roa arivo amby iray alina."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary ireo lehibe ireo no niadidy ny hanin' i Solomona mpanjaka sy izay rehetra tonga teo amin' ny latabatr' i Solomona mpanjaka; izy rehetra samy niadidy ny iray volany avy; ka tsy nisy tsy ampy na inona na inona.\""
-    },
-    {
-      "v": 28,
-      "text": "Ny vary hordea koa sy ny mololo ho an' ny soavaly sy ny rameva tokan-trafo dia nentiny ho ao amin' ny fitoerana misy ny manamboninahitra, dia samy araka ny anjara-andraikiny avy."
-    },
-    {
-      "v": 29,
-      "text": "\"Ary Andriamanitra nanome an' i Solomona fahendrena sy fahiratan-tsaina be indrindra, ary fahalalaham-po; dia tahaka ny fasika amoron-dranomasina.\""
-    },
-    {
-      "v": 30,
-      "text": "Ary ny fahendren' i Solomona dia nihoatra ny fahendren' ny zanaky ny atsinanana rehetra sy ny fahendren' i Egypta rehetra."
-    },
-    {
-      "v": 31,
-      "text": "\"Fa hendry noho ny olona rehetra izy; hendry mihoatra noho Etana Ezrahita sy Hemana sy Kalkola sy Darda, zanak' i Mahola; ary ny lazany efa niely tamin' ny firenena rehetra manodidina.\""
-    },
-    {
-      "v": 32,
-      "text": "Ary nanao ohabolana telo arivo izy ary ny tononkirany dia dimy amby arivo."
-    },
-    {
-      "v": 33,
-      "text": "\"Ary nilaza ny amin' ny hazo izy, hatramin' ny hazo sedera izay any Libanona ka hatramin' ny hysopa izay maniry eny amin' ny ampiantany; nilaza ny amin' ny biby koa izy sy ny vorona ary ny biby mandady sy mikisaka mbamin' ny hazandrano.\""
-    },
-    {
-      "v": 34,
-      "text": "Ary nisy tonga ny avy tamin' ny firenena rehetra mba handre ny fahendren' i Solomona, avy tamin' ny mpanjaka rehetra amin' ny tany izay efa nahare ny fahendreny."
-    }
-  ]
+  "verses": {
+    "1": "Ary nanjaka tamin' ny Isiraely rehetra Solomona mpanjaka.",
+    "2": "Ary izao no lehibe tao aminy: Azaria zanak' i Zadoka mpisorona,",
+    "3": "Elihorefa sy Ahia, zanak' i Sisa no mpanoratra; Josafata, zanak' i Ahiloda, no mpitadidy ny raharaham-panjakana;",
+    "4": "Ary Benaia, zanak' i Joiada, no komandin' ny miaramila; ary Zadoka sy Abiatara no mpisorona;",
+    "5": "Ary Azaria, zanak' i Natana, no lehiben' ny manamboninahitra; ary Zaboda, zanak' i Natana no manamboninahitra lehibe sady sakaizan' ny mpanjaka;",
+    "6": "Ary Ahisara no lehiben' ny tao an-trano; ary Adonirama, zanak' i Abda, no niadidy ny amin' ny hetra.",
+    "7": "Ary Solomona nanana manamboninahitra roa ambin' ny folo lahy manerana ny Isiraely rehetra niadidy ny hanina ho an' ny mpanjaka sy ny ankohonany; samy niadidy ny iray volana avy amin' ny herintaona izy.",
+    "8": "Ary izao no anaran' izy ireo: Ny zanak' i Hora any an-tendrombohitra Efraima.",
+    "9": "Ny zanak' i Dakera tao Makaza sy tao Salbima sy Beti-semesy ary Elon-beti-hanana;",
+    "10": "Ny zanak' i Haseda tao Arobota; Soko sy ny tany Hefera rehetra no azy;",
+    "11": "Ny zanak' i Abinadaba tao amin' ny faritr' i Dora rehetra; Tafata, zanakavavin' i Solomona no vadiny;",
+    "12": "Bana, zanak' i Ahiloda; ary Tanaka sy Megido ary Beti-sana rehetra, izay anilan' i Zaretana, ambanin' i Jezirela, hatrany Beti-sana ka hatrany Abela-mehola, dia hatrany ankoatr' i Jokneama no azy.",
+    "13": "Ny zanak' i Gabera tao Ramota-gileada; ary ny tanànan' i Jaïra, zanak' i Manase, izay any Gileada, no azy; azy koa ny tany Argoba, izay any basana, dia tanàna enimpolo lehibe nisy manda sy hidy varahina;",
+    "14": "Ahinadaba, zanak' Ido, tany Mahanaima ;",
+    "15": "Ahimaza tany Naftaly ; izy kosa nanambady an' i Basemata, zanakavavin' i Solomona;",
+    "16": "Bana, zanak' i Hosay tany Asera sy Alota;",
+    "17": "Josafata, zanak' i Paroa, tany Isakara;",
+    "18": "Simey, zanak' i Ela, tany Benjamina;",
+    "19": "Gabera, zanak' i Ory, tany amin' ny tany Gileada, tany amin' ny tanin' i Sihona, mpanjakan' ny Amorita, sy Oga, mpanjakan' i Basana; ary izy ihany no manamboninahitra tao amin' izany tany izany.",
+    "20": "Ny Joda sy ny Isiraely dia maro, tahaka ny fasika amoron-dranomasina ny hamaroany, sady mihinana no misotro ary mifaly.",
+    "21": "Ary Solomona nanjaka tamin' ny fanjakana rehetra hatramin' ny Ony ka hatramin' ny tanin' ny Filistina sy hatramin' ny sisin' i Egypta; nitondra fanomezana ireo sady nanompo an' i Solomona tamin' ny andro rehetra niainany.",
+    "22": "Ary ny fihinan' i Solomona amin' ny andro iray dia koba tsara toto telopolo famarana sy koba hafa enimpolo famarana.",
+    "23": "Sy omby mifahy folo, sy omby antondraka roapolo ary ondry zato, afa-tsy ny diera sy ny gazela, ny kapreola sy ny vorona mifahy.",
+    "24": "Fa nanapaka ny tany rehetra ety an-dafin' ny Ony hatrany Tifsa ka hatrany Azaha izy, dia tamin' ny mpanjaka rehetra ety an-dafin' ny Ony; ary izy dia tsara fihavanana tamin' izay rehetra nanodidina azy.",
+    "25": "Ary ny Joda sy ny Isiraely dia nandry fahizay tamin' ny andron' i Solomona rehetra, samy teny ambanin' ny voalobony sy ny aviaviny ny olona hatrany Dana ka hatrany Beri-sheba.",
+    "26": "Ary Solomona nanana efitrano efatra alina ho an' ny soavaly mpitarika kalesiny, ary mpitaingin-tsoavaly roa arivo amby iray alina.",
+    "27": "Ary ireo lehibe ireo no niadidy ny hanin' i Solomona mpanjaka sy izay rehetra tonga teo amin' ny latabatr' i Solomona mpanjaka; izy rehetra samy niadidy ny iray volany avy; ka tsy nisy tsy ampy na inona na inona.",
+    "28": "Ny vary hordea koa sy ny mololo ho an' ny soavaly sy ny rameva tokan-trafo dia nentiny ho ao amin' ny fitoerana misy ny manamboninahitra, dia samy araka ny anjara-andraikiny avy.",
+    "29": "Ary Andriamanitra nanome an' i Solomona fahendrena sy fahiratan-tsaina be indrindra, ary fahalalaham-po; dia tahaka ny fasika amoron-dranomasina.",
+    "30": "Ary ny fahendren' i Solomona dia nihoatra ny fahendren' ny zanaky ny atsinanana rehetra sy ny fahendren' i Egypta rehetra.",
+    "31": "Fa hendry noho ny olona rehetra izy; hendry mihoatra noho Etana Ezrahita sy Hemana sy Kalkola sy Darda, zanak' i Mahola; ary ny lazany efa niely tamin' ny firenena rehetra manodidina.",
+    "32": "Ary nanao ohabolana telo arivo izy ary ny tononkirany dia dimy amby arivo.",
+    "33": "Ary nilaza ny amin' ny hazo izy, hatramin' ny hazo sedera izay any Libanona ka hatramin' ny hysopa izay maniry eny amin' ny ampiantany; nilaza ny amin' ny biby koa izy sy ny vorona ary ny biby mandady sy mikisaka mbamin' ny hazandrano.",
+    "34": "Ary nisy tonga ny avy tamin' ny firenena rehetra mba handre ny fahendren' i Solomona, avy tamin' ny mpanjaka rehetra amin' ny tany izay efa nahare ny fahendreny."
+  }
 }

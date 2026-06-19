@@ -1,69 +1,22 @@
 {
+  "book": "Levitikosy",
   "chapter": 17,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Mitenena amin' i Arona sy ny zanany lahy ary amin' ny Zanak' Isiraely rehetra, ka lazao aminy hoe: Izao no zavatra izay andidian' i Jehovah:"
-    },
-    {
-      "v": 3,
-      "text": "Na iza na iza amin' ny taranak' Isiraely no mamono omby, na zanak' ondry, na osy, na eo an-toby, na any ivelan' ny toby,"
-    },
-    {
-      "v": 4,
-      "text": "\"Ka tsy mitondra izany eo anoloan' ny varavaran' ny tranolay fihaonana, hanolorany fanatitra ho an' i Jehovah eo anoloan' ny tabernakelin' i Jehovah, dia isaina ho meloka ny amin' ny rà izany olona izany, satria nandatsa-dra; ka ho-fongorana tsy ho amin' ny fireneny izy,\""
-    },
-    {
-      "v": 5,
-      "text": "Mba hoentin' ny Zanak' Isiraely ny fanatitra izay ateriny any an-tsaha, dia izay entiny ho an' i Jehovah ho eo am-baravaran' ny tranolay fihaonana, ho eo amin' ny mpisorona ka hanolorany izany ho fanati-pihavanana ho an' i Jehovah."
-    },
-    {
-      "v": 6,
-      "text": "Ary ny mpisorona hanopy ny rà amin' ny alitaran' i Jehovah eo amin' ny varavaran' ny tranolay fihaonana ka handoro ny sabora ho hanitra ankasitrahana ho an' i Jehovah."
-    },
-    {
-      "v": 7,
-      "text": "Ary tsy hanolotra fanatitra ho an' ny devoly izay nijangajangany intsony izy. Ho lalàna mandrakizay amin' ny taranany mifandimby izany."
-    },
-    {
-      "v": 8,
-      "text": "Ary lazao aminy hoe: Na iza na iza amin' ny taranak' Isiraely, na amin' ny vahiny izay mivahiny eo aminareo, no manolotra fanatitra dorana, na manao fanatitra,"
-    },
-    {
-      "v": 9,
-      "text": "Ka tsy mitondra izany ho eo amin' ny varavaran'ny tranolay fihaonana, hanolotra izany ho an' i Jehovah, dia hofongorana tsy ho amin' ny fireneny izany olona izany."
-    },
-    {
-      "v": 10,
-      "text": "Ary na iza na iza amin' ny taranak' Isiraely, na amin' ny vahiny izay mivahiny eo aminareo, no mihinana rehefa mety ho ra, dia ny tavako no hanandrina izany fanahy mihinan-drà izany, ka hofongorana tsy ho amin' ny fireneny izy."
-    },
-    {
-      "v": 11,
-      "text": "\"Fa ny ain' ny nofo dia ao amin' ny ra; ary nomeko anareo izany hatao ambonin' ny alitara hanao fanavotana ho an' ny fanahinareo; fa ny rà no manao fanavotana ho an' ny fanahy.\""
-    },
-    {
-      "v": 12,
-      "text": "Koa izany no nilazako tamin' ny Zanak' Isiraely hoe: Tsy misy fanahy aminareo hihinana ra, na ny vahiny mivahiny eo aminareo izay hihinana ra."
-    },
-    {
-      "v": 13,
-      "text": "Na iza na iza amin' ny Zanak' Isiraely, na amin' ny vahiny izay mivahiny eo aminareo, no mihaza ka mahazo biby, na vorona izay fihinana, dia haidiny amin' ny tany ny rany ka hototofany."
-    },
-    {
-      "v": 14,
-      "text": "\"Fa izany no ain' ny nofo rehetra; ny rany no ainy; koa izany no nilazako tamin' ny Zanak' Isiraely hoe: Aza mihinana ny ràn' ny karazana nofo rehetra ianareo; fa ny rany no ain' ny nofo rehetra, ka izay rehetra mihinana izany dia haringana.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary ny fanahy rehetra na tompon-tany, na vahiny, izay mihinana izay maty ho azy, na izay noviraviraim-biby dia samy hanasa ny fitafiany sy handro amin' ny rano, ary haloto mandra-paharivan' ny andro izy, dia izay vao hadio."
-    },
-    {
-      "v": 16,
-      "text": "Fa raha tsy manasa izany izy, na tsy mampandro ny tenany, dia hitondra ny helony izy."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "2": "Mitenena amin' i Arona sy ny zanany lahy ary amin' ny Zanak' Isiraely rehetra, ka lazao aminy hoe: Izao no zavatra izay andidian' i Jehovah:",
+    "3": "Na iza na iza amin' ny taranak' Isiraely no mamono omby, na zanak' ondry, na osy, na eo an-toby, na any ivelan' ny toby,",
+    "4": "Ka tsy mitondra izany eo anoloan' ny varavaran' ny tranolay fihaonana, hanolorany fanatitra ho an' i Jehovah eo anoloan' ny tabernakelin' i Jehovah, dia isaina ho meloka ny amin' ny rà izany olona izany, satria nandatsa-dra; ka ho-fongorana tsy ho amin' ny fireneny izy,",
+    "5": "Mba hoentin' ny Zanak' Isiraely ny fanatitra izay ateriny any an-tsaha, dia izay entiny ho an' i Jehovah ho eo am-baravaran' ny tranolay fihaonana, ho eo amin' ny mpisorona ka hanolorany izany ho fanati-pihavanana ho an' i Jehovah.",
+    "6": "Ary ny mpisorona hanopy ny rà amin' ny alitaran' i Jehovah eo amin' ny varavaran' ny tranolay fihaonana ka handoro ny sabora ho hanitra ankasitrahana ho an' i Jehovah.",
+    "7": "Ary tsy hanolotra fanatitra ho an' ny devoly izay nijangajangany intsony izy. Ho lalàna mandrakizay amin' ny taranany mifandimby izany.",
+    "8": "Ary lazao aminy hoe: Na iza na iza amin' ny taranak' Isiraely, na amin' ny vahiny izay mivahiny eo aminareo, no manolotra fanatitra dorana, na manao fanatitra,",
+    "9": "Ka tsy mitondra izany ho eo amin' ny varavaran'ny tranolay fihaonana, hanolotra izany ho an' i Jehovah, dia hofongorana tsy ho amin' ny fireneny izany olona izany.",
+    "10": "Ary na iza na iza amin' ny taranak' Isiraely, na amin' ny vahiny izay mivahiny eo aminareo, no mihinana rehefa mety ho ra, dia ny tavako no hanandrina izany fanahy mihinan-drà izany, ka hofongorana tsy ho amin' ny fireneny izy.",
+    "11": "Fa ny ain' ny nofo dia ao amin' ny ra; ary nomeko anareo izany hatao ambonin' ny alitara hanao fanavotana ho an' ny fanahinareo; fa ny rà no manao fanavotana ho an' ny fanahy.",
+    "12": "Koa izany no nilazako tamin' ny Zanak' Isiraely hoe: Tsy misy fanahy aminareo hihinana ra, na ny vahiny mivahiny eo aminareo izay hihinana ra.",
+    "13": "Na iza na iza amin' ny Zanak' Isiraely, na amin' ny vahiny izay mivahiny eo aminareo, no mihaza ka mahazo biby, na vorona izay fihinana, dia haidiny amin' ny tany ny rany ka hototofany.",
+    "14": "Fa izany no ain' ny nofo rehetra; ny rany no ainy; koa izany no nilazako tamin' ny Zanak' Isiraely hoe: Aza mihinana ny ràn' ny karazana nofo rehetra ianareo; fa ny rany no ain' ny nofo rehetra, ka izay rehetra mihinana izany dia haringana.",
+    "15": "Ary ny fanahy rehetra na tompon-tany, na vahiny, izay mihinana izay maty ho azy, na izay noviraviraim-biby dia samy hanasa ny fitafiany sy handro amin' ny rano, ary haloto mandra-paharivan' ny andro izy, dia izay vao hadio.",
+    "16": "Fa raha tsy manasa izany izy, na tsy mampandro ny tenany, dia hitondra ny helony izy."
+  }
 }

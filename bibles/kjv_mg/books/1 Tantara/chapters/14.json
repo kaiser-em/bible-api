@@ -1,73 +1,23 @@
 {
+  "book": "1 Tantara",
   "chapter": 14,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ARy Hirama mpanjakan' i Tyro nandefa iraka tany amin' i Davida sady nampanatitra hazo sedera niaraka tamin' ny tambato sy ny mpandrafitra hanao trano ho azy."
-    },
-    {
-      "v": 2,
-      "text": "Dia fantatr' i Davida fa Jehovah efa nampitoetra azy ho mpanjakan' ny Isiraely, ka voasandratra ny fanjakany noho ny amin' ny Isiraely olony."
-    },
-    {
-      "v": 3,
-      "text": "Ary Davida nampaka-bady hafa koa tany Jerosalema ka niteraka zazalahy sy zazavavy maro Davida."
-    },
-    {
-      "v": 4,
-      "text": "Ary izao no anaran' ny zanany naterany tany Jerosalema: Samoa sy Sobaba sy Natana sy Solomona,"
-    },
-    {
-      "v": 5,
-      "text": "Sy Jibara sy Elisoa sy Elipeleta,"
-    },
-    {
-      "v": 6,
-      "text": "Sy Noga sy Nafega sy Jafia,"
-    },
-    {
-      "v": 7,
-      "text": "Sy Elisama sy Beliada ary Elifeleta."
-    },
-    {
-      "v": 8,
-      "text": "Koa nony ren' ny Filistina fa efa nohosorana ho mpanjakan' ny Isiraely rehetra Davida, dia niakatra hitady azy ny Filistina rehetra. Koa raha ren' i Davida izany, dia nivoaka hiady taminy izy."
-    },
-    {
-      "v": 9,
-      "text": "Ary dia tonga ny Filistina ka nihahakahaka teny amin' ny Lohasahan' ny Refaïta."
-    },
-    {
-      "v": 10,
-      "text": "Ary Davida nanontany tamin' Andriamanitra hoe: Hiakatra hamely ny Filistina va aho? Hatolotrao eo an-tanako va izy? Dia hoy Jehovah taminy: miakara, fa hatolotro eo an-tananao izy."
-    },
-    {
-      "v": 11,
-      "text": "\"Dia niakatra nankao Bala-Perazina Davida ka namely azy teo; dia hoy Davida: Ny tanako no namakian' Andriamanitra ny fahavaloko hipariaka toy ny rano vaky; koa izany no nanaovany ny anaran' izany tany izany hoe Bala-perazina.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary raha nilaozan' ireny teo ireo andriamaniny, dia nanome baiko Davida, ka nodoroana tamin' ny afo ireny."
-    },
-    {
-      "v": 13,
-      "text": "Ary nihahakahaka indray teny ivelany teny an-dohasaha ny Filistina."
-    },
-    {
-      "v": 14,
-      "text": "\"Dia nanontany tamin' Andriamanitra indray Davida; ary hoy Andriamanitra taminy: Aza miakatra hanenjika azy, fa mivilia azy, dia mandehana, ka tongava eo aminy manandrify ny voaroihazo.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary izao no zavatra hisy, raha toa mahare fingadongadon' olona eny amin' ny tendron' ny voaroihazo ianao, dia miaingà amin' izay hiady; fa amin' izay no efa miainga mialoha anao Andriamanitra hamely ny miaramilan' ny Filistina.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary dia nanao araka izay nandidian' Andriamanitra azy Davida, ka dia namely ny miaramilan' ny Filistina hatrany Gibeona ka hatrany Gazera izy."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ny lazan' i Davida niely teny amin' ny tany rehetra; ary nataon' i Jehovah nahazo ny firenena rehetra ny tahotra an' i Davida.\""
-    }
-  ]
+  "verses": {
+    "1": "ARy Hirama mpanjakan' i Tyro nandefa iraka tany amin' i Davida sady nampanatitra hazo sedera niaraka tamin' ny tambato sy ny mpandrafitra hanao trano ho azy.",
+    "2": "Dia fantatr' i Davida fa Jehovah efa nampitoetra azy ho mpanjakan' ny Isiraely, ka voasandratra ny fanjakany noho ny amin' ny Isiraely olony.",
+    "3": "Ary Davida nampaka-bady hafa koa tany Jerosalema ka niteraka zazalahy sy zazavavy maro Davida.",
+    "4": "Ary izao no anaran' ny zanany naterany tany Jerosalema: Samoa sy Sobaba sy Natana sy Solomona,",
+    "5": "Sy Jibara sy Elisoa sy Elipeleta,",
+    "6": "Sy Noga sy Nafega sy Jafia,",
+    "7": "Sy Elisama sy Beliada ary Elifeleta.",
+    "8": "Koa nony ren' ny Filistina fa efa nohosorana ho mpanjakan' ny Isiraely rehetra Davida, dia niakatra hitady azy ny Filistina rehetra. Koa raha ren' i Davida izany, dia nivoaka hiady taminy izy.",
+    "9": "Ary dia tonga ny Filistina ka nihahakahaka teny amin' ny Lohasahan' ny Refaïta.",
+    "10": "Ary Davida nanontany tamin' Andriamanitra hoe: Hiakatra hamely ny Filistina va aho? Hatolotrao eo an-tanako va izy? Dia hoy Jehovah taminy: miakara, fa hatolotro eo an-tananao izy.",
+    "11": "Dia niakatra nankao Bala-Perazina Davida ka namely azy teo; dia hoy Davida: Ny tanako no namakian' Andriamanitra ny fahavaloko hipariaka toy ny rano vaky; koa izany no nanaovany ny anaran' izany tany izany hoe Bala-perazina.",
+    "12": "Ary raha nilaozan' ireny teo ireo andriamaniny, dia nanome baiko Davida, ka nodoroana tamin' ny afo ireny.",
+    "13": "Ary nihahakahaka indray teny ivelany teny an-dohasaha ny Filistina.",
+    "14": "Dia nanontany tamin' Andriamanitra indray Davida; ary hoy Andriamanitra taminy: Aza miakatra hanenjika azy, fa mivilia azy, dia mandehana, ka tongava eo aminy manandrify ny voaroihazo.",
+    "15": "Ary izao no zavatra hisy, raha toa mahare fingadongadon' olona eny amin' ny tendron' ny voaroihazo ianao, dia miaingà amin' izay hiady; fa amin' izay no efa miainga mialoha anao Andriamanitra hamely ny miaramilan' ny Filistina.",
+    "16": "Ary dia nanao araka izay nandidian' Andriamanitra azy Davida, ka dia namely ny miaramilan' ny Filistina hatrany Gibeona ka hatrany Gazera izy.",
+    "17": "Ary ny lazan' i Davida niely teny amin' ny tany rehetra; ary nataon' i Jehovah nahazo ny firenena rehetra ny tahotra an' i Davida."
+  }
 }

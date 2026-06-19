@@ -1,113 +1,33 @@
 {
+  "book": "2 Tantara",
   "chapter": 24,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Fito taona Joasy fony izy vao nanjaka, ary efapolo taona no nanjakany tany Jerosalema. Ary ny anaran-dreniny dia Zibia, avy any Beri-sheba."
-    },
-    {
-      "v": 2,
-      "text": "Ary Joasy nanao izay mahitsy eo imason' i Jehovah tamin' ny andro rehetra niainan' i Joiada mpisorona."
-    },
-    {
-      "v": 3,
-      "text": "Ary nangalan' i Joiada vady roa Joasy, dia niteraka zazalahy sy zazavavy izy."
-    },
-    {
-      "v": 4,
-      "text": "Ary izao no niseho taorian' izany, dia mby tao am-pon' i Joasy ny hanamboatra ny tranon' i Jehovah."
-    },
-    {
-      "v": 5,
-      "text": "\"Dia namory ny mpisorona sy ny Levita izy ka nanao taminy hoe: Mandehana ho any amin' ny tanànan' ny Joda, ka mamoria vola isan-taona amin' ny Isiraely rehetra hanamboarana ny tranon' Andriamanitra; ary hafainganonareo ny raharaha. Nefa ny Levita tsy nanafaingana izany.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary ny mpanjaka dia nampaka an' i Joiada, lohany tamin' ireo, ka nanao taminy hoe: Nahoana no tsy nasainao nitondra ny vola nangonina avy tany Joda sy Jerosalema ny Levita, araka ny didin' i Mosesy, mpanompon' i Jehovah sy ny fiangonan' ny Isiraely ho ao amin' ny tabernakelin' ny vavolombelona?"
-    },
-    {
-      "v": 7,
-      "text": "\"Fa ny zanak' i Atalia, ilay vehivavy ratsy fanahy, efa nandrava ny tranon' Andriamanitra; ary ny zavatra masina rehetra tao an-tranon' i Jehovah koa dia efa nateriny ho an' ireo Bala.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary nasain' ny mpanjaka nanao vata anankiray izy, dia napetraka teo ivelan' ny vavahadin' ny tranon' i Jehovah izany."
-    },
-    {
-      "v": 9,
-      "text": "Ary nandefa teny eran' i Joda sy Jerosalema izy mba haterina ho an' i Jehovah ny vola nangonina izay nasain' i Mosesy, mpanompon' Andriamanitra haloan' ny Isiraely fony izy tany an' efitra."
-    },
-    {
-      "v": 10,
-      "text": "Dia faly ny mpanapaka rehetra sy ny vahoaka rehetra, ka dia nitondra izany ary nandatsaka azy tao amin' ny vata ambara-pahatapiny."
-    },
-    {
-      "v": 11,
-      "text": "Ary izao no niseho, tamin' izay andro nitondran' ny Levita ny vata ho any amin' ny tonia voatendrin' ny mpanjaka, raha hitany fa be ny vola, dia avy ny mpanoratry ny mpanjaka sy ny tonia voatendrin' ny mpisoronabe ka nanaisotra izay rehetra tao amin' ny vata, dia naka izany ka nitondra ny vata niverina ho ao amin' ny fitoerany indray. Toy izany no nataony isan' andro ka nahavory vola betsaka izy."
-    },
-    {
-      "v": 12,
-      "text": "Ary nomen' ny mpanjaka sy Joiada ho an' izay nanao ny raharahan' ny tranon' i Jehovah ny vola, ka nanakaraman' ireo mpipai-bato sy mpandrafitra ary mpanefy vy sy varahina mba hanamboatra ny tranon' i Jehovah."
-    },
-    {
-      "v": 13,
-      "text": "\"Dia nanao ny mpiasa, ka vita tsara ny asa; ary namboariny ho toy ny teo aloha ny tranon' Andriamanitra ka na-taony mafy.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary nony vitany izany, dia nentiny teo anatrehan' ny mpanjaka sy Joiada ny vola sisa ka nanaovany fanaka ho an' ny tranon' i Jehovah, dia fanaka hoenti-manao ny asa fanompoana sy hanaterana ny fanatitra ary ny sotro sy ny fanaka volamena sy volafotsy. Ary nanolotra fanatitra dorana tao an-tranon' i Jehovah mandrakariva izy tamin' ny andron' i Joiada rehetra."
-    },
-    {
-      "v": 15,
-      "text": "\"Fa tratrantitra sy voky andro Joiada vao maty; telopolo amby zato taona izy vao maty.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary nalevina tao an-Tanànan' i Davida tao amin' ny mpanjaka izy, satria nanao soa teo amin' ny Isiraely ary tamin' Andriamanitra sy ny tranony koa."
-    },
-    {
-      "v": 17,
-      "text": "Ary rehefa maty Joiada, dia avy ireo mpanapaka ny Joda ka niankohoka teo anatrehan' ny mpanjaka. Dia nihaino azy ny mpanjaka."
-    },
-    {
-      "v": 18,
-      "text": "Ary nandao ny tranon' i Jehovah, Andriamanitry ny razany ireo ka nanompo ny Aseraha sy ny sampy, dia nisy fahatezerana nihatra tamin' ny Joda sy Jerosalema noho izany fahadisoana izany."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary naniraka mpaminany tany aminy Izy hampiverina azy amin' i Jehovah; dia nananatra azy mafy ireo, nefa tsy nety nihaino izy.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary ny Fanahin' Andriamanitra tonga tamin' i Zakaria, zanak' i Joiada mpisorona izay nitsangana teo amin' ny avoavo teo anatrehan' ny vahoaka ka nanao taminy hoe: Izao no lazain' Andriamanitra: Nahoana ianareo no mandika ny didin' i Jehovah ka tsy mahita fanambinana? Koa satria efa nahafoy an' i Jehovah ianareo, dia nahafoy anareo kosa Izy."
-    },
-    {
-      "v": 21,
-      "text": "Dia nanao teti-dratsy nanohitra azy ireo ka nitora-bato azy teo amin' ny kianjan' ny tranon' i Jehovah araka ny didin' ny mpanjaka."
-    },
-    {
-      "v": 22,
-      "text": "Toy izany no tsy nahatsiarovan' i Joasy mpanjaka ny soa nataon' i Joiada rainy taminy, fa namono ny zanany izy. Ary nony efa ho faty Zakaria, dia niteny hoe: Jehovah anie hijery sy hamaly izao."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary izao no niseho, nony efa niherina ny taona, dia avy ny miaramilan' i Syria hiady taminy; ary tonga tany Joda sy Jerosalema izy, ka matiny avokoa ny mpanapaka ny olona rehetra tao amin' ny olona, ary nampitondrainy ho any amin' ny mpanjakan' i Damaskosy ny babo rehetra.\""
-    },
-    {
-      "v": 24,
-      "text": "Fa vitsy ny miaramilan' ny Syriana izay tonga teo, nefa Jehovah nanolotra miaramila maro ho eo an-tanany noho ny nahafoizany an' i Jehovah, Andriamanitry ny razany. Toy izany no nahatanterahan' ireo ny famaliana an' i Joasy."
-    },
-    {
-      "v": 25,
-      "text": "\"Ary nony niala teo aminy ireo, (fa nilaozany tao anatin' ny aretim-be maro izy), ny mpanompony dia niodina taminy noho ny ràn' ny zanak' i Joiada mpisorona, ka namono azy teo am-pandriany, dia maty izy; ary naleviny tao an-Tanànan' i Davida ihany izy, nefa tsy tao amin' ny fasan' ny mpanjaka.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary ireto no nanao teti-dratsy hamely azy: Zabada, zanak' i Simata amonita, sy Jozabada, zanak' i Simrita Moabita."
-    },
-    {
-      "v": 27,
-      "text": "Ary ny amin' ny zanany sy ny haben' ny entana teo aminy, ary ny fanamboarana ny tranon' Andriamanitra, indro, efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjaka izany. Ary Amazia zanany no nanjaka nandimby azy."
-    }
-  ]
+  "verses": {
+    "1": "Fito taona Joasy fony izy vao nanjaka, ary efapolo taona no nanjakany tany Jerosalema. Ary ny anaran-dreniny dia Zibia, avy any Beri-sheba.",
+    "2": "Ary Joasy nanao izay mahitsy eo imason' i Jehovah tamin' ny andro rehetra niainan' i Joiada mpisorona.",
+    "3": "Ary nangalan' i Joiada vady roa Joasy, dia niteraka zazalahy sy zazavavy izy.",
+    "4": "Ary izao no niseho taorian' izany, dia mby tao am-pon' i Joasy ny hanamboatra ny tranon' i Jehovah.",
+    "5": "Dia namory ny mpisorona sy ny Levita izy ka nanao taminy hoe: Mandehana ho any amin' ny tanànan' ny Joda, ka mamoria vola isan-taona amin' ny Isiraely rehetra hanamboarana ny tranon' Andriamanitra; ary hafainganonareo ny raharaha. Nefa ny Levita tsy nanafaingana izany.",
+    "6": "Ary ny mpanjaka dia nampaka an' i Joiada, lohany tamin' ireo, ka nanao taminy hoe: Nahoana no tsy nasainao nitondra ny vola nangonina avy tany Joda sy Jerosalema ny Levita, araka ny didin' i Mosesy, mpanompon' i Jehovah sy ny fiangonan' ny Isiraely ho ao amin' ny tabernakelin' ny vavolombelona?",
+    "7": "Fa ny zanak' i Atalia, ilay vehivavy ratsy fanahy, efa nandrava ny tranon' Andriamanitra; ary ny zavatra masina rehetra tao an-tranon' i Jehovah koa dia efa nateriny ho an' ireo Bala.",
+    "8": "Ary nasain' ny mpanjaka nanao vata anankiray izy, dia napetraka teo ivelan' ny vavahadin' ny tranon' i Jehovah izany.",
+    "9": "Ary nandefa teny eran' i Joda sy Jerosalema izy mba haterina ho an' i Jehovah ny vola nangonina izay nasain' i Mosesy, mpanompon' Andriamanitra haloan' ny Isiraely fony izy tany an' efitra.",
+    "10": "Dia faly ny mpanapaka rehetra sy ny vahoaka rehetra, ka dia nitondra izany ary nandatsaka azy tao amin' ny vata ambara-pahatapiny.",
+    "11": "Ary izao no niseho, tamin' izay andro nitondran' ny Levita ny vata ho any amin' ny tonia voatendrin' ny mpanjaka, raha hitany fa be ny vola, dia avy ny mpanoratry ny mpanjaka sy ny tonia voatendrin' ny mpisoronabe ka nanaisotra izay rehetra tao amin' ny vata, dia naka izany ka nitondra ny vata niverina ho ao amin' ny fitoerany indray. Toy izany no nataony isan' andro ka nahavory vola betsaka izy.",
+    "12": "Ary nomen' ny mpanjaka sy Joiada ho an' izay nanao ny raharahan' ny tranon' i Jehovah ny vola, ka nanakaraman' ireo mpipai-bato sy mpandrafitra ary mpanefy vy sy varahina mba hanamboatra ny tranon' i Jehovah.",
+    "13": "Dia nanao ny mpiasa, ka vita tsara ny asa; ary namboariny ho toy ny teo aloha ny tranon' Andriamanitra ka na-taony mafy.",
+    "14": "Ary nony vitany izany, dia nentiny teo anatrehan' ny mpanjaka sy Joiada ny vola sisa ka nanaovany fanaka ho an' ny tranon' i Jehovah, dia fanaka hoenti-manao ny asa fanompoana sy hanaterana ny fanatitra ary ny sotro sy ny fanaka volamena sy volafotsy. Ary nanolotra fanatitra dorana tao an-tranon' i Jehovah mandrakariva izy tamin' ny andron' i Joiada rehetra.",
+    "15": "Fa tratrantitra sy voky andro Joiada vao maty; telopolo amby zato taona izy vao maty.",
+    "16": "Ary nalevina tao an-Tanànan' i Davida tao amin' ny mpanjaka izy, satria nanao soa teo amin' ny Isiraely ary tamin' Andriamanitra sy ny tranony koa.",
+    "17": "Ary rehefa maty Joiada, dia avy ireo mpanapaka ny Joda ka niankohoka teo anatrehan' ny mpanjaka. Dia nihaino azy ny mpanjaka.",
+    "18": "Ary nandao ny tranon' i Jehovah, Andriamanitry ny razany ireo ka nanompo ny Aseraha sy ny sampy, dia nisy fahatezerana nihatra tamin' ny Joda sy Jerosalema noho izany fahadisoana izany.",
+    "19": "Ary naniraka mpaminany tany aminy Izy hampiverina azy amin' i Jehovah; dia nananatra azy mafy ireo, nefa tsy nety nihaino izy.",
+    "20": "Ary ny Fanahin' Andriamanitra tonga tamin' i Zakaria, zanak' i Joiada mpisorona izay nitsangana teo amin' ny avoavo teo anatrehan' ny vahoaka ka nanao taminy hoe: Izao no lazain' Andriamanitra: Nahoana ianareo no mandika ny didin' i Jehovah ka tsy mahita fanambinana? Koa satria efa nahafoy an' i Jehovah ianareo, dia nahafoy anareo kosa Izy.",
+    "21": "Dia nanao teti-dratsy nanohitra azy ireo ka nitora-bato azy teo amin' ny kianjan' ny tranon' i Jehovah araka ny didin' ny mpanjaka.",
+    "22": "Toy izany no tsy nahatsiarovan' i Joasy mpanjaka ny soa nataon' i Joiada rainy taminy, fa namono ny zanany izy. Ary nony efa ho faty Zakaria, dia niteny hoe: Jehovah anie hijery sy hamaly izao.",
+    "23": "Ary izao no niseho, nony efa niherina ny taona, dia avy ny miaramilan' i Syria hiady taminy; ary tonga tany Joda sy Jerosalema izy, ka matiny avokoa ny mpanapaka ny olona rehetra tao amin' ny olona, ary nampitondrainy ho any amin' ny mpanjakan' i Damaskosy ny babo rehetra.",
+    "24": "Fa vitsy ny miaramilan' ny Syriana izay tonga teo, nefa Jehovah nanolotra miaramila maro ho eo an-tanany noho ny nahafoizany an' i Jehovah, Andriamanitry ny razany. Toy izany no nahatanterahan' ireo ny famaliana an' i Joasy.",
+    "25": "Ary nony niala teo aminy ireo, (fa nilaozany tao anatin' ny aretim-be maro izy), ny mpanompony dia niodina taminy noho ny ràn' ny zanak' i Joiada mpisorona, ka namono azy teo am-pandriany, dia maty izy; ary naleviny tao an-Tanànan' i Davida ihany izy, nefa tsy tao amin' ny fasan' ny mpanjaka.",
+    "26": "Ary ireto no nanao teti-dratsy hamely azy: Zabada, zanak' i Simata amonita, sy Jozabada, zanak' i Simrita Moabita.",
+    "27": "Ary ny amin' ny zanany sy ny haben' ny entana teo aminy, ary ny fanamboarana ny tranon' Andriamanitra, indro, efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjaka izany. Ary Amazia zanany no nanjaka nandimby azy."
+  }
 }

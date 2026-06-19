@@ -1,177 +1,49 @@
 {
+  "book": "Salamo",
   "chapter": 107,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"MISAORA an' i Jehovah, fa tsara Izy; fa maharitra mandrakizay ny famindrampony.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Aoka hanao izany ny navotan' i Jehovah, dia izay navotany tamin' ny tanan' ny fahavalony;\""
-    },
-    {
-      "v": 3,
-      "text": "Sy nangoniny avy tany amin' ny tany maro, dia avy tany atsinanana sy andrefana ary tany avaratra sy atsimo."
-    },
-    {
-      "v": 4,
-      "text": "Nirenireny tany an' efitra ireny ka nanavatsava tany an-tany foana, ary tsy nahita tanàna honenana."
-    },
-    {
-      "v": 5,
-      "text": "Noana sy nangetaheta izy, reraka ny fanahiny tao anatiny."
-    },
-    {
-      "v": 6,
-      "text": "\"Dia nitaraina tamin' i Jehovah ireo raha ory, ka novonjeny tamin' ny fahatereny;\""
-    },
-    {
-      "v": 7,
-      "text": "Dia nitarika azy tamin' ny lalana marina Izy, mba hankanesany any amin' ny tanàna honenana."
-    },
-    {
-      "v": 8,
-      "text": "E! aoka hidera an' i Jehovah ny olona noho ny fahatsarany sy ny asa mahagaga ataony amin' ny zanak' olombelona!"
-    },
-    {
-      "v": 9,
-      "text": "Fa mahafapo ny fanahy mangetaheta Izy, ary ny fanahy noana dia vokisany soa."
-    },
-    {
-      "v": 10,
-      "text": "Izay nipetraka tao amin' ny maizina sy ny aloky ny fahafatesana, voafato-pahoriana sy vy,"
-    },
-    {
-      "v": 11,
-      "text": "\"Satria nandà ny tenin' Andriamanitra sady naniratsira ny anatry ny Avo Indrindra ireny;\""
-    },
-    {
-      "v": 12,
-      "text": "\"Dia nampietreny tamin' ny fahoriana ny fony; ka lavo izy, nefa tsy nisy hamonjy;\""
-    },
-    {
-      "v": 13,
-      "text": "Dia nitaraina tamin' i Jehovah ireo raha ory, ka novonjeny tamin' ny fahatereny."
-    },
-    {
-      "v": 14,
-      "text": "Nitondra azy nivoaka avy teo amin' ny maizina sy ny aloky ny fahafatesana Izy, ary notosany ny fatorany."
-    },
-    {
-      "v": 15,
-      "text": "E! aoka hidera an' i Jehovah ny olona noho ny fahatsarany sy ny asa mahagaga ataony amin' ny zanak' olombelona!"
-    },
-    {
-      "v": 16,
-      "text": "Fa nanorotoro ny varavarana varahina Izy, ary ny hidy vy nohenteriny."
-    },
-    {
-      "v": 17,
-      "text": "Mitondra fahoriana ny adala noho ny fahadisoany sy ny helony:"
-    },
-    {
-      "v": 18,
-      "text": "Ankahalain' ny fanahiny ny hanina rehetra, ary manakaiky ny vavahadin' ny fahafatesana izy."
-    },
-    {
-      "v": 19,
-      "text": "Dia mitaraina amin' i Jehovah ireo raha ory, ka vonjeny amin' ny fahatereny."
-    },
-    {
-      "v": 20,
-      "text": "Nandefa ny teniny Izy ka nahasitrana azy, sady nanafaka azy tamin' ny fandringanana azy."
-    },
-    {
-      "v": 21,
-      "text": "E! aoka hidera an' i Jehovah ny olona noho ny fahatsarany, sy ny asa mahagaga ataony amin' ny zanak' olombelona!"
-    },
-    {
-      "v": 22,
-      "text": "Ary aoka hanatitra fanati-pisaorana izy sy hilaza ny asany amin' ny fihobiana."
-    },
-    {
-      "v": 23,
-      "text": "Izay midina any an-dranomasina ka mandeha an-tsambo sy manao raharaha any amin' ny rano lehibe,"
-    },
-    {
-      "v": 24,
-      "text": "No mahita ny asan' i Jehovah sy ny fahagagana ataony amin' ny rano lalina."
-    },
-    {
-      "v": 25,
-      "text": "\"Fa mandidy sy manangana rivo-mahery Izy, izay mampisondrotra ny onjan-drano;\""
-    },
-    {
-      "v": 26,
-      "text": "\"Miakatra hatramin' ny lanitra ny olona, ary midina hatramin' ny lalina; ny fanahiny levona noho ny fahoriana.\""
-    },
-    {
-      "v": 27,
-      "text": "Mivoivoy mandroso sy miverina ireo sady mivembena toy ny mamo,"
-    },
-    {
-      "v": 28,
-      "text": "Dia mitaraina amin' i Jehovah izy noho ny fahoriany, ka mampiala azy tamin' ny fahatereny izy."
-    },
-    {
-      "v": 29,
-      "text": "Manony ny rivotra mahery Izy ka mitsahatra ny onjan-drano."
-    },
-    {
-      "v": 30,
-      "text": "Dia faly ireo, satria mitsahatra izany, ka entiny ho amin' ny fitodiana niriny izy."
-    },
-    {
-      "v": 31,
-      "text": "E! aoka hidera an' i Jehovah ny olona noho ny fahatsarany sy ny asa mahagaga ataony amin' ny zanak' olombelona!"
-    },
-    {
-      "v": 32,
-      "text": "Aoka hanandratra Azy koa eo amin' ny fiangonan' ny olona izy, ary hidera Azy eo amin' ny fivorian' ny loholona."
-    },
-    {
-      "v": 33,
-      "text": "Mampody ny ony ho efitra Izy ary ny loharano ho tany mangentana,"
-    },
-    {
-      "v": 34,
-      "text": "Ny tany mahavokatra ho tanin-tsira, noho ny faharatsian' ny mponina eo."
-    },
-    {
-      "v": 35,
-      "text": "Mampody ny efitra ho rano monina Izy sy ny tany maina ho loharano,"
-    },
-    {
-      "v": 36,
-      "text": "\"Ary amponeniny eo izay noana, mba hanamboatra tanàna honenana;\""
-    },
-    {
-      "v": 37,
-      "text": "Ary hamafy eny an-tsaha izy sady hamboly tanimboaloboka, ka hahazo vokatra be."
-    },
-    {
-      "v": 38,
-      "text": "Dia mitahy azy koa Izy mba hitomboany betsaka, ka tsy avelany hihavitsy ny biby fiompiny."
-    },
-    {
-      "v": 39,
-      "text": "Fa mihakely sy mietry indray izy noho ny fampahoriana sy ny loza ary ny alahelo."
-    },
-    {
-      "v": 40,
-      "text": "Mampidina fanamavoana amin' ny mpanapaka Jehovah, ka mampirenireny azy any an' efitra izay tsy misy lalana."
-    },
-    {
-      "v": 41,
-      "text": "Fa manandratra ny malahelo ho afa-pahoriana kosa Izy, ka mahamaro mianakavy azy toy ny ondry andiany."
-    },
-    {
-      "v": 42,
-      "text": "\"Hahita izany ny marina ka hiravoravo; fa hikombom-bava kosa ny ratsy fanahy rehetra.\""
-    },
-    {
-      "v": 43,
-      "text": "Izay hendry dia aoka hahafantatra izany ka hahalala ny indrafon' i Jehovah."
-    }
-  ]
+  "verses": {
+    "1": "MISAORA an' i Jehovah, fa tsara Izy; fa maharitra mandrakizay ny famindrampony.",
+    "2": "Aoka hanao izany ny navotan' i Jehovah, dia izay navotany tamin' ny tanan' ny fahavalony;",
+    "3": "Sy nangoniny avy tany amin' ny tany maro, dia avy tany atsinanana sy andrefana ary tany avaratra sy atsimo.",
+    "4": "Nirenireny tany an' efitra ireny ka nanavatsava tany an-tany foana, ary tsy nahita tanàna honenana.",
+    "5": "Noana sy nangetaheta izy, reraka ny fanahiny tao anatiny.",
+    "6": "Dia nitaraina tamin' i Jehovah ireo raha ory, ka novonjeny tamin' ny fahatereny;",
+    "7": "Dia nitarika azy tamin' ny lalana marina Izy, mba hankanesany any amin' ny tanàna honenana.",
+    "8": "E! aoka hidera an' i Jehovah ny olona noho ny fahatsarany sy ny asa mahagaga ataony amin' ny zanak' olombelona!",
+    "9": "Fa mahafapo ny fanahy mangetaheta Izy, ary ny fanahy noana dia vokisany soa.",
+    "10": "Izay nipetraka tao amin' ny maizina sy ny aloky ny fahafatesana, voafato-pahoriana sy vy,",
+    "11": "Satria nandà ny tenin' Andriamanitra sady naniratsira ny anatry ny Avo Indrindra ireny;",
+    "12": "Dia nampietreny tamin' ny fahoriana ny fony; ka lavo izy, nefa tsy nisy hamonjy;",
+    "13": "Dia nitaraina tamin' i Jehovah ireo raha ory, ka novonjeny tamin' ny fahatereny.",
+    "14": "Nitondra azy nivoaka avy teo amin' ny maizina sy ny aloky ny fahafatesana Izy, ary notosany ny fatorany.",
+    "15": "E! aoka hidera an' i Jehovah ny olona noho ny fahatsarany sy ny asa mahagaga ataony amin' ny zanak' olombelona!",
+    "16": "Fa nanorotoro ny varavarana varahina Izy, ary ny hidy vy nohenteriny.",
+    "17": "Mitondra fahoriana ny adala noho ny fahadisoany sy ny helony:",
+    "18": "Ankahalain' ny fanahiny ny hanina rehetra, ary manakaiky ny vavahadin' ny fahafatesana izy.",
+    "19": "Dia mitaraina amin' i Jehovah ireo raha ory, ka vonjeny amin' ny fahatereny.",
+    "20": "Nandefa ny teniny Izy ka nahasitrana azy, sady nanafaka azy tamin' ny fandringanana azy.",
+    "21": "E! aoka hidera an' i Jehovah ny olona noho ny fahatsarany, sy ny asa mahagaga ataony amin' ny zanak' olombelona!",
+    "22": "Ary aoka hanatitra fanati-pisaorana izy sy hilaza ny asany amin' ny fihobiana.",
+    "23": "Izay midina any an-dranomasina ka mandeha an-tsambo sy manao raharaha any amin' ny rano lehibe,",
+    "24": "No mahita ny asan' i Jehovah sy ny fahagagana ataony amin' ny rano lalina.",
+    "25": "Fa mandidy sy manangana rivo-mahery Izy, izay mampisondrotra ny onjan-drano;",
+    "26": "Miakatra hatramin' ny lanitra ny olona, ary midina hatramin' ny lalina; ny fanahiny levona noho ny fahoriana.",
+    "27": "Mivoivoy mandroso sy miverina ireo sady mivembena toy ny mamo,",
+    "28": "Dia mitaraina amin' i Jehovah izy noho ny fahoriany, ka mampiala azy tamin' ny fahatereny izy.",
+    "29": "Manony ny rivotra mahery Izy ka mitsahatra ny onjan-drano.",
+    "30": "Dia faly ireo, satria mitsahatra izany, ka entiny ho amin' ny fitodiana niriny izy.",
+    "31": "E! aoka hidera an' i Jehovah ny olona noho ny fahatsarany sy ny asa mahagaga ataony amin' ny zanak' olombelona!",
+    "32": "Aoka hanandratra Azy koa eo amin' ny fiangonan' ny olona izy, ary hidera Azy eo amin' ny fivorian' ny loholona.",
+    "33": "Mampody ny ony ho efitra Izy ary ny loharano ho tany mangentana,",
+    "34": "Ny tany mahavokatra ho tanin-tsira, noho ny faharatsian' ny mponina eo.",
+    "35": "Mampody ny efitra ho rano monina Izy sy ny tany maina ho loharano,",
+    "36": "Ary amponeniny eo izay noana, mba hanamboatra tanàna honenana;",
+    "37": "Ary hamafy eny an-tsaha izy sady hamboly tanimboaloboka, ka hahazo vokatra be.",
+    "38": "Dia mitahy azy koa Izy mba hitomboany betsaka, ka tsy avelany hihavitsy ny biby fiompiny.",
+    "39": "Fa mihakely sy mietry indray izy noho ny fampahoriana sy ny loza ary ny alahelo.",
+    "40": "Mampidina fanamavoana amin' ny mpanapaka Jehovah, ka mampirenireny azy any an' efitra izay tsy misy lalana.",
+    "41": "Fa manandratra ny malahelo ho afa-pahoriana kosa Izy, ka mahamaro mianakavy azy toy ny ondry andiany.",
+    "42": "Hahita izany ny marina ka hiravoravo; fa hikombom-bava kosa ny ratsy fanahy rehetra.",
+    "43": "Izay hendry dia aoka hahafantatra izany ka hahalala ny indrafon' i Jehovah."
+  }
 }

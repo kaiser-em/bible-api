@@ -1,25 +1,11 @@
 {
+  "book": "Salamo",
   "chapter": 15,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Salamo nataon' i Davida.]  JEHOVAH ô, iza no hitoetra ao amin' ny tabernakelinao? Iza no honina ao an-kavoananao masina?"
-    },
-    {
-      "v": 2,
-      "text": "Izay mandeha tsy misy tsiny ary manao izay mahitsy, sady misaintsaina ny marina ny fony."
-    },
-    {
-      "v": 3,
-      "text": "Izay tsy manendrikendrika amin' ny lelany, na manisy ratsy ny sakaizany, ary tsy manao izay hahafa-baràka ny namany."
-    },
-    {
-      "v": 4,
-      "text": "Tsy misy lanjany eo imasony ny olom-poana, fa manome voninahitra kosa ny matahotra an' i Jehovah. Tsy mivadika ny fianianany, na dia maningotra ny tenany aza."
-    },
-    {
-      "v": 5,
-      "text": "Sady tsy mampanjanaka ny volany, na mandray kolikoly hanoherana ny marina. Izay mitandrina izany zavatra izany dia tsy hangozohozo mandrakizay."
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida.]  JEHOVAH ô, iza no hitoetra ao amin' ny tabernakelinao? Iza no honina ao an-kavoananao masina?",
+    "2": "Izay mandeha tsy misy tsiny ary manao izay mahitsy, sady misaintsaina ny marina ny fony.",
+    "3": "Izay tsy manendrikendrika amin' ny lelany, na manisy ratsy ny sakaizany, ary tsy manao izay hahafa-baràka ny namany.",
+    "4": "Tsy misy lanjany eo imasony ny olom-poana, fa manome voninahitra kosa ny matahotra an' i Jehovah. Tsy mivadika ny fianianany, na dia maningotra ny tenany aza.",
+    "5": "Sady tsy mampanjanaka ny volany, na mandray kolikoly hanoherana ny marina. Izay mitandrina izany zavatra izany dia tsy hangozohozo mandrakizay."
+  }
 }

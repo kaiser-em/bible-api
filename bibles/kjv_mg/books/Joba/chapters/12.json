@@ -1,105 +1,31 @@
 {
+  "book": "Joba",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia namaly Joba ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Marina àry fa ianareo ihany tokoa no olombelona! ary hiara-maty aminareo ny fahendrena!"
-    },
-    {
-      "v": 3,
-      "text": "\"Kanefa mba manan-tsaina tahaka anareo ihany koa aho; tsy latsaka noho ianareo aho; eny, iza moa no tsy mahalala izay zavatra toy izany?\""
-    },
-    {
-      "v": 4,
-      "text": "\"Izaho dia toy ny anankiray esoin'ny sakaizany, izay miantso an' Andriamanitra ka novaliany; ny olo-marina sy mahitsy dia ihomehezana hovingavingaina.\""
-    },
-    {
-      "v": 5,
-      "text": "Izay saiky solafaka ny tongony dia toy ny fanilo milopilopy raha araka ny hevitry ny miadana."
-    },
-    {
-      "v": 6,
-      "text": "Ambinina ny lain' ny mpandroba, ary mitoetra tsy manana ahiahy izay mampahatezitra an' Andriamanitra, dia izay ataon' Andriamanitra manam-be tokoa amin' ny tanany."
-    },
-    {
-      "v": 7,
-      "text": "\"Kanefa anontanio ange ny biby, fa hampianatra anao izy, ary ny voro-manidina eny amin' ny habakabaka, fa hanambara aminao izy;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary mitenena amin' ny tany fa hampianatra anao izy; ary ny hazandrano any an-dranomasina hanambara aminao.\""
-    },
-    {
-      "v": 9,
-      "text": "Iza amin' ireny rehetra ireny no tsy mahalala fa ny tanan' i Jehovah no nanao izany?"
-    },
-    {
-      "v": 10,
-      "text": "Izay mitana ny ain' ny zava-manan' aina rehetra sy ny fofonain' ny olombelona rehetra?"
-    },
-    {
-      "v": 11,
-      "text": "Moa tsy ny sofina va no mamantatra ny teny? Ary tsy ny vava va no manandrana ny haniny?"
-    },
-    {
-      "v": 12,
-      "text": "Ao amin' ny zokiolona ny fahendrena, ary ny fahela-velona no ahazoam-pahalalana."
-    },
-    {
-      "v": 13,
-      "text": "\"Ao amin' Andriamanitra kosa no misy fahendrena sy hery; Izy no manana hevitra sy fahalalana.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Indro, mandrava Izy, ka tsy hatsangana intsony; manidy ny olona Izy, ka tsy hovohana.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Indro, manampina ny rano izy, ka dia ritra iny; ary alefany indray ka mahasimba ny tany.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Izy no manana hery sy fahendrena; azy avokoa ny voafitaka sy ny mpamitaka.\""
-    },
-    {
-      "v": 17,
-      "text": "Tarihiny hosimbana ny mpanolo-tsaina, ary ataony very saina ny mpitsara."
-    },
-    {
-      "v": 18,
-      "text": "Vahany ny fatoran' ny mpanjaka, ka sikinany fehikibo ny valahany."
-    },
-    {
-      "v": 19,
-      "text": "Tarihiny hosimbana ny mpanapaka, ary azerany ny mahery."
-    },
-    {
-      "v": 20,
-      "text": "Manafoana ny lahatenin' ny mahatoky izy ary ny fahazavan-tsain' ny anti-panahy dia esoriny."
-    },
-    {
-      "v": 21,
-      "text": "Mandatsaka fanamavoana amin' ny andriandahy Izy, ary ketrahiny ny fehikibon' ny matanjaka."
-    },
-    {
-      "v": 22,
-      "text": "Manala rakotra ny zavatra lalina tsy ho ao amin' ny maizina izy, ary mitondra ny aloky ny fahafatesana ho eo amin' ny mazava."
-    },
-    {
-      "v": 23,
-      "text": "\"Mampitombo ny firenena izy, ary mandringana azy; Manalehibe ny firenena Izy, nefa manakely azy indray.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Mahavery saina ny loholona amin' ny tany Izy ary mampirenireny azy any an' efitra tsy misy lalana;\""
-    },
-    {
-      "v": 25,
-      "text": "\" Mitsapatsapa amin' ny maizina tsy misy mazava izy ireo; ary mampivembena azy tahaka ny olona mamo Izy.\""
-    }
-  ]
+  "verses": {
+    "1": "Dia namaly Joba ka nanao hoe:",
+    "2": "Marina àry fa ianareo ihany tokoa no olombelona! ary hiara-maty aminareo ny fahendrena!",
+    "3": "Kanefa mba manan-tsaina tahaka anareo ihany koa aho; tsy latsaka noho ianareo aho; eny, iza moa no tsy mahalala izay zavatra toy izany?",
+    "4": "Izaho dia toy ny anankiray esoin'ny sakaizany, izay miantso an' Andriamanitra ka novaliany; ny olo-marina sy mahitsy dia ihomehezana hovingavingaina.",
+    "5": "Izay saiky solafaka ny tongony dia toy ny fanilo milopilopy raha araka ny hevitry ny miadana.",
+    "6": "Ambinina ny lain' ny mpandroba, ary mitoetra tsy manana ahiahy izay mampahatezitra an' Andriamanitra, dia izay ataon' Andriamanitra manam-be tokoa amin' ny tanany.",
+    "7": "Kanefa anontanio ange ny biby, fa hampianatra anao izy, ary ny voro-manidina eny amin' ny habakabaka, fa hanambara aminao izy;",
+    "8": "Ary mitenena amin' ny tany fa hampianatra anao izy; ary ny hazandrano any an-dranomasina hanambara aminao.",
+    "9": "Iza amin' ireny rehetra ireny no tsy mahalala fa ny tanan' i Jehovah no nanao izany?",
+    "10": "Izay mitana ny ain' ny zava-manan' aina rehetra sy ny fofonain' ny olombelona rehetra?",
+    "11": "Moa tsy ny sofina va no mamantatra ny teny? Ary tsy ny vava va no manandrana ny haniny?",
+    "12": "Ao amin' ny zokiolona ny fahendrena, ary ny fahela-velona no ahazoam-pahalalana.",
+    "13": "Ao amin' Andriamanitra kosa no misy fahendrena sy hery; Izy no manana hevitra sy fahalalana.",
+    "14": "Indro, mandrava Izy, ka tsy hatsangana intsony; manidy ny olona Izy, ka tsy hovohana.",
+    "15": "Indro, manampina ny rano izy, ka dia ritra iny; ary alefany indray ka mahasimba ny tany.",
+    "16": "Izy no manana hery sy fahendrena; azy avokoa ny voafitaka sy ny mpamitaka.",
+    "17": "Tarihiny hosimbana ny mpanolo-tsaina, ary ataony very saina ny mpitsara.",
+    "18": "Vahany ny fatoran' ny mpanjaka, ka sikinany fehikibo ny valahany.",
+    "19": "Tarihiny hosimbana ny mpanapaka, ary azerany ny mahery.",
+    "20": "Manafoana ny lahatenin' ny mahatoky izy ary ny fahazavan-tsain' ny anti-panahy dia esoriny.",
+    "21": "Mandatsaka fanamavoana amin' ny andriandahy Izy, ary ketrahiny ny fehikibon' ny matanjaka.",
+    "22": "Manala rakotra ny zavatra lalina tsy ho ao amin' ny maizina izy, ary mitondra ny aloky ny fahafatesana ho eo amin' ny mazava.",
+    "23": "Mampitombo ny firenena izy, ary mandringana azy; Manalehibe ny firenena Izy, nefa manakely azy indray.",
+    "24": "Mahavery saina ny loholona amin' ny tany Izy ary mampirenireny azy any an' efitra tsy misy lalana;",
+    "25": " Mitsapatsapa amin' ny maizina tsy misy mazava izy ireo; ary mampivembena azy tahaka ny olona mamo Izy."
+  }
 }

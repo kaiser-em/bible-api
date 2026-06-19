@@ -1,325 +1,86 @@
 {
+  "book": "Lioka",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Satria maro no efa nanoratra nandahatra tantara ny amin' ny zavatra izay inoana tokoa eto amintsika,"
-    },
-    {
-      "v": 2,
-      "text": "\"Araka izay efa noraisintsika natolotry ny vavolombelona izay sady efa nahita maso no mpanompo mpitory ny teny hatramin' ny voalohany;\""
-    },
-    {
-      "v": 3,
-      "text": "Dia sitrako koa, rehefa nofotorako tsara ny zavatra rehetra hatramin' ny niandohany, ny hanoratra izany aminao araka ny filaharany, ry Teofilo tsara indrindra,"
-    },
-    {
-      "v": 4,
-      "text": "Mba hahafantaranao tsara fa mafy orina ny teny izay nampianarina anao."
-    },
-    {
-      "v": 5,
-      "text": "\"Tamin' ny andron' i Heroda, mpanjakan' i Jodia, nisy mpisorona anankiray atao hoe Zakaria, isan' ny antokon' i Abia; ary ny vadiny dia avy amin' ny zanakavavin' i Arona, Elizabeta no anarany.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary samy marina teo anatrehan' Andriamanitra izy mivady sady nitondra tena tsy nanan-tsiny araka ny didy sy ny fitsipika rehetra nomen' ny Tompo."
-    },
-    {
-      "v": 7,
-      "text": "Ary tsy nanan-janaka izy ireo, fa momba Elizabeta ary samy efa antitra izy mivady."
-    },
-    {
-      "v": 8,
-      "text": "Ary izao no niseho, rehefa nanao raharaham-pisoronana teo anatrehan' Andriamanitra Zakaria araka ny fifandimbiasan' ny antokony,"
-    },
-    {
-      "v": 9,
-      "text": "Araka ny fanao amin' ny fisoronana, dia anjarany araka ny an-tsapaka ny handoro ditin-kazo manitra raha niditra tao amin' ny tempolin' i Jehovah izy."
-    },
-    {
-      "v": 10,
-      "text": "Ary ny vahoaka rehetra nitoetra teo ivelany nivavaka tamin' ny ora fandoroana ny ditin-kazo manitra."
-    },
-    {
-      "v": 11,
-      "text": "Ary nisy anjelin' ny Tompo niseho taminy teo ankavanan' ny alitara fandoroana ny ditin-kazo manitra."
-    },
-    {
-      "v": 12,
-      "text": "Ary nony nahita azy Zakaria, dia taitra loatra izy ka raiki-tahotra."
-    },
-    {
-      "v": 13,
-      "text": "Fa hoy ilay anjely taminy: Aza matahotra, ry Zakaria, fa efa nohenoina ny vavakao, ka Elizabeta vadinao dia hiteraka zazalahy aminao ary Jaona no hataonao anarany."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary ho faly sy ho ravoravo ianao; ary maro no hifaly amin' ny hahaterahany.\""
-    },
-    {
-      "v": 15,
-      "text": "Fa ho lehibe eo anatrehan' ny Tompo izy ary tsy hisotro divay na toaka sady hofenoina ny Fanahy Masina hatrany an-kibon-dreniny aza."
-    },
-    {
-      "v": 16,
-      "text": "Ary maro amin' ny Zanak' Isiraely no hampodiny amin' ny Tompo Andriamaniny."
-    },
-    {
-      "v": 17,
-      "text": "Ary handeha eo alohany izy amin' ny fanahy sy ny herin' i Elia, mba hampody ny fon' ny ray ho amin' ny zanaka, ary ny tsy manoa ho amin' ny fahendren' ny marina, hamboatra firenena voaomana ho an' ny Tompo."
-    },
-    {
-      "v": 18,
-      "text": "Ary hoy Zakaria tamin' ilay anjely: Inona no hahafantarako izany? satria izaho efa antitra ary efa antitra koa ny vadiko."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary ilay anjely namaly ka nanao taminy hoe: Izaho no Gabriela, izay mitsangana eo anatrehan' Andriamanitra; ary nirahina hiteny aminao aho ka hilaza aminao izany teny mahafaly izany.\""
-    },
-    {
-      "v": 20,
-      "text": "Koa, indro, ho moana ianao ka tsy hahay miteny ambara-pahatongan' ny andro hisehoan' izany zavatra izany, ho valin' ny tsy ninoanao ny teniko, izay ho tanteraka amin' ny fotoany."
-    },
-    {
-      "v": 21,
-      "text": "Ary ny olona dia niandry an' i Zakaria ka gaga noho izy naharitra ela tao amin' ny tempoly."
-    },
-    {
-      "v": 22,
-      "text": "\"Kanjo rehefa nivoaka izy, dia tsy nahay niteny taminy; ary dia fantatry ny olona fa efa nahita fahitana tao amin' ny tempoly izy; fa nanao baikon' ny moana taminy izy, ary dia mbola moana ihany.\""
-    },
-    {
-      "v": 23,
-      "text": "Ary izao no niseho, raha vao tapitra ny andro nanaovany fanompoam-pivavahana, dia lasa nody tany an-tranony izy."
-    },
-    {
-      "v": 24,
-      "text": "Ary taorian' izany andro izany dia nitoe-jaza Elizabeta vadiny, dia niery dimy volana izy ka nanao hoe:"
-    },
-    {
-      "v": 25,
-      "text": "Izao no nataon' ny Tompo tamiko tamin' ny andro izay nitsinjovany hahafa-tondromaso ahy tamin' ny olona."
-    },
-    {
-      "v": 26,
-      "text": "Ary tamin' ny fahenim-bolana dia nirahin' Andriamanitra ny anjely Gabriela ho any an-tanàna anankiray any Galilia atao hoe Nazareta,"
-    },
-    {
-      "v": 27,
-      "text": "\"Ho any amin' ny virijina anankiray, izay voafofo ho vadin' ny lehilahy anankiray atao hoe Josefa, avy tamin' ny taranak' i Davida; ary ny anaran' ny virijina dia Maria.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary niditra tao aminy ilay anjely, dia nanao hoe: Arahaba ianao izay nohasoavina tokoa, ny Tompo momba anao. Voatahy samy vehivavy ianao."
-    },
-    {
-      "v": 29,
-      "text": "Ary nony nahita azy izy, dia taitra loatra noho ny teniny, ka nieritreritra izay tokony ho hevitr' izany fiarahabana izany."
-    },
-    {
-      "v": 30,
-      "text": "Ary hoy ilay anjely taminy: Aza matahotra, ry Maria, fa efa nahita fitia tamin' Andriamanitra ianao."
-    },
-    {
-      "v": 31,
-      "text": "Ary, indro, hitoe-jaza ao an-kibonao ianao ka hiteraka zazalahy ary ny anarany dia hataonao hoe Jesosy."
-    },
-    {
-      "v": 32,
-      "text": "\"Ho lehibe Izy ka hatao hoe Zanaky ny Avo Indrindra; ary ny Tompo Andriamanitra hanome Azy ny sezafiandrianan' i Davida rainy;\""
-    },
-    {
-      "v": 33,
-      "text": "\"Ary hanjaka amin' ny taranak' i Jakoba mandrakizay Izy; ary ny fanjakany tsy hanam-pahataperana.\""
-    },
-    {
-      "v": 34,
-      "text": "Ary hoy Maria tamin' ilay anjely: Hanao ahoana re no hahatanteraka izany, fa tsy mahalala lahy aho?"
-    },
-    {
-      "v": 35,
-      "text": "\"Ary ilay anjely namaly ka nanao taminy hoe: Ny Fanahy Masina ho tonga ao aminao ary ny herin' ny Avo indrindra hanaloka anao; koa ny Masina izay haterakao dia hatao hoe: Zanak' Andriamanitra.\""
-    },
-    {
-      "v": 36,
-      "text": "\"Ary, indro, Elizabeta havanao dia efa mitoe-jazalahy koa, na dia efa antitra aza; ary efa mandray enim-bolana izy izao, izay natao hoe momba.\""
-    },
-    {
-      "v": 37,
-      "text": "Fa amin' Andriamanitra dia tsy misy tsy ho hay atao."
-    },
-    {
-      "v": 38,
-      "text": "\"Dia hoy Maria: Inty ny ankizivavin' ny tompo; aoka anie ho tonga amiko araka ny teninao. Dia nandao azy ilay anjely.\""
-    },
-    {
-      "v": 39,
-      "text": "\"Ary niainga Maria tamin' izany andro izany ka nandeha faingana ho any amin' ny tany havoana, ho ao an-tanàna anankiray any Joda;\""
-    },
-    {
-      "v": 40,
-      "text": "Ary niditra tao an-tranon' i Zakaria izy ka niarahaba an' i Elizabeta."
-    },
-    {
-      "v": 41,
-      "text": "\"Ary izao no niseho, raha vao ren' i Elizabeta ny fiarahaban' i Maria, dia niantsambotra ny zaza tao an-kibony; ary nofenoina ny Fanahy Masina Elizabeta,\""
-    },
-    {
-      "v": 42,
-      "text": "Dia niantso tamin' ny feo mahery izy ka nanao hoe: Voatahy samy vehivavy ianao, ary voatahy ny hateraky ny kibonao."
-    },
-    {
-      "v": 43,
-      "text": "Avy aiza no ahatongavan' izao amiko, no mba vangian' ny renin' ny tompoko aho?"
-    },
-    {
-      "v": 44,
-      "text": "Fa, indro, raha vao ren' ny sofiko ny fiarahabanao, dia niantsambotra noho ny hafaliana ny zaza ato an-kiboko."
-    },
-    {
-      "v": 45,
-      "text": "\"Ary sambatra ravehivavy izay nino; fa hoefaina ireo zavatra nampilazain' ny Tompo taminy.\""
-    },
-    {
-      "v": 46,
-      "text": "Ary hoy Maria: Ny fanahiko mankalaza ny Tompo,"
-    },
-    {
-      "v": 47,
-      "text": "Ary ny fanahiko efa ravoravo tamin' Andriamanitra, Mpamonjy ahy."
-    },
-    {
-      "v": 48,
-      "text": "Fa efa nijery ny fahambanian' ny ankizivaviny Izy. Fa, indro, hatramin' izao dia ataon' ny taranaka rehetra ho sambatra aho."
-    },
-    {
-      "v": 49,
-      "text": "\"Fa ny Mahery efa nanao zavatra lehibe tamiko; ary masina ny anarany.\""
-    },
-    {
-      "v": 50,
-      "text": "Ary ny famindrampony dia amin' izay matahotra azy hatramin' ny taranaka fara mandimby."
-    },
-    {
-      "v": 51,
-      "text": "\"Nanao asa lehibe tamin' ny sandriny Izy; nampihahaka ny mpiavonavona tamin' ny fiheveran' ny fony Izy.\""
-    },
-    {
-      "v": 52,
-      "text": "Nampiala ny lehibe tamin' ny sezafiandrianany Izy ary nanandratra ny ambany kosa."
-    },
-    {
-      "v": 53,
-      "text": "Ny noana novokisany soa, fa ny manankarena kosa nampialainy maina."
-    },
-    {
-      "v": 54,
-      "text": "\"Niahy an' Isiraely mpanompony Izy, fa nahatsiaro ny famindrampony;\""
-    },
-    {
-      "v": 55,
-      "text": "Araka ny voalazany tamin' ny razantsika, tamin' i Abrahama sy ny taranany mandrakizay."
-    },
-    {
-      "v": 56,
-      "text": "Ary nitoetra teo amin' i Elizabeta tokony ho telo volana Maria, vao nody tany an-tranony."
-    },
-    {
-      "v": 57,
-      "text": "Ary tonga ny andro hahaveloman' i Elizabeta, dia niteraka zazalahy izy."
-    },
-    {
-      "v": 58,
-      "text": "\"Ary ny niara-monina taminy sy ny havany nandre fa efa naneho famindrampo lehibe taminy ny Tompo; dia niara-nifaly taminy ireo.\""
-    },
-    {
-      "v": 59,
-      "text": "Ary izao no niseho, tamin' ny andro fahavalo dia tonga hamora ny zaza izy ka efa saika hataony hoe Zakaria araka ny anaran-drainy ny anarany."
-    },
-    {
-      "v": 60,
-      "text": "Fa ny reniny namaly ka nanao hoe: Tsy izany, fa hatao hoe Jaona izy."
-    },
-    {
-      "v": 61,
-      "text": "Fa hoy izy ireo taminy: Tsy misy na dia iray akory aza amin' ny havanao manana izany anarana izany."
-    },
-    {
-      "v": 62,
-      "text": "Ary nanao baikon' ny moana tamin' ny rainy izy ireo, izay tokony ho tiany hatao anarany."
-    },
-    {
-      "v": 63,
-      "text": "Ary nangataka fàfana izy ka nanoratra hoe: Jaona no anarany. Dia gaga avokoa izy rehetra."
-    },
-    {
-      "v": 64,
-      "text": "\"Ary dia nisokatra niaraka tamin' izay ny vavany, ka afaka niteny ny lelany; dia niteny izy ka nidera an' Andriamanitra.\""
-    },
-    {
-      "v": 65,
-      "text": "\"Dia raiki-tahotra izay rehetra niara-monina taminy; ary niely teny amin' ny tany havoan' i Jodia rehetra ny lazan' izany rehetra izany.\""
-    },
-    {
-      "v": 66,
-      "text": "Ary izay rehetra nandre dia nandatsaka izany tam-pony ka nanao hoe: Ho zaza hanao ahoana re io? Ary ny tanan' ny Tompo nomba azy."
-    },
-    {
-      "v": 67,
-      "text": "Ary dia feno ny Fanahy Masina Zakaria rainy ka dia naminany nanao hoe:"
-    },
-    {
-      "v": 68,
-      "text": "Isaorana anie ny Tompo Andriamanitry ny Isiraely, fa namangy sy nanavotra ny olony Izy,"
-    },
-    {
-      "v": 69,
-      "text": "\"Ary nanangana tandro-pamonjena ho antsika amin' ny taranak' i Davida mpanompony Izy;\""
-    },
-    {
-      "v": 70,
-      "text": "Araka izay nampilazainy tamin' ny vavan' ny mpaminaniny masina hatramin' ny niandohan' izao tontolo izao,"
-    },
-    {
-      "v": 71,
-      "text": "\"Mba ho voavonjy amin' ny fahavalontsika isika sy amin' ny tanan' izay rehetra mankahala antsika;\""
-    },
-    {
-      "v": 72,
-      "text": "Manefa famindrampo amin' ny razantsika Izy sady mahatsiaro ny fanekeny masina,"
-    },
-    {
-      "v": 73,
-      "text": "Dia ny fianianana izay nianianany tamin' i Abrahama razantsika,"
-    },
-    {
-      "v": 74,
-      "text": "Hanao izay hahazoantsika hanompo Azy tsy amin-tahotra satria afaka amin' ny tanan' ny fahavalontsika isika,"
-    },
-    {
-      "v": 75,
-      "text": "Amin' ny fahamasinana sy ny fahamarinana eo anatrehany amin' ny andro rehetra hiainantsika."
-    },
-    {
-      "v": 76,
-      "text": "Ary ianao, ry zaza, dia hatao hoe mpaminanin' ny Avo Indrindra: fa hialoha eo anatrehan' ny tompo ianao hamboatra ny lalany,"
-    },
-    {
-      "v": 77,
-      "text": "Hanome ny olony ny fahalalam-pamonjena amin' ny famelana ny helony,"
-    },
-    {
-      "v": 78,
-      "text": "Noho ny halehiben' ny indrafon' Andriamanitsika izay nampiposaka ny mazava avy any amin' ny avo hamangy antsika,"
-    },
-    {
-      "v": 79,
-      "text": "Hamirapiratra amin' izay mipetraka ao amin' ny maizina sy ao amin' ny aloky ny fahafatesana, hitarika ny diantsika ho amin' ny lalam-piadanana."
-    },
-    {
-      "v": 80,
-      "text": "\"Ary nitombo ny zaza ka nihahery tam-panahy; ary nitoetra tany an' efitra izy ambara-pahatongan' ny andro nisehoany tamin' ny Isiraely.\""
-    }
-  ]
+  "verses": {
+    "1": "Satria maro no efa nanoratra nandahatra tantara ny amin' ny zavatra izay inoana tokoa eto amintsika,",
+    "2": "Araka izay efa noraisintsika natolotry ny vavolombelona izay sady efa nahita maso no mpanompo mpitory ny teny hatramin' ny voalohany;",
+    "3": "Dia sitrako koa, rehefa nofotorako tsara ny zavatra rehetra hatramin' ny niandohany, ny hanoratra izany aminao araka ny filaharany, ry Teofilo tsara indrindra,",
+    "4": "Mba hahafantaranao tsara fa mafy orina ny teny izay nampianarina anao.",
+    "5": "Tamin' ny andron' i Heroda, mpanjakan' i Jodia, nisy mpisorona anankiray atao hoe Zakaria, isan' ny antokon' i Abia; ary ny vadiny dia avy amin' ny zanakavavin' i Arona, Elizabeta no anarany.",
+    "6": "Ary samy marina teo anatrehan' Andriamanitra izy mivady sady nitondra tena tsy nanan-tsiny araka ny didy sy ny fitsipika rehetra nomen' ny Tompo.",
+    "7": "Ary tsy nanan-janaka izy ireo, fa momba Elizabeta ary samy efa antitra izy mivady.",
+    "8": "Ary izao no niseho, rehefa nanao raharaham-pisoronana teo anatrehan' Andriamanitra Zakaria araka ny fifandimbiasan' ny antokony,",
+    "9": "Araka ny fanao amin' ny fisoronana, dia anjarany araka ny an-tsapaka ny handoro ditin-kazo manitra raha niditra tao amin' ny tempolin' i Jehovah izy.",
+    "10": "Ary ny vahoaka rehetra nitoetra teo ivelany nivavaka tamin' ny ora fandoroana ny ditin-kazo manitra.",
+    "11": "Ary nisy anjelin' ny Tompo niseho taminy teo ankavanan' ny alitara fandoroana ny ditin-kazo manitra.",
+    "12": "Ary nony nahita azy Zakaria, dia taitra loatra izy ka raiki-tahotra.",
+    "13": "Fa hoy ilay anjely taminy: Aza matahotra, ry Zakaria, fa efa nohenoina ny vavakao, ka Elizabeta vadinao dia hiteraka zazalahy aminao ary Jaona no hataonao anarany.",
+    "14": "Ary ho faly sy ho ravoravo ianao; ary maro no hifaly amin' ny hahaterahany.",
+    "15": "Fa ho lehibe eo anatrehan' ny Tompo izy ary tsy hisotro divay na toaka sady hofenoina ny Fanahy Masina hatrany an-kibon-dreniny aza.",
+    "16": "Ary maro amin' ny Zanak' Isiraely no hampodiny amin' ny Tompo Andriamaniny.",
+    "17": "Ary handeha eo alohany izy amin' ny fanahy sy ny herin' i Elia, mba hampody ny fon' ny ray ho amin' ny zanaka, ary ny tsy manoa ho amin' ny fahendren' ny marina, hamboatra firenena voaomana ho an' ny Tompo.",
+    "18": "Ary hoy Zakaria tamin' ilay anjely: Inona no hahafantarako izany? satria izaho efa antitra ary efa antitra koa ny vadiko.",
+    "19": "Ary ilay anjely namaly ka nanao taminy hoe: Izaho no Gabriela, izay mitsangana eo anatrehan' Andriamanitra; ary nirahina hiteny aminao aho ka hilaza aminao izany teny mahafaly izany.",
+    "20": "Koa, indro, ho moana ianao ka tsy hahay miteny ambara-pahatongan' ny andro hisehoan' izany zavatra izany, ho valin' ny tsy ninoanao ny teniko, izay ho tanteraka amin' ny fotoany.",
+    "21": "Ary ny olona dia niandry an' i Zakaria ka gaga noho izy naharitra ela tao amin' ny tempoly.",
+    "22": "Kanjo rehefa nivoaka izy, dia tsy nahay niteny taminy; ary dia fantatry ny olona fa efa nahita fahitana tao amin' ny tempoly izy; fa nanao baikon' ny moana taminy izy, ary dia mbola moana ihany.",
+    "23": "Ary izao no niseho, raha vao tapitra ny andro nanaovany fanompoam-pivavahana, dia lasa nody tany an-tranony izy.",
+    "24": "Ary taorian' izany andro izany dia nitoe-jaza Elizabeta vadiny, dia niery dimy volana izy ka nanao hoe:",
+    "25": "Izao no nataon' ny Tompo tamiko tamin' ny andro izay nitsinjovany hahafa-tondromaso ahy tamin' ny olona.",
+    "26": "Ary tamin' ny fahenim-bolana dia nirahin' Andriamanitra ny anjely Gabriela ho any an-tanàna anankiray any Galilia atao hoe Nazareta,",
+    "27": "Ho any amin' ny virijina anankiray, izay voafofo ho vadin' ny lehilahy anankiray atao hoe Josefa, avy tamin' ny taranak' i Davida; ary ny anaran' ny virijina dia Maria.",
+    "28": "Ary niditra tao aminy ilay anjely, dia nanao hoe: Arahaba ianao izay nohasoavina tokoa, ny Tompo momba anao. Voatahy samy vehivavy ianao.",
+    "29": "Ary nony nahita azy izy, dia taitra loatra noho ny teniny, ka nieritreritra izay tokony ho hevitr' izany fiarahabana izany.",
+    "30": "Ary hoy ilay anjely taminy: Aza matahotra, ry Maria, fa efa nahita fitia tamin' Andriamanitra ianao.",
+    "31": "Ary, indro, hitoe-jaza ao an-kibonao ianao ka hiteraka zazalahy ary ny anarany dia hataonao hoe Jesosy.",
+    "32": "Ho lehibe Izy ka hatao hoe Zanaky ny Avo Indrindra; ary ny Tompo Andriamanitra hanome Azy ny sezafiandrianan' i Davida rainy;",
+    "33": "Ary hanjaka amin' ny taranak' i Jakoba mandrakizay Izy; ary ny fanjakany tsy hanam-pahataperana.",
+    "34": "Ary hoy Maria tamin' ilay anjely: Hanao ahoana re no hahatanteraka izany, fa tsy mahalala lahy aho?",
+    "35": "Ary ilay anjely namaly ka nanao taminy hoe: Ny Fanahy Masina ho tonga ao aminao ary ny herin' ny Avo indrindra hanaloka anao; koa ny Masina izay haterakao dia hatao hoe: Zanak' Andriamanitra.",
+    "36": "Ary, indro, Elizabeta havanao dia efa mitoe-jazalahy koa, na dia efa antitra aza; ary efa mandray enim-bolana izy izao, izay natao hoe momba.",
+    "37": "Fa amin' Andriamanitra dia tsy misy tsy ho hay atao.",
+    "38": "Dia hoy Maria: Inty ny ankizivavin' ny tompo; aoka anie ho tonga amiko araka ny teninao. Dia nandao azy ilay anjely.",
+    "39": "Ary niainga Maria tamin' izany andro izany ka nandeha faingana ho any amin' ny tany havoana, ho ao an-tanàna anankiray any Joda;",
+    "40": "Ary niditra tao an-tranon' i Zakaria izy ka niarahaba an' i Elizabeta.",
+    "41": "Ary izao no niseho, raha vao ren' i Elizabeta ny fiarahaban' i Maria, dia niantsambotra ny zaza tao an-kibony; ary nofenoina ny Fanahy Masina Elizabeta,",
+    "42": "Dia niantso tamin' ny feo mahery izy ka nanao hoe: Voatahy samy vehivavy ianao, ary voatahy ny hateraky ny kibonao.",
+    "43": "Avy aiza no ahatongavan' izao amiko, no mba vangian' ny renin' ny tompoko aho?",
+    "44": "Fa, indro, raha vao ren' ny sofiko ny fiarahabanao, dia niantsambotra noho ny hafaliana ny zaza ato an-kiboko.",
+    "45": "Ary sambatra ravehivavy izay nino; fa hoefaina ireo zavatra nampilazain' ny Tompo taminy.",
+    "46": "Ary hoy Maria: Ny fanahiko mankalaza ny Tompo,",
+    "47": "Ary ny fanahiko efa ravoravo tamin' Andriamanitra, Mpamonjy ahy.",
+    "48": "Fa efa nijery ny fahambanian' ny ankizivaviny Izy. Fa, indro, hatramin' izao dia ataon' ny taranaka rehetra ho sambatra aho.",
+    "49": "Fa ny Mahery efa nanao zavatra lehibe tamiko; ary masina ny anarany.",
+    "50": "Ary ny famindrampony dia amin' izay matahotra azy hatramin' ny taranaka fara mandimby.",
+    "51": "Nanao asa lehibe tamin' ny sandriny Izy; nampihahaka ny mpiavonavona tamin' ny fiheveran' ny fony Izy.",
+    "52": "Nampiala ny lehibe tamin' ny sezafiandrianany Izy ary nanandratra ny ambany kosa.",
+    "53": "Ny noana novokisany soa, fa ny manankarena kosa nampialainy maina.",
+    "54": "Niahy an' Isiraely mpanompony Izy, fa nahatsiaro ny famindrampony;",
+    "55": "Araka ny voalazany tamin' ny razantsika, tamin' i Abrahama sy ny taranany mandrakizay.",
+    "56": "Ary nitoetra teo amin' i Elizabeta tokony ho telo volana Maria, vao nody tany an-tranony.",
+    "57": "Ary tonga ny andro hahaveloman' i Elizabeta, dia niteraka zazalahy izy.",
+    "58": "Ary ny niara-monina taminy sy ny havany nandre fa efa naneho famindrampo lehibe taminy ny Tompo; dia niara-nifaly taminy ireo.",
+    "59": "Ary izao no niseho, tamin' ny andro fahavalo dia tonga hamora ny zaza izy ka efa saika hataony hoe Zakaria araka ny anaran-drainy ny anarany.",
+    "60": "Fa ny reniny namaly ka nanao hoe: Tsy izany, fa hatao hoe Jaona izy.",
+    "61": "Fa hoy izy ireo taminy: Tsy misy na dia iray akory aza amin' ny havanao manana izany anarana izany.",
+    "62": "Ary nanao baikon' ny moana tamin' ny rainy izy ireo, izay tokony ho tiany hatao anarany.",
+    "63": "Ary nangataka fàfana izy ka nanoratra hoe: Jaona no anarany. Dia gaga avokoa izy rehetra.",
+    "64": "Ary dia nisokatra niaraka tamin' izay ny vavany, ka afaka niteny ny lelany; dia niteny izy ka nidera an' Andriamanitra.",
+    "65": "Dia raiki-tahotra izay rehetra niara-monina taminy; ary niely teny amin' ny tany havoan' i Jodia rehetra ny lazan' izany rehetra izany.",
+    "66": "Ary izay rehetra nandre dia nandatsaka izany tam-pony ka nanao hoe: Ho zaza hanao ahoana re io? Ary ny tanan' ny Tompo nomba azy.",
+    "67": "Ary dia feno ny Fanahy Masina Zakaria rainy ka dia naminany nanao hoe:",
+    "68": "Isaorana anie ny Tompo Andriamanitry ny Isiraely, fa namangy sy nanavotra ny olony Izy,",
+    "69": "Ary nanangana tandro-pamonjena ho antsika amin' ny taranak' i Davida mpanompony Izy;",
+    "70": "Araka izay nampilazainy tamin' ny vavan' ny mpaminaniny masina hatramin' ny niandohan' izao tontolo izao,",
+    "71": "Mba ho voavonjy amin' ny fahavalontsika isika sy amin' ny tanan' izay rehetra mankahala antsika;",
+    "72": "Manefa famindrampo amin' ny razantsika Izy sady mahatsiaro ny fanekeny masina,",
+    "73": "Dia ny fianianana izay nianianany tamin' i Abrahama razantsika,",
+    "74": "Hanao izay hahazoantsika hanompo Azy tsy amin-tahotra satria afaka amin' ny tanan' ny fahavalontsika isika,",
+    "75": "Amin' ny fahamasinana sy ny fahamarinana eo anatrehany amin' ny andro rehetra hiainantsika.",
+    "76": "Ary ianao, ry zaza, dia hatao hoe mpaminanin' ny Avo Indrindra: fa hialoha eo anatrehan' ny tompo ianao hamboatra ny lalany,",
+    "77": "Hanome ny olony ny fahalalam-pamonjena amin' ny famelana ny helony,",
+    "78": "Noho ny halehiben' ny indrafon' Andriamanitsika izay nampiposaka ny mazava avy any amin' ny avo hamangy antsika,",
+    "79": "Hamirapiratra amin' izay mipetraka ao amin' ny maizina sy ao amin' ny aloky ny fahafatesana, hitarika ny diantsika ho amin' ny lalam-piadanana.",
+    "80": "Ary nitombo ny zaza ka nihahery tam-panahy; ary nitoetra tany an' efitra izy ambara-pahatongan' ny andro nisehoany tamin' ny Isiraely."
+  }
 }

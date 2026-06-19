@@ -1,85 +1,26 @@
 {
+  "book": "Mika",
   "chapter": 7,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Lozako! Fa efa tonga toy ny amin' ny fiotazam-boankazo fahavaratra aho sy toy ny fitsimponam-boaloboka, tsy misy salohy hohanina, maniry ny voankazo masaka voalohany ny fanahiko."
-    },
-    {
-      "v": 2,
-      "text": "\"Lany tsy misy amin' ny tany intsony ny tsara fanahy; tsy misy olo-marina ao amin' ny olombelona; samy manotrika handatsa-drà avokoa izy, mihaza ny rahalahiny amin' ny harato izy rehetra.\""
-    },
-    {
-      "v": 3,
-      "text": "Vonona hanao ratsy ny tanany roa, mila ny mpanapaka, azon-kolikoly ny mpitsara, ary ny lehibe milaza ny faniriana ratsiny, koa izany no entiny mandrarirary azy."
-    },
-    {
-      "v": 4,
-      "text": "\"Ny tsara indrindra ao aminy dia toy ny roy, ary na dia ny mahitsy indrindra ao aminy aza dia maranitra noho ny fefy tsilo; avy ny andron' ny tilinao sy izay hamaliana anao; koa izay vao ho very hevitra izy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Aza matoky namana ianareo, aza mametraka ny fitokisana amin' ny mpitarika; ambeno ny varavaran' ny vavanao amin' ny andefimandrinao.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Fa ny zanaka lahy manamavo ny rainy, ny zanaka vavy mitsangan-kanohitra ny reniny, ary ny vinantovavy hanohitra ny rafozany vavy; ary ny ankohonan' ny olona ihany no fahavalony.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa izaho kosa dia hanandrandra an' i Jehovah; hiandry an' Andriamanitry ny famonjena ahy aho; Andriamanitro no hihaino ahy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Aza mifaly ahy, ry fahavaloko, fa na dia lavo aza aho, mbola hiarina ihany; raha mitoetra ao amin' ny maizina aho, dia Jehovah no fahazavana ho ahy.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ny fahatezeran' i Jehovah dia hiaretako ihany, fa efa nanota taminy aho, ambara-pandahany ny teniko sy hanomezany rariny ho ahy; hamoaka ahy ho amin' ny mazava Izy, ka ho faly aho mahita ny fahamarinany.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Dia hahita izany ilay fahavaloko ka hosaronan-kenatra, dia ilay nanao tamiko hoe: aiza izay Jehovah Andriamanitrao? Ho faly mahita azy ny masoko; ankehitriny dia ho fanitsakitsaka toy ny fotaka eny an-dalambe izy.\""
-    },
-    {
-      "v": 11,
-      "text": "Amin' ny andro hananganana ny mandanao, amin' izany andro izany dia hampanalavirina ny didy."
-    },
-    {
-      "v": 12,
-      "text": "Amin' izany andro izany koa dia hanatona anao ny olona avy any Asyria, sy avy amin' ny tanàna mirova, ary avy amin' ny manda ka hatramin' ny Ony, ary avy amin' ny ranomasina ka hatramin' ny ranomasina, ary hatramin' ny tendrombohitra ka hatramin' ny tendrombohitra."
-    },
-    {
-      "v": 13,
-      "text": "Nefa ho lao ny tany noho ny amin' ny mponina eo aminy, dia noho ny vokatry ny asany."
-    },
-    {
-      "v": 14,
-      "text": "\"Ny tehinao no ento miandry ny olonao, dia ny ondry lovanao, izay monina mitokana any an' ala, eo afovoan' i Karmela; aoka handrasana any Basana sy Gileada ireny toy ny tamin' ny andro taloha ela.\""
-    },
-    {
-      "v": 15,
-      "text": "Araka ny andro nivoahanao avy tany amin' ny tany Egypta no hanehoako azy zava-mahagaga."
-    },
-    {
-      "v": 16,
-      "text": "\"Hahita izany ny firenena ka ho menatra amin' ny heriny rehetra; hitampim-bava izy, ho tonga marenina ny sofiny.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Hilelaka ny vovoka toy ny menarana izy; hivoaka avy ao an-davany toy ny kankantany izy; hatahotra an' i Jehovah Andriamanitsika izy, ary hatahotra noho ny aminao.\""
-    },
-    {
-      "v": 18,
-      "text": "Iza no Andriamanitra tahaka Anao, izay mamela heloka sady mandalo ny fahadisoan' ny sisa amin' ny lovany? Tsy mitana ny fahatezerany ho mandrakizay Izy, fa mifaly amin' ny famindrampo."
-    },
-    {
-      "v": 19,
-      "text": "Hiverina indray Izy hangora-po amintsika Izy, hanitsakitsaka ny helotsika, ary harianao ho any amin' ny halalin' ny ranomasina ny fahotany rehetra."
-    },
-    {
-      "v": 20,
-      "text": "Hanefa fahamarinana amin' i Jakoba ianao sy famindrampo amin' i Abrahama, dia ilay nianiananao tamin' ny razanay hatramin' ny andro taloha ela."
-    }
-  ]
+  "verses": {
+    "1": "Lozako! Fa efa tonga toy ny amin' ny fiotazam-boankazo fahavaratra aho sy toy ny fitsimponam-boaloboka, tsy misy salohy hohanina, maniry ny voankazo masaka voalohany ny fanahiko.",
+    "2": "Lany tsy misy amin' ny tany intsony ny tsara fanahy; tsy misy olo-marina ao amin' ny olombelona; samy manotrika handatsa-drà avokoa izy, mihaza ny rahalahiny amin' ny harato izy rehetra.",
+    "3": "Vonona hanao ratsy ny tanany roa, mila ny mpanapaka, azon-kolikoly ny mpitsara, ary ny lehibe milaza ny faniriana ratsiny, koa izany no entiny mandrarirary azy.",
+    "4": "Ny tsara indrindra ao aminy dia toy ny roy, ary na dia ny mahitsy indrindra ao aminy aza dia maranitra noho ny fefy tsilo; avy ny andron' ny tilinao sy izay hamaliana anao; koa izay vao ho very hevitra izy.",
+    "5": "Aza matoky namana ianareo, aza mametraka ny fitokisana amin' ny mpitarika; ambeno ny varavaran' ny vavanao amin' ny andefimandrinao.",
+    "6": "Fa ny zanaka lahy manamavo ny rainy, ny zanaka vavy mitsangan-kanohitra ny reniny, ary ny vinantovavy hanohitra ny rafozany vavy; ary ny ankohonan' ny olona ihany no fahavalony.",
+    "7": "Fa izaho kosa dia hanandrandra an' i Jehovah; hiandry an' Andriamanitry ny famonjena ahy aho; Andriamanitro no hihaino ahy.",
+    "8": "Aza mifaly ahy, ry fahavaloko, fa na dia lavo aza aho, mbola hiarina ihany; raha mitoetra ao amin' ny maizina aho, dia Jehovah no fahazavana ho ahy.",
+    "9": "Ny fahatezeran' i Jehovah dia hiaretako ihany, fa efa nanota taminy aho, ambara-pandahany ny teniko sy hanomezany rariny ho ahy; hamoaka ahy ho amin' ny mazava Izy, ka ho faly aho mahita ny fahamarinany.",
+    "10": "Dia hahita izany ilay fahavaloko ka hosaronan-kenatra, dia ilay nanao tamiko hoe: aiza izay Jehovah Andriamanitrao? Ho faly mahita azy ny masoko; ankehitriny dia ho fanitsakitsaka toy ny fotaka eny an-dalambe izy.",
+    "11": "Amin' ny andro hananganana ny mandanao, amin' izany andro izany dia hampanalavirina ny didy.",
+    "12": "Amin' izany andro izany koa dia hanatona anao ny olona avy any Asyria, sy avy amin' ny tanàna mirova, ary avy amin' ny manda ka hatramin' ny Ony, ary avy amin' ny ranomasina ka hatramin' ny ranomasina, ary hatramin' ny tendrombohitra ka hatramin' ny tendrombohitra.",
+    "13": "Nefa ho lao ny tany noho ny amin' ny mponina eo aminy, dia noho ny vokatry ny asany.",
+    "14": "Ny tehinao no ento miandry ny olonao, dia ny ondry lovanao, izay monina mitokana any an' ala, eo afovoan' i Karmela; aoka handrasana any Basana sy Gileada ireny toy ny tamin' ny andro taloha ela.",
+    "15": "Araka ny andro nivoahanao avy tany amin' ny tany Egypta no hanehoako azy zava-mahagaga.",
+    "16": "Hahita izany ny firenena ka ho menatra amin' ny heriny rehetra; hitampim-bava izy, ho tonga marenina ny sofiny.",
+    "17": "Hilelaka ny vovoka toy ny menarana izy; hivoaka avy ao an-davany toy ny kankantany izy; hatahotra an' i Jehovah Andriamanitsika izy, ary hatahotra noho ny aminao.",
+    "18": "Iza no Andriamanitra tahaka Anao, izay mamela heloka sady mandalo ny fahadisoan' ny sisa amin' ny lovany? Tsy mitana ny fahatezerany ho mandrakizay Izy, fa mifaly amin' ny famindrampo.",
+    "19": "Hiverina indray Izy hangora-po amintsika Izy, hanitsakitsaka ny helotsika, ary harianao ho any amin' ny halalin' ny ranomasina ny fahotany rehetra.",
+    "20": "Hanefa fahamarinana amin' i Jakoba ianao sy famindrampo amin' i Abrahama, dia ilay nianiananao tamin' ny razanay hatramin' ny andro taloha ela."
+  }
 }

@@ -1,117 +1,34 @@
 {
+  "book": "Salamo",
   "chapter": 35,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Salamo nataon' i Davida.]  JEHOVAH ô, mamalia izay manana ady amiko; miadia amin' izay miady amiko.\""
-    },
-    {
-      "v": 2,
-      "text": "Raiso ny ampinga lehibe sy ny ampinga kely, ka mitsangàna mba hamonjy ahy."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary raiso ny lefona, ka sakano ny lalan' izay manenjika ahy; lazao amin' ny fanahiko hoe: famonjena anao Aho.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Aoka ho very hevitra sy menatra izay mitady ny aiko; aoka hiamboho sy hangaihay izay misaina hanisy ratsy ahy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Aoka ho tahaka ny akofa aelin' ny rivotra izy ireny; ary aoka handroaka azy ny Anjelin' i Jehovah.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Aoka ho maizina sy malama ny lalany; ary aoka hanenjika azy ny Anjelin' i Jehovah.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa tsy ahoan-tsy ahoana no nanafenany fandri-totofana ho ahy; tsy ahoan-tsy ahoana no nandavahany hahazoany ny aiko.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Aoka ho tonga tampoka aminy ny fandringanana; ary aoka hahazo azy ny fandrika harato nafeniny, ka aoka ho latsaka ao amin' izany fandringanana izany izy.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary hifaly amin' i Jehovah kosa ny fanahiko sy ho ravoravo amin' ny famonjeny."
-    },
-    {
-      "v": 10,
-      "text": "Ny taolako rehetra hanao hoe: Jehovah ô, iza no tahaka anao, izay manafaka ny ory amin' izay tsy tohany, eny, ny ory sy ny malahelo amin' izay mamabo azy."
-    },
-    {
-      "v": 11,
-      "text": "\"Nitsangana tokoa ny vavolombelona tsy marina; ka izay tsy fantatro no nanadinany ahy.\""
-    },
-    {
-      "v": 12,
-      "text": "Namaly ratsy ahy ho solon' ny soa izy, mba hanimbana ny fanahiko."
-    },
-    {
-      "v": 13,
-      "text": "\"Fa ny amiko, raha narary izy ireo, dia lamba fisaonana no nitafiako; nampanetry tena ny fanahiko tamin' ny fifadian-kanina aho; ary nody tao an-tratrako ny fivavako.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Toy ny nisy nanjo ny sakaizako na ny rahalahiko no nandehanako; nitanondrika tamin' alahelo toy ny fisaona reny aho.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Nefa raha tao amin' ny fahoriako kosa aho, dia faly izy ireo ka niangona; eny, olona faraidiny no nitangorona namely ahy, nefa tsy fantatro; namiravira ahy tokoa izy ka tsy mba nitsahatra.\""
-    },
-    {
-      "v": 16,
-      "text": "Niaraka tamin' ny mpaneso mihatsaravelatsihy teo amin' ny fanasana no nanidiny vazana tamiko."
-    },
-    {
-      "v": 17,
-      "text": "Tompo ô, mandra-pahoviana no hijerenao, vonjeo ny fanahiko ho afaka amin' ny fandringanany, ny malalako ho afaka amin' ny liona."
-    },
-    {
-      "v": 18,
-      "text": "\"Hisaotra Anao eo amin' ny fiangonan-dehibe aho; hidera Anao eo anivon' ny olona maro aho.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Aoka tsy hifalian' izay mandrafy ahy foana aho; ary aoka tsy hamì-maso izay mankahala ahy tsy ahoan-tsy ahoana.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Fa tsy fihavanana no lazainy; fa mamorom-pitaka izy hamelezany izay mibonaika ambonin' ny tany.\""
-    },
-    {
-      "v": 21,
-      "text": "Eny, mitanatana vava amiko izy, ka manao hoe: Aha, aha, efa hitan' ny masonay izany."
-    },
-    {
-      "v": 22,
-      "text": "\"Efa hitanao izany, Jehovah ô, ka aza manentsin-tadìny; ry Tompo ô, aza manalavitra ahy.\""
-    },
-    {
-      "v": 23,
-      "text": "Mahatsiarova, ka mifohaza ho amin' ny fitsarana ahy, eny, ho amin' ny adiko, ry Tompoko sy Andriamanitro."
-    },
-    {
-      "v": 24,
-      "text": "\"Tsarao aho, Jehovah Andriamanitro ô, araka ny fahamarinanao; ary aoka tsy hifalian' ireo aho.\""
-    },
-    {
-      "v": 25,
-      "text": "Aoka tsy hanao anakampo izy hoe: Hia, faly izahay! Aoka tsy hanao izy hoe: Efa natelinay izy."
-    },
-    {
-      "v": 26,
-      "text": "\"Aoka ho menatra sy hangaihay avokoa izay mifaly amin' ny faharatrako; aoka hitafy henatra sy fahafaham-baràka izay mirehareha hanohitra ahy.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Aoka hihoby sy hifaly izay mankasitraka ny fahamarinako; eny, aoka izy hanao mandrakariva hoe: Hankalazaina anie Jehovah, izay mankasitraka ny fanambinana ny mpanompony.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary ny lelako hilaza ny fahamarinanao sy ny fiderana Anao mandrakariva."
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida.]  JEHOVAH ô, mamalia izay manana ady amiko; miadia amin' izay miady amiko.",
+    "2": "Raiso ny ampinga lehibe sy ny ampinga kely, ka mitsangàna mba hamonjy ahy.",
+    "3": "Ary raiso ny lefona, ka sakano ny lalan' izay manenjika ahy; lazao amin' ny fanahiko hoe: famonjena anao Aho.",
+    "4": "Aoka ho very hevitra sy menatra izay mitady ny aiko; aoka hiamboho sy hangaihay izay misaina hanisy ratsy ahy.",
+    "5": "Aoka ho tahaka ny akofa aelin' ny rivotra izy ireny; ary aoka handroaka azy ny Anjelin' i Jehovah.",
+    "6": "Aoka ho maizina sy malama ny lalany; ary aoka hanenjika azy ny Anjelin' i Jehovah.",
+    "7": "Fa tsy ahoan-tsy ahoana no nanafenany fandri-totofana ho ahy; tsy ahoan-tsy ahoana no nandavahany hahazoany ny aiko.",
+    "8": "Aoka ho tonga tampoka aminy ny fandringanana; ary aoka hahazo azy ny fandrika harato nafeniny, ka aoka ho latsaka ao amin' izany fandringanana izany izy.",
+    "9": "Ary hifaly amin' i Jehovah kosa ny fanahiko sy ho ravoravo amin' ny famonjeny.",
+    "10": "Ny taolako rehetra hanao hoe: Jehovah ô, iza no tahaka anao, izay manafaka ny ory amin' izay tsy tohany, eny, ny ory sy ny malahelo amin' izay mamabo azy.",
+    "11": "Nitsangana tokoa ny vavolombelona tsy marina; ka izay tsy fantatro no nanadinany ahy.",
+    "12": "Namaly ratsy ahy ho solon' ny soa izy, mba hanimbana ny fanahiko.",
+    "13": "Fa ny amiko, raha narary izy ireo, dia lamba fisaonana no nitafiako; nampanetry tena ny fanahiko tamin' ny fifadian-kanina aho; ary nody tao an-tratrako ny fivavako.",
+    "14": "Toy ny nisy nanjo ny sakaizako na ny rahalahiko no nandehanako; nitanondrika tamin' alahelo toy ny fisaona reny aho.",
+    "15": "Nefa raha tao amin' ny fahoriako kosa aho, dia faly izy ireo ka niangona; eny, olona faraidiny no nitangorona namely ahy, nefa tsy fantatro; namiravira ahy tokoa izy ka tsy mba nitsahatra.",
+    "16": "Niaraka tamin' ny mpaneso mihatsaravelatsihy teo amin' ny fanasana no nanidiny vazana tamiko.",
+    "17": "Tompo ô, mandra-pahoviana no hijerenao, vonjeo ny fanahiko ho afaka amin' ny fandringanany, ny malalako ho afaka amin' ny liona.",
+    "18": "Hisaotra Anao eo amin' ny fiangonan-dehibe aho; hidera Anao eo anivon' ny olona maro aho.",
+    "19": "Aoka tsy hifalian' izay mandrafy ahy foana aho; ary aoka tsy hamì-maso izay mankahala ahy tsy ahoan-tsy ahoana.",
+    "20": "Fa tsy fihavanana no lazainy; fa mamorom-pitaka izy hamelezany izay mibonaika ambonin' ny tany.",
+    "21": "Eny, mitanatana vava amiko izy, ka manao hoe: Aha, aha, efa hitan' ny masonay izany.",
+    "22": "Efa hitanao izany, Jehovah ô, ka aza manentsin-tadìny; ry Tompo ô, aza manalavitra ahy.",
+    "23": "Mahatsiarova, ka mifohaza ho amin' ny fitsarana ahy, eny, ho amin' ny adiko, ry Tompoko sy Andriamanitro.",
+    "24": "Tsarao aho, Jehovah Andriamanitro ô, araka ny fahamarinanao; ary aoka tsy hifalian' ireo aho.",
+    "25": "Aoka tsy hanao anakampo izy hoe: Hia, faly izahay! Aoka tsy hanao izy hoe: Efa natelinay izy.",
+    "26": "Aoka ho menatra sy hangaihay avokoa izay mifaly amin' ny faharatrako; aoka hitafy henatra sy fahafaham-baràka izay mirehareha hanohitra ahy.",
+    "27": "Aoka hihoby sy hifaly izay mankasitraka ny fahamarinako; eny, aoka izy hanao mandrakariva hoe: Hankalazaina anie Jehovah, izay mankasitraka ny fanambinana ny mpanompony.",
+    "28": "Ary ny lelako hilaza ny fahamarinanao sy ny fiderana Anao mandrakariva."
+  }
 }

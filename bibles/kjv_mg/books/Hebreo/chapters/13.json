@@ -1,105 +1,31 @@
 {
+  "book": "Hebreo",
   "chapter": 13,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Aoka haharitra ny fitiavana ny rahalahy."
-    },
-    {
-      "v": 2,
-      "text": "\"Aza manadino ny fampiantranoam-bahiny; fa tamin’izany dia nampiantrano anjely ny sasany nefa tsy fantany;\""
-    },
-    {
-      "v": 3,
-      "text": "Tsarovy izay mifatotra, ho toy ny miara-mifatotra aminy ianareo, ary izay ampahoriana, satria mbola eo amin’ny tena koa ianareo."
-    },
-    {
-      "v": 4,
-      "text": "\"Manana haja amin’ny olona rehetra ny fanambadiana sy ny fandriana tsy voaloto; fa ny mpivarotena sy ny mpaka vadin’olona dia hotsarain’Andriamanitra.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Aoka ny fitondrantenanareo tsy ho amin' ny fitiavam-bola, fa mianìna amin’izay anananareo; fa hoy Izy: “Izaho tsy handao anao mihitsy na hahafoy anao akory.”\""
-    },
-    {
-      "v": 6,
-      "text": "Ka dia sahy isika manao hoe: Jehovah no Mpamonjy ahy, ka tsy hatahotra izay hataon' ny olona amiko aho."
-    },
-    {
-      "v": 7,
-      "text": "\"Tsarovy ny mpitondra anareo, izay efa nitory ny tenin’Andriamanitra taminareo; hevero ny niafaran’ny fiainany, ka araho ny finoany.\""
-    },
-    {
-      "v": 8,
-      "text": "Jesosy Kristy no tsy miova omaly sy anio ary mandrakizay."
-    },
-    {
-      "v": 9,
-      "text": "Aza mety havilin’izay foto-pampianarana maro hafahafa ianareo. Fa tsara raha ampiorenina amin’ny fahasoavana ny fo, fa tsy amin’ny hanina, izay tsy mahasoa ny mahavatra azy."
-    },
-    {
-      "v": 10,
-      "text": "Manana alitara isika, izay tsy ananan’ny mpanompo ny tabernakely fahefana hihinanana."
-    },
-    {
-      "v": 11,
-      "text": "Fa rehefa nentin’ny mpisoronabe niditra ho ao amin’ny fitoerana masina ho fanatitra noho ny ota ny ran’ny biby, dia nodorana teny ivelan’ny toby ny fatiny."
-    },
-    {
-      "v": 12,
-      "text": "Ary amin’izany Jesosy koa dia niaritra teny ivelan’ny vavahady mba hahamasina ny olona amin’ny rany."
-    },
-    {
-      "v": 13,
-      "text": "Koa aoka isika hivoaka hankeo aminy eo ivelan’ny toby, mitondra ny latsa izay nentiny."
-    },
-    {
-      "v": 14,
-      "text": "Fa ety isika tsy manana tanàna maharitra, fa mitady ny ho avy."
-    },
-    {
-      "v": 15,
-      "text": "Koa aoka isika hanatitra ny fanati-piderana amin’ny alalany ho an’Andriamanitra mandrakariva, dia ny vokatry ny molotra izay manaiky ny anarany."
-    },
-    {
-      "v": 16,
-      "text": "\"Fa aza manadino hanao soa sy hizara; fa fanatitra toy izany no sitrak’Andriamanitra.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Mankatoava ny mpitondra anareo, ka maneke azy; fa miambina ny fanahinareo izy araka izay tokony hataon’ny olona mbola hampamoahina, mba hanaovany izany amin’ny fifaliana, fa tsy amin’ny fisentoana; fa tsy hahasoa anareo izany.\""
-    },
-    {
-      "v": 18,
-      "text": "Mivavaha ho anay: fa matoky izahay fa manana fieritreretana tsara ka te-hitondra tena tsara amin’ny zavatra rehetra."
-    },
-    {
-      "v": 19,
-      "text": "Nefa mainka miangavy anareo hanao izany aho, mba hampodina faingampaingana kokoa ho aminareo."
-    },
-    {
-      "v": 20,
-      "text": "Ary Andriamanitry ny fiadanana, Izay nitondra niala amin' ny maty an' i Jesosy Tompontsika,Ilay Mpiandry ondry lehibe amin’ny ran’ny fanekena mandrakizay,"
-    },
-    {
-      "v": 21,
-      "text": "\"Izy anie hahatanteraka anareo amin’ny asa tsara rehetra hanao ny sitrapony ka hiasa ao anatinareo izay ankasitrahana eo imasony amin’ny alalan' i Jesosy Kristy; ho Azy anie ny voninahitra mandrakizay mandrakizay. Amena.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary miangavy anareo aho, ry rahalahiko, zakao ny teny fananarana; fa efa nanoratra epistily fohifohy ihany ho anareo aho.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Aoka ho fantatrareo fa efa afaka Timoty rahalahintsika; koa raha tàhiny handeha faingana izy, dia hiaraka aminy hamangy anareo aho.\""
-    },
-    {
-      "v": 24,
-      "text": "Manaova veloma izay rehetra mpitondra anareo sy ny olona masina rehetra. Izay avy any Italia dia manao veloma anareo."
-    },
-    {
-      "v": 25,
-      "text": "Ho aminareo rehetra anie ny fahasoavana. Amena. (Nosoratan’i Timoty tany Italia ho an’ny Hebreo)."
-    }
-  ]
+  "verses": {
+    "1": "Aoka haharitra ny fitiavana ny rahalahy.",
+    "2": "Aza manadino ny fampiantranoam-bahiny; fa tamin’izany dia nampiantrano anjely ny sasany nefa tsy fantany;",
+    "3": "Tsarovy izay mifatotra, ho toy ny miara-mifatotra aminy ianareo, ary izay ampahoriana, satria mbola eo amin’ny tena koa ianareo.",
+    "4": "Manana haja amin’ny olona rehetra ny fanambadiana sy ny fandriana tsy voaloto; fa ny mpivarotena sy ny mpaka vadin’olona dia hotsarain’Andriamanitra.",
+    "5": "Aoka ny fitondrantenanareo tsy ho amin' ny fitiavam-bola, fa mianìna amin’izay anananareo; fa hoy Izy: “Izaho tsy handao anao mihitsy na hahafoy anao akory.”",
+    "6": "Ka dia sahy isika manao hoe: Jehovah no Mpamonjy ahy, ka tsy hatahotra izay hataon' ny olona amiko aho.",
+    "7": "Tsarovy ny mpitondra anareo, izay efa nitory ny tenin’Andriamanitra taminareo; hevero ny niafaran’ny fiainany, ka araho ny finoany.",
+    "8": "Jesosy Kristy no tsy miova omaly sy anio ary mandrakizay.",
+    "9": "Aza mety havilin’izay foto-pampianarana maro hafahafa ianareo. Fa tsara raha ampiorenina amin’ny fahasoavana ny fo, fa tsy amin’ny hanina, izay tsy mahasoa ny mahavatra azy.",
+    "10": "Manana alitara isika, izay tsy ananan’ny mpanompo ny tabernakely fahefana hihinanana.",
+    "11": "Fa rehefa nentin’ny mpisoronabe niditra ho ao amin’ny fitoerana masina ho fanatitra noho ny ota ny ran’ny biby, dia nodorana teny ivelan’ny toby ny fatiny.",
+    "12": "Ary amin’izany Jesosy koa dia niaritra teny ivelan’ny vavahady mba hahamasina ny olona amin’ny rany.",
+    "13": "Koa aoka isika hivoaka hankeo aminy eo ivelan’ny toby, mitondra ny latsa izay nentiny.",
+    "14": "Fa ety isika tsy manana tanàna maharitra, fa mitady ny ho avy.",
+    "15": "Koa aoka isika hanatitra ny fanati-piderana amin’ny alalany ho an’Andriamanitra mandrakariva, dia ny vokatry ny molotra izay manaiky ny anarany.",
+    "16": "Fa aza manadino hanao soa sy hizara; fa fanatitra toy izany no sitrak’Andriamanitra.",
+    "17": "Mankatoava ny mpitondra anareo, ka maneke azy; fa miambina ny fanahinareo izy araka izay tokony hataon’ny olona mbola hampamoahina, mba hanaovany izany amin’ny fifaliana, fa tsy amin’ny fisentoana; fa tsy hahasoa anareo izany.",
+    "18": "Mivavaha ho anay: fa matoky izahay fa manana fieritreretana tsara ka te-hitondra tena tsara amin’ny zavatra rehetra.",
+    "19": "Nefa mainka miangavy anareo hanao izany aho, mba hampodina faingampaingana kokoa ho aminareo.",
+    "20": "Ary Andriamanitry ny fiadanana, Izay nitondra niala amin' ny maty an' i Jesosy Tompontsika,Ilay Mpiandry ondry lehibe amin’ny ran’ny fanekena mandrakizay,",
+    "21": "Izy anie hahatanteraka anareo amin’ny asa tsara rehetra hanao ny sitrapony ka hiasa ao anatinareo izay ankasitrahana eo imasony amin’ny alalan' i Jesosy Kristy; ho Azy anie ny voninahitra mandrakizay mandrakizay. Amena.",
+    "22": "Ary miangavy anareo aho, ry rahalahiko, zakao ny teny fananarana; fa efa nanoratra epistily fohifohy ihany ho anareo aho.",
+    "23": "Aoka ho fantatrareo fa efa afaka Timoty rahalahintsika; koa raha tàhiny handeha faingana izy, dia hiaraka aminy hamangy anareo aho.",
+    "24": "Manaova veloma izay rehetra mpitondra anareo sy ny olona masina rehetra. Izay avy any Italia dia manao veloma anareo.",
+    "25": "Ho aminareo rehetra anie ny fahasoavana. Amena. (Nosoratan’i Timoty tany Italia ho an’ny Hebreo)."
+  }
 }

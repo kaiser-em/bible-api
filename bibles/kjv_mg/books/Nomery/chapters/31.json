@@ -1,221 +1,60 @@
 {
+  "book": "Nomery",
   "chapter": 31,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Valio ny Midianita noho ny nataony tamin' ny Zanak' Isiraely; ary rehefa afaka izany dia hangonina any amin' ny razanao ianao.\""
-    },
-    {
-      "v": 3,
-      "text": "Dia niteny tamin' ny olona Mosesy ka nanao hoe: Miomàna ho any an-tafika ny sasany aminareo, ary aoka izy hanafika ny Midianita ka hamaly ny Midianita ho an' i Jehovah."
-    },
-    {
-      "v": 4,
-      "text": "Arivo lahy isaky ny fokon' ny Isiraely no hampandehaninareo ho any an-tafika."
-    },
-    {
-      "v": 5,
-      "text": "Dia navahana tamin' ny Isiraely alinalina ny arivo isaky ny foko, dia roa arivo amby iray alina samy voaomana hiady."
-    },
-    {
-      "v": 6,
-      "text": "Dia nampandehanin' i Mosesy ho any an-tafika ireo arivo lahy isaky ny foko, dia ireo sy Finehasa zanakalahin' i Eleazara mpisorona mba hiady, miaraka amin' ny fanaka masina sy ny trompetra eny an-tanany izay hotsofina."
-    },
-    {
-      "v": 7,
-      "text": "\"Dia niady tamin' ny Midianita ireo, araka izay efa nandidian' i Jehovah an' i Mosesy; ary namono ny lehilahy rehetra izy;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary ireo mpanjakan' i Midiana dia matiny ankoatra ireo sisa izay novonoina; izao avy no anarany: Evy sy Rekema sy Zora sy Hora ary Reba, mpanjaka dimy amin' ny Midiana; ary Balama zanakalahin' i Beora koa dia novonoiny tamin' ny sabatra.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary ny Zanak' Isiraely namabo ny vehivavy Midianita rehetra sy ny zanany madinika; ary naka ny babo tamin' ny biby fiompiny rehetra sy ny ondry aman' osiny rehetra ary ny fananany rehetra.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary ny tanànany rehetra izay nonenany sy ny lapany soa rehetra dia nodorany tamin' ny afo."
-    },
-    {
-      "v": 11,
-      "text": "Ary nalainy avokoa izay zavatra rehetra nobaboina, sy izay babo rehetra na olona, na biby."
-    },
-    {
-      "v": 12,
-      "text": "Dia nentiny tany amin' i Mosesy sy Eleazara mpisorona izay azo sambo-belona sy ireo babo, ary izay zavatra nobaboina, ho eo amin' ny fiangonan' ny Zanak' Isiraely teo an-toby teo amin' ny tany lemak' i Moaba, amoron' i Jordana akaikin' i Jeriko."
-    },
-    {
-      "v": 13,
-      "text": "Ary Mosesy sy Eleazara mpisorona ary ny lohan' ny fiangonana rehetra nivoaka hitsena azy ireo teo ivelan' ny toby."
-    },
-    {
-      "v": 14,
-      "text": "Ary tezitra tamin' ny mpifehy ny miaramila Mosesy, dia tamin' ny mpifehy arivo sy ny mpifehy zato, izay avy tany an-tafika,"
-    },
-    {
-      "v": 15,
-      "text": "Ka hoy Mosesy taminy: Nahoana no novelominareo ny vehivavy rehetra?"
-    },
-    {
-      "v": 16,
-      "text": "Indro, ireo no nampahadiso ny Zanak' Isiraely tamin' i Jehovah ny amin' i Peora, araka ny toro-hevitr' i Balama, ka nisy ny areti-mandringana teo anivon' ny fiangonan' i Jehovah."
-    },
-    {
-      "v": 17,
-      "text": "Koa ankehitriny, vonoy ny zazalahy madinika rehetra, ary vonoy ny vehivavy rehetra izay efa nahalala lahy nandry taminy."
-    },
-    {
-      "v": 18,
-      "text": "Fa ny zazavavy rehetra izay tsy nahalala lahy nandry taminy dia velomy."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary mitobia eo ivelan' ny toby hafitoana; izay nahafaty olona, na izay nikasika faty dia samia manadio ny tenany, na ianareo, na ny sambo-belonareo amin' ny andro fahatelo sy amin' ny andro fahafito.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary diovy ny fitafianareo rehetra sy izay rehetra natao tamin' ny hoditra sy ny asa rehetra natao tamin' ny volon' osy ary ny zavatra rehetra tamin' ny hazo."
-    },
-    {
-      "v": 21,
-      "text": "Ary hoy Eleazara mpisorona tamin' ny mpanafika, izay efa tany an' ady: Izao no lalàna hotandremana, izay nandidian' i Jehovah  an' i  Mosesy:"
-    },
-    {
-      "v": 22,
-      "text": "Ny volamena sy ny volafotsy ary ny varahina sy ny vy sy ny vifotsy ary ny firaka ihany,"
-    },
-    {
-      "v": 23,
-      "text": "\"Dia ny zavatra rehetra izay maharitra afo, no ataovy ao amin' ny afo, dia hadio, kanefa hodiovina amin' ny rano fanokanana izany; ary izay rehetra tsy maharitra afo dia hampandalovina amin' ny rano.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary sasao ny fitafianareo amin' ny andro fahafito, dia hadio ianareo; ary aorian' izany dia hiditra ao amin' ny toby ianareo.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 26,
-      "text": "Alaonao sy Eleazara mpisorona sy ny lohan' ny fianakaviana amin' ny fiangonana ny isan' ny babo izay azo, na olona, na biby."
-    },
-    {
-      "v": 27,
-      "text": "\"Dia sasaho ny babo ho an' izay niady, dia izay efa tany an-tafika, sy ho an' ny fiangonana rehetra;\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary mampandoava anjara ho an' i Jehovah avy amin' ny mpanafika izay nivoaka tany an-tafika dia iray isan-dimanjato, na olona, na omby, na boriky, na ondry;\""
-    },
-    {
-      "v": 29,
-      "text": "Ary ny antsasany izay azy no hanalanao izany ka homenao an' i Eleazara mpisorona ho fanatitra ahevaheva ho an' i Jehovah."
-    },
-    {
-      "v": 30,
-      "text": "Ary ny antsasany an' ny Zanak' Isiraely kosa dia analao iray isan-dimampolo, na olona, na omby, na boriky, na ondry aman' osy, na ny karazana biby rehetra ka omeo ho an' ny Levita ireny, izay mitandrina ny anjara raharaha momba ny tabernakelin' i Jehovah."
-    },
-    {
-      "v": 31,
-      "text": "Dia nataon' i Mosesy sy Eleazara mpisorona izany, araka izay efa nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 32,
-      "text": "Ary ny zavatra azo, izay sisa azon' ny mpanafika, dia ondry dimy arivo amby fito alina sy enina hetsy,"
-    },
-    {
-      "v": 33,
-      "text": "Sy omby roa arivo amby fito alina,"
-    },
-    {
-      "v": 34,
-      "text": "sy boriky arivo amby enina alina,"
-    },
-    {
-      "v": 35,
-      "text": "Ary olona, dia vehivavy izay tsy mbola nahalala lahy nandry taminy, roa arivo amby telo alina no fitambarany."
-    },
-    {
-      "v": 36,
-      "text": "Ary ny antsasany izay anjaran' ny efa tany an-tafika dia izao: ny isan' ny ondry dia dimanjato amby fito arivo sy telo alina sy telo hetsy."
-    },
-    {
-      "v": 37,
-      "text": "Ary ny anjaran' i Jehovah avy tamin' ny ondry dia dimy amby fitopolo sy eninjato."
-    },
-    {
-      "v": 38,
-      "text": "\"Ary ny omby dia enina arivo amby telo alina; ary ny anjaran' i Jehovah avy tamin' ireo dia roa amby fitopolo.\""
-    },
-    {
-      "v": 39,
-      "text": "\"Ary ny boriky dia dimanjato amby telo alina; ary ny anjaran' i Jehovah avy tamin' ireo dia iraika amby enimpolo.\""
-    },
-    {
-      "v": 40,
-      "text": "\"Ary ny olona dia enina arivo amby iray alina; ary ny anjaran' i Jehovah avy tamin' ireo dia roa amby telopolo.\""
-    },
-    {
-      "v": 41,
-      "text": "Dia nomen' i Mosesy an' i Eleazara mpisorona ny anjara izay fanatitra ahevaheva ho an' i Jehovah, araka ny nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 42,
-      "text": "Ary avy tamin' ny antsasany an' ny Zanak' Isiraely, izay nozarain' i Mosesy tamin' ny mpanafika,"
-    },
-    {
-      "v": 43,
-      "text": "(Fa ny antsasany an' ny fiangonana dia ondry dimanjato amby fito arivo sy telo alina sy telo hetsy,"
-    },
-    {
-      "v": 44,
-      "text": "Sy omby enina arivo amby telo alina,"
-    },
-    {
-      "v": 45,
-      "text": "Sy boriky dimanjato amby telo alina,"
-    },
-    {
-      "v": 46,
-      "text": "Ary olona enina arivo amby iray alina),"
-    },
-    {
-      "v": 47,
-      "text": "Ny antsasany an' ny Zanak' Isiraely dia nanalan' i Mosesy iray isan-dimampolo, na olona, na biby, ka nomeny ho an' ny Levita izay mpitandrina ny anjara raharaha momba ny tabernakelin' i Jehovah izany, araka izay efa nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 48,
-      "text": "Ary ny mpifehy, izay nifehy ny miaramila, dia ny mpifehy arivo sy ny mpifehy zato, dia nanatona an' i Mosesy,"
-    },
-    {
-      "v": 49,
-      "text": "Ka nanao taminy hoe: Ny mpanomponao efa naka ny isan' ny mpanafika izay nofeheziny ary tsy misy tsy tao na dia lehilahy iray aza."
-    },
-    {
-      "v": 50,
-      "text": "Koa nitondra fanatitra ho an' i Jehovah izahay, izay azon' ny olona tsirairay, dia firavaka volamena, sy rojo, sy haba, sy peratra, sy kavina ary voavola mba hanaovana fanavotana ho an' ny fanahinay eo anatrehan' i Jehovah."
-    },
-    {
-      "v": 51,
-      "text": "Dia noraisin' i Mosesy sy Eleazara mpisorona taminy ny volamena, dia ny firavaka voatefy rehetra."
-    },
-    {
-      "v": 52,
-      "text": "Ary ny volamenan' ny fanatitra rehetra izay natolony ho an' i Jehovah avy tamin' ny mpifehy arivo sy ny mpifehy zato, dia sekely dimampolo amby fitonjato sy enina arivo sy iray alina."
-    },
-    {
-      "v": 53,
-      "text": "(Fa ny mpanafika samy namabo ho an' ny tenany)."
-    },
-    {
-      "v": 54,
-      "text": "Dia noraisin' i Mosesy sy Eleazara mpisorona ny volamena avy tamin' ny mpifehy arivo sy ny mpifehy zato, ka nentiny tao amin' ny tranolay fihaonana izany ho fahatsiarovana ho an' ny Zanak' Isiraely eo anatrehan' i Jehovah."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "2": "Valio ny Midianita noho ny nataony tamin' ny Zanak' Isiraely; ary rehefa afaka izany dia hangonina any amin' ny razanao ianao.",
+    "3": "Dia niteny tamin' ny olona Mosesy ka nanao hoe: Miomàna ho any an-tafika ny sasany aminareo, ary aoka izy hanafika ny Midianita ka hamaly ny Midianita ho an' i Jehovah.",
+    "4": "Arivo lahy isaky ny fokon' ny Isiraely no hampandehaninareo ho any an-tafika.",
+    "5": "Dia navahana tamin' ny Isiraely alinalina ny arivo isaky ny foko, dia roa arivo amby iray alina samy voaomana hiady.",
+    "6": "Dia nampandehanin' i Mosesy ho any an-tafika ireo arivo lahy isaky ny foko, dia ireo sy Finehasa zanakalahin' i Eleazara mpisorona mba hiady, miaraka amin' ny fanaka masina sy ny trompetra eny an-tanany izay hotsofina.",
+    "7": "Dia niady tamin' ny Midianita ireo, araka izay efa nandidian' i Jehovah an' i Mosesy; ary namono ny lehilahy rehetra izy;",
+    "8": "Ary ireo mpanjakan' i Midiana dia matiny ankoatra ireo sisa izay novonoina; izao avy no anarany: Evy sy Rekema sy Zora sy Hora ary Reba, mpanjaka dimy amin' ny Midiana; ary Balama zanakalahin' i Beora koa dia novonoiny tamin' ny sabatra.",
+    "9": "Ary ny Zanak' Isiraely namabo ny vehivavy Midianita rehetra sy ny zanany madinika; ary naka ny babo tamin' ny biby fiompiny rehetra sy ny ondry aman' osiny rehetra ary ny fananany rehetra.",
+    "10": "Ary ny tanànany rehetra izay nonenany sy ny lapany soa rehetra dia nodorany tamin' ny afo.",
+    "11": "Ary nalainy avokoa izay zavatra rehetra nobaboina, sy izay babo rehetra na olona, na biby.",
+    "12": "Dia nentiny tany amin' i Mosesy sy Eleazara mpisorona izay azo sambo-belona sy ireo babo, ary izay zavatra nobaboina, ho eo amin' ny fiangonan' ny Zanak' Isiraely teo an-toby teo amin' ny tany lemak' i Moaba, amoron' i Jordana akaikin' i Jeriko.",
+    "13": "Ary Mosesy sy Eleazara mpisorona ary ny lohan' ny fiangonana rehetra nivoaka hitsena azy ireo teo ivelan' ny toby.",
+    "14": "Ary tezitra tamin' ny mpifehy ny miaramila Mosesy, dia tamin' ny mpifehy arivo sy ny mpifehy zato, izay avy tany an-tafika,",
+    "15": "Ka hoy Mosesy taminy: Nahoana no novelominareo ny vehivavy rehetra?",
+    "16": "Indro, ireo no nampahadiso ny Zanak' Isiraely tamin' i Jehovah ny amin' i Peora, araka ny toro-hevitr' i Balama, ka nisy ny areti-mandringana teo anivon' ny fiangonan' i Jehovah.",
+    "17": "Koa ankehitriny, vonoy ny zazalahy madinika rehetra, ary vonoy ny vehivavy rehetra izay efa nahalala lahy nandry taminy.",
+    "18": "Fa ny zazavavy rehetra izay tsy nahalala lahy nandry taminy dia velomy.",
+    "19": "Ary mitobia eo ivelan' ny toby hafitoana; izay nahafaty olona, na izay nikasika faty dia samia manadio ny tenany, na ianareo, na ny sambo-belonareo amin' ny andro fahatelo sy amin' ny andro fahafito.",
+    "20": "Ary diovy ny fitafianareo rehetra sy izay rehetra natao tamin' ny hoditra sy ny asa rehetra natao tamin' ny volon' osy ary ny zavatra rehetra tamin' ny hazo.",
+    "21": "Ary hoy Eleazara mpisorona tamin' ny mpanafika, izay efa tany an' ady: Izao no lalàna hotandremana, izay nandidian' i Jehovah  an' i  Mosesy:",
+    "22": "Ny volamena sy ny volafotsy ary ny varahina sy ny vy sy ny vifotsy ary ny firaka ihany,",
+    "23": "Dia ny zavatra rehetra izay maharitra afo, no ataovy ao amin' ny afo, dia hadio, kanefa hodiovina amin' ny rano fanokanana izany; ary izay rehetra tsy maharitra afo dia hampandalovina amin' ny rano.",
+    "24": "Ary sasao ny fitafianareo amin' ny andro fahafito, dia hadio ianareo; ary aorian' izany dia hiditra ao amin' ny toby ianareo.",
+    "25": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "26": "Alaonao sy Eleazara mpisorona sy ny lohan' ny fianakaviana amin' ny fiangonana ny isan' ny babo izay azo, na olona, na biby.",
+    "27": "Dia sasaho ny babo ho an' izay niady, dia izay efa tany an-tafika, sy ho an' ny fiangonana rehetra;",
+    "28": "Ary mampandoava anjara ho an' i Jehovah avy amin' ny mpanafika izay nivoaka tany an-tafika dia iray isan-dimanjato, na olona, na omby, na boriky, na ondry;",
+    "29": "Ary ny antsasany izay azy no hanalanao izany ka homenao an' i Eleazara mpisorona ho fanatitra ahevaheva ho an' i Jehovah.",
+    "30": "Ary ny antsasany an' ny Zanak' Isiraely kosa dia analao iray isan-dimampolo, na olona, na omby, na boriky, na ondry aman' osy, na ny karazana biby rehetra ka omeo ho an' ny Levita ireny, izay mitandrina ny anjara raharaha momba ny tabernakelin' i Jehovah.",
+    "31": "Dia nataon' i Mosesy sy Eleazara mpisorona izany, araka izay efa nandidian' i Jehovah an' i Mosesy.",
+    "32": "Ary ny zavatra azo, izay sisa azon' ny mpanafika, dia ondry dimy arivo amby fito alina sy enina hetsy,",
+    "33": "Sy omby roa arivo amby fito alina,",
+    "34": "sy boriky arivo amby enina alina,",
+    "35": "Ary olona, dia vehivavy izay tsy mbola nahalala lahy nandry taminy, roa arivo amby telo alina no fitambarany.",
+    "36": "Ary ny antsasany izay anjaran' ny efa tany an-tafika dia izao: ny isan' ny ondry dia dimanjato amby fito arivo sy telo alina sy telo hetsy.",
+    "37": "Ary ny anjaran' i Jehovah avy tamin' ny ondry dia dimy amby fitopolo sy eninjato.",
+    "38": "Ary ny omby dia enina arivo amby telo alina; ary ny anjaran' i Jehovah avy tamin' ireo dia roa amby fitopolo.",
+    "39": "Ary ny boriky dia dimanjato amby telo alina; ary ny anjaran' i Jehovah avy tamin' ireo dia iraika amby enimpolo.",
+    "40": "Ary ny olona dia enina arivo amby iray alina; ary ny anjaran' i Jehovah avy tamin' ireo dia roa amby telopolo.",
+    "41": "Dia nomen' i Mosesy an' i Eleazara mpisorona ny anjara izay fanatitra ahevaheva ho an' i Jehovah, araka ny nandidian' i Jehovah an' i Mosesy.",
+    "42": "Ary avy tamin' ny antsasany an' ny Zanak' Isiraely, izay nozarain' i Mosesy tamin' ny mpanafika,",
+    "43": "(Fa ny antsasany an' ny fiangonana dia ondry dimanjato amby fito arivo sy telo alina sy telo hetsy,",
+    "44": "Sy omby enina arivo amby telo alina,",
+    "45": "Sy boriky dimanjato amby telo alina,",
+    "46": "Ary olona enina arivo amby iray alina),",
+    "47": "Ny antsasany an' ny Zanak' Isiraely dia nanalan' i Mosesy iray isan-dimampolo, na olona, na biby, ka nomeny ho an' ny Levita izay mpitandrina ny anjara raharaha momba ny tabernakelin' i Jehovah izany, araka izay efa nandidian' i Jehovah an' i Mosesy.",
+    "48": "Ary ny mpifehy, izay nifehy ny miaramila, dia ny mpifehy arivo sy ny mpifehy zato, dia nanatona an' i Mosesy,",
+    "49": "Ka nanao taminy hoe: Ny mpanomponao efa naka ny isan' ny mpanafika izay nofeheziny ary tsy misy tsy tao na dia lehilahy iray aza.",
+    "50": "Koa nitondra fanatitra ho an' i Jehovah izahay, izay azon' ny olona tsirairay, dia firavaka volamena, sy rojo, sy haba, sy peratra, sy kavina ary voavola mba hanaovana fanavotana ho an' ny fanahinay eo anatrehan' i Jehovah.",
+    "51": "Dia noraisin' i Mosesy sy Eleazara mpisorona taminy ny volamena, dia ny firavaka voatefy rehetra.",
+    "52": "Ary ny volamenan' ny fanatitra rehetra izay natolony ho an' i Jehovah avy tamin' ny mpifehy arivo sy ny mpifehy zato, dia sekely dimampolo amby fitonjato sy enina arivo sy iray alina.",
+    "53": "(Fa ny mpanafika samy namabo ho an' ny tenany).",
+    "54": "Dia noraisin' i Mosesy sy Eleazara mpisorona ny volamena avy tamin' ny mpifehy arivo sy ny mpifehy zato, ka nentiny tao amin' ny tranolay fihaonana izany ho fahatsiarovana ho an' ny Zanak' Isiraely eo anatrehan' i Jehovah."
+  }
 }

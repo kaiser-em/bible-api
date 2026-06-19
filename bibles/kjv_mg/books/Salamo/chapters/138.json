@@ -1,37 +1,14 @@
 {
+  "book": "Salamo",
   "chapter": 138,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Salamo nataon' i Davida.] HIdera anao amin' ny foko rehetra aho; eo anatrehan' ireo andriamanitra no hanaovako hira fiderana Anao.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Hiankohoka manandrify ny tempolinao masina aho ka hidera ny anaranao noho ny antranao sy ny fahamarinanao; fa efa nomenao voninahitra ny teninao ho ambonin' ny anaranao rehetra.\""
-    },
-    {
-      "v": 3,
-      "text": "Tamin' ny andro nitarainako dia namaly ahy Ianao ka nampahery ahy tao am-panahiko."
-    },
-    {
-      "v": 4,
-      "text": "Jehovah ô, hidera anao ny mpanjaka rehetra amin' ny tany raha mandre ny tenin' ny vavanao ireo."
-    },
-    {
-      "v": 5,
-      "text": "\"Eny, hihira ny amin' ny lalan' i Jehovah ireo; fa lehibe ny voninahitr' i Jehovah.\""
-    },
-    {
-      "v": 6,
-      "text": "Fa na dia avo aza Jehovah, dia mijery ny manetry tena, fa ny mpiavonavona kosa dia fantany eny lavitra eny."
-    },
-    {
-      "v": 7,
-      "text": "\"Na dia mandeha ao afovoan' ny fahoriana aza aho dia hamelona ahy Ianao; haninjitra ny tananao hanohitra ny fahatezeran' ny fahavaloko Ianao, ka hamonjy ahy ny tananao ankavanana.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Jehovah no hahatanteraka ny momba ahy; Jehovah ô, maharitra mandrakizay ny famindramponao; aza mahafoy ny asan' ny tananao.\""
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida.] HIdera anao amin' ny foko rehetra aho; eo anatrehan' ireo andriamanitra no hanaovako hira fiderana Anao.",
+    "2": "Hiankohoka manandrify ny tempolinao masina aho ka hidera ny anaranao noho ny antranao sy ny fahamarinanao; fa efa nomenao voninahitra ny teninao ho ambonin' ny anaranao rehetra.",
+    "3": "Tamin' ny andro nitarainako dia namaly ahy Ianao ka nampahery ahy tao am-panahiko.",
+    "4": "Jehovah ô, hidera anao ny mpanjaka rehetra amin' ny tany raha mandre ny tenin' ny vavanao ireo.",
+    "5": "Eny, hihira ny amin' ny lalan' i Jehovah ireo; fa lehibe ny voninahitr' i Jehovah.",
+    "6": "Fa na dia avo aza Jehovah, dia mijery ny manetry tena, fa ny mpiavonavona kosa dia fantany eny lavitra eny.",
+    "7": "Na dia mandeha ao afovoan' ny fahoriana aza aho dia hamelona ahy Ianao; haninjitra ny tananao hanohitra ny fahatezeran' ny fahavaloko Ianao, ka hamonjy ahy ny tananao ankavanana.",
+    "8": "Jehovah no hahatanteraka ny momba ahy; Jehovah ô, maharitra mandrakizay ny famindramponao; aza mahafoy ny asan' ny tananao."
+  }
 }

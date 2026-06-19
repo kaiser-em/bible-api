@@ -1,93 +1,28 @@
 {
+  "book": "Genesisy",
   "chapter": 28,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Isaka niantso an' i Jakoba ka nitsodrano azy, ary nandidy azy ka nanao taminy hoe: Aza maka vady avy amin' ny zanakavavin' i Kanana ianao."
-    },
-    {
-      "v": 2,
-      "text": "\"Miaingà ka mankanesa any Padan-arama, any amin' ny tranon' i Betoela rain-dreninao; dia makà vady any, avy amin' ny zanakavavin' i Labana anadahin-dreninao.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary Andriamanitra Tsitoha anie hitahy anao ka hahamaro fara anao sy hampitombo anao, mba ho tonga firenena maro ianao;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary homeny anao ny fitahiana an' i Abrahama, dia ianao, sy ny taranakao miaraka aminao; mba handovanao ny tany izay hivahinianao, izay nomen' Andriamanitra an' i Abrahama.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary Isaka nampandeha an' i Jakoba, ka nankany Padan-arama izy tany amin' i Labana zanak' i Betoela Syriana, anadahin-dRebeka, renin' i Jakoba sy Esao."
-    },
-    {
-      "v": 6,
-      "text": "\"Nony hitan' i Esao fa Isaka efa nitsodrano an' i Jakoba, ka nampandeha azy ho any Padan-arama, haka vady any; ary raha nitsodrano azy izy dia nandidy azy hoe: Aza maka vady avy amin' ny zanakavavin' i Kanana ianao;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary nankatò ny rainy sy ny reniny Jakoba ka lasa nankany Padan-arama;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary raha hitan' i Esao fa tsy nankasitrahan' Isaka rainy ny zanakavavin' i Kanana;\""
-    },
-    {
-      "v": 9,
-      "text": "Dia nankany amin' Isimaela i Esao ka naka an' i Mahalota zanakavavin' Isimaela, zanakalahin' i Abrahama, sady anabavin' i Nebaiota ho vadiny, ho fanampin' ireo vadiny izay efa nananany."
-    },
-    {
-      "v": 10,
-      "text": "Dia nivoaka avy tany Beri-sheba i Jakoba ka nankany Harana."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary tojo toerana iray izy ka nitoetra teo niloaka alina, satria efa maty ny masoandro; dia naka vato tamin' izany toerana izany izy, ka nataony ondana ary nandry tamin' izany toerana izany izy mba hatory.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary nanonofy izy, fa indro, nisy tohatra niorina tamin' ny tany, ka nipaka tamin' ny lanitra ny lohany; ary indreo, niakatra sy nidina teo ny anjelin' Andriamanitra.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary indro, nitsangana teo amboniny Jehovah ka nanao hoe: Izaho no Jehovah, Andriamanitr' i Abrahama rainao, sy Andriamanitr' Isaka; ny tany izay andrianao dia homeko anao sy ny taranakao;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary ho tahaka ny vovoka amin' ny tany ny taranakao, dia hiely any andrefana sy any atsinanana ary any avaratra sy any atsimo ianao; ary aminao sy ny taranakao no hitahiana ny ankohonana rehetra ambonin' ny tany.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary, indro, momba anao Aho ka hiaro anao amin' ny toerana rehetra izay halehanao, ary hampody anao indray ho amin' ity tany ity; fa tsy handao anao Aho mandra-panaoko izay voalazako taminao.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary nahatsiaro tamin' ny torimasony Jakoba, dia nanao hoe: Ato amin' ity fitoerana ity tokoa Jehovah fa izaho no tsy nahalala."
-    },
-    {
-      "v": 17,
-      "text": "Ary natahotra izy, ka nanao hoe: Mahatahotra ity toerana ity! Tsy hafa ity fa tranon' Andriamanitra, ary ity no vavahadin' ny lanitra."
-    },
-    {
-      "v": 18,
-      "text": "Ary nifoha maraina koa Jakoba, dia naka ilay vato izay efa nataony ondana ka nanangana azy ho tsangambato, dia nampidina diloilo teo amboniny."
-    },
-    {
-      "v": 19,
-      "text": "Ary ny anaran' izany toerana izany dia nataony hoe: Betela, fa Lozy no anaran' izany tanàna izany tany aloha."
-    },
-    {
-      "v": 20,
-      "text": "Dia nivoady Jakoba ka nanao hoe: Raha homba ahy Andriamanitra ka hiaro ahy amin' izao lalana alehako izao, ary hanome ahy mofo hohaniko sy lamba hitafiako,"
-    },
-    {
-      "v": 21,
-      "text": "Ka ho tafaverina soa aman-tsara any amin' ny tranon' ny raiko aho, dia Jehovah no ho Andriamanitro,"
-    },
-    {
-      "v": 22,
-      "text": "\"Ary ity vato izay naoriko ho tsangambato ity ho tranon' Andriamanitra; ary amin' izay rehetra homenao ahy, dia homeko Anao tokoa ny ampahafolony.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary Isaka niantso an' i Jakoba ka nitsodrano azy, ary nandidy azy ka nanao taminy hoe: Aza maka vady avy amin' ny zanakavavin' i Kanana ianao.",
+    "2": "Miaingà ka mankanesa any Padan-arama, any amin' ny tranon' i Betoela rain-dreninao; dia makà vady any, avy amin' ny zanakavavin' i Labana anadahin-dreninao.",
+    "3": "Ary Andriamanitra Tsitoha anie hitahy anao ka hahamaro fara anao sy hampitombo anao, mba ho tonga firenena maro ianao;",
+    "4": "Ary homeny anao ny fitahiana an' i Abrahama, dia ianao, sy ny taranakao miaraka aminao; mba handovanao ny tany izay hivahinianao, izay nomen' Andriamanitra an' i Abrahama.",
+    "5": "Ary Isaka nampandeha an' i Jakoba, ka nankany Padan-arama izy tany amin' i Labana zanak' i Betoela Syriana, anadahin-dRebeka, renin' i Jakoba sy Esao.",
+    "6": "Nony hitan' i Esao fa Isaka efa nitsodrano an' i Jakoba, ka nampandeha azy ho any Padan-arama, haka vady any; ary raha nitsodrano azy izy dia nandidy azy hoe: Aza maka vady avy amin' ny zanakavavin' i Kanana ianao;",
+    "7": "Ary nankatò ny rainy sy ny reniny Jakoba ka lasa nankany Padan-arama;",
+    "8": "Ary raha hitan' i Esao fa tsy nankasitrahan' Isaka rainy ny zanakavavin' i Kanana;",
+    "9": "Dia nankany amin' Isimaela i Esao ka naka an' i Mahalota zanakavavin' Isimaela, zanakalahin' i Abrahama, sady anabavin' i Nebaiota ho vadiny, ho fanampin' ireo vadiny izay efa nananany.",
+    "10": "Dia nivoaka avy tany Beri-sheba i Jakoba ka nankany Harana.",
+    "11": "Ary tojo toerana iray izy ka nitoetra teo niloaka alina, satria efa maty ny masoandro; dia naka vato tamin' izany toerana izany izy, ka nataony ondana ary nandry tamin' izany toerana izany izy mba hatory.",
+    "12": "Ary nanonofy izy, fa indro, nisy tohatra niorina tamin' ny tany, ka nipaka tamin' ny lanitra ny lohany; ary indreo, niakatra sy nidina teo ny anjelin' Andriamanitra.",
+    "13": "Ary indro, nitsangana teo amboniny Jehovah ka nanao hoe: Izaho no Jehovah, Andriamanitr' i Abrahama rainao, sy Andriamanitr' Isaka; ny tany izay andrianao dia homeko anao sy ny taranakao;",
+    "14": "Ary ho tahaka ny vovoka amin' ny tany ny taranakao, dia hiely any andrefana sy any atsinanana ary any avaratra sy any atsimo ianao; ary aminao sy ny taranakao no hitahiana ny ankohonana rehetra ambonin' ny tany.",
+    "15": "Ary, indro, momba anao Aho ka hiaro anao amin' ny toerana rehetra izay halehanao, ary hampody anao indray ho amin' ity tany ity; fa tsy handao anao Aho mandra-panaoko izay voalazako taminao.",
+    "16": "Ary nahatsiaro tamin' ny torimasony Jakoba, dia nanao hoe: Ato amin' ity fitoerana ity tokoa Jehovah fa izaho no tsy nahalala.",
+    "17": "Ary natahotra izy, ka nanao hoe: Mahatahotra ity toerana ity! Tsy hafa ity fa tranon' Andriamanitra, ary ity no vavahadin' ny lanitra.",
+    "18": "Ary nifoha maraina koa Jakoba, dia naka ilay vato izay efa nataony ondana ka nanangana azy ho tsangambato, dia nampidina diloilo teo amboniny.",
+    "19": "Ary ny anaran' izany toerana izany dia nataony hoe: Betela, fa Lozy no anaran' izany tanàna izany tany aloha.",
+    "20": "Dia nivoady Jakoba ka nanao hoe: Raha homba ahy Andriamanitra ka hiaro ahy amin' izao lalana alehako izao, ary hanome ahy mofo hohaniko sy lamba hitafiako,",
+    "21": "Ka ho tafaverina soa aman-tsara any amin' ny tranon' ny raiko aho, dia Jehovah no ho Andriamanitro,",
+    "22": "Ary ity vato izay naoriko ho tsangambato ity ho tranon' Andriamanitra; ary amin' izay rehetra homenao ahy, dia homeko Anao tokoa ny ampahafolony."
+  }
 }

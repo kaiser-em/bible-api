@@ -1,61 +1,20 @@
 {
+  "book": "2 Tantara",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Toy izany no nahavitana ny asa rehetra nataon' i Solomona ho amin' ny tranon' i Jehovah; ary nampidirin' i Solomona ny zavatra rehetra izay efa nohamasin' i Davida rainy, dia ny volafotsy sy ny volamena; ary ny fanaka rehetra dia nataony tao amin' ny rakitry ny tranon' Andriamanitra.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary tamin' izany dia novorin' i Solomona ny loholon' ny Isiraely sy ny lehiben' ny foko rehetra, dia ny lohan' ny fianakavian' ny Zanak' Isiraely, ho any Jerosalema hampakatra ny fiaran' ny faneken' i Jehovah avy tany Ziona, Tanànan' i Davida."
-    },
-    {
-      "v": 3,
-      "text": "Dia nivory ho any amin' ny mpanjaka ny lehilahy rehetra amin' ny Isiraely tamin' ny andro firavoravoana tamin' ny volana fahafito."
-    },
-    {
-      "v": 4,
-      "text": "Ary tonga ny loholon' ny Isiraely rehetra, ka ny Levita no nitondra ny fiara."
-    },
-    {
-      "v": 5,
-      "text": "Dia nampakariny ny fiara sy ny tranolay fihaonana ary ny fanaka masina rehetra izay tao amin' ny tabernakely. ireo no nampakarin' ny Levita sy ny mpisorona."
-    },
-    {
-      "v": 6,
-      "text": "Ary Solomona mpanjaka koa sy ny fiangonan' ny Isiraely rehetra izay nivory teo aminy teo anoloan' ny fiara, dia nanao fanatitra ondry sy omby izay tsy tambo isaina sady tsy hita isa noho ny hamaroany."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary ny fiaran' ny faneken' i Jehovah dia nampidirin' ny mpisorona ho ao amin' ny fitoerany tao anatin' ny efitrano anatiny, dia ny fitoerana masina indrindra, teo ambanin' ny elatry ny kerobima;\""
-    },
-    {
-      "v": 8,
-      "text": "Fa nivelatra tambonin' ny fiara ny elatry ny kerobima ka nanaloka ny fiara sy ny baony."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary lava ny bao, ka hita ny lohany, raha eo amin' ny fiara eo anoloan' ny efitra anatiny, nefa tsy hita eny ivelany; ary mbola ao mandraka androany izy.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary tsy nisy na inona na inona tao anatin' ny fiara afa-tsy ny vato fisaka roa ihany izay nataon' i Mosesy tao anatiny fony tany Horeba, tamin' i Jehovah nanao fanekena tamin' ny Zanak' Isiraely, tamin' ny nivoahany avy tany Egypta."
-    },
-    {
-      "v": 11,
-      "text": "Ary izao no niseho, nony nivoaka avy tao amin' ny fitoerana masina ny mpisorona (fa ny mpisorona rehetra izay teo dia efa nanamasina ny tenany, fa tsy mba nifandimby isan-toko tamin' izay:"
-    },
-    {
-      "v": 12,
-      "text": "\"Ary ny Levita koa izay mpihira, izay rehetra avy amin' i Asafa sy Hemana sy Jedotona mbamin' ny zanany sy ny rahalahiny izay nitafy hariry madinika fotsy sady nitondra kipantsona sy valiha ary harpa, dia nitsangana teo an-tsisiny atsinanan' ny alitara, ary niaraka taminy dia nisy mpisorona roapolo amby zato nitsoka trompetra);\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary izao no niseho, efa toy ny feo iray no fandrenesana ny mpitsoka trompetra sy ny fiderana sy ny fisaorana an' i Jehovah; ka nony nanandratra ny feony niaraka tamin' ny trompetra sy ny kipantsona sy ny zava-maneno izy, ka nidera an' i Jehovah nanao hoe: fa tsara Izy, fa mandrakizay ny famindrampony, dia feno rahona ny trano tamin' izay, dia ny tranon' i Jehovah.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Koa tsy nahajanona hanao ny asa fanompoana ny mpisorona noho ny rahona; fa nameno ny tranon' Andriamanitra ny voninahitr' i Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "Toy izany no nahavitana ny asa rehetra nataon' i Solomona ho amin' ny tranon' i Jehovah; ary nampidirin' i Solomona ny zavatra rehetra izay efa nohamasin' i Davida rainy, dia ny volafotsy sy ny volamena; ary ny fanaka rehetra dia nataony tao amin' ny rakitry ny tranon' Andriamanitra.",
+    "2": "Ary tamin' izany dia novorin' i Solomona ny loholon' ny Isiraely sy ny lehiben' ny foko rehetra, dia ny lohan' ny fianakavian' ny Zanak' Isiraely, ho any Jerosalema hampakatra ny fiaran' ny faneken' i Jehovah avy tany Ziona, Tanànan' i Davida.",
+    "3": "Dia nivory ho any amin' ny mpanjaka ny lehilahy rehetra amin' ny Isiraely tamin' ny andro firavoravoana tamin' ny volana fahafito.",
+    "4": "Ary tonga ny loholon' ny Isiraely rehetra, ka ny Levita no nitondra ny fiara.",
+    "5": "Dia nampakariny ny fiara sy ny tranolay fihaonana ary ny fanaka masina rehetra izay tao amin' ny tabernakely. ireo no nampakarin' ny Levita sy ny mpisorona.",
+    "6": "Ary Solomona mpanjaka koa sy ny fiangonan' ny Isiraely rehetra izay nivory teo aminy teo anoloan' ny fiara, dia nanao fanatitra ondry sy omby izay tsy tambo isaina sady tsy hita isa noho ny hamaroany.",
+    "7": "Ary ny fiaran' ny faneken' i Jehovah dia nampidirin' ny mpisorona ho ao amin' ny fitoerany tao anatin' ny efitrano anatiny, dia ny fitoerana masina indrindra, teo ambanin' ny elatry ny kerobima;",
+    "8": "Fa nivelatra tambonin' ny fiara ny elatry ny kerobima ka nanaloka ny fiara sy ny baony.",
+    "9": "Ary lava ny bao, ka hita ny lohany, raha eo amin' ny fiara eo anoloan' ny efitra anatiny, nefa tsy hita eny ivelany; ary mbola ao mandraka androany izy.",
+    "10": "Ary tsy nisy na inona na inona tao anatin' ny fiara afa-tsy ny vato fisaka roa ihany izay nataon' i Mosesy tao anatiny fony tany Horeba, tamin' i Jehovah nanao fanekena tamin' ny Zanak' Isiraely, tamin' ny nivoahany avy tany Egypta.",
+    "11": "Ary izao no niseho, nony nivoaka avy tao amin' ny fitoerana masina ny mpisorona (fa ny mpisorona rehetra izay teo dia efa nanamasina ny tenany, fa tsy mba nifandimby isan-toko tamin' izay:",
+    "12": "Ary ny Levita koa izay mpihira, izay rehetra avy amin' i Asafa sy Hemana sy Jedotona mbamin' ny zanany sy ny rahalahiny izay nitafy hariry madinika fotsy sady nitondra kipantsona sy valiha ary harpa, dia nitsangana teo an-tsisiny atsinanan' ny alitara, ary niaraka taminy dia nisy mpisorona roapolo amby zato nitsoka trompetra);",
+    "13": "Ary izao no niseho, efa toy ny feo iray no fandrenesana ny mpitsoka trompetra sy ny fiderana sy ny fisaorana an' i Jehovah; ka nony nanandratra ny feony niaraka tamin' ny trompetra sy ny kipantsona sy ny zava-maneno izy, ka nidera an' i Jehovah nanao hoe: fa tsara Izy, fa mandrakizay ny famindrampony, dia feno rahona ny trano tamin' izay, dia ny tranon' i Jehovah.",
+    "14": "Koa tsy nahajanona hanao ny asa fanompoana ny mpisorona noho ny rahona; fa nameno ny tranon' Andriamanitra ny voninahitr' i Jehovah."
+  }
 }

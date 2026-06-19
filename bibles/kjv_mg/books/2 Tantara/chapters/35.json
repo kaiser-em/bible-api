@@ -1,113 +1,33 @@
 {
+  "book": "2 Tantara",
   "chapter": 35,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary Josia koa dia nitandrina ny Paska tany Jerosalema ho an' i Jehovah; dia namono ny Paska ny olona tamin' ny andro fahefatra ambin' ny folo tamin' ny volana voalohany.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary Josia nanendry ny mpisorona ho amin' ny anjara raharahany avy ka nampirisika azy hanao ny fanompoana ao an-tranon' i Jehovah."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary hoy izy tamin' ny Levita izay nampianatra ny Isiraely rehetra, izay efa masina ho an' i Jehovah: Apetraho ao an-trano nataon' i Solomona, zanak' i Davida, mpanjakan' ny Isiraely ny fiara masina; tsy ho entana eo an-tsorokareo intsony izany, koa ankehitriny, manompoa an' i Jehovah Andriamanitrareo sy ny Isiraely olony;\""
-    },
-    {
-      "v": 4,
-      "text": "Ary miomàna araka ny fianakavianareo avy ianareo, dia araka ny antokonareo, araka izay voasoratr' i Davida, mpanjakan' ny Isiraely sy araka ny voasoratr' i Solomona zanany."
-    },
-    {
-      "v": 5,
-      "text": "Ary mitsangàna eo amin' ny fitoerana masina araka ny fizaran' ny fianakavian' ny rahalahinareo amin' ny vahoaka sy araka ny fizaran' ny fianakavian' ny Levita."
-    },
-    {
-      "v": 6,
-      "text": "Dia vonoy ny Paska, sady hamasino ny tenanareo, omàny ny rahalahinareo mba hanaovany araka ny tenin' i Jehovah izay nomeny an' i Mosesy."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary nanomezan' i Josia ny vahoaka rehetra izay vory teo ny biby fiompiny, dia zanak' ondry sy zanak' osy, dia fanatitra ho an' ny Paska ireo rehetra ireo, ho an' ireo rehetra nanatrika, telo alina no isany, sy omby telo arivo; avy tamin' ny fananan' ny mpanjaka ireo.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary ireo mpanapany nanome an-tsitrapo ho an' ny olona sy ho an' ny mpisorona sy ny Levita. Ary Hilkia sy Zakaria sy Jehiela, mpanapaka ny tranon' Andriamanitra nanome zanak' omby eninjato amby roa arivo ho an' ny mpisorona hatao fanatitra ho an' ny Paska ary omby telonjato."
-    },
-    {
-      "v": 9,
-      "text": "Ary Konania koa sy Semaia sy Netanela rahalahiny ary Hasabia sy Jeiela sy Jozabada, lehiben' ny Levita nanome ho an' ny Levita, ho fanatitra ho an' ny Paska, zanak' omby dimy arivo ary omby dimanjato."
-    },
-    {
-      "v": 10,
-      "text": "Koa dia vonona ny fanompoana, ary ny mpisorona nitsangana teo amin' ny fitoerany avy, ary ny Levita araka ny antokony avy, araka ny didin' ny mpanjaka."
-    },
-    {
-      "v": 11,
-      "text": "Dia novonoin' ny olona ny Paska, ary natopin' ny mpisorona ny rà teny an-tanany, dia vao nohodiran' ny Levita kosa."
-    },
-    {
-      "v": 12,
-      "text": "Ary natokany ny fanatitra dorana homeny ny olona araka ny fizaran' ny fianakaviany mba hateriny ho an' i Jehovah araka izay voasoratra ao amin' ny bokin' i Mosesy. Ary toy izany koa no nataony tamin' ny omby."
-    },
-    {
-      "v": 13,
-      "text": "Ary natsatsiny tamin' ny afo ny Paska araka ny lalàna, fa ny fanatitra masina hafa kosa nandrahoiny tao anaty vilany sy vilanibe ary kasiteronina, dia nozarainy faingana tamin' ny olona rehetra izany."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary rehefa afaka izany, dia namboatra ho an' ny tenany sy ny mpisorona izy; fa ny mpisorona, taranak' i Arona, dia sahirana nanolotra ny fanatitra dorana sy ny saborany mandra-pahalin' ny andro; koa ny Levita no namboatra ny Paska ho an' ny tenany sy ny mpisorona taranak' i Arona.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ny mpihira taranak' i Asafa, nitoetra teo amin' ny fitoerany, araka ny didin' i Davida sy Asafa sy Hemana ary Jedotona, mpahitan' ny mpanjaka, ary ny mpiandry varavarana dia teo amin' ny isam-bavahady; fa tsy afaka niala tamin' ny fanompoany ireo, ka ny Levita rahalahiny no nanamboatra ho azy.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary dia vonona androtrizay avokoa ny fanompoana rehetra ho an' i Jehovah amin' ny fitandremana ny Paska sy ny hanaterana ny fanatitra dorana eo ambonin' ny alitaran' i Jehovah araka ny didin' i Josia mpanjaka."
-    },
-    {
-      "v": 17,
-      "text": "Ary ny Zanak' Isiraely izay vory teo dia nitandrina ny Paska tamin' izany fotoana izany sy ny andro firavoravoana hafitoana fihinanana ny mofo tsy misy lalivay."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary tsy nisy Paska notandremana toy izany teo amin' ny Isiraely hatramin' ny andron' i Samoela mpaminany; ary tsy nisy mpanjaka teo amin' ny Isiraely nitandrina ny Paska tahaka ny nitandreman' i Josia azy, sy ny mpisorona sy ny Levita sy ny Joda rehetra sy ny Isiraely izay vory teo ary ny mponina tany Jerosalema.\""
-    },
-    {
-      "v": 19,
-      "text": "Tamin' ny taona fahavalo ambin' ny folo nanjakan' i Josia no nitandremana izany Paska izany."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary rehefa afaka izany rehetra izany, nony efa namboarin' i Josia ny tempoly, dia niakatra Neko, mpanjakan' i Egypta, hiady tany Karkemisy eo amoron' i Eofrata; ary Josia nivoaka hiady aminy.\""
-    },
-    {
-      "v": 21,
-      "text": "Fa Neko nandefa iraka ho any aminy nanao hoe: Moa mifaninona akory izaho sy ianao, ry mpanjakan' ny Joda? Tsy ady aminao izao anio izao, fa amin' ny fahavaloko, sady nasain' Andriamanitra handeha faingana aho, koa aza manohitra an' Andriamanitra Izay momba ahy, fandrao matiny ianao."
-    },
-    {
-      "v": 22,
-      "text": "Fa Josia tsy nety nihodina niala taminy fa nody olon-kafa mba hiady taminy ka tsy nety nihaino ny tenin' i Neko, izay nampilazain' Andriamanitra azy, fa nandeha hiady taminy teo amin' ny lohasahan' i Megido."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary ny mpandefa tsipìka nahavoa an' i Josia mpanjaka; dia hoy ny mpanjaka tamin' ny mpanompony: Ento miala eto aho fa maratra mafy.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Dia nesorin' ny mpanompony tamin' izany kalesy izany izy, ka napetrany teo amin' ny kalesiny faharoa ary nentiny ho any Jerosalema; dia maty izy ka nalevina tao amin' ny iray amin' ny fasan-drazany. Ary ny Joda sy Jerosalema rehetra nisaona an' i Josia.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ary Jeremia dia nitomany an' i Josia; ary ny mpihiralahy sy ny mpihiravavy rehetra dia nilaza ny amin' i Josia ao amin' ny fitomaniany mandraka androany, ka natao lalàna teo amin' ny Isiraely izany; ary, indro, efa voasoratra ao amin' ny fitomaniana izany.\""
-    },
-    {
-      "v": 26,
-      "text": "Koa ny asan' i Josia sisa mbamin' ny soa nataony, araka izay efa voasoratra ao amin' ny lalàn' i Jehovah,"
-    },
-    {
-      "v": 27,
-      "text": "Ary ny asany voalohany sy ny farany, indreo, efa voasoratra ao amin' ny bokin' ny mpanjakan' ny Isiraely sy ny Joda ireo."
-    }
-  ]
+  "verses": {
+    "1": "Ary Josia koa dia nitandrina ny Paska tany Jerosalema ho an' i Jehovah; dia namono ny Paska ny olona tamin' ny andro fahefatra ambin' ny folo tamin' ny volana voalohany.",
+    "2": "Ary Josia nanendry ny mpisorona ho amin' ny anjara raharahany avy ka nampirisika azy hanao ny fanompoana ao an-tranon' i Jehovah.",
+    "3": "Ary hoy izy tamin' ny Levita izay nampianatra ny Isiraely rehetra, izay efa masina ho an' i Jehovah: Apetraho ao an-trano nataon' i Solomona, zanak' i Davida, mpanjakan' ny Isiraely ny fiara masina; tsy ho entana eo an-tsorokareo intsony izany, koa ankehitriny, manompoa an' i Jehovah Andriamanitrareo sy ny Isiraely olony;",
+    "4": "Ary miomàna araka ny fianakavianareo avy ianareo, dia araka ny antokonareo, araka izay voasoratr' i Davida, mpanjakan' ny Isiraely sy araka ny voasoratr' i Solomona zanany.",
+    "5": "Ary mitsangàna eo amin' ny fitoerana masina araka ny fizaran' ny fianakavian' ny rahalahinareo amin' ny vahoaka sy araka ny fizaran' ny fianakavian' ny Levita.",
+    "6": "Dia vonoy ny Paska, sady hamasino ny tenanareo, omàny ny rahalahinareo mba hanaovany araka ny tenin' i Jehovah izay nomeny an' i Mosesy.",
+    "7": "Ary nanomezan' i Josia ny vahoaka rehetra izay vory teo ny biby fiompiny, dia zanak' ondry sy zanak' osy, dia fanatitra ho an' ny Paska ireo rehetra ireo, ho an' ireo rehetra nanatrika, telo alina no isany, sy omby telo arivo; avy tamin' ny fananan' ny mpanjaka ireo.",
+    "8": "Ary ireo mpanapany nanome an-tsitrapo ho an' ny olona sy ho an' ny mpisorona sy ny Levita. Ary Hilkia sy Zakaria sy Jehiela, mpanapaka ny tranon' Andriamanitra nanome zanak' omby eninjato amby roa arivo ho an' ny mpisorona hatao fanatitra ho an' ny Paska ary omby telonjato.",
+    "9": "Ary Konania koa sy Semaia sy Netanela rahalahiny ary Hasabia sy Jeiela sy Jozabada, lehiben' ny Levita nanome ho an' ny Levita, ho fanatitra ho an' ny Paska, zanak' omby dimy arivo ary omby dimanjato.",
+    "10": "Koa dia vonona ny fanompoana, ary ny mpisorona nitsangana teo amin' ny fitoerany avy, ary ny Levita araka ny antokony avy, araka ny didin' ny mpanjaka.",
+    "11": "Dia novonoin' ny olona ny Paska, ary natopin' ny mpisorona ny rà teny an-tanany, dia vao nohodiran' ny Levita kosa.",
+    "12": "Ary natokany ny fanatitra dorana homeny ny olona araka ny fizaran' ny fianakaviany mba hateriny ho an' i Jehovah araka izay voasoratra ao amin' ny bokin' i Mosesy. Ary toy izany koa no nataony tamin' ny omby.",
+    "13": "Ary natsatsiny tamin' ny afo ny Paska araka ny lalàna, fa ny fanatitra masina hafa kosa nandrahoiny tao anaty vilany sy vilanibe ary kasiteronina, dia nozarainy faingana tamin' ny olona rehetra izany.",
+    "14": "Ary rehefa afaka izany, dia namboatra ho an' ny tenany sy ny mpisorona izy; fa ny mpisorona, taranak' i Arona, dia sahirana nanolotra ny fanatitra dorana sy ny saborany mandra-pahalin' ny andro; koa ny Levita no namboatra ny Paska ho an' ny tenany sy ny mpisorona taranak' i Arona.",
+    "15": "Ary ny mpihira taranak' i Asafa, nitoetra teo amin' ny fitoerany, araka ny didin' i Davida sy Asafa sy Hemana ary Jedotona, mpahitan' ny mpanjaka, ary ny mpiandry varavarana dia teo amin' ny isam-bavahady; fa tsy afaka niala tamin' ny fanompoany ireo, ka ny Levita rahalahiny no nanamboatra ho azy.",
+    "16": "Ary dia vonona androtrizay avokoa ny fanompoana rehetra ho an' i Jehovah amin' ny fitandremana ny Paska sy ny hanaterana ny fanatitra dorana eo ambonin' ny alitaran' i Jehovah araka ny didin' i Josia mpanjaka.",
+    "17": "Ary ny Zanak' Isiraely izay vory teo dia nitandrina ny Paska tamin' izany fotoana izany sy ny andro firavoravoana hafitoana fihinanana ny mofo tsy misy lalivay.",
+    "18": "Ary tsy nisy Paska notandremana toy izany teo amin' ny Isiraely hatramin' ny andron' i Samoela mpaminany; ary tsy nisy mpanjaka teo amin' ny Isiraely nitandrina ny Paska tahaka ny nitandreman' i Josia azy, sy ny mpisorona sy ny Levita sy ny Joda rehetra sy ny Isiraely izay vory teo ary ny mponina tany Jerosalema.",
+    "19": "Tamin' ny taona fahavalo ambin' ny folo nanjakan' i Josia no nitandremana izany Paska izany.",
+    "20": "Ary rehefa afaka izany rehetra izany, nony efa namboarin' i Josia ny tempoly, dia niakatra Neko, mpanjakan' i Egypta, hiady tany Karkemisy eo amoron' i Eofrata; ary Josia nivoaka hiady aminy.",
+    "21": "Fa Neko nandefa iraka ho any aminy nanao hoe: Moa mifaninona akory izaho sy ianao, ry mpanjakan' ny Joda? Tsy ady aminao izao anio izao, fa amin' ny fahavaloko, sady nasain' Andriamanitra handeha faingana aho, koa aza manohitra an' Andriamanitra Izay momba ahy, fandrao matiny ianao.",
+    "22": "Fa Josia tsy nety nihodina niala taminy fa nody olon-kafa mba hiady taminy ka tsy nety nihaino ny tenin' i Neko, izay nampilazain' Andriamanitra azy, fa nandeha hiady taminy teo amin' ny lohasahan' i Megido.",
+    "23": "Ary ny mpandefa tsipìka nahavoa an' i Josia mpanjaka; dia hoy ny mpanjaka tamin' ny mpanompony: Ento miala eto aho fa maratra mafy.",
+    "24": "Dia nesorin' ny mpanompony tamin' izany kalesy izany izy, ka napetrany teo amin' ny kalesiny faharoa ary nentiny ho any Jerosalema; dia maty izy ka nalevina tao amin' ny iray amin' ny fasan-drazany. Ary ny Joda sy Jerosalema rehetra nisaona an' i Josia.",
+    "25": "Ary Jeremia dia nitomany an' i Josia; ary ny mpihiralahy sy ny mpihiravavy rehetra dia nilaza ny amin' i Josia ao amin' ny fitomaniany mandraka androany, ka natao lalàna teo amin' ny Isiraely izany; ary, indro, efa voasoratra ao amin' ny fitomaniana izany.",
+    "26": "Koa ny asan' i Josia sisa mbamin' ny soa nataony, araka izay efa voasoratra ao amin' ny lalàn' i Jehovah,",
+    "27": "Ary ny asany voalohany sy ny farany, indreo, efa voasoratra ao amin' ny bokin' ny mpanjakan' ny Isiraely sy ny Joda ireo."
+  }
 }

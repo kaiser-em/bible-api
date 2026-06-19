@@ -1,121 +1,35 @@
 {
+  "book": "Isaia",
   "chapter": 28,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Lozan' ny satroboninahitry ny fiavonavonana sy ny mpimamon' i Efraima, ka ny fahatsaran-tarehy feno voninahitra dia voninkazo mihamalazo izay eo an-dohan' ny lohasaha lonaky ny fileon-divay."
-    },
-    {
-      "v": 2,
-      "text": "\"Indro, ny Tompo manana izay mahery sady matanjaka, tahaka ny rivo-kavandra sy ny tafio-drivotra mandoza; koa tahaka ny fandriaky ny rano be manafotra no hanjerany azy mafy ho amin' ny tany.\""
-    },
-    {
-      "v": 3,
-      "text": "Ny satroboninahitry ny fiavonavonana, ny mpimamon' i Efraima, dia hohitsahin' ny tongotra."
-    },
-    {
-      "v": 4,
-      "text": "Ary ny fahatsaran-tarehy izay eo an-dohan' ny lohasaha lonaka, dia ho voninkazo malazo, ary toy ny voan' ny aviavy mialin-taona raha tsy mbola tonga ny fahavaratra, koa izay mahita azy dia mijery, ary raha vao raisiny dia arapany."
-    },
-    {
-      "v": 5,
-      "text": "Ary amin' izany andro izany Jehovah, Tompon' ny maro, dia ho satroboninahitra tsara tarehy sy ho fehiloha firavaka ho an' ny olony sisa,"
-    },
-    {
-      "v": 6,
-      "text": "Ary ho fanahy fitsarana ho an' izay mipetraka eo amin' ny fitsarana sy ho hery ho an' izay mampiverina ny ady hatreo am-bavahady."
-    },
-    {
-      "v": 7,
-      "text": "\"Nefa ireo koa dia miraingiraingy azon' ny divay ary mivembena azon' ny toaka; ny mpisorona sy ny mpaminany miraingiraingy azon' ny toaka; resin' ny divay ireo; mivembena azon' ny toaka izy; miraingiraingy amin' ny fahitana izy ary midoladola eo amin' ny fitsarana.\""
-    },
-    {
-      "v": 8,
-      "text": "Fa feno loa sy loto ny latabatra rehetra, ka efa tsy misy madio hitoerana."
-    },
-    {
-      "v": 9,
-      "text": "Iza no hampianariny fahalalana? Ary iza no hampahafantariny foto-pampianarana? Ireo izay vao notazana, sy izay vao nitsaha-nono."
-    },
-    {
-      "v": 10,
-      "text": "\"Fa didy anampy didy, didy anampy didy; fitsipika anampy fitsipika, fitsipika anampy fitsipika; kely ety, ary kely ery;\""
-    },
-    {
-      "v": 11,
-      "text": "Fa amin' ny molotra miambakambaka sy amin' ny lela hafa no hitenenany amin' ity firenena ity."
-    },
-    {
-      "v": 12,
-      "text": "\"Izy no nilazany hoe: Ity no fitsaharana izay hampitsaharanareo ny reraka; ary ity no famelombelomana, nefa tsy nety nihaino ireo.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ny tenin' i Jehovah dia ho tonga didy anampy didy aminy, eny didy anampy didy, fitsipika anampy fitsipika, fitsipika anampy fitsipika; kely ety, ary kely ery, mba hanaovany dia mianotra ka ho torotoro izy sy hofandrihana ary hosamborina.\""
-    },
-    {
-      "v": 14,
-      "text": "Koa mihainoa ny tenin' i Jehovah ianareo, ry mpaniratsira, izay manapaka ity firenena eto Jerosalema ity."
-    },
-    {
-      "v": 15,
-      "text": "Satria hoy ianareo hoe: Efa nanao fanekena tamin' ny fahafatesana izahay, ary efa nanao fifanarahana tamin' ny helo, ka na dia ho avy aza ny loza manafotra, dia tsy hihatra aminay izany, fa ny lainga no nataonay ho fiarovana, ary ny fitaka no nierenay."
-    },
-    {
-      "v": 16,
-      "text": "\"Noho izany, izao no lazain' i Jehovah Tompo: Indro, mametraka vato ho fanorenana ao Ziona Aho, dia vato voazaha toetra, vato fehizoro sarobidy, fanorenana azo antoka; ka tsy mba ho taitra izay mino.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ny fitsarana koa no hataoko ho fitsipika ary ny fahamarinana ho pilao; hopaohin' ny havandra ny lainga fiarovana, ary hindaosin' ny rano ny toerana fierena.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary hofoanana ny fanekenareo amin' ny fahafatesana, ary tsy haharitra ny fifanarahanareo amin' ny helo; raha ho avy ny loza manafotra, dia ho tonga fanitsakitsany ianareo.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ary na oviana na oviana no iaviany, dia hahatratra anareo izany; fa isa-maraina isa-maraina no iaviany, na andro na alina; ary ny vokatry ny fahafantarana izany fianarana izany dia fahoriana ihany.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Fa fohy loatra ny farafara ka tsy azon' ny olona ilamparana; ary kely ny firakotra ka tsy maharakotra, raha misy te-hirakotra azy.\""
-    },
-    {
-      "v": 21,
-      "text": "Fa Jehovah hitsangana tahaka ny teo amin' ny tendrombohitra Perazima, ho tezitra tahaka ny teo amin' ny lohasahan' i Gibeona Izy, mba hanaovany ny asany, dia ny asany mahagaga, ka hahavitany ny ataony, dia ny asany mahatalanjona."
-    },
-    {
-      "v": 22,
-      "text": "\"Koa dia aza maniratsira intsony ianareo, fandrao atao mafy ny famatorana anareo; fa fahafonganana voatendry no efa reko tamin' i Jehovah, Tompon' ny maro, hamelezana ny tany rehetra.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Mihainoa ianareo, ka mandrenesa ny feoko; mitandrema, ka mandrenesa ny teniko.\""
-    },
-    {
-      "v": 24,
-      "text": "Moa ny mpiasa tany va miasa mandritra ny andro mba hamafy? Na mitombo-doha sy mandravona ny taniny foana?"
-    },
-    {
-      "v": 25,
-      "text": "Rehefa voaravony tsara ny tany, moa tsy afafiny amin' izay va ny voan' ny nigela, ary tsy apariakany va ny komina, ary tsy alahany mitandahatra va ny vary tritika tsara indrindra sy ny vary hordea voafantina ary ny spelta eny amin' ny fitoerany?"
-    },
-    {
-      "v": 26,
-      "text": "Fa Andriamanitra no manoro azy izay mety hataony, eny, Izy no mampianatra azy."
-    },
-    {
-      "v": 27,
-      "text": "\"Fa tsy ny kodia vy no ivelezana ny nigela, ary tsy ny kodian' ny sarety no akodiadia amin' ny komina; fa ny nigela dia velezina amin' ny fàntaka, ary ny komina amin' ny tehina.\""
-    },
-    {
-      "v": 28,
-      "text": "Mongomongoina ny varimbazaha atao mofo. Tsy veleziny, na vakiany amin' ny kodiaran' ny saretiny na mongomongoiny amin' ny mpitaingin-tsoavaliny."
-    },
-    {
-      "v": 29,
-      "text": "Izany koa dia avy amin' i Jehovah, Tompon' ny maro, izay mahagaga amin' ny fisainana ary mahatalanjona amin' ny asa."
-    }
-  ]
+  "verses": {
+    "1": "Lozan' ny satroboninahitry ny fiavonavonana sy ny mpimamon' i Efraima, ka ny fahatsaran-tarehy feno voninahitra dia voninkazo mihamalazo izay eo an-dohan' ny lohasaha lonaky ny fileon-divay.",
+    "2": "Indro, ny Tompo manana izay mahery sady matanjaka, tahaka ny rivo-kavandra sy ny tafio-drivotra mandoza; koa tahaka ny fandriaky ny rano be manafotra no hanjerany azy mafy ho amin' ny tany.",
+    "3": "Ny satroboninahitry ny fiavonavonana, ny mpimamon' i Efraima, dia hohitsahin' ny tongotra.",
+    "4": "Ary ny fahatsaran-tarehy izay eo an-dohan' ny lohasaha lonaka, dia ho voninkazo malazo, ary toy ny voan' ny aviavy mialin-taona raha tsy mbola tonga ny fahavaratra, koa izay mahita azy dia mijery, ary raha vao raisiny dia arapany.",
+    "5": "Ary amin' izany andro izany Jehovah, Tompon' ny maro, dia ho satroboninahitra tsara tarehy sy ho fehiloha firavaka ho an' ny olony sisa,",
+    "6": "Ary ho fanahy fitsarana ho an' izay mipetraka eo amin' ny fitsarana sy ho hery ho an' izay mampiverina ny ady hatreo am-bavahady.",
+    "7": "Nefa ireo koa dia miraingiraingy azon' ny divay ary mivembena azon' ny toaka; ny mpisorona sy ny mpaminany miraingiraingy azon' ny toaka; resin' ny divay ireo; mivembena azon' ny toaka izy; miraingiraingy amin' ny fahitana izy ary midoladola eo amin' ny fitsarana.",
+    "8": "Fa feno loa sy loto ny latabatra rehetra, ka efa tsy misy madio hitoerana.",
+    "9": "Iza no hampianariny fahalalana? Ary iza no hampahafantariny foto-pampianarana? Ireo izay vao notazana, sy izay vao nitsaha-nono.",
+    "10": "Fa didy anampy didy, didy anampy didy; fitsipika anampy fitsipika, fitsipika anampy fitsipika; kely ety, ary kely ery;",
+    "11": "Fa amin' ny molotra miambakambaka sy amin' ny lela hafa no hitenenany amin' ity firenena ity.",
+    "12": "Izy no nilazany hoe: Ity no fitsaharana izay hampitsaharanareo ny reraka; ary ity no famelombelomana, nefa tsy nety nihaino ireo.",
+    "13": "Ary ny tenin' i Jehovah dia ho tonga didy anampy didy aminy, eny didy anampy didy, fitsipika anampy fitsipika, fitsipika anampy fitsipika; kely ety, ary kely ery, mba hanaovany dia mianotra ka ho torotoro izy sy hofandrihana ary hosamborina.",
+    "14": "Koa mihainoa ny tenin' i Jehovah ianareo, ry mpaniratsira, izay manapaka ity firenena eto Jerosalema ity.",
+    "15": "Satria hoy ianareo hoe: Efa nanao fanekena tamin' ny fahafatesana izahay, ary efa nanao fifanarahana tamin' ny helo, ka na dia ho avy aza ny loza manafotra, dia tsy hihatra aminay izany, fa ny lainga no nataonay ho fiarovana, ary ny fitaka no nierenay.",
+    "16": "Noho izany, izao no lazain' i Jehovah Tompo: Indro, mametraka vato ho fanorenana ao Ziona Aho, dia vato voazaha toetra, vato fehizoro sarobidy, fanorenana azo antoka; ka tsy mba ho taitra izay mino.",
+    "17": "Ny fitsarana koa no hataoko ho fitsipika ary ny fahamarinana ho pilao; hopaohin' ny havandra ny lainga fiarovana, ary hindaosin' ny rano ny toerana fierena.",
+    "18": "Ary hofoanana ny fanekenareo amin' ny fahafatesana, ary tsy haharitra ny fifanarahanareo amin' ny helo; raha ho avy ny loza manafotra, dia ho tonga fanitsakitsany ianareo.",
+    "19": "Ary na oviana na oviana no iaviany, dia hahatratra anareo izany; fa isa-maraina isa-maraina no iaviany, na andro na alina; ary ny vokatry ny fahafantarana izany fianarana izany dia fahoriana ihany.",
+    "20": "Fa fohy loatra ny farafara ka tsy azon' ny olona ilamparana; ary kely ny firakotra ka tsy maharakotra, raha misy te-hirakotra azy.",
+    "21": "Fa Jehovah hitsangana tahaka ny teo amin' ny tendrombohitra Perazima, ho tezitra tahaka ny teo amin' ny lohasahan' i Gibeona Izy, mba hanaovany ny asany, dia ny asany mahagaga, ka hahavitany ny ataony, dia ny asany mahatalanjona.",
+    "22": "Koa dia aza maniratsira intsony ianareo, fandrao atao mafy ny famatorana anareo; fa fahafonganana voatendry no efa reko tamin' i Jehovah, Tompon' ny maro, hamelezana ny tany rehetra.",
+    "23": "Mihainoa ianareo, ka mandrenesa ny feoko; mitandrema, ka mandrenesa ny teniko.",
+    "24": "Moa ny mpiasa tany va miasa mandritra ny andro mba hamafy? Na mitombo-doha sy mandravona ny taniny foana?",
+    "25": "Rehefa voaravony tsara ny tany, moa tsy afafiny amin' izay va ny voan' ny nigela, ary tsy apariakany va ny komina, ary tsy alahany mitandahatra va ny vary tritika tsara indrindra sy ny vary hordea voafantina ary ny spelta eny amin' ny fitoerany?",
+    "26": "Fa Andriamanitra no manoro azy izay mety hataony, eny, Izy no mampianatra azy.",
+    "27": "Fa tsy ny kodia vy no ivelezana ny nigela, ary tsy ny kodian' ny sarety no akodiadia amin' ny komina; fa ny nigela dia velezina amin' ny fàntaka, ary ny komina amin' ny tehina.",
+    "28": "Mongomongoina ny varimbazaha atao mofo. Tsy veleziny, na vakiany amin' ny kodiaran' ny saretiny na mongomongoiny amin' ny mpitaingin-tsoavaliny.",
+    "29": "Izany koa dia avy amin' i Jehovah, Tompon' ny maro, izay mahagaga amin' ny fisainana ary mahatalanjona amin' ny asa."
+  }
 }

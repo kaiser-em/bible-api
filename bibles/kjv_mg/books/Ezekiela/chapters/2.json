@@ -1,45 +1,16 @@
 {
+  "book": "Ezekiela",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary hoy izy tamiko: ry zanak' olona, mijoroa amin' ny tongotrao, fa hiteny aminao Aho."
-    },
-    {
-      "v": 2,
-      "text": "Ary ny fanahy niditra tao anatiko raha niteny tamiko Izy ka nampijoro ahy tamin' ny tongotro mba handrenesako ilay niteny tamiko."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary hoy Izy tamiko: Ry zanak' olona, naniraka anao ho amin' ny Zanak' isiraely aho, ho amin' ny firenena mpiodina izay efa niodina tamiko; izy sy ny razany efa nanota tamiko na dia mandraka androany aza.\""
-    },
-    {
-      "v": 4,
-      "text": "Fa zanaka mafy handrina sy madi-po izy.Koa maniraka anao ho aminy aho: ary ianao hanao aminy hoe: Izao no lazain' i Jehovah Tompo."
-    },
-    {
-      "v": 5,
-      "text": "Ary ireo, na hihaino izy na tsy hihaino (fa taranaka mpiodina izy), dia ho fantany fa efa nisy mpaminany teo aminy."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary ianao, ry zanak'olona, aza matahotra azy, ary aza matahotra ny teniny, na dia amiana sy tsilo aza no eo aminao, ary na dia eo amin' ny maingoka aza no ipetrahanao; aza matahotra ny teniny, ary aza mivadi-po noho ny fijeriny na dia taranaka mpiodina aza izy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary holazainao aminy ny teniko, na hihaino izy na tsy hihaino; fa tena mpiodina izy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Fa ianao kosa ry zanak' olona, henoy izay lazaiko anao, aza mpiodina toy izany taranaka mpiodina izany; sokafy ny vavanao ka hano izay omeko anao.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary rehefa nijery aho, indro nisy tanana nahinjitra tamiko; ary indro nisy horonam-boky teny aminy.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Dia novelariny teo anatrehako izany ary nisy soratra teo anatiny sy teo ivohony; ary fitomaniana sy fidradradradrana sy loza no voasoratra teo.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary hoy izy tamiko: ry zanak' olona, mijoroa amin' ny tongotrao, fa hiteny aminao Aho.",
+    "2": "Ary ny fanahy niditra tao anatiko raha niteny tamiko Izy ka nampijoro ahy tamin' ny tongotro mba handrenesako ilay niteny tamiko.",
+    "3": "Ary hoy Izy tamiko: Ry zanak' olona, naniraka anao ho amin' ny Zanak' isiraely aho, ho amin' ny firenena mpiodina izay efa niodina tamiko; izy sy ny razany efa nanota tamiko na dia mandraka androany aza.",
+    "4": "Fa zanaka mafy handrina sy madi-po izy.Koa maniraka anao ho aminy aho: ary ianao hanao aminy hoe: Izao no lazain' i Jehovah Tompo.",
+    "5": "Ary ireo, na hihaino izy na tsy hihaino (fa taranaka mpiodina izy), dia ho fantany fa efa nisy mpaminany teo aminy.",
+    "6": "Ary ianao, ry zanak'olona, aza matahotra azy, ary aza matahotra ny teniny, na dia amiana sy tsilo aza no eo aminao, ary na dia eo amin' ny maingoka aza no ipetrahanao; aza matahotra ny teniny, ary aza mivadi-po noho ny fijeriny na dia taranaka mpiodina aza izy.",
+    "7": "Ary holazainao aminy ny teniko, na hihaino izy na tsy hihaino; fa tena mpiodina izy.",
+    "8": "Fa ianao kosa ry zanak' olona, henoy izay lazaiko anao, aza mpiodina toy izany taranaka mpiodina izany; sokafy ny vavanao ka hano izay omeko anao.",
+    "9": "Ary rehefa nijery aho, indro nisy tanana nahinjitra tamiko; ary indro nisy horonam-boky teny aminy.",
+    "10": "Dia novelariny teo anatrehako izany ary nisy soratra teo anatiny sy teo ivohony; ary fitomaniana sy fidradradradrana sy loza no voasoratra teo."
+  }
 }

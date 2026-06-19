@@ -1,77 +1,24 @@
 {
+  "book": "Isaia",
   "chapter": 23,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Faminaniana ny amin' ny loza hanjo an' i Tyro. Midradradradrà ianareo, ry sambon' i Tarsisy! fa rava Tyro, ka tsy misy trano sady tsy misy fidirana intsony ao; avy tany amin' ny tany Kitima no nanambaràna izany taminy\""
-    },
-    {
-      "v": 2,
-      "text": "Mangìna ianareo mponina amin' ny nosy, ny mpandranto avy any Sidona izay mandeha eny ambonin' ny ranomasina no efa nameno anao."
-    },
-    {
-      "v": 3,
-      "text": "Ary teny amin' ny rano be ny voan' ny Sihora, ny vokatry ny renirano no hareny, ary tonga tsenan' ny firenena izy."
-    },
-    {
-      "v": 4,
-      "text": "\"Aoka ho menatra ianao, ry Sidona; fa ny ranomasina, dia ny fiarovana mafy ao an-dranomasina, dia niteny hoe: Tsy mbola nihetsi-jaza aho, na niteraka, tsy mbola nitaiza zatovo aho, na namelona virijina.\""
-    },
-    {
-      "v": 5,
-      "text": "Tahaka ny tamin' ny filazana an' i Egypta dia ho toran-kovitra izy noho ny nanjo an' i Tyro."
-    },
-    {
-      "v": 6,
-      "text": "\"Mità ho any Tarsisy ianareo; midradradradrà ianareo, ry mponin' ny nosy.\""
-    },
-    {
-      "v": 7,
-      "text": "Izao va ilay tanànanao miravoravo, izay efa naorina hatry ny fony fahagola? sady nentin' ny tongony hivahiny any lavitra any."
-    },
-    {
-      "v": 8,
-      "text": "Iza no nikasa izany hamelezana an' i Tyro, mpanome satroboninahitra, izany? Mpanapaka ny mpandrantony, olo-malaza amin' ny tany ny mpivarony."
-    },
-    {
-      "v": 9,
-      "text": "Jehovah, Tompon' ny maro no nikasa izany mba hampietreny ny fiavonavonan' ny voninahitra rehetra, sy hanalàny ny voninahitry ny olo-malaza rehetra amin' ny tany."
-    },
-    {
-      "v": 10,
-      "text": "Mandehana mamaky ny taninao tahaka ny renirano, ry zanakavavin' i Tarsisy: fa tsy misy hery intsony."
-    },
-    {
-      "v": 11,
-      "text": "\"Ny tanan' i Jehovah nahinjiny tambonin' ny ranomasina; nampihorohoroiny ny fanjakana; Jehovah no efa nandidy hanohitra ny tanàna mpivarotra, mba horavana ny fiarovany mafy.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary hoy Izy: Tsy hiravoravo intsony ianao, ry virijina ampahoriana, zanakavavin' i Sidona; mitsangàna, mità ho any Kitima; nefa koa tsy hahita fitsaharana akory ianao any.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Indro ny tanin' ny Kaldeana! tsy firenena akory izy fahiny, mandra-panorin' ny Asyriana azy ho an' izay monina any an' efitra; manao tilikambo izy, ary manangana lapa; ary dia noravany izany.\""
-    },
-    {
-      "v": 14,
-      "text": "Midradradradrà, ianareo, ry sambon' i Tarsisy, fa rava ny herinareo."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary izao no hiseho amin' izany andro izany, hohadinoina fitopolo taona Tyro, toy ny andron' ny mpanjaka iray; ary rehefa afaka fitopolo taona, Tyro dia hihira toy ny vehivavy janga.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Makà harpa, ka miveziveze eran' ny tanàna ianao, ry janga hadino; mitendre tsara, ka mahereza mivazovazo, mba hahatsiarovana anao.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary izao no hiseho, rehefa afaka ny fitopolo taona, Jehovah hamangy an' i Tyro, ka dia hiverina amin' ny filàn-tangy izy, ary hanao fahavetavetana amin' ny fanjakana rehetra manerana ny tany."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary ny varony sy ny tangy azony, dia hohamasinina ho an' i Jehovah; tsy hotehirizina, na horaketina izany; fa ny varony dia ho an' izay mitoetra eo anatrehan' i Jehovah, ho hanina mahavoky sy ho fitafiana mateza.\""
-    }
-  ]
+  "verses": {
+    "1": "Faminaniana ny amin' ny loza hanjo an' i Tyro. Midradradradrà ianareo, ry sambon' i Tarsisy! fa rava Tyro, ka tsy misy trano sady tsy misy fidirana intsony ao; avy tany amin' ny tany Kitima no nanambaràna izany taminy",
+    "2": "Mangìna ianareo mponina amin' ny nosy, ny mpandranto avy any Sidona izay mandeha eny ambonin' ny ranomasina no efa nameno anao.",
+    "3": "Ary teny amin' ny rano be ny voan' ny Sihora, ny vokatry ny renirano no hareny, ary tonga tsenan' ny firenena izy.",
+    "4": "Aoka ho menatra ianao, ry Sidona; fa ny ranomasina, dia ny fiarovana mafy ao an-dranomasina, dia niteny hoe: Tsy mbola nihetsi-jaza aho, na niteraka, tsy mbola nitaiza zatovo aho, na namelona virijina.",
+    "5": "Tahaka ny tamin' ny filazana an' i Egypta dia ho toran-kovitra izy noho ny nanjo an' i Tyro.",
+    "6": "Mità ho any Tarsisy ianareo; midradradradrà ianareo, ry mponin' ny nosy.",
+    "7": "Izao va ilay tanànanao miravoravo, izay efa naorina hatry ny fony fahagola? sady nentin' ny tongony hivahiny any lavitra any.",
+    "8": "Iza no nikasa izany hamelezana an' i Tyro, mpanome satroboninahitra, izany? Mpanapaka ny mpandrantony, olo-malaza amin' ny tany ny mpivarony.",
+    "9": "Jehovah, Tompon' ny maro no nikasa izany mba hampietreny ny fiavonavonan' ny voninahitra rehetra, sy hanalàny ny voninahitry ny olo-malaza rehetra amin' ny tany.",
+    "10": "Mandehana mamaky ny taninao tahaka ny renirano, ry zanakavavin' i Tarsisy: fa tsy misy hery intsony.",
+    "11": "Ny tanan' i Jehovah nahinjiny tambonin' ny ranomasina; nampihorohoroiny ny fanjakana; Jehovah no efa nandidy hanohitra ny tanàna mpivarotra, mba horavana ny fiarovany mafy.",
+    "12": "Ary hoy Izy: Tsy hiravoravo intsony ianao, ry virijina ampahoriana, zanakavavin' i Sidona; mitsangàna, mità ho any Kitima; nefa koa tsy hahita fitsaharana akory ianao any.",
+    "13": "Indro ny tanin' ny Kaldeana! tsy firenena akory izy fahiny, mandra-panorin' ny Asyriana azy ho an' izay monina any an' efitra; manao tilikambo izy, ary manangana lapa; ary dia noravany izany.",
+    "14": "Midradradradrà, ianareo, ry sambon' i Tarsisy, fa rava ny herinareo.",
+    "15": "Ary izao no hiseho amin' izany andro izany, hohadinoina fitopolo taona Tyro, toy ny andron' ny mpanjaka iray; ary rehefa afaka fitopolo taona, Tyro dia hihira toy ny vehivavy janga.",
+    "16": "Makà harpa, ka miveziveze eran' ny tanàna ianao, ry janga hadino; mitendre tsara, ka mahereza mivazovazo, mba hahatsiarovana anao.",
+    "17": "Ary izao no hiseho, rehefa afaka ny fitopolo taona, Jehovah hamangy an' i Tyro, ka dia hiverina amin' ny filàn-tangy izy, ary hanao fahavetavetana amin' ny fanjakana rehetra manerana ny tany.",
+    "18": "Ary ny varony sy ny tangy azony, dia hohamasinina ho an' i Jehovah; tsy hotehirizina, na horaketina izany; fa ny varony dia ho an' izay mitoetra eo anatrehan' i Jehovah, ho hanina mahavoky sy ho fitafiana mateza."
+  }
 }

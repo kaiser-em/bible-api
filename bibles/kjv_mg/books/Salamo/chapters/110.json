@@ -1,33 +1,13 @@
 {
+  "book": "Salamo",
   "chapter": 110,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Salamo nataon' i Davida.]  IZAO no lazain' i Jehovah amin' ny Tompoko: Mipetraha eo an-tanako ankavanana ambara-panaoko ny fahavalonao ho fitoeran-tongotrao."
-    },
-    {
-      "v": 2,
-      "text": "\"Ny tehin' ny herinao dia havoakan' i Jehovah ao Ziona; manapaha eo amin' ny fahavalonao Ianao.\""
-    },
-    {
-      "v": 3,
-      "text": "Ny olonao dia hazoto manolo-tena amin' ny andron' ny herinao, amin' ny fahatsaran' ny fahamasinana hatramin' ny andro vao maraina, dia manana ny andon' ny hatanoranao Ianao."
-    },
-    {
-      "v": 4,
-      "text": "Efa nianiana Jehovah ka tsy hanenina: Ianao no Mpisorona mandrakizay araka ny fanaon' i Melkizedeka."
-    },
-    {
-      "v": 5,
-      "text": "Ny Tompo eo ankavananao dia handripaka ny mpanjaka maro amin' ny andron' ny fahatezerany."
-    },
-    {
-      "v": 6,
-      "text": "\"Hitsara any amin' ny jentilisa Izy ka hampiampatrampatra faty any; handripaka filoha any amin' ny firenena maro Izy.\""
-    },
-    {
-      "v": 7,
-      "text": "Hisotro amin' ny ony any an-dalana Izy ka izany no hitrakan' ny lohany."
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida.]  IZAO no lazain' i Jehovah amin' ny Tompoko: Mipetraha eo an-tanako ankavanana ambara-panaoko ny fahavalonao ho fitoeran-tongotrao.",
+    "2": "Ny tehin' ny herinao dia havoakan' i Jehovah ao Ziona; manapaha eo amin' ny fahavalonao Ianao.",
+    "3": "Ny olonao dia hazoto manolo-tena amin' ny andron' ny herinao, amin' ny fahatsaran' ny fahamasinana hatramin' ny andro vao maraina, dia manana ny andon' ny hatanoranao Ianao.",
+    "4": "Efa nianiana Jehovah ka tsy hanenina: Ianao no Mpisorona mandrakizay araka ny fanaon' i Melkizedeka.",
+    "5": "Ny Tompo eo ankavananao dia handripaka ny mpanjaka maro amin' ny andron' ny fahatezerany.",
+    "6": "Hitsara any amin' ny jentilisa Izy ka hampiampatrampatra faty any; handripaka filoha any amin' ny firenena maro Izy.",
+    "7": "Hisotro amin' ny ony any an-dalana Izy ka izany no hitrakan' ny lohany."
+  }
 }

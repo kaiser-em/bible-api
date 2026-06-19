@@ -1,93 +1,28 @@
 {
+  "book": "Fitomaniana",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Indrisy!efa matromatroka ny volamena;efa niova ny tena volamena tsara! Ny vaton' ny fitoerana masina dia efa nahahany eny an-joron-dalambe rehetra eny.\""
-    },
-    {
-      "v": 2,
-      "text": "Indrisy! ny zanaka mahafinaritr' i Ziona, izay sarobidy tahaka ny tena volamena, dia efa atao ho toy ny siny tany, asan-tanan' ny mpanefy tanimanga!"
-    },
-    {
-      "v": 3,
-      "text": "\"Na dia ny biby goavana any an-dranomasina aza dia manolotra nono hampinonoany ny zanany; fa ny zanakavavin' ny oloko kosa dia efa tonga masiaka, toy ny ostritsa any an' efitra.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ny lelan' ny zaza minono miraikitra amin' ny lanilaniny noho ny hetaheta; ny ankizy madinika mangataka hanina, nefa tsy misy mizara ho azy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Izay nihinana zava-py dia ana eny an-dalambe; izay notezaina tamin' ny jaky dia mandamaka eny amin' ny zezika.\""
-    },
-    {
-      "v": 6,
-      "text": "Fa ny famaizana ny heloky ny zanakavavin' ny oloko dia lehibe noho ny famaizana ny helok' i Sodoma, izay noravana indray mipi-maso monja, nefa tsy nokasihin-tanana akory."
-    },
-    {
-      "v": 7,
-      "text": "\"Ny Naziritany dia nangatsakatsaka noho ny fanala, fotsy noho ny ronono izy; mena noho ny robia ny tenany; tahaka ny safira ny famirapiratry ny endriny.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Mainty noho ny arina ny tarehiny, ka tsy fantatra eny an-dalana izy; ny hodiny miraikitra amin' ny taolany, malazo izy ka tonga toy ny hazo.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Tsara ny matin-tsabatra noho ny maty mosary; fa ireto dia mihareraka toy ny voatrobaka noho ny tsy fisian' ny vokatry ny saha.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ny tanan' ny vehivavy malemy fanahy aza dia nahandro ny zanany; izany no nohaniny tamin' ny fandringanana ny zanakavavin' ny oloko.\""
-    },
-    {
-      "v": 11,
-      "text": "Notantanterahin' i Jehovah ny fahavinirany, naidiny ny fahatezerany mirehitra,ary nampirehitra afo tao Ziona Izy, ka nandevona ny fanorenany."
-    },
-    {
-      "v": 12,
-      "text": "Ny mpanjakan' ny tany sy ny mponina rehetra amin' izao tontolo izao dia tsy nino fa ny rafilahy sy ny fahavalo no ho tafiditra ao amin' ny vavahadin' i Jerosalema."
-    },
-    {
-      "v": 13,
-      "text": "Noho ny fahotan' ny mpaminaniny sy ny heloky ny mpisorony, izay nandatsaka ny ràn' ny marina tao aminy."
-    },
-    {
-      "v": 14,
-      "text": "Niraparapa toy ny jamba teny an-dalambe izy, sady nandoto ny tenany tamin' ny rà ka tsy nisy nahakasika ny akanjony."
-    },
-    {
-      "v": 15,
-      "text": "Ny olona niantsoantso azy hoe: Mialà ianareo, fa maloto, mialà, mialà, aza mikasika anay. Raha nandositra sy niraparapa izy, dia hoy ny olona tany amin' ny jentilisa: Tsy mahazo mivahiny aty intsony ireo."
-    },
-    {
-      "v": 16,
-      "text": "\"Ny fahatezeran' i Jehovah no nampizarazara azy, ary tsy hijery azy intsony Izy; ny mpisorona tsy hajain' ireny, ary ny loholona tsy hamindrany fo.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ny aminay kosa dia mbola pahina ny masonay miandry foana ny hamonjy anay; nitazana teo amin' ny tilikambo izahay nanantena ny firenena izay tsy nahavonjy anay.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Mitsongo-dia anay izy, ka tsy mahazo mandeha eny an-dalambenay aza izahay; akaiky ny farafiainanay, tapitra ny andronay, fa tonga ny fara-fiainanay.\""
-    },
-    {
-      "v": 19,
-      "text": "Ny mpanenjika anay dia haingam-pandeha noho ny voromahery eny amin' ny lanitra, ka miolomay manenjika anay any an-tendrombohitra ary manotrika anay any an' efitra izy."
-    },
-    {
-      "v": 20,
-      "text": "Ny fofonainay, ilay voahosotr' i Jehovah, dia efa voafandriky ny longoany, dia ilay nataonay hoe: ao ambanin' ny alokalony no hahavelona anay any amin' ny jentilisa."
-    },
-    {
-      "v": 21,
-      "text": "\"Mifalia sy miravoravoa ry zanakavavin' i Edoma, izay monina any amin' ny tany Oza; horosoana ny kapoaka koa ianao, ka ho mamo sy hitanjaka ianao.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Tanteraka ny famaizana ny helokao ry zanakavavin' i Ziona; tsy hoentiny ho babo intsony ianao, hamaly ny helokao izy, ry zanakavavin' i Edoma; hampiseho ny fahotanao izy.\""
-    }
-  ]
+  "verses": {
+    "1": "Indrisy!efa matromatroka ny volamena;efa niova ny tena volamena tsara! Ny vaton' ny fitoerana masina dia efa nahahany eny an-joron-dalambe rehetra eny.",
+    "2": "Indrisy! ny zanaka mahafinaritr' i Ziona, izay sarobidy tahaka ny tena volamena, dia efa atao ho toy ny siny tany, asan-tanan' ny mpanefy tanimanga!",
+    "3": "Na dia ny biby goavana any an-dranomasina aza dia manolotra nono hampinonoany ny zanany; fa ny zanakavavin' ny oloko kosa dia efa tonga masiaka, toy ny ostritsa any an' efitra.",
+    "4": "Ny lelan' ny zaza minono miraikitra amin' ny lanilaniny noho ny hetaheta; ny ankizy madinika mangataka hanina, nefa tsy misy mizara ho azy.",
+    "5": "Izay nihinana zava-py dia ana eny an-dalambe; izay notezaina tamin' ny jaky dia mandamaka eny amin' ny zezika.",
+    "6": "Fa ny famaizana ny heloky ny zanakavavin' ny oloko dia lehibe noho ny famaizana ny helok' i Sodoma, izay noravana indray mipi-maso monja, nefa tsy nokasihin-tanana akory.",
+    "7": "Ny Naziritany dia nangatsakatsaka noho ny fanala, fotsy noho ny ronono izy; mena noho ny robia ny tenany; tahaka ny safira ny famirapiratry ny endriny.",
+    "8": "Mainty noho ny arina ny tarehiny, ka tsy fantatra eny an-dalana izy; ny hodiny miraikitra amin' ny taolany, malazo izy ka tonga toy ny hazo.",
+    "9": "Tsara ny matin-tsabatra noho ny maty mosary; fa ireto dia mihareraka toy ny voatrobaka noho ny tsy fisian' ny vokatry ny saha.",
+    "10": "Ny tanan' ny vehivavy malemy fanahy aza dia nahandro ny zanany; izany no nohaniny tamin' ny fandringanana ny zanakavavin' ny oloko.",
+    "11": "Notantanterahin' i Jehovah ny fahavinirany, naidiny ny fahatezerany mirehitra,ary nampirehitra afo tao Ziona Izy, ka nandevona ny fanorenany.",
+    "12": "Ny mpanjakan' ny tany sy ny mponina rehetra amin' izao tontolo izao dia tsy nino fa ny rafilahy sy ny fahavalo no ho tafiditra ao amin' ny vavahadin' i Jerosalema.",
+    "13": "Noho ny fahotan' ny mpaminaniny sy ny heloky ny mpisorony, izay nandatsaka ny ràn' ny marina tao aminy.",
+    "14": "Niraparapa toy ny jamba teny an-dalambe izy, sady nandoto ny tenany tamin' ny rà ka tsy nisy nahakasika ny akanjony.",
+    "15": "Ny olona niantsoantso azy hoe: Mialà ianareo, fa maloto, mialà, mialà, aza mikasika anay. Raha nandositra sy niraparapa izy, dia hoy ny olona tany amin' ny jentilisa: Tsy mahazo mivahiny aty intsony ireo.",
+    "16": "Ny fahatezeran' i Jehovah no nampizarazara azy, ary tsy hijery azy intsony Izy; ny mpisorona tsy hajain' ireny, ary ny loholona tsy hamindrany fo.",
+    "17": "Ny aminay kosa dia mbola pahina ny masonay miandry foana ny hamonjy anay; nitazana teo amin' ny tilikambo izahay nanantena ny firenena izay tsy nahavonjy anay.",
+    "18": "Mitsongo-dia anay izy, ka tsy mahazo mandeha eny an-dalambenay aza izahay; akaiky ny farafiainanay, tapitra ny andronay, fa tonga ny fara-fiainanay.",
+    "19": "Ny mpanenjika anay dia haingam-pandeha noho ny voromahery eny amin' ny lanitra, ka miolomay manenjika anay any an-tendrombohitra ary manotrika anay any an' efitra izy.",
+    "20": "Ny fofonainay, ilay voahosotr' i Jehovah, dia efa voafandriky ny longoany, dia ilay nataonay hoe: ao ambanin' ny alokalony no hahavelona anay any amin' ny jentilisa.",
+    "21": "Mifalia sy miravoravoa ry zanakavavin' i Edoma, izay monina any amin' ny tany Oza; horosoana ny kapoaka koa ianao, ka ho mamo sy hitanjaka ianao.",
+    "22": "Tanteraka ny famaizana ny helokao ry zanakavavin' i Ziona; tsy hoentiny ho babo intsony ianao, hamaly ny helokao izy, ry zanakavavin' i Edoma; hampiseho ny fahotanao izy."
+  }
 }

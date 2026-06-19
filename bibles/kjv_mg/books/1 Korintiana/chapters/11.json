@@ -1,141 +1,40 @@
 {
+  "book": "1 Korintiana",
   "chapter": 11,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Aoka hanahaka ahy ianareo, dia tahaka ny anahafako an’i Kristy."
-    },
-    {
-      "v": 2,
-      "text": "Ary midera anareo aho, ry rahalahy, satria mahatsiaro ahy amin’ny zavatra rehetra ianareo sady mitana tsara ny fampianarana natolotra, araka ny nanolorako azy taminareo."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary tiako ho fantatrareo fa Kristy no lohan’ny lehilahy rehetra; ary ny lehilahy kosa no lohan’ny vehivavy; ary Andriamanitra no lohan’i Kristy.\""
-    },
-    {
-      "v": 4,
-      "text": "Ny lehilahy rehetra, raha mivavaka na maminany ka misaron-doha, dia mahafa-boninahitra ny lohany."
-    },
-    {
-      "v": 5,
-      "text": "Fa ny vehivavy rehetra kosa, raha mivavaka na maminany ka tsy misaron-doha, dia mahafa-boninahitra ny lohany, satria toy ny voaharatra izy."
-    },
-    {
-      "v": 6,
-      "text": "\"Fa raha tsy misaron-doha ny vehivavy, dia aoka hohetezana koa izy; fa raha mahamenatra ny vehivavy ny hohetezana na ny hoharatana, dia aoka hisaron-doha izy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ny lehilahy dia tsy tokony hisaron-doha, satria endrika sy voninahitr’Andriamanitra izy; fa ny vehivavy kosa no voninahitry ny lehilahy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Fa tsy ny vehivavy no niavian’ny lehilahy; fa ny lehilahy no niavian’ny vehivavy.\""
-    },
-    {
-      "v": 9,
-      "text": "Fa tsy ny lehilahy no natao ho an’ny vehivavy, fa ny vehivavy no ho an’ny lehilahy."
-    },
-    {
-      "v": 10,
-      "text": "Noho izany no tokony hananan' ny vehivavy fahefana eo amin’ny lohany noho ny amin’ny anjely."
-    },
-    {
-      "v": 11,
-      "text": "Kanefa ao amin’ny Tompo tsy misy vehivavy raha tsy misy lehilahy, ary tsy misy lehilahy raha tsy misy vehivavy."
-    },
-    {
-      "v": 12,
-      "text": "\"Fa toy ny niavian’ny vehivavy avy tamin’ny lehilahy, dia toy izany koa no niavian’ny lehilahy avy tamin’ny vehivavy; fa Andriamanitra kosa no iavian’ny zavatra rehetra.\""
-    },
-    {
-      "v": 13,
-      "text": "Aoka ianareo no hitsara: Mendrika va raha mivavaka amin’Andriamanitra ka tsy misaron-doha ny vehivavy?"
-    },
-    {
-      "v": 14,
-      "text": "Tsy mampianatra anareo va ny fomban’ny natiora, fa raha lava volo ny lehilahy, dia mahafa-boninahitra azy izany?"
-    },
-    {
-      "v": 15,
-      "text": "\"Fa raha lava volo kosa ny vehivavy, dia voninahitra ho azy izany; fa ny volo no nomena azy ho fisaronana.\""
-    },
-    {
-      "v": 16,
-      "text": "Fa raha misy olona toa tia ady, dia tsy manana izany fanao izany isika, na ny fiangonan’Andriamanitra."
-    },
-    {
-      "v": 17,
-      "text": "Ary raha manambara izao aho, dia tsy midera anareo tsy akory, satria tsy miangona hihatsara ianareo, fa hiharatsy."
-    },
-    {
-      "v": 18,
-      "text": "\"Fa voalohany indrindra, raha miangona ho ao am-piangonana ianareo, dia reko fa misy fisarahana eo aminareo; ary mba misy inoako ihany izany.\""
-    },
-    {
-      "v": 19,
-      "text": "Fa tsy maintsy misy fahadisoan-dalana amin' ny finoana koa eo aminareo, mba haseho eo aminareo izay olona ankasitrahana."
-    },
-    {
-      "v": 20,
-      "text": "Koa raha miangona amin’ny toerana iray ianareo, dia tsy ny hihinana ny fanasan’ny Tompo akory."
-    },
-    {
-      "v": 21,
-      "text": "\"Fa raha mihinana ianareo, dia samy homana ny sakafony avy aloha ianareo; koa ny anankiray dia noana, fa ny anankiray kosa mamo.\""
-    },
-    {
-      "v": 22,
-      "text": "Ahoana àry? Tsy manana trano hihinanana sy hisotroana va ianareo? sa manao tsinontsinona ny fiangonan’Andriamanitra ianareo, ka manome henatra ny tsy manana? Inona no holazaiko aminareo? Hidera anareo amin’izany va aho? Tsy hidera anareo aho."
-    },
-    {
-      "v": 23,
-      "text": "Fa izaho efa nandray tamin’ny Tompo izay natolotro anareo kosa, fa Jesosy Tompo tamin’iny alina iny izay namadihana Azy, dia nandray mofo,"
-    },
-    {
-      "v": 24,
-      "text": "\"Ary rehefa nisaotra Izy, dia novakiny, ka hoy Izy: Raiso, ka hano, ity ny tenako izay novakina ho anareo; ataovy izao ho fahatsiarovana Ahy.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Araka izany koa, dia noraisiny ny kapoaka, rehefa avy nihinana Izy, dia hoy Izy: Ity kapoaka ity no ilay fanekena vaovao amin’ny rako; izao no ataovinareo ho fahatsiarovana Ahy, na oviana na oviana no misotro ianareo.\""
-    },
-    {
-      "v": 26,
-      "text": "Fa na oviana na oviana ianareo no mihinana itony mofo itony sy misotro amin’itony kapoaka itony, dia manambara ny fahafatesan’ny Tompo ianareo mandra-piaviny."
-    },
-    {
-      "v": 27,
-      "text": "Koa na zovy na zovy no mihinana itony mofo itony sy misotro amin’ny kapoaky ny Tompo amin’ny tsy fahamendrehana, dia ho meloka ny amin’ny tena sy ny ran’ny Tompo izy."
-    },
-    {
-      "v": 28,
-      "text": "Fa aoka ny olona handini-tena, dia aoka izy hihinana amin’izany mofo izany sy hisotro amin’izany kapoaka izany."
-    },
-    {
-      "v": 29,
-      "text": "\"Fa izay rehetra mihinana sy misotro amin' ny tsy fahamendrehana, dia mihinana sy misotro fanamelohana ho an’ny tenany, raha tsy mamantatra ny tenan’ny Tompo;\""
-    },
-    {
-      "v": 30,
-      "text": "Noho izany dia betsaka no osa sy marofy eo aminareo, ary maro ihany no efa nodimandry."
-    },
-    {
-      "v": 31,
-      "text": "Fa raha mba mitsara tena isika, dia tsy hotsaraina."
-    },
-    {
-      "v": 32,
-      "text": "Fa raha tsaraina isika, dia faizin’ny Tompo mba tsy hohelohina miaraka amin’izao tontolo izao."
-    },
-    {
-      "v": 33,
-      "text": "Koa raha miangona hihinana ianareo, ry rahalahy, dia mifampiandrasa."
-    },
-    {
-      "v": 34,
-      "text": "Ary raha misy olona noana, aoka izy hihinana ao an-tranony, mba tsy hiangonanareo ho amin' ny fanamelohana. Ary ny zavatra sisa dia halahatro rehefa tonga aho."
-    }
-  ]
+  "verses": {
+    "1": "Aoka hanahaka ahy ianareo, dia tahaka ny anahafako an’i Kristy.",
+    "2": "Ary midera anareo aho, ry rahalahy, satria mahatsiaro ahy amin’ny zavatra rehetra ianareo sady mitana tsara ny fampianarana natolotra, araka ny nanolorako azy taminareo.",
+    "3": "Ary tiako ho fantatrareo fa Kristy no lohan’ny lehilahy rehetra; ary ny lehilahy kosa no lohan’ny vehivavy; ary Andriamanitra no lohan’i Kristy.",
+    "4": "Ny lehilahy rehetra, raha mivavaka na maminany ka misaron-doha, dia mahafa-boninahitra ny lohany.",
+    "5": "Fa ny vehivavy rehetra kosa, raha mivavaka na maminany ka tsy misaron-doha, dia mahafa-boninahitra ny lohany, satria toy ny voaharatra izy.",
+    "6": "Fa raha tsy misaron-doha ny vehivavy, dia aoka hohetezana koa izy; fa raha mahamenatra ny vehivavy ny hohetezana na ny hoharatana, dia aoka hisaron-doha izy.",
+    "7": "Ny lehilahy dia tsy tokony hisaron-doha, satria endrika sy voninahitr’Andriamanitra izy; fa ny vehivavy kosa no voninahitry ny lehilahy.",
+    "8": "Fa tsy ny vehivavy no niavian’ny lehilahy; fa ny lehilahy no niavian’ny vehivavy.",
+    "9": "Fa tsy ny lehilahy no natao ho an’ny vehivavy, fa ny vehivavy no ho an’ny lehilahy.",
+    "10": "Noho izany no tokony hananan' ny vehivavy fahefana eo amin’ny lohany noho ny amin’ny anjely.",
+    "11": "Kanefa ao amin’ny Tompo tsy misy vehivavy raha tsy misy lehilahy, ary tsy misy lehilahy raha tsy misy vehivavy.",
+    "12": "Fa toy ny niavian’ny vehivavy avy tamin’ny lehilahy, dia toy izany koa no niavian’ny lehilahy avy tamin’ny vehivavy; fa Andriamanitra kosa no iavian’ny zavatra rehetra.",
+    "13": "Aoka ianareo no hitsara: Mendrika va raha mivavaka amin’Andriamanitra ka tsy misaron-doha ny vehivavy?",
+    "14": "Tsy mampianatra anareo va ny fomban’ny natiora, fa raha lava volo ny lehilahy, dia mahafa-boninahitra azy izany?",
+    "15": "Fa raha lava volo kosa ny vehivavy, dia voninahitra ho azy izany; fa ny volo no nomena azy ho fisaronana.",
+    "16": "Fa raha misy olona toa tia ady, dia tsy manana izany fanao izany isika, na ny fiangonan’Andriamanitra.",
+    "17": "Ary raha manambara izao aho, dia tsy midera anareo tsy akory, satria tsy miangona hihatsara ianareo, fa hiharatsy.",
+    "18": "Fa voalohany indrindra, raha miangona ho ao am-piangonana ianareo, dia reko fa misy fisarahana eo aminareo; ary mba misy inoako ihany izany.",
+    "19": "Fa tsy maintsy misy fahadisoan-dalana amin' ny finoana koa eo aminareo, mba haseho eo aminareo izay olona ankasitrahana.",
+    "20": "Koa raha miangona amin’ny toerana iray ianareo, dia tsy ny hihinana ny fanasan’ny Tompo akory.",
+    "21": "Fa raha mihinana ianareo, dia samy homana ny sakafony avy aloha ianareo; koa ny anankiray dia noana, fa ny anankiray kosa mamo.",
+    "22": "Ahoana àry? Tsy manana trano hihinanana sy hisotroana va ianareo? sa manao tsinontsinona ny fiangonan’Andriamanitra ianareo, ka manome henatra ny tsy manana? Inona no holazaiko aminareo? Hidera anareo amin’izany va aho? Tsy hidera anareo aho.",
+    "23": "Fa izaho efa nandray tamin’ny Tompo izay natolotro anareo kosa, fa Jesosy Tompo tamin’iny alina iny izay namadihana Azy, dia nandray mofo,",
+    "24": "Ary rehefa nisaotra Izy, dia novakiny, ka hoy Izy: Raiso, ka hano, ity ny tenako izay novakina ho anareo; ataovy izao ho fahatsiarovana Ahy.",
+    "25": "Araka izany koa, dia noraisiny ny kapoaka, rehefa avy nihinana Izy, dia hoy Izy: Ity kapoaka ity no ilay fanekena vaovao amin’ny rako; izao no ataovinareo ho fahatsiarovana Ahy, na oviana na oviana no misotro ianareo.",
+    "26": "Fa na oviana na oviana ianareo no mihinana itony mofo itony sy misotro amin’itony kapoaka itony, dia manambara ny fahafatesan’ny Tompo ianareo mandra-piaviny.",
+    "27": "Koa na zovy na zovy no mihinana itony mofo itony sy misotro amin’ny kapoaky ny Tompo amin’ny tsy fahamendrehana, dia ho meloka ny amin’ny tena sy ny ran’ny Tompo izy.",
+    "28": "Fa aoka ny olona handini-tena, dia aoka izy hihinana amin’izany mofo izany sy hisotro amin’izany kapoaka izany.",
+    "29": "Fa izay rehetra mihinana sy misotro amin' ny tsy fahamendrehana, dia mihinana sy misotro fanamelohana ho an’ny tenany, raha tsy mamantatra ny tenan’ny Tompo;",
+    "30": "Noho izany dia betsaka no osa sy marofy eo aminareo, ary maro ihany no efa nodimandry.",
+    "31": "Fa raha mba mitsara tena isika, dia tsy hotsaraina.",
+    "32": "Fa raha tsaraina isika, dia faizin’ny Tompo mba tsy hohelohina miaraka amin’izao tontolo izao.",
+    "33": "Koa raha miangona hihinana ianareo, ry rahalahy, dia mifampiandrasa.",
+    "34": "Ary raha misy olona noana, aoka izy hihinana ao an-tranony, mba tsy hiangonanareo ho amin' ny fanamelohana. Ary ny zavatra sisa dia halahatro rehefa tonga aho."
+  }
 }

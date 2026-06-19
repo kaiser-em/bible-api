@@ -1,101 +1,30 @@
 {
+  "book": "1 Korintiana",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary ny amin’ny famoriam-bola ho an’ny olona masina, dia mba manaova koa ianareo toy izay nasaiko nataon’ny fiangonana any Galatia."
-    },
-    {
-      "v": 2,
-      "text": "Amin’ny andro voalohany isan-kerinandro dia samia manokana ao aminy avy ho rakitra, araka izay nanambinan’Andriamanitra azy, mba tsy hisy ny famoriam-bola rehefa tonga aho."
-    },
-    {
-      "v": 3,
-      "text": "Ary rehefa tonga aho, dia izay sitrakareo, araka ny taratasinareo, no hirahiko hanatitra ny fiantranareo any Jerosalema."
-    },
-    {
-      "v": 4,
-      "text": "Ary raha tokony handehanako izany, dia hiaraka amiko ireo."
-    },
-    {
-      "v": 5,
-      "text": "\"Hankaty aminareo aho, rehefa avy mamaky an’i Masedonia; fa hamaky an’i Masedonia aho;\""
-    },
-    {
-      "v": 6,
-      "text": "Ary angamba hitoetra eo aminareo aho, na handany ny ririnina aza, mba hanateranareo ahy any amin’izay halehako."
-    },
-    {
-      "v": 7,
-      "text": "\"Fa tsy mikasa hamangy anareo toy ny mandalo aho ankehitriny; fa manantena hitoetra elaela eo aminareo aho, raha sitrapon’ny Tompo.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Nefa hitoetra any Efesosy aho mandra-piavin’ny Pentekosta;\""
-    },
-    {
-      "v": 9,
-      "text": "Fa varavarana lehibe no voavoha ho ahy hahazoako fahombiazana, nefa maro ny mpanohitra."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary rehefa tonga Timoty, dia tandremo mba tsy hanan-tahotra eo aminareo izy; fa ny asan’ny Tompo no ataony, tahaka ny ataoko koa.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Koa aza avela hisy olona hanao tsinontsinona azy; fa atero soa aman-tsara izy mba ho tonga aty amiko; fa miandry azy aho miaraka amin’ny rahalahy sasany.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary ny amin’ny rahalahy Apolosy, dia nangataka azy fatratra aho hiara-mandeha amin’ny rahalahy hankaty aminareo, saingy tsy sitrapony mihitsy ny handeha ankehitriny, nefa ho avy ihany izy, rehefa misy andro mahalalaka azy."
-    },
-    {
-      "v": 13,
-      "text": "Miambena ianareo, tomoera tsara amin’ny finoana, aoka hitomban-dahy, mahereza."
-    },
-    {
-      "v": 14,
-      "text": "Ataovy amim-pitiavana ny zavatra rehetra."
-    },
-    {
-      "v": 15,
-      "text": "(Fantatrareo ny ankohonan’i Stefanasy, fa voaloham-bokatr’i Akaia izy sady efa nanolo-tena ho amin’ny fanompoana ny olona masina) dia miangavy anareo aho, ry rahalahy,"
-    },
-    {
-      "v": 16,
-      "text": "Mba hanaiky tsara ny olona tahaka ireny sy izay rehetra miara-miasa sy mikely aina koa aminay."
-    },
-    {
-      "v": 17,
-      "text": "\"Faly aho noho ny fiavian' i Stefanasy sy Fortonato ary Akaïko; fa ireo no nahefa ny tsy vitanareo;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Fa namelombelona ny fanahiko sy ny anareo koa izy; ka mba ekeo ny tahaka ireny.\""
-    },
-    {
-      "v": 19,
-      "text": "Manao veloma anareo ny fiangonana any Azia. Manao veloma anareo indrindra ao amin’ny Tompo Akoila sy Prisila mbamin’ny fiangonana izay ao an-tranony."
-    },
-    {
-      "v": 20,
-      "text": "Manao veloma anareo ny rahalahy rehetra. Mifanaova veloma amin’ny fanorohana masina."
-    },
-    {
-      "v": 21,
-      "text": "Ny tanako, izaho Paoly, no anaovako veloma."
-    },
-    {
-      "v": 22,
-      "text": "Raha misy tsy tia an’i Jesosy Kristy Tompo, aoka ho voaozona izy. Maranata."
-    },
-    {
-      "v": 23,
-      "text": "\"Ho aminareo anie ny fahasoavan’i Jesosy Kristy Tompo;\""
-    },
-    {
-      "v": 24,
-      "text": "Ny fitiavako anie ho ao aminareo rehetra ao amin’i Kristy Jesosy. Amena."
-    }
-  ]
+  "verses": {
+    "1": "Ary ny amin’ny famoriam-bola ho an’ny olona masina, dia mba manaova koa ianareo toy izay nasaiko nataon’ny fiangonana any Galatia.",
+    "2": "Amin’ny andro voalohany isan-kerinandro dia samia manokana ao aminy avy ho rakitra, araka izay nanambinan’Andriamanitra azy, mba tsy hisy ny famoriam-bola rehefa tonga aho.",
+    "3": "Ary rehefa tonga aho, dia izay sitrakareo, araka ny taratasinareo, no hirahiko hanatitra ny fiantranareo any Jerosalema.",
+    "4": "Ary raha tokony handehanako izany, dia hiaraka amiko ireo.",
+    "5": "Hankaty aminareo aho, rehefa avy mamaky an’i Masedonia; fa hamaky an’i Masedonia aho;",
+    "6": "Ary angamba hitoetra eo aminareo aho, na handany ny ririnina aza, mba hanateranareo ahy any amin’izay halehako.",
+    "7": "Fa tsy mikasa hamangy anareo toy ny mandalo aho ankehitriny; fa manantena hitoetra elaela eo aminareo aho, raha sitrapon’ny Tompo.",
+    "8": "Nefa hitoetra any Efesosy aho mandra-piavin’ny Pentekosta;",
+    "9": "Fa varavarana lehibe no voavoha ho ahy hahazoako fahombiazana, nefa maro ny mpanohitra.",
+    "10": "Ary rehefa tonga Timoty, dia tandremo mba tsy hanan-tahotra eo aminareo izy; fa ny asan’ny Tompo no ataony, tahaka ny ataoko koa.",
+    "11": "Koa aza avela hisy olona hanao tsinontsinona azy; fa atero soa aman-tsara izy mba ho tonga aty amiko; fa miandry azy aho miaraka amin’ny rahalahy sasany.",
+    "12": "Ary ny amin’ny rahalahy Apolosy, dia nangataka azy fatratra aho hiara-mandeha amin’ny rahalahy hankaty aminareo, saingy tsy sitrapony mihitsy ny handeha ankehitriny, nefa ho avy ihany izy, rehefa misy andro mahalalaka azy.",
+    "13": "Miambena ianareo, tomoera tsara amin’ny finoana, aoka hitomban-dahy, mahereza.",
+    "14": "Ataovy amim-pitiavana ny zavatra rehetra.",
+    "15": "(Fantatrareo ny ankohonan’i Stefanasy, fa voaloham-bokatr’i Akaia izy sady efa nanolo-tena ho amin’ny fanompoana ny olona masina) dia miangavy anareo aho, ry rahalahy,",
+    "16": "Mba hanaiky tsara ny olona tahaka ireny sy izay rehetra miara-miasa sy mikely aina koa aminay.",
+    "17": "Faly aho noho ny fiavian' i Stefanasy sy Fortonato ary Akaïko; fa ireo no nahefa ny tsy vitanareo;",
+    "18": "Fa namelombelona ny fanahiko sy ny anareo koa izy; ka mba ekeo ny tahaka ireny.",
+    "19": "Manao veloma anareo ny fiangonana any Azia. Manao veloma anareo indrindra ao amin’ny Tompo Akoila sy Prisila mbamin’ny fiangonana izay ao an-tranony.",
+    "20": "Manao veloma anareo ny rahalahy rehetra. Mifanaova veloma amin’ny fanorohana masina.",
+    "21": "Ny tanako, izaho Paoly, no anaovako veloma.",
+    "22": "Raha misy tsy tia an’i Jesosy Kristy Tompo, aoka ho voaozona izy. Maranata.",
+    "23": "Ho aminareo anie ny fahasoavan’i Jesosy Kristy Tompo;",
+    "24": "Ny fitiavako anie ho ao aminareo rehetra ao amin’i Kristy Jesosy. Amena."
+  }
 }

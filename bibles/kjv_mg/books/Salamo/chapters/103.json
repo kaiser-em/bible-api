@@ -1,93 +1,28 @@
 {
+  "book": "Salamo",
   "chapter": 103,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Salamo nataon' i Davida.] MISAORA an' i Jehovah, ry fanahiko; ary izay rehetra ato anatiko, misaora ny anarany masina.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Misaora an' i Jehovah, ry fanahiko; ary aza misy hadinoinao ny fitahiany rehetra,\""
-    },
-    {
-      "v": 3,
-      "text": "Izay mamela ny helokao rehetra, Izay manasitrana ny aretinao rehetra,"
-    },
-    {
-      "v": 4,
-      "text": "\"Izay manavotra ny ainao tsy ho any amin' ny fandringanana; Izay mampisatro-boninahitra anao amin' ny indrafo sy fiantrana anao.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Izay mahavoky soa ny vavanao; koa ny fahatanoranao dia mihavao indray tahaka ny an' ny voromahery.\""
-    },
-    {
-      "v": 6,
-      "text": "Manao fahamarinana sy fitsarana amin' izay rehetra ampahoriana Jehovah."
-    },
-    {
-      "v": 7,
-      "text": "\"Efa nampahafantatra an' i Mosesy ny lalan-kalehany Izy; ny zanak' Isiraely dia nampahafantariny ny asany.\""
-    },
-    {
-      "v": 8,
-      "text": "Mamindra fo sy miantra Jehovah, tsy mora tezitra sady be famindrampo."
-    },
-    {
-      "v": 9,
-      "text": "Tsy mandaha-teny mandrakariva Izy, na mitahiry fahatezerana mandrakizay."
-    },
-    {
-      "v": 10,
-      "text": "Tsy mba nanao tamintsika araka ny fahotantsika izy, na namaly antsika araka ny helotsika."
-    },
-    {
-      "v": 11,
-      "text": "Fa tahaka ny haavon' ny lanitra ambonin' ny tany no haben' ny famindrampony amin' izay matahotra Azy."
-    },
-    {
-      "v": 12,
-      "text": "Tahaka ny halavitry ny atsinanana amin' ny andrefana no halavitry ny hanesorany ny fahotantsika amintsika."
-    },
-    {
-      "v": 13,
-      "text": "Tahaka ny fiantràn' ny ray ny zanany no fiantràn' i Jehovah izay matahotra Azy."
-    },
-    {
-      "v": 14,
-      "text": "Fa mahalala ny toetsika Izy, ka mahatsiaro fa vovoka isika."
-    },
-    {
-      "v": 15,
-      "text": "\"Tahaka ny ahitra ny andron' ny zanak' olombelona; tahaka ny voninkazo any an-tsaha ny famoniny,\""
-    },
-    {
-      "v": 16,
-      "text": "Satria tsofin' ny rivotra izy ka lasa, ary tsy mahalala azy intsony ny fitoerany."
-    },
-    {
-      "v": 17,
-      "text": "\"Fa ny famindrampon' i Jehovah dia hatramin' ny taloha indrindra ka ho mandrakizay amin' izay matahotra Azy; ary ny fahamarinany mihatra amin' ny taranaka;\""
-    },
-    {
-      "v": 18,
-      "text": "Dia amin' izay mitandrina ny fanekeny sy mahatsiaro hankatò ny didiny."
-    },
-    {
-      "v": 19,
-      "text": "\"Efa nanomana ny sezafiandrianany any an-danitra Jehovah; ary manapaka izao rehetra izao ny fanjakany.\""
-    },
-    {
-      "v": 20,
-      "text": "Misaora an' i Jehovah ianareo anjeliny, izay manantombo amin' ny hery, ka mankatò ny didiny sady mihaino ny feon' ny teniny."
-    },
-    {
-      "v": 21,
-      "text": "Misaora an' i Jehovah, ry miaramilany rehetra, dia ny mpanompony izay manao ny sitrapony."
-    },
-    {
-      "v": 22,
-      "text": "\"Misaora an' i Jehovah, ny asany rehetra eran' ny fanjakany; misaora an' i Jehovah, ry fanahiko.\""
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida.] MISAORA an' i Jehovah, ry fanahiko; ary izay rehetra ato anatiko, misaora ny anarany masina.",
+    "2": "Misaora an' i Jehovah, ry fanahiko; ary aza misy hadinoinao ny fitahiany rehetra,",
+    "3": "Izay mamela ny helokao rehetra, Izay manasitrana ny aretinao rehetra,",
+    "4": "Izay manavotra ny ainao tsy ho any amin' ny fandringanana; Izay mampisatro-boninahitra anao amin' ny indrafo sy fiantrana anao.",
+    "5": "Izay mahavoky soa ny vavanao; koa ny fahatanoranao dia mihavao indray tahaka ny an' ny voromahery.",
+    "6": "Manao fahamarinana sy fitsarana amin' izay rehetra ampahoriana Jehovah.",
+    "7": "Efa nampahafantatra an' i Mosesy ny lalan-kalehany Izy; ny zanak' Isiraely dia nampahafantariny ny asany.",
+    "8": "Mamindra fo sy miantra Jehovah, tsy mora tezitra sady be famindrampo.",
+    "9": "Tsy mandaha-teny mandrakariva Izy, na mitahiry fahatezerana mandrakizay.",
+    "10": "Tsy mba nanao tamintsika araka ny fahotantsika izy, na namaly antsika araka ny helotsika.",
+    "11": "Fa tahaka ny haavon' ny lanitra ambonin' ny tany no haben' ny famindrampony amin' izay matahotra Azy.",
+    "12": "Tahaka ny halavitry ny atsinanana amin' ny andrefana no halavitry ny hanesorany ny fahotantsika amintsika.",
+    "13": "Tahaka ny fiantràn' ny ray ny zanany no fiantràn' i Jehovah izay matahotra Azy.",
+    "14": "Fa mahalala ny toetsika Izy, ka mahatsiaro fa vovoka isika.",
+    "15": "Tahaka ny ahitra ny andron' ny zanak' olombelona; tahaka ny voninkazo any an-tsaha ny famoniny,",
+    "16": "Satria tsofin' ny rivotra izy ka lasa, ary tsy mahalala azy intsony ny fitoerany.",
+    "17": "Fa ny famindrampon' i Jehovah dia hatramin' ny taloha indrindra ka ho mandrakizay amin' izay matahotra Azy; ary ny fahamarinany mihatra amin' ny taranaka;",
+    "18": "Dia amin' izay mitandrina ny fanekeny sy mahatsiaro hankatò ny didiny.",
+    "19": "Efa nanomana ny sezafiandrianany any an-danitra Jehovah; ary manapaka izao rehetra izao ny fanjakany.",
+    "20": "Misaora an' i Jehovah ianareo anjeliny, izay manantombo amin' ny hery, ka mankatò ny didiny sady mihaino ny feon' ny teniny.",
+    "21": "Misaora an' i Jehovah, ry miaramilany rehetra, dia ny mpanompony izay manao ny sitrapony.",
+    "22": "Misaora an' i Jehovah, ny asany rehetra eran' ny fanjakany; misaora an' i Jehovah, ry fanahiko."
+  }
 }

@@ -1,117 +1,34 @@
 {
+  "book": "Ohabolana",
   "chapter": 26,
-  "verses": [
-    {
-      "v": 1,
-      "text": "TOY ny orampanala amin' ny fahavaratra, ary toy ny ranonorana amin' ny taom-pijinjana, dia toy izany ny voninahitra tsy tandrifiny ho an' ny adala."
-    },
-    {
-      "v": 2,
-      "text": "Toy ny vorona mivezivezy sy ny sidintsidina manidina, dia toy izany ny fanozonam-poana: tsy mba hihatra izany."
-    },
-    {
-      "v": 3,
-      "text": "Ny karavasy ho an' ny soavaly, ny lamboridy ho an' ny boriky, ary ny tsorakazo kosa ho amin' ny lamosin' ny adala."
-    },
-    {
-      "v": 4,
-      "text": "Aza mamaly ny adala araka ny hadalany, fandrao mba adala tahaka azy koa ianao."
-    },
-    {
-      "v": 5,
-      "text": "Valio ny adala noho ny hadalany, fandrao dia manao ny tenany ho hendry izy."
-    },
-    {
-      "v": 6,
-      "text": "Manapaka ny tongotra sady misotro loza izay mampitondra hafatra ny adala."
-    },
-    {
-      "v": 7,
-      "text": "Tsy mitovy ny tongotry ny mandringa, dia toy izany koa ny fanoharana eo am-bavan' ny adala."
-    },
-    {
-      "v": 8,
-      "text": "Toy ny manisy vato eo amin' ny an-tsamotady, dia toy izany ny manome voninahitra ny adala."
-    },
-    {
-      "v": 9,
-      "text": "Toy ny tsilo eo an-tanan' ny olona mamo, dia toy izany ny fanoharana eo ambavan' ny adala."
-    },
-    {
-      "v": 10,
-      "text": "Ilay Andriamanitra lehibe izay nanao ny zavatra rehetra dia hamaly ny adala sy hamaly ny mpandika lalàna."
-    },
-    {
-      "v": 11,
-      "text": "Toy ny amboa miverina amin' ny loany, dia toy izany ny adala miverina amin' ny hadalany."
-    },
-    {
-      "v": 12,
-      "text": "Hitanao va ny olona manao azy ho hendry? Misy antenaina kokoa ny adala noho izy."
-    },
-    {
-      "v": 13,
-      "text": "Hoy ny malaina: Misy liona any an-dalana, misy liona ao an-dalambe."
-    },
-    {
-      "v": 14,
-      "text": "Toy ny varavarana mihodina amin' ny saviliny, dia toy izany ny kamo eo amin' ny fandriany."
-    },
-    {
-      "v": 15,
-      "text": "\"Manafina ny tanany ao an-tratrany ny malaina; ka mahasasatra azy ny hampakatra izany ao am-bavany.\""
-    },
-    {
-      "v": 16,
-      "text": "Ny malaina dia manao ny tenany ho hendry mihoatra noho ny olona fito izay mahavaly am-pahendrena."
-    },
-    {
-      "v": 17,
-      "text": "Izay mandalo ka mitsaraingona amin' ny ady tsy azy, dia toy ny mandroritra amboa amin' ny sofiny."
-    },
-    {
-      "v": 18,
-      "text": "Toy ny adala izay manely afo sy zana-tsipìka ary fahafatesana,"
-    },
-    {
-      "v": 19,
-      "text": "Dia toy izany ny olona izay mamitaka ny namany ka manao hoe: Tsy vazivazy ihany va no ataoko?"
-    },
-    {
-      "v": 20,
-      "text": "\"Raha tsy misy kitay, dia maty ny afo; dia toy izany raha tsy misy mpifosafosa intsony, dia mitsahatra ny fifandirana.\""
-    },
-    {
-      "v": 21,
-      "text": "Toy ny arina atao amin' ny vainafo sy ny kitay hazo atao amin' ny afo, dia toy izany, ny olona tia ady dia mandrehitra fifandirana."
-    },
-    {
-      "v": 22,
-      "text": "Ny tenin' ny mpifosafosa dia toy ny ratra ka mikorotsaka ao anaty kibo indrindra."
-    },
-    {
-      "v": 23,
-      "text": "Tavim-bilany misy ankosotra taim-bolafotsy ny molotra mirehitra sy ny fo ratsy."
-    },
-    {
-      "v": 24,
-      "text": "\"Ny mpandrafy dia mody ho hafa amin' ny molony sady manafim-pitaka ao am-pony;\""
-    },
-    {
-      "v": 25,
-      "text": "\"Koa na dia miteny soa aza izy, aza mino azy; fa fahavetavetana fito no ao am-pony.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ny fankahalany dia miafina ao amin' ny fitaka; nefa ny haratsiany dia haharihary eo am-pahibemaso.\""
-    },
-    {
-      "v": 27,
-      "text": "Izay mihady lavaka no ho latsaka ao, ary izay manakodia vato no hikodiavany kosa."
-    },
-    {
-      "v": 28,
-      "text": "\"Halan' ny lela mandainga izay efa nampahoriny; ary ny vava mandrobo mitondra fandringanana.\""
-    }
-  ]
+  "verses": {
+    "1": "TOY ny orampanala amin' ny fahavaratra, ary toy ny ranonorana amin' ny taom-pijinjana, dia toy izany ny voninahitra tsy tandrifiny ho an' ny adala.",
+    "2": "Toy ny vorona mivezivezy sy ny sidintsidina manidina, dia toy izany ny fanozonam-poana: tsy mba hihatra izany.",
+    "3": "Ny karavasy ho an' ny soavaly, ny lamboridy ho an' ny boriky, ary ny tsorakazo kosa ho amin' ny lamosin' ny adala.",
+    "4": "Aza mamaly ny adala araka ny hadalany, fandrao mba adala tahaka azy koa ianao.",
+    "5": "Valio ny adala noho ny hadalany, fandrao dia manao ny tenany ho hendry izy.",
+    "6": "Manapaka ny tongotra sady misotro loza izay mampitondra hafatra ny adala.",
+    "7": "Tsy mitovy ny tongotry ny mandringa, dia toy izany koa ny fanoharana eo am-bavan' ny adala.",
+    "8": "Toy ny manisy vato eo amin' ny an-tsamotady, dia toy izany ny manome voninahitra ny adala.",
+    "9": "Toy ny tsilo eo an-tanan' ny olona mamo, dia toy izany ny fanoharana eo ambavan' ny adala.",
+    "10": "Ilay Andriamanitra lehibe izay nanao ny zavatra rehetra dia hamaly ny adala sy hamaly ny mpandika lalàna.",
+    "11": "Toy ny amboa miverina amin' ny loany, dia toy izany ny adala miverina amin' ny hadalany.",
+    "12": "Hitanao va ny olona manao azy ho hendry? Misy antenaina kokoa ny adala noho izy.",
+    "13": "Hoy ny malaina: Misy liona any an-dalana, misy liona ao an-dalambe.",
+    "14": "Toy ny varavarana mihodina amin' ny saviliny, dia toy izany ny kamo eo amin' ny fandriany.",
+    "15": "Manafina ny tanany ao an-tratrany ny malaina; ka mahasasatra azy ny hampakatra izany ao am-bavany.",
+    "16": "Ny malaina dia manao ny tenany ho hendry mihoatra noho ny olona fito izay mahavaly am-pahendrena.",
+    "17": "Izay mandalo ka mitsaraingona amin' ny ady tsy azy, dia toy ny mandroritra amboa amin' ny sofiny.",
+    "18": "Toy ny adala izay manely afo sy zana-tsipìka ary fahafatesana,",
+    "19": "Dia toy izany ny olona izay mamitaka ny namany ka manao hoe: Tsy vazivazy ihany va no ataoko?",
+    "20": "Raha tsy misy kitay, dia maty ny afo; dia toy izany raha tsy misy mpifosafosa intsony, dia mitsahatra ny fifandirana.",
+    "21": "Toy ny arina atao amin' ny vainafo sy ny kitay hazo atao amin' ny afo, dia toy izany, ny olona tia ady dia mandrehitra fifandirana.",
+    "22": "Ny tenin' ny mpifosafosa dia toy ny ratra ka mikorotsaka ao anaty kibo indrindra.",
+    "23": "Tavim-bilany misy ankosotra taim-bolafotsy ny molotra mirehitra sy ny fo ratsy.",
+    "24": "Ny mpandrafy dia mody ho hafa amin' ny molony sady manafim-pitaka ao am-pony;",
+    "25": "Koa na dia miteny soa aza izy, aza mino azy; fa fahavetavetana fito no ao am-pony.",
+    "26": "Ny fankahalany dia miafina ao amin' ny fitaka; nefa ny haratsiany dia haharihary eo am-pahibemaso.",
+    "27": "Izay mihady lavaka no ho latsaka ao, ary izay manakodia vato no hikodiavany kosa.",
+    "28": "Halan' ny lela mandainga izay efa nampahoriny; ary ny vava mandrobo mitondra fandringanana."
+  }
 }

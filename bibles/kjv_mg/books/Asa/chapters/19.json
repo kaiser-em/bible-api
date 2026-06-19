@@ -1,169 +1,47 @@
 {
+  "book": "Asa",
   "chapter": 19,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izao no niseho, raha mbola tany Korinto Apolosy, dia nitety ny tany ambony Paoly ka tonga tany Efesosy, ary nahita mpianatra sasany teo izy,"
-    },
-    {
-      "v": 2,
-      "text": "Ka nanao taminy hoe: Efa noraisinareo ve ny Fanahy Masina fony vao nino ianareo? Ary ireo nanao taminy hoe: Tsy mbola renay akory na misy ny Fanahy Masina, na tsia."
-    },
-    {
-      "v": 3,
-      "text": "Ary hoy izy taminy: Ho amin' inona àry no nanaovana batisa anareo? Dia hoy ireo: Ho amin' ny batisan' i Jaona."
-    },
-    {
-      "v": 4,
-      "text": "Fa hoy Paoly: Nanao ny batisan' ny fibebahana tokoa Jaona ka nilaza tamin' ny olona fa tokony hino Izay avy manaraka azy izy ireo, dia Jesosy Kristy."
-    },
-    {
-      "v": 5,
-      "text": "Ary raha nandre izany ireo, dia natao batisa hoamin' ny anaran' i Jesosy Tompo."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary rehefa nametrahan' i Paoly tanana izy ireo, dia nilatsaka taminy ny Fanahy Masina; ary niteny tamin' ny fiteny tsy fantatra ireo sady naminany.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary tokony ho roa ambin' ny folo lahy no isan' izy rehetra."
-    },
-    {
-      "v": 8,
-      "text": "Ary niditra tao amin' ny synagoga Paoly ka niteny tamin' ny fahasahiana telo volana, niady hevitra sy nampanaiky ny amin' ny fanjakan' Andriamanitra."
-    },
-    {
-      "v": 9,
-      "text": "Fa raha nikiribiby ny sasany ka tsy nino, fa niteny ratsy izany lalana izany teo imason' ny olona maro, dia niala tamin' ireo izy ka nitondra ny mpianatra nitokana, dia niady hevitra isan' andro tao amin' ny sekolin' i Tyrano."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary naharitra roa taona ngarangidina izany; ka dia nandre ny tenin' ny Tompo Jesosy izay rehetra nonina tany Azia na Jiosy na Grika.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary ny tanan' i Paoly no nanaovan' Andriamanitra fahagagana manokana maro,"
-    },
-    {
-      "v": 12,
-      "text": "Ka dia ny mosara sy ny fiaron' akanjo teny aminy no nentina hatao amin' ny marary, dia sitrana ny aretina, ary nivoaka ny fanahy ratsy."
-    },
-    {
-      "v": 13,
-      "text": "Ary nisy Jiosy sasany, mpiriorio mpamoaka fanahy ratsy, izay ninia nanonona ny anaran' i Jesosy Tompo tamin' ireo manana fanahy ratsy ka nanao hoe: Mampianiana anareo amin' i Jesosy Izay torin' i Paoly izahay."
-    },
-    {
-      "v": 14,
-      "text": "Ary nisy fito mirahalahy, zanak' i Skeva, Jiosy, lohan' ny mpisorona, izay nanao izany."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ny fanahy ratsy namaly ka nanao taminy hoe: Fantatro Jesosy, ary fantatro Paoly; fa mba iza kosa moa ianareo?\""
-    },
-    {
-      "v": 16,
-      "text": "Ary ny lehilahy izay nanana ny fanahy ratsy dia niantsambotra tamin' ireo ary nahery ka naharesy azy, dia nandositra niala tamin' izany trano izany ireo sady nitanjaka no voaratra."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary fantatry ny Jiosy sy ny Grika rehetra izay nonina tany Efesosy izany; dia raiki-tahotra ny olona rehetra ka nankalazaina ny Anaran' i  Jesosy Tompo.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary maro izay nino no tonga ka niaiky sy nampiseho ny asany."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary maro koa ny mpanao ody no nanangona ny bokiny ka nandoro azy teo imason' ny olona rehetra; ary nony voatontaly ny tokom-bidiny, dia hita fa volafotsy dimy alina izany.\""
-    },
-    {
-      "v": 20,
-      "text": "Fatratra toy izany no fandroson' ny tenin' Andriamanitra sy ny fandreseny."
-    },
-    {
-      "v": 21,
-      "text": "Ary rehefa vita izany zavatra izany, dia nikasa tao am-panahiny Paoly handeha hamaky an' i Masedonia sy Akaia aloha vao hankany Jerosalema ka nanao hoe: Rehefa tonga any aho, dia tsy maintsy hahita an' i Roma koa."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary ny roa lahy tamin' izay nanompo azy, dia Timoty sy Erasto, no nirahiny nankany Masedonia; fa mbola nitoetra tany Azia andro vitsivitsy izy.\""
-    },
-    {
-      "v": 23,
-      "text": "Ary tamin' izany fotoana izany dia nisy tabataba be ny amin' izany lalana izany."
-    },
-    {
-      "v": 24,
-      "text": "\"Fa nisy lehilahy anankiray atao hoe Demetrio, mpanefy volafotsy, izay nanao sarin' ny tempolin' i Diana tamin' ny volafotsy, dia nampahazo harena be ny mpanefy;\""
-    },
-    {
-      "v": 25,
-      "text": "Ireny mbamin' ny mpanao asa hafa toy izany koa dia nantsoiny hiangona ka nilazany hoe: Tompokolahy, fantatrareo fa amin' izao taozavatra izao no ahazoantsika harena."
-    },
-    {
-      "v": 26,
-      "text": "Ary hitanareo sy renareo koa fa tsy eto Efesosy ihany, fa saiky manerana an' i Azia rehetra dia mandresy lahatra olona betsaka izany Paoly izany ka nampivily ny sain' ny maro manao hoe: Tsy Andriamanitra izay zavatra nataon-tanana."
-    },
-    {
-      "v": 27,
-      "text": "\"Ka dia tsy izao asantsika izao ihany no tandindomin-doza hatao ho zava-poana; fa ny tempolin' i Diana, andriamani-bavy lehibe, dia hatao tsinontsinona koa aza, ka ho afa-boninahitra ilay ivavahan' i Azia rehetra sy izao tontolo izao.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary rehefa nandre izany izy ireo, dia tezitra loatra ka niantso nanao hoe: Lehibe Dianan' ny Efesiana!"
-    },
-    {
-      "v": 29,
-      "text": "\"Dia nanerana ny tanàna ny tabataba; ary rehefa nisarika an' i Gaio sy Aristarko, lehilahy Masedoniana niara-dia tamin' i Paoly izy ireo, dia niray saina niriotra ho ao an-trano filalaovana teatra.\""
-    },
-    {
-      "v": 30,
-      "text": "Ary raha te-hiditra ho any amin' ny olona Paoly, dia tsy navelan' ny mpianatra."
-    },
-    {
-      "v": 31,
-      "text": "Koa ny lehibe sasany tany Azia, izay sakaizany, dia nampitondra teny nangataka azy mba tsy ho sahy hiditra ao an-trano filalaovana teatra."
-    },
-    {
-      "v": 32,
-      "text": "\"Ary ny sasany niantso zavatra iray, ary ny sasany kosa zavatra hafa; fa nifanjevo ny olona vory; koa ny ankamaroany tsy nahalala izay anton' ny niangonany teo.\""
-    },
-    {
-      "v": 33,
-      "text": "Ary nisy nisarika an' i Aleksandro avy teo amin' ny vahoaka, fa ny jiosy nanesika azy handroso. Ary Aleksandro nanofa tanana, fa te-handaha-teny hiala tsiny tamin' ny olona."
-    },
-    {
-      "v": 34,
-      "text": "Fa rehefa fantatry ny olona fa Jiosy izy, dia niredona niantso tokony ho ora roa izy rehetra hoe: Lehibe Dianan' ny Efesiana!"
-    },
-    {
-      "v": 35,
-      "text": "Ary rehefa nampangina ny olona ny mpitahiry ny didy ka nanao hoe: Ry lehilahy Efesiana, iza no olona tsy mahalala fa ny tanànan' ny Efesiana no mpivavaka amin' ny Diana lehibe sy ny sariny izay nilatsaka avy tamin' i Jopitera?"
-    },
-    {
-      "v": 36,
-      "text": "Ary satria tsy azo toherina izany, dia tokony hangina ianareo ka tsy hanao na inona na inona an-kamehana."
-    },
-    {
-      "v": 37,
-      "text": "Fa nentinareo ety ireo lehilahy ireo, izay tsy nandroba tempoly, na niteny ratsy ny andriamanitrareo."
-    },
-    {
-      "v": 38,
-      "text": "Koa raha manan-teny hifamaliana amin' olona Demetrio sy ny mpanefy izay momba azy, aoka hifandahatra izy ireo, fa malalaka ny fitsarana, ary ao ihany koa ireo governora."
-    },
-    {
-      "v": 39,
-      "text": "Fa raha mitady zavatra hafa kosa ianareo, dia hotsaraina amin' izay fivoriana voatendrin' ny lalàna."
-    },
-    {
-      "v": 40,
-      "text": "Fandrao ampangaina isika noho ny tabataba tsy misy antony izay niseho androany, ka tsy hita izay hilazantsika izao fampitairana izao."
-    },
-    {
-      "v": 41,
-      "text": "Ary rehefa nilaza izany izy, dia nampirava ny olona vory teo."
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no niseho, raha mbola tany Korinto Apolosy, dia nitety ny tany ambony Paoly ka tonga tany Efesosy, ary nahita mpianatra sasany teo izy,",
+    "2": "Ka nanao taminy hoe: Efa noraisinareo ve ny Fanahy Masina fony vao nino ianareo? Ary ireo nanao taminy hoe: Tsy mbola renay akory na misy ny Fanahy Masina, na tsia.",
+    "3": "Ary hoy izy taminy: Ho amin' inona àry no nanaovana batisa anareo? Dia hoy ireo: Ho amin' ny batisan' i Jaona.",
+    "4": "Fa hoy Paoly: Nanao ny batisan' ny fibebahana tokoa Jaona ka nilaza tamin' ny olona fa tokony hino Izay avy manaraka azy izy ireo, dia Jesosy Kristy.",
+    "5": "Ary raha nandre izany ireo, dia natao batisa hoamin' ny anaran' i Jesosy Tompo.",
+    "6": "Ary rehefa nametrahan' i Paoly tanana izy ireo, dia nilatsaka taminy ny Fanahy Masina; ary niteny tamin' ny fiteny tsy fantatra ireo sady naminany.",
+    "7": "Ary tokony ho roa ambin' ny folo lahy no isan' izy rehetra.",
+    "8": "Ary niditra tao amin' ny synagoga Paoly ka niteny tamin' ny fahasahiana telo volana, niady hevitra sy nampanaiky ny amin' ny fanjakan' Andriamanitra.",
+    "9": "Fa raha nikiribiby ny sasany ka tsy nino, fa niteny ratsy izany lalana izany teo imason' ny olona maro, dia niala tamin' ireo izy ka nitondra ny mpianatra nitokana, dia niady hevitra isan' andro tao amin' ny sekolin' i Tyrano.",
+    "10": "Ary naharitra roa taona ngarangidina izany; ka dia nandre ny tenin' ny Tompo Jesosy izay rehetra nonina tany Azia na Jiosy na Grika.",
+    "11": "Ary ny tanan' i Paoly no nanaovan' Andriamanitra fahagagana manokana maro,",
+    "12": "Ka dia ny mosara sy ny fiaron' akanjo teny aminy no nentina hatao amin' ny marary, dia sitrana ny aretina, ary nivoaka ny fanahy ratsy.",
+    "13": "Ary nisy Jiosy sasany, mpiriorio mpamoaka fanahy ratsy, izay ninia nanonona ny anaran' i Jesosy Tompo tamin' ireo manana fanahy ratsy ka nanao hoe: Mampianiana anareo amin' i Jesosy Izay torin' i Paoly izahay.",
+    "14": "Ary nisy fito mirahalahy, zanak' i Skeva, Jiosy, lohan' ny mpisorona, izay nanao izany.",
+    "15": "Ary ny fanahy ratsy namaly ka nanao taminy hoe: Fantatro Jesosy, ary fantatro Paoly; fa mba iza kosa moa ianareo?",
+    "16": "Ary ny lehilahy izay nanana ny fanahy ratsy dia niantsambotra tamin' ireo ary nahery ka naharesy azy, dia nandositra niala tamin' izany trano izany ireo sady nitanjaka no voaratra.",
+    "17": "Ary fantatry ny Jiosy sy ny Grika rehetra izay nonina tany Efesosy izany; dia raiki-tahotra ny olona rehetra ka nankalazaina ny Anaran' i  Jesosy Tompo.",
+    "18": "Ary maro izay nino no tonga ka niaiky sy nampiseho ny asany.",
+    "19": "Ary maro koa ny mpanao ody no nanangona ny bokiny ka nandoro azy teo imason' ny olona rehetra; ary nony voatontaly ny tokom-bidiny, dia hita fa volafotsy dimy alina izany.",
+    "20": "Fatratra toy izany no fandroson' ny tenin' Andriamanitra sy ny fandreseny.",
+    "21": "Ary rehefa vita izany zavatra izany, dia nikasa tao am-panahiny Paoly handeha hamaky an' i Masedonia sy Akaia aloha vao hankany Jerosalema ka nanao hoe: Rehefa tonga any aho, dia tsy maintsy hahita an' i Roma koa.",
+    "22": "Ary ny roa lahy tamin' izay nanompo azy, dia Timoty sy Erasto, no nirahiny nankany Masedonia; fa mbola nitoetra tany Azia andro vitsivitsy izy.",
+    "23": "Ary tamin' izany fotoana izany dia nisy tabataba be ny amin' izany lalana izany.",
+    "24": "Fa nisy lehilahy anankiray atao hoe Demetrio, mpanefy volafotsy, izay nanao sarin' ny tempolin' i Diana tamin' ny volafotsy, dia nampahazo harena be ny mpanefy;",
+    "25": "Ireny mbamin' ny mpanao asa hafa toy izany koa dia nantsoiny hiangona ka nilazany hoe: Tompokolahy, fantatrareo fa amin' izao taozavatra izao no ahazoantsika harena.",
+    "26": "Ary hitanareo sy renareo koa fa tsy eto Efesosy ihany, fa saiky manerana an' i Azia rehetra dia mandresy lahatra olona betsaka izany Paoly izany ka nampivily ny sain' ny maro manao hoe: Tsy Andriamanitra izay zavatra nataon-tanana.",
+    "27": "Ka dia tsy izao asantsika izao ihany no tandindomin-doza hatao ho zava-poana; fa ny tempolin' i Diana, andriamani-bavy lehibe, dia hatao tsinontsinona koa aza, ka ho afa-boninahitra ilay ivavahan' i Azia rehetra sy izao tontolo izao.",
+    "28": "Ary rehefa nandre izany izy ireo, dia tezitra loatra ka niantso nanao hoe: Lehibe Dianan' ny Efesiana!",
+    "29": "Dia nanerana ny tanàna ny tabataba; ary rehefa nisarika an' i Gaio sy Aristarko, lehilahy Masedoniana niara-dia tamin' i Paoly izy ireo, dia niray saina niriotra ho ao an-trano filalaovana teatra.",
+    "30": "Ary raha te-hiditra ho any amin' ny olona Paoly, dia tsy navelan' ny mpianatra.",
+    "31": "Koa ny lehibe sasany tany Azia, izay sakaizany, dia nampitondra teny nangataka azy mba tsy ho sahy hiditra ao an-trano filalaovana teatra.",
+    "32": "Ary ny sasany niantso zavatra iray, ary ny sasany kosa zavatra hafa; fa nifanjevo ny olona vory; koa ny ankamaroany tsy nahalala izay anton' ny niangonany teo.",
+    "33": "Ary nisy nisarika an' i Aleksandro avy teo amin' ny vahoaka, fa ny jiosy nanesika azy handroso. Ary Aleksandro nanofa tanana, fa te-handaha-teny hiala tsiny tamin' ny olona.",
+    "34": "Fa rehefa fantatry ny olona fa Jiosy izy, dia niredona niantso tokony ho ora roa izy rehetra hoe: Lehibe Dianan' ny Efesiana!",
+    "35": "Ary rehefa nampangina ny olona ny mpitahiry ny didy ka nanao hoe: Ry lehilahy Efesiana, iza no olona tsy mahalala fa ny tanànan' ny Efesiana no mpivavaka amin' ny Diana lehibe sy ny sariny izay nilatsaka avy tamin' i Jopitera?",
+    "36": "Ary satria tsy azo toherina izany, dia tokony hangina ianareo ka tsy hanao na inona na inona an-kamehana.",
+    "37": "Fa nentinareo ety ireo lehilahy ireo, izay tsy nandroba tempoly, na niteny ratsy ny andriamanitrareo.",
+    "38": "Koa raha manan-teny hifamaliana amin' olona Demetrio sy ny mpanefy izay momba azy, aoka hifandahatra izy ireo, fa malalaka ny fitsarana, ary ao ihany koa ireo governora.",
+    "39": "Fa raha mitady zavatra hafa kosa ianareo, dia hotsaraina amin' izay fivoriana voatendrin' ny lalàna.",
+    "40": "Fandrao ampangaina isika noho ny tabataba tsy misy antony izay niseho androany, ka tsy hita izay hilazantsika izao fampitairana izao.",
+    "41": "Ary rehefa nilaza izany izy, dia nampirava ny olona vory teo."
+  }
 }

@@ -1,37 +1,14 @@
 {
+  "book": "Salamo",
   "chapter": 124,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Hira misy hevitra ambaratonga. Nataon' i Davida.] RAHA tsy Jehovah no nomba antsika, ankehitriny dia afa-miteny Isiraely hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Raha tsy Jehovah no nomba antsika, raha nitsangana hamely antsika ny olona,"
-    },
-    {
-      "v": 3,
-      "text": "\"Dia efa nitelina antsika velona izy, raha nirehitra tamintsika ny fahatezeran' ireo;\""
-    },
-    {
-      "v": 4,
-      "text": "Dia efa nandifotra antsika ny rano, ary nanafotra ny fanahintsika ny riaka."
-    },
-    {
-      "v": 5,
-      "text": "Eny, efa nanafotra ny fanahintsika ny rano misafoaka."
-    },
-    {
-      "v": 6,
-      "text": "Isaorana anie Jehovah, Izay tsy nanolotra antsika ho rembin' ny nifiny."
-    },
-    {
-      "v": 7,
-      "text": "Ny fanahintsika dia efa afaka tahaka ny vorona afaka tamin' ny fandriky ny mpihaza: tapaka ny fandrika, ka afaka isika."
-    },
-    {
-      "v": 8,
-      "text": "Ny famonjena antsika dia avy amin' ny anaran' i Jehovah, Mpanao ny lanitra sy ny tany."
-    }
-  ]
+  "verses": {
+    "1": "[Hira misy hevitra ambaratonga. Nataon' i Davida.] RAHA tsy Jehovah no nomba antsika, ankehitriny dia afa-miteny Isiraely hoe:",
+    "2": "Raha tsy Jehovah no nomba antsika, raha nitsangana hamely antsika ny olona,",
+    "3": "Dia efa nitelina antsika velona izy, raha nirehitra tamintsika ny fahatezeran' ireo;",
+    "4": "Dia efa nandifotra antsika ny rano, ary nanafotra ny fanahintsika ny riaka.",
+    "5": "Eny, efa nanafotra ny fanahintsika ny rano misafoaka.",
+    "6": "Isaorana anie Jehovah, Izay tsy nanolotra antsika ho rembin' ny nifiny.",
+    "7": "Ny fanahintsika dia efa afaka tahaka ny vorona afaka tamin' ny fandriky ny mpihaza: tapaka ny fandrika, ka afaka isika.",
+    "8": "Ny famonjena antsika dia avy amin' ny anaran' i Jehovah, Mpanao ny lanitra sy ny tany."
+  }
 }

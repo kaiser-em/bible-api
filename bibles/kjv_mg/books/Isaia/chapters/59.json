@@ -1,89 +1,27 @@
 {
+  "book": "Isaia",
   "chapter": 59,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Indro, ny tanan' i Jehovah tsy nihafohy, fa mahavonjy, ary ny sofiny tsy lalodalovana, fa mahare;\""
-    },
-    {
-      "v": 2,
-      "text": "Fa ny helokareo no efitra mampisaraka anareo amin' Andriamanitrareo, ary ny fahotanareo no mampiafina ny tavany aminareo, ka dia tsy mihaino Izy."
-    },
-    {
-      "v": 3,
-      "text": "\"Fa ny tananareo dia voaloto amin' ny ra, ary ny rantsan-tananareo amin' ny heloka; ny molotrareo miteny lainga, ny lelanareo mibedibedy faharatsiana.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Tsy misy miantso ho amin' ny fahamarinana, na mandahatra ho an' ny rariny; matoky zava-poana sy miteny lainga izy; torontoronina fampahoriana izy ka miteraka heloka.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Mikotrika ny atodin' ny menarana izy ary manenona ny tranon-kala; izay homana ny atodin' ireny dia ho faty, fa raha poritra iny, dia menarana no miporitsaka avy ao.\""
-    },
-    {
-      "v": 6,
-      "text": "Ny tranon-kalany tsy ho azo atao fitafiana, ary ny asany dia asan-keloka, ary asan-kerisetra no eo an-tanany."
-    },
-    {
-      "v": 7,
-      "text": "\"Ny tongony miriotra ho amin' ny ratsy sy mimaona handatsaka rà marina; ny fisainany dia fisainan-keloka; fandravana sy fandringanana no eo amin' ny alehany.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ny lalan' ny fiadanana tsy fantany; ary tsy misy rariny ao amin' ny alehany; nanao lalana miolakolaka ho azy izy; ka na iza na iza mandia izany dia tsy hahita fiadanana.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary noho izany dia lavitra antsika ny rariny, ary ny fahamarinana tsy mahatratra antsika; miandry ny mazava isika, nefa indro ny maizina, ary fahazavana, fa mbola ao amin' ny haizim-pito ihany no andehanantsika.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Mitsapatsapa manara-drindrina tahaka ny jamba isika. Eny, mitsapatsapa tahaka ny tsy mana-maso; tafintohina amin' ny mitataovovonana tahaka ny amin' ny maizimaizina isika; eo amin' ny toerana lao tahaka ny maty isika.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Isika rehetra mampierona tahaka ny bera ary mitoloko tokoa tahaka ny voromailala; miandry ny rariny isika, nefa tsy misy, ary ny famonjena, nefa lavitra antsika izany.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Fa efa betsaka eo anatrehanao ny fiodinanay, ary ny fahotanay miampanga anay; eny, tsaroanay ny fahadisoanay, ary ny helokay dia fantatray,\""
-    },
-    {
-      "v": 13,
-      "text": "Dia ny miodina sy ny mandainga amin' i Jehovah, ary ny miala amin' ny fanarahana an' Andriamanitray, ny miteny fampahoriana sy fikomiana, ary ny torontoronina sy mamoaka teny lainga avy ao am-po."
-    },
-    {
-      "v": 14,
-      "text": "\"Nahemotra ny rariny, ary mijanon-davitra ny hitsiny; fa lavo eny an-kalalahana ny fahamarinana, ary ny hitsim-po tsy mahazo miditra.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Eny, tsy eo ny fahamarinana; ary izay miala amin' ny ratsy dia toy ny manolo-tena ho sambotra; ary hitan' i Jehovah izany ka tsy faly Izy noho ny tsy fisian' ny rariny.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary hitany fa tsy nisy olona, sady talanjona Izy, satria tsy nisy mpanalalana, ka dia ny sandriny no nanao famonjena ho Azy, ary ny fahamarinany no nanohana Azy."
-    },
-    {
-      "v": 17,
-      "text": "\"Niakanjo fahamarinana tahaka ny akanjo fiarovan-tratra Izy, ary fiarovan-doha famonjena no eo amin' ny lohany; ary niakanjo ny akanjo famaliana Izy.Eny, nandray ny fahasaro-piaro ho akanjo ivelany Izy.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Araka ny asa natao no hamaliany, dia fahatezerana mirehitra ho an' ny fahavalony; famaliana ho an' ny rafiny; ary ny nosy dia hovaliany tokoa.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary hatrany andrefana dia hatahotra ny anaran' i Jehovah ny olona ary ny voninahiny hatramin' ny fiposahan' ny masoandro.Fa raha avy toy ny ony ny fahavalo, ny Fanahin' i Jehovah hanangana faneva hanakanana azy."
-    },
-    {
-      "v": 20,
-      "text": "Ary ho tonga ao Ziona ny Mpanavotra, dia ho amin' i Jakoba izay miala amin' ny fahadisoana, hoy Jehovah."
-    },
-    {
-      "v": 21,
-      "text": "Raha Izaho, dia izao no fanekeko aminy, hoy Jehovah: ny fanahiko Izay ao aminao sy ny teniko izay nataoko teo am-bavanao dia tsy hiala amin' ny vavanao, na amin' ny vavan' ny taranakao, na amin' ny vavan' ny taranaky ny taranakao, hatramin' izao ka ho mandrakizay, hoy Jehovah."
-    }
-  ]
+  "verses": {
+    "1": "Indro, ny tanan' i Jehovah tsy nihafohy, fa mahavonjy, ary ny sofiny tsy lalodalovana, fa mahare;",
+    "2": "Fa ny helokareo no efitra mampisaraka anareo amin' Andriamanitrareo, ary ny fahotanareo no mampiafina ny tavany aminareo, ka dia tsy mihaino Izy.",
+    "3": "Fa ny tananareo dia voaloto amin' ny ra, ary ny rantsan-tananareo amin' ny heloka; ny molotrareo miteny lainga, ny lelanareo mibedibedy faharatsiana.",
+    "4": "Tsy misy miantso ho amin' ny fahamarinana, na mandahatra ho an' ny rariny; matoky zava-poana sy miteny lainga izy; torontoronina fampahoriana izy ka miteraka heloka.",
+    "5": "Mikotrika ny atodin' ny menarana izy ary manenona ny tranon-kala; izay homana ny atodin' ireny dia ho faty, fa raha poritra iny, dia menarana no miporitsaka avy ao.",
+    "6": "Ny tranon-kalany tsy ho azo atao fitafiana, ary ny asany dia asan-keloka, ary asan-kerisetra no eo an-tanany.",
+    "7": "Ny tongony miriotra ho amin' ny ratsy sy mimaona handatsaka rà marina; ny fisainany dia fisainan-keloka; fandravana sy fandringanana no eo amin' ny alehany.",
+    "8": "Ny lalan' ny fiadanana tsy fantany; ary tsy misy rariny ao amin' ny alehany; nanao lalana miolakolaka ho azy izy; ka na iza na iza mandia izany dia tsy hahita fiadanana.",
+    "9": "Ary noho izany dia lavitra antsika ny rariny, ary ny fahamarinana tsy mahatratra antsika; miandry ny mazava isika, nefa indro ny maizina, ary fahazavana, fa mbola ao amin' ny haizim-pito ihany no andehanantsika.",
+    "10": "Mitsapatsapa manara-drindrina tahaka ny jamba isika. Eny, mitsapatsapa tahaka ny tsy mana-maso; tafintohina amin' ny mitataovovonana tahaka ny amin' ny maizimaizina isika; eo amin' ny toerana lao tahaka ny maty isika.",
+    "11": "Isika rehetra mampierona tahaka ny bera ary mitoloko tokoa tahaka ny voromailala; miandry ny rariny isika, nefa tsy misy, ary ny famonjena, nefa lavitra antsika izany.",
+    "12": "Fa efa betsaka eo anatrehanao ny fiodinanay, ary ny fahotanay miampanga anay; eny, tsaroanay ny fahadisoanay, ary ny helokay dia fantatray,",
+    "13": "Dia ny miodina sy ny mandainga amin' i Jehovah, ary ny miala amin' ny fanarahana an' Andriamanitray, ny miteny fampahoriana sy fikomiana, ary ny torontoronina sy mamoaka teny lainga avy ao am-po.",
+    "14": "Nahemotra ny rariny, ary mijanon-davitra ny hitsiny; fa lavo eny an-kalalahana ny fahamarinana, ary ny hitsim-po tsy mahazo miditra.",
+    "15": "Eny, tsy eo ny fahamarinana; ary izay miala amin' ny ratsy dia toy ny manolo-tena ho sambotra; ary hitan' i Jehovah izany ka tsy faly Izy noho ny tsy fisian' ny rariny.",
+    "16": "Ary hitany fa tsy nisy olona, sady talanjona Izy, satria tsy nisy mpanalalana, ka dia ny sandriny no nanao famonjena ho Azy, ary ny fahamarinany no nanohana Azy.",
+    "17": "Niakanjo fahamarinana tahaka ny akanjo fiarovan-tratra Izy, ary fiarovan-doha famonjena no eo amin' ny lohany; ary niakanjo ny akanjo famaliana Izy.Eny, nandray ny fahasaro-piaro ho akanjo ivelany Izy.",
+    "18": "Araka ny asa natao no hamaliany, dia fahatezerana mirehitra ho an' ny fahavalony; famaliana ho an' ny rafiny; ary ny nosy dia hovaliany tokoa.",
+    "19": "Ary hatrany andrefana dia hatahotra ny anaran' i Jehovah ny olona ary ny voninahiny hatramin' ny fiposahan' ny masoandro.Fa raha avy toy ny ony ny fahavalo, ny Fanahin' i Jehovah hanangana faneva hanakanana azy.",
+    "20": "Ary ho tonga ao Ziona ny Mpanavotra, dia ho amin' i Jakoba izay miala amin' ny fahadisoana, hoy Jehovah.",
+    "21": "Raha Izaho, dia izao no fanekeko aminy, hoy Jehovah: ny fanahiko Izay ao aminao sy ny teniko izay nataoko teo am-bavanao dia tsy hiala amin' ny vavanao, na amin' ny vavan' ny taranakao, na amin' ny vavan' ny taranaky ny taranakao, hatramin' izao ka ho mandrakizay, hoy Jehovah."
+  }
 }

@@ -1,41 +1,15 @@
 {
+  "book": "Salamo",
   "chapter": 113,
-  "verses": [
-    {
-      "v": 1,
-      "text": "MIDERÀ an' i Jehovah. Miderà ianareo, ry mpanompon' i Jehovah, miderà ny anaran' i Jehovah."
-    },
-    {
-      "v": 2,
-      "text": "Isaorana anie ny anaran' i Jehovah hatramin' izao ka ho mandrakizay."
-    },
-    {
-      "v": 3,
-      "text": "Hoderaina anie ny anaran' i Jehovah hatramin' ny fiposahan' ny masoandro ka hatramin' ny filentehany."
-    },
-    {
-      "v": 4,
-      "text": "Avo ambonin' ny firenena rehetra Jehovah, ary ny voninahiny ambonin' ny lanitra."
-    },
-    {
-      "v": 5,
-      "text": "Iza no tahaka an' i Jehovah Andriamanitsika, izay mipetraka any amin' ny avo,"
-    },
-    {
-      "v": 6,
-      "text": "Nefa miondrika mijery ny any an-danitra sy ny ety an-tany?"
-    },
-    {
-      "v": 7,
-      "text": "Manangana ny mahantra hiala amin' ny vovoka Izy, ary manandratra ny sahirana ho afaka eo amin' ny zezika,"
-    },
-    {
-      "v": 8,
-      "text": "Mba hametraka azy miaraka amin' ny mpanapaka, dia ny mpanapaka ny olony."
-    },
-    {
-      "v": 9,
-      "text": "Mampitoetra an-trano ny vehivavy momba Izy, ary mahatonga azy ho renin-jaza mifaly. Miderà an' i Jehovah."
-    }
-  ]
+  "verses": {
+    "1": "MIDERÀ an' i Jehovah. Miderà ianareo, ry mpanompon' i Jehovah, miderà ny anaran' i Jehovah.",
+    "2": "Isaorana anie ny anaran' i Jehovah hatramin' izao ka ho mandrakizay.",
+    "3": "Hoderaina anie ny anaran' i Jehovah hatramin' ny fiposahan' ny masoandro ka hatramin' ny filentehany.",
+    "4": "Avo ambonin' ny firenena rehetra Jehovah, ary ny voninahiny ambonin' ny lanitra.",
+    "5": "Iza no tahaka an' i Jehovah Andriamanitsika, izay mipetraka any amin' ny avo,",
+    "6": "Nefa miondrika mijery ny any an-danitra sy ny ety an-tany?",
+    "7": "Manangana ny mahantra hiala amin' ny vovoka Izy, ary manandratra ny sahirana ho afaka eo amin' ny zezika,",
+    "8": "Mba hametraka azy miaraka amin' ny mpanapaka, dia ny mpanapaka ny olony.",
+    "9": "Mampitoetra an-trano ny vehivavy momba Izy, ary mahatonga azy ho renin-jaza mifaly. Miderà an' i Jehovah."
+  }
 }

@@ -1,165 +1,46 @@
 {
+  "book": "Mpitsara",
   "chapter": 11,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary Jefta Gileadita dia lehilahy mahery sy be herim-po, ary zanaky ny vehivavy janga izy; ary Gileada no niteraka an' i Jefta.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary ny vadin' i Gileada dia niteraka zazalahy maro taminy; ary nony efa lehibe ireo zana-badiny ireo, dia nandroaka an' i Jefta ka nanao taminy hoe: Tsy handova eto amin' ny taranaky ny rainay ianao, fa zanaky ny vehivavy hafa.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary Jefta nandositra ny rahalahiny ka nonina tany amin' ny tany Toba; dia nisy olom-poana nivory teo amin' i Jefta ka niara-nivoaka taminy.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary izao no niseho, nony ela, dia nanafika ny Zanak' Isiraely ny taranak' i Amona."
-    },
-    {
-      "v": 5,
-      "text": "Ary izao no zava-nisy, rehefa nanafika ny Isiraely ny taranak' i Amona, dia nandeha ny loholon' i Gileada haka an' i Jefta hiala any amin' ny tany Toba."
-    },
-    {
-      "v": 6,
-      "text": "Ary hoy izy ireo tamin' i Jefta: Avia ho mpitarika anay ianao, hiadiantsika amin' ny taranak' i Amona."
-    },
-    {
-      "v": 7,
-      "text": "Fa hoy Jefta tamin' ny loholon' i Gileada: Tsy efa nankahala ahy va ianareo ka nandroaka ahy hiala tao an-tranon' ny raiko? Koa nahoana no mankaty amiko indray ianareo ankehitriny, nony azom-pahoriana?"
-    },
-    {
-      "v": 8,
-      "text": "Dia hoy ny loholon' i Gileada tamin' i Jefta: Izany no iverenanay aty aminao ankehitriny, mba handehananao miaraka aminay sy hiadianao amin' ny taranak' i Amona, ka dia ho lohany aminay mponina rehetra any Gileada ianao."
-    },
-    {
-      "v": 9,
-      "text": "Dia hoy Jefta tamin' ny loholon' i Gileada: Raha hoentinareo mody indray aho mba hiady amin' ny taranak' i Amona, ka hatolotr' i Jehovah eo anoloako ireny, dia izaho hoe no ho lohany aminareo?"
-    },
-    {
-      "v": 10,
-      "text": "Dia hoy ny loholon' i Gileada tamin' i Jefta: Jehovah no ho vavolombelona amintsika, raha tsy hataonay araka izany teninao izany."
-    },
-    {
-      "v": 11,
-      "text": "\"Dia nandeha niaraka tamin' ny loholon' i Gileada i Jefta, ka dia nasandratry ny vahoaka ho lohany sy mpitarika azy izy; ary Jefta nilaza ny teniny rehetra teo anatrehan' i Jehovah tao Mizpa.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary nandefa iraka i Jefta nankany amin' ny mpanjakan' ny taranak' i Amona hanao hoe: Moa mifaninona akory izaho sy ianao, no tonga aty amiko hiady amin' ny taniko ianao?"
-    },
-    {
-      "v": 13,
-      "text": "\"Dia hoy ny mpanjakan' i Amona tamin' ny irak' i Jefta: Satria nalain' ny Isiraely ny taniko hatrany Arnona ka hatrany Jaboka ary hatrany Jordana, fony niakatra avy tany Egypta izy; koa avereno amin' ny fihavanana àry izany tany izany ankehitriny.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary nandefa iraka indray Jefta nankany amin' ny mpanjakan' ny taranak' i Amona;\""
-    },
-    {
-      "v": 15,
-      "text": "Ka nanao taminy hoe: Izao no lazain' i Jefta: Ny Isiraely tsy naka ny tanin' i Moaba, na ny tanin' ny taranak' i Amona."
-    },
-    {
-      "v": 16,
-      "text": "\"Fa fony niakatra avy tany Egypta ny Isiraely, dia nandeha nitety ny efitra hatramin' ny Ranomasina Mena izy ka tonga tany Kadesy;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Dia nandefa iraka ny Isiraely nankany amin' ny mpanjakan' i Edoma ka nanao hoe: Masìna ianao, aoka mba hamaky ny taninao aho; fa tsy nety nihaino izany ny mpanjakan' i Edoma. Ary naniraka tany amin' ny mpanjakan' i Moaba toraka izany koa izy; fa tsy nety izy; ka dia nitoetra tany Kadesy ny Isiraely.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Dia nandeha nitety ny efitra izy ka nanodidina ny tany Edoma sy ny tany Moaba, dia tonga teo amin'ny lafiny atsinanan' i Moaba ka nitoby teo an-dafin' i Arnona, fa tsy niditra teo anatin' ny fari-tanin' i Moaba; fa Arnona no fari-tanin' i Moaba.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ary nandefa iraka tany amin' i Sihona, mpanjaka' ny Amorita, mpanjakan' i Hesbona ny Isiraely; ary hoy ny Isiraely taminy: Masìna ianao, aoka mba handeha hamaky ny taninao izahay hankany amin' ny fonenako.\""
-    },
-    {
-      "v": 20,
-      "text": "Fa Sihona tsy natoky ny Isiraely hamaky ny faritaniny, fa namory ny vahoakany rehetra izy, dia nitoby tany Jahaza ka niady tamin' ny Isiraely."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary Jehovah, Andriamanitry ny Isiraely, nanolotra an' i Sihona sy ny vahoakany rehetra teo an-tanan' ny Isiraely, ka namono azy ireo; dia azon' ny Isiraely ny tanin' ny Amorita rehetra, mponina tamin' izany tany izany.\""
-    },
-    {
-      "v": 22,
-      "text": "Dia nahazo ny tanin' ny Amorita rehetra izy hatrany Arnona, ka hatrany Jaboka ary hatramin' ny efitra ka hatrany Jordana."
-    },
-    {
-      "v": 23,
-      "text": "\"Koa ankehitriny, Jehovah, Andriamanitry ny Isiraely, efa nandroaka ny Amorita teo anoloan' ny Isiraely olony; ary ianao kosa va te-haka ny tany?\""
-    },
-    {
-      "v": 24,
-      "text": "Moa tsy hotananao va izay tany omen' i Kemosy andriamanitrao anao? Ary izay tany rehetra omen' i Jehovah Andriamanitray anay dia mba hotananay kosa."
-    },
-    {
-      "v": 25,
-      "text": "Moa tsara noho Balaka, zanak' i Zipora, mpanjakan' i Moaba, va ianao? Nety nanohitra ny Isiraely na niady taminy akory va izy?"
-    },
-    {
-      "v": 26,
-      "text": "Raha Isiraely nitoetra telonjato taona tany Hesbona sy ireo tanànany ary tany Aroera sy ireo tanànany ary tany amin' ireo tanàna rehetra eny amoron' i Arnona, nahoana no tsy nalainareo ny tany tamin' izany andro izany?"
-    },
-    {
-      "v": 27,
-      "text": "Noho izany dia tsy nanota taminao aho fa ianao no manisy ratsy ahy, fa miady amiko: aoka Jehovah Mpitsara no hitsara ny Zanak' Isiraely sy ny taranak' i Amona anio."
-    },
-    {
-      "v": 28,
-      "text": "Nefa tsy nohenoin' ny mpanjakan' ny taranak' i Amona ny tenin' i Jefta izay nampitondrainy tany aminy."
-    },
-    {
-      "v": 29,
-      "text": "\"Ary tonga tamin' i Jefta ny Fanahin' i Jehovah, dia nandeha nitety an' i Gileada sy Manase izy; dia nitety an' i Mizpa any Gileada koa izy ka niala tany Mizpa any Gileada, dia nandroso nankany amin' ny taranak' i Amona.\""
-    },
-    {
-      "v": 30,
-      "text": "Ary Jefta nivoady tamin' i Jehovah ka nanao hoe: Raha hatolotrao eo an-tanako tokoa ny taranak' i Amona,"
-    },
-    {
-      "v": 31,
-      "text": "Dia izao no hisy, ho an' i Jehovah tokoa izay mivoaka amin' ny varavaran' ny tranoko hitsena ahy, rehefa miverina soa aman-tsara avy any amin' ny taranak' i Amona aho, ary hateriko ho fanatitra dorana izany."
-    },
-    {
-      "v": 32,
-      "text": "Dia nandeha Jefta nankany amin' ny taranak' i Amona hiady aminy: ary natolotr' i Jehovah teo an-tanany ireo."
-    },
-    {
-      "v": 33,
-      "text": "Dia namono azy hatrany Aroera izy ka hatrany akaikin' i Minita, dia tanàna roapolo, sy hatrany amin' ny tany lemaky ny tanimboaloboka, ka be dia be no maty. Dia resy teo anoloan' ny Zanak' Isiraely ny taranak' i Amona."
-    },
-    {
-      "v": 34,
-      "text": "\"Ary Jefta tonga tany Mizpa ho any an-tranony, ary, indro, nivoaka ny zanany vavy niaraka tamin' ny ampongatapaka sy ny dihy hitsena azy; ary vavy tokany io, fa tsy nanana zanakalahy na zanakavavy afa-tsy io izy.\""
-    },
-    {
-      "v": 35,
-      "text": "\"Ary izao no niseho, rehefa nahita azy Jefta dia nandriatra ny fitafiany ka nanao hoe: Indrisy, ry zanako vavy! efa nampitanondrika ahy indrindra ianao, ary ianao no tonga nampidi-doza tamiko; fa efa niloa-bava tamin' i Jehovah aho, ka tsy azoko afody intsony.\""
-    },
-    {
-      "v": 36,
-      "text": "Fa hoy ny zanany vavy taminy: Ry dada ô, raha niloa-bava tamin' i Jehovah àry ianao, dia ataovy amiko araka izay naloaky ny vavanao, satria Jehovah efa namaly ho anao ny amin' ny fahavalonao, dia ny amin' ny taranak' i Amona."
-    },
-    {
-      "v": 37,
-      "text": "Dia hoy izy tamin' ny rainy: Aoka izao no hatao amiko, aza maninona ahy aloha hatramin' ny roa volana mba hiakarako sy hidinako any an-tendrombohitra hitomaniako ny maha-virijina ahy, dia izaho sy ny namako."
-    },
-    {
-      "v": 38,
-      "text": "Dia hoy ny rainy: Mandehana àry. Dia nampandeha azy roa volana izy, ary nandeha razazavavy sy ny namany ka nitomany teny an-tendrombohitra noho ny maha-virijina azy."
-    },
-    {
-      "v": 39,
-      "text": "Ary izao no niseho, rehefa tamin' ny fiafaran' ny roa volana dia niverina tany amin' ny rainy izy, ka nataony tamin-drazazavavy araka ny voadiny izay nataony, ary tsy mbola nahalala lahy izy. Ary tonga fanao teo amin' ny Isiraely izany,"
-    },
-    {
-      "v": 40,
-      "text": "Fa nandeha isan-taona ny zanakavavin' ny Isiraely hitomany ny zanakavavin' i Jefta Gileadita hefarana isan-taona."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jefta Gileadita dia lehilahy mahery sy be herim-po, ary zanaky ny vehivavy janga izy; ary Gileada no niteraka an' i Jefta.",
+    "2": "Ary ny vadin' i Gileada dia niteraka zazalahy maro taminy; ary nony efa lehibe ireo zana-badiny ireo, dia nandroaka an' i Jefta ka nanao taminy hoe: Tsy handova eto amin' ny taranaky ny rainay ianao, fa zanaky ny vehivavy hafa.",
+    "3": "Ary Jefta nandositra ny rahalahiny ka nonina tany amin' ny tany Toba; dia nisy olom-poana nivory teo amin' i Jefta ka niara-nivoaka taminy.",
+    "4": "Ary izao no niseho, nony ela, dia nanafika ny Zanak' Isiraely ny taranak' i Amona.",
+    "5": "Ary izao no zava-nisy, rehefa nanafika ny Isiraely ny taranak' i Amona, dia nandeha ny loholon' i Gileada haka an' i Jefta hiala any amin' ny tany Toba.",
+    "6": "Ary hoy izy ireo tamin' i Jefta: Avia ho mpitarika anay ianao, hiadiantsika amin' ny taranak' i Amona.",
+    "7": "Fa hoy Jefta tamin' ny loholon' i Gileada: Tsy efa nankahala ahy va ianareo ka nandroaka ahy hiala tao an-tranon' ny raiko? Koa nahoana no mankaty amiko indray ianareo ankehitriny, nony azom-pahoriana?",
+    "8": "Dia hoy ny loholon' i Gileada tamin' i Jefta: Izany no iverenanay aty aminao ankehitriny, mba handehananao miaraka aminay sy hiadianao amin' ny taranak' i Amona, ka dia ho lohany aminay mponina rehetra any Gileada ianao.",
+    "9": "Dia hoy Jefta tamin' ny loholon' i Gileada: Raha hoentinareo mody indray aho mba hiady amin' ny taranak' i Amona, ka hatolotr' i Jehovah eo anoloako ireny, dia izaho hoe no ho lohany aminareo?",
+    "10": "Dia hoy ny loholon' i Gileada tamin' i Jefta: Jehovah no ho vavolombelona amintsika, raha tsy hataonay araka izany teninao izany.",
+    "11": "Dia nandeha niaraka tamin' ny loholon' i Gileada i Jefta, ka dia nasandratry ny vahoaka ho lohany sy mpitarika azy izy; ary Jefta nilaza ny teniny rehetra teo anatrehan' i Jehovah tao Mizpa.",
+    "12": "Ary nandefa iraka i Jefta nankany amin' ny mpanjakan' ny taranak' i Amona hanao hoe: Moa mifaninona akory izaho sy ianao, no tonga aty amiko hiady amin' ny taniko ianao?",
+    "13": "Dia hoy ny mpanjakan' i Amona tamin' ny irak' i Jefta: Satria nalain' ny Isiraely ny taniko hatrany Arnona ka hatrany Jaboka ary hatrany Jordana, fony niakatra avy tany Egypta izy; koa avereno amin' ny fihavanana àry izany tany izany ankehitriny.",
+    "14": "Ary nandefa iraka indray Jefta nankany amin' ny mpanjakan' ny taranak' i Amona;",
+    "15": "Ka nanao taminy hoe: Izao no lazain' i Jefta: Ny Isiraely tsy naka ny tanin' i Moaba, na ny tanin' ny taranak' i Amona.",
+    "16": "Fa fony niakatra avy tany Egypta ny Isiraely, dia nandeha nitety ny efitra hatramin' ny Ranomasina Mena izy ka tonga tany Kadesy;",
+    "17": "Dia nandefa iraka ny Isiraely nankany amin' ny mpanjakan' i Edoma ka nanao hoe: Masìna ianao, aoka mba hamaky ny taninao aho; fa tsy nety nihaino izany ny mpanjakan' i Edoma. Ary naniraka tany amin' ny mpanjakan' i Moaba toraka izany koa izy; fa tsy nety izy; ka dia nitoetra tany Kadesy ny Isiraely.",
+    "18": "Dia nandeha nitety ny efitra izy ka nanodidina ny tany Edoma sy ny tany Moaba, dia tonga teo amin'ny lafiny atsinanan' i Moaba ka nitoby teo an-dafin' i Arnona, fa tsy niditra teo anatin' ny fari-tanin' i Moaba; fa Arnona no fari-tanin' i Moaba.",
+    "19": "Ary nandefa iraka tany amin' i Sihona, mpanjaka' ny Amorita, mpanjakan' i Hesbona ny Isiraely; ary hoy ny Isiraely taminy: Masìna ianao, aoka mba handeha hamaky ny taninao izahay hankany amin' ny fonenako.",
+    "20": "Fa Sihona tsy natoky ny Isiraely hamaky ny faritaniny, fa namory ny vahoakany rehetra izy, dia nitoby tany Jahaza ka niady tamin' ny Isiraely.",
+    "21": "Ary Jehovah, Andriamanitry ny Isiraely, nanolotra an' i Sihona sy ny vahoakany rehetra teo an-tanan' ny Isiraely, ka namono azy ireo; dia azon' ny Isiraely ny tanin' ny Amorita rehetra, mponina tamin' izany tany izany.",
+    "22": "Dia nahazo ny tanin' ny Amorita rehetra izy hatrany Arnona, ka hatrany Jaboka ary hatramin' ny efitra ka hatrany Jordana.",
+    "23": "Koa ankehitriny, Jehovah, Andriamanitry ny Isiraely, efa nandroaka ny Amorita teo anoloan' ny Isiraely olony; ary ianao kosa va te-haka ny tany?",
+    "24": "Moa tsy hotananao va izay tany omen' i Kemosy andriamanitrao anao? Ary izay tany rehetra omen' i Jehovah Andriamanitray anay dia mba hotananay kosa.",
+    "25": "Moa tsara noho Balaka, zanak' i Zipora, mpanjakan' i Moaba, va ianao? Nety nanohitra ny Isiraely na niady taminy akory va izy?",
+    "26": "Raha Isiraely nitoetra telonjato taona tany Hesbona sy ireo tanànany ary tany Aroera sy ireo tanànany ary tany amin' ireo tanàna rehetra eny amoron' i Arnona, nahoana no tsy nalainareo ny tany tamin' izany andro izany?",
+    "27": "Noho izany dia tsy nanota taminao aho fa ianao no manisy ratsy ahy, fa miady amiko: aoka Jehovah Mpitsara no hitsara ny Zanak' Isiraely sy ny taranak' i Amona anio.",
+    "28": "Nefa tsy nohenoin' ny mpanjakan' ny taranak' i Amona ny tenin' i Jefta izay nampitondrainy tany aminy.",
+    "29": "Ary tonga tamin' i Jefta ny Fanahin' i Jehovah, dia nandeha nitety an' i Gileada sy Manase izy; dia nitety an' i Mizpa any Gileada koa izy ka niala tany Mizpa any Gileada, dia nandroso nankany amin' ny taranak' i Amona.",
+    "30": "Ary Jefta nivoady tamin' i Jehovah ka nanao hoe: Raha hatolotrao eo an-tanako tokoa ny taranak' i Amona,",
+    "31": "Dia izao no hisy, ho an' i Jehovah tokoa izay mivoaka amin' ny varavaran' ny tranoko hitsena ahy, rehefa miverina soa aman-tsara avy any amin' ny taranak' i Amona aho, ary hateriko ho fanatitra dorana izany.",
+    "32": "Dia nandeha Jefta nankany amin' ny taranak' i Amona hiady aminy: ary natolotr' i Jehovah teo an-tanany ireo.",
+    "33": "Dia namono azy hatrany Aroera izy ka hatrany akaikin' i Minita, dia tanàna roapolo, sy hatrany amin' ny tany lemaky ny tanimboaloboka, ka be dia be no maty. Dia resy teo anoloan' ny Zanak' Isiraely ny taranak' i Amona.",
+    "34": "Ary Jefta tonga tany Mizpa ho any an-tranony, ary, indro, nivoaka ny zanany vavy niaraka tamin' ny ampongatapaka sy ny dihy hitsena azy; ary vavy tokany io, fa tsy nanana zanakalahy na zanakavavy afa-tsy io izy.",
+    "35": "Ary izao no niseho, rehefa nahita azy Jefta dia nandriatra ny fitafiany ka nanao hoe: Indrisy, ry zanako vavy! efa nampitanondrika ahy indrindra ianao, ary ianao no tonga nampidi-doza tamiko; fa efa niloa-bava tamin' i Jehovah aho, ka tsy azoko afody intsony.",
+    "36": "Fa hoy ny zanany vavy taminy: Ry dada ô, raha niloa-bava tamin' i Jehovah àry ianao, dia ataovy amiko araka izay naloaky ny vavanao, satria Jehovah efa namaly ho anao ny amin' ny fahavalonao, dia ny amin' ny taranak' i Amona.",
+    "37": "Dia hoy izy tamin' ny rainy: Aoka izao no hatao amiko, aza maninona ahy aloha hatramin' ny roa volana mba hiakarako sy hidinako any an-tendrombohitra hitomaniako ny maha-virijina ahy, dia izaho sy ny namako.",
+    "38": "Dia hoy ny rainy: Mandehana àry. Dia nampandeha azy roa volana izy, ary nandeha razazavavy sy ny namany ka nitomany teny an-tendrombohitra noho ny maha-virijina azy.",
+    "39": "Ary izao no niseho, rehefa tamin' ny fiafaran' ny roa volana dia niverina tany amin' ny rainy izy, ka nataony tamin-drazazavavy araka ny voadiny izay nataony, ary tsy mbola nahalala lahy izy. Ary tonga fanao teo amin' ny Isiraely izany,",
+    "40": "Fa nandeha isan-taona ny zanakavavin' ny Isiraely hitomany ny zanakavavin' i Jefta Gileadita hefarana isan-taona."
+  }
 }

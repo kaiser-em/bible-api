@@ -1,89 +1,27 @@
 {
+  "book": "Joba",
   "chapter": 18,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia namaly Bildada Sohita ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Mandra-pahoviana aloha no hamarana ny teny ianareo? Hevero tsara, dia hiteny izahay aorian' izany."
-    },
-    {
-      "v": 3,
-      "text": "Nahoana no atao ho toy ny biby izahay, ary heverina ho tahaka ny maloto eo imasonareo,"
-    },
-    {
-      "v": 4,
-      "text": "Ry ilay mamiravira tena amin' ny fahatezerana: noho ny aminao va no hahatonga ny tany ho lao, ary ny vatolampy hafindra hiala amin' ny fitoerany?"
-    },
-    {
-      "v": 5,
-      "text": "Eny, ho faty ny jiron' ny ratsy fanahy, ary hilopilopy ny lelafony."
-    },
-    {
-      "v": 6,
-      "text": "Ny mazava hanjary maizina ao an-dainy, ary ny jirony ho faty miaraka aminy."
-    },
-    {
-      "v": 7,
-      "text": "Hoterena ny diany, ary ny fisainany ihany no handavo azy."
-    },
-    {
-      "v": 8,
-      "text": "Fa ny tongony ihany no nandatsaka azy eo amin' ny fandrika harato, ary mandeha eo ambony fandrika izy."
-    },
-    {
-      "v": 9,
-      "text": "Ho azon' ny fandrika ny ombelahin-tongony ary ny mpandroba handresy azy."
-    },
-    {
-      "v": 10,
-      "text": "Miafina ao amin' ny tany ny fandrika haningotra azy sy ny tonta eny an-dalana."
-    },
-    {
-      "v": 11,
-      "text": "Horohoro no hampitahotra azy manodidina ka hampivezivezy azy amin' ny alehany."
-    },
-    {
-      "v": 12,
-      "text": "Ho lanin' ny mosary ny heriny, ary ny fandringanana dia ho vonona eo anilany."
-    },
-    {
-      "v": 13,
-      "text": "\"Handresy tsikelikely ny herin' ny hodiny izany; ka ny matoan' ny fahafatesana no handany ny heriny.\""
-    },
-    {
-      "v": 14,
-      "text": "Hongotana hiala amin' ny lainy ny zavatra itokiany, ary hitondra azy ho amin' ny mpanjakan' ny fampitahorana izany."
-    },
-    {
-      "v": 15,
-      "text": "\"Izay tsy taranany no hitoetra ao amin' ny lainy; solifara no hafafy amin' ny fonenany.\""
-    },
-    {
-      "v": 16,
-      "text": "Ho maina ny fakany ary ho tapaka ny rantsany eo ambony."
-    },
-    {
-      "v": 17,
-      "text": "Ny fahatsiarovana azy dia ho very tsy ho eo amin' ny tany, ary tsy hanana anarana eny an-dalambe izy."
-    },
-    {
-      "v": 18,
-      "text": "Roahina hiala amin' ny mazava ho any amin' ny maizina izy, ary enjehina hiala amin' izao tontolo izao."
-    },
-    {
-      "v": 19,
-      "text": "Tsy hanana zanakalahy, na zanaky ny mpiray tam-po eo amin' ny fireneny izy, na hisy sisa tavela eo amin' ny fonenany."
-    },
-    {
-      "v": 20,
-      "text": "Izay ho avy manaraka azy dia ho gaga ny amin' ny androny, toy ny nampahatahotra ireo teo alohany."
-    },
-    {
-      "v": 21,
-      "text": "Izany tokoa no fonenan' ny ratsy fanahy ary izany no toeran' izay tsy mahalala an' Andriamanitra."
-    }
-  ]
+  "verses": {
+    "1": "Dia namaly Bildada Sohita ka nanao hoe:",
+    "2": "Mandra-pahoviana aloha no hamarana ny teny ianareo? Hevero tsara, dia hiteny izahay aorian' izany.",
+    "3": "Nahoana no atao ho toy ny biby izahay, ary heverina ho tahaka ny maloto eo imasonareo,",
+    "4": "Ry ilay mamiravira tena amin' ny fahatezerana: noho ny aminao va no hahatonga ny tany ho lao, ary ny vatolampy hafindra hiala amin' ny fitoerany?",
+    "5": "Eny, ho faty ny jiron' ny ratsy fanahy, ary hilopilopy ny lelafony.",
+    "6": "Ny mazava hanjary maizina ao an-dainy, ary ny jirony ho faty miaraka aminy.",
+    "7": "Hoterena ny diany, ary ny fisainany ihany no handavo azy.",
+    "8": "Fa ny tongony ihany no nandatsaka azy eo amin' ny fandrika harato, ary mandeha eo ambony fandrika izy.",
+    "9": "Ho azon' ny fandrika ny ombelahin-tongony ary ny mpandroba handresy azy.",
+    "10": "Miafina ao amin' ny tany ny fandrika haningotra azy sy ny tonta eny an-dalana.",
+    "11": "Horohoro no hampitahotra azy manodidina ka hampivezivezy azy amin' ny alehany.",
+    "12": "Ho lanin' ny mosary ny heriny, ary ny fandringanana dia ho vonona eo anilany.",
+    "13": "Handresy tsikelikely ny herin' ny hodiny izany; ka ny matoan' ny fahafatesana no handany ny heriny.",
+    "14": "Hongotana hiala amin' ny lainy ny zavatra itokiany, ary hitondra azy ho amin' ny mpanjakan' ny fampitahorana izany.",
+    "15": "Izay tsy taranany no hitoetra ao amin' ny lainy; solifara no hafafy amin' ny fonenany.",
+    "16": "Ho maina ny fakany ary ho tapaka ny rantsany eo ambony.",
+    "17": "Ny fahatsiarovana azy dia ho very tsy ho eo amin' ny tany, ary tsy hanana anarana eny an-dalambe izy.",
+    "18": "Roahina hiala amin' ny mazava ho any amin' ny maizina izy, ary enjehina hiala amin' izao tontolo izao.",
+    "19": "Tsy hanana zanakalahy, na zanaky ny mpiray tam-po eo amin' ny fireneny izy, na hisy sisa tavela eo amin' ny fonenany.",
+    "20": "Izay ho avy manaraka azy dia ho gaga ny amin' ny androny, toy ny nampahatahotra ireo teo alohany.",
+    "21": "Izany tokoa no fonenan' ny ratsy fanahy ary izany no toeran' izay tsy mahalala an' Andriamanitra."
+  }
 }

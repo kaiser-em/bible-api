@@ -1,61 +1,20 @@
 {
+  "book": "Mpitoriteny",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary tsarovy ankehitriny ny Mpanao anao amin' ny andro fahatanoranao, dieny tsy mbola tonga ny andro mahory, ary tsy mbola mihatra ny taona izay hanaovanao hoe: Tsy sitrako izao;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Dieny tsy mbola maizina ny masoandro sy ny fahazavana sy ny volana sy ny kintana, ary tsy mbola miverina ny rahona aorian' ny ranonorana;\""
-    },
-    {
-      "v": 3,
-      "text": "Fa amin' izay dia hangovitra ny mpiandry trano, ary hanjoko ny lehilahy matanjaka, ary hitsahatra ny ankizivavy mpitoto satria efa vitsy ireo ary ho maizina ny vehivavy mitsirika eo am-baravarankely,"
-    },
-    {
-      "v": 4,
-      "text": "\"Ary hirindrina ny varavarana kopa-droa mankeny an-dalambe, rehefa malemy ny feon' ny fikosoham-bary; ary ho taitra ny olona, raha vao maneno ny voron-kely, ary halemy feo ny zazavavy mpihira rehetra;\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary koa hatahotra izay avo izy, ary toa hisy zava-mahatahotra eny an-dalana; ary hamony ny hazo amygdala, ary ny valala aza ho tonga mavesatra, ary hitsahatra ny faniriana zavatra izy; fa mandroso ho amin' ny tranony mandrakizay ny olona, ary ny mpisaona mandehandeha eny an-dalambe;\""
-    },
-    {
-      "v": 6,
-      "text": "Dieny tsy mbola mivaha ny kofehy volafotsy ary tsy mbola vaky ny lovia volamena, ary tsy mbola tresaka ny siny ao an-doharano, ary tsy mbola potika ny kodia eo an-davaka famorian-drano."
-    },
-    {
-      "v": 7,
-      "text": "Ka ny vovoka dia hiverina amin' ny tany ho toy ny teo, fa ny fanahy kosa hiverina amin' Andriamanitra, izay nanome izany."
-    },
-    {
-      "v": 8,
-      "text": "Zava-poana dia zava-poana, hoy mpitoriteny, zava-poana ny zavatra rehetra."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary koa, satria hendry Mpitoriteny, dia nampianatra ny olona fahalalana izy; eny, nandinika tsara sy nieritreritra ary nandahatra ohabolana maro izy.\""
-    },
-    {
-      "v": 10,
-      "text": "Nikatsaka hahita izay teny mahafinaritra Mpitoriteny, ary izay voasoratra dia mahitsy, dia ny tenin' ny fahamarinana."
-    },
-    {
-      "v": 11,
-      "text": "Ny tenin' ny hendry dia toy ny fanindronan' omby sy toy ny hombo voatsatoky ny mpanangona, omen' ny mpiandry iray."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary he koa, anaka! minoa anatra ianao; fa tsy misy farany ny manao boky maro, ary manasatra ny tena ny fianarana be.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Aoka hohenointsika ny fehin' ny zavatra rehetra: Matahora an' Andriamanitra, ary ny didiny no tandremo; fa izany no tokony hataon' ny olona rehetra.\""
-    },
-    {
-      "v": 14,
-      "text": "Fa hoentin' Andriamanitra ho amin' ny fitsarana ny asa rehetra mbamin' ny zava-miafina rehetra, na soa na ratsy."
-    }
-  ]
+  "verses": {
+    "1": "Ary tsarovy ankehitriny ny Mpanao anao amin' ny andro fahatanoranao, dieny tsy mbola tonga ny andro mahory, ary tsy mbola mihatra ny taona izay hanaovanao hoe: Tsy sitrako izao;",
+    "2": "Dieny tsy mbola maizina ny masoandro sy ny fahazavana sy ny volana sy ny kintana, ary tsy mbola miverina ny rahona aorian' ny ranonorana;",
+    "3": "Fa amin' izay dia hangovitra ny mpiandry trano, ary hanjoko ny lehilahy matanjaka, ary hitsahatra ny ankizivavy mpitoto satria efa vitsy ireo ary ho maizina ny vehivavy mitsirika eo am-baravarankely,",
+    "4": "Ary hirindrina ny varavarana kopa-droa mankeny an-dalambe, rehefa malemy ny feon' ny fikosoham-bary; ary ho taitra ny olona, raha vao maneno ny voron-kely, ary halemy feo ny zazavavy mpihira rehetra;",
+    "5": "Ary koa hatahotra izay avo izy, ary toa hisy zava-mahatahotra eny an-dalana; ary hamony ny hazo amygdala, ary ny valala aza ho tonga mavesatra, ary hitsahatra ny faniriana zavatra izy; fa mandroso ho amin' ny tranony mandrakizay ny olona, ary ny mpisaona mandehandeha eny an-dalambe;",
+    "6": "Dieny tsy mbola mivaha ny kofehy volafotsy ary tsy mbola vaky ny lovia volamena, ary tsy mbola tresaka ny siny ao an-doharano, ary tsy mbola potika ny kodia eo an-davaka famorian-drano.",
+    "7": "Ka ny vovoka dia hiverina amin' ny tany ho toy ny teo, fa ny fanahy kosa hiverina amin' Andriamanitra, izay nanome izany.",
+    "8": "Zava-poana dia zava-poana, hoy mpitoriteny, zava-poana ny zavatra rehetra.",
+    "9": "Ary koa, satria hendry Mpitoriteny, dia nampianatra ny olona fahalalana izy; eny, nandinika tsara sy nieritreritra ary nandahatra ohabolana maro izy.",
+    "10": "Nikatsaka hahita izay teny mahafinaritra Mpitoriteny, ary izay voasoratra dia mahitsy, dia ny tenin' ny fahamarinana.",
+    "11": "Ny tenin' ny hendry dia toy ny fanindronan' omby sy toy ny hombo voatsatoky ny mpanangona, omen' ny mpiandry iray.",
+    "12": "Ary he koa, anaka! minoa anatra ianao; fa tsy misy farany ny manao boky maro, ary manasatra ny tena ny fianarana be.",
+    "13": "Aoka hohenointsika ny fehin' ny zavatra rehetra: Matahora an' Andriamanitra, ary ny didiny no tandremo; fa izany no tokony hataon' ny olona rehetra.",
+    "14": "Fa hoentin' Andriamanitra ho amin' ny fitsarana ny asa rehetra mbamin' ny zava-miafina rehetra, na soa na ratsy."
+  }
 }

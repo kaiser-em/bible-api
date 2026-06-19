@@ -1,113 +1,33 @@
 {
+  "book": "Daniela",
   "chapter": 8,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tamin' ny taona fahatelo nanjakan' i Belsazara mpanjaka dia nisy fahitana niseho tamiko, izaho Daniela, taorian' ilay niseho tamiko tamin' ny voalohany."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary nahita tamin' ny fahitana aho; ka izao no niseho, raha mbola nijery aho, dia, indro tao Sosana aho tao amin' ny lapa izay ao amin' ny tany Elama; ary nahita tamin' ny fahitana aho, fa teo amoron' ny ony Olay aho.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Dia natopiko ny masoko, ka hitako, fa indro, nisy ondrilahy iray nitsangana teo amoron' ny ony, izay nanana tandroka roa; lava ireo tandroka ireo, ary ny anankiray lava noho ny anankiray, nefa ilay lavalava kokoa no niposaka taoriana.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Hitako ny ondrilahy manoto miankandrefana sy mianavaratra ary miana-tsimo; ary tsy nisy biby nahajanona teo anoloany, ary tsy nisy naharombaka izay mby teny an-tanany; fa nanao araka izay sitrapony izy ka tonga lehibe.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary raha mbola nandinika aho, dia, indro, nisy osilahy nivoaka avy tany andrefana ka nitety ny tany rehetra, nefa tsy nikasika ny tany; ary ilay osilahy dia nanana tandroka lehibe teo anelanelan' ny masony.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary nankeo amin' ilay ondrilahy nanana tandroka roa izy, dia ilay efa hitako nitsangana eo amoron' ny ony, ka nanazakazaka azy tamin' ny fahatezeran' ny heriny."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary hitako nanatona ho eo anilan' ny ondrilahy izy, dia nisafoaka taminy ka namely ny ondrilahy ary nanapaka ny tandrony roa, ka tsy nanankery hahajanona teo anoloany intsony ilay ondrilahy, fa nazerany teo amin' ny tany ka nohitsakitsahany; ary tsy nisy nahafaka ilay ondrilahy teny an-tanany.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary dia nihahery indrindra ilay osilahy; nefa nony nahery izy, dia tapaka ilay tandrony lehibe; ary nisy efatra lehibe nipoitra nisolo iny nifanandrify tamin' ny rivotra efatry ny lanitra.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary nisy tandroka kely nipoitra avy tamin' ny anankiray amin' ireny ka nihalehibe indrindra nianatsimo sy niantsinanana ary nankany amin' ny tany mahafinaritra."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary nihalehibe izy ka nihatra tamin' ireo marobe eny amin' ny lanitra; ary nisy nazerany ho amin' ny tany ireo marobe sy ny kintana ka nohitsakitsahiny.\""
-    },
-    {
-      "v": 11,
-      "text": "Eny, nihalehibe izy ka dia niady tamin' ny Komandin' ireo marobe, ary nesorina taminy ny fanatitra isan' andro, ary ny fitoerana masina noravana."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary nisy marobe mbamin' ny fanatitra isan' andro natolotra azy noho ny fahadisoana, dia nazerany ho amin' ny tany ny fahamarinana; ary niasa izy sady nambinina.\""
-    },
-    {
-      "v": 13,
-      "text": "Dia nandre ny masina anankiray niteny aho, ary nisy masina iray koa nanao tamin' ilay niteny hoe: Mandra-pahoviana ny fahitana ny amin' ny fanatitra isan' andro, ary ny fahotana mahatonga fandravana mba hanolorana ny fitoerana masina sy ireo marobe ho fanitsaka?"
-    },
-    {
-      "v": 14,
-      "text": "\"Ary hoy izy tamiko: Telonjato sy roa arivo andro; ary rehefa afaka izany vao hodiovina ny fitoerana masina.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary izao no niseho, nony nahita ny fahitana izaho Daniela, ka nitady hahafantatra ny heviny, dia indro, nisy nanana tarehy tahaka ny olona nitsangana teo anatrehako."
-    },
-    {
-      "v": 16,
-      "text": "Ary nandre feon' olona tao afovoan' i Olay aho, izay niantso ka nanao hoe: Ry Gabriela, ampahalalao ny fahitana ity lehilahy ity."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary dia nankeo amin' ilay nitsanganako izy; ary nony tonga izy, dia raiki-tahotra aho ka nikarapoka nihohoka; nefa hoy izy tamiko: Aoka ho fantatrao ry zanak' olona, fa ho amin' ny fotoana farany ny fahitana.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary raha niresaka tamiko izy dia renoky ny torimaso teo amin' ny tany aho; fa izy nanohina nampitsangana ahy.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Dia hoy izy: Indro hampahafantariko anao izay ho tonga amin' ny fahatezerana farany; fa amin' ny fotoana voatendry dia ho tonga ny farany.\""
-    },
-    {
-      "v": 20,
-      "text": "Ilay ondrilahy hitanao nanana tandroka roa dia ny mpanjakan' i Media sy Persia."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary ny osilahy lava volo dia ny mpanjakan' i Grisia; ary ny tandroka lehibe teo anelanelan' ny masony dia ny mpanjaka voalohany.\""
-    },
-    {
-      "v": 22,
-      "text": "Ary ny amin' ilay efa tapaka, ka nisy efatra nitsangana nandimby azy, dia hisy fanjakana efatra hitsangana avy amin' ny jentilisa, nefa tsy mitovy hery aminy."
-    },
-    {
-      "v": 23,
-      "text": "Ary amin' ny fotoana farany amin' ny fanjakany, rehefa tanteraky ny mpanota ny asany, dia hisy mpanjaka hitsangana, izay masia-tarehy sy mahafantatra zavatra saro-pantarina."
-    },
-    {
-      "v": 24,
-      "text": "\"Ary ho be ny heriny, nefa tsy amin' ny herin' ny tenany; ary mahagaga ny fanimbana hataony; ary hambinina izy ka hahefa ary hanimba ny mahery sy ny olo-masina.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ary ny fahafetseny koa no hahaizany mitondra ny fihavanana eny an-tanany; ary hiavonavona am-po izy ka handringana ny maro amin' ny fanambinana; ary hitsangana hanohitra ny Andrianan' ny andriana izy, kanjo ho torotoro kosa, nefa tsy hisy tanana hamely azy tsinona.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ary ny fahitana ny amin' ny hariva sy maraina ilay nambara dia marina; koa ahoròny ny fahitana, fa mbola ho andro maro izany.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Ary izaho Daniela dia torana ka narary andro vitsivitsy; ary nony afaka izany, dia nitsangana aho, ka nanao ny raharahan' ny mpanjaka; ary gaga aho ny amin' ny fahitana, nefa tsy nisy nahafantatra izany.\""
-    }
-  ]
+  "verses": {
+    "1": "Tamin' ny taona fahatelo nanjakan' i Belsazara mpanjaka dia nisy fahitana niseho tamiko, izaho Daniela, taorian' ilay niseho tamiko tamin' ny voalohany.",
+    "2": "Ary nahita tamin' ny fahitana aho; ka izao no niseho, raha mbola nijery aho, dia, indro tao Sosana aho tao amin' ny lapa izay ao amin' ny tany Elama; ary nahita tamin' ny fahitana aho, fa teo amoron' ny ony Olay aho.",
+    "3": "Dia natopiko ny masoko, ka hitako, fa indro, nisy ondrilahy iray nitsangana teo amoron' ny ony, izay nanana tandroka roa; lava ireo tandroka ireo, ary ny anankiray lava noho ny anankiray, nefa ilay lavalava kokoa no niposaka taoriana.",
+    "4": "Hitako ny ondrilahy manoto miankandrefana sy mianavaratra ary miana-tsimo; ary tsy nisy biby nahajanona teo anoloany, ary tsy nisy naharombaka izay mby teny an-tanany; fa nanao araka izay sitrapony izy ka tonga lehibe.",
+    "5": "Ary raha mbola nandinika aho, dia, indro, nisy osilahy nivoaka avy tany andrefana ka nitety ny tany rehetra, nefa tsy nikasika ny tany; ary ilay osilahy dia nanana tandroka lehibe teo anelanelan' ny masony.",
+    "6": "Ary nankeo amin' ilay ondrilahy nanana tandroka roa izy, dia ilay efa hitako nitsangana eo amoron' ny ony, ka nanazakazaka azy tamin' ny fahatezeran' ny heriny.",
+    "7": "Ary hitako nanatona ho eo anilan' ny ondrilahy izy, dia nisafoaka taminy ka namely ny ondrilahy ary nanapaka ny tandrony roa, ka tsy nanankery hahajanona teo anoloany intsony ilay ondrilahy, fa nazerany teo amin' ny tany ka nohitsakitsahany; ary tsy nisy nahafaka ilay ondrilahy teny an-tanany.",
+    "8": "Ary dia nihahery indrindra ilay osilahy; nefa nony nahery izy, dia tapaka ilay tandrony lehibe; ary nisy efatra lehibe nipoitra nisolo iny nifanandrify tamin' ny rivotra efatry ny lanitra.",
+    "9": "Ary nisy tandroka kely nipoitra avy tamin' ny anankiray amin' ireny ka nihalehibe indrindra nianatsimo sy niantsinanana ary nankany amin' ny tany mahafinaritra.",
+    "10": "Ary nihalehibe izy ka nihatra tamin' ireo marobe eny amin' ny lanitra; ary nisy nazerany ho amin' ny tany ireo marobe sy ny kintana ka nohitsakitsahiny.",
+    "11": "Eny, nihalehibe izy ka dia niady tamin' ny Komandin' ireo marobe, ary nesorina taminy ny fanatitra isan' andro, ary ny fitoerana masina noravana.",
+    "12": "Ary nisy marobe mbamin' ny fanatitra isan' andro natolotra azy noho ny fahadisoana, dia nazerany ho amin' ny tany ny fahamarinana; ary niasa izy sady nambinina.",
+    "13": "Dia nandre ny masina anankiray niteny aho, ary nisy masina iray koa nanao tamin' ilay niteny hoe: Mandra-pahoviana ny fahitana ny amin' ny fanatitra isan' andro, ary ny fahotana mahatonga fandravana mba hanolorana ny fitoerana masina sy ireo marobe ho fanitsaka?",
+    "14": "Ary hoy izy tamiko: Telonjato sy roa arivo andro; ary rehefa afaka izany vao hodiovina ny fitoerana masina.",
+    "15": "Ary izao no niseho, nony nahita ny fahitana izaho Daniela, ka nitady hahafantatra ny heviny, dia indro, nisy nanana tarehy tahaka ny olona nitsangana teo anatrehako.",
+    "16": "Ary nandre feon' olona tao afovoan' i Olay aho, izay niantso ka nanao hoe: Ry Gabriela, ampahalalao ny fahitana ity lehilahy ity.",
+    "17": "Ary dia nankeo amin' ilay nitsanganako izy; ary nony tonga izy, dia raiki-tahotra aho ka nikarapoka nihohoka; nefa hoy izy tamiko: Aoka ho fantatrao ry zanak' olona, fa ho amin' ny fotoana farany ny fahitana.",
+    "18": "Ary raha niresaka tamiko izy dia renoky ny torimaso teo amin' ny tany aho; fa izy nanohina nampitsangana ahy.",
+    "19": "Dia hoy izy: Indro hampahafantariko anao izay ho tonga amin' ny fahatezerana farany; fa amin' ny fotoana voatendry dia ho tonga ny farany.",
+    "20": "Ilay ondrilahy hitanao nanana tandroka roa dia ny mpanjakan' i Media sy Persia.",
+    "21": "Ary ny osilahy lava volo dia ny mpanjakan' i Grisia; ary ny tandroka lehibe teo anelanelan' ny masony dia ny mpanjaka voalohany.",
+    "22": "Ary ny amin' ilay efa tapaka, ka nisy efatra nitsangana nandimby azy, dia hisy fanjakana efatra hitsangana avy amin' ny jentilisa, nefa tsy mitovy hery aminy.",
+    "23": "Ary amin' ny fotoana farany amin' ny fanjakany, rehefa tanteraky ny mpanota ny asany, dia hisy mpanjaka hitsangana, izay masia-tarehy sy mahafantatra zavatra saro-pantarina.",
+    "24": "Ary ho be ny heriny, nefa tsy amin' ny herin' ny tenany; ary mahagaga ny fanimbana hataony; ary hambinina izy ka hahefa ary hanimba ny mahery sy ny olo-masina.",
+    "25": "Ary ny fahafetseny koa no hahaizany mitondra ny fihavanana eny an-tanany; ary hiavonavona am-po izy ka handringana ny maro amin' ny fanambinana; ary hitsangana hanohitra ny Andrianan' ny andriana izy, kanjo ho torotoro kosa, nefa tsy hisy tanana hamely azy tsinona.",
+    "26": "Ary ny fahitana ny amin' ny hariva sy maraina ilay nambara dia marina; koa ahoròny ny fahitana, fa mbola ho andro maro izany.",
+    "27": "Ary izaho Daniela dia torana ka narary andro vitsivitsy; ary nony afaka izany, dia nitsangana aho, ka nanao ny raharahan' ny mpanjaka; ary gaga aho ny amin' ny fahitana, nefa tsy nisy nahafantatra izany."
+  }
 }

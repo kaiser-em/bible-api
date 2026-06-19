@@ -1,49 +1,17 @@
 {
+  "book": "Salamo",
   "chapter": 42,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Ho an' ny mpiventy hira. Maskila. Ho an' ny zanak' i Kora.]  Tahaka ny diera mihanahana maniry ny rano an' ony, no anirian' ny fanahiko Anao, Andriamanitra ô."
-    },
-    {
-      "v": 2,
-      "text": "\"Mangetaheta an' Andriamanitra ny fanahiko, dia Andriamanitra velona; rahoviana no ho tonga aho ka hiseho eo anatrehan' Andriamanitra?\""
-    },
-    {
-      "v": 3,
-      "text": "Ny ranomasoko no fiahiko andro aman' alina, amin' ny anaovany ahy mandrakariva hoe: Aiza izay Andriamanitrao?"
-    },
-    {
-      "v": 4,
-      "text": "\"Raha mahatsiaro izao zavatra izao aho, dia loarako ny fanahiko ato anatiko; fa efa niaraka tamin' ny maro aho, niara-nandeha taminy ho any an-tranon' Andriamanitra aho, tamin' ny feo fifaliana sy fiderana, dia olona maro izay nitandrina ny andro firavoravoana.\""
-    },
-    {
-      "v": 5,
-      "text": "Nahoana no mitanondrika ianao, ry fanahiko, ka mitoloko ato anatiko? Manantenà an' Andriamanitra ianao, fa mbola hidera Azy ihany aho noho ny famonjen' ny tavany."
-    },
-    {
-      "v": 6,
-      "text": "\"Andriamanitro ô, mitanondrika ato anatiko ny fanahiko; izany no ahatsiarovako Anao eo amin' ny tanin' i Jordana, sy amin' ireo Hermona ary amin' ny havoana Mizara.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ny lalina miantso ny lalina noho ny firohondrohon' ny riananao; ny onjanao rehetra sy ny alon-dranonao efa nanafotra ahy.\""
-    },
-    {
-      "v": 8,
-      "text": "Kanefa Jehovah handidy ny indrafony nony andro, ary ny hirany hiaraka amiko nony alina ary ny fivavako ho any amin' Andriamanitry ny aiko."
-    },
-    {
-      "v": 9,
-      "text": "Hoy izaho amin' Andriamanitra Vatolampiko: Nahoana no nanadino ahy Ianao? Nahoana no mandeha mijoretra aho noho ny fampahorian' ny fahavalo?"
-    },
-    {
-      "v": 10,
-      "text": "Toy ny sabatra eo amin' ny taolako no fandatsan' ny fahavaloko ahy, amin' ny hanaovany ahy isan' andro hoe: Aiza ny Andriamanitrao?"
-    },
-    {
-      "v": 11,
-      "text": "\"Nahoana no mitanondrika ianao ry fanahiko? Ary nahoana no mitoloko ato anatiko ianao? Manantenà an' Andriamanitra; fa mbola hidera Azy aho, Izy no famonjen' ny tavako sady Andriamanitro.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Maskila. Ho an' ny zanak' i Kora.]  Tahaka ny diera mihanahana maniry ny rano an' ony, no anirian' ny fanahiko Anao, Andriamanitra ô.",
+    "2": "Mangetaheta an' Andriamanitra ny fanahiko, dia Andriamanitra velona; rahoviana no ho tonga aho ka hiseho eo anatrehan' Andriamanitra?",
+    "3": "Ny ranomasoko no fiahiko andro aman' alina, amin' ny anaovany ahy mandrakariva hoe: Aiza izay Andriamanitrao?",
+    "4": "Raha mahatsiaro izao zavatra izao aho, dia loarako ny fanahiko ato anatiko; fa efa niaraka tamin' ny maro aho, niara-nandeha taminy ho any an-tranon' Andriamanitra aho, tamin' ny feo fifaliana sy fiderana, dia olona maro izay nitandrina ny andro firavoravoana.",
+    "5": "Nahoana no mitanondrika ianao, ry fanahiko, ka mitoloko ato anatiko? Manantenà an' Andriamanitra ianao, fa mbola hidera Azy ihany aho noho ny famonjen' ny tavany.",
+    "6": "Andriamanitro ô, mitanondrika ato anatiko ny fanahiko; izany no ahatsiarovako Anao eo amin' ny tanin' i Jordana, sy amin' ireo Hermona ary amin' ny havoana Mizara.",
+    "7": "Ny lalina miantso ny lalina noho ny firohondrohon' ny riananao; ny onjanao rehetra sy ny alon-dranonao efa nanafotra ahy.",
+    "8": "Kanefa Jehovah handidy ny indrafony nony andro, ary ny hirany hiaraka amiko nony alina ary ny fivavako ho any amin' Andriamanitry ny aiko.",
+    "9": "Hoy izaho amin' Andriamanitra Vatolampiko: Nahoana no nanadino ahy Ianao? Nahoana no mandeha mijoretra aho noho ny fampahorian' ny fahavalo?",
+    "10": "Toy ny sabatra eo amin' ny taolako no fandatsan' ny fahavaloko ahy, amin' ny hanaovany ahy isan' andro hoe: Aiza ny Andriamanitrao?",
+    "11": "Nahoana no mitanondrika ianao ry fanahiko? Ary nahoana no mitoloko ato anatiko ianao? Manantenà an' Andriamanitra; fa mbola hidera Azy aho, Izy no famonjen' ny tavako sady Andriamanitro."
+  }
 }

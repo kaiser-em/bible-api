@@ -1,89 +1,27 @@
 {
+  "book": "Zakaria",
   "chapter": 14,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Indro, avy ny andron' i Jehovah, ka ny babo aminao hozaraina eo afovoanao."
-    },
-    {
-      "v": 2,
-      "text": "\"Fa hangoniko ny firenena rehetra hamely an' i Jerosalema, dia ho afaka ny tanàna, ka horobaina ny trano, ary hosavihina ny vehivavy; ary ny antsasaky ny tanàna dia ho lasan-ko babo, fa ny vahoaka sisa dia tsy hofongorana amin' ny tanàna.\""
-    },
-    {
-      "v": 3,
-      "text": "Dia hivoaka Jehovah ka hiady amin' ireny firenena ireny, tahaka ny fameliny tamin' ny andro fiadiana."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary amin' izany andro izany ny tongony hijoro eo an-Tendrombohitra Oliva, izay eo atsinanana tandrifin' i Jerosalema, ary ny Tendrombohitra Oliva hitresaka eo afovoany, hiantsinanana sy hiankandrefana ka hisy lohasaha lehibe; ary ny antsasaky ny tendrombohitra hifindra hianavaratra, fa ny antsasany kosa hianatsimo.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Dia handositra ho any amin' ny lohasahan' ny tendrombohitra ianareo; fa hipaka hatrany Azela ny lohasahan' ny tendrombohitra; eny, handositra ianareo, tahaka ny nandosiranareo ny horohorontany tamin' ny andron' i Ozia, mpanjakan' ny Joda; ary ho avy Jehovah Andriamanitro mbamin' ny masina rehetra momba Anao.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary izao no hiseho amin' izany andro izany, tsy hisy mazava na haizina;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa hisy andro iray, izay ho fantatr' i Jehovah, tsy andro na alina; fa izao no hiseho, amin' ny fotoana hariva dia ho mazava.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary amin' izany andro izany dia hisy rano velona hivoaka avy any Jerosalema, ka ny antsasany hankany amin' ny ranomasina atsinanana, ary ny antsasany hankany amin' ny ranomasina andrefana, na amin' ny fahavaratra na amin' ny ririnina dia samy hisian' izany."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary Jehovah ho Mpanjakan' ny tany rehetra; amin' izany andro izany dia iray no Jehovah, sady iray no anarany.\""
-    },
-    {
-      "v": 10,
-      "text": "Ho tonga tahaka ny tany lemaka ny tany rehetra hatrany Geba ka hatrany Rimona ao atsimon' i Jerosalema, ary hasandratra sy honenana ao amin' ny fitoerany izy hatramin' ny vavahadin' i Benjamina ka hatreo amin' ny vavahady voalohany, hatramin' ny vavahady an-jorony ary hatramin' ny tilikambo Hananela ka hatramin' ireo famiazam-boaloboky ny mpanjaka."
-    },
-    {
-      "v": 11,
-      "text": "Dia hisy mponina any, ary tsy hisy fandringanana tanteraka intsony, fa Jerosalema dia honenana mandry fahizay."
-    },
-    {
-      "v": 12,
-      "text": "Ary izao no areti-mandringana hamelezan' i Jehovah ny olona rehetra izay efa nanafika an' i Jerosalema: hataony mihalevona am-pitsanganana ny nofony, ary hihalevona eo amin' ny itoerany ny masony, ary ny lelany koa hihalevona ao am-bavany."
-    },
-    {
-      "v": 13,
-      "text": "Ary izao no hiseho amin' izany andro izany, hisy fifanaritahana lehibe avy amin' i Jehovah ho ao aminy, ary hifampihazon-tanana izy mpinamana, sady samy hanainga tanana hifamely ny mpinamana."
-    },
-    {
-      "v": 14,
-      "text": "Ary Joda koa hiady amin' i Jerosalema ary hovorina ny haren' ny jentilisa manodidina rehetra, dia volamena sy volafotsy ary fitafiana betsaka."
-    },
-    {
-      "v": 15,
-      "text": "Ary ho toy izany koa ny areti-mandringana amin' ny soavaly sy ny mole, sy ny rameva sy ny boriky mbamin' ny biby rehetra izay ho ao amin' ireny lay ireny, ho tahaka izany areti-mandringana izany ihany."
-    },
-    {
-      "v": 16,
-      "text": "Ary izao no hiseho, ny sisa rehetra amin' ny firenena rehetra izay niakatra namely an' i Jerosalema, dia hiakatra isan-taona isan-taona hiankohoka eo anatrehan' ny Mpanjaka, dia Jehovah Tompon' ny maro, sy hitandrina ny andro firavoravoana ny amin' ny tabernakely."
-    },
-    {
-      "v": 17,
-      "text": "Ary izao no hisy, na iza na iza amin' ny ankohonana eto an-tany no tsy hiakatra ho any Jerosalema hiankohoka amin' ny Mpanjaka, Jehovah Tompon' ny maro, dia tsy hisy ranonorana eo aminy."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary raha ny ankohonan' i Egypta tsy mba miakatra ka tsy tonga, dia tsy hisy orana any aminy; sady ho tonga ny areti-mandringana izay hamelezan' i Jehovah ny jentilisa tsy miakatra hitandrina ny andro firavoravoana ny amin' ny tabernakely.\""
-    },
-    {
-      "v": 19,
-      "text": "Izany no ho famaizana an' i Egypta sy ho famaizana ny firenena rehetra izay tsy miakatra hitandrina ny andro firavoravoana ny amin' ny tabernakely."
-    },
-    {
-      "v": 20,
-      "text": "\"Amin' izany andro izany dia hisy ao amin' ny famohamandrin-tsoavaly hoe: Fahamasinana ho an' i Jehovah; ary ny vilany ao an-tranon' i Jehovah ho tahaka ny tsangambava eo anoloan' ny alitara.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Eny, ny vilany rehetra ao Jerosalema sy Joda dia ho Fahamasinana ho an' i Jehovah Tompon' ny maro; ary izay rehetra manao fanatitra dia ho avy haka amin' ireny ka hahandro aminy; ary amin' izany andro izany dia tsy hisy Kananita intsony ao an-tranon' i Jehovah Tompon' ny maro.\""
-    }
-  ]
+  "verses": {
+    "1": "Indro, avy ny andron' i Jehovah, ka ny babo aminao hozaraina eo afovoanao.",
+    "2": "Fa hangoniko ny firenena rehetra hamely an' i Jerosalema, dia ho afaka ny tanàna, ka horobaina ny trano, ary hosavihina ny vehivavy; ary ny antsasaky ny tanàna dia ho lasan-ko babo, fa ny vahoaka sisa dia tsy hofongorana amin' ny tanàna.",
+    "3": "Dia hivoaka Jehovah ka hiady amin' ireny firenena ireny, tahaka ny fameliny tamin' ny andro fiadiana.",
+    "4": "Ary amin' izany andro izany ny tongony hijoro eo an-Tendrombohitra Oliva, izay eo atsinanana tandrifin' i Jerosalema, ary ny Tendrombohitra Oliva hitresaka eo afovoany, hiantsinanana sy hiankandrefana ka hisy lohasaha lehibe; ary ny antsasaky ny tendrombohitra hifindra hianavaratra, fa ny antsasany kosa hianatsimo.",
+    "5": "Dia handositra ho any amin' ny lohasahan' ny tendrombohitra ianareo; fa hipaka hatrany Azela ny lohasahan' ny tendrombohitra; eny, handositra ianareo, tahaka ny nandosiranareo ny horohorontany tamin' ny andron' i Ozia, mpanjakan' ny Joda; ary ho avy Jehovah Andriamanitro mbamin' ny masina rehetra momba Anao.",
+    "6": "Ary izao no hiseho amin' izany andro izany, tsy hisy mazava na haizina;",
+    "7": "Fa hisy andro iray, izay ho fantatr' i Jehovah, tsy andro na alina; fa izao no hiseho, amin' ny fotoana hariva dia ho mazava.",
+    "8": "Ary amin' izany andro izany dia hisy rano velona hivoaka avy any Jerosalema, ka ny antsasany hankany amin' ny ranomasina atsinanana, ary ny antsasany hankany amin' ny ranomasina andrefana, na amin' ny fahavaratra na amin' ny ririnina dia samy hisian' izany.",
+    "9": "Ary Jehovah ho Mpanjakan' ny tany rehetra; amin' izany andro izany dia iray no Jehovah, sady iray no anarany.",
+    "10": "Ho tonga tahaka ny tany lemaka ny tany rehetra hatrany Geba ka hatrany Rimona ao atsimon' i Jerosalema, ary hasandratra sy honenana ao amin' ny fitoerany izy hatramin' ny vavahadin' i Benjamina ka hatreo amin' ny vavahady voalohany, hatramin' ny vavahady an-jorony ary hatramin' ny tilikambo Hananela ka hatramin' ireo famiazam-boaloboky ny mpanjaka.",
+    "11": "Dia hisy mponina any, ary tsy hisy fandringanana tanteraka intsony, fa Jerosalema dia honenana mandry fahizay.",
+    "12": "Ary izao no areti-mandringana hamelezan' i Jehovah ny olona rehetra izay efa nanafika an' i Jerosalema: hataony mihalevona am-pitsanganana ny nofony, ary hihalevona eo amin' ny itoerany ny masony, ary ny lelany koa hihalevona ao am-bavany.",
+    "13": "Ary izao no hiseho amin' izany andro izany, hisy fifanaritahana lehibe avy amin' i Jehovah ho ao aminy, ary hifampihazon-tanana izy mpinamana, sady samy hanainga tanana hifamely ny mpinamana.",
+    "14": "Ary Joda koa hiady amin' i Jerosalema ary hovorina ny haren' ny jentilisa manodidina rehetra, dia volamena sy volafotsy ary fitafiana betsaka.",
+    "15": "Ary ho toy izany koa ny areti-mandringana amin' ny soavaly sy ny mole, sy ny rameva sy ny boriky mbamin' ny biby rehetra izay ho ao amin' ireny lay ireny, ho tahaka izany areti-mandringana izany ihany.",
+    "16": "Ary izao no hiseho, ny sisa rehetra amin' ny firenena rehetra izay niakatra namely an' i Jerosalema, dia hiakatra isan-taona isan-taona hiankohoka eo anatrehan' ny Mpanjaka, dia Jehovah Tompon' ny maro, sy hitandrina ny andro firavoravoana ny amin' ny tabernakely.",
+    "17": "Ary izao no hisy, na iza na iza amin' ny ankohonana eto an-tany no tsy hiakatra ho any Jerosalema hiankohoka amin' ny Mpanjaka, Jehovah Tompon' ny maro, dia tsy hisy ranonorana eo aminy.",
+    "18": "Ary raha ny ankohonan' i Egypta tsy mba miakatra ka tsy tonga, dia tsy hisy orana any aminy; sady ho tonga ny areti-mandringana izay hamelezan' i Jehovah ny jentilisa tsy miakatra hitandrina ny andro firavoravoana ny amin' ny tabernakely.",
+    "19": "Izany no ho famaizana an' i Egypta sy ho famaizana ny firenena rehetra izay tsy miakatra hitandrina ny andro firavoravoana ny amin' ny tabernakely.",
+    "20": "Amin' izany andro izany dia hisy ao amin' ny famohamandrin-tsoavaly hoe: Fahamasinana ho an' i Jehovah; ary ny vilany ao an-tranon' i Jehovah ho tahaka ny tsangambava eo anoloan' ny alitara.",
+    "21": "Eny, ny vilany rehetra ao Jerosalema sy Joda dia ho Fahamasinana ho an' i Jehovah Tompon' ny maro; ary izay rehetra manao fanatitra dia ho avy haka amin' ireny ka hahandro aminy; ary amin' izany andro izany dia tsy hisy Kananita intsony ao an-tranon' i Jehovah Tompon' ny maro."
+  }
 }

@@ -1,145 +1,41 @@
 {
+  "book": "Ohabolana",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ANAKA, raha niantoka ny namanao ianao, raha nandray tanana hiantoka vahiny ianao,"
-    },
-    {
-      "v": 2,
-      "text": "Ka voafandriky ny teny naloaky ny vavanao ianao sady voasingotry ny teny naloaky ny vavanao,"
-    },
-    {
-      "v": 3,
-      "text": "Dia izao no ataovy ankehitriny, anaka, ka afaho ny tenanao raha efa mby eo an-tanan' ny namanao ianao: Andeha manetry tena ka omeo toky ny namanao."
-    },
-    {
-      "v": 4,
-      "text": "Aza avela hatory akory ny masonao, ary aza avela hilondolondo akory ny hodimasonao."
-    },
-    {
-      "v": 5,
-      "text": "Afaho ny tenanao toy ny dieravavy miala amin' ny tanan' ny mpihaza ary toy ny vorona miala amin' ny tanan' ny mpamandrika."
-    },
-    {
-      "v": 6,
-      "text": "\"Mandehana any amin' ny vitsika, ry ilay malaina; diniho ny fanaony ka hendre;\""
-    },
-    {
-      "v": 7,
-      "text": "Tsy manana komandy ireny, na mpifehy, na mpanapaka,"
-    },
-    {
-      "v": 8,
-      "text": "Mamory ny haniny raha fahavaratra izy ary manangona ny sakafony amin' ny taom-pijinjana."
-    },
-    {
-      "v": 9,
-      "text": "Mandra-pahoviana no mbola handry ihany ianao, ry malaina? Rahoviana no hifoha amin' ny torimasonao ianao?"
-    },
-    {
-      "v": 10,
-      "text": "Mbola hatory kely ihany, mbola ho renoka kely ihany ary mbola hanohon-tanana kely hatory,"
-    },
-    {
-      "v": 11,
-      "text": "Dia ho tonga toy ny lehilahy mimaona hamely ny alahelonao ary ny fahantranao ho toy ny lehilahy mitam-piadiana."
-    },
-    {
-      "v": 12,
-      "text": "Ny olona tena ratsy fanahy, ny mpanao ratsy dia mandehandeha manao vava ratsy."
-    },
-    {
-      "v": 13,
-      "text": "Mamì-maso sy manao famantarana amin' ny tongony izy, ary manao baiko amin' ny rantsan-tanany."
-    },
-    {
-      "v": 14,
-      "text": "Fahafetsena no ao am-pony, mihevi-dratsy mandrakariva izy sady mamafy ady."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary noho izany dia ho avy tampoka kosa ny loza hanjo azy; ho torotoro tampoka izy ka tsy hisy fanafana.\""
-    },
-    {
-      "v": 16,
-      "text": "Izao zavatra enina izao no tena halan' i Jehovah, eny, fito aza no ataony ho fahavetavetana:"
-    },
-    {
-      "v": 17,
-      "text": "Ny maso miavonavona, ny lela fandainga, ary ny tanana mandatsa-drà marina,"
-    },
-    {
-      "v": 18,
-      "text": "Ny fo mamoron-tsain-dratsy, ny tongotra malaky mihazakazaka hanao ratsy,"
-    },
-    {
-      "v": 19,
-      "text": "Ny vavolombelona tsy marina izay mamoaka lainga ary ny mamafy fifandirana ao amin' ny rahalahy."
-    },
-    {
-      "v": 20,
-      "text": "Anaka, tandremo ny didin-drainao ary aza mahafoy ny lalàn-dreninao."
-    },
-    {
-      "v": 21,
-      "text": "Afatory amin' ny fonao mandrakariva ireo, ary afehezo eo am-bozonao."
-    },
-    {
-      "v": 22,
-      "text": "\"Raha mandeha ianao, dia hitari-dalana anao izany; raha mandry ianao, dia hiambina anao; ary raha mifoha ianao, dia hiteny aminao.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Fa jiro ny didy, ary fanazavana ny lalàna ary lalan' aina ny anatra famaizana;\""
-    },
-    {
-      "v": 24,
-      "text": "Hiaro anao amin' ny vehivavy ratsy fanahy ary amin' ny fandroboan' ny lelan' ny vahiny jejo."
-    },
-    {
-      "v": 25,
-      "text": "\"Aoka tsy hila ny hatsaran-tarehiny ao am-ponao ianao; ary aoka tsy hahazo anao amin' ny hodimasony izy.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Fa noho ny amin' ny vehivavy janga no ietren' ny lehilahy tsy hanana afa-tsy sombi-mofo; ary ny vehivavy mpijangajanga dia hihaza ny aina sarobidy.\""
-    },
-    {
-      "v": 27,
-      "text": "Mahatondra afo ao an-tratrany va ny olona, ka tsy ho may ny akanjony?"
-    },
-    {
-      "v": 28,
-      "text": "Misy mahadia vainafo va ka tsy ho may ny tongony?"
-    },
-    {
-      "v": 29,
-      "text": "Dia toy izany izay mankamin' ny vadin' ny namany: Izay rehetra mikasika azy, dia tsy ho tsy manan-tsiny."
-    },
-    {
-      "v": 30,
-      "text": "\"Tsy ataon' ny olona ho tsy manan-tsiny ny mpangalatra, raha mangalatra hahavoky ny tenany izy, satria noana;\""
-    },
-    {
-      "v": 31,
-      "text": "Fa raha azo izy, dia hanonitra avo fito heny ka hanome ny fananana rehetra ao an-tranony."
-    },
-    {
-      "v": 32,
-      "text": "\"Izay mijangajanga amin' ny vehivavy dia tsy ampy fahalalana; manimba tena izay manao izany.\""
-    },
-    {
-      "v": 33,
-      "text": "Ratra sy fahafaham-baràka no ho azony ary tsy ho afaka aminy ny tondro-molotra."
-    },
-    {
-      "v": 34,
-      "text": "Fa ny fahasaro-piaro dia mampisafoaka ny lehilahy, koa tsy hamindra fo izy amin' ny andro hamaliana."
-    },
-    {
-      "v": 35,
-      "text": "Tsy handinika izay vola avotra izy, ary tsy hety ho afa-po na dia omenao fanomezana betsaka aza."
-    }
-  ]
+  "verses": {
+    "1": "ANAKA, raha niantoka ny namanao ianao, raha nandray tanana hiantoka vahiny ianao,",
+    "2": "Ka voafandriky ny teny naloaky ny vavanao ianao sady voasingotry ny teny naloaky ny vavanao,",
+    "3": "Dia izao no ataovy ankehitriny, anaka, ka afaho ny tenanao raha efa mby eo an-tanan' ny namanao ianao: Andeha manetry tena ka omeo toky ny namanao.",
+    "4": "Aza avela hatory akory ny masonao, ary aza avela hilondolondo akory ny hodimasonao.",
+    "5": "Afaho ny tenanao toy ny dieravavy miala amin' ny tanan' ny mpihaza ary toy ny vorona miala amin' ny tanan' ny mpamandrika.",
+    "6": "Mandehana any amin' ny vitsika, ry ilay malaina; diniho ny fanaony ka hendre;",
+    "7": "Tsy manana komandy ireny, na mpifehy, na mpanapaka,",
+    "8": "Mamory ny haniny raha fahavaratra izy ary manangona ny sakafony amin' ny taom-pijinjana.",
+    "9": "Mandra-pahoviana no mbola handry ihany ianao, ry malaina? Rahoviana no hifoha amin' ny torimasonao ianao?",
+    "10": "Mbola hatory kely ihany, mbola ho renoka kely ihany ary mbola hanohon-tanana kely hatory,",
+    "11": "Dia ho tonga toy ny lehilahy mimaona hamely ny alahelonao ary ny fahantranao ho toy ny lehilahy mitam-piadiana.",
+    "12": "Ny olona tena ratsy fanahy, ny mpanao ratsy dia mandehandeha manao vava ratsy.",
+    "13": "Mamì-maso sy manao famantarana amin' ny tongony izy, ary manao baiko amin' ny rantsan-tanany.",
+    "14": "Fahafetsena no ao am-pony, mihevi-dratsy mandrakariva izy sady mamafy ady.",
+    "15": "Ary noho izany dia ho avy tampoka kosa ny loza hanjo azy; ho torotoro tampoka izy ka tsy hisy fanafana.",
+    "16": "Izao zavatra enina izao no tena halan' i Jehovah, eny, fito aza no ataony ho fahavetavetana:",
+    "17": "Ny maso miavonavona, ny lela fandainga, ary ny tanana mandatsa-drà marina,",
+    "18": "Ny fo mamoron-tsain-dratsy, ny tongotra malaky mihazakazaka hanao ratsy,",
+    "19": "Ny vavolombelona tsy marina izay mamoaka lainga ary ny mamafy fifandirana ao amin' ny rahalahy.",
+    "20": "Anaka, tandremo ny didin-drainao ary aza mahafoy ny lalàn-dreninao.",
+    "21": "Afatory amin' ny fonao mandrakariva ireo, ary afehezo eo am-bozonao.",
+    "22": "Raha mandeha ianao, dia hitari-dalana anao izany; raha mandry ianao, dia hiambina anao; ary raha mifoha ianao, dia hiteny aminao.",
+    "23": "Fa jiro ny didy, ary fanazavana ny lalàna ary lalan' aina ny anatra famaizana;",
+    "24": "Hiaro anao amin' ny vehivavy ratsy fanahy ary amin' ny fandroboan' ny lelan' ny vahiny jejo.",
+    "25": "Aoka tsy hila ny hatsaran-tarehiny ao am-ponao ianao; ary aoka tsy hahazo anao amin' ny hodimasony izy.",
+    "26": "Fa noho ny amin' ny vehivavy janga no ietren' ny lehilahy tsy hanana afa-tsy sombi-mofo; ary ny vehivavy mpijangajanga dia hihaza ny aina sarobidy.",
+    "27": "Mahatondra afo ao an-tratrany va ny olona, ka tsy ho may ny akanjony?",
+    "28": "Misy mahadia vainafo va ka tsy ho may ny tongony?",
+    "29": "Dia toy izany izay mankamin' ny vadin' ny namany: Izay rehetra mikasika azy, dia tsy ho tsy manan-tsiny.",
+    "30": "Tsy ataon' ny olona ho tsy manan-tsiny ny mpangalatra, raha mangalatra hahavoky ny tenany izy, satria noana;",
+    "31": "Fa raha azo izy, dia hanonitra avo fito heny ka hanome ny fananana rehetra ao an-tranony.",
+    "32": "Izay mijangajanga amin' ny vehivavy dia tsy ampy fahalalana; manimba tena izay manao izany.",
+    "33": "Ratra sy fahafaham-baràka no ho azony ary tsy ho afaka aminy ny tondro-molotra.",
+    "34": "Fa ny fahasaro-piaro dia mampisafoaka ny lehilahy, koa tsy hamindra fo izy amin' ny andro hamaliana.",
+    "35": "Tsy handinika izay vola avotra izy, ary tsy hety ho afa-po na dia omenao fanomezana betsaka aza."
+  }
 }

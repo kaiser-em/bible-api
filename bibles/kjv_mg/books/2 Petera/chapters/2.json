@@ -1,93 +1,28 @@
 {
+  "book": "2 Petera",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Fa nisy mpaminany sandoka teo amin’ny olona, ary hisy koa mpampianatra sandoka tahaka izany eo aminareo, izay hampiditra mangingina fahadisoan-dalana amin' ny finoana ka mahatonga fahaverezana ary handà ny Tompo Izay nividy azy ka hahatonga fandringanana tampoka eo amin’ny tenany."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary maro no hanaraka ny lala-mandozany; ka ireny no hitenenan-dratsy ny lalan’ny fahamarinana.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary amin’ny hafatratry ny fitiavany harena no hanaovany varotra anareo amin’ny teny mamitaka; efa ela izay no tsy nijanonjanona ny fitsarana ireny, ary tsy rendremana ny fanamelohana azy.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Fa raha tsy navelan’Andriamanitra ny anjely izay nanota, fa noroahiny ho any amin’ny helo ka natolony ho amin’ny gadran’ny fahamaizinana, mba hotahirizina ho amin’ny fitsarana;\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary raha tsy namela izao rehetra izao taloha Izy, fa namonjy an’i Noa, ilay olona fahavalo, mpitory ny fahamarinana, fony nahatonga ny safodrano teto amin’izao tontolo izao tamin’ny olona tsy araka an’Andriamanitra;\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary raha nataony nanjary lavenona ny tanàna Sodoma sy Gomora ka nohelohiny horavana ary nataony fananarana ho an’izay ho velona tsy araka an’Andriamanitra aty aoriana;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa Lota marina, izay ory dia ory noho ny fitondrantenan’ny ratsy fanahy no novonjeny ho afaka;\""
-    },
-    {
-      "v": 8,
-      "text": "(Fa izany lehilahy marina izany raha nitoetra teo aminy, dia nahory loatra ny fanahiny marina isan’andro isan’andro ny fahitany sy ny fandrenesany ny asa fandikan-dalàna nataon’ireo.)"
-    },
-    {
-      "v": 9,
-      "text": "\"Fantatry ny Tompo izay hamonjeny ny olona araka an’Andriamanitra amin’ny fakampanahy sy ny hitahirizany ny olona tsy marina ho amin’ny andro fitsarana mba hofaizina;\""
-    },
-    {
-      "v": 10,
-      "text": "Indrindra fa izay mandeha araka ny fitarihan’ny nofo, hila zava-mahaloto ka manamavo ny fitondrana. Olona sahisahy foana ireo, mitompo teny fantatra sady tsy matahotra hiteny ratsy ny manana voninahitra."
-    },
-    {
-      "v": 11,
-      "text": "Fa ny anjely aza izay mihoatra amin’ny tanjaka sy ny hery, tsy mitondra fiampangana hitenenan-dratsy azy ireo eo anatrehan’ny Tompo."
-    },
-    {
-      "v": 12,
-      "text": "Fa ireo kosa izay miteny ratsy ny zavatra tsy fantany tahaka ny biby tsy manan-tsaina, fa zava-manan’aina fotsiny ihany, izay teraka ho fisambotra sy ho famono dia haringana tokoa amin’ny fahalotoany,"
-    },
-    {
-      "v": 13,
-      "text": "\"Ary handray ny valin’ny tsy fahamarinana izy, fa ataony ho zava-mahafinaritra ny velona vetivety amin’ny fy, ka be pentimpentina sy tsiny izy miaraka amin' ny famitahany rehefa miara-manao fanasana aminareo;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Manana maso feno fijangajangana, izay tsy mety mitsahatra amin’ny fahotana: dia mamitaka ny fanahy tsy miorina tsara izy; ary mampahazatra ny fony amin’ny hafatratry ny fitiavany harena, dia zanaka voaozona izy;\""
-    },
-    {
-      "v": 15,
-      "text": "\"Efa niala tamin’ny lalana marina izy ka nivily nanaraka ny lalan’i Balama, zanak’i Bosora, izay tia ny tambin’ny tsy fahamarinana;\""
-    },
-    {
-      "v": 16,
-      "text": "Nefa voanatra izy noho ny fahotany: ny boriky moana dia nanao feon’olona ka nisakana ny hadalan’ilay mpaminany."
-    },
-    {
-      "v": 17,
-      "text": "Ireo dia fantsakana ritra, rahona entin’ny tafio-drivotra, ka efa tahirizina ho azy mandrakizay ny fahamaintisan’ny maizina."
-    },
-    {
-      "v": 18,
-      "text": "Fa raha manao tenim-pireharehana momba ny zava-poana izy, dia mandeha araka ny filàn’ny nofo, misy fanaranam-po, ka mitaona izay efa saika afa-nandositra ireo izay velona amin’ny fahadisoana."
-    },
-    {
-      "v": 19,
-      "text": "\"Fahafahana no ampanantenainy ireny, kanjo ny tenany aza dia mpanompon’ny fahalovana; fa izay maharesy ny olona dia manandevo azy.\""
-    },
-    {
-      "v": 20,
-      "text": "Fa raha misy efa afaka amin’ny fahalotoan’izao tontolo izao noho ny fahalalana tsara an’i Jesosy Kristy, Tompo sy Mpamonjy, nefa voasingotr’izany indray ka resy, ny farany ho an' izy ireny dia ratsy noho ny voalohany."
-    },
-    {
-      "v": 21,
-      "text": "Fa tsara aminy raha tsy nahalala ny lalan’ny fahamarinana toy izay hiala amin’ny didy masina natolotra azy, rehefa nahalala izany izy."
-    },
-    {
-      "v": 22,
-      "text": "\"Efa mihatra aminy ny ohabolana marina manao hoe: Ny amboa miverina indray amin’ny loany”; ary: Ny kisoavavy efa nisasa dia mihosim-potaka indray.\""
-    }
-  ]
+  "verses": {
+    "1": "Fa nisy mpaminany sandoka teo amin’ny olona, ary hisy koa mpampianatra sandoka tahaka izany eo aminareo, izay hampiditra mangingina fahadisoan-dalana amin' ny finoana ka mahatonga fahaverezana ary handà ny Tompo Izay nividy azy ka hahatonga fandringanana tampoka eo amin’ny tenany.",
+    "2": "Ary maro no hanaraka ny lala-mandozany; ka ireny no hitenenan-dratsy ny lalan’ny fahamarinana.",
+    "3": "Ary amin’ny hafatratry ny fitiavany harena no hanaovany varotra anareo amin’ny teny mamitaka; efa ela izay no tsy nijanonjanona ny fitsarana ireny, ary tsy rendremana ny fanamelohana azy.",
+    "4": "Fa raha tsy navelan’Andriamanitra ny anjely izay nanota, fa noroahiny ho any amin’ny helo ka natolony ho amin’ny gadran’ny fahamaizinana, mba hotahirizina ho amin’ny fitsarana;",
+    "5": "Ary raha tsy namela izao rehetra izao taloha Izy, fa namonjy an’i Noa, ilay olona fahavalo, mpitory ny fahamarinana, fony nahatonga ny safodrano teto amin’izao tontolo izao tamin’ny olona tsy araka an’Andriamanitra;",
+    "6": "Ary raha nataony nanjary lavenona ny tanàna Sodoma sy Gomora ka nohelohiny horavana ary nataony fananarana ho an’izay ho velona tsy araka an’Andriamanitra aty aoriana;",
+    "7": "Fa Lota marina, izay ory dia ory noho ny fitondrantenan’ny ratsy fanahy no novonjeny ho afaka;",
+    "8": "(Fa izany lehilahy marina izany raha nitoetra teo aminy, dia nahory loatra ny fanahiny marina isan’andro isan’andro ny fahitany sy ny fandrenesany ny asa fandikan-dalàna nataon’ireo.)",
+    "9": "Fantatry ny Tompo izay hamonjeny ny olona araka an’Andriamanitra amin’ny fakampanahy sy ny hitahirizany ny olona tsy marina ho amin’ny andro fitsarana mba hofaizina;",
+    "10": "Indrindra fa izay mandeha araka ny fitarihan’ny nofo, hila zava-mahaloto ka manamavo ny fitondrana. Olona sahisahy foana ireo, mitompo teny fantatra sady tsy matahotra hiteny ratsy ny manana voninahitra.",
+    "11": "Fa ny anjely aza izay mihoatra amin’ny tanjaka sy ny hery, tsy mitondra fiampangana hitenenan-dratsy azy ireo eo anatrehan’ny Tompo.",
+    "12": "Fa ireo kosa izay miteny ratsy ny zavatra tsy fantany tahaka ny biby tsy manan-tsaina, fa zava-manan’aina fotsiny ihany, izay teraka ho fisambotra sy ho famono dia haringana tokoa amin’ny fahalotoany,",
+    "13": "Ary handray ny valin’ny tsy fahamarinana izy, fa ataony ho zava-mahafinaritra ny velona vetivety amin’ny fy, ka be pentimpentina sy tsiny izy miaraka amin' ny famitahany rehefa miara-manao fanasana aminareo;",
+    "14": "Manana maso feno fijangajangana, izay tsy mety mitsahatra amin’ny fahotana: dia mamitaka ny fanahy tsy miorina tsara izy; ary mampahazatra ny fony amin’ny hafatratry ny fitiavany harena, dia zanaka voaozona izy;",
+    "15": "Efa niala tamin’ny lalana marina izy ka nivily nanaraka ny lalan’i Balama, zanak’i Bosora, izay tia ny tambin’ny tsy fahamarinana;",
+    "16": "Nefa voanatra izy noho ny fahotany: ny boriky moana dia nanao feon’olona ka nisakana ny hadalan’ilay mpaminany.",
+    "17": "Ireo dia fantsakana ritra, rahona entin’ny tafio-drivotra, ka efa tahirizina ho azy mandrakizay ny fahamaintisan’ny maizina.",
+    "18": "Fa raha manao tenim-pireharehana momba ny zava-poana izy, dia mandeha araka ny filàn’ny nofo, misy fanaranam-po, ka mitaona izay efa saika afa-nandositra ireo izay velona amin’ny fahadisoana.",
+    "19": "Fahafahana no ampanantenainy ireny, kanjo ny tenany aza dia mpanompon’ny fahalovana; fa izay maharesy ny olona dia manandevo azy.",
+    "20": "Fa raha misy efa afaka amin’ny fahalotoan’izao tontolo izao noho ny fahalalana tsara an’i Jesosy Kristy, Tompo sy Mpamonjy, nefa voasingotr’izany indray ka resy, ny farany ho an' izy ireny dia ratsy noho ny voalohany.",
+    "21": "Fa tsara aminy raha tsy nahalala ny lalan’ny fahamarinana toy izay hiala amin’ny didy masina natolotra azy, rehefa nahalala izany izy.",
+    "22": "Efa mihatra aminy ny ohabolana marina manao hoe: Ny amboa miverina indray amin’ny loany”; ary: Ny kisoavavy efa nisasa dia mihosim-potaka indray."
+  }
 }

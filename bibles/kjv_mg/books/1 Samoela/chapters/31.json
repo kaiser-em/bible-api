@@ -1,57 +1,19 @@
 {
+  "book": "1 Samoela",
   "chapter": 31,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary ny Filistina niady tamin' ny Isiraely, ary nandositra teo anoloan' ny Filistina ny lehilahy amin' ny Isiraely, ary lavo niampatrampatra teny an-tendrombohitra Gilboa ny faty."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary ny Filistina nanenjika mafy an' i Saoly sy ny zanany; ary ny Filistina nahafaty an' i Jonatana, sy Abinadaba sy Malkisoa, zanakalahin' i Saoly.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary mafy indrindra ny ady tamin' i Saoly, ary ny mpandefa tsipìka nahavoa azy; dia voaratra mafin' ireo mpandefa tsipìka izy.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary hoy Saoly tamin' ny mpitondra ny fiadiany: Tsoahy ny sabatrao, ka tsatohy miboroaka aho, fandrao avy ireo tsy mifora ireo, dia hotsatohany miboroaka aho ka hampijaliany. Nefa tsy nety ny mpitondra ny fiadiany, fa natahotra loatra izy. Dia nalain' i Saoly ny sabatra ka nianjerany."
-    },
-    {
-      "v": 5,
-      "text": "Ary rehefa hitan' ny mpitondra ny fiadiany fa maty i Saoly, dia mba nianjera tamin' ny sabany koa izy ka niara-maty taminy."
-    },
-    {
-      "v": 6,
-      "text": "Ka dia niara-maty androtrizay ihany i Saoly sy ny zanany telo lahy sy ny mpitondra ny fiadiany ary ny olony rehetra."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary nony hitan' ny lehilahy amin' ny Isiraely teny an-dafin' ny lohasaha sy teny an-dafin' i Jordana fa nandositra ny lehilahy amin' ny Isiraely, ary maty Saoly sy ny zanany, dia niala tao an-tanàna izy ireo ka nandositra; ary dia tonga ny Filistina ka nonina tao.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary izao no niseho, nony ampitso, raha tonga haka ny zavatra teo amin' ny maty ny Filistina, dia nahita an' i Saoly sy ny zanany telo lahy lavo niampatra teo an-tendrombohitra Gilboa izy."
-    },
-    {
-      "v": 9,
-      "text": "Ary notapahiny ny lohany, sady nalainy ny fiadiany, ary dia naniraka tany amin' ny tanin' ny Filistina manodidina izy hampiely izany zavatra izany ao amin' ny tranon' ny sampiny sy amin' ny olona."
-    },
-    {
-      "v": 10,
-      "text": "\"Dia napetrany tao amin' ny tranon' i Astarta ny fiadiany; ary ny fatiny nohomboany teo amin' ny mandan' i Beti-sana.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary nony ren' ny mponina tany Jabesi-gileada izay nataon' ny Filistina tamin' i Saoly,"
-    },
-    {
-      "v": 12,
-      "text": "\"Dia niainga ny lehilahy mahery fo rehetra ka nandeha nandritra ny alina ary naka ny fatin' i Saoly sy ny fatin' ny zanany teo amin' ny mandan' i Beti-sana; ary tonga tao Jabesy izy ireo ka nandoro azy tao.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary nalainy ny taolany ka naleviny teo ambanin' ny hazo tamariska tao Jabesy, ary dia nifady hanina hafitoana izy ireo."
-    }
-  ]
+  "verses": {
+    "1": "Ary ny Filistina niady tamin' ny Isiraely, ary nandositra teo anoloan' ny Filistina ny lehilahy amin' ny Isiraely, ary lavo niampatrampatra teny an-tendrombohitra Gilboa ny faty.",
+    "2": "Ary ny Filistina nanenjika mafy an' i Saoly sy ny zanany; ary ny Filistina nahafaty an' i Jonatana, sy Abinadaba sy Malkisoa, zanakalahin' i Saoly.",
+    "3": "Ary mafy indrindra ny ady tamin' i Saoly, ary ny mpandefa tsipìka nahavoa azy; dia voaratra mafin' ireo mpandefa tsipìka izy.",
+    "4": "Ary hoy Saoly tamin' ny mpitondra ny fiadiany: Tsoahy ny sabatrao, ka tsatohy miboroaka aho, fandrao avy ireo tsy mifora ireo, dia hotsatohany miboroaka aho ka hampijaliany. Nefa tsy nety ny mpitondra ny fiadiany, fa natahotra loatra izy. Dia nalain' i Saoly ny sabatra ka nianjerany.",
+    "5": "Ary rehefa hitan' ny mpitondra ny fiadiany fa maty i Saoly, dia mba nianjera tamin' ny sabany koa izy ka niara-maty taminy.",
+    "6": "Ka dia niara-maty androtrizay ihany i Saoly sy ny zanany telo lahy sy ny mpitondra ny fiadiany ary ny olony rehetra.",
+    "7": "Ary nony hitan' ny lehilahy amin' ny Isiraely teny an-dafin' ny lohasaha sy teny an-dafin' i Jordana fa nandositra ny lehilahy amin' ny Isiraely, ary maty Saoly sy ny zanany, dia niala tao an-tanàna izy ireo ka nandositra; ary dia tonga ny Filistina ka nonina tao.",
+    "8": "Ary izao no niseho, nony ampitso, raha tonga haka ny zavatra teo amin' ny maty ny Filistina, dia nahita an' i Saoly sy ny zanany telo lahy lavo niampatra teo an-tendrombohitra Gilboa izy.",
+    "9": "Ary notapahiny ny lohany, sady nalainy ny fiadiany, ary dia naniraka tany amin' ny tanin' ny Filistina manodidina izy hampiely izany zavatra izany ao amin' ny tranon' ny sampiny sy amin' ny olona.",
+    "10": "Dia napetrany tao amin' ny tranon' i Astarta ny fiadiany; ary ny fatiny nohomboany teo amin' ny mandan' i Beti-sana.",
+    "11": "Ary nony ren' ny mponina tany Jabesi-gileada izay nataon' ny Filistina tamin' i Saoly,",
+    "12": "Dia niainga ny lehilahy mahery fo rehetra ka nandeha nandritra ny alina ary naka ny fatin' i Saoly sy ny fatin' ny zanany teo amin' ny mandan' i Beti-sana; ary tonga tao Jabesy izy ireo ka nandoro azy tao.",
+    "13": "Ary nalainy ny taolany ka naleviny teo ambanin' ny hazo tamariska tao Jabesy, ary dia nifady hanina hafitoana izy ireo."
+  }
 }

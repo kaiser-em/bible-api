@@ -1,133 +1,38 @@
 {
+  "book": "Genesisy",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ity no boky milaza ny taranak' i Adama. Tamin' ny andro namoronan' Andriamanitra ny olona dia tahaka ny tarehin' Andriamanitra no nanaovany azy."
-    },
-    {
-      "v": 2,
-      "text": "\"Lahy sy vavy no namoronany azy; dia nitahy azy Izy ka nanao ny anarany hoe Adama tamin' ny andro namoronany azy.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary telopolo amby zato taona ny andro niainan' i Adama, dia niteraka tahaka ny tarehiny araka ny endriny izy; ary ny anarany nataony hoe: Seta.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary ny andron' i Adama taorian' ny niterahany an' i Seta dia valonjato taona; ary niteraka zazalahy sy zazavavy maro izy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary ny andro rehetra niainan' i Adama dia telopolo amby sivinjato taona; dia maty izy.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary dimy amby zato taona ny andro niainan' i Seta, dia niteraka an i Enosy izy."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary fito amby valonjato taona ny andro niainan' i Seta taorian' ny niterahany an' i Enosy; ary niteraka zazalahy sy zazavavy maro izy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary ny andro rehetra niainan' i Seta dia roa ambin' ny folo amby sivinjato taona; dia maty izy.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary sivifolo taona ny andro niainan' i Enosy, dia niteraka an' i Kenana izy."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary ny andro niainan' i Enosy taorian' ny niterahany an' i Kenana dia dimy ambin' ny folo amby valonjato taona; ary niteraka zazalahy sy zazavavy maro izy.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary ny andro rehetra niainan' i Enosy dia dimy amby sivinjato taona; dia maty izy.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary fitopolo taona ny andro niainan' i Kenana dia niteraka an' i Mahalalila izy;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ny andro niainan' i Kenana taorian' ny niterahany an' i Mahalalila dia efapolo amby valonjato taona; ary niteraka zazalahy sy zazavavy maro izy.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary ny andro rehetra niainan' i Kenana dia folo amby sivinjato taona; dia maty izy.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary dimy amby enimpolo taona ny andro niainan' i Mahalalila dia niteraka an' i Jareda izy."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary ny andro niainan' i Mahalalila taorian' ny niterahany an' i Jareda dia telopolo amby valonjato taona; ary niteraka zazalahy sy zazavavy maro izy.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ny andro rehetra niainan' i Mahalalila dia dimy amby sivifolo amby valonjato taona; dia maty izy.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary roa amby enimpolo amby zato taona ny andro niainan' i Jareda dia niteraka an' i Enoka izy."
-    },
-    {
-      "v": 19,
-      "text": "Ary ny andro niainan' i Jareda taorian' ny niterahany an' i Enoka dia valonjato taona ary niteraka zazalahy sy zazavavy maro izy."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary ny andro rehetra niainan' i Jareda dia roa amby enimpolo amby sivinjato taona; dia maty izy.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary dimy amby enimpolo taona ny andro niainan' i Enoka, dia niteraka an' i Metosela izy."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary niara-nandeha tamin' Andriamanitra telonjato taona Enoka taorian' ny niterahany an' i Metosela; ary niteraka zazalahy sy zazavavy maro izy.\""
-    },
-    {
-      "v": 23,
-      "text": "Ary ny andro rehetra niainan' i Enoka dia dimy amby enimpolo amby telonjato taona."
-    },
-    {
-      "v": 24,
-      "text": "\"Ary niara-nandeha tamin' Andriamanitra Enoka; ka tsy hita izy fa nentin' Andriamanitra.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary fito amby valopolo amby zato taona ny andro niainan' i Metosela, dia niteraka an' i Lameka izy."
-    },
-    {
-      "v": 26,
-      "text": "\"Ary ny andro niainan' i Metosela taorian' ny niterahany an' i Lameka dia roa amby valopolo amby fitonjato taona; ary niteraka zazalahy sy zazavavy maro izy.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Ary ny andro rehetra niainan' i Metosela dia sivy amby enimpolo amby sivinjato taona; dia maty izy.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary roa amby valopolo amby zato taona ny andro niainan' i Lameka, dia niteraka zazalahy izy;\""
-    },
-    {
-      "v": 29,
-      "text": "Ary ny anarany nataony hoe Noa, fa hoy izy: Ity no hampionona antsika amin' ny asantsika sy ny fisasaran' ny tanantsika noho ny tany izay voaozon' i Jehovah."
-    },
-    {
-      "v": 30,
-      "text": "\"Ary ny andro niainan' i Lameka taorian' ny niterahany an' i Noa dia dimy amby sivifolo amby dimanjato taona; ary niteraka zazalahy sy zazavavy maro izy.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Ary ny andro rehetra niainan' i Lameka dia fito amby fitopolo amby fitonjato taona; dia maty izy.\""
-    },
-    {
-      "v": 32,
-      "text": "Ary rehefa dimanjato taona Noa, dia niteraka an' i Sema sy Hama ary Jafeta."
-    }
-  ]
+  "verses": {
+    "1": "Ity no boky milaza ny taranak' i Adama. Tamin' ny andro namoronan' Andriamanitra ny olona dia tahaka ny tarehin' Andriamanitra no nanaovany azy.",
+    "2": "Lahy sy vavy no namoronany azy; dia nitahy azy Izy ka nanao ny anarany hoe Adama tamin' ny andro namoronany azy.",
+    "3": "Ary telopolo amby zato taona ny andro niainan' i Adama, dia niteraka tahaka ny tarehiny araka ny endriny izy; ary ny anarany nataony hoe: Seta.",
+    "4": "Ary ny andron' i Adama taorian' ny niterahany an' i Seta dia valonjato taona; ary niteraka zazalahy sy zazavavy maro izy.",
+    "5": "Ary ny andro rehetra niainan' i Adama dia telopolo amby sivinjato taona; dia maty izy.",
+    "6": "Ary dimy amby zato taona ny andro niainan' i Seta, dia niteraka an i Enosy izy.",
+    "7": "Ary fito amby valonjato taona ny andro niainan' i Seta taorian' ny niterahany an' i Enosy; ary niteraka zazalahy sy zazavavy maro izy.",
+    "8": "Ary ny andro rehetra niainan' i Seta dia roa ambin' ny folo amby sivinjato taona; dia maty izy.",
+    "9": "Ary sivifolo taona ny andro niainan' i Enosy, dia niteraka an' i Kenana izy.",
+    "10": "Ary ny andro niainan' i Enosy taorian' ny niterahany an' i Kenana dia dimy ambin' ny folo amby valonjato taona; ary niteraka zazalahy sy zazavavy maro izy.",
+    "11": "Ary ny andro rehetra niainan' i Enosy dia dimy amby sivinjato taona; dia maty izy.",
+    "12": "Ary fitopolo taona ny andro niainan' i Kenana dia niteraka an' i Mahalalila izy;",
+    "13": "Ary ny andro niainan' i Kenana taorian' ny niterahany an' i Mahalalila dia efapolo amby valonjato taona; ary niteraka zazalahy sy zazavavy maro izy.",
+    "14": "Ary ny andro rehetra niainan' i Kenana dia folo amby sivinjato taona; dia maty izy.",
+    "15": "Ary dimy amby enimpolo taona ny andro niainan' i Mahalalila dia niteraka an' i Jareda izy.",
+    "16": "Ary ny andro niainan' i Mahalalila taorian' ny niterahany an' i Jareda dia telopolo amby valonjato taona; ary niteraka zazalahy sy zazavavy maro izy.",
+    "17": "Ary ny andro rehetra niainan' i Mahalalila dia dimy amby sivifolo amby valonjato taona; dia maty izy.",
+    "18": "Ary roa amby enimpolo amby zato taona ny andro niainan' i Jareda dia niteraka an' i Enoka izy.",
+    "19": "Ary ny andro niainan' i Jareda taorian' ny niterahany an' i Enoka dia valonjato taona ary niteraka zazalahy sy zazavavy maro izy.",
+    "20": "Ary ny andro rehetra niainan' i Jareda dia roa amby enimpolo amby sivinjato taona; dia maty izy.",
+    "21": "Ary dimy amby enimpolo taona ny andro niainan' i Enoka, dia niteraka an' i Metosela izy.",
+    "22": "Ary niara-nandeha tamin' Andriamanitra telonjato taona Enoka taorian' ny niterahany an' i Metosela; ary niteraka zazalahy sy zazavavy maro izy.",
+    "23": "Ary ny andro rehetra niainan' i Enoka dia dimy amby enimpolo amby telonjato taona.",
+    "24": "Ary niara-nandeha tamin' Andriamanitra Enoka; ka tsy hita izy fa nentin' Andriamanitra.",
+    "25": "Ary fito amby valopolo amby zato taona ny andro niainan' i Metosela, dia niteraka an' i Lameka izy.",
+    "26": "Ary ny andro niainan' i Metosela taorian' ny niterahany an' i Lameka dia roa amby valopolo amby fitonjato taona; ary niteraka zazalahy sy zazavavy maro izy.",
+    "27": "Ary ny andro rehetra niainan' i Metosela dia sivy amby enimpolo amby sivinjato taona; dia maty izy.",
+    "28": "Ary roa amby valopolo amby zato taona ny andro niainan' i Lameka, dia niteraka zazalahy izy;",
+    "29": "Ary ny anarany nataony hoe Noa, fa hoy izy: Ity no hampionona antsika amin' ny asantsika sy ny fisasaran' ny tanantsika noho ny tany izay voaozon' i Jehovah.",
+    "30": "Ary ny andro niainan' i Lameka taorian' ny niterahany an' i Noa dia dimy amby sivifolo amby dimanjato taona; ary niteraka zazalahy sy zazavavy maro izy.",
+    "31": "Ary ny andro rehetra niainan' i Lameka dia fito amby fitopolo amby fitonjato taona; dia maty izy.",
+    "32": "Ary rehefa dimanjato taona Noa, dia niteraka an' i Sema sy Hama ary Jafeta."
+  }
 }

@@ -1,117 +1,34 @@
 {
+  "book": "1 Mpanjaka",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izao no niseho, rehefa vitan' i Solomona ny fanorenana ny tranon' i Jehovah sy ny tranon' ny mpanjaka ary izay rehetra nirin' i Solomona hatao,"
-    },
-    {
-      "v": 2,
-      "text": "Dia niseho fanindroany tamin' i Solomona Jehovah tahaka ilay nisehoany taminy tao Gibeona."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary hoy Jehovah taminy: Efa reko ny vavakao sy ny fifonanao izay nataonao teo anatrehako; efa nohamasiniko ity trano izay naorinao ity, mba hampitoerana ny anarako ao mandrakizay; ary ho ao mandrakariva ny masoko sy ny foko.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary raha handeha eo anatrehako ianao tahaka ny nandehanan' i Davida rainao tamin' ny fahitsian' ny fo sy ny fahamarinana ka hanao araka izay rehetra nandidiako anao ary hitandrina ny didiko sy ny fitsipiko,"
-    },
-    {
-      "v": 5,
-      "text": "Dia hampitoeriko mandrakizay amin' ny Isiraely ny sezafiandrianan' ny fanjakanao araka ilay nampanantenaiko an' i Davida rainao manao hoe: Tsy ho diso olona avy aminao ny sezafiandrianan' ny Isiraely."
-    },
-    {
-      "v": 6,
-      "text": "Fa raha miala amin' ny fanarahana Ahy tokoa ianareo, dia ianareo sy ny zanakareo, ka tsy hitandrina ny lalàko sy ny didiko izay nataoko teo anoloanareo, fa mandeha manompo andriamani-kafa sy miankohoka eo anatrehany,"
-    },
-    {
-      "v": 7,
-      "text": "\"Dia hofongorako tsy ho amin' ny tany izay nomeko azy ny Isiraely; ary ity trano izay nohamasiniko ho an' ny anarako ity dia hofongorako tsy ho eo imasoko; ary ny Isiraely ho tonga ohabolana sy ambentinteny any amin' ny firenena rehetra;\""
-    },
-    {
-      "v": 8,
-      "text": "Ary ny amin' ity trano ity, na dia avo aza, dia hitalanjonan' izay rehetra mandalo sady hihisitrisirany ka hanaovany hoe: Nahoana re no dia nataon' i Jehovah  toy izao ity tany sy ity trano ity?"
-    },
-    {
-      "v": 9,
-      "text": "Ary hisy hamaly hoe: satria ny olona nahafoy an' i Jehovah Andriamaniny, Izay nitondra ny razany nivoaka avy tany amin' ny tany Egypta, ary nikikitra tamin' andriamani-kafa sy niankohoka teo anatrehany ka nanompo azy, dia izany no nampidiran' i Jehovah izao loza rehetra izao taminy."
-    },
-    {
-      "v": 10,
-      "text": "Ary izao no niseho, nony afaka ny roapolo taona nanorenan' i Solomona ny trano roa, dia ny tranon' i Jehovah sy ny tranon' ny mpanjaka,"
-    },
-    {
-      "v": 11,
-      "text": "(Hirama, mpanjakan' i Tyro, nanome an' i Solomona hazo sedera sy hazo kypreso ary volamena, araka izay rehetra niriny), dia nomen' i Solomona tanàna roapolo tany amin' ny tany Galilia kosa Hirama."
-    },
-    {
-      "v": 12,
-      "text": "Ary Hirama nivoaka avy tany Tyro hizaha ny tanàna izay nomen' i Solomona azy, ka tsy tiany izany."
-    },
-    {
-      "v": 13,
-      "text": "Dia hoy izy: Tanàna inona àry ireo nomenao ahy ireo, ry rahalahiko? Ary ireny dia natao hoe: tanin' i Kabola mandraka androany."
-    },
-    {
-      "v": 14,
-      "text": "Ary Hirama nampanatitra talenta volamena roapolo amby zato ho an' ny mpanjaka."
-    },
-    {
-      "v": 15,
-      "text": "Ary izao no anton' ny hetra izay nampanaovin' i solomona mpanjaka: mba hanorenana ny tranon' i Jehovah sy ny tranony ary Milo sy ny mandan' i Jerosalema sy Hazora sy Megido ary Gazera."
-    },
-    {
-      "v": 16,
-      "text": "Fa Farao, mpanjakan' i Egypta efa niakatra, dia nahafaka an' i Gazera ka nandoro azy tamin' ny afo, ary ny Kananita izay nitoetra tao dia novonoiny, ary ny tanàna dia nomeny ho fanomezana ho an' ny zanany vavy vadin' i Solomona."
-    },
-    {
-      "v": 17,
-      "text": "Ary Solomona nanorina an' i Gazera sy Beti-horona ambany,"
-    },
-    {
-      "v": 18,
-      "text": "Sy Baleta sy Tadmora any an' efitra, amin' ny tany Hamata,"
-    },
-    {
-      "v": 19,
-      "text": "Ary ny tanàna fitehirizana rehetra izay nananan' i Solomona sy ny tanàna fitoeran' ny kalesiny sy ny tanàna fitoeran' ny mpitaingin-tsoavaliny sy izay tian' i Solomona haorina tany Jerosalema sy tany Libanona ary tany amin' ny tany nanjakany rehetra."
-    },
-    {
-      "v": 20,
-      "text": "Ary ny olona sisa rehetra tamin' ny Amorita sy ny Hetita sy ny Perizita sy ny Hivita ary ny Jebosita, izay tsy isan' ny Zanak' Isiraely,"
-    },
-    {
-      "v": 21,
-      "text": "Dia ny taranany izay sisa nandimby azy teo amin' ny tany izay tsy azon' ny Isiraely naringana avokoa, tamin' ireny no nampandoavin' i Solomona hetra sy nampanaoviny fanompoana mandraka androany,"
-    },
-    {
-      "v": 22,
-      "text": "Fa ny avy tamin' ny Zanak' Isiraely dia tsy mba nataon' i Solomona ho andevo, fa ireo no miaramila sy mpanompony sy komandiny sy mpifehiny ary komandin' ny kalesiny sy mpitaingin-tsoavaliny."
-    },
-    {
-      "v": 23,
-      "text": "Izao no lehiben' ny manamboninahitra nifehy ny asan' i Solomona: dimam-polo amby dimanjato lahy no mpifehy ny olona manao ny asa."
-    },
-    {
-      "v": 24,
-      "text": "\"Fa rehefa niakatra avy tany an-tanànan' i Davida ny zanakavavin' i Farao hankany amin' ny tranony izay nataon' i Solomona ho azy; dia nanorina an' i Milo izy.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary intelo isan-taona no nanateran' i Solomona fanatitra dorana sy fanati-pihavanana teo ambonin' ny alitara izay naorina ho an' i Jehovah, sady nandoro ditin-kazo manitra teo ambonin' ny alitara teo anatrehan' i Jehovah Izy. Dia vitany ny trano."
-    },
-    {
-      "v": 26,
-      "text": "Ary Solomona mpanjaka nanao sambo tao Ezion-gebera, izay ao anilan' i Elota, ao amoron' ny Ranomasina Mena, amin' ny tany Edoma."
-    },
-    {
-      "v": 27,
-      "text": "Ary Hirama nampandeha ny mpanompony tamin' ny sambo, dia tantsambo izay nahay ranomasina hiaraka amin' ny mpanompon' i Solomona."
-    },
-    {
-      "v": 28,
-      "text": "Ary nankany Ofira ireo, dia naka volamena talenta roapolo amby efajato, ka nentiny tany amin' i Solomona mpanjaka izany."
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no niseho, rehefa vitan' i Solomona ny fanorenana ny tranon' i Jehovah sy ny tranon' ny mpanjaka ary izay rehetra nirin' i Solomona hatao,",
+    "2": "Dia niseho fanindroany tamin' i Solomona Jehovah tahaka ilay nisehoany taminy tao Gibeona.",
+    "3": "Ary hoy Jehovah taminy: Efa reko ny vavakao sy ny fifonanao izay nataonao teo anatrehako; efa nohamasiniko ity trano izay naorinao ity, mba hampitoerana ny anarako ao mandrakizay; ary ho ao mandrakariva ny masoko sy ny foko.",
+    "4": "Ary raha handeha eo anatrehako ianao tahaka ny nandehanan' i Davida rainao tamin' ny fahitsian' ny fo sy ny fahamarinana ka hanao araka izay rehetra nandidiako anao ary hitandrina ny didiko sy ny fitsipiko,",
+    "5": "Dia hampitoeriko mandrakizay amin' ny Isiraely ny sezafiandrianan' ny fanjakanao araka ilay nampanantenaiko an' i Davida rainao manao hoe: Tsy ho diso olona avy aminao ny sezafiandrianan' ny Isiraely.",
+    "6": "Fa raha miala amin' ny fanarahana Ahy tokoa ianareo, dia ianareo sy ny zanakareo, ka tsy hitandrina ny lalàko sy ny didiko izay nataoko teo anoloanareo, fa mandeha manompo andriamani-kafa sy miankohoka eo anatrehany,",
+    "7": "Dia hofongorako tsy ho amin' ny tany izay nomeko azy ny Isiraely; ary ity trano izay nohamasiniko ho an' ny anarako ity dia hofongorako tsy ho eo imasoko; ary ny Isiraely ho tonga ohabolana sy ambentinteny any amin' ny firenena rehetra;",
+    "8": "Ary ny amin' ity trano ity, na dia avo aza, dia hitalanjonan' izay rehetra mandalo sady hihisitrisirany ka hanaovany hoe: Nahoana re no dia nataon' i Jehovah  toy izao ity tany sy ity trano ity?",
+    "9": "Ary hisy hamaly hoe: satria ny olona nahafoy an' i Jehovah Andriamaniny, Izay nitondra ny razany nivoaka avy tany amin' ny tany Egypta, ary nikikitra tamin' andriamani-kafa sy niankohoka teo anatrehany ka nanompo azy, dia izany no nampidiran' i Jehovah izao loza rehetra izao taminy.",
+    "10": "Ary izao no niseho, nony afaka ny roapolo taona nanorenan' i Solomona ny trano roa, dia ny tranon' i Jehovah sy ny tranon' ny mpanjaka,",
+    "11": "(Hirama, mpanjakan' i Tyro, nanome an' i Solomona hazo sedera sy hazo kypreso ary volamena, araka izay rehetra niriny), dia nomen' i Solomona tanàna roapolo tany amin' ny tany Galilia kosa Hirama.",
+    "12": "Ary Hirama nivoaka avy tany Tyro hizaha ny tanàna izay nomen' i Solomona azy, ka tsy tiany izany.",
+    "13": "Dia hoy izy: Tanàna inona àry ireo nomenao ahy ireo, ry rahalahiko? Ary ireny dia natao hoe: tanin' i Kabola mandraka androany.",
+    "14": "Ary Hirama nampanatitra talenta volamena roapolo amby zato ho an' ny mpanjaka.",
+    "15": "Ary izao no anton' ny hetra izay nampanaovin' i solomona mpanjaka: mba hanorenana ny tranon' i Jehovah sy ny tranony ary Milo sy ny mandan' i Jerosalema sy Hazora sy Megido ary Gazera.",
+    "16": "Fa Farao, mpanjakan' i Egypta efa niakatra, dia nahafaka an' i Gazera ka nandoro azy tamin' ny afo, ary ny Kananita izay nitoetra tao dia novonoiny, ary ny tanàna dia nomeny ho fanomezana ho an' ny zanany vavy vadin' i Solomona.",
+    "17": "Ary Solomona nanorina an' i Gazera sy Beti-horona ambany,",
+    "18": "Sy Baleta sy Tadmora any an' efitra, amin' ny tany Hamata,",
+    "19": "Ary ny tanàna fitehirizana rehetra izay nananan' i Solomona sy ny tanàna fitoeran' ny kalesiny sy ny tanàna fitoeran' ny mpitaingin-tsoavaliny sy izay tian' i Solomona haorina tany Jerosalema sy tany Libanona ary tany amin' ny tany nanjakany rehetra.",
+    "20": "Ary ny olona sisa rehetra tamin' ny Amorita sy ny Hetita sy ny Perizita sy ny Hivita ary ny Jebosita, izay tsy isan' ny Zanak' Isiraely,",
+    "21": "Dia ny taranany izay sisa nandimby azy teo amin' ny tany izay tsy azon' ny Isiraely naringana avokoa, tamin' ireny no nampandoavin' i Solomona hetra sy nampanaoviny fanompoana mandraka androany,",
+    "22": "Fa ny avy tamin' ny Zanak' Isiraely dia tsy mba nataon' i Solomona ho andevo, fa ireo no miaramila sy mpanompony sy komandiny sy mpifehiny ary komandin' ny kalesiny sy mpitaingin-tsoavaliny.",
+    "23": "Izao no lehiben' ny manamboninahitra nifehy ny asan' i Solomona: dimam-polo amby dimanjato lahy no mpifehy ny olona manao ny asa.",
+    "24": "Fa rehefa niakatra avy tany an-tanànan' i Davida ny zanakavavin' i Farao hankany amin' ny tranony izay nataon' i Solomona ho azy; dia nanorina an' i Milo izy.",
+    "25": "Ary intelo isan-taona no nanateran' i Solomona fanatitra dorana sy fanati-pihavanana teo ambonin' ny alitara izay naorina ho an' i Jehovah, sady nandoro ditin-kazo manitra teo ambonin' ny alitara teo anatrehan' i Jehovah Izy. Dia vitany ny trano.",
+    "26": "Ary Solomona mpanjaka nanao sambo tao Ezion-gebera, izay ao anilan' i Elota, ao amoron' ny Ranomasina Mena, amin' ny tany Edoma.",
+    "27": "Ary Hirama nampandeha ny mpanompony tamin' ny sambo, dia tantsambo izay nahay ranomasina hiaraka amin' ny mpanompon' i Solomona.",
+    "28": "Ary nankany Ofira ireo, dia naka volamena talenta roapolo amby efajato, ka nentiny tany amin' i Solomona mpanjaka izany."
+  }
 }

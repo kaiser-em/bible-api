@@ -1,209 +1,57 @@
 {
+  "book": "Eksodosy",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy sy Arona teo amin' ny tany Egypta ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Ity volana ity dia ho voaloham-bolana ho anareo; ka ho voaloham-bolana amin' ny taona ho anareo izy.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Mitenena ianareo amin' ny fiangonan' ny Isiraely rehetra ka manaova hoe: Amin' ny andro fahafolo amin' ity volana ity dia samy haka zanak' ondry iray avy izy rehetra, araka ny ankohonan' ny rainy, dia zanak' ondry iray ho an' ny isan-trano;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary raha vitsy loatra ny iray trano ka tsy mahalany zanak' ondry iray, dia aoka izy sy izay namany mifanakaiky trano aminy haka izany araka izay isan' ny olona; ny olona rehetra samy araka izay ho laniny avy no hanisanareo ny zanak' ondry.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Tsy hisy kilema ny zanak' ondrinareo, dia lahy iray taona; halainareo amin' ny ondry na amin' ny osy izany.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary hotehirizinareo izy hatramin' ny andro fahefatra ambin' ny folo amin' io volana io ihany, ary hamono azy amin' ny hariva ny fivorian' ny fiangonan' ny Isiraely rehetra."
-    },
-    {
-      "v": 7,
-      "text": "Ary hanalany ny ra, ka hatentiny amin' ny tolam-baravarana roa sy amin' ny tataom-baravaran' ny trano izay hihinanany azy."
-    },
-    {
-      "v": 8,
-      "text": "\"Dia hohaniny amin' izany alina izany ny hena; voatsatsika tamin' ny afo no hihinanany azy mbamin' ny mofo tsy misy lalivay sady ampiarahina amin' ny anana mangidy no hihinanany azy.\""
-    },
-    {
-      "v": 9,
-      "text": "Aza hanina manta na voahandro amin' ny rano akory, fa atsatsiho amin' ny afo mbamin' ny lohany sy ny tongony ary ny fàdiny."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary aza asianareo ho tra-maraina; fa raha tahiny misy sisa tsy lany ka tra-maraina, dia hodoranareo amin' ny afo.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary toy izao no hataonareo, raha mihinana azy: ny valahanareo ho voasikina, ny kapanareo ho eo amin' ny tongotrareo, ary ny tehinareo ho eny an-tananareo; dia hohaninareo faingana izany, fa Paskan' i Jehovah.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Fa handeha hamaky ny tany Egypta amin' izany alina izany Aho ka hamono ny matoa rehetra amin' ny tany Egypta hatramin' ny olona ka hatramin' ny biby; ary ny andriamanitr' i Egypta rehetra dia hotsaraiko avokoa; Izaho no Jehovah.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ny rà dia ho famantarana ho anareo eo amin' ny trano izay itoeranareo; ary raha mahita ny rà Aho, dia handalo anareo, ary ny loza tsy ho aminareo handringana anareo, raha mamely ny tany Egypta Aho.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary izany andro izany dia ho fahatsiarovana ho anareo ka hotandremanareo izany ho andro firavoravoana ho an' i Jehovah amin' ny taranakareo mifandimby; hotandremanareo ho andro firavoravoana ho lalàna mandrakizay izany.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Hafitoana no hihinanareo mofo tsy misy lalivay; amin' ny andro voalohany no hanesoranareo ny lalivay amin' ny tranonareo; fa na iza na iza homana mofo misy lalivay hatramin' ny andro voalohany ka hatramin' ny andro fahafito dia hofongorana tsy ho amin' ny Isiraely.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary amin' ny andro voalohany dia hisy fivoriana masina, ary amin' ny andro fahafito koa hisy fivoriana masina ho anareo; tsy hanao raharaha akory ianareo amin' izany andro izany, afa-tsy izay hohanin' ny isan' olona, dia izany ihany no hamboarinareo.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary hitandrina ny andro firavoravoana momba ny mofo tsy misy lalivay ianareo, fa izany andro izany indrindra no nitondrako ny antokonareo nivoaka avy tany amin' ny tany Egypta; noho izany, hotandremanareo izany andro izany, amin' ny taranakareo ho lalàna mandrakizay.\""
-    },
-    {
-      "v": 18,
-      "text": "Amin' ny andro fahefatra ambin' ny folo amin' ny volana voalohany, nony hariva, no hihinananareo mofo tsy misy lalivay hatramin' ny harivan' ny andro fahiraika amby roapolo amin' ny volana."
-    },
-    {
-      "v": 19,
-      "text": "\"Hafitoana no tsy hisiana lalivay ao an-tranonareo; fa na iza na iza homana izay misy lalivay dia hofongorana tsy ho amin' ny fiangonan' ny Isiraely, na vahiny na tompon-tany.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Tsy hihinana na inona na inona izay misy lalivay ianareo; dia hihinana mofo tsy misy lalivay ianareo ao amin' izay itoeranareo rehetra.\""
-    },
-    {
-      "v": 21,
-      "text": "Dia nampanalain' i Mosesy ny loholon' ny Isiraely rehetra, ka hoy izy taminy: Mandehana ianareo ka makà ondry ho anareo araka ny ankohonanareo avy, ka vonoy ny Paska."
-    },
-    {
-      "v": 22,
-      "text": "\"Dia makà hysopa iray fihina, ka atsobohy amin' ny rà izay ao anatin'ny bakoly, ary ny rà izay ao anatin' ny bakoly dia anenteno amin' ny tataom-baravarana sy ny tolana roa; ary aza misy mivoaka eo am-baravaran' ny tranonareo avy ianareo ambara-pahamarain' ny andro.\""
-    },
-    {
-      "v": 23,
-      "text": "Fa handeha hamely ny Egyptiana Jehovah, ary raha mahita ny rà eo amin' ny tataom-baravarana sy ny tolana roa Jehovah, dia handalo ny varavarana, ka tsy havelany hiditra ao an-tranonareo hamely anareo ny mpandringana."
-    },
-    {
-      "v": 24,
-      "text": "Ary hitandrina izany zavatra izany ianareo ho lalàna ho anareo sy ho an' ny zanakareo mandrakizay."
-    },
-    {
-      "v": 25,
-      "text": "Ary izao no hiseho, rehefa tonga any amin' ny tany izay homen' i Jehovah anareo ianareo araka izay nampanantenainy, dia hitandrina izao fanompoana izao ianareo."
-    },
-    {
-      "v": 26,
-      "text": "Ary izao no hiseho, rehefa hiteny aminareo ny zanakareo hoe: Inona no hevitr' izao fanompoana izao?"
-    },
-    {
-      "v": 27,
-      "text": "Dia holazainareo fa izao dia famonoana ny Paskan' i Jehovah izay nandalo ny tranon' ny Zanak' Isiraely tany Egypta, raha namely ny Egyptiana Izy, fa nanafaka ny tranontsika. Dia nanondrika ny lohany ny olona ka nivavaka."
-    },
-    {
-      "v": 28,
-      "text": "\"Ary dia nandeha ny Zanak' Isiraely ka nanao izany; araka izay nandidian' i Jehovah an' i Mosesy sy Arona no nataony.\""
-    },
-    {
-      "v": 29,
-      "text": "Ary izao no niseho, nony namatonalina dia namono ny matoa rehetra tao amin' ny tany Egypta Jehovah hatramin' ny matoan' i Farao izay nipetraka teo amin' ny sezafiandrianany ka hatramin' ny matoan' ny babo izay tao amin' ny tranomaizina mbamin' ny voalohan-teraky ny biby fiompy rehetra."
-    },
-    {
-      "v": 30,
-      "text": "Ary nifoha raha mbola alina Farao, dia izy sy ny mpanompony rehetra ary ny Egyptiana rehetra, fa nisy fidradradradrana mafy tany Egypta, satria tsy nisy trano izay tsy nahafatesana."
-    },
-    {
-      "v": 31,
-      "text": "Dia nampaka an' i Mosesy sy Arona izy, raha mbola alina, ka nanao hoe: Mitsangàna, mialà eto amin' ny vahoakako ianareo sy ny Zanak' Isiraely, ary mandehana ka manompoa an' i Jehovah araka ny nolazainareo."
-    },
-    {
-      "v": 32,
-      "text": "\"Ary ny ondry aman' osinareo sy ny ombinareo dia ento koa araka izay efa nolazainareo; ka mandehana dia mba tsofy rano koa aho.\""
-    },
-    {
-      "v": 33,
-      "text": "\"Dia nandodona ny olona ny Egyptiana ka nampandeha azy faingana hiala amin' ny tany; satria hoy izy: Maty avokoa izahay.\""
-    },
-    {
-      "v": 34,
-      "text": "Dia nentin' ny olona ny kobany voalena raha tsy mbola voaisy lalivay, sy ny viliany fanaova-mofo voafehy ao amin' ny lambany teny an-tsorony."
-    },
-    {
-      "v": 35,
-      "text": "Ary nanao araka ny tenin' i Mosesy ny Zanak' Isiraely ka nangataka firavaka volafotsy sy firavaka volamena ary fitafiana tamin' ny Egyptiana."
-    },
-    {
-      "v": 36,
-      "text": "Ary nataon' i Jehovah nahita fitia teo imason' ny Egyptiana ny olona, ka nomen' ireo azy izay notakiny, ka dia nofoanany ny Egyptiana."
-    },
-    {
-      "v": 37,
-      "text": "Dia niainga tao Ramesesa ny Zanak' Isiraely ka nankany Sokota, dia lehilahy mahalia lalana tokony ho enina hetsy, afa-tsy ny ankizy."
-    },
-    {
-      "v": 38,
-      "text": "Ary nisy olona maro samy hafa koa niara-niakatra taminy, ary ondry aman' osy sy omby, dia biby fiompy be indrindra."
-    },
-    {
-      "v": 39,
-      "text": "\"Dia nanendy mofo tsy misy lalivay tamin' ny koba voalena izay nentiny avy tany Egypta izy; fa tsy mbola nisy lalivay izany, satria noroahina tany Egypta izy ka tsy nahazo nijanona, na nahafehy vatsy ho azy.\""
-    },
-    {
-      "v": 40,
-      "text": "Ary ny andro nitoeran' ny Zanak' Isiraely tany Egypta dia telopolo amby efajato taona."
-    },
-    {
-      "v": 41,
-      "text": "Ary izao no niseho rehefa tapitra ny telopolo amby efajato taona, fa tamin' izany andro izany indrindra dia izao no niseho: nivoaka ny tany Egypta ny antokon' i Jehovah rehetra."
-    },
-    {
-      "v": 42,
-      "text": "\"Alina hotandremana fatratra ho an' i Jehovah izany noho ny nitondrany azy nivoaka ny tany Egypta; izany no alina an' i Jehovah izay hotandreman' ny Zanak' Isiraely rehetra amin' ny taranany rehetra.\""
-    },
-    {
-      "v": 43,
-      "text": "Ary hoy Jehovah tamin' i Mosesy sy Arona: Izao no lalàna ny amin' ny Paska: tsy hisy vahiny hihinana azy."
-    },
-    {
-      "v": 44,
-      "text": "Fa ny mpanompon' ny olona rehetra izay novidim-bola, rehefa noforanao izy vao hihinana."
-    },
-    {
-      "v": 45,
-      "text": "Ny hafa firenena sy ny mpikarama tsy hihinana azy."
-    },
-    {
-      "v": 46,
-      "text": "\"Ao an-trano iray no hihinananao azy; tsy hamoahanao eny ivelan' ny trano akory ny hena, ary tsy hisy hotapahinareo ny taolana na dia iray akory aza.\""
-    },
-    {
-      "v": 47,
-      "text": "Ny fiangonan' ny Isiraely rehetra dia hitandrina izany."
-    },
-    {
-      "v": 48,
-      "text": "\"Ary raha misy mivahiny eo aminao ka mba te-hitandrina ny Paska ho an' i Jehovah, dia aoka hoforana ny lehilahy rehetra eo aminy vao manatona hitandrina izany, ka ho tahaka ny tompon-tany ihany izy; fa tsy misy olona tsy voafora hihinana izany.\""
-    },
-    {
-      "v": 49,
-      "text": "Lalàna iray no ho amin' ny tompon-tany sy ny vahiny izay mitoetra eo aminareo."
-    },
-    {
-      "v": 50,
-      "text": "Dia nataon' ny Zanak' Isiraely rehetra izany: araka izay nandidian' i Jehovah an' i Mosesy sy Arona no nataony."
-    },
-    {
-      "v": 51,
-      "text": "Ary izao no niseho, tamin' izany andro izany indrindra no nitondran' i Jehovah ny Zanak' Isiraely nivoaka ny tany Egypta araka ny antokony."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy sy Arona teo amin' ny tany Egypta ka nanao hoe:",
+    "2": "Ity volana ity dia ho voaloham-bolana ho anareo; ka ho voaloham-bolana amin' ny taona ho anareo izy.",
+    "3": "Mitenena ianareo amin' ny fiangonan' ny Isiraely rehetra ka manaova hoe: Amin' ny andro fahafolo amin' ity volana ity dia samy haka zanak' ondry iray avy izy rehetra, araka ny ankohonan' ny rainy, dia zanak' ondry iray ho an' ny isan-trano;",
+    "4": "Ary raha vitsy loatra ny iray trano ka tsy mahalany zanak' ondry iray, dia aoka izy sy izay namany mifanakaiky trano aminy haka izany araka izay isan' ny olona; ny olona rehetra samy araka izay ho laniny avy no hanisanareo ny zanak' ondry.",
+    "5": "Tsy hisy kilema ny zanak' ondrinareo, dia lahy iray taona; halainareo amin' ny ondry na amin' ny osy izany.",
+    "6": "Ary hotehirizinareo izy hatramin' ny andro fahefatra ambin' ny folo amin' io volana io ihany, ary hamono azy amin' ny hariva ny fivorian' ny fiangonan' ny Isiraely rehetra.",
+    "7": "Ary hanalany ny ra, ka hatentiny amin' ny tolam-baravarana roa sy amin' ny tataom-baravaran' ny trano izay hihinanany azy.",
+    "8": "Dia hohaniny amin' izany alina izany ny hena; voatsatsika tamin' ny afo no hihinanany azy mbamin' ny mofo tsy misy lalivay sady ampiarahina amin' ny anana mangidy no hihinanany azy.",
+    "9": "Aza hanina manta na voahandro amin' ny rano akory, fa atsatsiho amin' ny afo mbamin' ny lohany sy ny tongony ary ny fàdiny.",
+    "10": "Ary aza asianareo ho tra-maraina; fa raha tahiny misy sisa tsy lany ka tra-maraina, dia hodoranareo amin' ny afo.",
+    "11": "Ary toy izao no hataonareo, raha mihinana azy: ny valahanareo ho voasikina, ny kapanareo ho eo amin' ny tongotrareo, ary ny tehinareo ho eny an-tananareo; dia hohaninareo faingana izany, fa Paskan' i Jehovah.",
+    "12": "Fa handeha hamaky ny tany Egypta amin' izany alina izany Aho ka hamono ny matoa rehetra amin' ny tany Egypta hatramin' ny olona ka hatramin' ny biby; ary ny andriamanitr' i Egypta rehetra dia hotsaraiko avokoa; Izaho no Jehovah.",
+    "13": "Ary ny rà dia ho famantarana ho anareo eo amin' ny trano izay itoeranareo; ary raha mahita ny rà Aho, dia handalo anareo, ary ny loza tsy ho aminareo handringana anareo, raha mamely ny tany Egypta Aho.",
+    "14": "Ary izany andro izany dia ho fahatsiarovana ho anareo ka hotandremanareo izany ho andro firavoravoana ho an' i Jehovah amin' ny taranakareo mifandimby; hotandremanareo ho andro firavoravoana ho lalàna mandrakizay izany.",
+    "15": "Hafitoana no hihinanareo mofo tsy misy lalivay; amin' ny andro voalohany no hanesoranareo ny lalivay amin' ny tranonareo; fa na iza na iza homana mofo misy lalivay hatramin' ny andro voalohany ka hatramin' ny andro fahafito dia hofongorana tsy ho amin' ny Isiraely.",
+    "16": "Ary amin' ny andro voalohany dia hisy fivoriana masina, ary amin' ny andro fahafito koa hisy fivoriana masina ho anareo; tsy hanao raharaha akory ianareo amin' izany andro izany, afa-tsy izay hohanin' ny isan' olona, dia izany ihany no hamboarinareo.",
+    "17": "Ary hitandrina ny andro firavoravoana momba ny mofo tsy misy lalivay ianareo, fa izany andro izany indrindra no nitondrako ny antokonareo nivoaka avy tany amin' ny tany Egypta; noho izany, hotandremanareo izany andro izany, amin' ny taranakareo ho lalàna mandrakizay.",
+    "18": "Amin' ny andro fahefatra ambin' ny folo amin' ny volana voalohany, nony hariva, no hihinananareo mofo tsy misy lalivay hatramin' ny harivan' ny andro fahiraika amby roapolo amin' ny volana.",
+    "19": "Hafitoana no tsy hisiana lalivay ao an-tranonareo; fa na iza na iza homana izay misy lalivay dia hofongorana tsy ho amin' ny fiangonan' ny Isiraely, na vahiny na tompon-tany.",
+    "20": "Tsy hihinana na inona na inona izay misy lalivay ianareo; dia hihinana mofo tsy misy lalivay ianareo ao amin' izay itoeranareo rehetra.",
+    "21": "Dia nampanalain' i Mosesy ny loholon' ny Isiraely rehetra, ka hoy izy taminy: Mandehana ianareo ka makà ondry ho anareo araka ny ankohonanareo avy, ka vonoy ny Paska.",
+    "22": "Dia makà hysopa iray fihina, ka atsobohy amin' ny rà izay ao anatin'ny bakoly, ary ny rà izay ao anatin' ny bakoly dia anenteno amin' ny tataom-baravarana sy ny tolana roa; ary aza misy mivoaka eo am-baravaran' ny tranonareo avy ianareo ambara-pahamarain' ny andro.",
+    "23": "Fa handeha hamely ny Egyptiana Jehovah, ary raha mahita ny rà eo amin' ny tataom-baravarana sy ny tolana roa Jehovah, dia handalo ny varavarana, ka tsy havelany hiditra ao an-tranonareo hamely anareo ny mpandringana.",
+    "24": "Ary hitandrina izany zavatra izany ianareo ho lalàna ho anareo sy ho an' ny zanakareo mandrakizay.",
+    "25": "Ary izao no hiseho, rehefa tonga any amin' ny tany izay homen' i Jehovah anareo ianareo araka izay nampanantenainy, dia hitandrina izao fanompoana izao ianareo.",
+    "26": "Ary izao no hiseho, rehefa hiteny aminareo ny zanakareo hoe: Inona no hevitr' izao fanompoana izao?",
+    "27": "Dia holazainareo fa izao dia famonoana ny Paskan' i Jehovah izay nandalo ny tranon' ny Zanak' Isiraely tany Egypta, raha namely ny Egyptiana Izy, fa nanafaka ny tranontsika. Dia nanondrika ny lohany ny olona ka nivavaka.",
+    "28": "Ary dia nandeha ny Zanak' Isiraely ka nanao izany; araka izay nandidian' i Jehovah an' i Mosesy sy Arona no nataony.",
+    "29": "Ary izao no niseho, nony namatonalina dia namono ny matoa rehetra tao amin' ny tany Egypta Jehovah hatramin' ny matoan' i Farao izay nipetraka teo amin' ny sezafiandrianany ka hatramin' ny matoan' ny babo izay tao amin' ny tranomaizina mbamin' ny voalohan-teraky ny biby fiompy rehetra.",
+    "30": "Ary nifoha raha mbola alina Farao, dia izy sy ny mpanompony rehetra ary ny Egyptiana rehetra, fa nisy fidradradradrana mafy tany Egypta, satria tsy nisy trano izay tsy nahafatesana.",
+    "31": "Dia nampaka an' i Mosesy sy Arona izy, raha mbola alina, ka nanao hoe: Mitsangàna, mialà eto amin' ny vahoakako ianareo sy ny Zanak' Isiraely, ary mandehana ka manompoa an' i Jehovah araka ny nolazainareo.",
+    "32": "Ary ny ondry aman' osinareo sy ny ombinareo dia ento koa araka izay efa nolazainareo; ka mandehana dia mba tsofy rano koa aho.",
+    "33": "Dia nandodona ny olona ny Egyptiana ka nampandeha azy faingana hiala amin' ny tany; satria hoy izy: Maty avokoa izahay.",
+    "34": "Dia nentin' ny olona ny kobany voalena raha tsy mbola voaisy lalivay, sy ny viliany fanaova-mofo voafehy ao amin' ny lambany teny an-tsorony.",
+    "35": "Ary nanao araka ny tenin' i Mosesy ny Zanak' Isiraely ka nangataka firavaka volafotsy sy firavaka volamena ary fitafiana tamin' ny Egyptiana.",
+    "36": "Ary nataon' i Jehovah nahita fitia teo imason' ny Egyptiana ny olona, ka nomen' ireo azy izay notakiny, ka dia nofoanany ny Egyptiana.",
+    "37": "Dia niainga tao Ramesesa ny Zanak' Isiraely ka nankany Sokota, dia lehilahy mahalia lalana tokony ho enina hetsy, afa-tsy ny ankizy.",
+    "38": "Ary nisy olona maro samy hafa koa niara-niakatra taminy, ary ondry aman' osy sy omby, dia biby fiompy be indrindra.",
+    "39": "Dia nanendy mofo tsy misy lalivay tamin' ny koba voalena izay nentiny avy tany Egypta izy; fa tsy mbola nisy lalivay izany, satria noroahina tany Egypta izy ka tsy nahazo nijanona, na nahafehy vatsy ho azy.",
+    "40": "Ary ny andro nitoeran' ny Zanak' Isiraely tany Egypta dia telopolo amby efajato taona.",
+    "41": "Ary izao no niseho rehefa tapitra ny telopolo amby efajato taona, fa tamin' izany andro izany indrindra dia izao no niseho: nivoaka ny tany Egypta ny antokon' i Jehovah rehetra.",
+    "42": "Alina hotandremana fatratra ho an' i Jehovah izany noho ny nitondrany azy nivoaka ny tany Egypta; izany no alina an' i Jehovah izay hotandreman' ny Zanak' Isiraely rehetra amin' ny taranany rehetra.",
+    "43": "Ary hoy Jehovah tamin' i Mosesy sy Arona: Izao no lalàna ny amin' ny Paska: tsy hisy vahiny hihinana azy.",
+    "44": "Fa ny mpanompon' ny olona rehetra izay novidim-bola, rehefa noforanao izy vao hihinana.",
+    "45": "Ny hafa firenena sy ny mpikarama tsy hihinana azy.",
+    "46": "Ao an-trano iray no hihinananao azy; tsy hamoahanao eny ivelan' ny trano akory ny hena, ary tsy hisy hotapahinareo ny taolana na dia iray akory aza.",
+    "47": "Ny fiangonan' ny Isiraely rehetra dia hitandrina izany.",
+    "48": "Ary raha misy mivahiny eo aminao ka mba te-hitandrina ny Paska ho an' i Jehovah, dia aoka hoforana ny lehilahy rehetra eo aminy vao manatona hitandrina izany, ka ho tahaka ny tompon-tany ihany izy; fa tsy misy olona tsy voafora hihinana izany.",
+    "49": "Lalàna iray no ho amin' ny tompon-tany sy ny vahiny izay mitoetra eo aminareo.",
+    "50": "Dia nataon' ny Zanak' Isiraely rehetra izany: araka izay nandidian' i Jehovah an' i Mosesy sy Arona no nataony.",
+    "51": "Ary izao no niseho, tamin' izany andro izany indrindra no nitondran' i Jehovah ny Zanak' Isiraely nivoaka ny tany Egypta araka ny antokony."
+  }
 }

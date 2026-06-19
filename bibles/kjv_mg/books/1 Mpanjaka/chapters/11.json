@@ -1,177 +1,49 @@
 {
+  "book": "1 Mpanjaka",
   "chapter": 11,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Fa Solomona mpanjaka tia vehivavy hafa firenena maro, niaraka tamin' ny zanakavavin' i Farao, dia vehivavy Moabita sy Amonita sy Edomita sy Sidoniana ary Hetita;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Dia vehivavy avy amin' ny firenena izay nolazain' i Jehovah tamin' ny Zanak' Isiraely hoe: Tsy hanambady azy ianareo, ary izy tsy hanambady anareo, fa hampivily ny fonareo hanaraka ny andriamaniny tokoa izy; kanjo tamin' ireny no niraiketan' ny fitiavan' i Solomona.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary dia nanana vady andriambavy fitonjato sy vaditsindrano telonjato izy, ka nampivily ny fony ireo vadiny ireo."
-    },
-    {
-      "v": 4,
-      "text": "Fa izao no niseho, nony efa antitra Solomona, dia navilin' ny vadiny ny fony hanaraka andriamani-kafa, ka ny fony tsy mba tanteraka tamin' i Jehovah Andriamaniny tahaka ny fon' i Davida rainy."
-    },
-    {
-      "v": 5,
-      "text": "Fa Solomona nanaraka an' i Astarta, andriamanibavin' ny Sidoniana, sy Milkoma, fahavetavetan' ny Amonita."
-    },
-    {
-      "v": 6,
-      "text": "Ary Solomona nanao izay ratsy teo imason' i Jehovah, ka tsy mba nanaraka an' i Jehovah tanteraka tahaka an' i Davida rainy."
-    },
-    {
-      "v": 7,
-      "text": "Ary tamin' izany Solomona dia nanao fitoerana avo ho an' i Kemosy, fahavetavetan' i Moaba, teo amin' ny havoana tandrifin' i Jerosalema, ary ho an' i Moloka, fahavetavetan' ny taranak' i Amona."
-    },
-    {
-      "v": 8,
-      "text": "Ary toy izany koa no nataony ho an' ny vadiny hafa firenena rehetra izay nandoro ditin-kazo manitra sy nanao fanatitra ho an' ny andriamaniny."
-    },
-    {
-      "v": 9,
-      "text": "Ary Jehovah tezitra tamin' i Solomona noho ny nivilian' ny fony niala tamin' i Jehovah, Andriamanitry ny Isiraely, izay efa niseho taminy indroa."
-    },
-    {
-      "v": 10,
-      "text": "\"Sady efa nandidy azy ny amin' izany zavatra izany tsy hanaraka andriamani-kafa; nefa tsy nitandrina izay nandidian' i Jehovah izy.\""
-    },
-    {
-      "v": 11,
-      "text": "Ka dia hoy Jehovah tamin' i Solomona: Satria efa nataonao izao, ka tsy notandremanao ny fanekeko sy ny didiko izay nandidiako anao, dia hoendahako ho afaka aminao tokoa ny fanjakana ka homeko ny mpanomponao."
-    },
-    {
-      "v": 12,
-      "text": "\"Kanefa kosa tsy hataoko amin' ny andronao izany noho ny amin' i Davida rainao; fa rehefa mby amin' ny zanakao vao hoendahako aminy.\""
-    },
-    {
-      "v": 13,
-      "text": "Nefa tsy dia hoendahako avokoa ny fanjakana rehetra, fa mba homeko foko iray ny zanakao noho ny amin' i Davida mpanompoko sy Jerosalema izay nofidiko."
-    },
-    {
-      "v": 14,
-      "text": "Ary Jehovah nanangana fahavalo hanohitra an' i Solomona, dia i Hadada Edomita, tamingan' ny mpanjakan' i Edoma."
-    },
-    {
-      "v": 15,
-      "text": "Fa izao no niseho, rehefa nanafika an' i Edoma Davida, ary Joaba, komandin' ny miaramila, niakatra handevina, rehefa avy namono ny lehilahy rehetra tany Edoma."
-    },
-    {
-      "v": 16,
-      "text": "(Fa enim-bolana no nitoeran' i Joaba sy ny Isiraely rehetra tany Edoma mandra-pandringany ny lehilahy rehetra tany)."
-    },
-    {
-      "v": 17,
-      "text": "\"Dia nandositra i Hadada sy ny Edomita sasany mpanompon-drainy izay nanaraka azy ka nankany Egypta; fa mbola zazalahy kely Hadada tamin' izay.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary niainga niala tany Midiana ireo ka tonga tany Parana; dia naka olona avy tany Parana homba azy izy ka nankany Egypta ho any amin' i Farao, mpanjakan' i Egypta, izay nanome azy trano sy tany sady nilaza hanome hanina azy koa.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary Hadada nahita fitia fatratra teo imason' i Farao, ka dia ny rahavavin' i Tapanesa, vadin' ny mpanjaka, no nomeny ho vadiny."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary ny rahavavin' i Tapanesa niteraka zazalahy tamin' i Hadada, dia Genobata, izay notazan' i Tapanesa tao an-tranon' i Farao; ary Genobata niara-nitoetra tamin' ny zanakalahin' i Farao tao an-dapa.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary rehefa ren' i Hadada tany Egypta fa Davida lasa nodimandry any amin' ny razany, sady maty koa i Joaba, komandin' ny miaramila, dia hoy izy tamin' i Farao: Alefaso aho hody any amin' ny tanindrazako."
-    },
-    {
-      "v": 22,
-      "text": "Fa hoy Farao taminy: Fa inona moa no zavatra mahaory anao eto amiko no dia mitady hody any amin' ny tanindrazanao ianao? Ary izy namaly hoe: Tsy misy, kanefa alefaso ihany aho."
-    },
-    {
-      "v": 23,
-      "text": "Ary Andriamanitra nanangana fahavalo koa hanohitra an' i Solomona, dia Rezona, zanak' i Eliada, izay efa nandositra an' i Hadadezera tompony, mpanjakan' i Zoba."
-    },
-    {
-      "v": 24,
-      "text": "\"Dia namory olona maro ho eo aminy izy ka tonga kapiteny tao amin' ny antoko iray, fony tamin' ny namonoan' i Davida azy ireo tany Zoba; ary nankany Damaskosy izy sy ny namany ka nitoetra sy nanjaka tao.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ary izy dia fahavalon' ny Isiraely tamin' ny andron' i Solomona rehetra ankoatra ny ratsy nataon' i Hadada; nankahala ny Isiraely izy ary nanjaka tany Syria.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary Jeroboama, zanak' i Nebata, Efraimita avy any Zareda, mpanompon' i Solomona, Zeroa no anaran-dreniny, vehivavy mpitondratena, dia nanainga tanana hikomy tamin' ny mpanjaka."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary izao no fototry ny nanaingany tanana hikomy tamin' ny mpanjaka: Solomona nanorina an' i Milo ary nanampina ny banga tamin' ny lohasaha tao an-Tanànan' i Davida rainy;\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary Jeroboama dia lehilahy mahery sy be herim-po; koa nony hitan' i Solomona fa mazoto miasa sy mahavita raharaha izy, dia nataony mpanapaka ny zavatra rehetra tamin' ny ankohonan' i Josefa.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Ary izao no niseho tamin' izany fotoana izany, raha nivoaka avy tany Jerosalema Jeroboama, dia nahita azy teny an-dalana i Ahia Silonita mpaminany; ary nitafy lamba vaovao i Ahia; ary izy roa lahy ihany no tany an-tsaha.\""
-    },
-    {
-      "v": 30,
-      "text": "Dia noraisin' i Ahia ny lamba vaovao izay notafiny ka notriatriariny ho roa ambin' ny folo."
-    },
-    {
-      "v": 31,
-      "text": "\"Ary hoy izy tamin' i Jeroboama: Raiso ho anao ny tapany folo, fa izao no lazain' i Jehovah Andriamanitry ny Isiraely: Indro, Izaho efa handrovitra ny fanjakana ho afaka amin' ny tanan' i Solomona, ary homeko anao ny foko folo;\""
-    },
-    {
-      "v": 32,
-      "text": "(Nefa ny foko iray dia mbola havela ho azy ihany noho ny amin' i Davida mpanompoko sy Jerosalema, tanàna izay nofidiko tamin' ireo fokon' ny Isiraely rehetra)."
-    },
-    {
-      "v": 33,
-      "text": "Satria efa nahafoy Ahy izy ka niankohoka teo anatrehan' i Astarta, andriamanibavin' ny Sidoniana, sy Kemosy, andriamanitr' i Moaba, ary Milkoma, andriamanitry ny taranak' i Amona, fa tsy nandeha tamin' ny lalako hanao izay mahitsy eo imasoko sy hitandrina ny didiko sy ny fitsipiko tahaka an' i Davida rainy izy."
-    },
-    {
-      "v": 34,
-      "text": "\"Nefa tsy hoesoriko eo an-tanany avokoa ny fanjakana rehetra; fa hampitoeriko ho mpanapaka ihany izy amin' ny andro rehetra hiainany noho ny amin' i Davida mpanompoko izay nofidiko, satria izy nitandrina ny lalàko sy ny didiko.\""
-    },
-    {
-      "v": 35,
-      "text": "Fa hoesoriko eo an-tanan' ny zanany kosa ny fanjakana ka homeko anao izany, nefa dia ny foko folo."
-    },
-    {
-      "v": 36,
-      "text": "Fa ny foko iray no homeko ny zanany mba hisy fanilo ho an' i Davida mpanompoko eo anatrehako mandrakariva any Jerosalema, ilay tanàna izay nofidiko ho Ahy hametrahana ny anarako."
-    },
-    {
-      "v": 37,
-      "text": "Ary ianao no halaiko, ka hanjaka amin' izay rehetra irin' ny fanahinao ary ho mpanjaka amin' ny Isiraely."
-    },
-    {
-      "v": 38,
-      "text": "Ary izao no hiseho, raha mihaino izay rehetra andidiako anao ianao ka handeha amin' ny lalako ary hanao izay mahitsy eo imasoko ka hitandrina ny didiko sy ny lalàko tahaka izay nataon' i Davida mpanompoko, dia homba anao aho ka hanorina trano maharitra ho anao, tahaka izay nataoko ho an' i Davida, ary homeko anao ny Isiraely."
-    },
-    {
-      "v": 39,
-      "text": "Ary hampahory ny taranak' i Davida aho noho izany, nefa tsy ho mandrakizay."
-    },
-    {
-      "v": 40,
-      "text": "Koa Solomona dia nitady hamono an' i Jeroboama.Fa Jeroboama niainga, dia nandositra nankany Egypta ho any amin' i Sisaka, mpanjakan' i Egypta, ka nitoetra tany mandra-pahafatin' i Solomona."
-    },
-    {
-      "v": 41,
-      "text": "Ary ny asan' i Solomona sisa mbamin' izay rehetra nataony ary ny fahendreny, moa tsy voasoratra ao amin' ny bokin' ny asan' i Solomona va?"
-    },
-    {
-      "v": 42,
-      "text": "Ary ny fotoana izay nanjakan' i Solomona tamin' ny Isiraely rehetra tany Jerosalema dia efapolo taona."
-    },
-    {
-      "v": 43,
-      "text": "\"Ary Solomona lasa nodimandry any amin' ny razany, dia nalevina tao an-Tanànan' i Davida rainy izy; ary Rehoboama zanany no nanjaka nandimby azy.\""
-    }
-  ]
+  "verses": {
+    "1": "Fa Solomona mpanjaka tia vehivavy hafa firenena maro, niaraka tamin' ny zanakavavin' i Farao, dia vehivavy Moabita sy Amonita sy Edomita sy Sidoniana ary Hetita;",
+    "2": "Dia vehivavy avy amin' ny firenena izay nolazain' i Jehovah tamin' ny Zanak' Isiraely hoe: Tsy hanambady azy ianareo, ary izy tsy hanambady anareo, fa hampivily ny fonareo hanaraka ny andriamaniny tokoa izy; kanjo tamin' ireny no niraiketan' ny fitiavan' i Solomona.",
+    "3": "Ary dia nanana vady andriambavy fitonjato sy vaditsindrano telonjato izy, ka nampivily ny fony ireo vadiny ireo.",
+    "4": "Fa izao no niseho, nony efa antitra Solomona, dia navilin' ny vadiny ny fony hanaraka andriamani-kafa, ka ny fony tsy mba tanteraka tamin' i Jehovah Andriamaniny tahaka ny fon' i Davida rainy.",
+    "5": "Fa Solomona nanaraka an' i Astarta, andriamanibavin' ny Sidoniana, sy Milkoma, fahavetavetan' ny Amonita.",
+    "6": "Ary Solomona nanao izay ratsy teo imason' i Jehovah, ka tsy mba nanaraka an' i Jehovah tanteraka tahaka an' i Davida rainy.",
+    "7": "Ary tamin' izany Solomona dia nanao fitoerana avo ho an' i Kemosy, fahavetavetan' i Moaba, teo amin' ny havoana tandrifin' i Jerosalema, ary ho an' i Moloka, fahavetavetan' ny taranak' i Amona.",
+    "8": "Ary toy izany koa no nataony ho an' ny vadiny hafa firenena rehetra izay nandoro ditin-kazo manitra sy nanao fanatitra ho an' ny andriamaniny.",
+    "9": "Ary Jehovah tezitra tamin' i Solomona noho ny nivilian' ny fony niala tamin' i Jehovah, Andriamanitry ny Isiraely, izay efa niseho taminy indroa.",
+    "10": "Sady efa nandidy azy ny amin' izany zavatra izany tsy hanaraka andriamani-kafa; nefa tsy nitandrina izay nandidian' i Jehovah izy.",
+    "11": "Ka dia hoy Jehovah tamin' i Solomona: Satria efa nataonao izao, ka tsy notandremanao ny fanekeko sy ny didiko izay nandidiako anao, dia hoendahako ho afaka aminao tokoa ny fanjakana ka homeko ny mpanomponao.",
+    "12": "Kanefa kosa tsy hataoko amin' ny andronao izany noho ny amin' i Davida rainao; fa rehefa mby amin' ny zanakao vao hoendahako aminy.",
+    "13": "Nefa tsy dia hoendahako avokoa ny fanjakana rehetra, fa mba homeko foko iray ny zanakao noho ny amin' i Davida mpanompoko sy Jerosalema izay nofidiko.",
+    "14": "Ary Jehovah nanangana fahavalo hanohitra an' i Solomona, dia i Hadada Edomita, tamingan' ny mpanjakan' i Edoma.",
+    "15": "Fa izao no niseho, rehefa nanafika an' i Edoma Davida, ary Joaba, komandin' ny miaramila, niakatra handevina, rehefa avy namono ny lehilahy rehetra tany Edoma.",
+    "16": "(Fa enim-bolana no nitoeran' i Joaba sy ny Isiraely rehetra tany Edoma mandra-pandringany ny lehilahy rehetra tany).",
+    "17": "Dia nandositra i Hadada sy ny Edomita sasany mpanompon-drainy izay nanaraka azy ka nankany Egypta; fa mbola zazalahy kely Hadada tamin' izay.",
+    "18": "Ary niainga niala tany Midiana ireo ka tonga tany Parana; dia naka olona avy tany Parana homba azy izy ka nankany Egypta ho any amin' i Farao, mpanjakan' i Egypta, izay nanome azy trano sy tany sady nilaza hanome hanina azy koa.",
+    "19": "Ary Hadada nahita fitia fatratra teo imason' i Farao, ka dia ny rahavavin' i Tapanesa, vadin' ny mpanjaka, no nomeny ho vadiny.",
+    "20": "Ary ny rahavavin' i Tapanesa niteraka zazalahy tamin' i Hadada, dia Genobata, izay notazan' i Tapanesa tao an-tranon' i Farao; ary Genobata niara-nitoetra tamin' ny zanakalahin' i Farao tao an-dapa.",
+    "21": "Ary rehefa ren' i Hadada tany Egypta fa Davida lasa nodimandry any amin' ny razany, sady maty koa i Joaba, komandin' ny miaramila, dia hoy izy tamin' i Farao: Alefaso aho hody any amin' ny tanindrazako.",
+    "22": "Fa hoy Farao taminy: Fa inona moa no zavatra mahaory anao eto amiko no dia mitady hody any amin' ny tanindrazanao ianao? Ary izy namaly hoe: Tsy misy, kanefa alefaso ihany aho.",
+    "23": "Ary Andriamanitra nanangana fahavalo koa hanohitra an' i Solomona, dia Rezona, zanak' i Eliada, izay efa nandositra an' i Hadadezera tompony, mpanjakan' i Zoba.",
+    "24": "Dia namory olona maro ho eo aminy izy ka tonga kapiteny tao amin' ny antoko iray, fony tamin' ny namonoan' i Davida azy ireo tany Zoba; ary nankany Damaskosy izy sy ny namany ka nitoetra sy nanjaka tao.",
+    "25": "Ary izy dia fahavalon' ny Isiraely tamin' ny andron' i Solomona rehetra ankoatra ny ratsy nataon' i Hadada; nankahala ny Isiraely izy ary nanjaka tany Syria.",
+    "26": "Ary Jeroboama, zanak' i Nebata, Efraimita avy any Zareda, mpanompon' i Solomona, Zeroa no anaran-dreniny, vehivavy mpitondratena, dia nanainga tanana hikomy tamin' ny mpanjaka.",
+    "27": "Ary izao no fototry ny nanaingany tanana hikomy tamin' ny mpanjaka: Solomona nanorina an' i Milo ary nanampina ny banga tamin' ny lohasaha tao an-Tanànan' i Davida rainy;",
+    "28": "Ary Jeroboama dia lehilahy mahery sy be herim-po; koa nony hitan' i Solomona fa mazoto miasa sy mahavita raharaha izy, dia nataony mpanapaka ny zavatra rehetra tamin' ny ankohonan' i Josefa.",
+    "29": "Ary izao no niseho tamin' izany fotoana izany, raha nivoaka avy tany Jerosalema Jeroboama, dia nahita azy teny an-dalana i Ahia Silonita mpaminany; ary nitafy lamba vaovao i Ahia; ary izy roa lahy ihany no tany an-tsaha.",
+    "30": "Dia noraisin' i Ahia ny lamba vaovao izay notafiny ka notriatriariny ho roa ambin' ny folo.",
+    "31": "Ary hoy izy tamin' i Jeroboama: Raiso ho anao ny tapany folo, fa izao no lazain' i Jehovah Andriamanitry ny Isiraely: Indro, Izaho efa handrovitra ny fanjakana ho afaka amin' ny tanan' i Solomona, ary homeko anao ny foko folo;",
+    "32": "(Nefa ny foko iray dia mbola havela ho azy ihany noho ny amin' i Davida mpanompoko sy Jerosalema, tanàna izay nofidiko tamin' ireo fokon' ny Isiraely rehetra).",
+    "33": "Satria efa nahafoy Ahy izy ka niankohoka teo anatrehan' i Astarta, andriamanibavin' ny Sidoniana, sy Kemosy, andriamanitr' i Moaba, ary Milkoma, andriamanitry ny taranak' i Amona, fa tsy nandeha tamin' ny lalako hanao izay mahitsy eo imasoko sy hitandrina ny didiko sy ny fitsipiko tahaka an' i Davida rainy izy.",
+    "34": "Nefa tsy hoesoriko eo an-tanany avokoa ny fanjakana rehetra; fa hampitoeriko ho mpanapaka ihany izy amin' ny andro rehetra hiainany noho ny amin' i Davida mpanompoko izay nofidiko, satria izy nitandrina ny lalàko sy ny didiko.",
+    "35": "Fa hoesoriko eo an-tanan' ny zanany kosa ny fanjakana ka homeko anao izany, nefa dia ny foko folo.",
+    "36": "Fa ny foko iray no homeko ny zanany mba hisy fanilo ho an' i Davida mpanompoko eo anatrehako mandrakariva any Jerosalema, ilay tanàna izay nofidiko ho Ahy hametrahana ny anarako.",
+    "37": "Ary ianao no halaiko, ka hanjaka amin' izay rehetra irin' ny fanahinao ary ho mpanjaka amin' ny Isiraely.",
+    "38": "Ary izao no hiseho, raha mihaino izay rehetra andidiako anao ianao ka handeha amin' ny lalako ary hanao izay mahitsy eo imasoko ka hitandrina ny didiko sy ny lalàko tahaka izay nataon' i Davida mpanompoko, dia homba anao aho ka hanorina trano maharitra ho anao, tahaka izay nataoko ho an' i Davida, ary homeko anao ny Isiraely.",
+    "39": "Ary hampahory ny taranak' i Davida aho noho izany, nefa tsy ho mandrakizay.",
+    "40": "Koa Solomona dia nitady hamono an' i Jeroboama.Fa Jeroboama niainga, dia nandositra nankany Egypta ho any amin' i Sisaka, mpanjakan' i Egypta, ka nitoetra tany mandra-pahafatin' i Solomona.",
+    "41": "Ary ny asan' i Solomona sisa mbamin' izay rehetra nataony ary ny fahendreny, moa tsy voasoratra ao amin' ny bokin' ny asan' i Solomona va?",
+    "42": "Ary ny fotoana izay nanjakan' i Solomona tamin' ny Isiraely rehetra tany Jerosalema dia efapolo taona.",
+    "43": "Ary Solomona lasa nodimandry any amin' ny razany, dia nalevina tao an-Tanànan' i Davida rainy izy; ary Rehoboama zanany no nanjaka nandimby azy."
+  }
 }

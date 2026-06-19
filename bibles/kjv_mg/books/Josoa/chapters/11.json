@@ -1,97 +1,29 @@
 {
+  "book": "Josoa",
   "chapter": 11,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izao no niseho, rehefa nandre izany zavatra izany Jabina, mpanjakan' i Hazora, dia naniraka tany amin' i Jobaba, mpanjakan' i Madona sy ny mpanjakan' i Simrona sy ny mpanjakan' i Aksafa izy,"
-    },
-    {
-      "v": 2,
-      "text": "Ary ireo mpanjaka tany amin' ny tany avaratry ny tendrombohitra sy tany amin' ny tany lemaka atsimon' i Kinerota sy ny lohasaha ary ny faritanin' i Dora amin' ny andrefana,"
-    },
-    {
-      "v": 3,
-      "text": "Dia tamin' ny Kananita any atsinanana sy any andrefana, ary tamin' ny Amorita sy ny Hetita sy ny Perizita ary ny Jebosita tany an-tendrombohitra, ary tamin' ny Hivita tany am-bodin' i Hermona, tany amin' ny tany Mizpa."
-    },
-    {
-      "v": 4,
-      "text": "Dia nivoaka izy ireo sy ny miaramilany rehetra teo aminy, dia olona marobe toy ny fasika eny amoron-dranomasina ny hamaroany, ary ny soavaliny sy ny kalesiny dia maro indrindra."
-    },
-    {
-      "v": 5,
-      "text": "Ary rehefa nivory ireo mpanjaka rehetra ireo, dia nandeha izy ireo hiady tamin' ny Isiraely ka nitoby teo anilan' ny rano Meroma."
-    },
-    {
-      "v": 6,
-      "text": "\"Dia hoy Jehovah tamin' i Josoa: aza matahotra azy; fa rahampitso toy izao, Izaho dia hanolotra azy rehetra ho faty eo anatrehan' ny Isiraely; traingoy ny soavaliny, ary dory amin' ny afo ny kalesiny.\""
-    },
-    {
-      "v": 7,
-      "text": "Dia nandeha i Josoa sy ny vahoaka rehetra mpanafika teo aminy ka tonga tampoka taminy teo amoron' ny rano Meroma, dia namely azy ireo."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary Jehovah nanolotra azy teo an-tanan' ny Isiraely, izay namely azy ka nanenjika azy hatrany Sidona lehibe sy hatrany Misrefota-maima ary hatramin' ny lohasaha Mizpa atsinanana; dia namely azy izy mandra-paha-tsy nisy niangana na dia iray akory aza.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary Josoa dia nanao taminy araka izay efa nandidian' i Jehovah azy: ny soavalin' ireny dia notraingoiny, ary ny kalesiny dia nodorany tamin' ny afo."
-    },
-    {
-      "v": 10,
-      "text": "Ary tamin' izany fotoana izany dia niverina i Josoa ka nahafaka an' i Hazora ary namely ny mpanjakany tamin' ny sabatra, satria Hazora no lohan' ireo fanjakana rehetra ireo fahiny."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary nasiany tamin' ny sabatra ny olona rehetra tao ka naringany tanteraka; tsy nisy zava-miaina sisa na dia iray akory aza; ary Hazora nodorany tamin' ny afo.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary ny tanàna rehetra izay an' ireo mpanjaka ireo sy ny mpanjakany rehetra dia azon' i Josoa ka nasiany tamin' ny lelan-tsabatra sy naringany tanteraka araka izay efa nandidian' i Mosesy, mpanompon' i Jehovah."
-    },
-    {
-      "v": 13,
-      "text": "Fa ny tanàna rehetra izay nitoetra mafy dia tsy mba nisy nodoran' ny Isiraely, afa-tsy Hazora ihany, izay nodoran' i Josoa."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary ny fananana rehetra tao amin' ireo tanàna ireo sy ny biby fiompy dia nalain' ny Zanak' Isiraely ho babony; fa ny olona rehetra nasiany tamin' ny lelan-tsabatra mandra-pandringany azy ary tsy nasiany sisa niangana.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Araka izay efa nandidian' i Jehovah an' i Mosesy mpanompony no nandidian' i Mosesy an' i Josoa; ka dia izany no nataon' i Josoa: tsy nisy namelany izay rehetra efa nandidian' i Jehovah an' i Mosesy.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Dia lasan' i Josoa avokoa izany tany rehetra izany, ny havoana sy ny tany atsimo rehetra sy ny tany Gosena rehetra sy ny lohasaha sy ny tany lemaka sy ny tendrombohitr' Isiraely ary ny lohasaha miaraka aminy;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Hatramin' ny tendrombohitra Halaka izay fiakarana ho any Seïra, ka hatrany Bala-gada eo amin' ny lohasahan' i Libanona ambodin' ny tendrombohitra Hermona; ary nosamboriny ny mpanjakany rehetra, dia nasiany ka novonoiny.\""
-    },
-    {
-      "v": 18,
-      "text": "Ela no niadian' i Josoa tamin' ireo mpanjaka ireo."
-    },
-    {
-      "v": 19,
-      "text": "Tsy nisy tanàna izay nanao fihavanana tamin' ny Zanak' Isiraely, afa-tsy ny Hivita izay nonina tany Gibeona ihany: fa azony tamin' ny ady avokoa izy rehetra."
-    },
-    {
-      "v": 20,
-      "text": "Fa avy tamin' i Jehovah no nanamafisan' ireo ny fony hiady amin' ny Isiraely, mba handringanany azy tanteraka, ka tsy nisy niantrana fa naringany ireny, araka izay nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 21,
-      "text": "\"Dia nandeha tamin' izany fotoana izany Josoa ka namongotra ny Anakita tany an-tendrombohitra, dia tany Hebrona sy Debira sy Anaba, ary tany amin' ny tendrombohitr' i Joda rehetra sy tany amin' ny tendrombohitr' Isiraely rehetra; naringan' i Josoa tanteraka izy sy ny tanànany.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Tsy nisy sisa tany amin' ny tanin' ny Zanak' Isiraely ny Anakita; fa tany Gaza sy Gata ary Asdoda ihany no mbola nisy sisa.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Dia lasan' i Josoa avokoa ny tany rehetra, araka izay rehetra nolazain' i Jehovah tamin' i Mosesy; ary nomen' i Josoa ho lovan' ny Isiraely izany, araka ny fizaran' ny fokony. Dia nitsahatra tamin' ny ady ny tany.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no niseho, rehefa nandre izany zavatra izany Jabina, mpanjakan' i Hazora, dia naniraka tany amin' i Jobaba, mpanjakan' i Madona sy ny mpanjakan' i Simrona sy ny mpanjakan' i Aksafa izy,",
+    "2": "Ary ireo mpanjaka tany amin' ny tany avaratry ny tendrombohitra sy tany amin' ny tany lemaka atsimon' i Kinerota sy ny lohasaha ary ny faritanin' i Dora amin' ny andrefana,",
+    "3": "Dia tamin' ny Kananita any atsinanana sy any andrefana, ary tamin' ny Amorita sy ny Hetita sy ny Perizita ary ny Jebosita tany an-tendrombohitra, ary tamin' ny Hivita tany am-bodin' i Hermona, tany amin' ny tany Mizpa.",
+    "4": "Dia nivoaka izy ireo sy ny miaramilany rehetra teo aminy, dia olona marobe toy ny fasika eny amoron-dranomasina ny hamaroany, ary ny soavaliny sy ny kalesiny dia maro indrindra.",
+    "5": "Ary rehefa nivory ireo mpanjaka rehetra ireo, dia nandeha izy ireo hiady tamin' ny Isiraely ka nitoby teo anilan' ny rano Meroma.",
+    "6": "Dia hoy Jehovah tamin' i Josoa: aza matahotra azy; fa rahampitso toy izao, Izaho dia hanolotra azy rehetra ho faty eo anatrehan' ny Isiraely; traingoy ny soavaliny, ary dory amin' ny afo ny kalesiny.",
+    "7": "Dia nandeha i Josoa sy ny vahoaka rehetra mpanafika teo aminy ka tonga tampoka taminy teo amoron' ny rano Meroma, dia namely azy ireo.",
+    "8": "Ary Jehovah nanolotra azy teo an-tanan' ny Isiraely, izay namely azy ka nanenjika azy hatrany Sidona lehibe sy hatrany Misrefota-maima ary hatramin' ny lohasaha Mizpa atsinanana; dia namely azy izy mandra-paha-tsy nisy niangana na dia iray akory aza.",
+    "9": "Ary Josoa dia nanao taminy araka izay efa nandidian' i Jehovah azy: ny soavalin' ireny dia notraingoiny, ary ny kalesiny dia nodorany tamin' ny afo.",
+    "10": "Ary tamin' izany fotoana izany dia niverina i Josoa ka nahafaka an' i Hazora ary namely ny mpanjakany tamin' ny sabatra, satria Hazora no lohan' ireo fanjakana rehetra ireo fahiny.",
+    "11": "Ary nasiany tamin' ny sabatra ny olona rehetra tao ka naringany tanteraka; tsy nisy zava-miaina sisa na dia iray akory aza; ary Hazora nodorany tamin' ny afo.",
+    "12": "Ary ny tanàna rehetra izay an' ireo mpanjaka ireo sy ny mpanjakany rehetra dia azon' i Josoa ka nasiany tamin' ny lelan-tsabatra sy naringany tanteraka araka izay efa nandidian' i Mosesy, mpanompon' i Jehovah.",
+    "13": "Fa ny tanàna rehetra izay nitoetra mafy dia tsy mba nisy nodoran' ny Isiraely, afa-tsy Hazora ihany, izay nodoran' i Josoa.",
+    "14": "Ary ny fananana rehetra tao amin' ireo tanàna ireo sy ny biby fiompy dia nalain' ny Zanak' Isiraely ho babony; fa ny olona rehetra nasiany tamin' ny lelan-tsabatra mandra-pandringany azy ary tsy nasiany sisa niangana.",
+    "15": "Araka izay efa nandidian' i Jehovah an' i Mosesy mpanompony no nandidian' i Mosesy an' i Josoa; ka dia izany no nataon' i Josoa: tsy nisy namelany izay rehetra efa nandidian' i Jehovah an' i Mosesy.",
+    "16": "Dia lasan' i Josoa avokoa izany tany rehetra izany, ny havoana sy ny tany atsimo rehetra sy ny tany Gosena rehetra sy ny lohasaha sy ny tany lemaka sy ny tendrombohitr' Isiraely ary ny lohasaha miaraka aminy;",
+    "17": "Hatramin' ny tendrombohitra Halaka izay fiakarana ho any Seïra, ka hatrany Bala-gada eo amin' ny lohasahan' i Libanona ambodin' ny tendrombohitra Hermona; ary nosamboriny ny mpanjakany rehetra, dia nasiany ka novonoiny.",
+    "18": "Ela no niadian' i Josoa tamin' ireo mpanjaka ireo.",
+    "19": "Tsy nisy tanàna izay nanao fihavanana tamin' ny Zanak' Isiraely, afa-tsy ny Hivita izay nonina tany Gibeona ihany: fa azony tamin' ny ady avokoa izy rehetra.",
+    "20": "Fa avy tamin' i Jehovah no nanamafisan' ireo ny fony hiady amin' ny Isiraely, mba handringanany azy tanteraka, ka tsy nisy niantrana fa naringany ireny, araka izay nandidian' i Jehovah an' i Mosesy.",
+    "21": "Dia nandeha tamin' izany fotoana izany Josoa ka namongotra ny Anakita tany an-tendrombohitra, dia tany Hebrona sy Debira sy Anaba, ary tany amin' ny tendrombohitr' i Joda rehetra sy tany amin' ny tendrombohitr' Isiraely rehetra; naringan' i Josoa tanteraka izy sy ny tanànany.",
+    "22": "Tsy nisy sisa tany amin' ny tanin' ny Zanak' Isiraely ny Anakita; fa tany Gaza sy Gata ary Asdoda ihany no mbola nisy sisa.",
+    "23": "Dia lasan' i Josoa avokoa ny tany rehetra, araka izay rehetra nolazain' i Jehovah tamin' i Mosesy; ary nomen' i Josoa ho lovan' ny Isiraely izany, araka ny fizaran' ny fokony. Dia nitsahatra tamin' ny ady ny tany."
+  }
 }

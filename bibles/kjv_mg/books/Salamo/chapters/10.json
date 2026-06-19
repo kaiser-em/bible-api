@@ -1,77 +1,24 @@
 {
+  "book": "Salamo",
   "chapter": 10,
-  "verses": [
-    {
-      "v": 1,
-      "text": "JEHOVAH ô, nahoana no mijanona eny lavitra eny Ianao ka miery amin' ny andro fahoriana?"
-    },
-    {
-      "v": 2,
-      "text": "\"Amin' ny fireharehan' ny ratsy fanahy no anenjehany mafy ny mahantra; aoka ho azon' ny fihendrena nataony izy ireny.\""
-    },
-    {
-      "v": 3,
-      "text": "Fa ny ratsy fanahy mandoka izay irin' ny fony sy midera ny mpierina izay ankahalain' i Jehovah."
-    },
-    {
-      "v": 4,
-      "text": "\"Ny ratsy fanahy mirehareha hoe: tsy hanadina Izy; eny, Tsy misy Andriamanitra no tontalin-keviny.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Mahery mandrakariva ny lalany; any amin' ny avo lavitra azy ny fitsaranao; ny mpandrafy azy rehetra dia ataony hoe: Zinona ireny?\""
-    },
-    {
-      "v": 6,
-      "text": "\"Hoy izy anakampony: Tsy hangozohozo aho, satria tsy ho azon-doza mihitsy;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Feno ozona sy fitaka ary fanambakana ny vavany; ao ambany lelany dia misy faharatsiana sy zava-poana.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Mamitsaka amin' ny fanotrehana ao an-tanàna izy; ao an-katakonana no amonoany ny tsy manan-tsiny; ny masony mikendry ny mahantra.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Manotrika ao an-katakonana tahaka ny liona ao amin' ny famitsahany izy; manotrika hisambotra ny mahantra izy; fandrihany amin' ny haratony no fisambony ny mahantra.\""
-    },
-    {
-      "v": 10,
-      "text": "Torotoro sy mitanondrika ny mahantra, ka lavo amin' ny herin' ny ratsy fanahy."
-    },
-    {
-      "v": 11,
-      "text": "\"Hoy izy anakampony: Efa nanadino Andriamanitra; efa nanafina ny tavany izy, ka tsy ho hitany mihitsy izany.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Mitsangàna, Jehovah ô; Andriamanitra ô, atsangano ny tananao; aza manadino ny ory.\""
-    },
-    {
-      "v": 13,
-      "text": "Nahoana no mamingavinga an' Andriamanitra ny ratsy fanahy? Hoy izy anakampony: tsy hanadina izany Ianao."
-    },
-    {
-      "v": 14,
-      "text": "\"Efa nahita ihany ianao, satria mijery fahoriana sy alahelo, mba hovalian' ny tananao. Ianao no iononan' ny mahantra; Ianao no Mpamonjy ny kamboty.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Tapaho ny sandrin' ny ratsy fanahy sy ny olon-dratsy; ary karohy ny faharatsiam-panahiny mandra-paha-tsy hisy hitanao intsony.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Jehovah no Mpanjaka mandrakizay doria; voafongotra tsy ho amin' ny taniny intsony ny jentilisa.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Efa nohenoinao, Jehovah ô, ny irin' ny mpandefitra; mampiomana ny fony Ianao sady mampihaino ny sofinao,\""
-    },
-    {
-      "v": 18,
-      "text": "Hanomezanao rariny ny kamboty sy ny ampahoriana, mba tsy hampahorian' ny zanak' olombelona eto an-tany intsony."
-    }
-  ]
+  "verses": {
+    "1": "JEHOVAH ô, nahoana no mijanona eny lavitra eny Ianao ka miery amin' ny andro fahoriana?",
+    "2": "Amin' ny fireharehan' ny ratsy fanahy no anenjehany mafy ny mahantra; aoka ho azon' ny fihendrena nataony izy ireny.",
+    "3": "Fa ny ratsy fanahy mandoka izay irin' ny fony sy midera ny mpierina izay ankahalain' i Jehovah.",
+    "4": "Ny ratsy fanahy mirehareha hoe: tsy hanadina Izy; eny, Tsy misy Andriamanitra no tontalin-keviny.",
+    "5": "Mahery mandrakariva ny lalany; any amin' ny avo lavitra azy ny fitsaranao; ny mpandrafy azy rehetra dia ataony hoe: Zinona ireny?",
+    "6": "Hoy izy anakampony: Tsy hangozohozo aho, satria tsy ho azon-doza mihitsy;",
+    "7": "Feno ozona sy fitaka ary fanambakana ny vavany; ao ambany lelany dia misy faharatsiana sy zava-poana.",
+    "8": "Mamitsaka amin' ny fanotrehana ao an-tanàna izy; ao an-katakonana no amonoany ny tsy manan-tsiny; ny masony mikendry ny mahantra.",
+    "9": "Manotrika ao an-katakonana tahaka ny liona ao amin' ny famitsahany izy; manotrika hisambotra ny mahantra izy; fandrihany amin' ny haratony no fisambony ny mahantra.",
+    "10": "Torotoro sy mitanondrika ny mahantra, ka lavo amin' ny herin' ny ratsy fanahy.",
+    "11": "Hoy izy anakampony: Efa nanadino Andriamanitra; efa nanafina ny tavany izy, ka tsy ho hitany mihitsy izany.",
+    "12": "Mitsangàna, Jehovah ô; Andriamanitra ô, atsangano ny tananao; aza manadino ny ory.",
+    "13": "Nahoana no mamingavinga an' Andriamanitra ny ratsy fanahy? Hoy izy anakampony: tsy hanadina izany Ianao.",
+    "14": "Efa nahita ihany ianao, satria mijery fahoriana sy alahelo, mba hovalian' ny tananao. Ianao no iononan' ny mahantra; Ianao no Mpamonjy ny kamboty.",
+    "15": "Tapaho ny sandrin' ny ratsy fanahy sy ny olon-dratsy; ary karohy ny faharatsiam-panahiny mandra-paha-tsy hisy hitanao intsony.",
+    "16": "Jehovah no Mpanjaka mandrakizay doria; voafongotra tsy ho amin' ny taniny intsony ny jentilisa.",
+    "17": "Efa nohenoinao, Jehovah ô, ny irin' ny mpandefitra; mampiomana ny fony Ianao sady mampihaino ny sofinao,",
+    "18": "Hanomezanao rariny ny kamboty sy ny ampahoriana, mba tsy hampahorian' ny zanak' olombelona eto an-tany intsony."
+  }
 }

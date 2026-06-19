@@ -1,17 +1,9 @@
 {
+  "book": "Salamo",
   "chapter": 133,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Hira misy hevitra ambaratonga. Nataon' i Davida.] ENDREY tsara sady mahafinaritra raha ny mpirahalahy no miara-monina."
-    },
-    {
-      "v": 2,
-      "text": "Tahaka ny diloilo sarobidy amin' ny loha izany, izay mitsororoka amin' ny somotra, dia ny somotr' i Arona, ary mitsororoka amin' ny morontongotr' akanjony."
-    },
-    {
-      "v": 3,
-      "text": "\"Tahaka ny ando any Hermona, ary tahaka ny ando milatsaka amin' ny tendrombohitr' i Ziona; fa voadidin' i Jehovah ho eo ny fitahiana, dia fiainana ho mandrakizay.\""
-    }
-  ]
+  "verses": {
+    "1": "[Hira misy hevitra ambaratonga. Nataon' i Davida.] ENDREY tsara sady mahafinaritra raha ny mpirahalahy no miara-monina.",
+    "2": "Tahaka ny diloilo sarobidy amin' ny loha izany, izay mitsororoka amin' ny somotra, dia ny somotr' i Arona, ary mitsororoka amin' ny morontongotr' akanjony.",
+    "3": "Tahaka ny ando any Hermona, ary tahaka ny ando milatsaka amin' ny tendrombohitr' i Ziona; fa voadidin' i Jehovah ho eo ny fitahiana, dia fiainana ho mandrakizay."
+  }
 }

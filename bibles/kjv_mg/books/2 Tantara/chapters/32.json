@@ -1,137 +1,39 @@
 {
+  "book": "2 Tantara",
   "chapter": 32,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary rehefa afaka izany, ka tafapetraka tsara, dia avy Sankeriba, mpanjakan' i Asyria, niditra tany Joda ary nanao fahirano ireo tanàna mimanda ka nikasa hanafaka izany ho azy."
-    },
-    {
-      "v": 2,
-      "text": "Ary nony hitan' i Hezekia fa tonga Sankeriba ka nikasa hamely an' i Jerosalema,"
-    },
-    {
-      "v": 3,
-      "text": "\"Dia niara-nihevitra tamin' ny mpanapaka sy ny lehilahy maheriny izy mba hanampina ny rano tamin' ny loharano eny ivelan' ny tanàna; ary nanampy azy ireo.\""
-    },
-    {
-      "v": 4,
-      "text": "dia tafavory ny olona maro izay nanampina ny loharano rehetra sy ilay sakelidrano mamaky eo afovoan' ny tany, fa hoy izy: Nahoana no avela hahita rano be ny mpanjakan' i Asyria raha tonga?"
-    },
-    {
-      "v": 5,
-      "text": "Ary nampahery tena izy ka namboatra izay manda rava rehetra sady nanovona azy hatrany amin' ny tilikambo ary nasiany manda hafa koa teo ivelany, dia namboatra an' i Milo tao an-Tanànan' i Davida sady nanao lefona aman' ampinga be-tsaka izy."
-    },
-    {
-      "v": 6,
-      "text": "Ary nanendry miaramila hifehy ny olona izy ka nampiangona azy hankeo aminy teo an-dalambe akaikin' ny vavahadin' ny tanàna, dia nanao teny mahafinaritra taminy hoe:"
-    },
-    {
-      "v": 7,
-      "text": "\"Mahereza ka matanjaha; aza matahotra na mivadi-po noho ny mpanjakan' i Asyria sy ny hamaroan' ny olona rehetra izay entiny; fa ny momba antsika dia be noho ny momba azy.\""
-    },
-    {
-      "v": 8,
-      "text": "Sandry nofo no momba azy, fa Jehovah Andriamanitsika kosa no momba antsika, hanampy antsika sy hiady ny adintsika. ary dia niankina tamin' ny tenin' i Hezekia mpanjakan' ny Joda ny olona."
-    },
-    {
-      "v": 9,
-      "text": "Rehefa afaka izany, dia nirahin' i Sankeriba, mpanjakan' i Asyria ny mpanompony hankany Jerosalema (fa izy sy ny miaramilany rehetra kosa nanao fahirano an' i Lakisy tamin' izay) ho any amin' i Hezekia, mpanjakan' ny Joda sy ho any amin' ny Joda rehetra izay tany Jerosalema ka nanao hoe:"
-    },
-    {
-      "v": 10,
-      "text": "Izao no lazain' i Sankeriba, mpanjakan' i Asyria: Inona izato itokianareo, no dia miaritra fahoriana ato Jerosalema ianareo?"
-    },
-    {
-      "v": 11,
-      "text": "Tsy Hezekia ihany va no manambosy anareo hanolotena ho faty mosary sy hetaheta ka manao hoe: Jehovah Andriamanitsika hanafaka antsika amin' ny tanan' ny mpanjakan' i Asyria?"
-    },
-    {
-      "v": 12,
-      "text": "Tsy io Hezekia io ihany koa va no nandrava ny fitoerana avony sy ny alitarany ary nandidy ny Joda sy Jerosalema ka nanao hoe: Eo anoloan' ny alitara iray no hiankohofanareo sy handoroanareo ditin-kazo manitra?"
-    },
-    {
-      "v": 13,
-      "text": "Tsy fantatrareo va izay nataoko, dia izaho sy ny razako, tamin' ny firenena rehetra tany amin' ny tany hafa? Moa va ireny andriamanitry ny firenena tany amin' ny tany hafa ireny nisy nahavonjy ny taniny akory tamin' ny tanako?"
-    },
-    {
-      "v": 14,
-      "text": "Iza amin' ny andriamanitr' ireo firenena efa naringan' ny razako tanteraka ireo no nahafaka ny olony tamin' ny tanako, ka dia hahafaka anareo amin' ny tanako va ny Andriamanitrareo?"
-    },
-    {
-      "v": 15,
-      "text": "\"Koa ankehitriny, aza avela hamitaka anareo Hezekia, na hitaona anareo tahaka izao; aza mino azy ianareo; fa tsy nisy andriamanitra tany amin' ny firenena sy ny fanjakana izay nahavonjy ny olony tamin' ny tanako sy ny tanan' ny razako; koa aiza ny Andriamanitrareo no hahavonjy anareo amin' ny tanako?\""
-    },
-    {
-      "v": 16,
-      "text": "Ary ny mpanompon' i Sankeriba mbola niteny nanohitra an' i Jehovah Andriamanitra sy Hezekia mpanompony,"
-    },
-    {
-      "v": 17,
-      "text": "Sady nanoratra taratasy hihaika an' i Jehovah, Andriamanitry ny Isiraely, sy hiteny fanoherana Azy ka nanao hoe: Tahaka ny tsy nahavonjen' ireny andriamanitry ny firenena tany amin' ny tany hafa ireny ny olony tamin' ny tanako no tsy hahavonjen' ny Andriamanitr' i Hezekia ny olony koa amin' ny tanako."
-    },
-    {
-      "v": 18,
-      "text": "Dia niantso tamin' ny feo mahery izy ka nanao teny Jiosy teo anatrehan' ny mponina tany Jerosalema izay teny ambonin' ny manda, hampitahorany sy hampangorohoroany azy mba hahafahany ny tanàna."
-    },
-    {
-      "v": 19,
-      "text": "Ary nanohitra an' Andriamanitr' i Jerosalema izy toy ny nanoherany ny andriamanitry ny firenena any amin' ny tany hafa, izay asan' ny tanan' olona."
-    },
-    {
-      "v": 20,
-      "text": "Ary noho izany, dia nivavaka sy nitaraina tamin' ny lanitra Hezekia mpanjaka sy Isaia mpaminany zanak' i Amoza."
-    },
-    {
-      "v": 21,
-      "text": "Ary Jehovah naniraka anjely izay nandringana ny lehilahy be herim-po rehetra sy ny mpanapaka ary ny komandy teo an-tobin' ny mpanjakan' i Asyria, ka dia lasa nody tamin-kenatra Sankeriba. Ary nony niditra tao an-tranon' ny andriamaniny izy, dia namono azy tao tamin' ny sabatra ny zanany naterany."
-    },
-    {
-      "v": 22,
-      "text": "Toy izany no namonjen' i Jehovah an' i Hezekia sy ny mponina tany Jerosalema tamin' ny tanan' i Sankeriba, mpanjakan' i Asyria sy tamin' ny tanan' ny olon-kafa rehetra, ka nitarihany azy tamin' ny toerana rehetra."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary maro no nitondra fanomezana ho an' i Jehovah tany Jerosalema sy fanomezana ho an' i Hezekia, mpanjakan' ny Joda; dia nalaza teo imason' ny firenena rehetra izy hatramin' izany.\""
-    },
-    {
-      "v": 24,
-      "text": "Tamin' izany andro izany dia narary efa saiky maty Hezekia, koa dia nivavaka tamin' i Jehovah izy, ary Jehovah niteny taminy ka nanome azy famantarana."
-    },
-    {
-      "v": 25,
-      "text": "\"Fa Hezekia tsy mba namaly araka izay soa efa natao taminy; fa niavonavona ny fony, dia niharan' ny fahatezerana izy mbamin' ny Joda sy Jerosalema.\""
-    },
-    {
-      "v": 26,
-      "text": "Kanefa Hezekia nanetry tena noho ilay efa niavonavonan' ny fony, dia izy sy ny mponina tany Jerosalema, ka dia tsy niharan' ny fahatezeran' i Jehovah ireo fahavelon' i Hezekia."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary Hezekia nanana harena sy voninahitra be indrindra; dia nanao trano firaketana izy hitahirizana ny volafotsy sy ny volamena sy ny vatosoa sy ny zava-manitra sy ny ampinga mbamin' ny karazana firavaka soa rehetra;\""
-    },
-    {
-      "v": 28,
-      "text": "Ary sompitra koa ho an' ny vokatra avy amin' ny varimbazaha sy ny divay sy ny diloilo sy trano miefitrefitra hitoeran' ny biby ary vala ho an' ny ondry aman' osy."
-    },
-    {
-      "v": 29,
-      "text": "Ary nanao tanàna maro ho azy izy sady nanana fananana, dia ondry aman' osy sy omby betsaka, fa nomen' Andriamanitra fananana be indrindra izy."
-    },
-    {
-      "v": 30,
-      "text": "Ary notampenan' io Hezekia io koa ny fivoahan' ny rano ambony any Gihona ka nampandehaniny tany ambanin' ny tany hidina mahitsy ho any andrefan' ny Tanànan' i Davida izany. Ary nambinina tamin' ny asany rehetra Hezekia."
-    },
-    {
-      "v": 31,
-      "text": "Nefa noho ny amin' ny irak' ireo mpanapaka tany Babylona, izay naniraka tany aminy mba hanontany ny amin' ny zava-mahagaga natao tao amin' ny tany, dia nilaozan' Andriamanitra izy, mba hizahany toetra azy hahalalany izay rehetra ao am-pony."
-    },
-    {
-      "v": 32,
-      "text": "Ary ny asan' i Hezekia sisa sy ny soa nataony, indro, efa voasoratra ao amin' ny fahitan' Isaia mpaminany, zanak' i Amoza sy ao amin' ny bokin' ny mpanjakan' ny Joda sy ny Isiraely izany."
-    },
-    {
-      "v": 33,
-      "text": "Ary Hezekia lasa nodimandry any amin' ny razany, dia nalevina tao amin' ny toerana ambony indrindra tamin' ny fasan' ny zanak' i Davida izy, ary ny Joda rehetra sy ny mponina rehetra tany Jerosalema nanome voninahitra azy tamin' ny nahafatesany. Ary Manase zanany no nanjaka nandimby azy."
-    }
-  ]
+  "verses": {
+    "1": "Ary rehefa afaka izany, ka tafapetraka tsara, dia avy Sankeriba, mpanjakan' i Asyria, niditra tany Joda ary nanao fahirano ireo tanàna mimanda ka nikasa hanafaka izany ho azy.",
+    "2": "Ary nony hitan' i Hezekia fa tonga Sankeriba ka nikasa hamely an' i Jerosalema,",
+    "3": "Dia niara-nihevitra tamin' ny mpanapaka sy ny lehilahy maheriny izy mba hanampina ny rano tamin' ny loharano eny ivelan' ny tanàna; ary nanampy azy ireo.",
+    "4": "dia tafavory ny olona maro izay nanampina ny loharano rehetra sy ilay sakelidrano mamaky eo afovoan' ny tany, fa hoy izy: Nahoana no avela hahita rano be ny mpanjakan' i Asyria raha tonga?",
+    "5": "Ary nampahery tena izy ka namboatra izay manda rava rehetra sady nanovona azy hatrany amin' ny tilikambo ary nasiany manda hafa koa teo ivelany, dia namboatra an' i Milo tao an-Tanànan' i Davida sady nanao lefona aman' ampinga be-tsaka izy.",
+    "6": "Ary nanendry miaramila hifehy ny olona izy ka nampiangona azy hankeo aminy teo an-dalambe akaikin' ny vavahadin' ny tanàna, dia nanao teny mahafinaritra taminy hoe:",
+    "7": "Mahereza ka matanjaha; aza matahotra na mivadi-po noho ny mpanjakan' i Asyria sy ny hamaroan' ny olona rehetra izay entiny; fa ny momba antsika dia be noho ny momba azy.",
+    "8": "Sandry nofo no momba azy, fa Jehovah Andriamanitsika kosa no momba antsika, hanampy antsika sy hiady ny adintsika. ary dia niankina tamin' ny tenin' i Hezekia mpanjakan' ny Joda ny olona.",
+    "9": "Rehefa afaka izany, dia nirahin' i Sankeriba, mpanjakan' i Asyria ny mpanompony hankany Jerosalema (fa izy sy ny miaramilany rehetra kosa nanao fahirano an' i Lakisy tamin' izay) ho any amin' i Hezekia, mpanjakan' ny Joda sy ho any amin' ny Joda rehetra izay tany Jerosalema ka nanao hoe:",
+    "10": "Izao no lazain' i Sankeriba, mpanjakan' i Asyria: Inona izato itokianareo, no dia miaritra fahoriana ato Jerosalema ianareo?",
+    "11": "Tsy Hezekia ihany va no manambosy anareo hanolotena ho faty mosary sy hetaheta ka manao hoe: Jehovah Andriamanitsika hanafaka antsika amin' ny tanan' ny mpanjakan' i Asyria?",
+    "12": "Tsy io Hezekia io ihany koa va no nandrava ny fitoerana avony sy ny alitarany ary nandidy ny Joda sy Jerosalema ka nanao hoe: Eo anoloan' ny alitara iray no hiankohofanareo sy handoroanareo ditin-kazo manitra?",
+    "13": "Tsy fantatrareo va izay nataoko, dia izaho sy ny razako, tamin' ny firenena rehetra tany amin' ny tany hafa? Moa va ireny andriamanitry ny firenena tany amin' ny tany hafa ireny nisy nahavonjy ny taniny akory tamin' ny tanako?",
+    "14": "Iza amin' ny andriamanitr' ireo firenena efa naringan' ny razako tanteraka ireo no nahafaka ny olony tamin' ny tanako, ka dia hahafaka anareo amin' ny tanako va ny Andriamanitrareo?",
+    "15": "Koa ankehitriny, aza avela hamitaka anareo Hezekia, na hitaona anareo tahaka izao; aza mino azy ianareo; fa tsy nisy andriamanitra tany amin' ny firenena sy ny fanjakana izay nahavonjy ny olony tamin' ny tanako sy ny tanan' ny razako; koa aiza ny Andriamanitrareo no hahavonjy anareo amin' ny tanako?",
+    "16": "Ary ny mpanompon' i Sankeriba mbola niteny nanohitra an' i Jehovah Andriamanitra sy Hezekia mpanompony,",
+    "17": "Sady nanoratra taratasy hihaika an' i Jehovah, Andriamanitry ny Isiraely, sy hiteny fanoherana Azy ka nanao hoe: Tahaka ny tsy nahavonjen' ireny andriamanitry ny firenena tany amin' ny tany hafa ireny ny olony tamin' ny tanako no tsy hahavonjen' ny Andriamanitr' i Hezekia ny olony koa amin' ny tanako.",
+    "18": "Dia niantso tamin' ny feo mahery izy ka nanao teny Jiosy teo anatrehan' ny mponina tany Jerosalema izay teny ambonin' ny manda, hampitahorany sy hampangorohoroany azy mba hahafahany ny tanàna.",
+    "19": "Ary nanohitra an' Andriamanitr' i Jerosalema izy toy ny nanoherany ny andriamanitry ny firenena any amin' ny tany hafa, izay asan' ny tanan' olona.",
+    "20": "Ary noho izany, dia nivavaka sy nitaraina tamin' ny lanitra Hezekia mpanjaka sy Isaia mpaminany zanak' i Amoza.",
+    "21": "Ary Jehovah naniraka anjely izay nandringana ny lehilahy be herim-po rehetra sy ny mpanapaka ary ny komandy teo an-tobin' ny mpanjakan' i Asyria, ka dia lasa nody tamin-kenatra Sankeriba. Ary nony niditra tao an-tranon' ny andriamaniny izy, dia namono azy tao tamin' ny sabatra ny zanany naterany.",
+    "22": "Toy izany no namonjen' i Jehovah an' i Hezekia sy ny mponina tany Jerosalema tamin' ny tanan' i Sankeriba, mpanjakan' i Asyria sy tamin' ny tanan' ny olon-kafa rehetra, ka nitarihany azy tamin' ny toerana rehetra.",
+    "23": "Ary maro no nitondra fanomezana ho an' i Jehovah tany Jerosalema sy fanomezana ho an' i Hezekia, mpanjakan' ny Joda; dia nalaza teo imason' ny firenena rehetra izy hatramin' izany.",
+    "24": "Tamin' izany andro izany dia narary efa saiky maty Hezekia, koa dia nivavaka tamin' i Jehovah izy, ary Jehovah niteny taminy ka nanome azy famantarana.",
+    "25": "Fa Hezekia tsy mba namaly araka izay soa efa natao taminy; fa niavonavona ny fony, dia niharan' ny fahatezerana izy mbamin' ny Joda sy Jerosalema.",
+    "26": "Kanefa Hezekia nanetry tena noho ilay efa niavonavonan' ny fony, dia izy sy ny mponina tany Jerosalema, ka dia tsy niharan' ny fahatezeran' i Jehovah ireo fahavelon' i Hezekia.",
+    "27": "Ary Hezekia nanana harena sy voninahitra be indrindra; dia nanao trano firaketana izy hitahirizana ny volafotsy sy ny volamena sy ny vatosoa sy ny zava-manitra sy ny ampinga mbamin' ny karazana firavaka soa rehetra;",
+    "28": "Ary sompitra koa ho an' ny vokatra avy amin' ny varimbazaha sy ny divay sy ny diloilo sy trano miefitrefitra hitoeran' ny biby ary vala ho an' ny ondry aman' osy.",
+    "29": "Ary nanao tanàna maro ho azy izy sady nanana fananana, dia ondry aman' osy sy omby betsaka, fa nomen' Andriamanitra fananana be indrindra izy.",
+    "30": "Ary notampenan' io Hezekia io koa ny fivoahan' ny rano ambony any Gihona ka nampandehaniny tany ambanin' ny tany hidina mahitsy ho any andrefan' ny Tanànan' i Davida izany. Ary nambinina tamin' ny asany rehetra Hezekia.",
+    "31": "Nefa noho ny amin' ny irak' ireo mpanapaka tany Babylona, izay naniraka tany aminy mba hanontany ny amin' ny zava-mahagaga natao tao amin' ny tany, dia nilaozan' Andriamanitra izy, mba hizahany toetra azy hahalalany izay rehetra ao am-pony.",
+    "32": "Ary ny asan' i Hezekia sisa sy ny soa nataony, indro, efa voasoratra ao amin' ny fahitan' Isaia mpaminany, zanak' i Amoza sy ao amin' ny bokin' ny mpanjakan' ny Joda sy ny Isiraely izany.",
+    "33": "Ary Hezekia lasa nodimandry any amin' ny razany, dia nalevina tao amin' ny toerana ambony indrindra tamin' ny fasan' ny zanak' i Davida izy, ary ny Joda rehetra sy ny mponina rehetra tany Jerosalema nanome voninahitra azy tamin' ny nahafatesany. Ary Manase zanany no nanjaka nandimby azy."
+  }
 }

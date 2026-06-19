@@ -1,65 +1,21 @@
 {
+  "book": "Amosa",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Nahita ny Tompo nitsangana teo ambonin' ny alitara aho, ka hoy Izy: asio ny kapitaly amin' ny varavarana hihetsiketsehan' ny tokonana, ary torotoroy ny lohan' izy rehetra, ka izay sisa aminy dia hovonoiko amin' ny sabatra; ary tsy hisy afa-mandositra izay mandositra aminy, sady tsy hisy ho afaka izay mitsoaka aminy.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Na dia mihady any amin' ny helo aza izy, dia any no hanalan' ny tanako azy; na dia miakatra ho any an-danitra aza izy, dia avy any no hampidinako azy.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary na dia miery any an-tampon' i Karmela aza izy, dia any no hitadiavako sy hangalako azy; ary na dia manafin-tena any amin' ny fanambanin' ny ranomasina aza izy, mba tsy ho hitan' ny masoko, dia any no handidiako ny menarana, ka hanaikitra azy.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary na dia lasan-ko babo eo anoloan' ny fahavalony aza izy, dia any no handidiako ny sabatra, ka hamono azy; ary hampanandriniko azy ny masoko hahatonga ny loza aminy, fa tsy ny soa.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary Jehovah, Andriamanitry ny maro no manendry ny tany, ka dia hiempo izany, ary hisaona ny mponina rehetra ao aminy; ary dia hihatondraka tahaka ny safotra izany, ary hihena indray toy ny fahatondrahan' ny reniranon' i Egypta.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Izy no manorina ny tranony misy rihana any amin' ny lanitra, sady manorina ny tafiny eny ambonin' ny tany; ary miantso ny rano eny an-dranomasina ka mampilatsaka azy eny ambonin' ny tany, Jehovah no anarany.\""
-    },
-    {
-      "v": 7,
-      "text": "Moa tsy toy ny taranaky ny Etiopiana va ianareo raha amiko, ry Zanak' Isiraely? hoy Jehovah. Tsy ny Isiraely va no nentiko nivoaka avy tany amin' ny tany Egypta, ary ny Filistina avy tany Kaftora, ary ny Syriana avy tany Kira?"
-    },
-    {
-      "v": 8,
-      "text": "\"Indro, ny mason' i Jehovah Tompo no manandrina ny fanjakana feno ota, ka dia hofongorana tsy ho eo ambonin' ny tany izy; kanefa tsy dia hofongorana avokoa ny taranak' i Jakoba, hoy Jehovah.\""
-    },
-    {
-      "v": 9,
-      "text": "Fa, indro, Izaho no handidy, ka hosivaniko any amin' ny firenena rehetra ny taranak' Isiraely, tahaka ny fanasivana varimbazaha amin' ny sivana, nefa tsy hisy na dia ny voa kely indrindra aza ho latsaka amin' ny tany."
-    },
-    {
-      "v": 10,
-      "text": "Sabatra no hamonoana ny mpanota rehetra amin' ny oloko, dia ireo izay manao hoe: Ny loza tsy hanakaiky na hahatratra anay."
-    },
-    {
-      "v": 11,
-      "text": "\"Amin' izany andro izany dia hatsangako indray ny tabernakelin' i Davida izay efa nianjera, ary hotampenako ny efa banga ao; ary hamboariko izay efa rava aminy, ka dia haoriko tahaka ny taloha izy;\""
-    },
-    {
-      "v": 12,
-      "text": "Mba hananany izay sisa amin' i Edoma sy amin' ny jentilisa rehetra, izay antsoina amin' ny anarako, hoy Jehovah, Izay manao izany."
-    },
-    {
-      "v": 13,
-      "text": "\"Indro, avy ny andro, hoy Jehovah, izay hahatratraran' ny mpiasa tany ny mpijinja, ary ny mpanosihosy voaloboka hahatratra ny mpamafy; ny tendrombohitra hipoipoitra ranom-boaloboka, ary ny havoana rehetra hiempo.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary hampodiko indray avy amin' ny fahababoana ny Isiraely oloko, dia hanangana ny tanàna efa rava izy ka honina ao, ary hamboly tanimboaloboka izy ka hisotro ny divay avy aminy; hanao saha koa izy ka hihinana ny vokatra avy aminy.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary hamboleko ao amin' ny taniny izy, ka tsy hongotana intsony amin' ny taniny izay nomeko azy izy, hoy Jehovah Andriamanitrao."
-    }
-  ]
+  "verses": {
+    "1": "Nahita ny Tompo nitsangana teo ambonin' ny alitara aho, ka hoy Izy: asio ny kapitaly amin' ny varavarana hihetsiketsehan' ny tokonana, ary torotoroy ny lohan' izy rehetra, ka izay sisa aminy dia hovonoiko amin' ny sabatra; ary tsy hisy afa-mandositra izay mandositra aminy, sady tsy hisy ho afaka izay mitsoaka aminy.",
+    "2": "Na dia mihady any amin' ny helo aza izy, dia any no hanalan' ny tanako azy; na dia miakatra ho any an-danitra aza izy, dia avy any no hampidinako azy.",
+    "3": "Ary na dia miery any an-tampon' i Karmela aza izy, dia any no hitadiavako sy hangalako azy; ary na dia manafin-tena any amin' ny fanambanin' ny ranomasina aza izy, mba tsy ho hitan' ny masoko, dia any no handidiako ny menarana, ka hanaikitra azy.",
+    "4": "Ary na dia lasan-ko babo eo anoloan' ny fahavalony aza izy, dia any no handidiako ny sabatra, ka hamono azy; ary hampanandriniko azy ny masoko hahatonga ny loza aminy, fa tsy ny soa.",
+    "5": "Ary Jehovah, Andriamanitry ny maro no manendry ny tany, ka dia hiempo izany, ary hisaona ny mponina rehetra ao aminy; ary dia hihatondraka tahaka ny safotra izany, ary hihena indray toy ny fahatondrahan' ny reniranon' i Egypta.",
+    "6": "Izy no manorina ny tranony misy rihana any amin' ny lanitra, sady manorina ny tafiny eny ambonin' ny tany; ary miantso ny rano eny an-dranomasina ka mampilatsaka azy eny ambonin' ny tany, Jehovah no anarany.",
+    "7": "Moa tsy toy ny taranaky ny Etiopiana va ianareo raha amiko, ry Zanak' Isiraely? hoy Jehovah. Tsy ny Isiraely va no nentiko nivoaka avy tany amin' ny tany Egypta, ary ny Filistina avy tany Kaftora, ary ny Syriana avy tany Kira?",
+    "8": "Indro, ny mason' i Jehovah Tompo no manandrina ny fanjakana feno ota, ka dia hofongorana tsy ho eo ambonin' ny tany izy; kanefa tsy dia hofongorana avokoa ny taranak' i Jakoba, hoy Jehovah.",
+    "9": "Fa, indro, Izaho no handidy, ka hosivaniko any amin' ny firenena rehetra ny taranak' Isiraely, tahaka ny fanasivana varimbazaha amin' ny sivana, nefa tsy hisy na dia ny voa kely indrindra aza ho latsaka amin' ny tany.",
+    "10": "Sabatra no hamonoana ny mpanota rehetra amin' ny oloko, dia ireo izay manao hoe: Ny loza tsy hanakaiky na hahatratra anay.",
+    "11": "Amin' izany andro izany dia hatsangako indray ny tabernakelin' i Davida izay efa nianjera, ary hotampenako ny efa banga ao; ary hamboariko izay efa rava aminy, ka dia haoriko tahaka ny taloha izy;",
+    "12": "Mba hananany izay sisa amin' i Edoma sy amin' ny jentilisa rehetra, izay antsoina amin' ny anarako, hoy Jehovah, Izay manao izany.",
+    "13": "Indro, avy ny andro, hoy Jehovah, izay hahatratraran' ny mpiasa tany ny mpijinja, ary ny mpanosihosy voaloboka hahatratra ny mpamafy; ny tendrombohitra hipoipoitra ranom-boaloboka, ary ny havoana rehetra hiempo.",
+    "14": "Ary hampodiko indray avy amin' ny fahababoana ny Isiraely oloko, dia hanangana ny tanàna efa rava izy ka honina ao, ary hamboly tanimboaloboka izy ka hisotro ny divay avy aminy; hanao saha koa izy ka hihinana ny vokatra avy aminy.",
+    "15": "Ary hamboleko ao amin' ny taniny izy, ka tsy hongotana intsony amin' ny taniny izay nomeko azy izy, hoy Jehovah Andriamanitrao."
+  }
 }

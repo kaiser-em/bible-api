@@ -1,101 +1,30 @@
 {
+  "book": "2 Korintiana",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Paoly, Apostolin’i Kristy Jesosy noho ny sitrapon’Andriamanitra, ary Timoty rahalahy, mamangy ny fiangonan’Andriamanitra izay any Korinto mbamin’ny olona masina rehetra eran’i Akaia:"
-    },
-    {
-      "v": 2,
-      "text": "Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin’Andriamanitra Raintsika sy avy amin' i Jesosy Kristy Tompo."
-    },
-    {
-      "v": 3,
-      "text": "Isaorana anie Andriamanitra sady Rain’i Jesosy Kristy Tompontsika, Rain’ny famindrampo, sady Andriamanitry ny fampiononana rehetra,"
-    },
-    {
-      "v": 4,
-      "text": "Izay mampionona anay amin’ny fahorianay rehetra mba hahaizanay mampionona izay rehetra mitondra fahoriana kosa, amin’ny fampiononana izay ampiononan’Andriamanitra anay."
-    },
-    {
-      "v": 5,
-      "text": "Fa araka ny haben’ny fijalian’i Kristy mihatra aminay no haben’ny fampiononana anay kosa amin’ny alalan’i Kristy."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary raha ampahoriana izahay, dia ho fampiononana sy famonjena anareo izany, ka mahomby amin’ny fiaretanareo fahoriana mitovy indrindra amin’izay entinay; ary raha ampiononina izahay, dia ho fampiononana sy famonjena anareo.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary miorina tsara ny fanantenanay anareo, satria fantatray fa tahaka ny iombonanareo ny fahoriana no iombonanareo ny fampiononana koa."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa tsy tianay tsy ho fantatrareo, ry rahalahy, ny amin’ny fahoriana izay nanjo anay tany Azia, fa novesarana indrindra mihoatra noho ny zakanay izahay, ka dia efa nafoinay na dia ny ainay aza;\""
-    },
-    {
-      "v": 9,
-      "text": "Eny, tsy nanampo izay ho velona intsony izahay, mba tsy hitokianay amin’ny tenanay, fa amin’Andriamanitra Izay manangana ny maty,"
-    },
-    {
-      "v": 10,
-      "text": "\"Izay nanafaka anay tamin’izany fahafatesana lehibe izany, ary mbola manafaka anay amin' izany; Izy no antenainay fa mbola hanafaka anay koa;\""
-    },
-    {
-      "v": 11,
-      "text": "Ianareo koa no manampy anay amin’ny fivavahanareo ho anay, mba hisaoran’ny maro ny aminay noho ny fanomezana azonay tamin’ny nataon’ny maro."
-    },
-    {
-      "v": 12,
-      "text": "Fa izao no fifalianay: ny fieritreretanay no vavolombelona fa tamin’ny fahatsoram-po sy ny fahamarinana araka an’Andriamanitra, tsy tamin’ny fahendrena ara-nofo, fa tamin’ny fahasoavan’Andriamanitra, no nitondranay tena teo amin’izao tontolo izao, mainka fa teo aminareo."
-    },
-    {
-      "v": 13,
-      "text": "\"Fa tsy manoratra teny hafa aminareo izahay, afa-tsy izay vakinareo na izay fantatrareo; ary manantena aho fa mbola ho fantatrareo ihany hatramin’ny farany aza,\""
-    },
-    {
-      "v": 14,
-      "text": "Toy ny nahafantaranareo anay ihany, fa izahay no fifalianareo, dia toa anareo koa izay fifalianay amin’ny andron’ny Tompo Jesosy."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary tamin’izao fahatokiana izao dia nikasa hankaty aminareo aloha aho mba hahazoanareo soa fanindroany;\""
-    },
-    {
-      "v": 16,
-      "text": "Ary hankany Masedonia aho, raha avy aty aminareo, ary dia hiverina ho aty aminareo indray raha avy any Masedonia, ary mba haterinareo ho any Jodia."
-    },
-    {
-      "v": 17,
-      "text": "Koa raha nikasa izany aho, moa nanao kitoatoa va aho? Ary izay zavatra kasaiko, moa kasaiko araka ny nofo va, mba hanaovako “eny, eny” foana sy “tsia, tsia” foana?"
-    },
-    {
-      "v": 18,
-      "text": "\"Fa raha marina koa Andriamanitra, ny teninay taminareo dia tsy “eny” sy “tsia”;\""
-    },
-    {
-      "v": 19,
-      "text": "Fa ny Zanak’Andriamanitra, dia Jesosy Kristy, Izay notorinay teo aminareo, dia izaho sy Silasy, ary Timoty, dia tsy “eny” sy “tsia” fa ao aminy dia “eny” ihany."
-    },
-    {
-      "v": 20,
-      "text": "Fa ny tenifikasan’Andriamanitra rehetra ao aminy dia “eny”, ary ao aminy koa ny “Amena”, ho voninahitr’Andriamanitra amin’ny alalanay."
-    },
-    {
-      "v": 21,
-      "text": "Fa Izay mampitoetra anay mbaminareo ao amin’i Kristy sady nanosotra antsika dia Andriamanitra,"
-    },
-    {
-      "v": 22,
-      "text": "Izay nanisy tombo-kase antsika koa, ka nanome ny santatry ny Fanahy ao am-pontsika."
-    },
-    {
-      "v": 23,
-      "text": "Ary koa miantso an’Andriamanitra ho vavolombelona ny amin’ny fanahiko aho, fa ny fitsimbinako anareo no tsy mbola nankanesako taty Korinto."
-    },
-    {
-      "v": 24,
-      "text": "Tsy satria hoe manam-pahefana ho tompon’ny finoanareo izahay, fa mpiara-miasa hampandroso ny fifalianareo, satria finoana no ijoroanareo."
-    }
-  ]
+  "verses": {
+    "1": "Paoly, Apostolin’i Kristy Jesosy noho ny sitrapon’Andriamanitra, ary Timoty rahalahy, mamangy ny fiangonan’Andriamanitra izay any Korinto mbamin’ny olona masina rehetra eran’i Akaia:",
+    "2": "Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin’Andriamanitra Raintsika sy avy amin' i Jesosy Kristy Tompo.",
+    "3": "Isaorana anie Andriamanitra sady Rain’i Jesosy Kristy Tompontsika, Rain’ny famindrampo, sady Andriamanitry ny fampiononana rehetra,",
+    "4": "Izay mampionona anay amin’ny fahorianay rehetra mba hahaizanay mampionona izay rehetra mitondra fahoriana kosa, amin’ny fampiononana izay ampiononan’Andriamanitra anay.",
+    "5": "Fa araka ny haben’ny fijalian’i Kristy mihatra aminay no haben’ny fampiononana anay kosa amin’ny alalan’i Kristy.",
+    "6": "Ary raha ampahoriana izahay, dia ho fampiononana sy famonjena anareo izany, ka mahomby amin’ny fiaretanareo fahoriana mitovy indrindra amin’izay entinay; ary raha ampiononina izahay, dia ho fampiononana sy famonjena anareo.",
+    "7": "Ary miorina tsara ny fanantenanay anareo, satria fantatray fa tahaka ny iombonanareo ny fahoriana no iombonanareo ny fampiononana koa.",
+    "8": "Fa tsy tianay tsy ho fantatrareo, ry rahalahy, ny amin’ny fahoriana izay nanjo anay tany Azia, fa novesarana indrindra mihoatra noho ny zakanay izahay, ka dia efa nafoinay na dia ny ainay aza;",
+    "9": "Eny, tsy nanampo izay ho velona intsony izahay, mba tsy hitokianay amin’ny tenanay, fa amin’Andriamanitra Izay manangana ny maty,",
+    "10": "Izay nanafaka anay tamin’izany fahafatesana lehibe izany, ary mbola manafaka anay amin' izany; Izy no antenainay fa mbola hanafaka anay koa;",
+    "11": "Ianareo koa no manampy anay amin’ny fivavahanareo ho anay, mba hisaoran’ny maro ny aminay noho ny fanomezana azonay tamin’ny nataon’ny maro.",
+    "12": "Fa izao no fifalianay: ny fieritreretanay no vavolombelona fa tamin’ny fahatsoram-po sy ny fahamarinana araka an’Andriamanitra, tsy tamin’ny fahendrena ara-nofo, fa tamin’ny fahasoavan’Andriamanitra, no nitondranay tena teo amin’izao tontolo izao, mainka fa teo aminareo.",
+    "13": "Fa tsy manoratra teny hafa aminareo izahay, afa-tsy izay vakinareo na izay fantatrareo; ary manantena aho fa mbola ho fantatrareo ihany hatramin’ny farany aza,",
+    "14": "Toy ny nahafantaranareo anay ihany, fa izahay no fifalianareo, dia toa anareo koa izay fifalianay amin’ny andron’ny Tompo Jesosy.",
+    "15": "Ary tamin’izao fahatokiana izao dia nikasa hankaty aminareo aloha aho mba hahazoanareo soa fanindroany;",
+    "16": "Ary hankany Masedonia aho, raha avy aty aminareo, ary dia hiverina ho aty aminareo indray raha avy any Masedonia, ary mba haterinareo ho any Jodia.",
+    "17": "Koa raha nikasa izany aho, moa nanao kitoatoa va aho? Ary izay zavatra kasaiko, moa kasaiko araka ny nofo va, mba hanaovako “eny, eny” foana sy “tsia, tsia” foana?",
+    "18": "Fa raha marina koa Andriamanitra, ny teninay taminareo dia tsy “eny” sy “tsia”;",
+    "19": "Fa ny Zanak’Andriamanitra, dia Jesosy Kristy, Izay notorinay teo aminareo, dia izaho sy Silasy, ary Timoty, dia tsy “eny” sy “tsia” fa ao aminy dia “eny” ihany.",
+    "20": "Fa ny tenifikasan’Andriamanitra rehetra ao aminy dia “eny”, ary ao aminy koa ny “Amena”, ho voninahitr’Andriamanitra amin’ny alalanay.",
+    "21": "Fa Izay mampitoetra anay mbaminareo ao amin’i Kristy sady nanosotra antsika dia Andriamanitra,",
+    "22": "Izay nanisy tombo-kase antsika koa, ka nanome ny santatry ny Fanahy ao am-pontsika.",
+    "23": "Ary koa miantso an’Andriamanitra ho vavolombelona ny amin’ny fanahiko aho, fa ny fitsimbinako anareo no tsy mbola nankanesako taty Korinto.",
+    "24": "Tsy satria hoe manam-pahefana ho tompon’ny finoanareo izahay, fa mpiara-miasa hampandroso ny fifalianareo, satria finoana no ijoroanareo."
+  }
 }

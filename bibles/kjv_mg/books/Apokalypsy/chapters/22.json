@@ -1,89 +1,27 @@
 {
+  "book": "Apokalypsy",
   "chapter": 22,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary naneho ahy onin’ny ranon’aina izy, manganohano tahaka ny vato krystaly, nivoaka avy teo amin’ny sezafiandrianan’Andriamanitra sy ny Zanak’ondry."
-    },
-    {
-      "v": 2,
-      "text": "\"Teo afovoan’ny lalambeny, ary teny andaniny roa amin’ny ony no nisy ny hazon’aina mamoa voa roa ambin’ny folo samy hafa sady mamoa isam-bolana; ary ny ravin’ny hazo dia ho fanasitranana ny firenena.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary tsy hisy ozona intsony; ary ny sezafiandrianan’Andriamanitra sy ny Zanak’ondry ho eo aminy; ary ny mpanompony dia hanompo Azy,\""
-    },
-    {
-      "v": 4,
-      "text": "Ka hahita ny tavany ireo, ary ny anarany dia ho eo amin’ny handriny."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary tsy hisy alina intsony any; ary tsy mba mila fahazavan’ny jiro na fahazavan’ny masoandro izy; fa ny Tompo Andriamanitra no manazava azy; ary hanjaka mandrakizay mandrakizay ireo.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary hoy izy tamiko: Mahatoky sady marina ireo teny ireo; ary ny Tompo, Andriamanitry ny mpaminany masina naniraka ny anjeliny haneho amin’ny mpanompony izay zavatra tsy maintsy ho tonga faingana.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary, indro, avy faingana Aho; sambatra izay mitandrina ny tenin’ny faminaniana amin’ity boky ity.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary izaho Jaona no nahare sy nahita ireo zavatra ireo. Ary rehefa nahare sy nahita aho, dia niankohoka hivavaka teo anoloan’ny tongotr’ilay anjely naneho ahy ireo zavatra ireo."
-    },
-    {
-      "v": 9,
-      "text": "\"Dia hoy izy tamiko: Tandremo, aza manao izao; fa mpanompo namanao ihany aho, sy ny mpaminany rahalahinao ary izay mitandrina ny tenin’ity boky ity; Andriamanitra ihany no ivavaho.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary hoy izy tamiko: Aza asiana tombo-kase ny tenin’ny faminaniana amin’ity boky ity, fa antomotra ny fotoana."
-    },
-    {
-      "v": 11,
-      "text": "\"Izay manao ny tsy marina, aoka mbola hanao ny tsy marina ihany izy; ary izay maloto, aoka mbola hihaloto ihany izy; ary izay marina kosa, aoka mbola hanao ny marina ihany izy, ary izay masina, aoka mbola hihamasina ihany izy.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary, indro, avy faingana Aho; ary eto amiko ny famaliako, mba hamaliako ny olona rehetra araka ny asany.\""
-    },
-    {
-      "v": 13,
-      "text": "Izaho no Alfa sy Omega, ny fiandohana sy ny fiafarana, ny Voalohany sy ny Farany."
-    },
-    {
-      "v": 14,
-      "text": "Sambatra izay manatanteraka ny didiny, mba hananany fahefana amin’ny hazon’aina sy hidirany amin’ny vavahady ho ao an-tanàna."
-    },
-    {
-      "v": 15,
-      "text": "Fa any ivelany ny alika sy ny mpanao ody ratsy sy ny mpivarotena sy ny mpamono olona sy ny mpanompo sampy ary izay rehetra tia lainga sady manao lainga."
-    },
-    {
-      "v": 16,
-      "text": "Izaho Jesosy naniraka ny anjeliko hanambara aminareo ireo zavatra ireo ho an’ny fiangonana. Izaho no Solofo sy taranak’i Davida, ny kintana mamirapiratra fitarik' andro."
-    },
-    {
-      "v": 17,
-      "text": "\"Ny Fanahy sy ny ampakarina manao hoe: Avia. Ary aoka izay mahare hanao hoe: Avia. Ary aoka ho avy izay mangetaheta; ary izay mety, aoka izy hisotro maimaimpoana amin’ny ranon’aina.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Fa izaho dia manambara amin’izay rehetra mandre ny tenin’ny faminaniana amin’ity boky ity: Raha misy manampy ireo zavatra ireo, Andriamanitra hanampy ireo loza voasoratra eto anatin’ity boky ity ho azy;\""
-    },
-    {
-      "v": 19,
-      "text": "Ary raha misy manaisotra amin’ny teny amin’ny bokin’ity faminaniana ity, dia hoesorin’Andriamanitra ny anjarany amin’ny bokin’ny fiainana sy ny tanàna masina ary amin’ny zavatra izay voasoratra ao anatin’ity boky ity."
-    },
-    {
-      "v": 20,
-      "text": "Hoy Izay manambara ireo zavatra ireo: Azo antoka, avy faingana Aho. Amena. Eny tokoa, avia, Jesosy Tompo."
-    },
-    {
-      "v": 21,
-      "text": "Ho aminareo rehetra anie ny fahasoavan’i Jesosy Kristy Tompontsika. Amena."
-    }
-  ]
+  "verses": {
+    "1": "Ary naneho ahy onin’ny ranon’aina izy, manganohano tahaka ny vato krystaly, nivoaka avy teo amin’ny sezafiandrianan’Andriamanitra sy ny Zanak’ondry.",
+    "2": "Teo afovoan’ny lalambeny, ary teny andaniny roa amin’ny ony no nisy ny hazon’aina mamoa voa roa ambin’ny folo samy hafa sady mamoa isam-bolana; ary ny ravin’ny hazo dia ho fanasitranana ny firenena.",
+    "3": "Ary tsy hisy ozona intsony; ary ny sezafiandrianan’Andriamanitra sy ny Zanak’ondry ho eo aminy; ary ny mpanompony dia hanompo Azy,",
+    "4": "Ka hahita ny tavany ireo, ary ny anarany dia ho eo amin’ny handriny.",
+    "5": "Ary tsy hisy alina intsony any; ary tsy mba mila fahazavan’ny jiro na fahazavan’ny masoandro izy; fa ny Tompo Andriamanitra no manazava azy; ary hanjaka mandrakizay mandrakizay ireo.",
+    "6": "Ary hoy izy tamiko: Mahatoky sady marina ireo teny ireo; ary ny Tompo, Andriamanitry ny mpaminany masina naniraka ny anjeliny haneho amin’ny mpanompony izay zavatra tsy maintsy ho tonga faingana.",
+    "7": "Ary, indro, avy faingana Aho; sambatra izay mitandrina ny tenin’ny faminaniana amin’ity boky ity.",
+    "8": "Ary izaho Jaona no nahare sy nahita ireo zavatra ireo. Ary rehefa nahare sy nahita aho, dia niankohoka hivavaka teo anoloan’ny tongotr’ilay anjely naneho ahy ireo zavatra ireo.",
+    "9": "Dia hoy izy tamiko: Tandremo, aza manao izao; fa mpanompo namanao ihany aho, sy ny mpaminany rahalahinao ary izay mitandrina ny tenin’ity boky ity; Andriamanitra ihany no ivavaho.",
+    "10": "Ary hoy izy tamiko: Aza asiana tombo-kase ny tenin’ny faminaniana amin’ity boky ity, fa antomotra ny fotoana.",
+    "11": "Izay manao ny tsy marina, aoka mbola hanao ny tsy marina ihany izy; ary izay maloto, aoka mbola hihaloto ihany izy; ary izay marina kosa, aoka mbola hanao ny marina ihany izy, ary izay masina, aoka mbola hihamasina ihany izy.",
+    "12": "Ary, indro, avy faingana Aho; ary eto amiko ny famaliako, mba hamaliako ny olona rehetra araka ny asany.",
+    "13": "Izaho no Alfa sy Omega, ny fiandohana sy ny fiafarana, ny Voalohany sy ny Farany.",
+    "14": "Sambatra izay manatanteraka ny didiny, mba hananany fahefana amin’ny hazon’aina sy hidirany amin’ny vavahady ho ao an-tanàna.",
+    "15": "Fa any ivelany ny alika sy ny mpanao ody ratsy sy ny mpivarotena sy ny mpamono olona sy ny mpanompo sampy ary izay rehetra tia lainga sady manao lainga.",
+    "16": "Izaho Jesosy naniraka ny anjeliko hanambara aminareo ireo zavatra ireo ho an’ny fiangonana. Izaho no Solofo sy taranak’i Davida, ny kintana mamirapiratra fitarik' andro.",
+    "17": "Ny Fanahy sy ny ampakarina manao hoe: Avia. Ary aoka izay mahare hanao hoe: Avia. Ary aoka ho avy izay mangetaheta; ary izay mety, aoka izy hisotro maimaimpoana amin’ny ranon’aina.",
+    "18": "Fa izaho dia manambara amin’izay rehetra mandre ny tenin’ny faminaniana amin’ity boky ity: Raha misy manampy ireo zavatra ireo, Andriamanitra hanampy ireo loza voasoratra eto anatin’ity boky ity ho azy;",
+    "19": "Ary raha misy manaisotra amin’ny teny amin’ny bokin’ity faminaniana ity, dia hoesorin’Andriamanitra ny anjarany amin’ny bokin’ny fiainana sy ny tanàna masina ary amin’ny zavatra izay voasoratra ao anatin’ity boky ity.",
+    "20": "Hoy Izay manambara ireo zavatra ireo: Azo antoka, avy faingana Aho. Amena. Eny tokoa, avia, Jesosy Tompo.",
+    "21": "Ho aminareo rehetra anie ny fahasoavan’i Jesosy Kristy Tompontsika. Amena."
+  }
 }

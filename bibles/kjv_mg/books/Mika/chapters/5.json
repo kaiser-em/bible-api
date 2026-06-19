@@ -1,65 +1,21 @@
 {
+  "book": "Mika",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Koa mivory ho andiany ianao, ry zanakavavin' ny andiany! Nanao fahirano antsika izy; hamely tsorakazo ny takolaky ny mpitsaran' ny Isiraely izy.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Fa, ianao, ry Betlehema Efrata, na dia kely tsy tokony ho isan' ny arivon' ny Joda akory ianao, dia avy aminao no hivoahan' izay anankiray ho Mpanapaka ho Ahy ao amin' ny Isiraely; hatry ny fahagola no efa nivoahany, dia hatrizay hatrizay.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Koa dia hatolony izy, ambara-piavin' ny fotoana hiterahan' izay anankiray hiteraka; ary izay sisa amin' ny rahalahiny hiverina ho any amin' ny zanak' Isiraely.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary hitsangana izy ka hiandry amin' ny herin' i Jehovah, amin' ny fiandrianan' ny anaran' i Jehovah Andriamaniny, ka handry fahizay ireny, fa izao dia ho lehibe hatrany amin' ny faran' ny tany Izy."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary Izy no ho fiadanana; raha tonga eto amin' ny tanintsika ny Asyriana ka miditra ao amin' ny lapantsika, dia hanangana mpiandry ondry fito sy mpanapaka valo hisakana azy isika.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary handany ny tany Asyria amin' ny sabatra sy ny tanin' i Nimroda eo am-bavahadiny ireo; toy izany no hanafahany antsika amin' ny Asyriana, raha tonga amin' ny tanintsika sady manitsaka ato amin' ny fari-tanintsika izy.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary izay sisa amin' i Jakoba dia ho ao amin' ny firenena maro, tahaka ny ando avy amin' i Jehovah sy tahaka ny ranonorana eny amin' ny ahitra, izay tsy miandry olona na miandry ny zanak' olombelona."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary izay sisa amin' i Jakoba dia ho ao amin' ny Jentilisa ao afovoan' ny firenena maro tahaka ny liona ao amin' ny biby any an' ala, tahaka ny liona tanora ao amin' ny andian' ny ondry aman' osy; raha mamaky eo izy, dia manitsakitsaka sy mamiravira, ka tsy misy mahavonjy.\""
-    },
-    {
-      "v": 9,
-      "text": "Hingaina amin' ny rafinao ny tananao, ary ho ringana ny fahavalonao rehetra."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary izao no hiseho amin' izany andro izany, hoy Jehovah, haringako tsy ho eo aminao intsony ny soavalinao, ary hofonganiko ny kalesinao;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Hofoanako ny tanàna amin' ny taninao ary harodako ny tanànanao mimanda rehetra;\""
-    },
-    {
-      "v": 12,
-      "text": "Hofoanako tsy hisy amin' ny tananao ny fankatovanao, ary tsy hanana mpanandro intsony ianao."
-    },
-    {
-      "v": 13,
-      "text": "\"Hofoanako tsy hisy aminao koa ny sarin-javatrao voasokitra, sy ny tsangambaton-tsampinao izay eo aminao; ary tsy hiankohoka eo anatrehan' ny asan' ny tananao intsony ianao.\""
-    },
-    {
-      "v": 14,
-      "text": "Hongotako tsy ho eo aminao ny Aserahanao, dia horavako ny tananànao."
-    },
-    {
-      "v": 15,
-      "text": "Ary amin' ny fahatezerana sy ny fahavinirana no hamaliako ny jentilisa, dia izay tsy mihaino."
-    }
-  ]
+  "verses": {
+    "1": "Koa mivory ho andiany ianao, ry zanakavavin' ny andiany! Nanao fahirano antsika izy; hamely tsorakazo ny takolaky ny mpitsaran' ny Isiraely izy.",
+    "2": "Fa, ianao, ry Betlehema Efrata, na dia kely tsy tokony ho isan' ny arivon' ny Joda akory ianao, dia avy aminao no hivoahan' izay anankiray ho Mpanapaka ho Ahy ao amin' ny Isiraely; hatry ny fahagola no efa nivoahany, dia hatrizay hatrizay.",
+    "3": "Koa dia hatolony izy, ambara-piavin' ny fotoana hiterahan' izay anankiray hiteraka; ary izay sisa amin' ny rahalahiny hiverina ho any amin' ny zanak' Isiraely.",
+    "4": "Ary hitsangana izy ka hiandry amin' ny herin' i Jehovah, amin' ny fiandrianan' ny anaran' i Jehovah Andriamaniny, ka handry fahizay ireny, fa izao dia ho lehibe hatrany amin' ny faran' ny tany Izy.",
+    "5": "Ary Izy no ho fiadanana; raha tonga eto amin' ny tanintsika ny Asyriana ka miditra ao amin' ny lapantsika, dia hanangana mpiandry ondry fito sy mpanapaka valo hisakana azy isika.",
+    "6": "Ary handany ny tany Asyria amin' ny sabatra sy ny tanin' i Nimroda eo am-bavahadiny ireo; toy izany no hanafahany antsika amin' ny Asyriana, raha tonga amin' ny tanintsika sady manitsaka ato amin' ny fari-tanintsika izy.",
+    "7": "Ary izay sisa amin' i Jakoba dia ho ao amin' ny firenena maro, tahaka ny ando avy amin' i Jehovah sy tahaka ny ranonorana eny amin' ny ahitra, izay tsy miandry olona na miandry ny zanak' olombelona.",
+    "8": "Ary izay sisa amin' i Jakoba dia ho ao amin' ny Jentilisa ao afovoan' ny firenena maro tahaka ny liona ao amin' ny biby any an' ala, tahaka ny liona tanora ao amin' ny andian' ny ondry aman' osy; raha mamaky eo izy, dia manitsakitsaka sy mamiravira, ka tsy misy mahavonjy.",
+    "9": "Hingaina amin' ny rafinao ny tananao, ary ho ringana ny fahavalonao rehetra.",
+    "10": "Ary izao no hiseho amin' izany andro izany, hoy Jehovah, haringako tsy ho eo aminao intsony ny soavalinao, ary hofonganiko ny kalesinao;",
+    "11": "Hofoanako ny tanàna amin' ny taninao ary harodako ny tanànanao mimanda rehetra;",
+    "12": "Hofoanako tsy hisy amin' ny tananao ny fankatovanao, ary tsy hanana mpanandro intsony ianao.",
+    "13": "Hofoanako tsy hisy aminao koa ny sarin-javatrao voasokitra, sy ny tsangambaton-tsampinao izay eo aminao; ary tsy hiankohoka eo anatrehan' ny asan' ny tananao intsony ianao.",
+    "14": "Hongotako tsy ho eo aminao ny Aserahanao, dia horavako ny tananànao.",
+    "15": "Ary amin' ny fahatezerana sy ny fahavinirana no hamaliako ny jentilisa, dia izay tsy mihaino."
+  }
 }

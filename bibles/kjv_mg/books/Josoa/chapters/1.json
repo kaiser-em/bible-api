@@ -1,77 +1,24 @@
 {
+  "book": "Josoa",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary taorian' ny fahafatesan' i Mosesy, mpanompon' i Jehovah, dia izao no niseho, Jehovah dia niteny tamin' i Josoa zanak' i Nona, mpanompon' i Mosesy nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Maty Mosesy mpanompoko; koa mitsangàna ankehitriny, mità ity Jordana ity ianao sy izao olona rehetra izao ho any amin' ny tany izay omeko azy, dia ny Zanak' Isiraely.\""
-    },
-    {
-      "v": 3,
-      "text": "Ny tany rehetra izay hodiavin' ny tongotrareo dia efa nomeko anareo, araka izay voalazako tamin' i Mosesy."
-    },
-    {
-      "v": 4,
-      "text": "Hatramin' ny efitra sy ity Libanona ity ary hatramin' ny ony lehibe, dia ny Ony Eofrata, ny tany rehetra izay an' ny Hetita, ka hatramin' ny ranomasina lehibe any amin' ny filentehan' ny masoandro no ho taninareo."
-    },
-    {
-      "v": 5,
-      "text": "\"Tsy hisy olona hahajanona eo anoloanao amin' ny andro rehetra hiainanao; tahaka ny nombako an' i Mosesy no hombako anao koa; tsy handao anao na hahafoy anao Aho.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Mahereza sy matanjaha; fa ianao no hampandova ity firenena ity ny tany izay nianianako tamin' ny razany homena azy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Koa mahereza sy matanjaha tsara ianao, hitandremanao hanao araka ny lalàna rehetra, izay nandidian' i Mosesy mpanompoko anao; aza miala aminy, na ho amin' ny ankavanana, na ho amin' ny ankavia, mba hambinina ianao amin' izay rehetra alehanao.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Aoka tsy hiala amin' ny vavanao ity bokin' ny lalàna ity, fa saintsaino andro aman' alina, mba hitandremanao hanao araka izay rehetra voasoratra eo; ary amin' izany dia hambinina ny lalanao sady hahazo fahombiazana tsara ianao.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Tsy efa nandidy anao va Aho? Mahereza sy matanjaha; aza matahotra na mivadi-po, fa momba anao Jehovah Andriamanitrao amin' izay rehetra alehanao.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary Josoa nandidy ny mpifehy ny olona ka nanao hoe:"
-    },
-    {
-      "v": 11,
-      "text": "Andeha mamaky ny toby, ka mandidia ny olona hoe: Manamboara vatsy ho anareo, fa raha afaka hateloana, dia hita ity Jordana ity ianareo, hiditra hahazo ny tany, izay nomen' i Jehovah Andriamanitrareo ho fanananareo."
-    },
-    {
-      "v": 12,
-      "text": "Ary ny Robenita sy ny Gadita ary ny antsasaky ny fokon' i Manase dia nilazan' i Josoa hoe:"
-    },
-    {
-      "v": 13,
-      "text": "Tsarovy ny teny izay nandidian' i Mosesy, mpanompon' i Jehovah Andriamanitrareo anareo hoe: Jehovah Andriamanitrareo nanome fitsaharana ho anareo, ka nomeny anareo ity tany ity."
-    },
-    {
-      "v": 14,
-      "text": "\"Ny vadinareo sy ny zanakareo madinika ary ny biby fiompinareo dia hitoetra eo amin' ny tany izay nomen' i Mosesy anareo ety an-dafin' i Jordana; fa ianareo hita eo alohan' ny rahalahinareo voaomana hiady, dia ny lehilahy mahery sy malaza rehetra, ka hanampy azy ireo,\""
-    },
-    {
-      "v": 15,
-      "text": "\"Mandra-panomen' i Jehovah fitsaharana ny rahalahinareo tahaka ny nanomezany anareo, ka mba ho azony koa ny tany izay nomen' i Jehovah Andriamanitrareo azy; dia hiverina ho any amin' ny tany izay fanananareo ianareo, ka hiravoravo amin' izany, dia ilay nomen' i Mosesy, mpanompon' i Jehovah anareo ety an-dafin' i Jordana amin' ny fiposahan' ny masoandro.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Dia namaly an' i Josoa izy ireo ka nanao hoe: Izay rehetra andidianao anay dia hataonay; ary izay rehetra anirahanao anay dia halehanay.\""
-    },
-    {
-      "v": 17,
-      "text": "Araka ny nihainoanay an' i Mosesy tamin' ny zavatra rehetra no hihainoanay anao koa, homba anao anie Jehovah Andriamanitrao tahaka ny nombany an' i Mosesy."
-    },
-    {
-      "v": 18,
-      "text": "\"Izay rehetra mandà ny didinao ka tsy mihaino ny teninao amin' izay rehetra andidianao azy dia hatao maty; koa mahereza sy matanjaha ianao.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary taorian' ny fahafatesan' i Mosesy, mpanompon' i Jehovah, dia izao no niseho, Jehovah dia niteny tamin' i Josoa zanak' i Nona, mpanompon' i Mosesy nanao hoe:",
+    "2": "Maty Mosesy mpanompoko; koa mitsangàna ankehitriny, mità ity Jordana ity ianao sy izao olona rehetra izao ho any amin' ny tany izay omeko azy, dia ny Zanak' Isiraely.",
+    "3": "Ny tany rehetra izay hodiavin' ny tongotrareo dia efa nomeko anareo, araka izay voalazako tamin' i Mosesy.",
+    "4": "Hatramin' ny efitra sy ity Libanona ity ary hatramin' ny ony lehibe, dia ny Ony Eofrata, ny tany rehetra izay an' ny Hetita, ka hatramin' ny ranomasina lehibe any amin' ny filentehan' ny masoandro no ho taninareo.",
+    "5": "Tsy hisy olona hahajanona eo anoloanao amin' ny andro rehetra hiainanao; tahaka ny nombako an' i Mosesy no hombako anao koa; tsy handao anao na hahafoy anao Aho.",
+    "6": "Mahereza sy matanjaha; fa ianao no hampandova ity firenena ity ny tany izay nianianako tamin' ny razany homena azy.",
+    "7": "Koa mahereza sy matanjaha tsara ianao, hitandremanao hanao araka ny lalàna rehetra, izay nandidian' i Mosesy mpanompoko anao; aza miala aminy, na ho amin' ny ankavanana, na ho amin' ny ankavia, mba hambinina ianao amin' izay rehetra alehanao.",
+    "8": "Aoka tsy hiala amin' ny vavanao ity bokin' ny lalàna ity, fa saintsaino andro aman' alina, mba hitandremanao hanao araka izay rehetra voasoratra eo; ary amin' izany dia hambinina ny lalanao sady hahazo fahombiazana tsara ianao.",
+    "9": "Tsy efa nandidy anao va Aho? Mahereza sy matanjaha; aza matahotra na mivadi-po, fa momba anao Jehovah Andriamanitrao amin' izay rehetra alehanao.",
+    "10": "Ary Josoa nandidy ny mpifehy ny olona ka nanao hoe:",
+    "11": "Andeha mamaky ny toby, ka mandidia ny olona hoe: Manamboara vatsy ho anareo, fa raha afaka hateloana, dia hita ity Jordana ity ianareo, hiditra hahazo ny tany, izay nomen' i Jehovah Andriamanitrareo ho fanananareo.",
+    "12": "Ary ny Robenita sy ny Gadita ary ny antsasaky ny fokon' i Manase dia nilazan' i Josoa hoe:",
+    "13": "Tsarovy ny teny izay nandidian' i Mosesy, mpanompon' i Jehovah Andriamanitrareo anareo hoe: Jehovah Andriamanitrareo nanome fitsaharana ho anareo, ka nomeny anareo ity tany ity.",
+    "14": "Ny vadinareo sy ny zanakareo madinika ary ny biby fiompinareo dia hitoetra eo amin' ny tany izay nomen' i Mosesy anareo ety an-dafin' i Jordana; fa ianareo hita eo alohan' ny rahalahinareo voaomana hiady, dia ny lehilahy mahery sy malaza rehetra, ka hanampy azy ireo,",
+    "15": "Mandra-panomen' i Jehovah fitsaharana ny rahalahinareo tahaka ny nanomezany anareo, ka mba ho azony koa ny tany izay nomen' i Jehovah Andriamanitrareo azy; dia hiverina ho any amin' ny tany izay fanananareo ianareo, ka hiravoravo amin' izany, dia ilay nomen' i Mosesy, mpanompon' i Jehovah anareo ety an-dafin' i Jordana amin' ny fiposahan' ny masoandro.",
+    "16": "Dia namaly an' i Josoa izy ireo ka nanao hoe: Izay rehetra andidianao anay dia hataonay; ary izay rehetra anirahanao anay dia halehanay.",
+    "17": "Araka ny nihainoanay an' i Mosesy tamin' ny zavatra rehetra no hihainoanay anao koa, homba anao anie Jehovah Andriamanitrao tahaka ny nombany an' i Mosesy.",
+    "18": "Izay rehetra mandà ny didinao ka tsy mihaino ny teninao amin' izay rehetra andidianao azy dia hatao maty; koa mahereza sy matanjaha ianao."
+  }
 }

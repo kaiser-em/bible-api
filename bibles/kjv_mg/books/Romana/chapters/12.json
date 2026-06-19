@@ -1,89 +1,27 @@
 {
+  "book": "Romana",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Koa amin' izany miangavy anareo aho, ry rahalahy, noho ny famindrampon' Andriamanitra, mba atolotrareo ny tenanareo ho fanatitra velona, masina, sitrak' Andriamanitra, izay fanompoana mety ataonareo."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary aza manaraka ny fanaon' izao tontolo izao; fa miovà amin' ny fanavaozana ny saina, hamantaranareo ny sitrapon' Andriamanitra izay tsara sady ankasitrahana no tanteraka.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Fa noho ny fahasoavana nomena ahy dia izao no lazaiko amin' ny olona rehetra izay eo aminareo: Aza miavonavon-kevitra ka mihevitra mihoatra noho izay tokony hoheverina; fa mihevera izay onony araka ny ohatry ny finoana izay nozarain' Andriamanitra ho an' ny tsirairay avy.\""
-    },
-    {
-      "v": 4,
-      "text": "Fa toy ny ananantsika zavatra maro momba ny tena iray, nefa tsy mitovy asa izay rehetra momba ny tena,"
-    },
-    {
-      "v": 5,
-      "text": "Dia toy izany koa isika, na dia maro aza, dia tena iray ihany ao amin' i Kristy, ary samy miara-momba ny tena isika rehetra."
-    },
-    {
-      "v": 6,
-      "text": "\"Satria samy manana ny fanomezana araka ny fahasoavana nomena antsika isika, raha faminaniana, dia aoka haminany araka ny ohatry ny finoana;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Raha asa fanompoana amin' ny fiangonana, dia aoka ho amin' ny asa fanompoana; raha mampianatra, dia aoka ho amin' ny fampianarana;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Raha mananatra, dia aoka ho amin' ny fananarana; izay manome, dia aoka ho amin' ny fahatsoram-po; izay manapaka, dia aoka ho amin' ny fahazotoana; izay mamindra fo, dia aoka ho amin' ny fifaliana.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Aoka ny fitiavana ho amin' ny tsi-fihatsarambelatsihy; mankahalà ny ratsy; mifikira amin' ny tsara.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Mifankatiava araka ny fifankatiavan' ny mpirahalahy; mitariha lalana amin' ny fifanomezam-boninahitra.\""
-    },
-    {
-      "v": 11,
-      "text": "Aza malaina amin' ny asa aman-draharaha, aoka hafana fo amin'ny fanompoana ny Tompo."
-    },
-    {
-      "v": 12,
-      "text": "\"Mifalia amin' ny fanantenana; miareta amin' ny fahoriana; mahareta amin' ny fivavahana.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Miantrà ny olona masina araka izay ilainy; mampiantranoa vahiny.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Misaora izay manenjika anareo; misaora, ary aza manozona.\""
-    },
-    {
-      "v": 15,
-      "text": "Miaraha mifaly amin' izay mifaly, ary miaraha mitomany amin' izay mitomany."
-    },
-    {
-      "v": 16,
-      "text": "Miraisa saina.Aza mihevitra izay zavatra ambony, fa manetre tena amin' ny malahelo. Aza manao ny tenanao ho hendry amin' ny fisainanao."
-    },
-    {
-      "v": 17,
-      "text": "Aza mamaly ratsy ny ratsy. Katsaho izay zavatra mendrika eo imason' ny olona rehetra."
-    },
-    {
-      "v": 18,
-      "text": "Raha azo atao, fa miankina aminareo ihany, dia ataovy izay hihavananareo amin' ny olona rehetra."
-    },
-    {
-      "v": 19,
-      "text": "\"Ry malala indrindra, aza mamaly ratsy, fa omeo alàlana hiasa ny fahatezeran' Andriamanitra; fa voasoratra hoe: Ahy ny famaliana; Izaho no hamaly, hoy Jehovah\""
-    },
-    {
-      "v": 20,
-      "text": "\"Koa raha noana ny fahavalonao, omeo hanina izy; raha mangetaheta izy, omeo hosotroiny; fa raha manao izany ianao, dia hanambatra vainafo ho eo an-dohany\""
-    },
-    {
-      "v": 21,
-      "text": "Aza mety ho resin' ny ratsy ianao, fa reseo amin' ny soa ny ratsy."
-    }
-  ]
+  "verses": {
+    "1": "Koa amin' izany miangavy anareo aho, ry rahalahy, noho ny famindrampon' Andriamanitra, mba atolotrareo ny tenanareo ho fanatitra velona, masina, sitrak' Andriamanitra, izay fanompoana mety ataonareo.",
+    "2": "Ary aza manaraka ny fanaon' izao tontolo izao; fa miovà amin' ny fanavaozana ny saina, hamantaranareo ny sitrapon' Andriamanitra izay tsara sady ankasitrahana no tanteraka.",
+    "3": "Fa noho ny fahasoavana nomena ahy dia izao no lazaiko amin' ny olona rehetra izay eo aminareo: Aza miavonavon-kevitra ka mihevitra mihoatra noho izay tokony hoheverina; fa mihevera izay onony araka ny ohatry ny finoana izay nozarain' Andriamanitra ho an' ny tsirairay avy.",
+    "4": "Fa toy ny ananantsika zavatra maro momba ny tena iray, nefa tsy mitovy asa izay rehetra momba ny tena,",
+    "5": "Dia toy izany koa isika, na dia maro aza, dia tena iray ihany ao amin' i Kristy, ary samy miara-momba ny tena isika rehetra.",
+    "6": "Satria samy manana ny fanomezana araka ny fahasoavana nomena antsika isika, raha faminaniana, dia aoka haminany araka ny ohatry ny finoana;",
+    "7": "Raha asa fanompoana amin' ny fiangonana, dia aoka ho amin' ny asa fanompoana; raha mampianatra, dia aoka ho amin' ny fampianarana;",
+    "8": "Raha mananatra, dia aoka ho amin' ny fananarana; izay manome, dia aoka ho amin' ny fahatsoram-po; izay manapaka, dia aoka ho amin' ny fahazotoana; izay mamindra fo, dia aoka ho amin' ny fifaliana.",
+    "9": "Aoka ny fitiavana ho amin' ny tsi-fihatsarambelatsihy; mankahalà ny ratsy; mifikira amin' ny tsara.",
+    "10": "Mifankatiava araka ny fifankatiavan' ny mpirahalahy; mitariha lalana amin' ny fifanomezam-boninahitra.",
+    "11": "Aza malaina amin' ny asa aman-draharaha, aoka hafana fo amin'ny fanompoana ny Tompo.",
+    "12": "Mifalia amin' ny fanantenana; miareta amin' ny fahoriana; mahareta amin' ny fivavahana.",
+    "13": "Miantrà ny olona masina araka izay ilainy; mampiantranoa vahiny.",
+    "14": "Misaora izay manenjika anareo; misaora, ary aza manozona.",
+    "15": "Miaraha mifaly amin' izay mifaly, ary miaraha mitomany amin' izay mitomany.",
+    "16": "Miraisa saina.Aza mihevitra izay zavatra ambony, fa manetre tena amin' ny malahelo. Aza manao ny tenanao ho hendry amin' ny fisainanao.",
+    "17": "Aza mamaly ratsy ny ratsy. Katsaho izay zavatra mendrika eo imason' ny olona rehetra.",
+    "18": "Raha azo atao, fa miankina aminareo ihany, dia ataovy izay hihavananareo amin' ny olona rehetra.",
+    "19": "Ry malala indrindra, aza mamaly ratsy, fa omeo alàlana hiasa ny fahatezeran' Andriamanitra; fa voasoratra hoe: Ahy ny famaliana; Izaho no hamaly, hoy Jehovah",
+    "20": "Koa raha noana ny fahavalonao, omeo hanina izy; raha mangetaheta izy, omeo hosotroiny; fa raha manao izany ianao, dia hanambatra vainafo ho eo an-dohany",
+    "21": "Aza mety ho resin' ny ratsy ianao, fa reseo amin' ny soa ny ratsy."
+  }
 }

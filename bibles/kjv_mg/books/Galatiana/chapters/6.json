@@ -1,77 +1,24 @@
 {
+  "book": "Galatiana",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ry rahalahy, raha misy olona azo olan-tanana amin’ny fahadisoana, dia atsanganonareo izay ara-panahy amin’ny fahalemem-panahy izy, ka mihevera ny tenanao, fandrao ianao koa mba alaim-panahy ihany."
-    },
-    {
-      "v": 2,
-      "text": "Mifampitondrà izay mahavesatra, ary aoka izany no hahatanterahanareo ny lalàn’i Kristy."
-    },
-    {
-      "v": 3,
-      "text": "Fa raha misy manao ny tenany ho zavatra, kanjo tsinontsinona, dia mamitaka ny tenany izy."
-    },
-    {
-      "v": 4,
-      "text": "\"Fa aoka ny olona rehetra samy hizaha toetra ny asany avy, dia samy hanana hafaliana ny amin’ny tenany ihany izy, fa tsy ny amin’ny olon-kafa;\""
-    },
-    {
-      "v": 5,
-      "text": "Fa samy hitondra ny entany avy ny olona rehetra."
-    },
-    {
-      "v": 6,
-      "text": "Aoka izay ampianarina ny teny mba hahafoy amin’ny zava-tsoa rehetra ho an’izay mampianatra."
-    },
-    {
-      "v": 7,
-      "text": "\"Aza mety hofitahina ianareo; Andriamanitra tsy azo vazivazina, fa izay afafin’ny olona no hojinjainy koa.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Fa izay mamafy ho an’ny nofony dia hijinja fahasimbana avy amin’ny nofo; ary izay mamafy ho an’ny Fanahy dia hijinja fiainana mandrakizay avy amin’ny Fanahy.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary aza mba ketraka amin’ny fanaovan-tsoa isika; fa amin’ny fotoan’andro no hijinjantsika, raha tsy reraka isika.\""
-    },
-    {
-      "v": 10,
-      "text": "Koa araka ny ananantsika andro hanaovana, dia aoka isika hanao soa amin’ny olona rehetra, indrindra fa amin’ny mpianakavin’ny finoana."
-    },
-    {
-      "v": 11,
-      "text": "Jereonareo ny halavan’ny taratasy izay nosoratan’ny tanako ho anareo."
-    },
-    {
-      "v": 12,
-      "text": "Na iza na iza te-hiseho ho tsara amin’ny nofo, dia ireo no manery anareo hoforana, nefa noho izao ihany: fandrao henjehina noho ny hazofijalian’i Kristy izy."
-    },
-    {
-      "v": 13,
-      "text": "\"Fa na dia ny tenan’izy voafora aza dia tsy mitandrina ny lalàna; kanefa tiany hoforana koa ianareo, mba hireharehany amin’ny nofonareo.\""
-    },
-    {
-      "v": 14,
-      "text": "Fa sanatria raha mba misy hataoko rehareha afa-tsy ny hazofijalian’i Jesosy Kristy Tompontsika, Izay nahavoahombo izao tontolo izao tamin’ny hazofijaliana raha ny amiko, ary izaho kosa, raha ny amin’izao tontolo izao."
-    },
-    {
-      "v": 15,
-      "text": "Fa ao amin’i Kristy Jesosy, dia tsy mahasoa na ny famorana na ny tsy famorana, fa ny ho olom-baovao."
-    },
-    {
-      "v": 16,
-      "text": "Ary fiadanana sy famindrampo anie ho amin’izay rehetra mandeha araka ity fitsipika ity, sy ho amin’ny Isiraelin’Andriamanitra."
-    },
-    {
-      "v": 17,
-      "text": "Amin’izao sisa izao, aoka tsy hisy hanahirana ahy intsony, fa mitondra ny marik’i Jesosy Tompo voatomboka eo amin’ny tenako aho."
-    },
-    {
-      "v": 18,
-      "text": "Ho amin’ny fanahinareo anie, ry rahalahy, ny fahasoavan’i Jesosy Kristy Tompontsika. Amena.(Nosoratana tany Roma ho an’ny Galatiana)."
-    }
-  ]
+  "verses": {
+    "1": "Ry rahalahy, raha misy olona azo olan-tanana amin’ny fahadisoana, dia atsanganonareo izay ara-panahy amin’ny fahalemem-panahy izy, ka mihevera ny tenanao, fandrao ianao koa mba alaim-panahy ihany.",
+    "2": "Mifampitondrà izay mahavesatra, ary aoka izany no hahatanterahanareo ny lalàn’i Kristy.",
+    "3": "Fa raha misy manao ny tenany ho zavatra, kanjo tsinontsinona, dia mamitaka ny tenany izy.",
+    "4": "Fa aoka ny olona rehetra samy hizaha toetra ny asany avy, dia samy hanana hafaliana ny amin’ny tenany ihany izy, fa tsy ny amin’ny olon-kafa;",
+    "5": "Fa samy hitondra ny entany avy ny olona rehetra.",
+    "6": "Aoka izay ampianarina ny teny mba hahafoy amin’ny zava-tsoa rehetra ho an’izay mampianatra.",
+    "7": "Aza mety hofitahina ianareo; Andriamanitra tsy azo vazivazina, fa izay afafin’ny olona no hojinjainy koa.",
+    "8": "Fa izay mamafy ho an’ny nofony dia hijinja fahasimbana avy amin’ny nofo; ary izay mamafy ho an’ny Fanahy dia hijinja fiainana mandrakizay avy amin’ny Fanahy.",
+    "9": "Ary aza mba ketraka amin’ny fanaovan-tsoa isika; fa amin’ny fotoan’andro no hijinjantsika, raha tsy reraka isika.",
+    "10": "Koa araka ny ananantsika andro hanaovana, dia aoka isika hanao soa amin’ny olona rehetra, indrindra fa amin’ny mpianakavin’ny finoana.",
+    "11": "Jereonareo ny halavan’ny taratasy izay nosoratan’ny tanako ho anareo.",
+    "12": "Na iza na iza te-hiseho ho tsara amin’ny nofo, dia ireo no manery anareo hoforana, nefa noho izao ihany: fandrao henjehina noho ny hazofijalian’i Kristy izy.",
+    "13": "Fa na dia ny tenan’izy voafora aza dia tsy mitandrina ny lalàna; kanefa tiany hoforana koa ianareo, mba hireharehany amin’ny nofonareo.",
+    "14": "Fa sanatria raha mba misy hataoko rehareha afa-tsy ny hazofijalian’i Jesosy Kristy Tompontsika, Izay nahavoahombo izao tontolo izao tamin’ny hazofijaliana raha ny amiko, ary izaho kosa, raha ny amin’izao tontolo izao.",
+    "15": "Fa ao amin’i Kristy Jesosy, dia tsy mahasoa na ny famorana na ny tsy famorana, fa ny ho olom-baovao.",
+    "16": "Ary fiadanana sy famindrampo anie ho amin’izay rehetra mandeha araka ity fitsipika ity, sy ho amin’ny Isiraelin’Andriamanitra.",
+    "17": "Amin’izao sisa izao, aoka tsy hisy hanahirana ahy intsony, fa mitondra ny marik’i Jesosy Tompo voatomboka eo amin’ny tenako aho.",
+    "18": "Ho amin’ny fanahinareo anie, ry rahalahy, ny fahasoavan’i Jesosy Kristy Tompontsika. Amena.(Nosoratana tany Roma ho an’ny Galatiana)."
+  }
 }

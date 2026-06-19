@@ -1,49 +1,17 @@
 {
+  "book": "Salamo",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Miktama nataon' i Davida.] TAHIRIZO aho, Andriamanitra ô, fa ianao no itokiako."
-    },
-    {
-      "v": 2,
-      "text": "\"Ry fanahiko, hoy ianao tamin' i Jehovah: Tompoko ianao; tsy misy soa ananako azo oharina aminao;\""
-    },
-    {
-      "v": 3,
-      "text": "Fa ny amin' ny olo-masina eto ambonin' ny tany sy ireo olona tsara laza no sitrako indrindra."
-    },
-    {
-      "v": 4,
-      "text": "\"Ho be ny fahorian' izay midodododo manaraka andriamani-kafa. Tsy mba hanatitra ny fanati-drany aidina aho; ary tsy mba hotononin' ny vavako ny anarany.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Jehovah no anjara lovako sy kapoakako; Ianao no mampaharitra ny anjarako.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ny voafaritra ho anjarako dia eo amin' ny tany mahafinaritra; eny, manan-dova tsara aho.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Hisaotra an' i Jehovah izay manome saina ahy aho; ary na mandritra ny alina aza dia mananatra ahy ny voako.\""
-    },
-    {
-      "v": 8,
-      "text": "Nataoko teo anatrehako mandrakariva Jehovah, satria eo ankavanako Izy, ka dia tsy hangozohozo aho."
-    },
-    {
-      "v": 9,
-      "text": "\"Izany no ifalian' ny foko sy iravoravoan' ny voninahitro; hitoetra amin' ny fanantenana ihany koa ny nofoko.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Fa tsy ho foinao ho any amin' ny helo ny fanahiko; tsy hamela ny Iray Masinao ho tratry ny fahalovana Ianao.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Hampahafantatra ahy ny lalan' aina Ianao; fahavokisam-pifaliana no eo anatrehanao, ary fahafinaretana no eo an-tananao ankavanana mandrakizay.\""
-    }
-  ]
+  "verses": {
+    "1": "[Miktama nataon' i Davida.] TAHIRIZO aho, Andriamanitra ô, fa ianao no itokiako.",
+    "2": "Ry fanahiko, hoy ianao tamin' i Jehovah: Tompoko ianao; tsy misy soa ananako azo oharina aminao;",
+    "3": "Fa ny amin' ny olo-masina eto ambonin' ny tany sy ireo olona tsara laza no sitrako indrindra.",
+    "4": "Ho be ny fahorian' izay midodododo manaraka andriamani-kafa. Tsy mba hanatitra ny fanati-drany aidina aho; ary tsy mba hotononin' ny vavako ny anarany.",
+    "5": "Jehovah no anjara lovako sy kapoakako; Ianao no mampaharitra ny anjarako.",
+    "6": "Ny voafaritra ho anjarako dia eo amin' ny tany mahafinaritra; eny, manan-dova tsara aho.",
+    "7": "Hisaotra an' i Jehovah izay manome saina ahy aho; ary na mandritra ny alina aza dia mananatra ahy ny voako.",
+    "8": "Nataoko teo anatrehako mandrakariva Jehovah, satria eo ankavanako Izy, ka dia tsy hangozohozo aho.",
+    "9": "Izany no ifalian' ny foko sy iravoravoan' ny voninahitro; hitoetra amin' ny fanantenana ihany koa ny nofoko.",
+    "10": "Fa tsy ho foinao ho any amin' ny helo ny fanahiko; tsy hamela ny Iray Masinao ho tratry ny fahalovana Ianao.",
+    "11": "Hampahafantatra ahy ny lalan' aina Ianao; fahavokisam-pifaliana no eo anatrehanao, ary fahafinaretana no eo an-tananao ankavanana mandrakizay."
+  }
 }

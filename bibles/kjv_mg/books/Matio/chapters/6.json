@@ -1,141 +1,40 @@
 {
+  "book": "Matio",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tandremo mba tsy hanao ny fiantranareo eo imason’ny olona ianareo hahitany izany, fa raha tsy izany, dia tsy manana valim-pitia amin’ny Rainareo Izay any an-danitra ianareo."
-    },
-    {
-      "v": 2,
-      "text": "Koa amin’izany, raha manao fiantrana ianao, aza mba mitsoka trompetra eo alohanao tahaka ny fanaon’ny mpihatsaravelatsihy eo amin’ny synagoga sy eny an-dalambe mba hankalazan’ny olona azy. Lazaiko aminareo marina tokoa fa efa azony ny valim-pitiany."
-    },
-    {
-      "v": 3,
-      "text": "Fa ianao kosa, raha manao fiantrana, dia aoka tsy ho fantatry ny tananao ankavia izay ataon’ny tananao ankavanana,"
-    },
-    {
-      "v": 4,
-      "text": "\"Mba hatao ao amin’ny mangingina ny fiantranao; ary ny Rainao, Izay mahita ao amin’ny mangingina no hamaly anao miharihary.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary raha mivavaka ianao, aza mba ho tahaka ny mpihatsaravelatsihy; fa tia ny mivavaka mitsangana eo amin’ny synagoga sy eo an-joron-dalana hahitan’ny olona azy izy. Lazaiko aminareo marina tokoa, fa efa azony ny valim-pitiany.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Fa ianao kosa raha mivavaka, dia midira ao amin’ny efitranonao, ka rehefa voarindrinao ny varavaranao, dia mivavaha amin’ny Rainao, izay ao amin’ny mangingina; ary ny Rainao, izay mahita ao amin’ny mangingina no hamaly anao miharihary.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa rehefa mivavaka ianareo, dia aza mba manao teny maro miverimberina tahaka ny jentilisa; fa ataony ho ny hamaroan’ny teniny no hihainoana azy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Koa aza manahaka azy ianareo; fa fantatry ny Rainareo izay tokony ho anareo, raha tsy mbola mangataka aminy aza ianareo.\""
-    },
-    {
-      "v": 9,
-      "text": "Koa amin’izany mivavaha toy izao ianareo: Rainay izay any an-danitra, Hohamasinina anie ny anaranao."
-    },
-    {
-      "v": 10,
-      "text": "Ho tonga anie ny fanjakanao. Hatao anie ny sitraponao ety an-tany tahaka ny any an-danitra."
-    },
-    {
-      "v": 11,
-      "text": "Omeo anay anio izay hanina sahaza ho anay."
-    },
-    {
-      "v": 12,
-      "text": "Ary mamelà ny trosanay tahaka ny namelanay izay mpitrosa taminay."
-    },
-    {
-      "v": 13,
-      "text": "Ary aza mitondra anay ho amin’ny fakampanahy, fa manafaha anay amin’ny ratsy. Fa Anao ny fanjakana sy ny hery ary ny voninahitra mandrakizay. Amena."
-    },
-    {
-      "v": 14,
-      "text": "\"Fa raha mamela ny fahadisoan’ny olona ianareo, dia mba hamela ny anareo kosa ny Rainareo Izay any an-danitra;\""
-    },
-    {
-      "v": 15,
-      "text": "Fa raha tsy mamela ny fahadisoan’ny olona ianareo, dia tsy hamela ny fahadisoanareo ny Rainareo."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary koa raha mifady hanina ianareo, aza mety ho tahaka ny mpihatsaravelatsihy, izay malahelo tarehy; fa mampisotisoty ny tavany izy mba ho hitan’ny olona fa mifady. Lazaiko aminareo marina tokoa fa efa azony ny valim-pitiany.\""
-    },
-    {
-      "v": 17,
-      "text": "Fa ianao kosa, raha mifady hanina, dia hosory ny lohanao, ary sasao ny tavanao,"
-    },
-    {
-      "v": 18,
-      "text": "\"Mba tsy ho hitan’ny olona fa mifady, fa ho hitan’ny Rainao, izay ao amin’ny mangingina; ary ny Rainao, izay mahita ao amin’ny mangingina, no hamaly anao miharihary.\""
-    },
-    {
-      "v": 19,
-      "text": "Aza mihary harena ho anareo ety an-tany, izay misy kalalao sy harafesina manimba, sady misy mpangalatra manamy trano sy mangalatra."
-    },
-    {
-      "v": 20,
-      "text": "Fa miharia harena ho anareo any an-danitra, izay tsy misy kalalao na harafesina manimba sady tsy misy mpangalatra manamy trano na mangalatra."
-    },
-    {
-      "v": 21,
-      "text": "Fa izay itoeran’ny tahirinareo, dia ho any koa ny fonareo."
-    },
-    {
-      "v": 22,
-      "text": "\"Ny maso no jiron’ny tena; koa amin’izany raha tsara ny masonao, dia hazava avokoa ny tenanao rehetra.\""
-    },
-    {
-      "v": 23,
-      "text": "Fa raha ratsy ny masonao, dia ho maizina avokoa ny tenanao rehetra: koa raha maizina ny fahazavana ao anatinao, manao ahoana ny halehiben’izany fahamaizinana izany!"
-    },
-    {
-      "v": 24,
-      "text": "\"Tsy misy olona mahay manompo tompo roa; fa ny anankiray ho halany, ary ny anankiray ho tiany; na ny anankiray hombany, ary ny anankiray hohamavoiny. Tsy mahay manompo an’Andriamanitra sy Mamôna ianareo.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary noho izany dia lazaiko aminareo hoe: Aza manahy ny amin’ny ainareo, dia izay hohaninareo na izay hosotroinareo, na ny amin’ny tenanareo, dia izay hotafinareo. Moa ny aina tsy mihoatra noho ny hanina va, ary ny tena noho ny fitafiana?"
-    },
-    {
-      "v": 26,
-      "text": "Tsinjovy ny voro-manidina eny amin' ny habakabaka, fa tsy mba mamafy, na mijinja, na mitaona ho any an-tsompitra ireny, nefa ny Rainareo Izay any an-danitra mamelona azy. Moa tsy mihoatra lavitra noho ireny va ianareo?"
-    },
-    {
-      "v": 27,
-      "text": "Ary iza ao aminareo, na dia manahy aza, no mahay manampy ny halavan’ny tenany, na dia hakiho iray monja aza?"
-    },
-    {
-      "v": 28,
-      "text": "\"Ary nahoana no manahy ny amin’ny fitafiana ianareo? Diniho tsara ny fanirin’ny lilia any an-tsaha; tsy mba miasa na mamoly ireny;\""
-    },
-    {
-      "v": 29,
-      "text": "Nefa lazaiko aminareo fa na dia Solomona tao amin’ny voninahiny rehetra aza tsy mba nitafy tahaka ny anankiray amin’ireny."
-    },
-    {
-      "v": 30,
-      "text": "Noho izany, raha ny ahitra any an-tsaha, izay any ihany anio ka hatsipy ao am-patana rahampitso, no ampitafin’Andriamanitra toy izany, tsy mainka va ianareo, ry kely finoana?"
-    },
-    {
-      "v": 31,
-      "text": "Dia aza manahy ianareo ka manao hoe: Inona no hohaninay? na, inona no hosotroinay? na, inona no hotafinay?"
-    },
-    {
-      "v": 32,
-      "text": "\"(Fa izany rehetra izany dia katsahin’ny jentilisa fatratra); fa fantatry ny Rainareo Izay any an-danitra fa tokony ho anareo izany rehetra izany.\""
-    },
-    {
-      "v": 33,
-      "text": "Nefa katsaho aloha ny fanjakan’Andriamanitra sy ny fahamarinany, dia hanampy ho anareo izany rehetra izany."
-    },
-    {
-      "v": 34,
-      "text": "\"Ary amin’izany dia aza manahy ny amin’ny ampitso ianareo; fa ny ampitso hanahy ny azy. Ampy ho an’ny andro ny ratsy miseho ao aminy.\""
-    }
-  ]
+  "verses": {
+    "1": "Tandremo mba tsy hanao ny fiantranareo eo imason’ny olona ianareo hahitany izany, fa raha tsy izany, dia tsy manana valim-pitia amin’ny Rainareo Izay any an-danitra ianareo.",
+    "2": "Koa amin’izany, raha manao fiantrana ianao, aza mba mitsoka trompetra eo alohanao tahaka ny fanaon’ny mpihatsaravelatsihy eo amin’ny synagoga sy eny an-dalambe mba hankalazan’ny olona azy. Lazaiko aminareo marina tokoa fa efa azony ny valim-pitiany.",
+    "3": "Fa ianao kosa, raha manao fiantrana, dia aoka tsy ho fantatry ny tananao ankavia izay ataon’ny tananao ankavanana,",
+    "4": "Mba hatao ao amin’ny mangingina ny fiantranao; ary ny Rainao, Izay mahita ao amin’ny mangingina no hamaly anao miharihary.",
+    "5": "Ary raha mivavaka ianao, aza mba ho tahaka ny mpihatsaravelatsihy; fa tia ny mivavaka mitsangana eo amin’ny synagoga sy eo an-joron-dalana hahitan’ny olona azy izy. Lazaiko aminareo marina tokoa, fa efa azony ny valim-pitiany.",
+    "6": "Fa ianao kosa raha mivavaka, dia midira ao amin’ny efitranonao, ka rehefa voarindrinao ny varavaranao, dia mivavaha amin’ny Rainao, izay ao amin’ny mangingina; ary ny Rainao, izay mahita ao amin’ny mangingina no hamaly anao miharihary.",
+    "7": "Fa rehefa mivavaka ianareo, dia aza mba manao teny maro miverimberina tahaka ny jentilisa; fa ataony ho ny hamaroan’ny teniny no hihainoana azy.",
+    "8": "Koa aza manahaka azy ianareo; fa fantatry ny Rainareo izay tokony ho anareo, raha tsy mbola mangataka aminy aza ianareo.",
+    "9": "Koa amin’izany mivavaha toy izao ianareo: Rainay izay any an-danitra, Hohamasinina anie ny anaranao.",
+    "10": "Ho tonga anie ny fanjakanao. Hatao anie ny sitraponao ety an-tany tahaka ny any an-danitra.",
+    "11": "Omeo anay anio izay hanina sahaza ho anay.",
+    "12": "Ary mamelà ny trosanay tahaka ny namelanay izay mpitrosa taminay.",
+    "13": "Ary aza mitondra anay ho amin’ny fakampanahy, fa manafaha anay amin’ny ratsy. Fa Anao ny fanjakana sy ny hery ary ny voninahitra mandrakizay. Amena.",
+    "14": "Fa raha mamela ny fahadisoan’ny olona ianareo, dia mba hamela ny anareo kosa ny Rainareo Izay any an-danitra;",
+    "15": "Fa raha tsy mamela ny fahadisoan’ny olona ianareo, dia tsy hamela ny fahadisoanareo ny Rainareo.",
+    "16": "Ary koa raha mifady hanina ianareo, aza mety ho tahaka ny mpihatsaravelatsihy, izay malahelo tarehy; fa mampisotisoty ny tavany izy mba ho hitan’ny olona fa mifady. Lazaiko aminareo marina tokoa fa efa azony ny valim-pitiany.",
+    "17": "Fa ianao kosa, raha mifady hanina, dia hosory ny lohanao, ary sasao ny tavanao,",
+    "18": "Mba tsy ho hitan’ny olona fa mifady, fa ho hitan’ny Rainao, izay ao amin’ny mangingina; ary ny Rainao, izay mahita ao amin’ny mangingina, no hamaly anao miharihary.",
+    "19": "Aza mihary harena ho anareo ety an-tany, izay misy kalalao sy harafesina manimba, sady misy mpangalatra manamy trano sy mangalatra.",
+    "20": "Fa miharia harena ho anareo any an-danitra, izay tsy misy kalalao na harafesina manimba sady tsy misy mpangalatra manamy trano na mangalatra.",
+    "21": "Fa izay itoeran’ny tahirinareo, dia ho any koa ny fonareo.",
+    "22": "Ny maso no jiron’ny tena; koa amin’izany raha tsara ny masonao, dia hazava avokoa ny tenanao rehetra.",
+    "23": "Fa raha ratsy ny masonao, dia ho maizina avokoa ny tenanao rehetra: koa raha maizina ny fahazavana ao anatinao, manao ahoana ny halehiben’izany fahamaizinana izany!",
+    "24": "Tsy misy olona mahay manompo tompo roa; fa ny anankiray ho halany, ary ny anankiray ho tiany; na ny anankiray hombany, ary ny anankiray hohamavoiny. Tsy mahay manompo an’Andriamanitra sy Mamôna ianareo.",
+    "25": "Ary noho izany dia lazaiko aminareo hoe: Aza manahy ny amin’ny ainareo, dia izay hohaninareo na izay hosotroinareo, na ny amin’ny tenanareo, dia izay hotafinareo. Moa ny aina tsy mihoatra noho ny hanina va, ary ny tena noho ny fitafiana?",
+    "26": "Tsinjovy ny voro-manidina eny amin' ny habakabaka, fa tsy mba mamafy, na mijinja, na mitaona ho any an-tsompitra ireny, nefa ny Rainareo Izay any an-danitra mamelona azy. Moa tsy mihoatra lavitra noho ireny va ianareo?",
+    "27": "Ary iza ao aminareo, na dia manahy aza, no mahay manampy ny halavan’ny tenany, na dia hakiho iray monja aza?",
+    "28": "Ary nahoana no manahy ny amin’ny fitafiana ianareo? Diniho tsara ny fanirin’ny lilia any an-tsaha; tsy mba miasa na mamoly ireny;",
+    "29": "Nefa lazaiko aminareo fa na dia Solomona tao amin’ny voninahiny rehetra aza tsy mba nitafy tahaka ny anankiray amin’ireny.",
+    "30": "Noho izany, raha ny ahitra any an-tsaha, izay any ihany anio ka hatsipy ao am-patana rahampitso, no ampitafin’Andriamanitra toy izany, tsy mainka va ianareo, ry kely finoana?",
+    "31": "Dia aza manahy ianareo ka manao hoe: Inona no hohaninay? na, inona no hosotroinay? na, inona no hotafinay?",
+    "32": "(Fa izany rehetra izany dia katsahin’ny jentilisa fatratra); fa fantatry ny Rainareo Izay any an-danitra fa tokony ho anareo izany rehetra izany.",
+    "33": "Nefa katsaho aloha ny fanjakan’Andriamanitra sy ny fahamarinany, dia hanampy ho anareo izany rehetra izany.",
+    "34": "Ary amin’izany dia aza manahy ny amin’ny ampitso ianareo; fa ny ampitso hanahy ny azy. Ampy ho an’ny andro ny ratsy miseho ao aminy."
+  }
 }

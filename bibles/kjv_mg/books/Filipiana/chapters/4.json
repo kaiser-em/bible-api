@@ -1,97 +1,29 @@
 {
+  "book": "Filipiana",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary amin’izany, ry rahalahiko sady malalako indrindra no mahamanina ahy, fifaliako sy satroboninahitro, tomoera tsara ao amin’ny Tompo ianareo, ry malalako indrindra."
-    },
-    {
-      "v": 2,
-      "text": "Miangavy an’i Eodia aho, ary miangavy an’i Syntike, mba hiray saina ao amin’ny Tompo izy ireo."
-    },
-    {
-      "v": 3,
-      "text": "Eny, mangataka aminao koa aho, ry ilay tena mpiara-miory amiko, manampia azy roa vavy, fa niara-niasa fatratra tamiko teo amin’ny filazantsara izy, mbamin’i Klementa koa sy ny mpiara-miasa amiko sisa, izay voasoratra ao amin’ny bokin’ny fiainana ny anarany."
-    },
-    {
-      "v": 4,
-      "text": "\"Mifalia mandrakariva amin’ny Tompo; hoy aho indray: Mifalia.\""
-    },
-    {
-      "v": 5,
-      "text": "Aoka ho fantatry ny olona rehetra ny fahononan-tenanareo. Efa mby akaiky ny Tompo."
-    },
-    {
-      "v": 6,
-      "text": "\"Aza manahy na inona na inona; fa aoka ny fivavahana sy ny fifonana mbamin’ny fisaorana no hoentinareo mampahafantatra ny fangatahanareo amin’Andriamanitra amin’ny zavatra rehetra.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary ny fiadanan’Andriamanitra, izay mihoatra noho ny fahalalana rehetra, hiaro ny fonareo sy ny hevitrareo ao amin’i Kristy Jesosy."
-    },
-    {
-      "v": 8,
-      "text": "Farany, ry rahalahy, na inona na inona marina, na inona na inona manankaja, na inona na inona mahitsy, na inona na inona madio, na inona na inona maha-te-ho tia, na inona na inona tsara laza, raha misy hatsaram-panahy, ary raha misy dera, dia hevero izany zavatra izany."
-    },
-    {
-      "v": 9,
-      "text": "\"Ataovy izay efa nianaranareo sy efa noraisinareo ary efa renareo sy efa hitanareo tamiko; ary ho aminareo ny Andriamanitry ny fiadanana.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary faly indrindra ao amin’ny Tompo aho, satria nampitsimohinareo indray ankehitriny ny fiheverana ahy, izay efa noheverinareo rahateo, saingy tsy mbola nahita andro hanaovana ianareo."
-    },
-    {
-      "v": 11,
-      "text": "Tsy filàn-javatra anefa no anaovako izany, fa efa nianatra ny miànina aho na manao ahoana na manao ahoana toerana misy ahy."
-    },
-    {
-      "v": 12,
-      "text": "\"Mahalala hietry aho ary mahalala hitombo; na aiza na aiza, ary na amin’inona na amin’inona, dia efa nampianarina ny ho voky sy ho noana aho ary hanam-be sy hiaritra tsy fisiana.\""
-    },
-    {
-      "v": 13,
-      "text": "Mahay ny zavatra rehetra aho amin’ny alalan’i Kristy izay mampahery ahy."
-    },
-    {
-      "v": 14,
-      "text": "Kanefa nanao soa ianareo no niaraka ory tamiko."
-    },
-    {
-      "v": 15,
-      "text": "Ary fantatrareo koa, ry Filipiana, fa tamin’ny niandohan’ny filazantsara, rehefa niala tany Masedonia aho, tsy nisy fiangonana nanan-draharaha tamiko ny amin’ny fanomezana sy ny fandraisana, afa-tsy ianareo ihany."
-    },
-    {
-      "v": 16,
-      "text": "Fa fony tany Tesalonika aza aho, dia nampanatitra ho ahy indray mandeha amana indroa ianareo hanome izay nilaiko."
-    },
-    {
-      "v": 17,
-      "text": "\"Nefa tsy toy ny mitady ny fanomezana no ilazako izany; fa mitady ny vokatra izay hitombo ho anareo.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Fa manana ny zavatra rehetra aho, sady manana amby ampy aza; feno aho, rehefa nandray tamin’i Epafrodito ireo zavatra nampitondrainareo, dia hanitra ankasitrahana, fanatitra tian’Andriamanitra sady ankasitrahany.\""
-    },
-    {
-      "v": 19,
-      "text": "Fa Andriamanitro hahatanteraka izay rehetra ilainareo araka ny hareny amin’ny voninahitra ao amin’i  Kristy Jesosy."
-    },
-    {
-      "v": 20,
-      "text": "Ary ho an’Andriamanitra sady Raintsika anie ny voninahitra mandrakizay mandrakizay. Amena."
-    },
-    {
-      "v": 21,
-      "text": "Manaova veloma ny olona masina rehetra ao amin’i Kristy Jesosy. Manao veloma anareo ny rahalahy izay aty amiko."
-    },
-    {
-      "v": 22,
-      "text": "Manao veloma anareo ny olona masina rehetra, indrindra fa ny ankohonan’i Kaisara."
-    },
-    {
-      "v": 23,
-      "text": "Ho aminareo rehetra anie ny fahasoavan’i Jesosy Kristy Tompontsika. Amena. (Nosoratan’i Epafrodito tany Roma ho an’ny Filipiana ity epistily ity)."
-    }
-  ]
+  "verses": {
+    "1": "Ary amin’izany, ry rahalahiko sady malalako indrindra no mahamanina ahy, fifaliako sy satroboninahitro, tomoera tsara ao amin’ny Tompo ianareo, ry malalako indrindra.",
+    "2": "Miangavy an’i Eodia aho, ary miangavy an’i Syntike, mba hiray saina ao amin’ny Tompo izy ireo.",
+    "3": "Eny, mangataka aminao koa aho, ry ilay tena mpiara-miory amiko, manampia azy roa vavy, fa niara-niasa fatratra tamiko teo amin’ny filazantsara izy, mbamin’i Klementa koa sy ny mpiara-miasa amiko sisa, izay voasoratra ao amin’ny bokin’ny fiainana ny anarany.",
+    "4": "Mifalia mandrakariva amin’ny Tompo; hoy aho indray: Mifalia.",
+    "5": "Aoka ho fantatry ny olona rehetra ny fahononan-tenanareo. Efa mby akaiky ny Tompo.",
+    "6": "Aza manahy na inona na inona; fa aoka ny fivavahana sy ny fifonana mbamin’ny fisaorana no hoentinareo mampahafantatra ny fangatahanareo amin’Andriamanitra amin’ny zavatra rehetra.",
+    "7": "Ary ny fiadanan’Andriamanitra, izay mihoatra noho ny fahalalana rehetra, hiaro ny fonareo sy ny hevitrareo ao amin’i Kristy Jesosy.",
+    "8": "Farany, ry rahalahy, na inona na inona marina, na inona na inona manankaja, na inona na inona mahitsy, na inona na inona madio, na inona na inona maha-te-ho tia, na inona na inona tsara laza, raha misy hatsaram-panahy, ary raha misy dera, dia hevero izany zavatra izany.",
+    "9": "Ataovy izay efa nianaranareo sy efa noraisinareo ary efa renareo sy efa hitanareo tamiko; ary ho aminareo ny Andriamanitry ny fiadanana.",
+    "10": "Ary faly indrindra ao amin’ny Tompo aho, satria nampitsimohinareo indray ankehitriny ny fiheverana ahy, izay efa noheverinareo rahateo, saingy tsy mbola nahita andro hanaovana ianareo.",
+    "11": "Tsy filàn-javatra anefa no anaovako izany, fa efa nianatra ny miànina aho na manao ahoana na manao ahoana toerana misy ahy.",
+    "12": "Mahalala hietry aho ary mahalala hitombo; na aiza na aiza, ary na amin’inona na amin’inona, dia efa nampianarina ny ho voky sy ho noana aho ary hanam-be sy hiaritra tsy fisiana.",
+    "13": "Mahay ny zavatra rehetra aho amin’ny alalan’i Kristy izay mampahery ahy.",
+    "14": "Kanefa nanao soa ianareo no niaraka ory tamiko.",
+    "15": "Ary fantatrareo koa, ry Filipiana, fa tamin’ny niandohan’ny filazantsara, rehefa niala tany Masedonia aho, tsy nisy fiangonana nanan-draharaha tamiko ny amin’ny fanomezana sy ny fandraisana, afa-tsy ianareo ihany.",
+    "16": "Fa fony tany Tesalonika aza aho, dia nampanatitra ho ahy indray mandeha amana indroa ianareo hanome izay nilaiko.",
+    "17": "Nefa tsy toy ny mitady ny fanomezana no ilazako izany; fa mitady ny vokatra izay hitombo ho anareo.",
+    "18": "Fa manana ny zavatra rehetra aho, sady manana amby ampy aza; feno aho, rehefa nandray tamin’i Epafrodito ireo zavatra nampitondrainareo, dia hanitra ankasitrahana, fanatitra tian’Andriamanitra sady ankasitrahany.",
+    "19": "Fa Andriamanitro hahatanteraka izay rehetra ilainareo araka ny hareny amin’ny voninahitra ao amin’i  Kristy Jesosy.",
+    "20": "Ary ho an’Andriamanitra sady Raintsika anie ny voninahitra mandrakizay mandrakizay. Amena.",
+    "21": "Manaova veloma ny olona masina rehetra ao amin’i Kristy Jesosy. Manao veloma anareo ny rahalahy izay aty amiko.",
+    "22": "Manao veloma anareo ny olona masina rehetra, indrindra fa ny ankohonan’i Kaisara.",
+    "23": "Ho aminareo rehetra anie ny fahasoavan’i Jesosy Kristy Tompontsika. Amena. (Nosoratan’i Epafrodito tany Roma ho an’ny Filipiana ity epistily ity)."
+  }
 }

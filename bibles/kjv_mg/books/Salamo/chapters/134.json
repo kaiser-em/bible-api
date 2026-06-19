@@ -1,17 +1,9 @@
 {
+  "book": "Salamo",
   "chapter": 134,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Hira misy hevitra ambaratonga.] INDRO, misaora an' i Jehovah, ianareo rehetra mpanompon' i Jehovah, izay mitoetra alina ao an-tranon' i Jehovah."
-    },
-    {
-      "v": 2,
-      "text": "Manandrata ny tananareo ao amin' ny fitoerana masina ka misaora an' i Jehovah."
-    },
-    {
-      "v": 3,
-      "text": "Hitahy anao avy ao Ziona anie Jehovah, Mpanao ny lanitra sy ny tany."
-    }
-  ]
+  "verses": {
+    "1": "[Hira misy hevitra ambaratonga.] INDRO, misaora an' i Jehovah, ianareo rehetra mpanompon' i Jehovah, izay mitoetra alina ao an-tranon' i Jehovah.",
+    "2": "Manandrata ny tananareo ao amin' ny fitoerana masina ka misaora an' i Jehovah.",
+    "3": "Hitahy anao avy ao Ziona anie Jehovah, Mpanao ny lanitra sy ny tany."
+  }
 }

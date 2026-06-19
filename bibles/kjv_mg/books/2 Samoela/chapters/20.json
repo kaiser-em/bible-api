@@ -1,109 +1,32 @@
 {
+  "book": "2 Samoela",
   "chapter": 20,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary sendra nisy lehilahy zanak' i Beliala teo, Seba no anarany, zanak' i Bikry, Benjamita, ary nitsoka anjomara izy sady niteny hoe: Tsy manana anjara amin' i Davida isika, na lova amin' ny zanak' i Jese: Samia mody any amin' ny lainy avy, ry Isiraely ô."
-    },
-    {
-      "v": 2,
-      "text": "\"Ka dia samy niara-nandao an' i Davida ny lehilahy amin' ny Isiraely ka nanaraka an' i Seba, zanak' i Bikry; fa ny lehilahy tamin' ny Joda no nifikitra tamin' ny mpanjaka hatrany Jordana ka hatrany Jerosalema.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary tonga tao an-tranony tany Jerosalema Davida; dia nalain' ny mpanjaka ny vaditsindranony folo vavy izay navelany hiandry trano tao, ka nataony tao an-trano fiambenana, ary nomeny fivelomana, fa tsy nandriany intsony. Ka dia nambenana tao mandra-pahafatiny ireo ka velona tsy nanambady intsony.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary hoy ny mpanjaka tamin' i Amasa: Vorio ny lehilahy amin' ny Joda ho eto amiko anatin' ny hateloana, ary aoka mba ho eto koa ny tenanao."
-    },
-    {
-      "v": 5,
-      "text": "Ary dia lasa Amasa namory ny lehilahy amin' ny Joda, fa nandiso ny fotoan' andro nomeny azy izy."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary hoy Davida tamin' i Abisay: Ankehitriny izao dia Seba, zanak' i Bikry, no ahitantsika loza mihoatra noho Absaloma; koa ento ny mpanompon' ny tomponao, ka enjeho izy, fandrao mahazo tanàna mimanda ka tsy ho azontsika.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary dia nivoaka hanenjika azy ny olon' i Joaba sy ny Keretita sy ny Peletita ary ny lehilahy mahery rehetra; dia nivoaka avy tany Jerosalema ireo hanenjika an' i Seba, zanak' i Bikry.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Fa nony tonga tao amin' ilay vato lehibe tao Gibeona izy, dia avy Amasa nitsena azy. Ary ny akanjo fiadian' i Joaba, ilay niakanjoany, dia nofehezina taminy, ary teo amboniny teo am-balahany no nisy ny fehin-tsabany mbamin' ny tranony; ary nony nandeha izy, dia latsaka ny sabany.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary hoy Joaba tamin' i Amasa: Tsara ihany va ianao, ry rahalahy? Dia noraisin' i Joaba tamin' ny tanany ankavanana ny somotr' i Amasa horohany."
-    },
-    {
-      "v": 10,
-      "text": "Fa Amasa tsy nanahinahy ny sabatra teny an-tanan' i Joaba, kanjo nasiany teo amin' ny taolan-tehezany fahadimy izy, ka navarorany tamin' ny tany ny tsinainy, ary tsy nasiany intsony, fa dia maty. Ary Joaba sy Abisay rahalahiny nanenjika an' i Seba, zanak' i Bikry."
-    },
-    {
-      "v": 11,
-      "text": "Ary ny zatovon' i Joaba anankiray nijanona teo anilan' ny faty ka nanao hoe: Izay miandany amin' i Joaba sy Davida dia aoka hanaraka an' i Joaba."
-    },
-    {
-      "v": 12,
-      "text": "Ary Amasa nihosin-drà teo anaty lalambe. Ary raha hitan-dralehilahy fa nijanona ny olona rehetra, dia nafindrany niala teo amin' ny lalambe ho any an-tsaha ny fatin' i Amasa ka nosaronany lamba, nony hitany fa nijanona izay rehetra mandalo azy."
-    },
-    {
-      "v": 13,
-      "text": "Ary nony nafindrany niala teo amin' ny lalambe izy, dia nizotra nanaraka an' i Joaba ny olona rehetra hanenjika an' i Seba, zanak' i Bikry."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary nandeha namaky ireo foko rehetra tamin' ny Isiraely izy, hatrany Abela sy Beti-maka sy ny an' ny Berita rehetra; ary nivory ireo, ka dia mba lasa nanaraka azy.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary dia tonga izy ka nanao fahirano azy teo Abela any Beti-maka, ary nanandratra tovon-tany tandrifin' ny tanàna izy, ka teo ivelany manolotra ny manda no nitoerany; ary ny olona izay nomba an' i Joaba dia namely ny manda mba handrodanany azy.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary nisy vehivavy hendry tao an-tanàna niantso hoe: Mihainoa, mihainoa, masìna ianareo lazao amin' i Joaba hoe: Mankanesa aty mba hitenenako aminao."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary nony efa mby teo akaikiny izy dia hoy ravehivavy: Ianao va no Joaba? Dia namaly izy hoe: Izaho no izy; ary hoy ravehivavy taminy: Henoy ny tenin' ny mpanompovavinao. Dia namaly izy hoe: Mihaino aho.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary niteny ravehivavy nanao hoe: Izao no fitenin' ny olona taloha: Aoka hanadina ao Abela tokoa izy; ary araka izany no hahavitany ny raharaha.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Izaho dia isan' ny tia fihavanana sady mahatoky eto amin' ny Isiraely; fa ianao kosa mitady handrava tanàna sy renivohitra eto amin' ny Isiraely, koa nahoana no hamongoranao ny lovan' i  Jehovah?\""
-    },
-    {
-      "v": 20,
-      "text": "Ary Joaba namaly hoe: Sanatria dia sanatria amiko ny handevona sy handringana."
-    },
-    {
-      "v": 21,
-      "text": "Tsy izany tsy akory, fa misy lehilahy avy any an-tendrombohitr' i Efraima, Seba no anarany, zanak' i Bikry, izay nanainga tanana hikomy amin' ny mpanjaka, dia Davida, koa izy ihany no atolory, dia hiala amin' ny tanàna aho. Ary hoy ravehivavy tamin' i Joaba: Indro ny lohany hatsipy eny aminao eny ankoatry ny manda."
-    },
-    {
-      "v": 22,
-      "text": "Dia lasa nanatona ny olona rehetra tamin' ny fahendreny ravehivavy. Dia notapahin' ireo ny lohan' i Seba, zanak' i Bikry, ka natsipiny teny amin' i Joaba. Ary nitsoka ny anjomara Joaba, ka dia niala tamin' ny tanàna ny olona samy ho any amin' ny lainy avy. Ary Joaba niverina nankany Jerosalema ho any amin' ny mpanjaka."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary Joaba no komandin' ny miaramila rehetra tamin' ny Isiraely; ary Benaia, zanak' i Joiada, no mpifehy ny Keretita sy ny Peletita.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary Adorama no mpiadidy ny hetra, ary Josafata, zanak' i Ahiloda no mpitadidy ny raharaham-panjakana;\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ary Seva no mpanoratra; ary Zadoka sy Abiatara no mpisorona;\""
-    },
-    {
-      "v": 26,
-      "text": "Ary Ira Jairita kosa no lehiben' ny mpanapaka teo amin' i Davida."
-    }
-  ]
+  "verses": {
+    "1": "Ary sendra nisy lehilahy zanak' i Beliala teo, Seba no anarany, zanak' i Bikry, Benjamita, ary nitsoka anjomara izy sady niteny hoe: Tsy manana anjara amin' i Davida isika, na lova amin' ny zanak' i Jese: Samia mody any amin' ny lainy avy, ry Isiraely ô.",
+    "2": "Ka dia samy niara-nandao an' i Davida ny lehilahy amin' ny Isiraely ka nanaraka an' i Seba, zanak' i Bikry; fa ny lehilahy tamin' ny Joda no nifikitra tamin' ny mpanjaka hatrany Jordana ka hatrany Jerosalema.",
+    "3": "Ary tonga tao an-tranony tany Jerosalema Davida; dia nalain' ny mpanjaka ny vaditsindranony folo vavy izay navelany hiandry trano tao, ka nataony tao an-trano fiambenana, ary nomeny fivelomana, fa tsy nandriany intsony. Ka dia nambenana tao mandra-pahafatiny ireo ka velona tsy nanambady intsony.",
+    "4": "Ary hoy ny mpanjaka tamin' i Amasa: Vorio ny lehilahy amin' ny Joda ho eto amiko anatin' ny hateloana, ary aoka mba ho eto koa ny tenanao.",
+    "5": "Ary dia lasa Amasa namory ny lehilahy amin' ny Joda, fa nandiso ny fotoan' andro nomeny azy izy.",
+    "6": "Ary hoy Davida tamin' i Abisay: Ankehitriny izao dia Seba, zanak' i Bikry, no ahitantsika loza mihoatra noho Absaloma; koa ento ny mpanompon' ny tomponao, ka enjeho izy, fandrao mahazo tanàna mimanda ka tsy ho azontsika.",
+    "7": "Ary dia nivoaka hanenjika azy ny olon' i Joaba sy ny Keretita sy ny Peletita ary ny lehilahy mahery rehetra; dia nivoaka avy tany Jerosalema ireo hanenjika an' i Seba, zanak' i Bikry.",
+    "8": "Fa nony tonga tao amin' ilay vato lehibe tao Gibeona izy, dia avy Amasa nitsena azy. Ary ny akanjo fiadian' i Joaba, ilay niakanjoany, dia nofehezina taminy, ary teo amboniny teo am-balahany no nisy ny fehin-tsabany mbamin' ny tranony; ary nony nandeha izy, dia latsaka ny sabany.",
+    "9": "Ary hoy Joaba tamin' i Amasa: Tsara ihany va ianao, ry rahalahy? Dia noraisin' i Joaba tamin' ny tanany ankavanana ny somotr' i Amasa horohany.",
+    "10": "Fa Amasa tsy nanahinahy ny sabatra teny an-tanan' i Joaba, kanjo nasiany teo amin' ny taolan-tehezany fahadimy izy, ka navarorany tamin' ny tany ny tsinainy, ary tsy nasiany intsony, fa dia maty. Ary Joaba sy Abisay rahalahiny nanenjika an' i Seba, zanak' i Bikry.",
+    "11": "Ary ny zatovon' i Joaba anankiray nijanona teo anilan' ny faty ka nanao hoe: Izay miandany amin' i Joaba sy Davida dia aoka hanaraka an' i Joaba.",
+    "12": "Ary Amasa nihosin-drà teo anaty lalambe. Ary raha hitan-dralehilahy fa nijanona ny olona rehetra, dia nafindrany niala teo amin' ny lalambe ho any an-tsaha ny fatin' i Amasa ka nosaronany lamba, nony hitany fa nijanona izay rehetra mandalo azy.",
+    "13": "Ary nony nafindrany niala teo amin' ny lalambe izy, dia nizotra nanaraka an' i Joaba ny olona rehetra hanenjika an' i Seba, zanak' i Bikry.",
+    "14": "Ary nandeha namaky ireo foko rehetra tamin' ny Isiraely izy, hatrany Abela sy Beti-maka sy ny an' ny Berita rehetra; ary nivory ireo, ka dia mba lasa nanaraka azy.",
+    "15": "Ary dia tonga izy ka nanao fahirano azy teo Abela any Beti-maka, ary nanandratra tovon-tany tandrifin' ny tanàna izy, ka teo ivelany manolotra ny manda no nitoerany; ary ny olona izay nomba an' i Joaba dia namely ny manda mba handrodanany azy.",
+    "16": "Ary nisy vehivavy hendry tao an-tanàna niantso hoe: Mihainoa, mihainoa, masìna ianareo lazao amin' i Joaba hoe: Mankanesa aty mba hitenenako aminao.",
+    "17": "Ary nony efa mby teo akaikiny izy dia hoy ravehivavy: Ianao va no Joaba? Dia namaly izy hoe: Izaho no izy; ary hoy ravehivavy taminy: Henoy ny tenin' ny mpanompovavinao. Dia namaly izy hoe: Mihaino aho.",
+    "18": "Ary niteny ravehivavy nanao hoe: Izao no fitenin' ny olona taloha: Aoka hanadina ao Abela tokoa izy; ary araka izany no hahavitany ny raharaha.",
+    "19": "Izaho dia isan' ny tia fihavanana sady mahatoky eto amin' ny Isiraely; fa ianao kosa mitady handrava tanàna sy renivohitra eto amin' ny Isiraely, koa nahoana no hamongoranao ny lovan' i  Jehovah?",
+    "20": "Ary Joaba namaly hoe: Sanatria dia sanatria amiko ny handevona sy handringana.",
+    "21": "Tsy izany tsy akory, fa misy lehilahy avy any an-tendrombohitr' i Efraima, Seba no anarany, zanak' i Bikry, izay nanainga tanana hikomy amin' ny mpanjaka, dia Davida, koa izy ihany no atolory, dia hiala amin' ny tanàna aho. Ary hoy ravehivavy tamin' i Joaba: Indro ny lohany hatsipy eny aminao eny ankoatry ny manda.",
+    "22": "Dia lasa nanatona ny olona rehetra tamin' ny fahendreny ravehivavy. Dia notapahin' ireo ny lohan' i Seba, zanak' i Bikry, ka natsipiny teny amin' i Joaba. Ary nitsoka ny anjomara Joaba, ka dia niala tamin' ny tanàna ny olona samy ho any amin' ny lainy avy. Ary Joaba niverina nankany Jerosalema ho any amin' ny mpanjaka.",
+    "23": "Ary Joaba no komandin' ny miaramila rehetra tamin' ny Isiraely; ary Benaia, zanak' i Joiada, no mpifehy ny Keretita sy ny Peletita.",
+    "24": "Ary Adorama no mpiadidy ny hetra, ary Josafata, zanak' i Ahiloda no mpitadidy ny raharaham-panjakana;",
+    "25": "Ary Seva no mpanoratra; ary Zadoka sy Abiatara no mpisorona;",
+    "26": "Ary Ira Jairita kosa no lehiben' ny mpanapaka teo amin' i Davida."
+  }
 }

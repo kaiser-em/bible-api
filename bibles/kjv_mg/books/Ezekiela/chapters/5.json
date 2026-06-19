@@ -1,73 +1,23 @@
 {
+  "book": "Ezekiela",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary ianao, ry zanak' olona, makà antsy maranitra ho anao, makà harezan' ny mpanety ho anao, ka anarato ny lohanao sy ny somotrao izany, dia makà mizàna fandanjana ho anao ka zarao ny volo."
-    },
-    {
-      "v": 2,
-      "text": "\"Ny ampahatelony dia dory amin' ny afo ao afovoan' ny tanàna rehefa tapitra ny andron' ny fahirano; ary alao ny ampahatelony ka asio ny antsy manodidina; ary ny ampahatelony dia haelezo ho amin' ny rivotra; ary hanatsoaka sabatra hoenti-manenjika azy Aho.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary hanalao vitsivitsy koa ireo, ka fonosy ao amin' ny akanjonao."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary ireny indray dia mbola analao koa, dia atsipazo eo anaty afo izany, ka dory eo amin' ny afo; fa hisy afo hivoaka avy aminy ho amin' ny taranak' Isiraely rehetra.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Izao no lazain' i Jehovah Andriamanitra: Ity no Jerosalema; nataoko eo afovoan' ny firenena maro sy tanàna maro manodidina azy izy.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary izy efa nanova ny didiko ho amin' ny faharatsiana mihoatra noho ireo firenena maro, sy ny fitsipiko mihoatra noho ireo tanàna maro manodidina azy; fa efa nandà ny didiko sy ny fitsipiko izy ka tsy nandeha araka izany.\""
-    },
-    {
-      "v": 7,
-      "text": "Koa izao no lazain' i Jehovah Tompo: satria ianareo nitombo mihoatra noho ireo firenena manodidina anareo, ka tsy nandeha araka ny fitsipiko, na nitandrina ny didiko, na koa nanao araka ny didin' ireo firenena manodidina anareo,"
-    },
-    {
-      "v": 8,
-      "text": "Dia izao no lazain' i Jehovah Tompo: Indro, Izaho dia Izaho no mamely anao ka hanao fitsarana eo aminao eo imason' ny firenena."
-    },
-    {
-      "v": 9,
-      "text": "Ary noho ny fahavetavetanao rehetra dia hataoko aminao izay tsy mbola nataoko sady tsy hataoko tahaka izany intsony."
-    },
-    {
-      "v": 10,
-      "text": "\"Koa ny ray dia hihinana ny zanany eo aminao, ary ny zanaka kosa hihinana ny rainy; ary hanao fitsarana eo aminao Aho ary izay sisa rehetra aminao dia haeliko ho amin' ny rivotra rehetra;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Koa raha velona koa Aho, hoy Jehovah Tompo, noho ny nandotoanao ny fitoerako masina tamin' ny zava-dratsinao rehetra sy tamin' ny fahavetavetanao rehetra, dia hahavitsy anao koa Aho; tsy hiantra ny masoko no sady tsy hanana antra Aho.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ny ampahatelony eo aminao dia ho fatin' ny areti-mandringana sy ho ringan' ny mosary eo aminao; ary ny ampahatelony dia ho lavon' ny sabatra manodidina anao; ary ny ampahatelony dia haeliko ho amin' ny rivotra rehetra; ary hanatsoaka sabatra hoentiko manenjika azy Aho.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ho tanteraka amin' izany ny fahatezerako sady hampariko aminy ny fahatezerako ka hialako fo izy; dia ho fantany fa Izaho Jehovah no niteny izany tamin' ny fahasaro-piaroko rehefa notanterahiko taminy ny fahatezerako.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary koa, hataoko lao sy fandatsa eny amin' ny firenena izay manodidina anao ianao eo imason' izay rehetra mandalo,"
-    },
-    {
-      "v": 15,
-      "text": "Ka dia ho latsa sy fitenenan-dratsy sy famaizana sy figagàna amin' ny firenena maro manodidina anao, rehefa hanao fitsarana aminao Aho amin' ny fahatezerana sy ny fahavinirana avy amin' ny fananarana mafy.Izaho Jehovah no niteny izany."
-    },
-    {
-      "v": 16,
-      "text": "\"Raha halefako eo aminy ny zana-tsipìka ratsin' ny mosary izay ho fandringanana azy sy halefako handringana anareo sady hampitomboiko ny mosary eo aminareo ka hotapahiko ny mofonareo, izay tohan' aina;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Dia haterako mosary sy biby masiaka eo aminareo, izay hahalany fara anareo; ary handroso eo aminao ny areti-mandringana sy ny fandatsahan-drà ary hataoko mihatra aminao ny sabatra.izaho Jehovah no niteny izany.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary ianao, ry zanak' olona, makà antsy maranitra ho anao, makà harezan' ny mpanety ho anao, ka anarato ny lohanao sy ny somotrao izany, dia makà mizàna fandanjana ho anao ka zarao ny volo.",
+    "2": "Ny ampahatelony dia dory amin' ny afo ao afovoan' ny tanàna rehefa tapitra ny andron' ny fahirano; ary alao ny ampahatelony ka asio ny antsy manodidina; ary ny ampahatelony dia haelezo ho amin' ny rivotra; ary hanatsoaka sabatra hoenti-manenjika azy Aho.",
+    "3": "Ary hanalao vitsivitsy koa ireo, ka fonosy ao amin' ny akanjonao.",
+    "4": "Ary ireny indray dia mbola analao koa, dia atsipazo eo anaty afo izany, ka dory eo amin' ny afo; fa hisy afo hivoaka avy aminy ho amin' ny taranak' Isiraely rehetra.",
+    "5": "Izao no lazain' i Jehovah Andriamanitra: Ity no Jerosalema; nataoko eo afovoan' ny firenena maro sy tanàna maro manodidina azy izy.",
+    "6": "Ary izy efa nanova ny didiko ho amin' ny faharatsiana mihoatra noho ireo firenena maro, sy ny fitsipiko mihoatra noho ireo tanàna maro manodidina azy; fa efa nandà ny didiko sy ny fitsipiko izy ka tsy nandeha araka izany.",
+    "7": "Koa izao no lazain' i Jehovah Tompo: satria ianareo nitombo mihoatra noho ireo firenena manodidina anareo, ka tsy nandeha araka ny fitsipiko, na nitandrina ny didiko, na koa nanao araka ny didin' ireo firenena manodidina anareo,",
+    "8": "Dia izao no lazain' i Jehovah Tompo: Indro, Izaho dia Izaho no mamely anao ka hanao fitsarana eo aminao eo imason' ny firenena.",
+    "9": "Ary noho ny fahavetavetanao rehetra dia hataoko aminao izay tsy mbola nataoko sady tsy hataoko tahaka izany intsony.",
+    "10": "Koa ny ray dia hihinana ny zanany eo aminao, ary ny zanaka kosa hihinana ny rainy; ary hanao fitsarana eo aminao Aho ary izay sisa rehetra aminao dia haeliko ho amin' ny rivotra rehetra;",
+    "11": "Koa raha velona koa Aho, hoy Jehovah Tompo, noho ny nandotoanao ny fitoerako masina tamin' ny zava-dratsinao rehetra sy tamin' ny fahavetavetanao rehetra, dia hahavitsy anao koa Aho; tsy hiantra ny masoko no sady tsy hanana antra Aho.",
+    "12": "Ny ampahatelony eo aminao dia ho fatin' ny areti-mandringana sy ho ringan' ny mosary eo aminao; ary ny ampahatelony dia ho lavon' ny sabatra manodidina anao; ary ny ampahatelony dia haeliko ho amin' ny rivotra rehetra; ary hanatsoaka sabatra hoentiko manenjika azy Aho.",
+    "13": "Ary ho tanteraka amin' izany ny fahatezerako sady hampariko aminy ny fahatezerako ka hialako fo izy; dia ho fantany fa Izaho Jehovah no niteny izany tamin' ny fahasaro-piaroko rehefa notanterahiko taminy ny fahatezerako.",
+    "14": "Ary koa, hataoko lao sy fandatsa eny amin' ny firenena izay manodidina anao ianao eo imason' izay rehetra mandalo,",
+    "15": "Ka dia ho latsa sy fitenenan-dratsy sy famaizana sy figagàna amin' ny firenena maro manodidina anao, rehefa hanao fitsarana aminao Aho amin' ny fahatezerana sy ny fahavinirana avy amin' ny fananarana mafy.Izaho Jehovah no niteny izany.",
+    "16": "Raha halefako eo aminy ny zana-tsipìka ratsin' ny mosary izay ho fandringanana azy sy halefako handringana anareo sady hampitomboiko ny mosary eo aminareo ka hotapahiko ny mofonareo, izay tohan' aina;",
+    "17": "Dia haterako mosary sy biby masiaka eo aminareo, izay hahalany fara anareo; ary handroso eo aminao ny areti-mandringana sy ny fandatsahan-drà ary hataoko mihatra aminao ny sabatra.izaho Jehovah no niteny izany."
+  }
 }

@@ -1,73 +1,23 @@
 {
+  "book": "Joba",
   "chapter": 23,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia namaly Joba ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Ankehitriny dia mbola mangidy ny fitarainako; ny famelezana ahy dia mavesatra noho ny fisentoako.\""
-    },
-    {
-      "v": 3,
-      "text": "Enga anie ka ho fantatro izay hahitako Azy, mba hahatongavako na dia any amin' ny fitoerany aza."
-    },
-    {
-      "v": 4,
-      "text": "\"Dia handahatra ny teniko eo anatrehany aho, ka hofenoiko ny teny alahatro ny vavako;\""
-    },
-    {
-      "v": 5,
-      "text": "Ary hahalala izay teny havaliny ahy aho sy hamantatra izay holazainy amiko."
-    },
-    {
-      "v": 6,
-      "text": "Amin' ny heriny lehibe va no hifandaharany amiko? Tsia, fa hanatanjaka ahy izy."
-    },
-    {
-      "v": 7,
-      "text": "\"Ny olo-marina no hifandahatra aminy ao; ary dia ho afaka mandrakizay amin' ny mpitsara ahy aho.\""
-    },
-    {
-      "v": 8,
-      "text": "Indro, mandroso aho, fa tsy ao Izy, ary mihemotra aho, fa tsy hitako Izy."
-    },
-    {
-      "v": 9,
-      "text": "\"Mankeo ankavia amin' izay iasany aho, fa tsy tazako izy; miafina ao amin' ny ankavanana Izy ka tsy hitako;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Fa mahalala ny lalana alehako izy; rehefa nozahany toetra aho, dia hivoaka tahaka ny volamena.\""
-    },
-    {
-      "v": 11,
-      "text": "Ny tongotro nifikitra tamin' ny diany, ny lalany no notazoniko, ka tsy nivily aho."
-    },
-    {
-      "v": 12,
-      "text": "Ny didin' ny molony koa tsy mba nialako, ny tenin' ny vavany no notandremako mihoatra noho ny hanina ilaiko."
-    },
-    {
-      "v": 13,
-      "text": "Nefa tsy miova saina Izy, ka iza no mahasakana Azy? Fa na inona na inona irin' ny fanahiny dia ataony."
-    },
-    {
-      "v": 14,
-      "text": "\"Fa manatanteraka izay voatendry ho ahy Izy; ary zavatra maro toy izany no ao aminy;\""
-    },
-    {
-      "v": 15,
-      "text": "\"Koa izany no mampitebiteby ahy eo anatrehany; raha misaintsaina izany aho, dia matahotra Azy.\""
-    },
-    {
-      "v": 16,
-      "text": "Fa Andriamanitra no mandreraka ny foko ary ny Tsitoha no mampitebiteby ahy."
-    },
-    {
-      "v": 17,
-      "text": "Satria tsy nalaina mialohan' ny fahamaizinana aho, ary tsy nanafina ny haizim-pito tamin' ny tavako Izy."
-    }
-  ]
+  "verses": {
+    "1": "Dia namaly Joba ka nanao hoe:",
+    "2": "Ankehitriny dia mbola mangidy ny fitarainako; ny famelezana ahy dia mavesatra noho ny fisentoako.",
+    "3": "Enga anie ka ho fantatro izay hahitako Azy, mba hahatongavako na dia any amin' ny fitoerany aza.",
+    "4": "Dia handahatra ny teniko eo anatrehany aho, ka hofenoiko ny teny alahatro ny vavako;",
+    "5": "Ary hahalala izay teny havaliny ahy aho sy hamantatra izay holazainy amiko.",
+    "6": "Amin' ny heriny lehibe va no hifandaharany amiko? Tsia, fa hanatanjaka ahy izy.",
+    "7": "Ny olo-marina no hifandahatra aminy ao; ary dia ho afaka mandrakizay amin' ny mpitsara ahy aho.",
+    "8": "Indro, mandroso aho, fa tsy ao Izy, ary mihemotra aho, fa tsy hitako Izy.",
+    "9": "Mankeo ankavia amin' izay iasany aho, fa tsy tazako izy; miafina ao amin' ny ankavanana Izy ka tsy hitako;",
+    "10": "Fa mahalala ny lalana alehako izy; rehefa nozahany toetra aho, dia hivoaka tahaka ny volamena.",
+    "11": "Ny tongotro nifikitra tamin' ny diany, ny lalany no notazoniko, ka tsy nivily aho.",
+    "12": "Ny didin' ny molony koa tsy mba nialako, ny tenin' ny vavany no notandremako mihoatra noho ny hanina ilaiko.",
+    "13": "Nefa tsy miova saina Izy, ka iza no mahasakana Azy? Fa na inona na inona irin' ny fanahiny dia ataony.",
+    "14": "Fa manatanteraka izay voatendry ho ahy Izy; ary zavatra maro toy izany no ao aminy;",
+    "15": "Koa izany no mampitebiteby ahy eo anatrehany; raha misaintsaina izany aho, dia matahotra Azy.",
+    "16": "Fa Andriamanitra no mandreraka ny foko ary ny Tsitoha no mampitebiteby ahy.",
+    "17": "Satria tsy nalaina mialohan' ny fahamaizinana aho, ary tsy nanafina ny haizim-pito tamin' ny tavako Izy."
+  }
 }

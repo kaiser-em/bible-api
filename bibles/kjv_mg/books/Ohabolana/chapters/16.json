@@ -1,137 +1,39 @@
 {
+  "book": "Ohabolana",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "NY fanomanana ny fo no an' ny olona, fa ny famalian' ny lela dia avy amin' i Jehovah."
-    },
-    {
-      "v": 2,
-      "text": "\"Ataon' ny olona ho madio avokoa ny lalana rehetra alehany; fa Jehovah ihany no mpandanja ny fanahy.\""
-    },
-    {
-      "v": 3,
-      "text": "Ankino amin' i Jehovah ny asanao, dia ho tafatoetra ny hevitrao."
-    },
-    {
-      "v": 4,
-      "text": "Nataon' i Jehovah ho Azy ny zavatra rehetra, eny, na dia ny ratsy fanahy aza ho amin' ny andro hahitan-doza."
-    },
-    {
-      "v": 5,
-      "text": "\"Fahavetavetana eo imason' i Jehovah izay rehetra miavonavona am-po; azo ifandraisan-tanana fa tsy maintsy hampijaliana izy.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ny famindrampo sy ny fahamarinana no hanadiovana ny heloka; ary ny fahatahorana an' i Jehovah no analavirana ny ratsy.\""
-    },
-    {
-      "v": 7,
-      "text": "Raha sitrak' i Jehovah ny alehan' ny olona, na dia ny fahavalony aza hampihavaniny aminy."
-    },
-    {
-      "v": 8,
-      "text": "Aleo ny kely omban' ny fahamarinana toy izay ny harem-bevava azo amin' ny tsy rariny."
-    },
-    {
-      "v": 9,
-      "text": "\"Ny fon' ny olona dia mihevitra tsara ny halehany; fa Jehovah ihany no mahalavorary ny diany.\""
-    },
-    {
-      "v": 10,
-      "text": "Ny teny marina dia eo amin' ny molotry ny mpanjaka, ary tsy diso teny izy, raha mitsara."
-    },
-    {
-      "v": 11,
-      "text": "An' i Jehovah ny fandanjana sy ny mizana marina, asany avokoa ireo vatomizana rehetra an-kitapo."
-    },
-    {
-      "v": 12,
-      "text": "\"Fahavetavetana eo imason' ny mpanjaka ny fanaovan-dratsy; fa ny sezafiandrianana dia miorina amin' ny fahamarinana.\""
-    },
-    {
-      "v": 13,
-      "text": "Sitraky ny mpanjaka ny molotra marina, ary izay miteny mahitsy no tiany."
-    },
-    {
-      "v": 14,
-      "text": "Ny fahatezeran' ny mpanjaka dia iraky ny fahafatesana, fa ny olon-kendry mampionona izany."
-    },
-    {
-      "v": 15,
-      "text": "Amin' ny fahamiramiranan' ny tarehin' ny mpanjaka dia misy fiainana, ary ny fankasitrahany dia toy ny rahona amin' ny fara-orana."
-    },
-    {
-      "v": 16,
-      "text": "Tsara tokoa ny mahazo fahendrena noho ny volamena! Ary tsara tokoa ny mahazo fahalalana noho ny volafotsy!"
-    },
-    {
-      "v": 17,
-      "text": "\"Ny manalavitra ny ratsy no lalamben' ny marina; ary izay mitandrina ny alehany no miaro ny fanahiny.\""
-    },
-    {
-      "v": 18,
-      "text": "Ny fiavonavonana mialoha ny fahasimbana, ary ny fanahy mirehareha mialoha ny fahalavoana."
-    },
-    {
-      "v": 19,
-      "text": "Tsara ny malemy fanahy ao amin' izay manetry tena noho ny mizara babo amin' izay miavonavona."
-    },
-    {
-      "v": 20,
-      "text": "\"Izay mandinika ny teny no hahita ny soa; ary izay matoky an' i Jehovah no sambatra.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Izay hendry am-po dia lazaina hoe mahira-tsaina; ary ny hamamin' ny molotra mampandroso fahalalana.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Loharanon' aina ny fahazavan-tsaina amin' izay manana azy; fa ny toro-hevitry ny adala dia fahadalana ihany.\""
-    },
-    {
-      "v": 23,
-      "text": "Ny fon' ny hendry dia mampianatra ny vavany sady manampy fahalalana eo amin' ny molony."
-    },
-    {
-      "v": 24,
-      "text": "Toho-tantely ny teny mahafinaritra, ka sady mamin' ny fanahy no fahasalaman' ny taolana."
-    },
-    {
-      "v": 25,
-      "text": "Misy lalana ataon' ny olona ho mahitsy, kanjo lalana mivarina any amin' ny fahafatesana no iafarany."
-    },
-    {
-      "v": 26,
-      "text": "\"Izay miasa dia miasa ho an' ny tenany; fa ny vavany no manesika azy.\""
-    },
-    {
-      "v": 27,
-      "text": "Mihady lavaka fanimbana ny olona tsy araka an' Andriamanitra, sady misy toy ny afo mandoro eo amin' ny molony."
-    },
-    {
-      "v": 28,
-      "text": "\"Ny mpivadibadika mamafy ady; ary ny mpibitsibitsika mampisaraka ny tena mpisakaiza.\""
-    },
-    {
-      "v": 29,
-      "text": "Ny lozabe mitaona ny namany ka mitarika azy amin' ny lalana tsy tsara."
-    },
-    {
-      "v": 30,
-      "text": "Manakimpy ny masony hieritreritra ny ratsy izy sady manaikitraiki-molotra, dia mikasa hanao ratsy."
-    },
-    {
-      "v": 31,
-      "text": "\"Satroboninahitra ny volofotsy; ao amin' ny lalan' ny fahamarinana no ahazoana azy.\""
-    },
-    {
-      "v": 32,
-      "text": "Tsara ny mahatsindry fo noho ny mahery, ary ny mahafehy ny fanahiny noho izay mahafa-bohitra."
-    },
-    {
-      "v": 33,
-      "text": "\"Ny antsapaka dia atsipy ao am-pofoana; fa avy amin' i Jehovah ihany no isehoan' ny fitsarana.\""
-    }
-  ]
+  "verses": {
+    "1": "NY fanomanana ny fo no an' ny olona, fa ny famalian' ny lela dia avy amin' i Jehovah.",
+    "2": "Ataon' ny olona ho madio avokoa ny lalana rehetra alehany; fa Jehovah ihany no mpandanja ny fanahy.",
+    "3": "Ankino amin' i Jehovah ny asanao, dia ho tafatoetra ny hevitrao.",
+    "4": "Nataon' i Jehovah ho Azy ny zavatra rehetra, eny, na dia ny ratsy fanahy aza ho amin' ny andro hahitan-doza.",
+    "5": "Fahavetavetana eo imason' i Jehovah izay rehetra miavonavona am-po; azo ifandraisan-tanana fa tsy maintsy hampijaliana izy.",
+    "6": "Ny famindrampo sy ny fahamarinana no hanadiovana ny heloka; ary ny fahatahorana an' i Jehovah no analavirana ny ratsy.",
+    "7": "Raha sitrak' i Jehovah ny alehan' ny olona, na dia ny fahavalony aza hampihavaniny aminy.",
+    "8": "Aleo ny kely omban' ny fahamarinana toy izay ny harem-bevava azo amin' ny tsy rariny.",
+    "9": "Ny fon' ny olona dia mihevitra tsara ny halehany; fa Jehovah ihany no mahalavorary ny diany.",
+    "10": "Ny teny marina dia eo amin' ny molotry ny mpanjaka, ary tsy diso teny izy, raha mitsara.",
+    "11": "An' i Jehovah ny fandanjana sy ny mizana marina, asany avokoa ireo vatomizana rehetra an-kitapo.",
+    "12": "Fahavetavetana eo imason' ny mpanjaka ny fanaovan-dratsy; fa ny sezafiandrianana dia miorina amin' ny fahamarinana.",
+    "13": "Sitraky ny mpanjaka ny molotra marina, ary izay miteny mahitsy no tiany.",
+    "14": "Ny fahatezeran' ny mpanjaka dia iraky ny fahafatesana, fa ny olon-kendry mampionona izany.",
+    "15": "Amin' ny fahamiramiranan' ny tarehin' ny mpanjaka dia misy fiainana, ary ny fankasitrahany dia toy ny rahona amin' ny fara-orana.",
+    "16": "Tsara tokoa ny mahazo fahendrena noho ny volamena! Ary tsara tokoa ny mahazo fahalalana noho ny volafotsy!",
+    "17": "Ny manalavitra ny ratsy no lalamben' ny marina; ary izay mitandrina ny alehany no miaro ny fanahiny.",
+    "18": "Ny fiavonavonana mialoha ny fahasimbana, ary ny fanahy mirehareha mialoha ny fahalavoana.",
+    "19": "Tsara ny malemy fanahy ao amin' izay manetry tena noho ny mizara babo amin' izay miavonavona.",
+    "20": "Izay mandinika ny teny no hahita ny soa; ary izay matoky an' i Jehovah no sambatra.",
+    "21": "Izay hendry am-po dia lazaina hoe mahira-tsaina; ary ny hamamin' ny molotra mampandroso fahalalana.",
+    "22": "Loharanon' aina ny fahazavan-tsaina amin' izay manana azy; fa ny toro-hevitry ny adala dia fahadalana ihany.",
+    "23": "Ny fon' ny hendry dia mampianatra ny vavany sady manampy fahalalana eo amin' ny molony.",
+    "24": "Toho-tantely ny teny mahafinaritra, ka sady mamin' ny fanahy no fahasalaman' ny taolana.",
+    "25": "Misy lalana ataon' ny olona ho mahitsy, kanjo lalana mivarina any amin' ny fahafatesana no iafarany.",
+    "26": "Izay miasa dia miasa ho an' ny tenany; fa ny vavany no manesika azy.",
+    "27": "Mihady lavaka fanimbana ny olona tsy araka an' Andriamanitra, sady misy toy ny afo mandoro eo amin' ny molony.",
+    "28": "Ny mpivadibadika mamafy ady; ary ny mpibitsibitsika mampisaraka ny tena mpisakaiza.",
+    "29": "Ny lozabe mitaona ny namany ka mitarika azy amin' ny lalana tsy tsara.",
+    "30": "Manakimpy ny masony hieritreritra ny ratsy izy sady manaikitraiki-molotra, dia mikasa hanao ratsy.",
+    "31": "Satroboninahitra ny volofotsy; ao amin' ny lalan' ny fahamarinana no ahazoana azy.",
+    "32": "Tsara ny mahatsindry fo noho ny mahery, ary ny mahafehy ny fanahiny noho izay mahafa-bohitra.",
+    "33": "Ny antsapaka dia atsipy ao am-pofoana; fa avy amin' i Jehovah ihany no isehoan' ny fitsarana."
+  }
 }

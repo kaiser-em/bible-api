@@ -1,53 +1,18 @@
 {
+  "book": "Salamo",
   "chapter": 76,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira momba ny Neginoth. Salamo na hira nataon' i Asafa.]  ANDRIAMANITRA dia fantatra eo amin' ny Joda, malaza amin' ny Isiraely ny anarany;\""
-    },
-    {
-      "v": 2,
-      "text": "Ao Salema ihany koa ny tabernakeliny, ary ao Ziona ny fonenany."
-    },
-    {
-      "v": 3,
-      "text": "Teo no nanapatapahany ny zana-tsipìka manelatra sy ny ampinga sy ny sabatra ary ny fiadiana.[Sela.]"
-    },
-    {
-      "v": 4,
-      "text": "Mamirapiratra Ianao sady be voninahitra noho ny tendrombohitra fitohana."
-    },
-    {
-      "v": 5,
-      "text": "\"Voababo ny mahery; renoky ny torimasony izy ary samy ankona ny tanan' ny olo-mahery rehetra.\""
-    },
-    {
-      "v": 6,
-      "text": "Noho ny teny mafy nataonao, ry Andriamanitr' i Jakoba, dia sondrian-tory ny kalesy sy ny soavaly."
-    },
-    {
-      "v": 7,
-      "text": "\"Ianao, eny Ianao no mahatahotra; ary iza no mahajanona eo anatrehanao rehefa miseho ny fahatezeranao?\""
-    },
-    {
-      "v": 8,
-      "text": "Avy any an-danitra no nampandrenesanao fitsarana. Raiki-tahotra ny tany ka sina,"
-    },
-    {
-      "v": 9,
-      "text": "Raha nitsangana hitsara Andriamanitra mba hamonjy ny mpandefitra rehetra ambonin' ny tany.[Sela.]"
-    },
-    {
-      "v": 10,
-      "text": "Fa ny fahatezeran' ny olona hidera Anao tokoa. Ny fahatezerana sisa dia hofehezinao."
-    },
-    {
-      "v": 11,
-      "text": "\"Mivoadia, ka efao ny voadinareo amin' i Jehovah Andriamanitrareo; aoka izay rehetra manodidina Azy hitondra fanatitra ho an' Izay tokony hatahorana.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Hotapahiny ny reharehan' ny mpanapaka; tahotry ny mpanjakan' ny tany Izy.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira momba ny Neginoth. Salamo na hira nataon' i Asafa.]  ANDRIAMANITRA dia fantatra eo amin' ny Joda, malaza amin' ny Isiraely ny anarany;",
+    "2": "Ao Salema ihany koa ny tabernakeliny, ary ao Ziona ny fonenany.",
+    "3": "Teo no nanapatapahany ny zana-tsipìka manelatra sy ny ampinga sy ny sabatra ary ny fiadiana.[Sela.]",
+    "4": "Mamirapiratra Ianao sady be voninahitra noho ny tendrombohitra fitohana.",
+    "5": "Voababo ny mahery; renoky ny torimasony izy ary samy ankona ny tanan' ny olo-mahery rehetra.",
+    "6": "Noho ny teny mafy nataonao, ry Andriamanitr' i Jakoba, dia sondrian-tory ny kalesy sy ny soavaly.",
+    "7": "Ianao, eny Ianao no mahatahotra; ary iza no mahajanona eo anatrehanao rehefa miseho ny fahatezeranao?",
+    "8": "Avy any an-danitra no nampandrenesanao fitsarana. Raiki-tahotra ny tany ka sina,",
+    "9": "Raha nitsangana hitsara Andriamanitra mba hamonjy ny mpandefitra rehetra ambonin' ny tany.[Sela.]",
+    "10": "Fa ny fahatezeran' ny olona hidera Anao tokoa. Ny fahatezerana sisa dia hofehezinao.",
+    "11": "Mivoadia, ka efao ny voadinareo amin' i Jehovah Andriamanitrareo; aoka izay rehetra manodidina Azy hitondra fanatitra ho an' Izay tokony hatahorana.",
+    "12": "Hotapahiny ny reharehan' ny mpanapaka; tahotry ny mpanjakan' ny tany Izy."
+  }
 }

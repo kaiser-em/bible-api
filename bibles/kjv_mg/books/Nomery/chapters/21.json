@@ -1,145 +1,41 @@
 {
+  "book": "Nomery",
   "chapter": 21,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary raha ren' ilay Kananita, Arada mpanjaka, izay nonina tao amin' ny tany atsimo fa efa nandeha tamin' ny lalan' ny mpisafo tany ny Isiraely; dia niady taminy izy, ka nentiny ho babo ny sasany tamin' ny Isiraely.\""
-    },
-    {
-      "v": 2,
-      "text": "Dia nivoady tamin' i Jehovah ny Isiraely ka nanao hoe: Raha hatolotrao eo an-tanako tokoa ity firenena ity, dia haringako tokoa ny tanànany."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary Jehovah nihaino ny feon' ny Isiraely ka dia natolony azy ny Kananita; ary dia naringany tokoa ireo sy ny tanànany; koa ny anaran' izany toerana izany dia nataony hoe: Horma.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary niala tany an-tendrombohitra Hora izy ka nahazo ny lalana mankany amin' ny Ranomasina Mena hanodidina ny tany Edoma; dia kivy tokoa ny fanahin' ny olona noho ny lalana.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary niteny nanome tsiny an' Andriamanitra sy Mosesy ny olona ka nanao hoe: Nahoana no nentinao niakatra avy tany Egypta izahay ho faty aty an' efitra? fa tsy misy mofo na rano aty; ary leo an' ity mofo maivana ity ny fanahinay.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary Jehovah dia nampandeha menaran' afo teny amin' ny olona, ka nanaikitra ny olona ireny; dia nahafatesana be ny Isiraely.\""
-    },
-    {
-      "v": 7,
-      "text": "Koa nankeo amin' i Mosesy ny olona ka nanao hoe: Efa nanota izahay, fa efa niteny nanohitra an' i Jehovah sy ianao: Mivavaha amin' i Jehovah, mba hanesorany ny menarana aminay. Dia nivavaka ho an' ny olona Mosesy."
-    },
-    {
-      "v": 8,
-      "text": "Ary hoy Jehovah tamin' i Mosesy: Manaova menaran' afo ianao, dia ahantòny amin' ny hazo lava, ary izao no hiseho, izay rehetra voakaikitra, dia ho velona, raha mijery izany."
-    },
-    {
-      "v": 9,
-      "text": "Dia nanao menarana varahina Mosesy ka nanantona azy tamin' ny hazo lava, ary izao no niseho, raha voakaikitry ny menarana ny olona, ka nijery ilay menarana varahina izy, dia velona."
-    },
-    {
-      "v": 10,
-      "text": "Ary ny Zanak' Isiraely nifindra ka nitoby tao Obota."
-    },
-    {
-      "v": 11,
-      "text": "Ary nony niala tao Obota izy, dia nitoby tao Ie-abarima, tany amin' ny efitra izay mifanolotra amin' i Moaba, tandrifin' ny fiposahan' ny masoandro."
-    },
-    {
-      "v": 12,
-      "text": "Ary nony niala tao izy dia nitoby tao amin' ny lohasahan' i Zareda."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary nony niala tao izy, dia nitoby tao an-dafin' i Arnona, izay any an' efitra sady avy amin' ny sisin-tanin' ny Amorita; fa Arnona no faritanin' i Moaba, eo anelanelan' i Moaba sy ny Amorita.\""
-    },
-    {
-      "v": 14,
-      "text": "Koa izany no ilazana eo amin' ny Bokin' ny Adin' i Jehovah hoe: izay nataony teo amin' ny Ranomasina Mena sy teo amin' ny renirano kelin' i Arnona,"
-    },
-    {
-      "v": 15,
-      "text": "Ary ny ony avy amin' ny renirano kely izay mandroso mankao Ara, ka mipaka amin' ny faritanin' i Moaba."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary niala tao izy hankany Bera; io ilay lavaka fantsakana nilazan' i Jehovah tamin' i Mosesy hoe: Angony ny olona, fa homeko rano izy.\""
-    },
-    {
-      "v": 17,
-      "text": "Dia nihira izao fihirana izao ny Isiraely: Miboiboiha, ry lavaka fantsakana! ataovinareo an-kira izany."
-    },
-    {
-      "v": 18,
-      "text": "Nandavaka fantsakana ny lehilahy, ny manankaja teo amin' ny olona no nandavaka izany tamin' ny tehiny, dia ny fitarihan' ny mpanome ny lalàna. Ary nony niala tany an' efitra izy, dia nankao Matana."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary nony niala tao Matana izy dia nankao Nahaliela; ary nony niala tao Nahaliela izy, dia nankao Bamota;\""
-    },
-    {
-      "v": 20,
-      "text": "Ary nony niala tao an-dohasaha Bamota izay ao amin' ny fari-tanin' i Moaba izy dia nankany an-tampon' i Pisga izay manatrika an' i Jesimona."
-    },
-    {
-      "v": 21,
-      "text": "Ary ny Isiraely nandefa iraka ho any amin' i Sihona mpanjakan' ny Amorita ka nanao hoe:"
-    },
-    {
-      "v": 22,
-      "text": "\"Aoka mba handeha hamaky ny taninao aho; tsy hania ho amin' ny saha, na ho amin' ny tanimboaloboka izahay, ary tsy hisotro ny rano amin' ny lavaka fantsakana; fa ny lalamben' ny mpanjaka ihany no halehanay mandra-pahafakay ny faritaninao.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary Sihona tsy namela ny Isiraely handeha hamaky ny taniny, fa nanangona ny vahoakany rehetra izy ka nivoaka hanohitra ny Isiraely tany an' efitra; dia nankany Jahaza izy ka niady tamin' ny Isiraely.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary ny Isiraely namely azy tamin' ny lelan-tsabatra ka nahazo ny taniny hatrany Arnona ka hatrany Jaboka, dia hatramin' ny taranak' i Amona; fa mafy ny faritanin' ny taranak' i Amona.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Dia nalain' ny Isiraely izany tanàna rehetra izany; ary nonenan' ny Isiraely ny tanànan' ny Amorita rehetra, dia Hesbona sy ny zana-bohiny rehetra.\""
-    },
-    {
-      "v": 26,
-      "text": "Hesbona no tanànan' i Sihona, mpanjakan' ny Amorita, izay efa nanafika ny mpanjakan' i Moaba taloha, ka efa nalainy taminy avokoa ny taniny rehetra hatrany Arnona."
-    },
-    {
-      "v": 27,
-      "text": "\"Izany no nanaovan' ny mpanao ohabolana hoe: Midira ao Hesbona ianareo, aoka haorina sy hamboarina ny tanànan' i Sihona;\""
-    },
-    {
-      "v": 28,
-      "text": "Fa nisy afo nivoaka avy tao Hesbona sy lelafo avy tao an-tanànan' i Sihona, ka nandevona an' i Aran' i Moaba sy ny tompon' ny havoan' i Arnona."
-    },
-    {
-      "v": 29,
-      "text": "Loza ho anao, ry Moaba! Ringana ianao, ry olon' i Kemosy! Foiny handositra ny zanany lahy, ary avelany ho babo ny zanany vavy, ho an' i Sihona, mpanjakan' ny Amorita."
-    },
-    {
-      "v": 30,
-      "text": "\"Notifirintsika izy; ringana Hesbona hatrany Dibona; nofoanantsika izy hatrany Nofa, izay mipaka an' i Medeba.\""
-    },
-    {
-      "v": 31,
-      "text": "Dia nitoetra tao amin' ny tanin' ny Amorita ny Isiraely."
-    },
-    {
-      "v": 32,
-      "text": "\"Ary Mosesy naniraka olona hisafo an' i Jazera; ary ny Isiraely dia nahafaka ny zana-bohiny ka nandroaka ny Amorita izay tany.\""
-    },
-    {
-      "v": 33,
-      "text": "\"Ary niverina ny olona ka niakatra tamin' ny lalana mankany Basana; dia nivoaka Oga, mpanjakan' i Basana, hanohitra azy, dia izy sy ny vahoakany rehetra, hiady tao Edrehy.\""
-    },
-    {
-      "v": 34,
-      "text": "\"Dia hoy Jehovah tamin' i Mosesy: Aza matahotra azy ianao, fa efa natolotro eo an-tananao izy sy ny vahoakany rehetra ary ny taniny; ary ianao hanao aminy araka izay nataonao tamin' i Sihona, mpanjakan' ny Amorita, izay nitoetra tany Hesbona.\""
-    },
-    {
-      "v": 35,
-      "text": "\"Dia namely azy sy ny zanany lahy ary ny vahoakany rehetra izy, ka tsy nasiany niangana na dia iray akory aza; dia nahazo ny taniny izy.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary raha ren' ilay Kananita, Arada mpanjaka, izay nonina tao amin' ny tany atsimo fa efa nandeha tamin' ny lalan' ny mpisafo tany ny Isiraely; dia niady taminy izy, ka nentiny ho babo ny sasany tamin' ny Isiraely.",
+    "2": "Dia nivoady tamin' i Jehovah ny Isiraely ka nanao hoe: Raha hatolotrao eo an-tanako tokoa ity firenena ity, dia haringako tokoa ny tanànany.",
+    "3": "Ary Jehovah nihaino ny feon' ny Isiraely ka dia natolony azy ny Kananita; ary dia naringany tokoa ireo sy ny tanànany; koa ny anaran' izany toerana izany dia nataony hoe: Horma.",
+    "4": "Ary niala tany an-tendrombohitra Hora izy ka nahazo ny lalana mankany amin' ny Ranomasina Mena hanodidina ny tany Edoma; dia kivy tokoa ny fanahin' ny olona noho ny lalana.",
+    "5": "Ary niteny nanome tsiny an' Andriamanitra sy Mosesy ny olona ka nanao hoe: Nahoana no nentinao niakatra avy tany Egypta izahay ho faty aty an' efitra? fa tsy misy mofo na rano aty; ary leo an' ity mofo maivana ity ny fanahinay.",
+    "6": "Ary Jehovah dia nampandeha menaran' afo teny amin' ny olona, ka nanaikitra ny olona ireny; dia nahafatesana be ny Isiraely.",
+    "7": "Koa nankeo amin' i Mosesy ny olona ka nanao hoe: Efa nanota izahay, fa efa niteny nanohitra an' i Jehovah sy ianao: Mivavaha amin' i Jehovah, mba hanesorany ny menarana aminay. Dia nivavaka ho an' ny olona Mosesy.",
+    "8": "Ary hoy Jehovah tamin' i Mosesy: Manaova menaran' afo ianao, dia ahantòny amin' ny hazo lava, ary izao no hiseho, izay rehetra voakaikitra, dia ho velona, raha mijery izany.",
+    "9": "Dia nanao menarana varahina Mosesy ka nanantona azy tamin' ny hazo lava, ary izao no niseho, raha voakaikitry ny menarana ny olona, ka nijery ilay menarana varahina izy, dia velona.",
+    "10": "Ary ny Zanak' Isiraely nifindra ka nitoby tao Obota.",
+    "11": "Ary nony niala tao Obota izy, dia nitoby tao Ie-abarima, tany amin' ny efitra izay mifanolotra amin' i Moaba, tandrifin' ny fiposahan' ny masoandro.",
+    "12": "Ary nony niala tao izy dia nitoby tao amin' ny lohasahan' i Zareda.",
+    "13": "Ary nony niala tao izy, dia nitoby tao an-dafin' i Arnona, izay any an' efitra sady avy amin' ny sisin-tanin' ny Amorita; fa Arnona no faritanin' i Moaba, eo anelanelan' i Moaba sy ny Amorita.",
+    "14": "Koa izany no ilazana eo amin' ny Bokin' ny Adin' i Jehovah hoe: izay nataony teo amin' ny Ranomasina Mena sy teo amin' ny renirano kelin' i Arnona,",
+    "15": "Ary ny ony avy amin' ny renirano kely izay mandroso mankao Ara, ka mipaka amin' ny faritanin' i Moaba.",
+    "16": "Ary niala tao izy hankany Bera; io ilay lavaka fantsakana nilazan' i Jehovah tamin' i Mosesy hoe: Angony ny olona, fa homeko rano izy.",
+    "17": "Dia nihira izao fihirana izao ny Isiraely: Miboiboiha, ry lavaka fantsakana! ataovinareo an-kira izany.",
+    "18": "Nandavaka fantsakana ny lehilahy, ny manankaja teo amin' ny olona no nandavaka izany tamin' ny tehiny, dia ny fitarihan' ny mpanome ny lalàna. Ary nony niala tany an' efitra izy, dia nankao Matana.",
+    "19": "Ary nony niala tao Matana izy dia nankao Nahaliela; ary nony niala tao Nahaliela izy, dia nankao Bamota;",
+    "20": "Ary nony niala tao an-dohasaha Bamota izay ao amin' ny fari-tanin' i Moaba izy dia nankany an-tampon' i Pisga izay manatrika an' i Jesimona.",
+    "21": "Ary ny Isiraely nandefa iraka ho any amin' i Sihona mpanjakan' ny Amorita ka nanao hoe:",
+    "22": "Aoka mba handeha hamaky ny taninao aho; tsy hania ho amin' ny saha, na ho amin' ny tanimboaloboka izahay, ary tsy hisotro ny rano amin' ny lavaka fantsakana; fa ny lalamben' ny mpanjaka ihany no halehanay mandra-pahafakay ny faritaninao.",
+    "23": "Ary Sihona tsy namela ny Isiraely handeha hamaky ny taniny, fa nanangona ny vahoakany rehetra izy ka nivoaka hanohitra ny Isiraely tany an' efitra; dia nankany Jahaza izy ka niady tamin' ny Isiraely.",
+    "24": "Ary ny Isiraely namely azy tamin' ny lelan-tsabatra ka nahazo ny taniny hatrany Arnona ka hatrany Jaboka, dia hatramin' ny taranak' i Amona; fa mafy ny faritanin' ny taranak' i Amona.",
+    "25": "Dia nalain' ny Isiraely izany tanàna rehetra izany; ary nonenan' ny Isiraely ny tanànan' ny Amorita rehetra, dia Hesbona sy ny zana-bohiny rehetra.",
+    "26": "Hesbona no tanànan' i Sihona, mpanjakan' ny Amorita, izay efa nanafika ny mpanjakan' i Moaba taloha, ka efa nalainy taminy avokoa ny taniny rehetra hatrany Arnona.",
+    "27": "Izany no nanaovan' ny mpanao ohabolana hoe: Midira ao Hesbona ianareo, aoka haorina sy hamboarina ny tanànan' i Sihona;",
+    "28": "Fa nisy afo nivoaka avy tao Hesbona sy lelafo avy tao an-tanànan' i Sihona, ka nandevona an' i Aran' i Moaba sy ny tompon' ny havoan' i Arnona.",
+    "29": "Loza ho anao, ry Moaba! Ringana ianao, ry olon' i Kemosy! Foiny handositra ny zanany lahy, ary avelany ho babo ny zanany vavy, ho an' i Sihona, mpanjakan' ny Amorita.",
+    "30": "Notifirintsika izy; ringana Hesbona hatrany Dibona; nofoanantsika izy hatrany Nofa, izay mipaka an' i Medeba.",
+    "31": "Dia nitoetra tao amin' ny tanin' ny Amorita ny Isiraely.",
+    "32": "Ary Mosesy naniraka olona hisafo an' i Jazera; ary ny Isiraely dia nahafaka ny zana-bohiny ka nandroaka ny Amorita izay tany.",
+    "33": "Ary niverina ny olona ka niakatra tamin' ny lalana mankany Basana; dia nivoaka Oga, mpanjakan' i Basana, hanohitra azy, dia izy sy ny vahoakany rehetra, hiady tao Edrehy.",
+    "34": "Dia hoy Jehovah tamin' i Mosesy: Aza matahotra azy ianao, fa efa natolotro eo an-tananao izy sy ny vahoakany rehetra ary ny taniny; ary ianao hanao aminy araka izay nataonao tamin' i Sihona, mpanjakan' ny Amorita, izay nitoetra tany Hesbona.",
+    "35": "Dia namely azy sy ny zanany lahy ary ny vahoakany rehetra izy, ka tsy nasiany niangana na dia iray akory aza; dia nahazo ny taniny izy."
+  }
 }

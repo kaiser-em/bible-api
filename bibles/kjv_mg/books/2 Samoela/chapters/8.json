@@ -1,77 +1,24 @@
 {
+  "book": "2 Samoela",
   "chapter": 8,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary taorian' izany, dia izao no niseho, namely ny Filistina Davida ka nampietry azy; ary Metegama dia nalain' i Davida tamin' ny tanan' ny Filistina.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary namely ny Moabita izy, ka nampandriny tamin' ny tany ireo, ary nohariny tamin' ny kofehy, ka izay indroan' ny kofehy novonoiny, fa ny erany kosa novelominy. Noho izany dia tonga mpanompon' i Davida ny Moabita ka nitondra fanomezana."
-    },
-    {
-      "v": 3,
-      "text": "Dia nasian' i Davida koa Hadadezera, zanak' i Rehoba, mpanjakan' i Zoba, tamin' izy lasa nampody ny faritaniny teo amoron' ny ony Eofrata."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary nahazo kalesy arivo avy taminy i Davida sy mpitaingin-tsoavaly fitonjato, ary miaramila mandeha an-tongotra roa alina; ary notraingotraingoin' i Davida avokoa ny soavalin-kalesiny rehetra, fa ny ho an' ny kalesy zato ihany no navelany.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary rehefa tonga ny Syriana avy any Damaskosy hanampy an' i Hadadezera mpanjakan' i Zoba, dia nahafatesan' i Davida olona roa arivo sy roa alina ny Syriana."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary nametrahan' i Davida miaramila tany Syria any Damaskosy; dia tonga mpanompon' i Davida ny Syriana ka nitondra fanomezana. Ary Jehovah niaro an' i Davida teny amin' izay rehetra nalehany.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary nalain' i Davida ny ampinga volamena izay teny amin' ny mpanompon' i Hadadezera ka nentiny nankany Jerosalema."
-    },
-    {
-      "v": 8,
-      "text": "Ary avy tao Beta sy Berotahy, tanànan' i Hadadezera, no nahazoan' i Davida mpanjaka varahina be dia be."
-    },
-    {
-      "v": 9,
-      "text": "Nony ren' i Toy, mpanjakan' i Hamata fa efa namely ny miaramilan' i Hadadezera rehetra i Davida,"
-    },
-    {
-      "v": 10,
-      "text": "\"Dia nirahin' i Toy i Jorama zanany hankany amin' i Davida mpanjaka hiarahaba azy sy hisaotra azy noho ny niadiany tamin' i Hadadezera sy ny namelezany azy; fa i Hadadezera dia efa niady tamin' i Toy; Ary Jorama nitondra fanaka volafotsy sy fanaka volamena ary fanaka varahina;\""
-    },
-    {
-      "v": 11,
-      "text": "Izay nohamasinin' i Davida mpanjaka koa ho an' i Jehovah mbamin' ny volafotsy sy ny volamena izay efa natokany avy tamin' ny firenena rehetra izay resiny."
-    },
-    {
-      "v": 12,
-      "text": "Dia tamin' i Syria sy Moaba sy ny taranak' i Amona sy ny Filistina sy ny Amalekita ary ny babo azony tamin' i Hadadezera, zanak' i Rehoba, mpanjakan' i Zoba."
-    },
-    {
-      "v": 13,
-      "text": "Ary nahazo laza i Davida nony niverina avy nandresy ny Syriana valo arivo sy iray alina teo amin' ny Lohasahan-tsira."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary nametrahany miaramila tany Edoma; nametrahany miaramila avokoa manerana an' i Edoma rehetra, ary ny mponina rehetra tany Edoma dia tonga mpanompon' i Davida. Ary Jehovah niaro an' i Davida teny amin' izay rehetra nalehany.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary Davida nanjaka tamin' ny Isiraely rehetra ka nitsara sy nitondra marina ny vahoakany rehetra."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary Joaba, zanak' i Zeroia, no komandin' ny miaramila; ary Josafata, zanak' i Ahiloda, no mpitadidy ny raharaham-panjakana;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary Zadoka, zanak' i Ahitoba sy Ahimeleka, zanak' i Abiatara, no mpisorona ; ary Seraia no mpanoratra;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary Benaia, zanak' i Joiada, no mpifehy ny Keretita sy ny Peletita; ary ny zanakalahin' i Davida no lehiben' ny mpanapaka.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary taorian' izany, dia izao no niseho, namely ny Filistina Davida ka nampietry azy; ary Metegama dia nalain' i Davida tamin' ny tanan' ny Filistina.",
+    "2": "Ary namely ny Moabita izy, ka nampandriny tamin' ny tany ireo, ary nohariny tamin' ny kofehy, ka izay indroan' ny kofehy novonoiny, fa ny erany kosa novelominy. Noho izany dia tonga mpanompon' i Davida ny Moabita ka nitondra fanomezana.",
+    "3": "Dia nasian' i Davida koa Hadadezera, zanak' i Rehoba, mpanjakan' i Zoba, tamin' izy lasa nampody ny faritaniny teo amoron' ny ony Eofrata.",
+    "4": "Ary nahazo kalesy arivo avy taminy i Davida sy mpitaingin-tsoavaly fitonjato, ary miaramila mandeha an-tongotra roa alina; ary notraingotraingoin' i Davida avokoa ny soavalin-kalesiny rehetra, fa ny ho an' ny kalesy zato ihany no navelany.",
+    "5": "Ary rehefa tonga ny Syriana avy any Damaskosy hanampy an' i Hadadezera mpanjakan' i Zoba, dia nahafatesan' i Davida olona roa arivo sy roa alina ny Syriana.",
+    "6": "Ary nametrahan' i Davida miaramila tany Syria any Damaskosy; dia tonga mpanompon' i Davida ny Syriana ka nitondra fanomezana. Ary Jehovah niaro an' i Davida teny amin' izay rehetra nalehany.",
+    "7": "Ary nalain' i Davida ny ampinga volamena izay teny amin' ny mpanompon' i Hadadezera ka nentiny nankany Jerosalema.",
+    "8": "Ary avy tao Beta sy Berotahy, tanànan' i Hadadezera, no nahazoan' i Davida mpanjaka varahina be dia be.",
+    "9": "Nony ren' i Toy, mpanjakan' i Hamata fa efa namely ny miaramilan' i Hadadezera rehetra i Davida,",
+    "10": "Dia nirahin' i Toy i Jorama zanany hankany amin' i Davida mpanjaka hiarahaba azy sy hisaotra azy noho ny niadiany tamin' i Hadadezera sy ny namelezany azy; fa i Hadadezera dia efa niady tamin' i Toy; Ary Jorama nitondra fanaka volafotsy sy fanaka volamena ary fanaka varahina;",
+    "11": "Izay nohamasinin' i Davida mpanjaka koa ho an' i Jehovah mbamin' ny volafotsy sy ny volamena izay efa natokany avy tamin' ny firenena rehetra izay resiny.",
+    "12": "Dia tamin' i Syria sy Moaba sy ny taranak' i Amona sy ny Filistina sy ny Amalekita ary ny babo azony tamin' i Hadadezera, zanak' i Rehoba, mpanjakan' i Zoba.",
+    "13": "Ary nahazo laza i Davida nony niverina avy nandresy ny Syriana valo arivo sy iray alina teo amin' ny Lohasahan-tsira.",
+    "14": "Ary nametrahany miaramila tany Edoma; nametrahany miaramila avokoa manerana an' i Edoma rehetra, ary ny mponina rehetra tany Edoma dia tonga mpanompon' i Davida. Ary Jehovah niaro an' i Davida teny amin' izay rehetra nalehany.",
+    "15": "Ary Davida nanjaka tamin' ny Isiraely rehetra ka nitsara sy nitondra marina ny vahoakany rehetra.",
+    "16": "Ary Joaba, zanak' i Zeroia, no komandin' ny miaramila; ary Josafata, zanak' i Ahiloda, no mpitadidy ny raharaham-panjakana;",
+    "17": "Ary Zadoka, zanak' i Ahitoba sy Ahimeleka, zanak' i Abiatara, no mpisorona ; ary Seraia no mpanoratra;",
+    "18": "Ary Benaia, zanak' i Joiada, no mpifehy ny Keretita sy ny Peletita; ary ny zanakalahin' i Davida no lehiben' ny mpanapaka."
+  }
 }

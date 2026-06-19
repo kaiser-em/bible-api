@@ -1,165 +1,46 @@
 {
+  "book": "Asa",
   "chapter": 8,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary mba nankasitraka ny namonoana azy koa Saoly. Ary tamin' izany fotoana izany, dia nisy fanenjehana mafy tamin' ny fiangonana tany Jerosalema; ka dia niely teny amin' ny tany Jodia sy Samaria izy rehetra, afa tsy ny apostoly ihany.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary mpivavaka tsara no nandevina an' i Stefana sady nisaona azy fatratra."
-    },
-    {
-      "v": 3,
-      "text": "Fa nampahory mafy ny fiangonana Saoly ka nidirany isan-trano sady nosamboriny, na ny lehilahy na ny vehivavy, ka nataony tao an-tranomaizina."
-    },
-    {
-      "v": 4,
-      "text": "Noho izany, izay niely dia nandeha nitory ny teny teny tontolo eny."
-    },
-    {
-      "v": 5,
-      "text": "Ary nidina tany an-tanàna any Samaria Filipo ka nitory an' i Kristy tamin' ny olona tao."
-    },
-    {
-      "v": 6,
-      "text": "Ary ny vahoaka betsaka dia niray hevitra nihaino izay nolazain' i Filipo, raha nandre azy sy nahita ny fahagagana nataony."
-    },
-    {
-      "v": 7,
-      "text": "\"Fa ny fanahy maloto niantso tamin' ny feo mahery, dia nivoaka tamin' ny maro izay nanana azy; ary maro ny mararin' ny paralysisa mihovitrovitra sy ny mandringa no sitrana.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary nisy fifaliana lehibe tao amin' izany tanàna izany."
-    },
-    {
-      "v": 9,
-      "text": "Fa nisy lehilahy anankiray teo an-tanàna, atao hoe Simona, izay mpanao ody teo aloha ka nahatalanjona ny olona tany Samaria sady nandoka tena nanao azy ho zavatra."
-    },
-    {
-      "v": 10,
-      "text": "Ary nihaino azy ny olona rehetra, hatramin' ny kely indrindra ka hatramin' ny lehibe indrindra ka nanao hoe: Ity lehilahy ity no hery lehiben' Andriamanitra."
-    },
-    {
-      "v": 11,
-      "text": "Ary nihaino azy ny olona, satria efa ela no talanjona tamin' ny odiny."
-    },
-    {
-      "v": 12,
-      "text": "Ary rehefa nino an' i Filipo nitory ny zavatra mikasika ny fanjakan' Andriamanitra sy ny anaran' i Jesosy Kristy ireo, dia natao batisa, na lahy na vavy."
-    },
-    {
-      "v": 13,
-      "text": "Ary Simona koa mba nino, ary rehefa natao batisa izy, dia nanaraka an' i Filipo. Ary talanjona izy raha nahita ny fahagagana sy ny famantarana izay natao."
-    },
-    {
-      "v": 14,
-      "text": "Ary nony ren' ny apostoly tany Jerosalema fa Samaria efa nandray ny tenin' Andriamanitra, dia naniraka an' i Petera sy Jaona izy hankany aminy."
-    },
-    {
-      "v": 15,
-      "text": "\"Nony tafidina tany izy roa lahy, dia nivavaka ho an' ny olona mba handraisany ny Fanahy Masina;\""
-    },
-    {
-      "v": 16,
-      "text": "\"(Fa tsy mbola nisy nilatsahany izy na dia iray akory aza; fa natao batisa tamin' ny anaran' i Jesosy Tompo ihany izy ireo).\""
-    },
-    {
-      "v": 17,
-      "text": "Ary nametra-tanana taminy izy roa lahy ka dia nandray ny Fanahy Masina ireo."
-    },
-    {
-      "v": 18,
-      "text": "Ary Simona, nony nahita fa ny fametrahan' ny apostoly tanana no nanomezana ny Fanahy Masina, dia nanolotra vola azy izy,"
-    },
-    {
-      "v": 19,
-      "text": "Ka nanao hoe: Omeo izany fahefana izany koa aho, mba handray ny Fanahy Masina izay olona hametrahako tanana."
-    },
-    {
-      "v": 20,
-      "text": "Fa hoy Petera taminy: Aoka ho very mbamin' ny tenanao ny volanao, satria nataonao fa azo vidim-bola ny fanomezan' Andriamanitra."
-    },
-    {
-      "v": 21,
-      "text": "Tsy manana anjara na raharaha amin' izany zavatra izany ianao, satria tsy mahitsy fo eo anatrehan' Andriamanitra."
-    },
-    {
-      "v": 22,
-      "text": "Koa mibebaha amin' izao haratsianao izao, ka mangataha amin' Andriamanitra, andrao mba havelany izay noheverin' ny fonao."
-    },
-    {
-      "v": 23,
-      "text": "Fa hitako fa mbola mitoetra amin' ny fangidian' afero sy ny fehin-keloka ihany ianao."
-    },
-    {
-      "v": 24,
-      "text": "Ary namaly Simona ka nanao hoe: Mangataha ho ahy amin' ny Tompo, mba tsy hisy ho tonga amiko izay zavatra nolazainareo."
-    },
-    {
-      "v": 25,
-      "text": "Ary rehefa nijoro ho vavolombelona sy nitory ny tenin' ny Tompo Petera sy Jaona, dia niverina nankany Jerosalema ka nitory ny filazantsara teny amin' ny vohitra maro izay an' ny Samaritana."
-    },
-    {
-      "v": 26,
-      "text": "\"Ary ny anjelin' ny Tompo nilaza tamin' i Filipo ka nanao hoe: Mitsangàna, ka mandehana mianatsimo ho any amin'ny lalana midina avy any Jerosalema mankany Gaza; dia efitra izany.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Dia nitsangana izy ka lasa nandeha; ary, indro, nisy lehilahy ionoka Etiopiana, tandapa lehibe teo ambany fahefan' i Kandasy, mpanjakavavin' ny Etiopiana, sady mpitahiry ny fananany rehetra, ary tonga tany Jerosalema izy mba hivavaka;\""
-    },
-    {
-      "v": 28,
-      "text": "Dia nody izy ka nipetraka teo anatin' ny kalesiny ary namaky teny tao amin' Isaia mpaminany."
-    },
-    {
-      "v": 29,
-      "text": "Dia hoy ny Fanahy tamin' i Filipo: Andeha manatona ka mankanesa amin' io kalesy io."
-    },
-    {
-      "v": 30,
-      "text": "Ary nihazakazaka nankeo aminy Filipo, dia nandre azy mamaky teny tao amin' Isaia mpaminany, ka niteny taminy hoe: Moa fantatrao va izay vakinao?"
-    },
-    {
-      "v": 31,
-      "text": "Fa hoy izy: Hataoko ahoana no fahafantatra, raha tsy misy mitari-dalana ahy? Ary nangataka an' i Filipo izy hiakatra sy hipetraka eo aminy."
-    },
-    {
-      "v": 32,
-      "text": "\"Ary izao no tenin' ny Soratra Masina novakiny: Nentina hovonoina tahaka ny ondry Izy, ary tsy niloa-bava, tahaka ny zanak' ondry moana eo anoloan' ny mpanety azy;\""
-    },
-    {
-      "v": 33,
-      "text": "\"Ny fanetren-tenany no nanesorana ny rariny taminy; ary iza no hanambara ny amin' ny taranany? Satria ny ainy nesorina teto an-tany\""
-    },
-    {
-      "v": 34,
-      "text": "Ary ilay ionoka namaly an' i Filipo ka nanao hoe: Masìna ianao, iza moa no lazain' ny mpaminany amin' izany? Ny tenany va, sa olon-kafa?"
-    },
-    {
-      "v": 35,
-      "text": "Ary niloa-bava Filipo dia nanomboka nitory an' i Jesosy taminy teo amin' izany Soratra Masina izany."
-    },
-    {
-      "v": 36,
-      "text": "\"Ary raha nandeha tamin' ny lalany izy, dia tonga teo amin' izay nisy rano; ary hoy ilay ionoka: Indro rano, ka inona moa no misakana ahy tsy hatao batisa?\""
-    },
-    {
-      "v": 37,
-      "text": "Dia hoy Filipo: Raha mino amin' ny fonao rehetra ianao, dia azo atao ihany. Ary namaly izy ka nanao hoe: Mino aho fa Jesosy Kristy no Zanak' Andriamanitra."
-    },
-    {
-      "v": 38,
-      "text": "\"Dia nasainy najanona ny kalesy; ary izy roa lahy, dia Filipo sy ilay ionoka nidina ho eo amin' ny rano, dia nataony batisa izy.\""
-    },
-    {
-      "v": 39,
-      "text": "Ary rehefa niakatra avy teo amin' ny rano izy roa lahy, dia nentin' ny Fanahin' ny Tompo i Filipo ka tsy hitan' ilay ionoka intsony, fa nandeha tamin' izay nalehany izy sady nifaly."
-    },
-    {
-      "v": 40,
-      "text": "Fa Filipo hita tany Azota, ary nitory ny teny tamin'ny tanàna rehetra nolalovany ambara-pahatongany tany Kaisaria."
-    }
-  ]
+  "verses": {
+    "1": "Ary mba nankasitraka ny namonoana azy koa Saoly. Ary tamin' izany fotoana izany, dia nisy fanenjehana mafy tamin' ny fiangonana tany Jerosalema; ka dia niely teny amin' ny tany Jodia sy Samaria izy rehetra, afa tsy ny apostoly ihany.",
+    "2": "Ary mpivavaka tsara no nandevina an' i Stefana sady nisaona azy fatratra.",
+    "3": "Fa nampahory mafy ny fiangonana Saoly ka nidirany isan-trano sady nosamboriny, na ny lehilahy na ny vehivavy, ka nataony tao an-tranomaizina.",
+    "4": "Noho izany, izay niely dia nandeha nitory ny teny teny tontolo eny.",
+    "5": "Ary nidina tany an-tanàna any Samaria Filipo ka nitory an' i Kristy tamin' ny olona tao.",
+    "6": "Ary ny vahoaka betsaka dia niray hevitra nihaino izay nolazain' i Filipo, raha nandre azy sy nahita ny fahagagana nataony.",
+    "7": "Fa ny fanahy maloto niantso tamin' ny feo mahery, dia nivoaka tamin' ny maro izay nanana azy; ary maro ny mararin' ny paralysisa mihovitrovitra sy ny mandringa no sitrana.",
+    "8": "Ary nisy fifaliana lehibe tao amin' izany tanàna izany.",
+    "9": "Fa nisy lehilahy anankiray teo an-tanàna, atao hoe Simona, izay mpanao ody teo aloha ka nahatalanjona ny olona tany Samaria sady nandoka tena nanao azy ho zavatra.",
+    "10": "Ary nihaino azy ny olona rehetra, hatramin' ny kely indrindra ka hatramin' ny lehibe indrindra ka nanao hoe: Ity lehilahy ity no hery lehiben' Andriamanitra.",
+    "11": "Ary nihaino azy ny olona, satria efa ela no talanjona tamin' ny odiny.",
+    "12": "Ary rehefa nino an' i Filipo nitory ny zavatra mikasika ny fanjakan' Andriamanitra sy ny anaran' i Jesosy Kristy ireo, dia natao batisa, na lahy na vavy.",
+    "13": "Ary Simona koa mba nino, ary rehefa natao batisa izy, dia nanaraka an' i Filipo. Ary talanjona izy raha nahita ny fahagagana sy ny famantarana izay natao.",
+    "14": "Ary nony ren' ny apostoly tany Jerosalema fa Samaria efa nandray ny tenin' Andriamanitra, dia naniraka an' i Petera sy Jaona izy hankany aminy.",
+    "15": "Nony tafidina tany izy roa lahy, dia nivavaka ho an' ny olona mba handraisany ny Fanahy Masina;",
+    "16": "(Fa tsy mbola nisy nilatsahany izy na dia iray akory aza; fa natao batisa tamin' ny anaran' i Jesosy Tompo ihany izy ireo).",
+    "17": "Ary nametra-tanana taminy izy roa lahy ka dia nandray ny Fanahy Masina ireo.",
+    "18": "Ary Simona, nony nahita fa ny fametrahan' ny apostoly tanana no nanomezana ny Fanahy Masina, dia nanolotra vola azy izy,",
+    "19": "Ka nanao hoe: Omeo izany fahefana izany koa aho, mba handray ny Fanahy Masina izay olona hametrahako tanana.",
+    "20": "Fa hoy Petera taminy: Aoka ho very mbamin' ny tenanao ny volanao, satria nataonao fa azo vidim-bola ny fanomezan' Andriamanitra.",
+    "21": "Tsy manana anjara na raharaha amin' izany zavatra izany ianao, satria tsy mahitsy fo eo anatrehan' Andriamanitra.",
+    "22": "Koa mibebaha amin' izao haratsianao izao, ka mangataha amin' Andriamanitra, andrao mba havelany izay noheverin' ny fonao.",
+    "23": "Fa hitako fa mbola mitoetra amin' ny fangidian' afero sy ny fehin-keloka ihany ianao.",
+    "24": "Ary namaly Simona ka nanao hoe: Mangataha ho ahy amin' ny Tompo, mba tsy hisy ho tonga amiko izay zavatra nolazainareo.",
+    "25": "Ary rehefa nijoro ho vavolombelona sy nitory ny tenin' ny Tompo Petera sy Jaona, dia niverina nankany Jerosalema ka nitory ny filazantsara teny amin' ny vohitra maro izay an' ny Samaritana.",
+    "26": "Ary ny anjelin' ny Tompo nilaza tamin' i Filipo ka nanao hoe: Mitsangàna, ka mandehana mianatsimo ho any amin'ny lalana midina avy any Jerosalema mankany Gaza; dia efitra izany.",
+    "27": "Dia nitsangana izy ka lasa nandeha; ary, indro, nisy lehilahy ionoka Etiopiana, tandapa lehibe teo ambany fahefan' i Kandasy, mpanjakavavin' ny Etiopiana, sady mpitahiry ny fananany rehetra, ary tonga tany Jerosalema izy mba hivavaka;",
+    "28": "Dia nody izy ka nipetraka teo anatin' ny kalesiny ary namaky teny tao amin' Isaia mpaminany.",
+    "29": "Dia hoy ny Fanahy tamin' i Filipo: Andeha manatona ka mankanesa amin' io kalesy io.",
+    "30": "Ary nihazakazaka nankeo aminy Filipo, dia nandre azy mamaky teny tao amin' Isaia mpaminany, ka niteny taminy hoe: Moa fantatrao va izay vakinao?",
+    "31": "Fa hoy izy: Hataoko ahoana no fahafantatra, raha tsy misy mitari-dalana ahy? Ary nangataka an' i Filipo izy hiakatra sy hipetraka eo aminy.",
+    "32": "Ary izao no tenin' ny Soratra Masina novakiny: Nentina hovonoina tahaka ny ondry Izy, ary tsy niloa-bava, tahaka ny zanak' ondry moana eo anoloan' ny mpanety azy;",
+    "33": "Ny fanetren-tenany no nanesorana ny rariny taminy; ary iza no hanambara ny amin' ny taranany? Satria ny ainy nesorina teto an-tany",
+    "34": "Ary ilay ionoka namaly an' i Filipo ka nanao hoe: Masìna ianao, iza moa no lazain' ny mpaminany amin' izany? Ny tenany va, sa olon-kafa?",
+    "35": "Ary niloa-bava Filipo dia nanomboka nitory an' i Jesosy taminy teo amin' izany Soratra Masina izany.",
+    "36": "Ary raha nandeha tamin' ny lalany izy, dia tonga teo amin' izay nisy rano; ary hoy ilay ionoka: Indro rano, ka inona moa no misakana ahy tsy hatao batisa?",
+    "37": "Dia hoy Filipo: Raha mino amin' ny fonao rehetra ianao, dia azo atao ihany. Ary namaly izy ka nanao hoe: Mino aho fa Jesosy Kristy no Zanak' Andriamanitra.",
+    "38": "Dia nasainy najanona ny kalesy; ary izy roa lahy, dia Filipo sy ilay ionoka nidina ho eo amin' ny rano, dia nataony batisa izy.",
+    "39": "Ary rehefa niakatra avy teo amin' ny rano izy roa lahy, dia nentin' ny Fanahin' ny Tompo i Filipo ka tsy hitan' ilay ionoka intsony, fa nandeha tamin' izay nalehany izy sady nifaly.",
+    "40": "Fa Filipo hita tany Azota, ary nitory ny teny tamin'ny tanàna rehetra nolalovany ambara-pahatongany tany Kaisaria."
+  }
 }

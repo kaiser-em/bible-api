@@ -1,125 +1,36 @@
 {
+  "book": "Deotornomia",
   "chapter": 31,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Mosesy nandeha, dia nilaza izao teny izao tamin' ny Isiraely rehetra,"
-    },
-    {
-      "v": 2,
-      "text": "Ka nanao taminy hoe: Efa roapolo amby zato taona androany aho ka tsy afa-mivoaka sy miditra intsony, ary Jehovah koa efa niteny tamiko hoe: Tsy hita io Jordana io ianao."
-    },
-    {
-      "v": 3,
-      "text": "Jehovah Andriamanitrao no hita eo alohanao, ary Izy no handringana ireo firenena ireo tsy ho eo anoloanao, ka hahazo ny taniny ianao, ary Josoa no hita eo alohanao, araka izay efa nolazain' i Jehovah."
-    },
-    {
-      "v": 4,
-      "text": "Ary Jehovah hanao amin' ireo tahaka ny nataony tamin' i Sihona sy Oga, mpanjakan' ny Amorita, izay naringany sy tahaka ny nataony tamin' ny taniny."
-    },
-    {
-      "v": 5,
-      "text": "Dia hatolotr' i Jehovah eo anoloanareo ireo hanaovanareo azy araka ny didy rehetra izay nandidiako anareo."
-    },
-    {
-      "v": 6,
-      "text": "\"Mahereza sy matanjaha; aza matahotra, na manahy azy; fa Jehovah Andriamanitrao no miara-mandeha aminao; tsy handao anao, na hahafoy anao Izy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary Mosesy niantso an' i Josoa ka niteny taminy teo imason' ny Isiraely rehetra hoe: Mahereza sy matanjaha; fa ianao sy ity firenena ity dia hiara-miditra ao amin' ny tany izay nianianan' i Jehovah tamin' ny razany homena azy; ary ianao no hampandova azy izany.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary Jehovah no mandeha eo alohanao; ary Izy no hiaraka aminao; tsy handao anao na hahafoy anao Izy; koa aza matahotra na mivadi-po ianao.\""
-    },
-    {
-      "v": 9,
-      "text": "Dia nosoratan' i Mosesy izao lalàna izao ka natolony ireo mpisorona, taranak' i Levy, izay mpitondra ny fiaran' ny faneken' i Jehovah sy tamin' ny loholon' ny Isiraely rehetra."
-    },
-    {
-      "v": 10,
-      "text": "Dia nandidy azy Mosesy ka nanao hoe: Amin' ny faran' ny isam-pito taona, amin' ny taom-panafahana, amin' ny andro firavoravoana momba ny tabernakely,"
-    },
-    {
-      "v": 11,
-      "text": "Rehefa tonga hiseho eo anatrehan' i Jehovah Andriamanitrao eo amin' ny toerana izay hofidiny ny Isiraely rehetra, dia hovakinao eo anatrehan' ny Isiraely rehetra ity lalàna ity hihainoany azy."
-    },
-    {
-      "v": 12,
-      "text": "Vorio ny vahoaka rehetra, dia ny lehilahy sy ny vehivavy sy ny ankizy, ary ny vahininao izay ao am-bavahadinao, hihainoany sy hianarany ka hatahorany an' i Jehovah Andriamanitrareo sy hitandremany hanatanteraka ny teny rehetra amin' ity lalàna ity."
-    },
-    {
-      "v": 13,
-      "text": "Ary ny zanany izay tsy nahalala na inona na inona, dia handre, ka hianatra hatahotra an' i Jehovah Andriamanitrareo amin' ny andro rehetra iainanareo eo amin' ny tany izay ho azonareo rehefa tafita an' i Jordana ianareo."
-    },
-    {
-      "v": 14,
-      "text": "\"Dia hoy Jehovah tamin' i Mosesy: Indro, antomotra ny andro hahafatesanao; koa antsoy Josoa, ary misehoa ianareo ao amin' ny tranolay fihaonana mba handidiako azy. Dia nandeha Mosesy sy Josoa ka niseho teo amin' ny tranolay fihaonana izy ireo.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary niseho teo amin' ny tranolay Jehovah, tamin' ny andri-rahona; dia nijanona teo anoloan' ny varavaran' ny tranolay ny andri-rahona.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary hoy Jehovah tamin' i Mosesy: Indro, fa hodimandry any amin' ny razanao ianao; ary hitsangana ity firenena ity ka hijangajanga hanaraka ny andriamanitry ny firenen-kafa any amin' ny tany izay efa hidirany honenana, dia hahafoy Ahy sy hivadika ny fanekeko izay nataoko taminy.\""
-    },
-    {
-      "v": 17,
-      "text": "Dia hirehitra aminy ny fahatezerako amin' izany andro izany, ka hahafoy azy Aho ary hanafina ny tavako aminy, ka ho lany ritra izy, ary loza maro sy fahoriana no hanjo azy, dia hiteny izy amin' izany andro izany ka hanao hoe: Moa tsy ny tsy itoeran' Andriamanitsika eto amintsika va no mahatonga izao fahoriana izao amintsika?"
-    },
-    {
-      "v": 18,
-      "text": "Ary Izaho dia hanafina ny tavako tokoa amin' izany andro izany noho ny ratsy rehetra izay hataony, fa nivily nanaraka andriamani-kafa izy."
-    },
-    {
-      "v": 19,
-      "text": "Ary ankehitriny soraty ho anareo izao hira izao, ka ampianaro ny Zanak' Isiraely, ataovy ao am-bavany izany, mba ho vavolombelona amiko ny amin' ny Zanak' Isiraely izao hira izao."
-    },
-    {
-      "v": 20,
-      "text": "Fa rehefa entiko any amin' ny tany tondra-dronono sy tantely, izay nianianako tamin' ny razany homena azy izy, ary hihinana ka ho voky sy hihamatavy, dia hivily hanaraka andriamani-kafa izy ka hanompo azy ary hampahatezitra Ahy ka hivadika ny fanekeko."
-    },
-    {
-      "v": 21,
-      "text": "Ary izao no hiseho, raha manjo azy ny zava-dratsy maro sy ny fahoriana dia ho vavolombelona aminy izao hira izao, fa tsy ho afaka am-bavan' ny taranany izao, fa fantatro ny fisainany izay efa hataony, na dia ankehitriny aza, raha tsy mbola nentiko any amin' ny tany izay nianianako homena azy izy."
-    },
-    {
-      "v": 22,
-      "text": "Dia nosoratan' i Mosesy androtrizay ihany izao hira izao ka nampianariny ny Zanak' Isiraely."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary Izy nandidy an' i Josoa, zanakalahin' i Nona, ka nanao hoe: Mahereza sy matanjaha; fa ianao no hitondra ny Zanak' Isiraely hiditra ao amin' ny tany izay nianianako taminy homena azy, ary homba anao Aho.\""
-    },
-    {
-      "v": 24,
-      "text": "Ary izao no niseho, rehefa voasoratr' i Mosesy teo amin' ny boky avokoa ny tenin' ity lalàna ity, mandra-pahavitany,"
-    },
-    {
-      "v": 25,
-      "text": "Dia nandidy ny Levita izay mpitondra ny fiaran' ny faneken' i Jehovah i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 26,
-      "text": "Raiso ity bokin' ny lalàna ity, ka apetraho eo anilan' ny fiaran' ny faneken' i Jehovah Andriamanitrareo mba ho vavolombelona aminao."
-    },
-    {
-      "v": 27,
-      "text": "\"Fa izaho mahalala ny fiodinanao sy ny hamafin' ny hatokao; indro, na dia mbola velona eto aminareo ankehitriny aza aho, dia miodina amin' i Jehovah ianareo, ka mainka aorian' ny fahafatesako?\""
-    },
-    {
-      "v": 28,
-      "text": "\"Vorio ho eto amiko ny loholona rehetra amin' ny fokonareo sy ny mpifehy anareo mba holazaiko eo an-tsofiny izao teny izao; ary hiantso ny lanitra sy ny tany ho vavolombelona aminy aho.\""
-    },
-    {
-      "v": 29,
-      "text": "Fa fantatro fa rehefa maty aho, dia hanao ratsy tokoa ianareo ka hiala amin' ny lalana izay nandidiako anareo, dia ho tratry ny loza ianareo any am-parany, satria hanao izay ratsy eo imason' i Jehovah ianareo ka hampahatezitra Azy amin' ny asan' ny tananareo."
-    },
-    {
-      "v": 30,
-      "text": "Dia nolazain' i Mosesy ho ren' ny fiangonana, dia ny Isiraely rehetra, ny tenin' izao hira izao, mandra-pahavitany."
-    }
-  ]
+  "verses": {
+    "1": "Ary Mosesy nandeha, dia nilaza izao teny izao tamin' ny Isiraely rehetra,",
+    "2": "Ka nanao taminy hoe: Efa roapolo amby zato taona androany aho ka tsy afa-mivoaka sy miditra intsony, ary Jehovah koa efa niteny tamiko hoe: Tsy hita io Jordana io ianao.",
+    "3": "Jehovah Andriamanitrao no hita eo alohanao, ary Izy no handringana ireo firenena ireo tsy ho eo anoloanao, ka hahazo ny taniny ianao, ary Josoa no hita eo alohanao, araka izay efa nolazain' i Jehovah.",
+    "4": "Ary Jehovah hanao amin' ireo tahaka ny nataony tamin' i Sihona sy Oga, mpanjakan' ny Amorita, izay naringany sy tahaka ny nataony tamin' ny taniny.",
+    "5": "Dia hatolotr' i Jehovah eo anoloanareo ireo hanaovanareo azy araka ny didy rehetra izay nandidiako anareo.",
+    "6": "Mahereza sy matanjaha; aza matahotra, na manahy azy; fa Jehovah Andriamanitrao no miara-mandeha aminao; tsy handao anao, na hahafoy anao Izy.",
+    "7": "Ary Mosesy niantso an' i Josoa ka niteny taminy teo imason' ny Isiraely rehetra hoe: Mahereza sy matanjaha; fa ianao sy ity firenena ity dia hiara-miditra ao amin' ny tany izay nianianan' i Jehovah tamin' ny razany homena azy; ary ianao no hampandova azy izany.",
+    "8": "Ary Jehovah no mandeha eo alohanao; ary Izy no hiaraka aminao; tsy handao anao na hahafoy anao Izy; koa aza matahotra na mivadi-po ianao.",
+    "9": "Dia nosoratan' i Mosesy izao lalàna izao ka natolony ireo mpisorona, taranak' i Levy, izay mpitondra ny fiaran' ny faneken' i Jehovah sy tamin' ny loholon' ny Isiraely rehetra.",
+    "10": "Dia nandidy azy Mosesy ka nanao hoe: Amin' ny faran' ny isam-pito taona, amin' ny taom-panafahana, amin' ny andro firavoravoana momba ny tabernakely,",
+    "11": "Rehefa tonga hiseho eo anatrehan' i Jehovah Andriamanitrao eo amin' ny toerana izay hofidiny ny Isiraely rehetra, dia hovakinao eo anatrehan' ny Isiraely rehetra ity lalàna ity hihainoany azy.",
+    "12": "Vorio ny vahoaka rehetra, dia ny lehilahy sy ny vehivavy sy ny ankizy, ary ny vahininao izay ao am-bavahadinao, hihainoany sy hianarany ka hatahorany an' i Jehovah Andriamanitrareo sy hitandremany hanatanteraka ny teny rehetra amin' ity lalàna ity.",
+    "13": "Ary ny zanany izay tsy nahalala na inona na inona, dia handre, ka hianatra hatahotra an' i Jehovah Andriamanitrareo amin' ny andro rehetra iainanareo eo amin' ny tany izay ho azonareo rehefa tafita an' i Jordana ianareo.",
+    "14": "Dia hoy Jehovah tamin' i Mosesy: Indro, antomotra ny andro hahafatesanao; koa antsoy Josoa, ary misehoa ianareo ao amin' ny tranolay fihaonana mba handidiako azy. Dia nandeha Mosesy sy Josoa ka niseho teo amin' ny tranolay fihaonana izy ireo.",
+    "15": "Ary niseho teo amin' ny tranolay Jehovah, tamin' ny andri-rahona; dia nijanona teo anoloan' ny varavaran' ny tranolay ny andri-rahona.",
+    "16": "Ary hoy Jehovah tamin' i Mosesy: Indro, fa hodimandry any amin' ny razanao ianao; ary hitsangana ity firenena ity ka hijangajanga hanaraka ny andriamanitry ny firenen-kafa any amin' ny tany izay efa hidirany honenana, dia hahafoy Ahy sy hivadika ny fanekeko izay nataoko taminy.",
+    "17": "Dia hirehitra aminy ny fahatezerako amin' izany andro izany, ka hahafoy azy Aho ary hanafina ny tavako aminy, ka ho lany ritra izy, ary loza maro sy fahoriana no hanjo azy, dia hiteny izy amin' izany andro izany ka hanao hoe: Moa tsy ny tsy itoeran' Andriamanitsika eto amintsika va no mahatonga izao fahoriana izao amintsika?",
+    "18": "Ary Izaho dia hanafina ny tavako tokoa amin' izany andro izany noho ny ratsy rehetra izay hataony, fa nivily nanaraka andriamani-kafa izy.",
+    "19": "Ary ankehitriny soraty ho anareo izao hira izao, ka ampianaro ny Zanak' Isiraely, ataovy ao am-bavany izany, mba ho vavolombelona amiko ny amin' ny Zanak' Isiraely izao hira izao.",
+    "20": "Fa rehefa entiko any amin' ny tany tondra-dronono sy tantely, izay nianianako tamin' ny razany homena azy izy, ary hihinana ka ho voky sy hihamatavy, dia hivily hanaraka andriamani-kafa izy ka hanompo azy ary hampahatezitra Ahy ka hivadika ny fanekeko.",
+    "21": "Ary izao no hiseho, raha manjo azy ny zava-dratsy maro sy ny fahoriana dia ho vavolombelona aminy izao hira izao, fa tsy ho afaka am-bavan' ny taranany izao, fa fantatro ny fisainany izay efa hataony, na dia ankehitriny aza, raha tsy mbola nentiko any amin' ny tany izay nianianako homena azy izy.",
+    "22": "Dia nosoratan' i Mosesy androtrizay ihany izao hira izao ka nampianariny ny Zanak' Isiraely.",
+    "23": "Ary Izy nandidy an' i Josoa, zanakalahin' i Nona, ka nanao hoe: Mahereza sy matanjaha; fa ianao no hitondra ny Zanak' Isiraely hiditra ao amin' ny tany izay nianianako taminy homena azy, ary homba anao Aho.",
+    "24": "Ary izao no niseho, rehefa voasoratr' i Mosesy teo amin' ny boky avokoa ny tenin' ity lalàna ity, mandra-pahavitany,",
+    "25": "Dia nandidy ny Levita izay mpitondra ny fiaran' ny faneken' i Jehovah i Mosesy ka nanao hoe:",
+    "26": "Raiso ity bokin' ny lalàna ity, ka apetraho eo anilan' ny fiaran' ny faneken' i Jehovah Andriamanitrareo mba ho vavolombelona aminao.",
+    "27": "Fa izaho mahalala ny fiodinanao sy ny hamafin' ny hatokao; indro, na dia mbola velona eto aminareo ankehitriny aza aho, dia miodina amin' i Jehovah ianareo, ka mainka aorian' ny fahafatesako?",
+    "28": "Vorio ho eto amiko ny loholona rehetra amin' ny fokonareo sy ny mpifehy anareo mba holazaiko eo an-tsofiny izao teny izao; ary hiantso ny lanitra sy ny tany ho vavolombelona aminy aho.",
+    "29": "Fa fantatro fa rehefa maty aho, dia hanao ratsy tokoa ianareo ka hiala amin' ny lalana izay nandidiako anareo, dia ho tratry ny loza ianareo any am-parany, satria hanao izay ratsy eo imason' i Jehovah ianareo ka hampahatezitra Azy amin' ny asan' ny tananareo.",
+    "30": "Dia nolazain' i Mosesy ho ren' ny fiangonana, dia ny Isiraely rehetra, ny tenin' izao hira izao, mandra-pahavitany."
+  }
 }

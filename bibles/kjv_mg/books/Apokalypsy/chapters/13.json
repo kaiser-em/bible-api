@@ -1,77 +1,24 @@
 {
+  "book": "Apokalypsy",
   "chapter": 13,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary nitsangana teo ambonin’ny fasiky ny ranomasina aho, ka nahita bibidia niakatra avy tamin’ny ranomasina nanan-tandroka folo sy loha fito, ary tamin’ny tandrony dia nisy satroboninahitra folo; ary tamin’ny lohany dia nisy anaran’ny blasfemia.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary ny bibidia izay efa hitako dia tahaka ny leoparda, ary ny tongony tahaka ny tongotry ny bera, ary ny vavany tahaka ny vavan’ny liona; ary ilay dragona nanome azy ny heriny sy ny sezany ary fahefana lehibe.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary hitako ny lohany anankiray, izay toa voa ka efa ho faty; nefa sitrana ihany ilay feriny saiky nahafaty azy; ary gaga ny tany rehetra nanaraka ilay bibidia.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary dia niankohoka teo anoloan’ilay dragona ireo, satria izy no nanome ny fahefana ho an’ny bibidia: ary niankohoka teo anoloan' ny bibidia koa ireo ka nanao hoe: Iza no tahaka ny bibidia? ary iza no mahay miady aminy?"
-    },
-    {
-      "v": 5,
-      "text": "Dia nomena vava miteny zavatra mihoapampana sy blasfemia izy, ary nomena fahefana mba haharitra roa amby efapolo volana."
-    },
-    {
-      "v": 6,
-      "text": "Ary nanokatra ny vavany hanao blasfemia an’Andriamanitra izy, dia hanao blasfemia ny anarany sy ny tabernakeliny, ary ireo mitoetra any an-danitra."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary navela hiady tamin’ny olona masina izy ka haharesy azy ireo; ary nomena fahefana tamin’ny fianakaviana rehetra sy ny fiteny samy hafa ary ny firenena izy.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary hiankohoka eo anoloany ny olona rehetra monina ambonin’ny tany, dia izay tsy manana ny anarany voasoratra eo amin’ny bokin’ny fiainan’ny Zanak’ondry, Izay voavono hatramin’ny nanorenana izao tontolo izao."
-    },
-    {
-      "v": 9,
-      "text": "Raha misy manan-tsofina, aoka izy hihaino."
-    },
-    {
-      "v": 10,
-      "text": "\"Raha misy mamabo, dia mba hobaboina kosa izy; ary raha misy mamono amin’ny sabatra, dia tsy maintsy hovonoina amin’ny sabatra kosa izy. Indro ny faharetana sy ny finoan’ny olona masina.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary hitako fa, indro, nisy bibidia iray koa niakatra avy tamin’ny tany; ary nanan-tandroka roa tahaka ny an’ny zanak’ondry izy sady niteny tahaka ny dragona.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary ny fahefana rehetra nananan’ilay bibidia voalohany dia asehony eo anatrehany, ary ny tany mbamin’izay monina eo dia asainy miankohoka eo anoloan’ilay bibidia voalohany, izay efa sitrana tamin’ilay feriny saiky nahafaty azy."
-    },
-    {
-      "v": 13,
-      "text": "Ary manao famantarana lehibe izy, ka dia mampidina afo avy any an-danitra ho amin' ny tany eo imason' ny olona."
-    },
-    {
-      "v": 14,
-      "text": "Ary mamitaka izay monina ambonin’ny tany izy amin’ny fahagagana izay nomena azy hatao eo imason’ny bibidia, sady milaza amin' izay monina ambonin’ny tany koa mba hanao sary ho an’ny bibidia, izay voan’ny sabatra, nefa velona ihany."
-    },
-    {
-      "v": 15,
-      "text": "Ary navela hanome aina ny sarin’ny bibidia izy, mba hahateny ny sarin’ny bibidia, ary hampamono izay rehetra tsy mety miankohoka eo anoloan' ny sarin’ny bibidia."
-    },
-    {
-      "v": 16,
-      "text": "Ary ny olona rehetra, na ny kely, na ny lehibe, na ny manankarena na ny mahantra, na ny andevo na ny tsy andevo, dia ampandraisiny marika eo amin’ny tanany ankavanana na eo amin' ny handriny avokoa,"
-    },
-    {
-      "v": 17,
-      "text": "Mba tsy hisy hahazo hividy na hivarotra, afa-tsy izay manana ny marika, na ny anaran’ny bibidia, na ny isa an’ny anarany."
-    },
-    {
-      "v": 18,
-      "text": "\"Indro ny fahendrena. Aoka izay manan-tsaina hanisa ny isa an’ny bibidia fa isa an’olona iray izany; fa enina amby enimpolo amby eninjato no isany.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary nitsangana teo ambonin’ny fasiky ny ranomasina aho, ka nahita bibidia niakatra avy tamin’ny ranomasina nanan-tandroka folo sy loha fito, ary tamin’ny tandrony dia nisy satroboninahitra folo; ary tamin’ny lohany dia nisy anaran’ny blasfemia.",
+    "2": "Ary ny bibidia izay efa hitako dia tahaka ny leoparda, ary ny tongony tahaka ny tongotry ny bera, ary ny vavany tahaka ny vavan’ny liona; ary ilay dragona nanome azy ny heriny sy ny sezany ary fahefana lehibe.",
+    "3": "Ary hitako ny lohany anankiray, izay toa voa ka efa ho faty; nefa sitrana ihany ilay feriny saiky nahafaty azy; ary gaga ny tany rehetra nanaraka ilay bibidia.",
+    "4": "Ary dia niankohoka teo anoloan’ilay dragona ireo, satria izy no nanome ny fahefana ho an’ny bibidia: ary niankohoka teo anoloan' ny bibidia koa ireo ka nanao hoe: Iza no tahaka ny bibidia? ary iza no mahay miady aminy?",
+    "5": "Dia nomena vava miteny zavatra mihoapampana sy blasfemia izy, ary nomena fahefana mba haharitra roa amby efapolo volana.",
+    "6": "Ary nanokatra ny vavany hanao blasfemia an’Andriamanitra izy, dia hanao blasfemia ny anarany sy ny tabernakeliny, ary ireo mitoetra any an-danitra.",
+    "7": "Ary navela hiady tamin’ny olona masina izy ka haharesy azy ireo; ary nomena fahefana tamin’ny fianakaviana rehetra sy ny fiteny samy hafa ary ny firenena izy.",
+    "8": "Ary hiankohoka eo anoloany ny olona rehetra monina ambonin’ny tany, dia izay tsy manana ny anarany voasoratra eo amin’ny bokin’ny fiainan’ny Zanak’ondry, Izay voavono hatramin’ny nanorenana izao tontolo izao.",
+    "9": "Raha misy manan-tsofina, aoka izy hihaino.",
+    "10": "Raha misy mamabo, dia mba hobaboina kosa izy; ary raha misy mamono amin’ny sabatra, dia tsy maintsy hovonoina amin’ny sabatra kosa izy. Indro ny faharetana sy ny finoan’ny olona masina.",
+    "11": "Ary hitako fa, indro, nisy bibidia iray koa niakatra avy tamin’ny tany; ary nanan-tandroka roa tahaka ny an’ny zanak’ondry izy sady niteny tahaka ny dragona.",
+    "12": "Ary ny fahefana rehetra nananan’ilay bibidia voalohany dia asehony eo anatrehany, ary ny tany mbamin’izay monina eo dia asainy miankohoka eo anoloan’ilay bibidia voalohany, izay efa sitrana tamin’ilay feriny saiky nahafaty azy.",
+    "13": "Ary manao famantarana lehibe izy, ka dia mampidina afo avy any an-danitra ho amin' ny tany eo imason' ny olona.",
+    "14": "Ary mamitaka izay monina ambonin’ny tany izy amin’ny fahagagana izay nomena azy hatao eo imason’ny bibidia, sady milaza amin' izay monina ambonin’ny tany koa mba hanao sary ho an’ny bibidia, izay voan’ny sabatra, nefa velona ihany.",
+    "15": "Ary navela hanome aina ny sarin’ny bibidia izy, mba hahateny ny sarin’ny bibidia, ary hampamono izay rehetra tsy mety miankohoka eo anoloan' ny sarin’ny bibidia.",
+    "16": "Ary ny olona rehetra, na ny kely, na ny lehibe, na ny manankarena na ny mahantra, na ny andevo na ny tsy andevo, dia ampandraisiny marika eo amin’ny tanany ankavanana na eo amin' ny handriny avokoa,",
+    "17": "Mba tsy hisy hahazo hividy na hivarotra, afa-tsy izay manana ny marika, na ny anaran’ny bibidia, na ny isa an’ny anarany.",
+    "18": "Indro ny fahendrena. Aoka izay manan-tsaina hanisa ny isa an’ny bibidia fa isa an’olona iray izany; fa enina amby enimpolo amby eninjato no isany."
+  }
 }

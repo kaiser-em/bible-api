@@ -1,109 +1,32 @@
 {
+  "book": "Asa",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ry Teofilo, ilay boky voalohany dia nosoratako ny amin' izay nataon' i Jesosy sy izay nampianariny,"
-    },
-    {
-      "v": 2,
-      "text": "Hatramin' ny andro nampiakarana Azy, rehefa nodidiany tamin' ny Fanahy Masina ny apostoly izay nofidiny,"
-    },
-    {
-      "v": 3,
-      "text": "Sady nisehoany koa tamin' ny porofo betsaka tsy azo lavina tokoa taorian' ny nijaliany fa velona Izy, ka niseho taminy efapolo andro Izy ary nilaza ny zavatra momba ny fanjakan' Andriamanitra."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary raha niara-niangona teo aminy Jesosy, dia namepetra azy tsy hiala ao Jerosalema, fa hiandry ny tenifikasan' ny Ray, izay efa renareo tamiko, hoy Izy;\""
-    },
-    {
-      "v": 5,
-      "text": "\"Fa Jaona nanao batisa tokoa tamin' ny rano; fa ianareo kosa hatao batisa amin' ny Fanahy Masina rehefa afaka andro vitsivitsy.\""
-    },
-    {
-      "v": 6,
-      "text": "Koa rehefa tafangona teo ireo dia nanontany Azy hoe: Tompoko, amin' izao va no hampodianao ny fanjakana ho amin' ny Isiraely?"
-    },
-    {
-      "v": 7,
-      "text": "Fa hoy kosa Izy taminy: Tsy anareo ny hahalala ny vanin' andro na ny fotoana izay notendren' ny Ray ho adidin' ny tenany ihany."
-    },
-    {
-      "v": 8,
-      "text": "Fa hahazo hery ianareo amin' ny hilatsahan' ny Fanahy Masina aminareo, ary ho vavolombeloko any Jerosalema sy eran' i Jodia sy Samaria ary hatramin' ny faran' ny tany."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary rehefa nilaza izany Jesosy, dia nakarina Izy, raha mbola nijery izy ireo; ary nisy rahona nitondra Azy, ka tsy hitan' ny masony intsony Izy.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary raha mbola nandinika ny lanitra izy ireo tamin' ny nandehanan' i Jesosy, indreo, nisy roa lahy teo anilany niakanjo akanjo fotsy,"
-    },
-    {
-      "v": 11,
-      "text": "Izay nanao hoe: Ry lehilahy Galiliana, nahoana no mijanona eto mijery ny lanitra ianareo?Iny Jesosy Izay nampiakarina niala taminareo ho any an-danitra iny dia mbola ho avy tahaka ny nahitanareo Azy niakatra ho any an-danitra."
-    },
-    {
-      "v": 12,
-      "text": "Ary niverina tany Jerosalema izy ireo, rehefa avy teo amin' ny tendrombohitra atao hoe Oliva, izay akaikin' i Jerosalema araka izay mety haleha amin' ny andro sabata."
-    },
-    {
-      "v": 13,
-      "text": "Ary rehefa tafiditra izy, dia niakatra ho ao an' efitra ambony izay fonenany, dia Petera sy Jaona sy Jakoba sy Andrea, Filipo sy Tomasy, Bartolomeo sy Matio, Jakoba, zanak' i Alfeo, sy Simona Zelota ary Jodasy, rahalahin' i Jakoba."
-    },
-    {
-      "v": 14,
-      "text": "Ireo rehetra ireo niray saina naharitra nivavaka sy nitaraina mbamin' ny vehivavy sy Maria, renin' i Jesosy, ary ny rahalahiny."
-    },
-    {
-      "v": 15,
-      "text": "Ary tamin' izany andro izany dia nitsangana teo afovoan' ny mpianatra Petera (tokony ho roapolo amby zato no isan' ny olona vory teo) ka nanao hoe:"
-    },
-    {
-      "v": 16,
-      "text": "\"Ry lehilahy sy rahalahy, tsy maintsy notanterahina ilay tenin' ny Soratra Masina nampilazain' ny Fanahy Masina rahateo an' i Davida ny amin' i Jodasy, izay tonga mpitarika ny olona nisambotra an' i Jesosy;\""
-    },
-    {
-      "v": 17,
-      "text": "Fa izy dia isantsika ihany ka nahazo anjara tamin' izao asa fanompoana izao."
-    },
-    {
-      "v": 18,
-      "text": "\"Koa izany lehilahy izany dia nahazo saha tamin' ny tambin' ny helony; ary nianjera niankohoka izy, dia vaky ny kibony ka nipoaka sady nivaroraka avokoa ny tsinainy.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary fantatr' izay rehetra monina eto Jerosalema izany, ka ny anaran' izany saha izany amin' ny fiteniny dia atao hoe Akeldama, izany hoe Sahan-dra."
-    },
-    {
-      "v": 20,
-      "text": "\"Fa voasoratra eo amin' ny Bokin' ny Salamo hoe: Aoka ho lao ny fonenany, ary aoka tsy hisy olona honina ao; ary koa: Aoka ho lasan' olon-kafa ny anjara-fitandremany.\""
-    },
-    {
-      "v": 21,
-      "text": "Koa amin' ireo lehilahy niaraka teto amintsika mandrakariva ireo, raha niditra sy nivoaka tamintsika Jesosy Tompo,"
-    },
-    {
-      "v": 22,
-      "text": "Hatramin' ny batisan' i Jaona ka hatramin' ny andro nampiakarana Azy niala tamintsika, dia tokony hisy anankiray hotendrena ho namantsika mba ho vavolombelon' ny nitsanganany tamin' ny maty."
-    },
-    {
-      "v": 23,
-      "text": "Ary nanendry roa lahy izy ireo, dia Josefa, atao hoe Barsabasy, izay atao koa hoe Josto, ary Matia."
-    },
-    {
-      "v": 24,
-      "text": "Dia nivavaka izy ireo ka nanao hoe: Ianao, Tompo ô, Izay mahalala ny fon' ny olona rehetra, asehoy izay nofidinao amin' izy roa lahy ireto,"
-    },
-    {
-      "v": 25,
-      "text": "Mba hahazoany mandray anjara amin' izao asa fanompoana sy ny maha-apostoly izao, izay nahalavoan' i Jodasy tamin' ny fahadisoana, hankanesany any amin' ny fitoerany,"
-    },
-    {
-      "v": 26,
-      "text": "\"Dia nanao antsapaka ho azy izy ireo, ka latsaka tamin' i Matia ny antsapaka; ary izy no lany ho isan' ny apostoly iraika ambin' ny folo lahy.\""
-    }
-  ]
+  "verses": {
+    "1": "Ry Teofilo, ilay boky voalohany dia nosoratako ny amin' izay nataon' i Jesosy sy izay nampianariny,",
+    "2": "Hatramin' ny andro nampiakarana Azy, rehefa nodidiany tamin' ny Fanahy Masina ny apostoly izay nofidiny,",
+    "3": "Sady nisehoany koa tamin' ny porofo betsaka tsy azo lavina tokoa taorian' ny nijaliany fa velona Izy, ka niseho taminy efapolo andro Izy ary nilaza ny zavatra momba ny fanjakan' Andriamanitra.",
+    "4": "Ary raha niara-niangona teo aminy Jesosy, dia namepetra azy tsy hiala ao Jerosalema, fa hiandry ny tenifikasan' ny Ray, izay efa renareo tamiko, hoy Izy;",
+    "5": "Fa Jaona nanao batisa tokoa tamin' ny rano; fa ianareo kosa hatao batisa amin' ny Fanahy Masina rehefa afaka andro vitsivitsy.",
+    "6": "Koa rehefa tafangona teo ireo dia nanontany Azy hoe: Tompoko, amin' izao va no hampodianao ny fanjakana ho amin' ny Isiraely?",
+    "7": "Fa hoy kosa Izy taminy: Tsy anareo ny hahalala ny vanin' andro na ny fotoana izay notendren' ny Ray ho adidin' ny tenany ihany.",
+    "8": "Fa hahazo hery ianareo amin' ny hilatsahan' ny Fanahy Masina aminareo, ary ho vavolombeloko any Jerosalema sy eran' i Jodia sy Samaria ary hatramin' ny faran' ny tany.",
+    "9": "Ary rehefa nilaza izany Jesosy, dia nakarina Izy, raha mbola nijery izy ireo; ary nisy rahona nitondra Azy, ka tsy hitan' ny masony intsony Izy.",
+    "10": "Ary raha mbola nandinika ny lanitra izy ireo tamin' ny nandehanan' i Jesosy, indreo, nisy roa lahy teo anilany niakanjo akanjo fotsy,",
+    "11": "Izay nanao hoe: Ry lehilahy Galiliana, nahoana no mijanona eto mijery ny lanitra ianareo?Iny Jesosy Izay nampiakarina niala taminareo ho any an-danitra iny dia mbola ho avy tahaka ny nahitanareo Azy niakatra ho any an-danitra.",
+    "12": "Ary niverina tany Jerosalema izy ireo, rehefa avy teo amin' ny tendrombohitra atao hoe Oliva, izay akaikin' i Jerosalema araka izay mety haleha amin' ny andro sabata.",
+    "13": "Ary rehefa tafiditra izy, dia niakatra ho ao an' efitra ambony izay fonenany, dia Petera sy Jaona sy Jakoba sy Andrea, Filipo sy Tomasy, Bartolomeo sy Matio, Jakoba, zanak' i Alfeo, sy Simona Zelota ary Jodasy, rahalahin' i Jakoba.",
+    "14": "Ireo rehetra ireo niray saina naharitra nivavaka sy nitaraina mbamin' ny vehivavy sy Maria, renin' i Jesosy, ary ny rahalahiny.",
+    "15": "Ary tamin' izany andro izany dia nitsangana teo afovoan' ny mpianatra Petera (tokony ho roapolo amby zato no isan' ny olona vory teo) ka nanao hoe:",
+    "16": "Ry lehilahy sy rahalahy, tsy maintsy notanterahina ilay tenin' ny Soratra Masina nampilazain' ny Fanahy Masina rahateo an' i Davida ny amin' i Jodasy, izay tonga mpitarika ny olona nisambotra an' i Jesosy;",
+    "17": "Fa izy dia isantsika ihany ka nahazo anjara tamin' izao asa fanompoana izao.",
+    "18": "Koa izany lehilahy izany dia nahazo saha tamin' ny tambin' ny helony; ary nianjera niankohoka izy, dia vaky ny kibony ka nipoaka sady nivaroraka avokoa ny tsinainy.",
+    "19": "Ary fantatr' izay rehetra monina eto Jerosalema izany, ka ny anaran' izany saha izany amin' ny fiteniny dia atao hoe Akeldama, izany hoe Sahan-dra.",
+    "20": "Fa voasoratra eo amin' ny Bokin' ny Salamo hoe: Aoka ho lao ny fonenany, ary aoka tsy hisy olona honina ao; ary koa: Aoka ho lasan' olon-kafa ny anjara-fitandremany.",
+    "21": "Koa amin' ireo lehilahy niaraka teto amintsika mandrakariva ireo, raha niditra sy nivoaka tamintsika Jesosy Tompo,",
+    "22": "Hatramin' ny batisan' i Jaona ka hatramin' ny andro nampiakarana Azy niala tamintsika, dia tokony hisy anankiray hotendrena ho namantsika mba ho vavolombelon' ny nitsanganany tamin' ny maty.",
+    "23": "Ary nanendry roa lahy izy ireo, dia Josefa, atao hoe Barsabasy, izay atao koa hoe Josto, ary Matia.",
+    "24": "Dia nivavaka izy ireo ka nanao hoe: Ianao, Tompo ô, Izay mahalala ny fon' ny olona rehetra, asehoy izay nofidinao amin' izy roa lahy ireto,",
+    "25": "Mba hahazoany mandray anjara amin' izao asa fanompoana sy ny maha-apostoly izao, izay nahalavoan' i Jodasy tamin' ny fahadisoana, hankanesany any amin' ny fitoerany,",
+    "26": "Dia nanao antsapaka ho azy izy ireo, ka latsaka tamin' i Matia ny antsapaka; ary izy no lany ho isan' ny apostoly iraika ambin' ny folo lahy."
+  }
 }

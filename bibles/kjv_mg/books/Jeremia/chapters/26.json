@@ -1,101 +1,30 @@
 {
+  "book": "Jeremia",
   "chapter": 26,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tamin' ny niandohan' ny nanjakan' i Joiakima, zanak' i Josia, mpanjakan' ny Joda, no nahatongavan' izao teny izao avy tamin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Izao no lazain' i Jehovah: Mitsangàna eo an-kianjan' ny tranon' i Jehovah, ka lazao amin' ny tanànan' ny Joda rehetra, izay avy hiankohoka ao an-tranon' i Jehovah, ny teny rehetra nandidiako anao hambara aminy ary aza hanalana na dia teny iray aza."
-    },
-    {
-      "v": 3,
-      "text": "Fa angamba hihaino ihany izy, ka samy hiala amin' ny lalany ratsy, dia hanenenako ny loza izay kasaiko hamelezana azy noho ny faharatsian' ny ataony."
-    },
-    {
-      "v": 4,
-      "text": "Ary lazao aminy hoe: Izao no lazain' i Jehovah: Raha tsy mihaino Ahy ianareo ka tsy mandeha araka ny lalàko izay napetrako teo anoloanareo,"
-    },
-    {
-      "v": 5,
-      "text": "Hihaino ny tenin' ny mpaminany mpanompoko izay nirahiko taminareo, sady nifoha maraina koa Aho no naniraka, nefa tsy nihaino ianareo,"
-    },
-    {
-      "v": 6,
-      "text": "Dia hataoko tahaka an' i Silo ity trano ity, ary hataoko fanozonana ho an' ny firenena rehetra ambonin' ny tany ity tanàna ity."
-    },
-    {
-      "v": 7,
-      "text": "Ary ny mpisorona sy ny mpaminany mbamin' ny vahoaka rehetra dia nandre an' i Jeremia nanambara ireo teny rehetra ireo tao an-tranon' i Jehovah."
-    },
-    {
-      "v": 8,
-      "text": "Koa izao no niseho, nony efa tapitra voalazan' i Jeremia izay rehetra nandidian' i Jehovah holazaina tamin' ny vahoaka rehetra dia nosamborin' ny mpisorona sy ny mpaminany mbamin' ny vahoaka rehetra izy ka nataony hoe: Ho faty tokoa ianao."
-    },
-    {
-      "v": 9,
-      "text": "Nahoana ianao no naminany tamin' ny anaran' i Jehovah hoe: Ho tahaka an' i Silo ity trano ity, ka tsy hisy mponina? Ary ny vahoaka rehetra dia nitangorona tamin' i Jeremia tao an-tranon' i Jehovah."
-    },
-    {
-      "v": 10,
-      "text": "Fa nony ren' ny mpanapaka ny Joda izany zavatra izany, dia niakatra avy tany amin' ny tranon' ny mpanjaka nankany amin' ny tranon' i Jehovah izy ka nipetraka teo anoloan' ny vavahady vaovaon' i Jehovah."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary ny mpisorona sy ny mpaminany nilaza tamin' ny mpanapaka sy ny vahoaka rehetra hoe: Mendrika ny ho faty ity lehilahy ity; fa efa naminany loza ho amin' ity tanàna ity izy araka izay efa ren' ny sofinareo.\""
-    },
-    {
-      "v": 12,
-      "text": "Dia nilaza tamin' ny mpanapaka rehetra sy ny vahoaka rehetra Jeremia hoe: Jehovah no naniraka ahy haminany izay rehetra efa renareo ny amin' ity trano sy ity tanàna ity."
-    },
-    {
-      "v": 13,
-      "text": "\"Koa ankehitriny, amboary tsara ny lalanareo sy ny ataonareo, ary mankatoava ny feon' i Jehovah Andriamanitrareo; dia hanenenan' i Jehovah ny loza izay efa nolazainy hamelezana anareo.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Fa ny amiko, dia, indro, efa eto an-tananareo aho; koa ataovy amiko izay ataonareo ho mety sy marina.\""
-    },
-    {
-      "v": 15,
-      "text": "Kanefa fantaro tsara, fa raha mamono ahy ianareo, dia hahatonga rà marina aminareo sy amin' ity tanàna ity ary amin' ny mponina eto, satria Jehovah tokoa no naniraka ahy taminareo hilaza ireo teny rehetra ireo ho renareo."
-    },
-    {
-      "v": 16,
-      "text": "Dia hoy ny mpanapaka sy ny vahoaka rehetra tamin' ny mpisorona sy ny mpaminany: tsy tokony ho faty ity lehilahy ity, satria tamin' ny anaran' i Jehovah Andriamanitsika no nitenenany tamintsika."
-    },
-    {
-      "v": 17,
-      "text": "Dia nisy nitsangana ny loholona tamin' ny tany ka nanao tamin' ny vahoaka rehetra vory teo hoe:"
-    },
-    {
-      "v": 18,
-      "text": "Mika Morastita dia naminany tamin' ny andron' i Hezekia mpanjakan' ny Joda, ka niteny tamin' ny vahoaka Joda rehetra hoe: Izao no lazain' i Jehovah Tompon' ny maro: Ziona dia hasaina toy ny tanimboly, ary Jerosalema ho tonga korontam-bato, ary ny tendrombohitra misy ny trano dia ho tonga toy ny fitoerana avo mifono ala."
-    },
-    {
-      "v": 19,
-      "text": "Moa namono azy va Hezekia, mpanjakan' ny Joda sy ny Joda rehetra? Tsy natahotra an' i Jehovah va izy ka nifona tamin' i Jehovah ary dia nanenenan' i Jehovah ny loza izay efa nolazainy hamelezany azy? Fa isika kosa izao dia mila hampidi-doza lehibe amin' ny fanahintsika."
-    },
-    {
-      "v": 20,
-      "text": "Ary nisy lehilahy anankiray koa izay naminany tamin' ny anaran' i Jehovah, dia Oria, zanak' i Semaia, avy any Kiriata-jearima, izay naminany loza ho amin' ity tanàna sy ity tany ity araka izany teny rehetra nataon' i Jeremia izany koa."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary nony ren' i Joiakima mpanjaka sy ny lehilahy maheriny rehetra mbamin' ny mpanapaka rehetra ny teniny, dia nitady hahafaty azy ny mpanjaka; ary nony nandre izany Oria, dia natahotra izy ka nandositra, ary tonga tany Egypta;\""
-    },
-    {
-      "v": 22,
-      "text": "Ary Joiakima mpanjaka naniraka olona nankany Egypta, dia Elnatana, zanak' i Akbora, mbamin' ny olona sasany nanaraka azy hankany Egypta."
-    },
-    {
-      "v": 23,
-      "text": "Ary Oria dia nalain' ireo niala avy tany Egypta ka nentiny tany amin' i Joiakima mpanjaka izay namono azy tamin' ny sabatra sy nanary ny fatiny teny amin' ny fasam-bahoaka."
-    },
-    {
-      "v": 24,
-      "text": "Nefa ny tanan' i Ahikama, zanak' i Safana, dia nomba an' i Jeremia mba tsy hanolorana azy ho eo an-tanan' ny vahoaka hamonoany azy."
-    }
-  ]
+  "verses": {
+    "1": "Tamin' ny niandohan' ny nanjakan' i Joiakima, zanak' i Josia, mpanjakan' ny Joda, no nahatongavan' izao teny izao avy tamin' i Jehovah nanao hoe:",
+    "2": "Izao no lazain' i Jehovah: Mitsangàna eo an-kianjan' ny tranon' i Jehovah, ka lazao amin' ny tanànan' ny Joda rehetra, izay avy hiankohoka ao an-tranon' i Jehovah, ny teny rehetra nandidiako anao hambara aminy ary aza hanalana na dia teny iray aza.",
+    "3": "Fa angamba hihaino ihany izy, ka samy hiala amin' ny lalany ratsy, dia hanenenako ny loza izay kasaiko hamelezana azy noho ny faharatsian' ny ataony.",
+    "4": "Ary lazao aminy hoe: Izao no lazain' i Jehovah: Raha tsy mihaino Ahy ianareo ka tsy mandeha araka ny lalàko izay napetrako teo anoloanareo,",
+    "5": "Hihaino ny tenin' ny mpaminany mpanompoko izay nirahiko taminareo, sady nifoha maraina koa Aho no naniraka, nefa tsy nihaino ianareo,",
+    "6": "Dia hataoko tahaka an' i Silo ity trano ity, ary hataoko fanozonana ho an' ny firenena rehetra ambonin' ny tany ity tanàna ity.",
+    "7": "Ary ny mpisorona sy ny mpaminany mbamin' ny vahoaka rehetra dia nandre an' i Jeremia nanambara ireo teny rehetra ireo tao an-tranon' i Jehovah.",
+    "8": "Koa izao no niseho, nony efa tapitra voalazan' i Jeremia izay rehetra nandidian' i Jehovah holazaina tamin' ny vahoaka rehetra dia nosamborin' ny mpisorona sy ny mpaminany mbamin' ny vahoaka rehetra izy ka nataony hoe: Ho faty tokoa ianao.",
+    "9": "Nahoana ianao no naminany tamin' ny anaran' i Jehovah hoe: Ho tahaka an' i Silo ity trano ity, ka tsy hisy mponina? Ary ny vahoaka rehetra dia nitangorona tamin' i Jeremia tao an-tranon' i Jehovah.",
+    "10": "Fa nony ren' ny mpanapaka ny Joda izany zavatra izany, dia niakatra avy tany amin' ny tranon' ny mpanjaka nankany amin' ny tranon' i Jehovah izy ka nipetraka teo anoloan' ny vavahady vaovaon' i Jehovah.",
+    "11": "Ary ny mpisorona sy ny mpaminany nilaza tamin' ny mpanapaka sy ny vahoaka rehetra hoe: Mendrika ny ho faty ity lehilahy ity; fa efa naminany loza ho amin' ity tanàna ity izy araka izay efa ren' ny sofinareo.",
+    "12": "Dia nilaza tamin' ny mpanapaka rehetra sy ny vahoaka rehetra Jeremia hoe: Jehovah no naniraka ahy haminany izay rehetra efa renareo ny amin' ity trano sy ity tanàna ity.",
+    "13": "Koa ankehitriny, amboary tsara ny lalanareo sy ny ataonareo, ary mankatoava ny feon' i Jehovah Andriamanitrareo; dia hanenenan' i Jehovah ny loza izay efa nolazainy hamelezana anareo.",
+    "14": "Fa ny amiko, dia, indro, efa eto an-tananareo aho; koa ataovy amiko izay ataonareo ho mety sy marina.",
+    "15": "Kanefa fantaro tsara, fa raha mamono ahy ianareo, dia hahatonga rà marina aminareo sy amin' ity tanàna ity ary amin' ny mponina eto, satria Jehovah tokoa no naniraka ahy taminareo hilaza ireo teny rehetra ireo ho renareo.",
+    "16": "Dia hoy ny mpanapaka sy ny vahoaka rehetra tamin' ny mpisorona sy ny mpaminany: tsy tokony ho faty ity lehilahy ity, satria tamin' ny anaran' i Jehovah Andriamanitsika no nitenenany tamintsika.",
+    "17": "Dia nisy nitsangana ny loholona tamin' ny tany ka nanao tamin' ny vahoaka rehetra vory teo hoe:",
+    "18": "Mika Morastita dia naminany tamin' ny andron' i Hezekia mpanjakan' ny Joda, ka niteny tamin' ny vahoaka Joda rehetra hoe: Izao no lazain' i Jehovah Tompon' ny maro: Ziona dia hasaina toy ny tanimboly, ary Jerosalema ho tonga korontam-bato, ary ny tendrombohitra misy ny trano dia ho tonga toy ny fitoerana avo mifono ala.",
+    "19": "Moa namono azy va Hezekia, mpanjakan' ny Joda sy ny Joda rehetra? Tsy natahotra an' i Jehovah va izy ka nifona tamin' i Jehovah ary dia nanenenan' i Jehovah ny loza izay efa nolazainy hamelezany azy? Fa isika kosa izao dia mila hampidi-doza lehibe amin' ny fanahintsika.",
+    "20": "Ary nisy lehilahy anankiray koa izay naminany tamin' ny anaran' i Jehovah, dia Oria, zanak' i Semaia, avy any Kiriata-jearima, izay naminany loza ho amin' ity tanàna sy ity tany ity araka izany teny rehetra nataon' i Jeremia izany koa.",
+    "21": "Ary nony ren' i Joiakima mpanjaka sy ny lehilahy maheriny rehetra mbamin' ny mpanapaka rehetra ny teniny, dia nitady hahafaty azy ny mpanjaka; ary nony nandre izany Oria, dia natahotra izy ka nandositra, ary tonga tany Egypta;",
+    "22": "Ary Joiakima mpanjaka naniraka olona nankany Egypta, dia Elnatana, zanak' i Akbora, mbamin' ny olona sasany nanaraka azy hankany Egypta.",
+    "23": "Ary Oria dia nalain' ireo niala avy tany Egypta ka nentiny tany amin' i Joiakima mpanjaka izay namono azy tamin' ny sabatra sy nanary ny fatiny teny amin' ny fasam-bahoaka.",
+    "24": "Nefa ny tanan' i Ahikama, zanak' i Safana, dia nomba an' i Jeremia mba tsy hanolorana azy ho eo an-tanan' ny vahoaka hamonoany azy."
+  }
 }

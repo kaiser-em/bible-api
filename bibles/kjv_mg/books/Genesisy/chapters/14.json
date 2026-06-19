@@ -1,101 +1,30 @@
 {
+  "book": "Genesisy",
   "chapter": 14,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izao no niseho tamin' ny andron' i Amrafela, mpanjakan' i Sinara, sy Arioka mpanjakan' i Elasara, sy Kedorlaomera mpanjakan' i Elama, ary Tidala mpanjakan' ny firenena maro,"
-    },
-    {
-      "v": 2,
-      "text": "Dia nandeha izy ireo ka nanafika an' i Bera, mpanjakan' i Sodoma, sy Birsa, mpanjakan' i Gomora, sy Sinaba, mpanjakan' i Adma, sy Semebera, mpanjakan' i Zeboima, ary ny mpanjakan' i Bela (dia Zoara izany)."
-    },
-    {
-      "v": 3,
-      "text": "Ireo rehetra ireo dia nihaona tao an-dohasahan' i Sidima, dia ny Ranomasin-tsira."
-    },
-    {
-      "v": 4,
-      "text": "Nanompo an' i Kedorlaomera roa ambin' ny folo taona ireo, fa tamin' ny fahatelo ambin' ny folo taona dia niodina izy."
-    },
-    {
-      "v": 5,
-      "text": "Ary tamin' ny taona fahefatra ambin' ny folo dia tonga Kedorlaomera sy ireo mpanjaka nomba azy ka namely ny Refaïta tany Astarta-Karnaima sy ny Zozima tany Hama ary ny Emima tany Save-Kiriataima,"
-    },
-    {
-      "v": 6,
-      "text": "Ary ny Horita tany an-tendrombohitra Seïra hatrany El-parana, izay eo anilan' ny efitra."
-    },
-    {
-      "v": 7,
-      "text": "Dia niverina ireo, ka nankany Enamispata, dia Kadesy izany ka namely ny tany rehetra an' ny Amalekita sy ny Amorita koa, izay nonina tany Hazazon-tamara."
-    },
-    {
-      "v": 8,
-      "text": "Dia nivoaka ny mpanjakan' i Sodoma sy ny mpanjakan' i Gomora sy ny mpanjakan' i Adma sy ny mpanjakan' i Zeboima ary ny mpanjakan' i Bela (dia Zoara izany) ka nilahatra hiady amin' ireo tao an-dohasahan' i Sidima."
-    },
-    {
-      "v": 9,
-      "text": "\"Dia tamin' i Kedorlaomera mpanjakan' i Elama, sy Tidala mpanjakan' ny firenena maro sy Amrafela, mpanjakan' i Sinara, ary Arioka, mpanjakan' i Elasara; dia mpanjaka efatra no niady tamin' ny mpanjaka dimy.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary ny lohasahan' i Sidima dia be lavak' asfalta, ary nandositra ny mpanjakan' i Sodoma sy ny mpanjakan' i Gomora ka latsaka tao; ary ny sisa nandositra tany an-tendrombohitra.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary namabo ny fananana rehetra tao Sodoma sy Gomora ary ny hanina rehetra ireo, dia lasa nandeha."
-    },
-    {
-      "v": 12,
-      "text": "Ary namabo ny zana-drahalahin' i Abrama koa izy, izay nonina tao Sodoma, dia Lota, mbamin' ny fananany, ka lasa nandeha."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary tonga ny anankiray izay efa nandositra ka nanambara tamin' i Abrama Hebreo, izay nonina tany amin' ny lemak' i Mamre Amorita, rahalahin' i Eskola sy rahalahin' i Anera; ary ireo dia efa vita fanekena tamin' i Abrama.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary raha nahare Abrama fa lasan-ko babo ny rahalahiny, dia nitondra ny ompikeliny valo ambin' ny folo amby telonjato izy, izay efa nahay niady, ka nanenjika azy hatrany Dana."
-    },
-    {
-      "v": 15,
-      "text": "\"Dia nitokotoko hamely azy nony alina izy sy ny mpanompony; dia namely azy izy ka nanenjika azy hatrany Hoba izay eo ankavian' i Damaskosy.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary nampody ny fananana rehetra izy, ary Lota rahalahiny sy ny fananany dia nampodiny koa mbamin' ny vehivavy sy ny vahoaka."
-    },
-    {
-      "v": 17,
-      "text": "Dia nivoaka ny mpanjakan' i Sodoma hitsena azy teo an-dohasaha Save izay lohasahan' ny mpanjaka, taorian' ny niverenany avy namono an' i Kedorlaomera sy ireo mpanjaka nomba azy."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary nivoaka Melkizedeka mpanjakan' i Salema nitondra mofo sy divay; ary izy dia mpisoron' Andriamanitra Avo indrindra.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Dia nitsodrano azy izy, ka nanao hoe: Hotahin' Andriamanitra Avo Indrindra tompon' ny lanitra sy ny tany anie Abrama;\""
-    },
-    {
-      "v": 20,
-      "text": "Ary isaorana anie Andriamanitra Avo Indrindra, Izay efa nanolotra ny fahavalonao teo an-tananao.Dia nomen' i Abrama azy ny ampahafolon' ny zavatra rehetra."
-    },
-    {
-      "v": 21,
-      "text": "Ary hoy ny mpanjakan' i Sodoma tamin' i Abrama: Omeo ahy ny olona, fa ny fananana ento ihany ho anao."
-    },
-    {
-      "v": 22,
-      "text": "Fa hoy Abrama tamin' ny mpanjakan' i Sodoma: Izaho efa nanangan-tanana tamin' i Jehovah, Andriamanitra Avo Indrindra, izay tompon' ny lanitra sy ny tany,"
-    },
-    {
-      "v": 23,
-      "text": "Fa tsy handray na kofehy na fehin-kapa, ary tsy handray na inona na inona amin' izay anao, fandrao hataonao hoe: Izaho no nampanankarena an' i Abrama,"
-    },
-    {
-      "v": 24,
-      "text": "\"Afa-tsy izay efa nohanin' ny zatovo sy ny anjaran' ny olona izay niaraka tamiko, dia Anera sy Eskola ary Mamre; aoka horaisin' ireo ny anjarany.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no niseho tamin' ny andron' i Amrafela, mpanjakan' i Sinara, sy Arioka mpanjakan' i Elasara, sy Kedorlaomera mpanjakan' i Elama, ary Tidala mpanjakan' ny firenena maro,",
+    "2": "Dia nandeha izy ireo ka nanafika an' i Bera, mpanjakan' i Sodoma, sy Birsa, mpanjakan' i Gomora, sy Sinaba, mpanjakan' i Adma, sy Semebera, mpanjakan' i Zeboima, ary ny mpanjakan' i Bela (dia Zoara izany).",
+    "3": "Ireo rehetra ireo dia nihaona tao an-dohasahan' i Sidima, dia ny Ranomasin-tsira.",
+    "4": "Nanompo an' i Kedorlaomera roa ambin' ny folo taona ireo, fa tamin' ny fahatelo ambin' ny folo taona dia niodina izy.",
+    "5": "Ary tamin' ny taona fahefatra ambin' ny folo dia tonga Kedorlaomera sy ireo mpanjaka nomba azy ka namely ny Refaïta tany Astarta-Karnaima sy ny Zozima tany Hama ary ny Emima tany Save-Kiriataima,",
+    "6": "Ary ny Horita tany an-tendrombohitra Seïra hatrany El-parana, izay eo anilan' ny efitra.",
+    "7": "Dia niverina ireo, ka nankany Enamispata, dia Kadesy izany ka namely ny tany rehetra an' ny Amalekita sy ny Amorita koa, izay nonina tany Hazazon-tamara.",
+    "8": "Dia nivoaka ny mpanjakan' i Sodoma sy ny mpanjakan' i Gomora sy ny mpanjakan' i Adma sy ny mpanjakan' i Zeboima ary ny mpanjakan' i Bela (dia Zoara izany) ka nilahatra hiady amin' ireo tao an-dohasahan' i Sidima.",
+    "9": "Dia tamin' i Kedorlaomera mpanjakan' i Elama, sy Tidala mpanjakan' ny firenena maro sy Amrafela, mpanjakan' i Sinara, ary Arioka, mpanjakan' i Elasara; dia mpanjaka efatra no niady tamin' ny mpanjaka dimy.",
+    "10": "Ary ny lohasahan' i Sidima dia be lavak' asfalta, ary nandositra ny mpanjakan' i Sodoma sy ny mpanjakan' i Gomora ka latsaka tao; ary ny sisa nandositra tany an-tendrombohitra.",
+    "11": "Ary namabo ny fananana rehetra tao Sodoma sy Gomora ary ny hanina rehetra ireo, dia lasa nandeha.",
+    "12": "Ary namabo ny zana-drahalahin' i Abrama koa izy, izay nonina tao Sodoma, dia Lota, mbamin' ny fananany, ka lasa nandeha.",
+    "13": "Ary tonga ny anankiray izay efa nandositra ka nanambara tamin' i Abrama Hebreo, izay nonina tany amin' ny lemak' i Mamre Amorita, rahalahin' i Eskola sy rahalahin' i Anera; ary ireo dia efa vita fanekena tamin' i Abrama.",
+    "14": "Ary raha nahare Abrama fa lasan-ko babo ny rahalahiny, dia nitondra ny ompikeliny valo ambin' ny folo amby telonjato izy, izay efa nahay niady, ka nanenjika azy hatrany Dana.",
+    "15": "Dia nitokotoko hamely azy nony alina izy sy ny mpanompony; dia namely azy izy ka nanenjika azy hatrany Hoba izay eo ankavian' i Damaskosy.",
+    "16": "Ary nampody ny fananana rehetra izy, ary Lota rahalahiny sy ny fananany dia nampodiny koa mbamin' ny vehivavy sy ny vahoaka.",
+    "17": "Dia nivoaka ny mpanjakan' i Sodoma hitsena azy teo an-dohasaha Save izay lohasahan' ny mpanjaka, taorian' ny niverenany avy namono an' i Kedorlaomera sy ireo mpanjaka nomba azy.",
+    "18": "Ary nivoaka Melkizedeka mpanjakan' i Salema nitondra mofo sy divay; ary izy dia mpisoron' Andriamanitra Avo indrindra.",
+    "19": "Dia nitsodrano azy izy, ka nanao hoe: Hotahin' Andriamanitra Avo Indrindra tompon' ny lanitra sy ny tany anie Abrama;",
+    "20": "Ary isaorana anie Andriamanitra Avo Indrindra, Izay efa nanolotra ny fahavalonao teo an-tananao.Dia nomen' i Abrama azy ny ampahafolon' ny zavatra rehetra.",
+    "21": "Ary hoy ny mpanjakan' i Sodoma tamin' i Abrama: Omeo ahy ny olona, fa ny fananana ento ihany ho anao.",
+    "22": "Fa hoy Abrama tamin' ny mpanjakan' i Sodoma: Izaho efa nanangan-tanana tamin' i Jehovah, Andriamanitra Avo Indrindra, izay tompon' ny lanitra sy ny tany,",
+    "23": "Fa tsy handray na kofehy na fehin-kapa, ary tsy handray na inona na inona amin' izay anao, fandrao hataonao hoe: Izaho no nampanankarena an' i Abrama,",
+    "24": "Afa-tsy izay efa nohanin' ny zatovo sy ny anjaran' ny olona izay niaraka tamiko, dia Anera sy Eskola ary Mamre; aoka horaisin' ireo ny anjarany."
+  }
 }

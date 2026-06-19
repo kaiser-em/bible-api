@@ -1,201 +1,55 @@
 {
+  "book": "Nomery",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy sy Arona ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Alao isa ny taranak' i Kehata eo amin' ny zanakalahin' i Levy, araka ny fianakaviany, araka ny ankohonan' ny rainy,"
-    },
-    {
-      "v": 3,
-      "text": "Hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona, dia izay rehetra miditra amin' ny antokony hanao raharaha ao amin' ny tranolay fihaonana."
-    },
-    {
-      "v": 4,
-      "text": "Izao no ho fanompoan' ny taranak' i Kehata ao amin' ny tranolay fihaonana, dia ny zavatra masina indrindra."
-    },
-    {
-      "v": 5,
-      "text": "Ary raha hifindra ny toby, dia hiditra Arona sy ny zanany lahy ka hampidina ny efitra lamba fanakonana, ary hasarony ny fiaran' ny Vavolombelona izany."
-    },
-    {
-      "v": 6,
-      "text": "Ary hodi-takasy no hataony sarona eo amboniny, ka lamba volon' ondry manga tokam-bolo no hovelariny hasarony eo ambonin' io, dia hataony eo aminy ny baony."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary hamelatra lamba volon' ondry manga eo ambonin' ny latabatry ny mofo aseho izy, ka hataony eo ny lovia sy ny sotro sy ny tsangambava ary ny fanaronana izay anaronana azy; ary ny mofo aseho dia hataony eo amboniny.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Dia hovelarany lamba jaky eo amboniny, ka hosaronany amin' ny sarona hodi-takasy izany; dia hataony eo aminy ny baony.\""
-    },
-    {
-      "v": 9,
-      "text": "Dia haka lamba volon' ondry manga izy, ka hasarony ny fanaovanjiro fanazavana sy ny lela fanaovanjirony sy ny hetin-jirony sy ny fitoeran-davenon-jirony ary ny fitoeran-diloilo rehetra eo, izay anaovany ny asa fanompoana."
-    },
-    {
-      "v": 10,
-      "text": "Ary ireo sy ny fanaka rehetra momba azy dia hataony ao anatin' ny sarona hodi-takasy ka hatainginy eo ambonin' ny filanjana azy."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary hamelatra lamba manga eo ambonin' ny alitara volamena izy, dia hosaronany sarona hodi-takasy, ary hataony eo aminy ny baony;\""
-    },
-    {
-      "v": 12,
-      "text": "Dia halainy ny fanaka rehetra enti-manompo, dia izay fanaovany fanompoana ao amin' ny fitoerana masina, dia hataony ao anaty lamba manga ka hosaronany sarona hodi-takasy, dia hatainginy eo ambonin' ny filanjana."
-    },
-    {
-      "v": 13,
-      "text": "Dia hanaisotra ny lavenona amin' ny alitara izy ka hamelatra lamba volomparasy eo amboniny."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary hapetrany eo amboniny ny fanaka rehetra momba azy, izay fanaovany ny asa fanompoana eo, dia ny fitondran' afo, ny fitrebika sy ny sotron' afo ary ny lovia famafazana, dia ny fanaka rehetra momba ny alitara; ary hovelarany sarona hodi-takasy eo amboniny izy, dia hataony eo aminy ny baony.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary rehefa vitan' i Arona sy ny zanany lahy ny manarona ny fitoerana masina sy ny fanaka rehetra momba ny fitoerana masina, ka efa hifindra ny toby, dia vao izay no ho avy ny zanakalahin' i Kehata hitondra azy; fa tsy hikasika ny zavatra masina izy, fandrao maty. Izany zavatra momba ny tranolay fihaonana izany no ho anjara entan' ny zanakalahin' i Kehata.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary ny raharahan' i Eleazara, zanakalahin' i Arona mpisorona, dia ny momba ny diloilo hatao fanazavana sy ny ditin-kazo mani-pofona sy ny fanatitra hohanina fanao isan' andro ary ny diloilo fanosorana, dia ny raharaha rehetra amin' ny tabernakely sy izay rehetra ao anatiny amin' ny fitoerana masina sy ny fanaka momba azy."
-    },
-    {
-      "v": 17,
-      "text": "Ary Jehovah niteny tamin' i Mosesy sy Arona ka nanao hoe:"
-    },
-    {
-      "v": 18,
-      "text": "\"Aza avela ho fongana tsy ho amin' ny Levita ny fokon' ny fianakavian' ny Kehatita;\""
-    },
-    {
-      "v": 19,
-      "text": "Fa izao no hataonareo aminy, mba ho velona izy fa tsy ho faty, raha manatona ny zavatra masina indrindra: Arona sy ny zanany lahy no hiditra ao ka hanendry azy rehetra samy ho amin' ny fanompoany sy amin' ny entany avy."
-    },
-    {
-      "v": 20,
-      "text": "Fa tsy hiditra hijery izy rehefa voasarona ny zava-masina, fandrao maty izy."
-    },
-    {
-      "v": 21,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 22,
-      "text": "\"Alao isa koa ny zanakalahin' i Gersona araka ny ankohonan-drainy, araka ny fianakaviany;\""
-    },
-    {
-      "v": 23,
-      "text": "Hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona no isainareo dia izay rehetra miditra hanao ny fanompoana hanao ny asa ao amin' ny tranolay fihaonana."
-    },
-    {
-      "v": 24,
-      "text": "Izao no fanompoan' ny fianakavian' ny Gersonita: hanompo sy hitondra ny entana."
-    },
-    {
-      "v": 25,
-      "text": "Hitondra ny lambam-baravaran' ny tabernakely izy, sy ny tranolay fihaonana sy ny firakony sy ny sarona hodi-takasy izay eo amboniny ary ny varavarana lamba amin' ny varavaran' ny tranolay fihaonana,"
-    },
-    {
-      "v": 26,
-      "text": "\"Ary ny fefy lamban' ny kianja sy ny vavahady lamba amin' ny vavahadin' ny kianja, izay manodidina ny tabernakely sy ny alitara, ary ny kofehiny mbamin' ny fiasàna rehetra momba azy; ary izay rehetra atao amin' ireo no ho fanompoany.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Araka ny fanendren' i Arona sy ny zanany lahy no hanaovan' ny zanakalahin' ny Gersonita ny asa fanompoana eo amin' ny entany rehetra sy ny fanompoany rehetra; ka ianareo no hanendry azy ireo ny amin' ireo entany rehetra.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ireo no asa fanompoan' ny fianakavian' ny zanakalahin' i Gersona eo amin' ny tranolay fihaonana; ary ny anjara raharahany dia eo ambany fifehezan' Itamara zanakalahin' i Arona mpisorona.\""
-    },
-    {
-      "v": 29,
-      "text": "Ny amin' ny zanakalahin' i Merary dia isao araka ny fianakaviany, araka ny ankohonan' ny rainy."
-    },
-    {
-      "v": 30,
-      "text": "Ny hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona no isainao, dia izay rehetra miditra ao amin' ny fanompoana hanao ny asa amin' ny tranolay fihaonana."
-    },
-    {
-      "v": 31,
-      "text": "Ary izao no ho anjara-raharahany ny amin' ny entana araka ny fanompoany rehetra ao amin' ny tranolay fihaonana: ny hazofisaka amin' ny tabernakely sy ny barany sy ny andriny sy ny faladiany,"
-    },
-    {
-      "v": 32,
-      "text": "\"Sy ny tsangantsangan' ny kianja manodidina sy ny faladiany sy ny tsimany rehetra ary ny kofehy momba ny fiasàna rehetra sy ny zavatra rehetra enti-manao fanompoana ao; ary araka ny anarany avy no handaminanareo ny fanaka izay anjarany hoentina.\""
-    },
-    {
-      "v": 33,
-      "text": "Ireo no ho fanompoan' ny fianakavian' ny zanakalahin' i Merary, araka ny asa fanompoany rehetra ao amin' ny tranolay fihaonana, eo ambany fifehezan' Itamara, zanakalahin' i Arona mpisorona."
-    },
-    {
-      "v": 34,
-      "text": "Ary Mosesy sy Arona ary ny lohan' ny fiangonana dia nanisa ny zanakalahin' ny Kehatita araka ny fianakaviany sy araka ny ankohonan' ny rainy,"
-    },
-    {
-      "v": 35,
-      "text": "\"Hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona, dia izay rehetra niditra ho amin' ny fanompoana amin' ny asa ao amin' ny tranolay fihaonana;\""
-    },
-    {
-      "v": 36,
-      "text": "Ary ireo izay voaisa taminy, araka ny fianakaviany dia dimampolo amby fitonjato sy roa arivo."
-    },
-    {
-      "v": 37,
-      "text": "Ireo no voaisa tamin' ny fianakavian' ny Kehatita, dia izay rehetra tokony hanao ny asa fanompoana ao amin' ny tranolay fihaonana, ka nisain' i Mosesy sy Arona araka ny didin' i Jehovah tamin' ny alalan' i Mosesy."
-    },
-    {
-      "v": 38,
-      "text": "Ary ireo izay voaisa tamin' ny zanakalahin' i Gersona, araka ny fianakaviany, araka ny ankohonan' ny rainy,"
-    },
-    {
-      "v": 39,
-      "text": "Hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona, dia izay rehetra niditra amin' ny fanompoana ho amin' ny asan' ny tranolay fihaonana,"
-    },
-    {
-      "v": 40,
-      "text": "Ary ireo izay voaisa taminy, araka ny fianakaviany, araka ny ankohonan' ny rainy, dia telopolo amby eninjato sy roa arivo."
-    },
-    {
-      "v": 41,
-      "text": "Ireo no nisaina tamin' ny fianakavian' ny zanakalahin' i Gersona, izay rehetra manao fanompoana ao amin' ny tranolay fihaonana, dia izay nisain' i Mosesy sy Arona araka ny didin' i Jehovah."
-    },
-    {
-      "v": 42,
-      "text": "Ary ireo izay voaisa tamin' ny fianakavian' ny zanakalahin' i Merary araka ny fianakaviany sy ny ankohonan' ny rainy,"
-    },
-    {
-      "v": 43,
-      "text": "Hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona, dia izay rehetra miditra amin' ny fanompoana, ho amin' ny asan' ny tranolay fihaonana,"
-    },
-    {
-      "v": 44,
-      "text": "\"Ireo izay voaisa taminy araka ny fianakaviany, dia roanjato sy telo arivo;\""
-    },
-    {
-      "v": 45,
-      "text": "Ireo no voaisa tamin' ny fianakaviana avy tamin'ny zanakalahin'i Merary, izay nisain' i Mosesy sy Arona araka ny tenin' i Jehovah tamin' ny alalan' i Mosesy."
-    },
-    {
-      "v": 46,
-      "text": "Ireo rehetra voaisa tamin' ny Levita izay nisain' i Mosesy sy Arona mbamin' ny lohan' ny Isiraely, araka ny fianakaviany sy araka ny ankohonan' ny rainy,"
-    },
-    {
-      "v": 47,
-      "text": "Hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona, dia izay rehetra tonga hanao ny asa fanompoana sy ny fitondrana entana ao amin' ny tranolay fihaonana,"
-    },
-    {
-      "v": 48,
-      "text": "Izay voaisa taminy dia valopolo amby dimanjato sy valo arivo."
-    },
-    {
-      "v": 49,
-      "text": "\"Araka ny didin' i Jehovah izay nampitondrainy an' i Mosesy no nanisany azy samy araka ny fanompoany sy araka ny entany avy; toy izany no nanisany azy araka izay nandidian' i Jehovah an' i Mosesy.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy sy Arona ka nanao hoe:",
+    "2": "Alao isa ny taranak' i Kehata eo amin' ny zanakalahin' i Levy, araka ny fianakaviany, araka ny ankohonan' ny rainy,",
+    "3": "Hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona, dia izay rehetra miditra amin' ny antokony hanao raharaha ao amin' ny tranolay fihaonana.",
+    "4": "Izao no ho fanompoan' ny taranak' i Kehata ao amin' ny tranolay fihaonana, dia ny zavatra masina indrindra.",
+    "5": "Ary raha hifindra ny toby, dia hiditra Arona sy ny zanany lahy ka hampidina ny efitra lamba fanakonana, ary hasarony ny fiaran' ny Vavolombelona izany.",
+    "6": "Ary hodi-takasy no hataony sarona eo amboniny, ka lamba volon' ondry manga tokam-bolo no hovelariny hasarony eo ambonin' io, dia hataony eo aminy ny baony.",
+    "7": "Ary hamelatra lamba volon' ondry manga eo ambonin' ny latabatry ny mofo aseho izy, ka hataony eo ny lovia sy ny sotro sy ny tsangambava ary ny fanaronana izay anaronana azy; ary ny mofo aseho dia hataony eo amboniny.",
+    "8": "Dia hovelarany lamba jaky eo amboniny, ka hosaronany amin' ny sarona hodi-takasy izany; dia hataony eo aminy ny baony.",
+    "9": "Dia haka lamba volon' ondry manga izy, ka hasarony ny fanaovanjiro fanazavana sy ny lela fanaovanjirony sy ny hetin-jirony sy ny fitoeran-davenon-jirony ary ny fitoeran-diloilo rehetra eo, izay anaovany ny asa fanompoana.",
+    "10": "Ary ireo sy ny fanaka rehetra momba azy dia hataony ao anatin' ny sarona hodi-takasy ka hatainginy eo ambonin' ny filanjana azy.",
+    "11": "Ary hamelatra lamba manga eo ambonin' ny alitara volamena izy, dia hosaronany sarona hodi-takasy, ary hataony eo aminy ny baony;",
+    "12": "Dia halainy ny fanaka rehetra enti-manompo, dia izay fanaovany fanompoana ao amin' ny fitoerana masina, dia hataony ao anaty lamba manga ka hosaronany sarona hodi-takasy, dia hatainginy eo ambonin' ny filanjana.",
+    "13": "Dia hanaisotra ny lavenona amin' ny alitara izy ka hamelatra lamba volomparasy eo amboniny.",
+    "14": "Ary hapetrany eo amboniny ny fanaka rehetra momba azy, izay fanaovany ny asa fanompoana eo, dia ny fitondran' afo, ny fitrebika sy ny sotron' afo ary ny lovia famafazana, dia ny fanaka rehetra momba ny alitara; ary hovelarany sarona hodi-takasy eo amboniny izy, dia hataony eo aminy ny baony.",
+    "15": "Ary rehefa vitan' i Arona sy ny zanany lahy ny manarona ny fitoerana masina sy ny fanaka rehetra momba ny fitoerana masina, ka efa hifindra ny toby, dia vao izay no ho avy ny zanakalahin' i Kehata hitondra azy; fa tsy hikasika ny zavatra masina izy, fandrao maty. Izany zavatra momba ny tranolay fihaonana izany no ho anjara entan' ny zanakalahin' i Kehata.",
+    "16": "Ary ny raharahan' i Eleazara, zanakalahin' i Arona mpisorona, dia ny momba ny diloilo hatao fanazavana sy ny ditin-kazo mani-pofona sy ny fanatitra hohanina fanao isan' andro ary ny diloilo fanosorana, dia ny raharaha rehetra amin' ny tabernakely sy izay rehetra ao anatiny amin' ny fitoerana masina sy ny fanaka momba azy.",
+    "17": "Ary Jehovah niteny tamin' i Mosesy sy Arona ka nanao hoe:",
+    "18": "Aza avela ho fongana tsy ho amin' ny Levita ny fokon' ny fianakavian' ny Kehatita;",
+    "19": "Fa izao no hataonareo aminy, mba ho velona izy fa tsy ho faty, raha manatona ny zavatra masina indrindra: Arona sy ny zanany lahy no hiditra ao ka hanendry azy rehetra samy ho amin' ny fanompoany sy amin' ny entany avy.",
+    "20": "Fa tsy hiditra hijery izy rehefa voasarona ny zava-masina, fandrao maty izy.",
+    "21": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "22": "Alao isa koa ny zanakalahin' i Gersona araka ny ankohonan-drainy, araka ny fianakaviany;",
+    "23": "Hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona no isainareo dia izay rehetra miditra hanao ny fanompoana hanao ny asa ao amin' ny tranolay fihaonana.",
+    "24": "Izao no fanompoan' ny fianakavian' ny Gersonita: hanompo sy hitondra ny entana.",
+    "25": "Hitondra ny lambam-baravaran' ny tabernakely izy, sy ny tranolay fihaonana sy ny firakony sy ny sarona hodi-takasy izay eo amboniny ary ny varavarana lamba amin' ny varavaran' ny tranolay fihaonana,",
+    "26": "Ary ny fefy lamban' ny kianja sy ny vavahady lamba amin' ny vavahadin' ny kianja, izay manodidina ny tabernakely sy ny alitara, ary ny kofehiny mbamin' ny fiasàna rehetra momba azy; ary izay rehetra atao amin' ireo no ho fanompoany.",
+    "27": "Araka ny fanendren' i Arona sy ny zanany lahy no hanaovan' ny zanakalahin' ny Gersonita ny asa fanompoana eo amin' ny entany rehetra sy ny fanompoany rehetra; ka ianareo no hanendry azy ireo ny amin' ireo entany rehetra.",
+    "28": "Ireo no asa fanompoan' ny fianakavian' ny zanakalahin' i Gersona eo amin' ny tranolay fihaonana; ary ny anjara raharahany dia eo ambany fifehezan' Itamara zanakalahin' i Arona mpisorona.",
+    "29": "Ny amin' ny zanakalahin' i Merary dia isao araka ny fianakaviany, araka ny ankohonan' ny rainy.",
+    "30": "Ny hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona no isainao, dia izay rehetra miditra ao amin' ny fanompoana hanao ny asa amin' ny tranolay fihaonana.",
+    "31": "Ary izao no ho anjara-raharahany ny amin' ny entana araka ny fanompoany rehetra ao amin' ny tranolay fihaonana: ny hazofisaka amin' ny tabernakely sy ny barany sy ny andriny sy ny faladiany,",
+    "32": "Sy ny tsangantsangan' ny kianja manodidina sy ny faladiany sy ny tsimany rehetra ary ny kofehy momba ny fiasàna rehetra sy ny zavatra rehetra enti-manao fanompoana ao; ary araka ny anarany avy no handaminanareo ny fanaka izay anjarany hoentina.",
+    "33": "Ireo no ho fanompoan' ny fianakavian' ny zanakalahin' i Merary, araka ny asa fanompoany rehetra ao amin' ny tranolay fihaonana, eo ambany fifehezan' Itamara, zanakalahin' i Arona mpisorona.",
+    "34": "Ary Mosesy sy Arona ary ny lohan' ny fiangonana dia nanisa ny zanakalahin' ny Kehatita araka ny fianakaviany sy araka ny ankohonan' ny rainy,",
+    "35": "Hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona, dia izay rehetra niditra ho amin' ny fanompoana amin' ny asa ao amin' ny tranolay fihaonana;",
+    "36": "Ary ireo izay voaisa taminy, araka ny fianakaviany dia dimampolo amby fitonjato sy roa arivo.",
+    "37": "Ireo no voaisa tamin' ny fianakavian' ny Kehatita, dia izay rehetra tokony hanao ny asa fanompoana ao amin' ny tranolay fihaonana, ka nisain' i Mosesy sy Arona araka ny didin' i Jehovah tamin' ny alalan' i Mosesy.",
+    "38": "Ary ireo izay voaisa tamin' ny zanakalahin' i Gersona, araka ny fianakaviany, araka ny ankohonan' ny rainy,",
+    "39": "Hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona, dia izay rehetra niditra amin' ny fanompoana ho amin' ny asan' ny tranolay fihaonana,",
+    "40": "Ary ireo izay voaisa taminy, araka ny fianakaviany, araka ny ankohonan' ny rainy, dia telopolo amby eninjato sy roa arivo.",
+    "41": "Ireo no nisaina tamin' ny fianakavian' ny zanakalahin' i Gersona, izay rehetra manao fanompoana ao amin' ny tranolay fihaonana, dia izay nisain' i Mosesy sy Arona araka ny didin' i Jehovah.",
+    "42": "Ary ireo izay voaisa tamin' ny fianakavian' ny zanakalahin' i Merary araka ny fianakaviany sy ny ankohonan' ny rainy,",
+    "43": "Hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona, dia izay rehetra miditra amin' ny fanompoana, ho amin' ny asan' ny tranolay fihaonana,",
+    "44": "Ireo izay voaisa taminy araka ny fianakaviany, dia roanjato sy telo arivo;",
+    "45": "Ireo no voaisa tamin' ny fianakaviana avy tamin'ny zanakalahin'i Merary, izay nisain' i Mosesy sy Arona araka ny tenin' i Jehovah tamin' ny alalan' i Mosesy.",
+    "46": "Ireo rehetra voaisa tamin' ny Levita izay nisain' i Mosesy sy Arona mbamin' ny lohan' ny Isiraely, araka ny fianakaviany sy araka ny ankohonan' ny rainy,",
+    "47": "Hatramin' ny telopolo taona no ho miakatra ka hatramin' ny dimampolo taona, dia izay rehetra tonga hanao ny asa fanompoana sy ny fitondrana entana ao amin' ny tranolay fihaonana,",
+    "48": "Izay voaisa taminy dia valopolo amby dimanjato sy valo arivo.",
+    "49": "Araka ny didin' i Jehovah izay nampitondrainy an' i Mosesy no nanisany azy samy araka ny fanompoany sy araka ny entany avy; toy izany no nanisany azy araka izay nandidian' i Jehovah an' i Mosesy."
+  }
 }

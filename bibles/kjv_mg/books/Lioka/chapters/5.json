@@ -1,161 +1,45 @@
 {
+  "book": "Lioka",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"ARY izao no niseho, raha nifanizina taminy ny vahoaka mba hihaino ny tenin' Andriamanitra, dia nijanona teo amoron' ny Farihin' i Genesareta Izy;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary nahita sambokely roa nijanona teo an-tsisin' ny farihy Izy; fa ny mpanarato efa niala taminy ka nanasa ny haratony.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary niditra tamin' ny iray amin' ireo sambokely, izay an' i Simona Izy, dia nangataka taminy hihataka kely amin' ny tany. Dia nipetraka teo an-tsambokely Izy ka nampianatra ny vahoaka."
-    },
-    {
-      "v": 4,
-      "text": "Ary rehefa nitsahatra niteny Jesosy, dia hoy Izy tamin' i Simona: Mandrosoa ho any amin' ny lalina, dia alatsaho ny haratonareo hahazoana hazandrano."
-    },
-    {
-      "v": 5,
-      "text": "\"Fa namaly Simona ka nanao taminy hoe: Mpampianatra ô, mandritra ny alina no efa nikele-zanay aina, nefa tsy nahazo na inona na inona; kanefa noho ny teninao, dia halatsako ihany ny harato.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary rehefa nataony izany, dia nahazo hazandrano be dia be izy ireo, ka efa nisy triatra ny haratony."
-    },
-    {
-      "v": 7,
-      "text": "Ary nanatsika ny namany izay teo amin' ny sambokely hafa ireo, mba ho avy hanampy azy. Dia avy ireny, ary nofenoina ny sambokely roa, ka efa saika nilentika."
-    },
-    {
-      "v": 8,
-      "text": "Ary rehefa hitan' i  Simona Petera izany, dia niankohoka tamin' ny tongotr' i Jesosy izy ka nanao hoe: Tompo ô, mialà amiko, fa olo-meloka aho."
-    },
-    {
-      "v": 9,
-      "text": "Fa talanjona izy sy izay rehetra teo aminy noho ny habetsahan' ny hazandrano izay nosarihany."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary toy izany koa Jakoba sy Jaona, zanak' i Zebedio, izay niombon-draharaha tamin' i Simona. Dia hoy Jesosy tamin' i Simona: Aza matahotra; amin' izao sisa izao, dia olona kosa no ho azonao.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary rehefa nampiantsona ny sambokeliny teo an-tanety izy ireo, dia nahafoy ny zavatra rehetra ka nanaraka an' i Jesosy."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary izao no niseho, raha tao an-tanàna anankiray Jesosy, indro nisy lehilahy heniky ny habokana; ary nony nahita an' i Jesosy io, dia niankohoka ka nitaraina taminy hoe: Tompoko, raha mety Ianao, dia mahay manadio ahy.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary naninjitra ny tanany Jesosy, dia nanendry azy ka niteny hoe: Mety Aho; madiova ianao. Ary niala taminy niaraka tamin' izay ny habokana.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary nandrara azy Jesosy tsy hilaza amin' ny olona na dia iray akory aza; fa mandehana, ka misehoa amin' ny mpisorona, dia manatera ny fanadiovana anao, araka ny nandidian' i Mosesy, ho vavolombelona amin' ireo.\""
-    },
-    {
-      "v": 15,
-      "text": "Fa mainka niely bebe kokoa ny lazany, dia niangona ny vahoaka betsaka hihaino Azy sy hositranina tamin' ny rofiny."
-    },
-    {
-      "v": 16,
-      "text": "Ary niala teo Izy, dia nitoetra tany an' efitra ka nivavaka."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary izao no niseho, indray andro raha nampianatra Jesosy, dia nipetraka teo ny Fariseo sasany sy ny mpampiana-dalàna, izay efa niala tamin' ny tanàna rehetra any Galilia sy Jodia ary tany Jerosalema; ary ny herin' ny Tompo dia tao aminy mba hanasitrana azy ireo.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary, indro, nisy nitondra lehilahy tamin' ny fandriana, izay mararin' ny paralysisa mihovitrovitra, ka nitady izay hampidirany sy hametrahany azy eo anatrehany."
-    },
-    {
-      "v": 19,
-      "text": "Ary satria tsy nahita izay hampidirany azy izy noho ny habetsahan' ny vahoaka, dia niakatra teo an-tampon-trano ka nanesorany ny tafo tanimanga, dia nampidininy ralehilahy mbamin' ny fandriany ho eo afovoan' ny olona, dia teo anatrehan' i Jesosy."
-    },
-    {
-      "v": 20,
-      "text": "Ary raha hitan' i Jesosy ny finoan' ireo, dia hoy Izy taminy: Ralehilahy, voavela ny helokao."
-    },
-    {
-      "v": 21,
-      "text": "Fa ny mpanoradalàna sy ny Fariseo niara-nisaina nanao hoe: Iza moa Ity manao blasfemia ity? Iza no mahavela heloka, afa-tsy Andriamanitra ihany?"
-    },
-    {
-      "v": 22,
-      "text": "Fa rehefa nahafantatra ny eritreriny Jesosy, dia namaly ka nanao taminy hoe: Inona no eritreretinareo ao am-ponareo?"
-    },
-    {
-      "v": 23,
-      "text": "Inona moa no moramora kokoa, ny manao hoe va: Voavela ny helokao, sa ny manao hoe: Mitsangàna, ka mandehana?"
-    },
-    {
-      "v": 24,
-      "text": "Fa mba ho fantatrareo fa ny Zanak' olona manana fahefana ety ambonin' ny tany hamela heloka, (dia hoy Izy tamin' ilay mararin' ny paralysisa mihovitrovitra): Hoy Aho aminao: Mitsangàna, dia batao ny fandrianao, ary modia any an-tranonao."
-    },
-    {
-      "v": 25,
-      "text": "Ary niaraka tamin' izay, dia nitsangana teo anatrehan' ny olona izy ka nambata ny fandriany, dia lasa nody sady nankalaza an' Andriamanitra."
-    },
-    {
-      "v": 26,
-      "text": "Ary talanjona avokoa ny olona rehetra, dia nankalaza an' Andriamanitra sady raiki-tahotra indrindra ka nanao hoe: Efa nahita zavatra mahagaga isika androany."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary rehefa afaka izany, dia nandeha Jesosy ka nahita mpamory hetra atao hoe Levy, nipetraka teo am-pamorian-ketra sy ny fadintseranana; dia hoy Izy taminy: Manaraha Ahy.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary nahafoy ny zavatra rehetra izy ka nitsangana, dia nanaraka Azy."
-    },
-    {
-      "v": 29,
-      "text": "\"Ary nanao fanasana lehibe ho an' i Jesosy tao an-tranony Levy; ary nisy mpamory hetra maro sy olon-kafa koa izay niara-nipetraka nihinana teo aminy.\""
-    },
-    {
-      "v": 30,
-      "text": "Fa ny fariseo sy ny mpanoradalàna izay teo aminy dia nimonomonona tamin' ny mpianatr' i Jesosy ka nanao hoe: Nahoana ianareo no miara-mihinana sy misotro amin' ny mpamory hetra sy ny mpanota?"
-    },
-    {
-      "v": 31,
-      "text": "\"Ary namaly Jesosy ka nanao hoe: Tsy ny salama no mila dokotera, fa ny marary;\""
-    },
-    {
-      "v": 32,
-      "text": "Tsy avy hiantso ny marina Aho fa ny mpanota mba hibebaka."
-    },
-    {
-      "v": 33,
-      "text": "Ary hoy ireo taminy: nahoana ny mpianatr' i Jaona no mifady hanina matetika sy mivavaka, ary ny an' ny Fariseo koa mba tahaka izany ihany, fa ny Anao kosa mihinana sy misotro?"
-    },
-    {
-      "v": 34,
-      "text": "Ary hoy Jesosy taminy: Mahay mampifady ny havan' ny mpampakatra va ianareo, raha mbola ao aminy ihany ny mpampakatra?"
-    },
-    {
-      "v": 35,
-      "text": "Fa ho avy ny andro, rehefa voaesotra hiala aminy ny mpampakatra, dia amin' izany andro izany vao hifady izy."
-    },
-    {
-      "v": 36,
-      "text": "Ary nanao fanoharana taminy koa Izy nanao hoe: Tsy misy olona maka tapa-damba vaovao hatampina ny lamba tonta, fa raha izany, dia mahatriatra ny vaovao izy, ary ilay tapa-damba nalaina tamin' ny vaovao dia tsy hifanaraka amin' ny tonta."
-    },
-    {
-      "v": 37,
-      "text": "\"Ary tsy misy olona manisy divay vaovao ao anaty siny hoditra tonta; fa raha izany, ny divay vaovao hahatriatra ny siny hoditra, ka ho raraka ny divay, sady ho simba ny siny hoditra.\""
-    },
-    {
-      "v": 38,
-      "text": "Fa ny divay vaovao dia tsy maintsy hatao ao anaty siny hoditra vaovao, dia samy haharitra izy roroa."
-    },
-    {
-      "v": 39,
-      "text": "Tsy misy olona, rehefa nisotro divay ela, no maniry ny vaovao, fa hoy izy: Ny ela no tsara kokoa."
-    }
-  ]
+  "verses": {
+    "1": "ARY izao no niseho, raha nifanizina taminy ny vahoaka mba hihaino ny tenin' Andriamanitra, dia nijanona teo amoron' ny Farihin' i Genesareta Izy;",
+    "2": "Ary nahita sambokely roa nijanona teo an-tsisin' ny farihy Izy; fa ny mpanarato efa niala taminy ka nanasa ny haratony.",
+    "3": "Ary niditra tamin' ny iray amin' ireo sambokely, izay an' i Simona Izy, dia nangataka taminy hihataka kely amin' ny tany. Dia nipetraka teo an-tsambokely Izy ka nampianatra ny vahoaka.",
+    "4": "Ary rehefa nitsahatra niteny Jesosy, dia hoy Izy tamin' i Simona: Mandrosoa ho any amin' ny lalina, dia alatsaho ny haratonareo hahazoana hazandrano.",
+    "5": "Fa namaly Simona ka nanao taminy hoe: Mpampianatra ô, mandritra ny alina no efa nikele-zanay aina, nefa tsy nahazo na inona na inona; kanefa noho ny teninao, dia halatsako ihany ny harato.",
+    "6": "Ary rehefa nataony izany, dia nahazo hazandrano be dia be izy ireo, ka efa nisy triatra ny haratony.",
+    "7": "Ary nanatsika ny namany izay teo amin' ny sambokely hafa ireo, mba ho avy hanampy azy. Dia avy ireny, ary nofenoina ny sambokely roa, ka efa saika nilentika.",
+    "8": "Ary rehefa hitan' i  Simona Petera izany, dia niankohoka tamin' ny tongotr' i Jesosy izy ka nanao hoe: Tompo ô, mialà amiko, fa olo-meloka aho.",
+    "9": "Fa talanjona izy sy izay rehetra teo aminy noho ny habetsahan' ny hazandrano izay nosarihany.",
+    "10": "Ary toy izany koa Jakoba sy Jaona, zanak' i Zebedio, izay niombon-draharaha tamin' i Simona. Dia hoy Jesosy tamin' i Simona: Aza matahotra; amin' izao sisa izao, dia olona kosa no ho azonao.",
+    "11": "Ary rehefa nampiantsona ny sambokeliny teo an-tanety izy ireo, dia nahafoy ny zavatra rehetra ka nanaraka an' i Jesosy.",
+    "12": "Ary izao no niseho, raha tao an-tanàna anankiray Jesosy, indro nisy lehilahy heniky ny habokana; ary nony nahita an' i Jesosy io, dia niankohoka ka nitaraina taminy hoe: Tompoko, raha mety Ianao, dia mahay manadio ahy.",
+    "13": "Ary naninjitra ny tanany Jesosy, dia nanendry azy ka niteny hoe: Mety Aho; madiova ianao. Ary niala taminy niaraka tamin' izay ny habokana.",
+    "14": "Ary nandrara azy Jesosy tsy hilaza amin' ny olona na dia iray akory aza; fa mandehana, ka misehoa amin' ny mpisorona, dia manatera ny fanadiovana anao, araka ny nandidian' i Mosesy, ho vavolombelona amin' ireo.",
+    "15": "Fa mainka niely bebe kokoa ny lazany, dia niangona ny vahoaka betsaka hihaino Azy sy hositranina tamin' ny rofiny.",
+    "16": "Ary niala teo Izy, dia nitoetra tany an' efitra ka nivavaka.",
+    "17": "Ary izao no niseho, indray andro raha nampianatra Jesosy, dia nipetraka teo ny Fariseo sasany sy ny mpampiana-dalàna, izay efa niala tamin' ny tanàna rehetra any Galilia sy Jodia ary tany Jerosalema; ary ny herin' ny Tompo dia tao aminy mba hanasitrana azy ireo.",
+    "18": "Ary, indro, nisy nitondra lehilahy tamin' ny fandriana, izay mararin' ny paralysisa mihovitrovitra, ka nitady izay hampidirany sy hametrahany azy eo anatrehany.",
+    "19": "Ary satria tsy nahita izay hampidirany azy izy noho ny habetsahan' ny vahoaka, dia niakatra teo an-tampon-trano ka nanesorany ny tafo tanimanga, dia nampidininy ralehilahy mbamin' ny fandriany ho eo afovoan' ny olona, dia teo anatrehan' i Jesosy.",
+    "20": "Ary raha hitan' i Jesosy ny finoan' ireo, dia hoy Izy taminy: Ralehilahy, voavela ny helokao.",
+    "21": "Fa ny mpanoradalàna sy ny Fariseo niara-nisaina nanao hoe: Iza moa Ity manao blasfemia ity? Iza no mahavela heloka, afa-tsy Andriamanitra ihany?",
+    "22": "Fa rehefa nahafantatra ny eritreriny Jesosy, dia namaly ka nanao taminy hoe: Inona no eritreretinareo ao am-ponareo?",
+    "23": "Inona moa no moramora kokoa, ny manao hoe va: Voavela ny helokao, sa ny manao hoe: Mitsangàna, ka mandehana?",
+    "24": "Fa mba ho fantatrareo fa ny Zanak' olona manana fahefana ety ambonin' ny tany hamela heloka, (dia hoy Izy tamin' ilay mararin' ny paralysisa mihovitrovitra): Hoy Aho aminao: Mitsangàna, dia batao ny fandrianao, ary modia any an-tranonao.",
+    "25": "Ary niaraka tamin' izay, dia nitsangana teo anatrehan' ny olona izy ka nambata ny fandriany, dia lasa nody sady nankalaza an' Andriamanitra.",
+    "26": "Ary talanjona avokoa ny olona rehetra, dia nankalaza an' Andriamanitra sady raiki-tahotra indrindra ka nanao hoe: Efa nahita zavatra mahagaga isika androany.",
+    "27": "Ary rehefa afaka izany, dia nandeha Jesosy ka nahita mpamory hetra atao hoe Levy, nipetraka teo am-pamorian-ketra sy ny fadintseranana; dia hoy Izy taminy: Manaraha Ahy.",
+    "28": "Ary nahafoy ny zavatra rehetra izy ka nitsangana, dia nanaraka Azy.",
+    "29": "Ary nanao fanasana lehibe ho an' i Jesosy tao an-tranony Levy; ary nisy mpamory hetra maro sy olon-kafa koa izay niara-nipetraka nihinana teo aminy.",
+    "30": "Fa ny fariseo sy ny mpanoradalàna izay teo aminy dia nimonomonona tamin' ny mpianatr' i Jesosy ka nanao hoe: Nahoana ianareo no miara-mihinana sy misotro amin' ny mpamory hetra sy ny mpanota?",
+    "31": "Ary namaly Jesosy ka nanao hoe: Tsy ny salama no mila dokotera, fa ny marary;",
+    "32": "Tsy avy hiantso ny marina Aho fa ny mpanota mba hibebaka.",
+    "33": "Ary hoy ireo taminy: nahoana ny mpianatr' i Jaona no mifady hanina matetika sy mivavaka, ary ny an' ny Fariseo koa mba tahaka izany ihany, fa ny Anao kosa mihinana sy misotro?",
+    "34": "Ary hoy Jesosy taminy: Mahay mampifady ny havan' ny mpampakatra va ianareo, raha mbola ao aminy ihany ny mpampakatra?",
+    "35": "Fa ho avy ny andro, rehefa voaesotra hiala aminy ny mpampakatra, dia amin' izany andro izany vao hifady izy.",
+    "36": "Ary nanao fanoharana taminy koa Izy nanao hoe: Tsy misy olona maka tapa-damba vaovao hatampina ny lamba tonta, fa raha izany, dia mahatriatra ny vaovao izy, ary ilay tapa-damba nalaina tamin' ny vaovao dia tsy hifanaraka amin' ny tonta.",
+    "37": "Ary tsy misy olona manisy divay vaovao ao anaty siny hoditra tonta; fa raha izany, ny divay vaovao hahatriatra ny siny hoditra, ka ho raraka ny divay, sady ho simba ny siny hoditra.",
+    "38": "Fa ny divay vaovao dia tsy maintsy hatao ao anaty siny hoditra vaovao, dia samy haharitra izy roroa.",
+    "39": "Tsy misy olona, rehefa nisotro divay ela, no maniry ny vaovao, fa hoy izy: Ny ela no tsara kokoa."
+  }
 }

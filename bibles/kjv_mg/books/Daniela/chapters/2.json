@@ -1,201 +1,55 @@
 {
+  "book": "Daniela",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary tamin' ny taona faharoa nanjakan' i Nebokadnezara dia nanonofy Nebokadnezara, ka nitebiteby ny fanahiny, ary tsy nahita torimaso izy."
-    },
-    {
-      "v": 2,
-      "text": "Dia nasain' ny mpanjaka nantsoina ny ombiasy sy ny mpisikidy sy ny mpanana ody ary ny Kaldeana haneho amin' ny mpanjaka ny nofiny.Dia tonga ireny ka nitsangana teo anatrehan' ny mpanjaka."
-    },
-    {
-      "v": 3,
-      "text": "Ary hoy ny mpanjaka taminy: Nanonofy aho, ka mitebiteby te-hahalala ny nofy ny fanahiko."
-    },
-    {
-      "v": 4,
-      "text": "Dia niteny tamin' ny mpanjaka tamin' ny teny syriaka ireny Kaldeana ireny hoe: Ry mpanjaka ô, ho velona mandrakizay anie ianao, ambarao aminay mpanomponao ny nofy, dia holazainay ny heviny."
-    },
-    {
-      "v": 5,
-      "text": "\"Dia namaly ny mpanjaka ka nanao tamin' ireo kaldeana hoe: efa niloa-bava aho; raha tsy hampahafantarinareo ahy ny nofy sy ny heviny, dia hotetitetehina ianareo, ary ny tranonareo hatao trano fivoahana.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Fa raha milaza ny nofy sy ny heviny kosa ianareo, dia hahazo avy amiko fanomezana sy valim-pitia ary voninahitra be; koa ambarao ahy ny nofy mbamin' ny heviny.\""
-    },
-    {
-      "v": 7,
-      "text": "Dia namaly indray ireo ka nanao hoe: Aoka ny mpanjaka hilaza ny nofy aminay mpanompony, dia hambaranay ny heviny."
-    },
-    {
-      "v": 8,
-      "text": "Fa ny mpanjaka namaly ka nanao hoe: Fantatro marimarina fa mandany andro foana ianareo, satria hitanareo fa efa niloa-bava aho."
-    },
-    {
-      "v": 9,
-      "text": "\"Fa raha tsy hampahafantarinareo ahy ny nofy, dia lalàna iray ihany no hitondrana anareo; fa miray tetika ianareo hilaza teny lainga sy arirarira foana eto anatrehako mandra-piovan' ny andro; koa ambarao ahy ny nofy, dia ho fantatro fa mahalaza ny heviny amiko ianareo.\""
-    },
-    {
-      "v": 10,
-      "text": "Ny Kaldeana dia namaly teo anatrehan' ny mpanjaka hoe: Tsy misy olona ety ambonin' ny tany mahay milaza ny nofin' ny mpanjaka fa tsy mbola nisy mpanjaka, na tompo na mpanapaka, nanontany zavatra toy izany tamin' ny ombiasy sy ny mpisikidy, ary ny Kaldeana."
-    },
-    {
-      "v": 11,
-      "text": "Ary sarotra ny zavatra anontanian' ny mpanjaka, ka tsy misy mahay milaza izany eo anatrehan' ny mpanjaka afa-tsy ireo andriamanitra, izay tsy manam-ponenana amin' ny nofo."
-    },
-    {
-      "v": 12,
-      "text": "Dia vinitra sady tezitra indrindra ny mpanjaka noho izany, ka nasainy naringana ny olon-kendrin' i Babylona rehetra."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary navoaka ny didy nampamono ny olon-kendry; ary Daniela sy ny namany koa mba notadiaviny hovonoina.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Dia novalian' i Daniela tamin' ny fanahy sy fahendrena Arioka lehiben' ny mpiambina ny mpanjaka izay nivoaka hamono ny olon-kendrin' i Babylona;\""
-    },
-    {
-      "v": 15,
-      "text": "Namaly izy ka nanao tamin' i Arioka, lehibe voatendrin' ny mpanjaka hoe: Nahoana no dia maika toy izany ny teny avy amin' ny mpanjaka? Dia nambaran' i Arioka tamin' i Daniela ilay teny."
-    },
-    {
-      "v": 16,
-      "text": "Dia niditra Daniela ka nangataka tamin' ny mpanjaka hanome andro azy, dia holazainy amin' ny mpanjaka ny hevitry ny nofy."
-    },
-    {
-      "v": 17,
-      "text": "Dia nody tany an-tranony Daniela ka nanambara izany zavatra izany tamin' i Hanania sy Misaela ary Azaria namany,"
-    },
-    {
-      "v": 18,
-      "text": "Mba hangatahan' ireo famindrampo amin' Andriamanitry ny lanitra ny amin' izany zava-miafina izany, mba tsy haringana Daniela sy ny namany miaraka amin' ny sisa amin' ny olon-kendrin' i Babylona."
-    },
-    {
-      "v": 19,
-      "text": "Dia naseho an' i Daniela tamin' ny fahitana amin' ny alina ny zava-miafina.Ka dia nisaotra an' Andriamanitry ny lanitra Daniela."
-    },
-    {
-      "v": 20,
-      "text": "Namaly Daniela ka nanao hoe: Isaorana anie ny anaran' Andriamanitra mandrakizay, mandrakizay, fa Azy ny fahendrena sy hery."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary Izy no manova ny andro sy ny fotoana; Izy no manaisotra mpanjaka sy manangana mpanjaka; Izy no manome fahendrena ho an' ny hendry sy fahalalana ho an' izay mahira-tsaina;\""
-    },
-    {
-      "v": 22,
-      "text": "\"Izy no mampiseho ny zavatra lalina sy miafina; Izy no mahalala izay ao amin' ny maizina, ary ny mazava mitoetra ao aminy.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Misaotra Anao sy midera Anao aho ry Andriamanitry ny razako ô, izay nanome ahy fahendrena sy hery ary efa nampahafantarinao ahy ankehitriny izay nangatahinay taminao; fa nampahafantarinao anay ny zavatry ny mpanjaka.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary noho izany Daniela dia niditra nankao amin' i Arioka, izay notendren' ny mpanjaka handringana ny olon-kendrin' i Babylona; nandeha izy ka nanao taminy hoe: Aza mandringana ny olon-kendrin' i Babylona, fa ento ho eo anatrehan' ny mpanjaka aho, dia hambarako aminy ny hevitry ny nofiny.\""
-    },
-    {
-      "v": 25,
-      "text": "Dia nentin' i Arioka faingana ho eo anatrehan' ny mpanjaka Daniela, ka hoy izy taminy: Nahita lehilahy isan' ny babo avy any Joda aho, izay hilaza amin' ny mpanjaka ny hevitry ny nofy."
-    },
-    {
-      "v": 26,
-      "text": "Ny mpanjaka namaly ka nilaza tamin' i Daniela, izay atao hoe koa Beltesazara, hoe: Moa mahay manambara amiko ny nofy izay hitako mbamin' ny heviny va ianao?"
-    },
-    {
-      "v": 27,
-      "text": "\"Dia namaly teo anatrehan' ny mpanjaka Daniela ka nanao hoe: Ilay zava-miafina nanontanian' ny mpanjaka dia tsy hain' ny olon-kendry, na ny mpisikidy, na ny ombiasy, na ny mpanandro, nolazaina tamin' ny mpanjaka;\""
-    },
-    {
-      "v": 28,
-      "text": "Kanefa misy Andriamanitra any an-danitra, Izay mampiseho zava-miafina ka mampahafantatra an' i Nebokadnezara mpanjaka izay ho tonga any am-parany. Ny nofinao sy ny fahitan' ny lohanao teo amin' ny farafaranao dia izao:"
-    },
-    {
-      "v": 29,
-      "text": "\"Ny aminao, ry mpanjaka ô, raha nandry ianao, dia tonga ny eritreritrao ny amin' izay ho avy rahatrizay; ary Izay mampiseho zava-miafina dia mampahafantatra anao izay ho avy.\""
-    },
-    {
-      "v": 30,
-      "text": "Fa raha ny amiko, dia tsy noho ny fahendrena ananako mihoatra noho ny olombelona rehetra tsy akory no nampisehoana tamiko ny zava-miafina, fa ny mba hampahafantarana ny mpanjaka ilay hevitra, ka hahafantaranao ny eritreritry ny fonao."
-    },
-    {
-      "v": 31,
-      "text": "Ianao, ry mpanjaka ô, nahita fa, indro, nisy sariolona lehibe anankiray.Izany sary izany dia lehibe sady namirapiratra tsara, nijoro teo anatrehanao izy, ary ny tarehiny dia nahatahotra."
-    },
-    {
-      "v": 32,
-      "text": "Ny lohan' izany sary izany dia volamena tsara, ny tratrany sy ny sandriny dia volafotsy, ny kibony sy ny feny dia varahina,"
-    },
-    {
-      "v": 33,
-      "text": "Ny ranjony dia vy ary ny tongony dia vy sy tanimanga."
-    },
-    {
-      "v": 34,
-      "text": "Nijery ianao ambara-pahanisy vato voaendaka, nefa tsy nendahan-tanana, ary namely ilay sary teo amin' ny tongony vy sy tanimanga iny ka nahatorotoro azy."
-    },
-    {
-      "v": 35,
-      "text": "\"Dia niara-torotoro ny vy sy ny tanimanga sy ny varahina sy ny volafotsy ary ny volamena ka tonga toy ny akofa eo am-pamoloana fahavaratra; ary nopaohin' ny rivotra izy, ka tsy nisy hitoerany; ary ilay vato namely ny sary dia tonga tendrombohitra lehibe nahafeno ny tany rehetra.\""
-    },
-    {
-      "v": 36,
-      "text": "Izany ilay nofy, ary holazainay eto anatrehan' ny mpanjaka ny heviny."
-    },
-    {
-      "v": 37,
-      "text": "Ianao, ry mpanjaka ô, izay mpanjakan' ny mpanjaka sady nomen' Andriamanitry ny lanitra fanjakana sy hery sy fahaleovana ary voninahitra,"
-    },
-    {
-      "v": 38,
-      "text": "Ka ny zanak' olombelona na aiza na aiza itoerany, sy ny biby eny an-tsaha sy ny voro-manidina eny amin' ny lanitra, dia nomeny ho eo an-tananao, ary nataony ho mpanjakan' izy rehetra ianao, dia ianao izany loha volamena izany."
-    },
-    {
-      "v": 39,
-      "text": "Ary manarakaraka anao dia hisy fanjakana hafa hitsangana ambany noho ny anao, ary hisy fanjakana fahatelo koa izay varahina sady hanam-pahefana amin' ny tany rehetra."
-    },
-    {
-      "v": 40,
-      "text": "\"Ary ny fanjakana fahefatra dia ho mafy toy ny vy; fa toy ny vy manorotoro sy mahamongomongo ny zavatra rehetra, ary toy ny famakivakin' ny vy ireo rehetra ireo, dia toy izany no hamakivakiany sy hanorotoroany azy.\""
-    },
-    {
-      "v": 41,
-      "text": "\"Ary satria hitanao ny tongotra sy ny rantsan-tongotra, fa ny tapany tanimangan' ny mpanefy tanimanga, ary ny tapany vy, dia ho fanjakana mizarazara izy; nefa hisy herim-by ao aminy, satria nahita vy miharo tanimanga mbola fotaka ianao.\""
-    },
-    {
-      "v": 42,
-      "text": "Ary toy ny rantsan-tongotra, ny tapany vy, ny tapany tanimanga, dia ho toy izany ny fanjakana, ny tapany ho mafy, ary ny tapany ho vakivaky."
-    },
-    {
-      "v": 43,
-      "text": "\"Ary toy ny nahitanao ny vy miharo tanimanga mbola fotaka, dia ho toy izany no hiharoany amin' ny taranak' olombelona; nefa tsy hitambatra izy, dia toy ny tsy fetezan' ny vy miharo amin' ny tanimanga.\""
-    },
-    {
-      "v": 44,
-      "text": "\"Ary amin' ny andron' ireo mpanjaka ireo, Andriamanitry ny lanitra dia hanorina fanjakana izay tsy ho rava mandrakizay; ary izany fanjakana izany tsy havela ho an' olon-kafa, fa ireo fanjakana rehetra ireo dia hotorotoroiny sy holevoniny, fa izy kosa hitoetra mandrakizay.\""
-    },
-    {
-      "v": 45,
-      "text": "Fa toy ilay nahitanao ny vato nendahana tamin' ny tendrombohitra, nefa tsy nendahan-tanana, sy ny nanorotoroany ny vy sy ny varahina sy ny tanimanga sy ny volafotsy ary ny volamena, dia ampahafantarin' Andriamanitra lehibe ny mpanjaka ny amin' ny zavatra ho avy rahatrizay: marina ny nofy, ary tsy maintsy ho tò ny heviny."
-    },
-    {
-      "v": 46,
-      "text": "Dia niankohoka Nebokadnezara mpanjaka ka nivavaka tamin' i Daniela ary nandidy nampanatitra fanatitra sy hanitra ankasitrahana ho azy."
-    },
-    {
-      "v": 47,
-      "text": "Ny mpanjaka namaly an' i Daniela ka nanao hoe: Marina tokoa fa Andriamanitrareo dia Andriamanitry ny andriamanitra sy Tompon' ny mpanjaka ary Mpampiseho zava-miafina, ka dia nahay nampiseho izany zava-miafina izany ianao."
-    },
-    {
-      "v": 48,
-      "text": "Ary tamin' izany ny mpanjaka dia nanandratra an' i Daniela ho lehibe, ka nanome azy zavatra maro sady lehibe ary nanendry azy ho mpanapaka any Babylona sy ny fehiny rehetra, sy ho lehiben' ny mpanapaka ny olon-kendrin' i Babylona rehetra."
-    },
-    {
-      "v": 49,
-      "text": "\"Ary Daniela nangataka tamin' ny mpanjaka, ary izy nanendry an' i Sadraka sy Mesaka ary Abednego ho tonian' ny raharahan' i Babylona sy ny fehiny; ary Daniela dia teo am-bavahadin' ny mpanjaka.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary tamin' ny taona faharoa nanjakan' i Nebokadnezara dia nanonofy Nebokadnezara, ka nitebiteby ny fanahiny, ary tsy nahita torimaso izy.",
+    "2": "Dia nasain' ny mpanjaka nantsoina ny ombiasy sy ny mpisikidy sy ny mpanana ody ary ny Kaldeana haneho amin' ny mpanjaka ny nofiny.Dia tonga ireny ka nitsangana teo anatrehan' ny mpanjaka.",
+    "3": "Ary hoy ny mpanjaka taminy: Nanonofy aho, ka mitebiteby te-hahalala ny nofy ny fanahiko.",
+    "4": "Dia niteny tamin' ny mpanjaka tamin' ny teny syriaka ireny Kaldeana ireny hoe: Ry mpanjaka ô, ho velona mandrakizay anie ianao, ambarao aminay mpanomponao ny nofy, dia holazainay ny heviny.",
+    "5": "Dia namaly ny mpanjaka ka nanao tamin' ireo kaldeana hoe: efa niloa-bava aho; raha tsy hampahafantarinareo ahy ny nofy sy ny heviny, dia hotetitetehina ianareo, ary ny tranonareo hatao trano fivoahana.",
+    "6": "Fa raha milaza ny nofy sy ny heviny kosa ianareo, dia hahazo avy amiko fanomezana sy valim-pitia ary voninahitra be; koa ambarao ahy ny nofy mbamin' ny heviny.",
+    "7": "Dia namaly indray ireo ka nanao hoe: Aoka ny mpanjaka hilaza ny nofy aminay mpanompony, dia hambaranay ny heviny.",
+    "8": "Fa ny mpanjaka namaly ka nanao hoe: Fantatro marimarina fa mandany andro foana ianareo, satria hitanareo fa efa niloa-bava aho.",
+    "9": "Fa raha tsy hampahafantarinareo ahy ny nofy, dia lalàna iray ihany no hitondrana anareo; fa miray tetika ianareo hilaza teny lainga sy arirarira foana eto anatrehako mandra-piovan' ny andro; koa ambarao ahy ny nofy, dia ho fantatro fa mahalaza ny heviny amiko ianareo.",
+    "10": "Ny Kaldeana dia namaly teo anatrehan' ny mpanjaka hoe: Tsy misy olona ety ambonin' ny tany mahay milaza ny nofin' ny mpanjaka fa tsy mbola nisy mpanjaka, na tompo na mpanapaka, nanontany zavatra toy izany tamin' ny ombiasy sy ny mpisikidy, ary ny Kaldeana.",
+    "11": "Ary sarotra ny zavatra anontanian' ny mpanjaka, ka tsy misy mahay milaza izany eo anatrehan' ny mpanjaka afa-tsy ireo andriamanitra, izay tsy manam-ponenana amin' ny nofo.",
+    "12": "Dia vinitra sady tezitra indrindra ny mpanjaka noho izany, ka nasainy naringana ny olon-kendrin' i Babylona rehetra.",
+    "13": "Ary navoaka ny didy nampamono ny olon-kendry; ary Daniela sy ny namany koa mba notadiaviny hovonoina.",
+    "14": "Dia novalian' i Daniela tamin' ny fanahy sy fahendrena Arioka lehiben' ny mpiambina ny mpanjaka izay nivoaka hamono ny olon-kendrin' i Babylona;",
+    "15": "Namaly izy ka nanao tamin' i Arioka, lehibe voatendrin' ny mpanjaka hoe: Nahoana no dia maika toy izany ny teny avy amin' ny mpanjaka? Dia nambaran' i Arioka tamin' i Daniela ilay teny.",
+    "16": "Dia niditra Daniela ka nangataka tamin' ny mpanjaka hanome andro azy, dia holazainy amin' ny mpanjaka ny hevitry ny nofy.",
+    "17": "Dia nody tany an-tranony Daniela ka nanambara izany zavatra izany tamin' i Hanania sy Misaela ary Azaria namany,",
+    "18": "Mba hangatahan' ireo famindrampo amin' Andriamanitry ny lanitra ny amin' izany zava-miafina izany, mba tsy haringana Daniela sy ny namany miaraka amin' ny sisa amin' ny olon-kendrin' i Babylona.",
+    "19": "Dia naseho an' i Daniela tamin' ny fahitana amin' ny alina ny zava-miafina.Ka dia nisaotra an' Andriamanitry ny lanitra Daniela.",
+    "20": "Namaly Daniela ka nanao hoe: Isaorana anie ny anaran' Andriamanitra mandrakizay, mandrakizay, fa Azy ny fahendrena sy hery.",
+    "21": "Ary Izy no manova ny andro sy ny fotoana; Izy no manaisotra mpanjaka sy manangana mpanjaka; Izy no manome fahendrena ho an' ny hendry sy fahalalana ho an' izay mahira-tsaina;",
+    "22": "Izy no mampiseho ny zavatra lalina sy miafina; Izy no mahalala izay ao amin' ny maizina, ary ny mazava mitoetra ao aminy.",
+    "23": "Misaotra Anao sy midera Anao aho ry Andriamanitry ny razako ô, izay nanome ahy fahendrena sy hery ary efa nampahafantarinao ahy ankehitriny izay nangatahinay taminao; fa nampahafantarinao anay ny zavatry ny mpanjaka.",
+    "24": "Ary noho izany Daniela dia niditra nankao amin' i Arioka, izay notendren' ny mpanjaka handringana ny olon-kendrin' i Babylona; nandeha izy ka nanao taminy hoe: Aza mandringana ny olon-kendrin' i Babylona, fa ento ho eo anatrehan' ny mpanjaka aho, dia hambarako aminy ny hevitry ny nofiny.",
+    "25": "Dia nentin' i Arioka faingana ho eo anatrehan' ny mpanjaka Daniela, ka hoy izy taminy: Nahita lehilahy isan' ny babo avy any Joda aho, izay hilaza amin' ny mpanjaka ny hevitry ny nofy.",
+    "26": "Ny mpanjaka namaly ka nilaza tamin' i Daniela, izay atao hoe koa Beltesazara, hoe: Moa mahay manambara amiko ny nofy izay hitako mbamin' ny heviny va ianao?",
+    "27": "Dia namaly teo anatrehan' ny mpanjaka Daniela ka nanao hoe: Ilay zava-miafina nanontanian' ny mpanjaka dia tsy hain' ny olon-kendry, na ny mpisikidy, na ny ombiasy, na ny mpanandro, nolazaina tamin' ny mpanjaka;",
+    "28": "Kanefa misy Andriamanitra any an-danitra, Izay mampiseho zava-miafina ka mampahafantatra an' i Nebokadnezara mpanjaka izay ho tonga any am-parany. Ny nofinao sy ny fahitan' ny lohanao teo amin' ny farafaranao dia izao:",
+    "29": "Ny aminao, ry mpanjaka ô, raha nandry ianao, dia tonga ny eritreritrao ny amin' izay ho avy rahatrizay; ary Izay mampiseho zava-miafina dia mampahafantatra anao izay ho avy.",
+    "30": "Fa raha ny amiko, dia tsy noho ny fahendrena ananako mihoatra noho ny olombelona rehetra tsy akory no nampisehoana tamiko ny zava-miafina, fa ny mba hampahafantarana ny mpanjaka ilay hevitra, ka hahafantaranao ny eritreritry ny fonao.",
+    "31": "Ianao, ry mpanjaka ô, nahita fa, indro, nisy sariolona lehibe anankiray.Izany sary izany dia lehibe sady namirapiratra tsara, nijoro teo anatrehanao izy, ary ny tarehiny dia nahatahotra.",
+    "32": "Ny lohan' izany sary izany dia volamena tsara, ny tratrany sy ny sandriny dia volafotsy, ny kibony sy ny feny dia varahina,",
+    "33": "Ny ranjony dia vy ary ny tongony dia vy sy tanimanga.",
+    "34": "Nijery ianao ambara-pahanisy vato voaendaka, nefa tsy nendahan-tanana, ary namely ilay sary teo amin' ny tongony vy sy tanimanga iny ka nahatorotoro azy.",
+    "35": "Dia niara-torotoro ny vy sy ny tanimanga sy ny varahina sy ny volafotsy ary ny volamena ka tonga toy ny akofa eo am-pamoloana fahavaratra; ary nopaohin' ny rivotra izy, ka tsy nisy hitoerany; ary ilay vato namely ny sary dia tonga tendrombohitra lehibe nahafeno ny tany rehetra.",
+    "36": "Izany ilay nofy, ary holazainay eto anatrehan' ny mpanjaka ny heviny.",
+    "37": "Ianao, ry mpanjaka ô, izay mpanjakan' ny mpanjaka sady nomen' Andriamanitry ny lanitra fanjakana sy hery sy fahaleovana ary voninahitra,",
+    "38": "Ka ny zanak' olombelona na aiza na aiza itoerany, sy ny biby eny an-tsaha sy ny voro-manidina eny amin' ny lanitra, dia nomeny ho eo an-tananao, ary nataony ho mpanjakan' izy rehetra ianao, dia ianao izany loha volamena izany.",
+    "39": "Ary manarakaraka anao dia hisy fanjakana hafa hitsangana ambany noho ny anao, ary hisy fanjakana fahatelo koa izay varahina sady hanam-pahefana amin' ny tany rehetra.",
+    "40": "Ary ny fanjakana fahefatra dia ho mafy toy ny vy; fa toy ny vy manorotoro sy mahamongomongo ny zavatra rehetra, ary toy ny famakivakin' ny vy ireo rehetra ireo, dia toy izany no hamakivakiany sy hanorotoroany azy.",
+    "41": "Ary satria hitanao ny tongotra sy ny rantsan-tongotra, fa ny tapany tanimangan' ny mpanefy tanimanga, ary ny tapany vy, dia ho fanjakana mizarazara izy; nefa hisy herim-by ao aminy, satria nahita vy miharo tanimanga mbola fotaka ianao.",
+    "42": "Ary toy ny rantsan-tongotra, ny tapany vy, ny tapany tanimanga, dia ho toy izany ny fanjakana, ny tapany ho mafy, ary ny tapany ho vakivaky.",
+    "43": "Ary toy ny nahitanao ny vy miharo tanimanga mbola fotaka, dia ho toy izany no hiharoany amin' ny taranak' olombelona; nefa tsy hitambatra izy, dia toy ny tsy fetezan' ny vy miharo amin' ny tanimanga.",
+    "44": "Ary amin' ny andron' ireo mpanjaka ireo, Andriamanitry ny lanitra dia hanorina fanjakana izay tsy ho rava mandrakizay; ary izany fanjakana izany tsy havela ho an' olon-kafa, fa ireo fanjakana rehetra ireo dia hotorotoroiny sy holevoniny, fa izy kosa hitoetra mandrakizay.",
+    "45": "Fa toy ilay nahitanao ny vato nendahana tamin' ny tendrombohitra, nefa tsy nendahan-tanana, sy ny nanorotoroany ny vy sy ny varahina sy ny tanimanga sy ny volafotsy ary ny volamena, dia ampahafantarin' Andriamanitra lehibe ny mpanjaka ny amin' ny zavatra ho avy rahatrizay: marina ny nofy, ary tsy maintsy ho tò ny heviny.",
+    "46": "Dia niankohoka Nebokadnezara mpanjaka ka nivavaka tamin' i Daniela ary nandidy nampanatitra fanatitra sy hanitra ankasitrahana ho azy.",
+    "47": "Ny mpanjaka namaly an' i Daniela ka nanao hoe: Marina tokoa fa Andriamanitrareo dia Andriamanitry ny andriamanitra sy Tompon' ny mpanjaka ary Mpampiseho zava-miafina, ka dia nahay nampiseho izany zava-miafina izany ianao.",
+    "48": "Ary tamin' izany ny mpanjaka dia nanandratra an' i Daniela ho lehibe, ka nanome azy zavatra maro sady lehibe ary nanendry azy ho mpanapaka any Babylona sy ny fehiny rehetra, sy ho lehiben' ny mpanapaka ny olon-kendrin' i Babylona rehetra.",
+    "49": "Ary Daniela nangataka tamin' ny mpanjaka, ary izy nanendry an' i Sadraka sy Mesaka ary Abednego ho tonian' ny raharahan' i Babylona sy ny fehiny; ary Daniela dia teo am-bavahadin' ny mpanjaka."
+  }
 }

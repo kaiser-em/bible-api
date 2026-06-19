@@ -1,77 +1,24 @@
 {
+  "book": "2 Korintiana",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary amin’izany, satria manana izany fanompoana izany izahay, araka ny nahazoanay famindrampo, dia tsy ketraka izahay."
-    },
-    {
-      "v": 2,
-      "text": "\"Fa efa nolavinay ny zavatra miafina mahamenatra, ka tsy mandeha amin’ny hafetsena na mitondra ny tenin’Andriamanitra amin’ny fitaka; fa amin’ny fanehoana ny marina no mahatonga anay ho mendrika amin’ny fieritreretan’ny olona rehetra eo imason’Andriamanitra.\""
-    },
-    {
-      "v": 3,
-      "text": "Fa raha miafina ny filazantsaranay, dia miafina amin’izay very izany,"
-    },
-    {
-      "v": 4,
-      "text": "Izay nohajambain’ny andriamanitr’izao tontolo izao, dia ny sain’ny tsy mino, mba tsy hiposahan’ny fahazavan’ny filazantsaran’ny voninahitr’i Kristy, Izay endrik’Andriamanitra, eo aminy."
-    },
-    {
-      "v": 5,
-      "text": "Fa tsy ny tenanay no torinay, fa Kristy Jesosy Tompo, ary izahay dia mpanomponareo noho ny amin’i Jesosy."
-    },
-    {
-      "v": 6,
-      "text": "Fa Andriamanitra Izay nandidy ny mazava mba hanazava ao amin’ny maizina no nampahazava ny fonay ka nanome ny fahazavan’ny fahalalana ny voninahitr’Andriamanitra eo amin’ny tavan’i Jesosy Kristy."
-    },
-    {
-      "v": 7,
-      "text": "Fa manana izao tahiry izao amin’ny vilany tany izahay, mba ho avy amin’Andriamanitra ny halehiben’ny hery, fa tsy ho avy aminay:"
-    },
-    {
-      "v": 8,
-      "text": "\"Voahodidim-pahoriana izahay, nefa tsy malahelo; very hevitra, nefa tsy mamoy fo;\""
-    },
-    {
-      "v": 9,
-      "text": "\"Enjehina, nefa tsy nafoy; nazera nefa tsy rava.\""
-    },
-    {
-      "v": 10,
-      "text": "Mitondra ny fahafatesan’i Jesosy Tompo mandrakariva ao amin’ny tena izahay, mba aseho amin’ny tenanay koa ny fiainan’i Jesosy."
-    },
-    {
-      "v": 11,
-      "text": "Fa izahay izay velona dia atolotra ho amin’ny fahafatesana mandrakariva noho ny amin’i Jesosy, mba haseho ao amin’ny nofonay mety maty koa ny fiainan’i Jesosy."
-    },
-    {
-      "v": 12,
-      "text": "Koa ny fahafatesana no miasa ao aminay, fa ny fiainana kosa ao aminareo."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary satria manana izany fanahin’ny finoana izany indrindra izahay, araka ny voasoratra hoe: “Nino aho ka dia niteny”, dia mino koa izahay ka miteny;\""
-    },
-    {
-      "v": 14,
-      "text": "Fa fantatray fa izay nanangana an’i Jesosy Tompo no hanangana anay koa amin' ny alalan’i Jesosy ka hanolotra anay miaraka aminareo."
-    },
-    {
-      "v": 15,
-      "text": "Fa ny zavatra rehetra dia natao noho ny aminareo, mba hitomboan’ny fisaorana ho voninahitr’Andriamanitra noho ny fitombon’ny fahasoavana amin’ny maro."
-    },
-    {
-      "v": 16,
-      "text": "\"Noho izany, tsy ketraka izahay; fa na dia mihalevona aza ny olonay eo ivelany, dia havaozina isan’andro isan’andro ny olona ao anaty.\""
-    },
-    {
-      "v": 17,
-      "text": "Fa ny fahorianay maivana, izay vetivety foana, dia mainka miasa fatratra indrindra ka mahatanteraka voninahitra mavesatra mandrakizay ho anay,"
-    },
-    {
-      "v": 18,
-      "text": "\"Raha tsy mijery ny zavatra hita izahay, fa ny zavatra tsy hita; fa ny zavatra hita dia tsy maharitra, fa ny zavatra tsy hita no mandrakizay.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary amin’izany, satria manana izany fanompoana izany izahay, araka ny nahazoanay famindrampo, dia tsy ketraka izahay.",
+    "2": "Fa efa nolavinay ny zavatra miafina mahamenatra, ka tsy mandeha amin’ny hafetsena na mitondra ny tenin’Andriamanitra amin’ny fitaka; fa amin’ny fanehoana ny marina no mahatonga anay ho mendrika amin’ny fieritreretan’ny olona rehetra eo imason’Andriamanitra.",
+    "3": "Fa raha miafina ny filazantsaranay, dia miafina amin’izay very izany,",
+    "4": "Izay nohajambain’ny andriamanitr’izao tontolo izao, dia ny sain’ny tsy mino, mba tsy hiposahan’ny fahazavan’ny filazantsaran’ny voninahitr’i Kristy, Izay endrik’Andriamanitra, eo aminy.",
+    "5": "Fa tsy ny tenanay no torinay, fa Kristy Jesosy Tompo, ary izahay dia mpanomponareo noho ny amin’i Jesosy.",
+    "6": "Fa Andriamanitra Izay nandidy ny mazava mba hanazava ao amin’ny maizina no nampahazava ny fonay ka nanome ny fahazavan’ny fahalalana ny voninahitr’Andriamanitra eo amin’ny tavan’i Jesosy Kristy.",
+    "7": "Fa manana izao tahiry izao amin’ny vilany tany izahay, mba ho avy amin’Andriamanitra ny halehiben’ny hery, fa tsy ho avy aminay:",
+    "8": "Voahodidim-pahoriana izahay, nefa tsy malahelo; very hevitra, nefa tsy mamoy fo;",
+    "9": "Enjehina, nefa tsy nafoy; nazera nefa tsy rava.",
+    "10": "Mitondra ny fahafatesan’i Jesosy Tompo mandrakariva ao amin’ny tena izahay, mba aseho amin’ny tenanay koa ny fiainan’i Jesosy.",
+    "11": "Fa izahay izay velona dia atolotra ho amin’ny fahafatesana mandrakariva noho ny amin’i Jesosy, mba haseho ao amin’ny nofonay mety maty koa ny fiainan’i Jesosy.",
+    "12": "Koa ny fahafatesana no miasa ao aminay, fa ny fiainana kosa ao aminareo.",
+    "13": "Ary satria manana izany fanahin’ny finoana izany indrindra izahay, araka ny voasoratra hoe: “Nino aho ka dia niteny”, dia mino koa izahay ka miteny;",
+    "14": "Fa fantatray fa izay nanangana an’i Jesosy Tompo no hanangana anay koa amin' ny alalan’i Jesosy ka hanolotra anay miaraka aminareo.",
+    "15": "Fa ny zavatra rehetra dia natao noho ny aminareo, mba hitomboan’ny fisaorana ho voninahitr’Andriamanitra noho ny fitombon’ny fahasoavana amin’ny maro.",
+    "16": "Noho izany, tsy ketraka izahay; fa na dia mihalevona aza ny olonay eo ivelany, dia havaozina isan’andro isan’andro ny olona ao anaty.",
+    "17": "Fa ny fahorianay maivana, izay vetivety foana, dia mainka miasa fatratra indrindra ka mahatanteraka voninahitra mavesatra mandrakizay ho anay,",
+    "18": "Raha tsy mijery ny zavatra hita izahay, fa ny zavatra tsy hita; fa ny zavatra hita dia tsy maharitra, fa ny zavatra tsy hita no mandrakizay."
+  }
 }

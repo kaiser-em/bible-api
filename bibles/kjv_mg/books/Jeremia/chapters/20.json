@@ -1,77 +1,24 @@
 {
+  "book": "Jeremia",
   "chapter": 20,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Pasora, zanak' i Imera, mpisorona sady mpiandraikitra ny tranon' i Jehovah, raha nandre an' i Jeremia naminany izany zavatra izany,"
-    },
-    {
-      "v": 2,
-      "text": "Dia namely an' i Jeremia mpaminany sady namatotra azy tamin' ny boloky hazo izay teo am-bavahadin' i Benjamina, dia ilay eo ambony, eo anilan' ny tranon' i Jehovah."
-    },
-    {
-      "v": 3,
-      "text": "Ary izao no niseho, nony ampitso dia nesorin' i Pasora tamin' ny boloky hazo Jeremia.dia hoy Jeremia taminy: Tsy nataon' i Jehovah hoe: Pasora ny anaranao, fa Magora-misabiba."
-    },
-    {
-      "v": 4,
-      "text": "\"Fa izao no lazain' i Jehovah: Indro, hataoko fampangorohoroana ho an' ny tenanao sy ny sakaizanao rehetra ianao,ary ho lavon' ny sabatry ny fahavalony ireo, dia ho hitan' ny masonao izany; ary ny Joda rehetra hatolotro eo an-tanan' ny mpanjakan' i Babylona, dia hoentiny ho babo any Babylona izy ka hovonoiny amin' ny sabatra.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary ny hery rehetra amin' ity tanàna ity sy ny fisasarana rehetra sy ny zava-tsoany rehetra ary ny rakitry ny mpanjakan' ny Joda rehetra dia samy hatolotro eo an-tanan' ny fahavalony, izay hamabo sy haka azy ireny ka hitondra azy ho any Babylona."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary ianao, ry Pasora, sy izay rehetra mitoetra ao an-tranonao dia ho lasan-ko babo; ary ho tonga any Babylona ianao, ka any no hahafatesanao, ary any koa no handevenana anao mbamin' ny sakaizanao rehetra izay efa naminanianao lainga.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Jehovah ô, notaominao aho ka voataona; mahery noho izaho ianao, ka resinao aho; tonga fihomehezana isan' andro aho, izy rehetra dia maneso ahy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Fa hatramin' izay nitenenako dia nitaraina aho, niantso loza sy fandravana; fa ny tenin' i Jehovah dia atao fanakorana sy fihomehezana ahy isan' andro.\""
-    },
-    {
-      "v": 9,
-      "text": "Dia hoy aho: Tsy hanonona Azy aho, na hiteny intsony amin' ny anarany. Nefa ny teniny dia toy ny afo mirehitra ato am-poko, voahidy ato amin' ny taolako, ary sasatra ny niaritra aho ka tsy nahazaka."
-    },
-    {
-      "v": 10,
-      "text": "Fa reko ny endrikendriky ny maro, ny fampitahorana manodidina.Torio, hoy izy ireo, dia hotorintsika izany. Izay rehetra tsara fihavanana amiko dia miandry izay hahalavoako, ka manao hoe: Angamba ho voataona izy, dia horesentsika sy hovaliantsika."
-    },
-    {
-      "v": 11,
-      "text": "\"Kanefa Jehovah momba ahy toy ny lehilahy mahery sy mahatahotra, ary noho izany dia ho tafintohina ny mpanenjika ahy ka tsy haharesy ahy; ho menatra indrindra izy, satria tsy ambinina; tsy hohadinoina na oviana na oviana ny fahamenarany mandrakizay.\""
-    },
-    {
-      "v": 12,
-      "text": "Fa Ianao Jehovah, Tompon' ny maro ô, izay mizaha toetra ny marina, ka mahita ny voa sy ny fo, aoka ho hitako ny famalianao azy, fa taminao no namelarako ny adiko."
-    },
-    {
-      "v": 13,
-      "text": "\"Mihirà ho an' i Jehovah, miderà an' i Jehovah; fa izy no nanafaka ny fanahin' ny mahantra tamin' ny tanan' ny mpanao ratsy.\""
-    },
-    {
-      "v": 14,
-      "text": "Ho voaozona anie ny andro izay nahaterahako! Aoka tsy hotahiana anie ny andro izay niterahan' ineny ahy!"
-    },
-    {
-      "v": 15,
-      "text": "Ho voaozona anie ny olona izay nitondra teny mahafaly tamin' ikaky nanao hoe: Tera-dahy ianao! ka nahafaly azy indrindra."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary aoka izany lehilahy izany ho toy ny tanàna izay noravan' i Jehovah ka tsy nanenenany; ary aoka izy handre fitarainana nony maraina sy akoralava nony mitataovovonana,\""
-    },
-    {
-      "v": 17,
-      "text": "Satria tsy nahafaty ahy tany an-kibo izy, na hahatonga an' ineny ho fasako, ka hivesatra ahy mandrakariva ny kibony."
-    },
-    {
-      "v": 18,
-      "text": "Nahoana re aho no nivoaka avy tany an-kibo mba hahita fahoriana sy alahelo, ka ho lany aman-kenatra ny androko?"
-    }
-  ]
+  "verses": {
+    "1": "Ary Pasora, zanak' i Imera, mpisorona sady mpiandraikitra ny tranon' i Jehovah, raha nandre an' i Jeremia naminany izany zavatra izany,",
+    "2": "Dia namely an' i Jeremia mpaminany sady namatotra azy tamin' ny boloky hazo izay teo am-bavahadin' i Benjamina, dia ilay eo ambony, eo anilan' ny tranon' i Jehovah.",
+    "3": "Ary izao no niseho, nony ampitso dia nesorin' i Pasora tamin' ny boloky hazo Jeremia.dia hoy Jeremia taminy: Tsy nataon' i Jehovah hoe: Pasora ny anaranao, fa Magora-misabiba.",
+    "4": "Fa izao no lazain' i Jehovah: Indro, hataoko fampangorohoroana ho an' ny tenanao sy ny sakaizanao rehetra ianao,ary ho lavon' ny sabatry ny fahavalony ireo, dia ho hitan' ny masonao izany; ary ny Joda rehetra hatolotro eo an-tanan' ny mpanjakan' i Babylona, dia hoentiny ho babo any Babylona izy ka hovonoiny amin' ny sabatra.",
+    "5": "Ary ny hery rehetra amin' ity tanàna ity sy ny fisasarana rehetra sy ny zava-tsoany rehetra ary ny rakitry ny mpanjakan' ny Joda rehetra dia samy hatolotro eo an-tanan' ny fahavalony, izay hamabo sy haka azy ireny ka hitondra azy ho any Babylona.",
+    "6": "Ary ianao, ry Pasora, sy izay rehetra mitoetra ao an-tranonao dia ho lasan-ko babo; ary ho tonga any Babylona ianao, ka any no hahafatesanao, ary any koa no handevenana anao mbamin' ny sakaizanao rehetra izay efa naminanianao lainga.",
+    "7": "Jehovah ô, notaominao aho ka voataona; mahery noho izaho ianao, ka resinao aho; tonga fihomehezana isan' andro aho, izy rehetra dia maneso ahy.",
+    "8": "Fa hatramin' izay nitenenako dia nitaraina aho, niantso loza sy fandravana; fa ny tenin' i Jehovah dia atao fanakorana sy fihomehezana ahy isan' andro.",
+    "9": "Dia hoy aho: Tsy hanonona Azy aho, na hiteny intsony amin' ny anarany. Nefa ny teniny dia toy ny afo mirehitra ato am-poko, voahidy ato amin' ny taolako, ary sasatra ny niaritra aho ka tsy nahazaka.",
+    "10": "Fa reko ny endrikendriky ny maro, ny fampitahorana manodidina.Torio, hoy izy ireo, dia hotorintsika izany. Izay rehetra tsara fihavanana amiko dia miandry izay hahalavoako, ka manao hoe: Angamba ho voataona izy, dia horesentsika sy hovaliantsika.",
+    "11": "Kanefa Jehovah momba ahy toy ny lehilahy mahery sy mahatahotra, ary noho izany dia ho tafintohina ny mpanenjika ahy ka tsy haharesy ahy; ho menatra indrindra izy, satria tsy ambinina; tsy hohadinoina na oviana na oviana ny fahamenarany mandrakizay.",
+    "12": "Fa Ianao Jehovah, Tompon' ny maro ô, izay mizaha toetra ny marina, ka mahita ny voa sy ny fo, aoka ho hitako ny famalianao azy, fa taminao no namelarako ny adiko.",
+    "13": "Mihirà ho an' i Jehovah, miderà an' i Jehovah; fa izy no nanafaka ny fanahin' ny mahantra tamin' ny tanan' ny mpanao ratsy.",
+    "14": "Ho voaozona anie ny andro izay nahaterahako! Aoka tsy hotahiana anie ny andro izay niterahan' ineny ahy!",
+    "15": "Ho voaozona anie ny olona izay nitondra teny mahafaly tamin' ikaky nanao hoe: Tera-dahy ianao! ka nahafaly azy indrindra.",
+    "16": "Ary aoka izany lehilahy izany ho toy ny tanàna izay noravan' i Jehovah ka tsy nanenenany; ary aoka izy handre fitarainana nony maraina sy akoralava nony mitataovovonana,",
+    "17": "Satria tsy nahafaty ahy tany an-kibo izy, na hahatonga an' ineny ho fasako, ka hivesatra ahy mandrakariva ny kibony.",
+    "18": "Nahoana re aho no nivoaka avy tany an-kibo mba hahita fahoriana sy alahelo, ka ho lany aman-kenatra ny androko?"
+  }
 }

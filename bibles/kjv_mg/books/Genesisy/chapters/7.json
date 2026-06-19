@@ -1,101 +1,30 @@
 {
+  "book": "Genesisy",
   "chapter": 7,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary hoy Jehovah tamin' i Noa: Midira ao anatin' ny sambofiara ianao mbamin' ny ankohonanao rehetra, satria ianao no hitako fa marina eo anatrehako amin' izao olona miara-belona aminao izao."
-    },
-    {
-      "v": 2,
-      "text": "\"Avy amin' ny biby madio rehetra isan-karazany dia hanalanao ho ao aminao fito avy ny lahy sy ny vaviny; ary avy amin' ny biby tsy madio isan-karazany roa avy ny lahy sy ny vaviny.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Avy amin' ny voro-manidina eny amin' ny habakabaka koa, dia fito avy, lahy sy vavy; mba tsy ho lany taranaka ambonin' ny tany rehetra ireny.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Fa raha afaka hafitoana, dia hampilatsaka ranonorana ambonin' ny tany efapolo andro sy efapolo alina Aho; ary ny zavatra velona rehetra izay nataoko dia haringako tsy ho ambonin' ny tany.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary nanao araka izay rehetra nandidian' i Jehovah azy Noa."
-    },
-    {
-      "v": 6,
-      "text": "Ary eninjato taona Noa, raha tonga tambonin' ny tany ny safodrano."
-    },
-    {
-      "v": 7,
-      "text": "Ary niditra tao anatin' ny sambofiara Noa, sy ny zanany lahy, sy ny vadiny, mbamin' ny vinantovaviny miaraka aminy, noho ny amin' ny ranon' ny safodrano."
-    },
-    {
-      "v": 8,
-      "text": "Avy amin' ny biby madio sy avy amin' ny biby tsy madio, sy avy amin' ny vorona, ary avy amin' ny zava-mandady, na mikisaka rehetra ambonin' ny tany,"
-    },
-    {
-      "v": 9,
-      "text": "Dia niditra tsiroaroa ho ao amin' i Noa tao anatin' ny sambofiara, ny lahy sy ny vavy araka ny nandidian' Andriamanitra an' i Noa."
-    },
-    {
-      "v": 10,
-      "text": "Ary izao no niseho, rehefa afaka hafitoana dia tonga tambonin' ny tany ny ranon' ny safodrano."
-    },
-    {
-      "v": 11,
-      "text": "Tamin' ny andro fahafito ambin' ny folo tamin' ny volana faharoa tamin' ny faheninjato taona niainan' i Noa, tamin' izany andro izany dia nipoitra ny loharano rehetra tamin' ny lalina lehibe, ary nivoha ny varavarankelin' ny lanitra."
-    },
-    {
-      "v": 12,
-      "text": "Dia nilatsaka tambonin' ny tany efapolo andro sy efapolo alina ny ranonorana."
-    },
-    {
-      "v": 13,
-      "text": "\"Androtrizay dia efa tafiditra tao anatin' ny sambofiara Noa, sy Sema sy Hama ary Jafeta, zanakalahin' i Noa, mbamin' ny vadin' i Noa ary ny vinantony telo vavy niaraka taminy;\""
-    },
-    {
-      "v": 14,
-      "text": "Dia izy ireo, sy ny biby rehetra samy araka ny karazany avy sy ny biby fiompy rehetra, samy araka ny karazany avy, sy ny biby rehetra izay mandady na mikisaka amin' ny tany, samy araka ny karazany avy, ary ny vorona rehetra, samy araka ny karazany avy, ny voronkely araka ny karazany avy."
-    },
-    {
-      "v": 15,
-      "text": "Dia niditra tao amin' i Noa tao anatin' ny sambofiara ireo, dia tsiroaroa avy tamin' ny nofo rehetra izay manam-pofonaina."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary izay niditra tao dia lahy sy vavy, avy tamin' ny nofo rehetra, araka izay nandidian' Andriamanitra an' i Noa; ary narindrin' i Jehovah tao izy.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary naharitra tambonin' ny tany efapolo andro ny safodrano; ary nitombo ny rano ka nanainga ny sambofiara, dia nitsinkafona niala tambonin' ny tany izy.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary nahery ny rano ka nitombo be tambonin' ny tany; dia nandeha teny ambonin' ny rano ny sambofiara.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ary nahery indrindra ny rano tambonin' ny tany; ka voasarona ny tendrombohitra avo rehetra izay tambanin' ny lanitra rehetra.\""
-    },
-    {
-      "v": 20,
-      "text": "Dimy ambin' ny folo hakiho no nihoaran' ny rano, ka voasarona ny tendrombohitra."
-    },
-    {
-      "v": 21,
-      "text": "Dia maty ny nofo rehetra izay nihetsiketsika tambonin' ny tany, dia ny vorona sy ny biby fiompy, sy ny biby mbamin' ny biby rehetra izay mandady na mikisaka amin' ny tany ary ny olona rehetra."
-    },
-    {
-      "v": 22,
-      "text": "Izay rehetra nanam-pofonaina teo am-bavorony avy tamin' izay rehetra teo amin' ny tany maina, dia maty avokoa."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary naringana ny zavatra velona rehetra izay tambonin' ny tany, dia ny olona sy ny biby fiompy sy ny biby mandady na mikisaka mbamin' ny voro-manidina eny amin' ny lanitra; dia naringana tsy ho amin' ny tany ireny; ary Noa sy izay niaraka taminy tao anatin' ny sambofiara ihany no sisa velona.\""
-    },
-    {
-      "v": 24,
-      "text": "Ary nahery tambonin' ny tany dimampolo amby zato andro ny rano."
-    }
-  ]
+  "verses": {
+    "1": "Ary hoy Jehovah tamin' i Noa: Midira ao anatin' ny sambofiara ianao mbamin' ny ankohonanao rehetra, satria ianao no hitako fa marina eo anatrehako amin' izao olona miara-belona aminao izao.",
+    "2": "Avy amin' ny biby madio rehetra isan-karazany dia hanalanao ho ao aminao fito avy ny lahy sy ny vaviny; ary avy amin' ny biby tsy madio isan-karazany roa avy ny lahy sy ny vaviny.",
+    "3": "Avy amin' ny voro-manidina eny amin' ny habakabaka koa, dia fito avy, lahy sy vavy; mba tsy ho lany taranaka ambonin' ny tany rehetra ireny.",
+    "4": "Fa raha afaka hafitoana, dia hampilatsaka ranonorana ambonin' ny tany efapolo andro sy efapolo alina Aho; ary ny zavatra velona rehetra izay nataoko dia haringako tsy ho ambonin' ny tany.",
+    "5": "Ary nanao araka izay rehetra nandidian' i Jehovah azy Noa.",
+    "6": "Ary eninjato taona Noa, raha tonga tambonin' ny tany ny safodrano.",
+    "7": "Ary niditra tao anatin' ny sambofiara Noa, sy ny zanany lahy, sy ny vadiny, mbamin' ny vinantovaviny miaraka aminy, noho ny amin' ny ranon' ny safodrano.",
+    "8": "Avy amin' ny biby madio sy avy amin' ny biby tsy madio, sy avy amin' ny vorona, ary avy amin' ny zava-mandady, na mikisaka rehetra ambonin' ny tany,",
+    "9": "Dia niditra tsiroaroa ho ao amin' i Noa tao anatin' ny sambofiara, ny lahy sy ny vavy araka ny nandidian' Andriamanitra an' i Noa.",
+    "10": "Ary izao no niseho, rehefa afaka hafitoana dia tonga tambonin' ny tany ny ranon' ny safodrano.",
+    "11": "Tamin' ny andro fahafito ambin' ny folo tamin' ny volana faharoa tamin' ny faheninjato taona niainan' i Noa, tamin' izany andro izany dia nipoitra ny loharano rehetra tamin' ny lalina lehibe, ary nivoha ny varavarankelin' ny lanitra.",
+    "12": "Dia nilatsaka tambonin' ny tany efapolo andro sy efapolo alina ny ranonorana.",
+    "13": "Androtrizay dia efa tafiditra tao anatin' ny sambofiara Noa, sy Sema sy Hama ary Jafeta, zanakalahin' i Noa, mbamin' ny vadin' i Noa ary ny vinantony telo vavy niaraka taminy;",
+    "14": "Dia izy ireo, sy ny biby rehetra samy araka ny karazany avy sy ny biby fiompy rehetra, samy araka ny karazany avy, sy ny biby rehetra izay mandady na mikisaka amin' ny tany, samy araka ny karazany avy, ary ny vorona rehetra, samy araka ny karazany avy, ny voronkely araka ny karazany avy.",
+    "15": "Dia niditra tao amin' i Noa tao anatin' ny sambofiara ireo, dia tsiroaroa avy tamin' ny nofo rehetra izay manam-pofonaina.",
+    "16": "Ary izay niditra tao dia lahy sy vavy, avy tamin' ny nofo rehetra, araka izay nandidian' Andriamanitra an' i Noa; ary narindrin' i Jehovah tao izy.",
+    "17": "Ary naharitra tambonin' ny tany efapolo andro ny safodrano; ary nitombo ny rano ka nanainga ny sambofiara, dia nitsinkafona niala tambonin' ny tany izy.",
+    "18": "Ary nahery ny rano ka nitombo be tambonin' ny tany; dia nandeha teny ambonin' ny rano ny sambofiara.",
+    "19": "Ary nahery indrindra ny rano tambonin' ny tany; ka voasarona ny tendrombohitra avo rehetra izay tambanin' ny lanitra rehetra.",
+    "20": "Dimy ambin' ny folo hakiho no nihoaran' ny rano, ka voasarona ny tendrombohitra.",
+    "21": "Dia maty ny nofo rehetra izay nihetsiketsika tambonin' ny tany, dia ny vorona sy ny biby fiompy, sy ny biby mbamin' ny biby rehetra izay mandady na mikisaka amin' ny tany ary ny olona rehetra.",
+    "22": "Izay rehetra nanam-pofonaina teo am-bavorony avy tamin' izay rehetra teo amin' ny tany maina, dia maty avokoa.",
+    "23": "Ary naringana ny zavatra velona rehetra izay tambonin' ny tany, dia ny olona sy ny biby fiompy sy ny biby mandady na mikisaka mbamin' ny voro-manidina eny amin' ny lanitra; dia naringana tsy ho amin' ny tany ireny; ary Noa sy izay niaraka taminy tao anatin' ny sambofiara ihany no sisa velona.",
+    "24": "Ary nahery tambonin' ny tany dimampolo amby zato andro ny rano."
+  }
 }

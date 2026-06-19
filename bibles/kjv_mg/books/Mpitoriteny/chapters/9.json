@@ -1,77 +1,24 @@
 {
+  "book": "Mpitoriteny",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Fa izany rehetra izany dia noraketiko tato am-poko, mba hanambarana ireto: fa ny marina sy ny hendry mbamin' ny asany dia eo an-tanan' Andriamanitra; tsy misy olona mahafantatra, na fitiavana, na fankahalana; eo anatrehan' izy ireo avokoa izany.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Mitovy avokoa ny manjò ny rehetra; eny, iray ihany no manjo ny marina sy ny ratsy fanahy, ny tsara sy madio ary ny tsy madio; ny manao fanatitra sy ny tsy manao fanatitra; mitovy ihany ny amin' ny tsara sy ny mpanota, ary ny amin' ny mianiana sy ny amin' izay matahotra hianiana.\""
-    },
-    {
-      "v": 3,
-      "text": "Izao no zava-dratsy amin' izay rehetra atao aty ambany masoandro: iray ihany no manjo ny rehetra, eny, feno faharatsiana koa ny fon' ny zanak' olombelona, ary fahadalana no ao am-pony mandritra ny ahavelomany, ka aorian' izany dia mankany amin' ny maty izy."
-    },
-    {
-      "v": 4,
-      "text": "\"Fa izay isan' ny velona rehetra dia misy fanantenana; fa ny amboa velona no tsara kokoa noho ny liona maty.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Fa fantatry ny velona fa ho faty izy; fa ny maty kosa tsy mba mahalala na inona na inona, ary tsy manana valim-pitia intsony izy; fa hadino ny fahatsiarovana azy.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary koa ny fitiavany, sy ny fankahalany sy ny fialonany, dia efa levona, sady tsy manana anjara intsony mandrakizay amin' izay atao aty ambany masoandro izy."
-    },
-    {
-      "v": 7,
-      "text": "Mandehana, hano amin' ny fifaliana ny haninao, ary sotroy amin' ny fo falifaly ny divainao, fa efa nankasitrahin' Andriamanitra ny asanao."
-    },
-    {
-      "v": 8,
-      "text": "Aoka ho fotsy mandrakariva ny fitafianao, ary aoka tsy ho diso menaka ny lohanao."
-    },
-    {
-      "v": 9,
-      "text": "\"Miravoravoa amin' ny vady malalanao amin' ny androm-piainanao rehetra mandalo foana, izay efa nomeny anao aty ambany masoandro, dia ny andronao rehetra mandalo foana; fa izany no anjaranao amin' izao fiainana izao, sy amin' ny fisasarana izay isasaranao aty ambany masoandro.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Izay rehetra azon' ny tananao atao dia ataovy amin' ny herinao; fa tsy misy asa, na hevitra, na fahalalana, na fahendrena any amin' ny fasana izay alehanao.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Nitodika aho ka hitako aty ambany masoandro, fa tsy ho an' ny haingan-tongotra ny fihoarana, ary tsy ho an' ny mahery ny ady, ary tsy ho an' ny hendry ny hanina, tsy ho an' ny manantsaina koa ny harena, na ho an' ny manam-pahalalana ny fankasitrahana; fa ny fotoana sy ny anjara dia samy tonga amin' izy rehetra.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Fa tsy fantatry ny olona koa ny fotoanany; fa toy ny hazandrano azon' ny harato fahitan-doza izy, ary toy ny vorona izay voan' ny fandrika, dia voafandrika toy izany ny zanak' olombelona amin' ny fotoana mahory raha mahavoa azy tampoka izany.\""
-    },
-    {
-      "v": 13,
-      "text": "Izao koa no fahendrena efa hitako taty ambany masoandro, ka dia nataoko ho lehibe izany:"
-    },
-    {
-      "v": 14,
-      "text": "Nisy vohitra kely sady vitsy olona, dia avy ny mpanjaka lehibe anankiray ka namely sy nanao fahirano azy ary nanao manda lehibe hamelezana azy."
-    },
-    {
-      "v": 15,
-      "text": "Ary nisy lehilahy mahantra hendry hita tao, koa nahavonjy ny tanàna tamin' ny fahendreny ralehilahy, nefa tsy nisy olona mba nahatsiahy io lehilahy mahantra io."
-    },
-    {
-      "v": 16,
-      "text": "Koa hoy aho: Aleo fahendrena toy izay hery: kanjo hamavoina ny fahendren' ny mahantra, ary ny teniny tsy mba henoina."
-    },
-    {
-      "v": 17,
-      "text": "Ny tenin' ny hendry henoina amim-pahatoniana dia mihoatra noho ny fitreron' izay manapaka ao amin' ny adala."
-    },
-    {
-      "v": 18,
-      "text": "\"Aleo fahendrena toy izay fiadiana; ary ny mpanota iray mahasimba ny soa be.\""
-    }
-  ]
+  "verses": {
+    "1": "Fa izany rehetra izany dia noraketiko tato am-poko, mba hanambarana ireto: fa ny marina sy ny hendry mbamin' ny asany dia eo an-tanan' Andriamanitra; tsy misy olona mahafantatra, na fitiavana, na fankahalana; eo anatrehan' izy ireo avokoa izany.",
+    "2": "Mitovy avokoa ny manjò ny rehetra; eny, iray ihany no manjo ny marina sy ny ratsy fanahy, ny tsara sy madio ary ny tsy madio; ny manao fanatitra sy ny tsy manao fanatitra; mitovy ihany ny amin' ny tsara sy ny mpanota, ary ny amin' ny mianiana sy ny amin' izay matahotra hianiana.",
+    "3": "Izao no zava-dratsy amin' izay rehetra atao aty ambany masoandro: iray ihany no manjo ny rehetra, eny, feno faharatsiana koa ny fon' ny zanak' olombelona, ary fahadalana no ao am-pony mandritra ny ahavelomany, ka aorian' izany dia mankany amin' ny maty izy.",
+    "4": "Fa izay isan' ny velona rehetra dia misy fanantenana; fa ny amboa velona no tsara kokoa noho ny liona maty.",
+    "5": "Fa fantatry ny velona fa ho faty izy; fa ny maty kosa tsy mba mahalala na inona na inona, ary tsy manana valim-pitia intsony izy; fa hadino ny fahatsiarovana azy.",
+    "6": "Ary koa ny fitiavany, sy ny fankahalany sy ny fialonany, dia efa levona, sady tsy manana anjara intsony mandrakizay amin' izay atao aty ambany masoandro izy.",
+    "7": "Mandehana, hano amin' ny fifaliana ny haninao, ary sotroy amin' ny fo falifaly ny divainao, fa efa nankasitrahin' Andriamanitra ny asanao.",
+    "8": "Aoka ho fotsy mandrakariva ny fitafianao, ary aoka tsy ho diso menaka ny lohanao.",
+    "9": "Miravoravoa amin' ny vady malalanao amin' ny androm-piainanao rehetra mandalo foana, izay efa nomeny anao aty ambany masoandro, dia ny andronao rehetra mandalo foana; fa izany no anjaranao amin' izao fiainana izao, sy amin' ny fisasarana izay isasaranao aty ambany masoandro.",
+    "10": "Izay rehetra azon' ny tananao atao dia ataovy amin' ny herinao; fa tsy misy asa, na hevitra, na fahalalana, na fahendrena any amin' ny fasana izay alehanao.",
+    "11": "Nitodika aho ka hitako aty ambany masoandro, fa tsy ho an' ny haingan-tongotra ny fihoarana, ary tsy ho an' ny mahery ny ady, ary tsy ho an' ny hendry ny hanina, tsy ho an' ny manantsaina koa ny harena, na ho an' ny manam-pahalalana ny fankasitrahana; fa ny fotoana sy ny anjara dia samy tonga amin' izy rehetra.",
+    "12": "Fa tsy fantatry ny olona koa ny fotoanany; fa toy ny hazandrano azon' ny harato fahitan-doza izy, ary toy ny vorona izay voan' ny fandrika, dia voafandrika toy izany ny zanak' olombelona amin' ny fotoana mahory raha mahavoa azy tampoka izany.",
+    "13": "Izao koa no fahendrena efa hitako taty ambany masoandro, ka dia nataoko ho lehibe izany:",
+    "14": "Nisy vohitra kely sady vitsy olona, dia avy ny mpanjaka lehibe anankiray ka namely sy nanao fahirano azy ary nanao manda lehibe hamelezana azy.",
+    "15": "Ary nisy lehilahy mahantra hendry hita tao, koa nahavonjy ny tanàna tamin' ny fahendreny ralehilahy, nefa tsy nisy olona mba nahatsiahy io lehilahy mahantra io.",
+    "16": "Koa hoy aho: Aleo fahendrena toy izay hery: kanjo hamavoina ny fahendren' ny mahantra, ary ny teniny tsy mba henoina.",
+    "17": "Ny tenin' ny hendry henoina amim-pahatoniana dia mihoatra noho ny fitreron' izay manapaka ao amin' ny adala.",
+    "18": "Aleo fahendrena toy izay fiadiana; ary ny mpanota iray mahasimba ny soa be."
+  }
 }

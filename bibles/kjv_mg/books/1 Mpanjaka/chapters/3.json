@@ -1,117 +1,34 @@
 {
+  "book": "1 Mpanjaka",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Solomona nifandray tamin' i Farao, mpanjakan' i Egypta, ka nanambady ny zanakavavin' i Farao, ary nitondra azy ho any an-Tanànan' i Davida mandra-pahavitany ny tranony sy ny tranon' i Jehovah ary ny mandan' i Jerosalema manodidina."
-    },
-    {
-      "v": 2,
-      "text": "Kanefa ny olona mbola nanao fanatitra teny amin' ny fitoerana avo ihany, fa tsy mbola nisy trano voaorina ho an' ny anaran' i Jehovah hatramin' izany andro izany."
-    },
-    {
-      "v": 3,
-      "text": "Ary Solomona tia an' i Jehovah sady nizotra araka ny didin' i Davida rainy, nefa kosa izy mbola nanao fanatitra sy nandoro ditin-kazo manitra teny amin' ny fitoerana avo."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary ny mpanjaka nankany Gibeona hanao fanatitra tany, fa izany no ilay fitoerana avo lehibe; fanatitra dorana arivo no naterin' i Solomona teo amin' izany alitara izany.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Tao Gibeona no nisehoan' i Jehovah tamin' i Solomona tamin' ny nofy nony alina; ary hoy Andriamanitra: Angataho izay tianao homeko anao.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Dia hoy Solomona: Ianao efa naneho fahasoavana lehibe tamin' i Davida raiko mpanomponao, araka ny nandehanany teo anatrehanao tamin' ny fahamarinana sy tamin' ny fahitsiana sy ny fahitsian' ny fony taminao; ary Ianao efa nitahiry ho azy izao fahasoavam-panahy lehibe izao, dia ny nanomezanao azy zanakalahy hipetraka eo amin' ny sezafiandrianany tahaka ny amin' izao anio izao.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary ankehitriny, Jehovah Andriamanitro ô, Ianao efa nampanjaka ahy mpanomponao handimby an' i Davida raiko; nefa izaho dia mbola zaza ihany, ka tsy fantatro akory izay fivoaka sy fiditra.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary izaho mpanomponao koa dia ao amin' ny olonao izay nofidinao, sady olona betsaka tsy tambo isaina ary tsy hita isa noho ny hamaroany."
-    },
-    {
-      "v": 9,
-      "text": "\"Koa omeo ahy mpanomponao fo mahay mitsara ny olonao, hahaizako manavaka ny soa sy ny ratsy; fa iza moa no mahay mitsara izao olonao betsaka izao?\""
-    },
-    {
-      "v": 10,
-      "text": "Ary sitraky ny Tompo ny teny, dia ny nangatahan' i Solomona izany zavatra izany."
-    },
-    {
-      "v": 11,
-      "text": "\"Ka dia hoy Andriamanitra taminy: Satria nangataka izany zavatra izany ianao, fa tsy nangataka ny ho ela velona, na nangataka harena ho anao, na nangataka ny ain' ny fahavalonao, fa ny fahaizana mitsara no nangatahinao;\""
-    },
-    {
-      "v": 12,
-      "text": "Dia, indro, efa nanao araka ny teninao Aho, ka indro, efa nanome anao fo hendry sy mahalala, ka tsy nisy tahaka anao ny teo alohanao, ary tsy hisy hitsangana ho tahaka anao aorianao."
-    },
-    {
-      "v": 13,
-      "text": "Ary na dia izay tsy nangatahinao aza dia efa nomeko anao koa, dia harena sy voninahitra ka tsy hisy mpanjaka tahaka anao amin' ny andronao rehetra."
-    },
-    {
-      "v": 14,
-      "text": "Ary raha handeha amin' ny lalako ianao ka hitandrina ny lalàko sy ny didiko tahaka ny nandehanan' i Davida rainao, dia hataoko ho ela velona ianao."
-    },
-    {
-      "v": 15,
-      "text": "Ary dia nahatsiaro Solomona, ka indro fa nofy izany. Ary tonga tany Jerosalema izy, dia nitsangana teo anoloan' ny fiaran' ny faneken' i Jehovah ka nanolotra fanatitra dorana sy fanati-pihavanana ary nanao fanasana ho an' ny mpanompony rehetra."
-    },
-    {
-      "v": 16,
-      "text": "Ary tamin' izany dia nisy vehivavy janga roa nankao amin' ny mpanjaka ka nitsangana teo anatrehany."
-    },
-    {
-      "v": 17,
-      "text": "Ary hoy ilay vehivavy anankiray: Ry tompoko ô, izaho sy ity vehivavy ity niray trano, ary teraka tao an-trano aho niaraka taminy."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary izao no niseho, nony efa teraka hateloana aho, dia mba teraka koa izavavy ity; ary niaraka tao izahay; tsy nisy vahiny tao aminay tao an-trano afa-tsy izahay roa ihany no tao an-trano.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary maty tamin' ny alina ny zanak' izavavy ity, fa voatsindriny."
-    },
-    {
-      "v": 20,
-      "text": "Dia nifoha misasakalina izy ka naka ny zanako avy teo anilako tamin' ilay natory iny aho ankizivavinao, dia nampandriny teo an-tratrany, fa ny zanany maty no napetrany teo an-tratrako."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary nony nifoha maraina hampinono ny zanako aho, dia indro fa maty izy; kanjo rehefa nofantariko izy nony maraina, dia indro fa tsy ny zanako naterako.\""
-    },
-    {
-      "v": 22,
-      "text": "Ary hoy kosa ilay vehivavy anankiray: Tsia, fa ny velona no zanako, fa ny maty no zanakao. Fa hoy indray ny anankiray: Tsia, fa ny maty no zanakao, ary ny velona no zanako. Izany no teniny teo anatrehan' ny mpanjaka."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary hoy ny mpanjaka: Ny anankiray manao hoe: Ity velona no zanako, fa ny maty no zanakao; ary hoy kosa ny anankiray: Tsia, fa ny maty no zanakao, fa ny velona no zanako.\""
-    },
-    {
-      "v": 24,
-      "text": "Ary hoy ny mpanjaka: Itondray sabatra aho. Dia nentina ho eo anatrehan' ny mpanjaka ny sabatra."
-    },
-    {
-      "v": 25,
-      "text": "Ary hoy ny mpanjaka: Sasaho ny zaza velona, ka omeo ny anankiray ny antsasany, ary ho an' ny anankiray kosa ny antsasany."
-    },
-    {
-      "v": 26,
-      "text": "Fa niteny tamin' ny mpanjaka ravehivavy renin' ny zaza velona, satria nandevilevy ny fony noho ny amin' ny zanany lahy ka nanao hoe: Tompokolahy ô! omeo azy ny zaza velona fa aza vonoina re! Fa hoy kosa ny iray: Aoka tsy ho ahy tsy ho anao, fa zarao mihitsy."
-    },
-    {
-      "v": 27,
-      "text": "\"Dia namaly ny mpanjaka ka nanao hoe: Omeo itsy ny zaza velona, fa aoka tsy hovonoina akory; fa io no reniny.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary ny Isiraely rehetra nandre ny fitsarana izay nitsaran' ny mpanjaka, dia natahotra ny mpanjaka izy ireo, satria hitany fa ny fahendren' Andriamanitra no tao aminy hanaovany fitsarana."
-    }
-  ]
+  "verses": {
+    "1": "Ary Solomona nifandray tamin' i Farao, mpanjakan' i Egypta, ka nanambady ny zanakavavin' i Farao, ary nitondra azy ho any an-Tanànan' i Davida mandra-pahavitany ny tranony sy ny tranon' i Jehovah ary ny mandan' i Jerosalema manodidina.",
+    "2": "Kanefa ny olona mbola nanao fanatitra teny amin' ny fitoerana avo ihany, fa tsy mbola nisy trano voaorina ho an' ny anaran' i Jehovah hatramin' izany andro izany.",
+    "3": "Ary Solomona tia an' i Jehovah sady nizotra araka ny didin' i Davida rainy, nefa kosa izy mbola nanao fanatitra sy nandoro ditin-kazo manitra teny amin' ny fitoerana avo.",
+    "4": "Ary ny mpanjaka nankany Gibeona hanao fanatitra tany, fa izany no ilay fitoerana avo lehibe; fanatitra dorana arivo no naterin' i Solomona teo amin' izany alitara izany.",
+    "5": "Tao Gibeona no nisehoan' i Jehovah tamin' i Solomona tamin' ny nofy nony alina; ary hoy Andriamanitra: Angataho izay tianao homeko anao.",
+    "6": "Dia hoy Solomona: Ianao efa naneho fahasoavana lehibe tamin' i Davida raiko mpanomponao, araka ny nandehanany teo anatrehanao tamin' ny fahamarinana sy tamin' ny fahitsiana sy ny fahitsian' ny fony taminao; ary Ianao efa nitahiry ho azy izao fahasoavam-panahy lehibe izao, dia ny nanomezanao azy zanakalahy hipetraka eo amin' ny sezafiandrianany tahaka ny amin' izao anio izao.",
+    "7": "Ary ankehitriny, Jehovah Andriamanitro ô, Ianao efa nampanjaka ahy mpanomponao handimby an' i Davida raiko; nefa izaho dia mbola zaza ihany, ka tsy fantatro akory izay fivoaka sy fiditra.",
+    "8": "Ary izaho mpanomponao koa dia ao amin' ny olonao izay nofidinao, sady olona betsaka tsy tambo isaina ary tsy hita isa noho ny hamaroany.",
+    "9": "Koa omeo ahy mpanomponao fo mahay mitsara ny olonao, hahaizako manavaka ny soa sy ny ratsy; fa iza moa no mahay mitsara izao olonao betsaka izao?",
+    "10": "Ary sitraky ny Tompo ny teny, dia ny nangatahan' i Solomona izany zavatra izany.",
+    "11": "Ka dia hoy Andriamanitra taminy: Satria nangataka izany zavatra izany ianao, fa tsy nangataka ny ho ela velona, na nangataka harena ho anao, na nangataka ny ain' ny fahavalonao, fa ny fahaizana mitsara no nangatahinao;",
+    "12": "Dia, indro, efa nanao araka ny teninao Aho, ka indro, efa nanome anao fo hendry sy mahalala, ka tsy nisy tahaka anao ny teo alohanao, ary tsy hisy hitsangana ho tahaka anao aorianao.",
+    "13": "Ary na dia izay tsy nangatahinao aza dia efa nomeko anao koa, dia harena sy voninahitra ka tsy hisy mpanjaka tahaka anao amin' ny andronao rehetra.",
+    "14": "Ary raha handeha amin' ny lalako ianao ka hitandrina ny lalàko sy ny didiko tahaka ny nandehanan' i Davida rainao, dia hataoko ho ela velona ianao.",
+    "15": "Ary dia nahatsiaro Solomona, ka indro fa nofy izany. Ary tonga tany Jerosalema izy, dia nitsangana teo anoloan' ny fiaran' ny faneken' i Jehovah ka nanolotra fanatitra dorana sy fanati-pihavanana ary nanao fanasana ho an' ny mpanompony rehetra.",
+    "16": "Ary tamin' izany dia nisy vehivavy janga roa nankao amin' ny mpanjaka ka nitsangana teo anatrehany.",
+    "17": "Ary hoy ilay vehivavy anankiray: Ry tompoko ô, izaho sy ity vehivavy ity niray trano, ary teraka tao an-trano aho niaraka taminy.",
+    "18": "Ary izao no niseho, nony efa teraka hateloana aho, dia mba teraka koa izavavy ity; ary niaraka tao izahay; tsy nisy vahiny tao aminay tao an-trano afa-tsy izahay roa ihany no tao an-trano.",
+    "19": "Ary maty tamin' ny alina ny zanak' izavavy ity, fa voatsindriny.",
+    "20": "Dia nifoha misasakalina izy ka naka ny zanako avy teo anilako tamin' ilay natory iny aho ankizivavinao, dia nampandriny teo an-tratrany, fa ny zanany maty no napetrany teo an-tratrako.",
+    "21": "Ary nony nifoha maraina hampinono ny zanako aho, dia indro fa maty izy; kanjo rehefa nofantariko izy nony maraina, dia indro fa tsy ny zanako naterako.",
+    "22": "Ary hoy kosa ilay vehivavy anankiray: Tsia, fa ny velona no zanako, fa ny maty no zanakao. Fa hoy indray ny anankiray: Tsia, fa ny maty no zanakao, ary ny velona no zanako. Izany no teniny teo anatrehan' ny mpanjaka.",
+    "23": "Ary hoy ny mpanjaka: Ny anankiray manao hoe: Ity velona no zanako, fa ny maty no zanakao; ary hoy kosa ny anankiray: Tsia, fa ny maty no zanakao, fa ny velona no zanako.",
+    "24": "Ary hoy ny mpanjaka: Itondray sabatra aho. Dia nentina ho eo anatrehan' ny mpanjaka ny sabatra.",
+    "25": "Ary hoy ny mpanjaka: Sasaho ny zaza velona, ka omeo ny anankiray ny antsasany, ary ho an' ny anankiray kosa ny antsasany.",
+    "26": "Fa niteny tamin' ny mpanjaka ravehivavy renin' ny zaza velona, satria nandevilevy ny fony noho ny amin' ny zanany lahy ka nanao hoe: Tompokolahy ô! omeo azy ny zaza velona fa aza vonoina re! Fa hoy kosa ny iray: Aoka tsy ho ahy tsy ho anao, fa zarao mihitsy.",
+    "27": "Dia namaly ny mpanjaka ka nanao hoe: Omeo itsy ny zaza velona, fa aoka tsy hovonoina akory; fa io no reniny.",
+    "28": "Ary ny Isiraely rehetra nandre ny fitsarana izay nitsaran' ny mpanjaka, dia natahotra ny mpanjaka izy ireo, satria hitany fa ny fahendren' Andriamanitra no tao aminy hanaovany fitsarana."
+  }
 }

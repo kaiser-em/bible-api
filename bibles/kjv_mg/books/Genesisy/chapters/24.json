@@ -1,273 +1,73 @@
 {
+  "book": "Genesisy",
   "chapter": 24,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary Abrahama dia efa zokiolona sady tena nandroso fahanterana; ary Jehovah efa nitahy an' i Abrahama tamin' ny zavatra rehetra.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary hoy Abrahama tamin' ny mpanompony zokiny indrindra tao an-tranony, izay nanapaka ny fananany rehetra: Masìna ianao, ataovy ato ambanin' ny feko ny tananao;\""
-    },
-    {
-      "v": 3,
-      "text": "Ka hampianianiko amin' i Jehovah Andriamanitry ny lanitra sy Andriamanitry ny tany ianao, fa tsy haka vady ho an' ny zanako avy amin' ny zanakavavin' ny Kananita izay iarahako monina."
-    },
-    {
-      "v": 4,
-      "text": "Fa any amin' ny taniko sy any amin' ny fianakaviako no halehanao haka vady ho an' Isaka zanako lahy."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary hoy ilay mpanompony taminy: Angamba tsy hety hanaraka ahy ho aty amin' ity tany ity ny vehivavy; moa tsy maintsy hitondra ny zanakao indray ho any amin' ny tany izay niavianao va aho?\""
-    },
-    {
-      "v": 6,
-      "text": "Ary hoy Abrahama taminy: Tandremo mba tsy hoentinao ho any indray ny zanako."
-    },
-    {
-      "v": 7,
-      "text": "\"Jehovah Andriamanitry ny lanitra, Izay naka ahy avy tamin' ny tranon' ny raiko, sy avy tamin' ny tanin' ny fianakaviako, sady niteny tamiko sy nianiana tamiko hoe: Ny taranakao no homeko ity tany ity; haniraka ny anjeliny eo alohanao Izy, ka any no hakanao vady ho an' ny zanako.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary raha tsy hety hanaraka anao ny vehivavy dia ho afaka amin' izao fampianianako izao ianao; fa izao ihany: Aza entina any indray ny zanako.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary nataon'ilay mpanompo tambanin' ny fen' i Abrahama tompony ny tanany, ka nianiana taminy ny amin' izany zavatra izany izy."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary naka rameva folo tamin' ny ramevan' ny tompony ilay mpanompo ka lasa; satria ny fananana rehetra izay an' ny tompony dia teo am-pelatanany; dia niainga izy ka nankany Mesopotamia ho any an-tanànan' i Nahora.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary nampandohalehiny teo ivelan' ny tanàna tanilan' ny lavaka fantsakan-drano iray ny ramevany tamin' ny hariva, dia ilay fotoana fivoahan' ny vehivavy hantsaka rano."
-    },
-    {
-      "v": 12,
-      "text": "Dia hoy izy: Jehovah Andriamanitr' i Abrahama tompoko ô, mangataka aminao aho, ambino aho anio, ary manehoa fahatsaram-panahy amin' i Abrahama tompoko."
-    },
-    {
-      "v": 13,
-      "text": "\"Indro, mijanona eto anilan' ny fantsakan-drano aho; ary ny zanakavavin' ny olona ao an-tanàna mivoaka hantsaka rano:\""
-    },
-    {
-      "v": 14,
-      "text": "\"Koa aoka anie izao no hiseho; ny zazavavy izay hilazako hoe: Masìna ianao, mba aondreho kely ny sininao hisotroako; ary izy hamaly hoe: Misotroa, sady hampisotro ny ramevanao koa aho; dia aoka izy no ho voatendrinao ho an' Isaka mpanomponao; ary amin' izany no hahafantarako fa efa naneho fahatsaram-panahy tamin' ny tompoko ianao.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary izao no niseho, raha tsy mbola nitsaha-niteny izy, dia indro tamy Rebeka, izay naterak' i Betoela, zanakalahin' i Milka, vadin' i Nahora, rahalahin' i Abrahama, niaraka tamin' ny sininy teny an-tsorony."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary ilay zazavavy dia tsara tarehy indrindra sady virijina, ka tsy mbola nisy lehilahy nahalala azy; ary nidina nankeo amin' ny fantsakana izy ka nameno ny sininy, dia niakatra.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary ilay mpanompo nihazakazaka nitsena azy ka nanao hoe: Masìna ianao, avelao aho hisotro rano kely avy amin' ny sininao."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary hoy razazavavy: Misotroa, tompokolahy; ary niaraka tamin' izay dia nampidina ny sininy teo amin' ny tanany izy ka nampisotro azy.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary rehefa avy nampisotro azy izy, dia hoy razazavavy: Hantsakako rano koa ny ramevanao ambara-pahatapiny misotro."
-    },
-    {
-      "v": 20,
-      "text": "Ary dia naidiny faingana ny rano tao an-tsininy ho eo amin' ny tavy fisotroana, dia nihazakazaka indray nankeo amin' ny fantsakana izy hantsaka ka dia nakany rano ny ramevany rehetra."
-    },
-    {
-      "v": 21,
-      "text": "Ary ralehilahy nandinika azy tsara sady nangina, mba hahafantarany na efa nambinin' i Jehovah ny nalehany na tsia."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary izao no niseho, rehefa tapi-nisotro ny rameva, dia nalain-dralehilahy ny kavina volamena iray lanjan' ny antsasan-tsekely sy haba volamena roa lanjan' ny sekely folo;\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary hoy izy: Zanakavavin' iza moa ianao? Masìna ianao, mba lazao ahy; moa misy azonay handriana va ao an-tranon' ny rainao?\""
-    },
-    {
-      "v": 24,
-      "text": "Ary hoy razazavavy taminy: Zanakavavin' i Betoela, zanakalahin' i Milka, izay naterany tamin' i Nahora, aho."
-    },
-    {
-      "v": 25,
-      "text": "Dia hoy izy: Na ny mololo na ny vilona dia manana betsaka izahay, sady misy ny trano handriana."
-    },
-    {
-      "v": 26,
-      "text": "Dia nanondrika ny lohany ralehilahy ka niankohoka tamin' i Jehovah."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary hoy izy: Isaorana anie Jehovah Andriamanitr' i Abrahama tompoko, Izay tsy nanaisotra ny famindrampony sy ny fahamarinany tamin' ny tompoko; fa raha teny an-dalana aho, dia notarihan' i Jehovah ho amin' ny ankohonan' ny rahalahin' ny tompoko.\""
-    },
-    {
-      "v": 28,
-      "text": "Dia nihazakazaka razazavavy ka nanambara izany zavatra izany tamin' ireo tao an-tranon' ny reniny."
-    },
-    {
-      "v": 29,
-      "text": "\"Ary nanana anadahy Rebeka, ka ny anarany dia Labana; ary nihazakazaka nivoaka ho any amin-dralehilahy teo am-pantsakana Labana.\""
-    },
-    {
-      "v": 30,
-      "text": "Ary izao no niseho, rehefa hitany ny kavina sy ny haba teny an-tanan' ny anabaviny, ka reny ny tenin' i Rebeka anabaviny nanao hoe: Izany no nolazain-dralehilahy tamiko, dia nankeo amin-dralehilahy izy, ary indro, nijanona teo anilan' ny rameva teo am-pantsakana ralehilahy."
-    },
-    {
-      "v": 31,
-      "text": "\"Ary hoy Labana: Mandrosoa, ry ilay notahin' i Jehovah; Nahoana no mijanona eto ivelany ianao? Fa efa namboatra ny trano sy toerana ho an' ny rameva aho.\""
-    },
-    {
-      "v": 32,
-      "text": "\"Dia niditra tao an-trano ralehilahy; ary Labana dia namaha ny entana tamin' ny ramevany ka nanome mololo sy vilona ho an' ny rameva ary rano hanasana ny tongo-dralehilahy sy ny tongotry ny olona izay nomba azy.\""
-    },
-    {
-      "v": 33,
-      "text": "\"Dia norosoana hanina teo anoloany; fa hoy izy: Tsy hihinana aho, raha tsy voalazako ny raharahako. Ary hoy Labana: Lazao àry.\""
-    },
-    {
-      "v": 34,
-      "text": "Dia hoy ralehilahy: Mpanompon' i Abrahama aho."
-    },
-    {
-      "v": 35,
-      "text": "\"Ary Jehovah efa nitahy ny tompoko indrindra ka efa nihalehibe izy; ary izy efa nomeny ondry aman' osy sy omby, ary volafotsy sy volamena ary mpanompolahy sy mpanompovavy ary rameva sy boriky.\""
-    },
-    {
-      "v": 36,
-      "text": "\"Ary rehefa antitra Saraha vadin' ny tompoko dia niteraka zazalahy tamin' ny tompoko izy; ary efa natolony azy izay rehetra nananany.\""
-    },
-    {
-      "v": 37,
-      "text": "\"Ary efa nampianiana ahy ny tompoko nanao hoe: Aza maka vady ho an' ny zanako avy amin' ny zanakavavin' ny Kananita, tompon' ny tany onenako;\""
-    },
-    {
-      "v": 38,
-      "text": "Fa any amin' ny tranon' Ikaky sy ny fianakaviako no halehanao ka hakanao vady ho an' ny zanako."
-    },
-    {
-      "v": 39,
-      "text": "Ary hoy aho tamin' ny tompoko: Angamba tsy hety hanaraka ahy ny vehivavy."
-    },
-    {
-      "v": 40,
-      "text": "\"Ary hoy izy tamiko: Jehovah, Izay handehanako eo anatrehany, dia haniraka ny anjeliny homba anao sy hanambina ny alehanao, ary haka vady ho an' ny zanako ianao avy amin' ny fianakaviako, sy avy amin' ny tranon' Ikaky;\""
-    },
-    {
-      "v": 41,
-      "text": "\"Dia ho afaka amin' izao fampianianako izao ianao, raha tonga any amin' ny fianakaviako; ary raha tsy manome anao rizareo, dia ho afaka amin' ny fampianianako ianao.\""
-    },
-    {
-      "v": 42,
-      "text": "\"Ary tonga teo amin' ny fantsakana aho androany, ka hoy aho: Jehovah ô, Andriamanitr' i Abrahama tompoko, raha hanambina ny lalana alehako tokoa Ianao anio;\""
-    },
-    {
-      "v": 43,
-      "text": "\"Indro, mijanona eto anilan' ny fantsakan-drano aho; ary izao no hiseho, raha avy izay virijina hantsaka rano ka hilazako hoe: Masìna ianao, omeo rano kely avy amin' ny sininao aho hosotroiko ;\""
-    },
-    {
-      "v": 44,
-      "text": "\"Ka hiteny amiko izy hoe: Misotroa ianao, ary hantsakako koa ny ramevanao; izy no aoka ho ilay vehivavy voatendrin' i Jehovah ho an' ny zanakalahin' ny tompoko.\""
-    },
-    {
-      "v": 45,
-      "text": "\"Ary raha tsy mbola nitsaha-niteny tao am-poko aho, indro, nivoaka Rebeka niaraka tamin' ny sininy teny an-tsorony, dia nidina nankeo amin' ny fantsakana izy, ka naka rano; ary hoy aho taminy: Masìna ianao, aoka aho mba hisotro.\""
-    },
-    {
-      "v": 46,
-      "text": "\"Dia nampidininy faingana avy teo an-tsorony ny sininy, ka hoy izy: Misotroa, ary hampisotroiko koa ny ramevanao; dia nisotro aho, ary nampisotroiny koa ny rameva.\""
-    },
-    {
-      "v": 47,
-      "text": "\"Dia nanontany azy aho ka nanao hoe: Zanakavavin' iza moa ianao? Ary hoy izy: Zanakavavin' i Betoela, zanakalahin' i Nahora, izay naterak' i Milka taminy; dia nataoko teo an' orony ny kavina, ary ny haba teo amin' ny tanany.\""
-    },
-    {
-      "v": 48,
-      "text": "Dia nanondrika ny lohako aho ka niankohoka teo anatrehan' i Jehovah, dia nisaotra an' i Jehovah Andriamanitr' i Abrahama tompoko, Izay efa nitondra ahy tamin' ny lalana marina haka ny zanakavavin' ny rahalahin' ny tompoko ho an' ny zanany."
-    },
-    {
-      "v": 49,
-      "text": "\"Koa ankehitriny, raha hanao izay soa sy marina amin' ny tompoko ianareo, dia lazao amiko; fa raha tsy izany, dia lazao amiko, mba hiviliako ho amin' ny ankavanana na ho amin' ny ankavia.\""
-    },
-    {
-      "v": 50,
-      "text": "\"Dia namaly Labana sy Betoela ka nanao hoe: Avy amin' i Jehovah no nisehoan' izany zavatra izany; tsy afaka hilaza teny aminao izahay na ratsy na soa.\""
-    },
-    {
-      "v": 51,
-      "text": "\"Indro, Rebeka eto anatrehanao, ento izy, ka mandehana; ary aoka ho vadin' ny zanaky ny tomponao izy, araka izay nolazain' i Jehovah.\""
-    },
-    {
-      "v": 52,
-      "text": "Ary izao no niseho, rehefa nandre ny tenin-drizareo ilay mpanompon' i Abrahama, dia niankohoka tamin' ny tany teo anatrehan' i Jehovah izy."
-    },
-    {
-      "v": 53,
-      "text": "\"Ary ilay mpanompo dia namoaka firavaka volafotsy sy firavaka volamena ary fitafiana, ka nomeny an-dRebeka izany; nomeny zava-tsoa koa ny anadahiny sy ny reniny.\""
-    },
-    {
-      "v": 54,
-      "text": "\"Dia izay vao nihinana sy nisotro izy mbamin' ireo lehilahy nomba azy, ka nijanona tao nandritra ny alina; ary nifoha maraina izy ireo, ka hoy ralehilahy: Alefaso ary aho hankany amin' ny tompoko.\""
-    },
-    {
-      "v": 55,
-      "text": "\"Ary hoy ny anadahin-dRebeka sy ny reniny: Aoka hitoetra aty aminay andro vitsivitsy ny zazavavy, hafoloana farafahakeliny; aorian' izany dia handeha izy.\""
-    },
-    {
-      "v": 56,
-      "text": "\"Dia hoy ralehilahy tamin' ireo: Aza samponana aho, satria efa nanambina ny alehako Jehovah; alefaso aho mba hankanesako any amin' ny tompoko.\""
-    },
-    {
-      "v": 57,
-      "text": "Ary hoy ireo: Aoka hantsointsika ny zazavavy dia hofotopotorana ny teniny."
-    },
-    {
-      "v": 58,
-      "text": "Dia niantso an-dRebeka ireo ka nanao taminy hoe: Handeha hiaraka amin' io lehilahy io va ianao? Ary hoy izy: Handeha aho."
-    },
-    {
-      "v": 59,
-      "text": "Dia namoaka an-dRebeka anabaviny sy ny mpitaiza azy ary ilay mpanompon' i Abrahama mbamin' ny olony izy ireo."
-    },
-    {
-      "v": 60,
-      "text": "Dia nitsodrano an-dRebeka ireo ka nanao taminy hoe: Ry anabavinay, aoka ho tonga renin' ny an' arivony tapitrisa anie ianao, ary aoka ny taranakao hahazo ny vavahadin' izay mankahala azy."
-    },
-    {
-      "v": 61,
-      "text": "\"Ary niainga Rebeka, mbamin' ny ankizivaviny ka nitaingina rameva, dia nanaraka an-dralehilahy; ary nitondra an-dRebeka ilay mpanompo ka lasa nandeha.\""
-    },
-    {
-      "v": 62,
-      "text": "\"Ary efa tonga avy tamin' ny nalehany avy tany amin' ny fantsakana Lahairoy Isaka; fa nonina tany amin' ny tany atsimo izy.\""
-    },
-    {
-      "v": 63,
-      "text": "\"Ary nivoaka Isaka mba hisaintsaina any an-tsaha tamin' ny hariva; dia nanopy ny masony izy ka nahita fa indreny avy manatona ny rameva.\""
-    },
-    {
-      "v": 64,
-      "text": "Ary nanopy ny masony Rebeka ka nahita an' Isaka, dia nidina niala tamin' ny rameva izy."
-    },
-    {
-      "v": 65,
-      "text": "\"Fa hoy izy tamin' ilay mpanompo: Iza moa iry lehilahy mitsangatsangana eny an-tsaha avy mitsena antsika iry? Ary hoy ilay mpanompo: Iny no tompoko; noho izany, dia nandray ny fisalobonana Rebeka, ka nisalobonany.\""
-    },
-    {
-      "v": 66,
-      "text": "Ary nambaran' ilay mpanompo tamin' Isaka ny zavatra rehetra izay efa nataony."
-    },
-    {
-      "v": 67,
-      "text": "\"Ary Isaka dia nampandroso an-dRebeka ho ao an-dain' i Saraha reniny, ka nampakatra azy ho vady; ary tia azy izy: dia nionona Isaka ny amin' ny fahafatesan' ny reniny.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary Abrahama dia efa zokiolona sady tena nandroso fahanterana; ary Jehovah efa nitahy an' i Abrahama tamin' ny zavatra rehetra.",
+    "2": "Ary hoy Abrahama tamin' ny mpanompony zokiny indrindra tao an-tranony, izay nanapaka ny fananany rehetra: Masìna ianao, ataovy ato ambanin' ny feko ny tananao;",
+    "3": "Ka hampianianiko amin' i Jehovah Andriamanitry ny lanitra sy Andriamanitry ny tany ianao, fa tsy haka vady ho an' ny zanako avy amin' ny zanakavavin' ny Kananita izay iarahako monina.",
+    "4": "Fa any amin' ny taniko sy any amin' ny fianakaviako no halehanao haka vady ho an' Isaka zanako lahy.",
+    "5": "Ary hoy ilay mpanompony taminy: Angamba tsy hety hanaraka ahy ho aty amin' ity tany ity ny vehivavy; moa tsy maintsy hitondra ny zanakao indray ho any amin' ny tany izay niavianao va aho?",
+    "6": "Ary hoy Abrahama taminy: Tandremo mba tsy hoentinao ho any indray ny zanako.",
+    "7": "Jehovah Andriamanitry ny lanitra, Izay naka ahy avy tamin' ny tranon' ny raiko, sy avy tamin' ny tanin' ny fianakaviako, sady niteny tamiko sy nianiana tamiko hoe: Ny taranakao no homeko ity tany ity; haniraka ny anjeliny eo alohanao Izy, ka any no hakanao vady ho an' ny zanako.",
+    "8": "Ary raha tsy hety hanaraka anao ny vehivavy dia ho afaka amin' izao fampianianako izao ianao; fa izao ihany: Aza entina any indray ny zanako.",
+    "9": "Ary nataon'ilay mpanompo tambanin' ny fen' i Abrahama tompony ny tanany, ka nianiana taminy ny amin' izany zavatra izany izy.",
+    "10": "Ary naka rameva folo tamin' ny ramevan' ny tompony ilay mpanompo ka lasa; satria ny fananana rehetra izay an' ny tompony dia teo am-pelatanany; dia niainga izy ka nankany Mesopotamia ho any an-tanànan' i Nahora.",
+    "11": "Ary nampandohalehiny teo ivelan' ny tanàna tanilan' ny lavaka fantsakan-drano iray ny ramevany tamin' ny hariva, dia ilay fotoana fivoahan' ny vehivavy hantsaka rano.",
+    "12": "Dia hoy izy: Jehovah Andriamanitr' i Abrahama tompoko ô, mangataka aminao aho, ambino aho anio, ary manehoa fahatsaram-panahy amin' i Abrahama tompoko.",
+    "13": "Indro, mijanona eto anilan' ny fantsakan-drano aho; ary ny zanakavavin' ny olona ao an-tanàna mivoaka hantsaka rano:",
+    "14": "Koa aoka anie izao no hiseho; ny zazavavy izay hilazako hoe: Masìna ianao, mba aondreho kely ny sininao hisotroako; ary izy hamaly hoe: Misotroa, sady hampisotro ny ramevanao koa aho; dia aoka izy no ho voatendrinao ho an' Isaka mpanomponao; ary amin' izany no hahafantarako fa efa naneho fahatsaram-panahy tamin' ny tompoko ianao.",
+    "15": "Ary izao no niseho, raha tsy mbola nitsaha-niteny izy, dia indro tamy Rebeka, izay naterak' i Betoela, zanakalahin' i Milka, vadin' i Nahora, rahalahin' i Abrahama, niaraka tamin' ny sininy teny an-tsorony.",
+    "16": "Ary ilay zazavavy dia tsara tarehy indrindra sady virijina, ka tsy mbola nisy lehilahy nahalala azy; ary nidina nankeo amin' ny fantsakana izy ka nameno ny sininy, dia niakatra.",
+    "17": "Ary ilay mpanompo nihazakazaka nitsena azy ka nanao hoe: Masìna ianao, avelao aho hisotro rano kely avy amin' ny sininao.",
+    "18": "Ary hoy razazavavy: Misotroa, tompokolahy; ary niaraka tamin' izay dia nampidina ny sininy teo amin' ny tanany izy ka nampisotro azy.",
+    "19": "Ary rehefa avy nampisotro azy izy, dia hoy razazavavy: Hantsakako rano koa ny ramevanao ambara-pahatapiny misotro.",
+    "20": "Ary dia naidiny faingana ny rano tao an-tsininy ho eo amin' ny tavy fisotroana, dia nihazakazaka indray nankeo amin' ny fantsakana izy hantsaka ka dia nakany rano ny ramevany rehetra.",
+    "21": "Ary ralehilahy nandinika azy tsara sady nangina, mba hahafantarany na efa nambinin' i Jehovah ny nalehany na tsia.",
+    "22": "Ary izao no niseho, rehefa tapi-nisotro ny rameva, dia nalain-dralehilahy ny kavina volamena iray lanjan' ny antsasan-tsekely sy haba volamena roa lanjan' ny sekely folo;",
+    "23": "Ary hoy izy: Zanakavavin' iza moa ianao? Masìna ianao, mba lazao ahy; moa misy azonay handriana va ao an-tranon' ny rainao?",
+    "24": "Ary hoy razazavavy taminy: Zanakavavin' i Betoela, zanakalahin' i Milka, izay naterany tamin' i Nahora, aho.",
+    "25": "Dia hoy izy: Na ny mololo na ny vilona dia manana betsaka izahay, sady misy ny trano handriana.",
+    "26": "Dia nanondrika ny lohany ralehilahy ka niankohoka tamin' i Jehovah.",
+    "27": "Ary hoy izy: Isaorana anie Jehovah Andriamanitr' i Abrahama tompoko, Izay tsy nanaisotra ny famindrampony sy ny fahamarinany tamin' ny tompoko; fa raha teny an-dalana aho, dia notarihan' i Jehovah ho amin' ny ankohonan' ny rahalahin' ny tompoko.",
+    "28": "Dia nihazakazaka razazavavy ka nanambara izany zavatra izany tamin' ireo tao an-tranon' ny reniny.",
+    "29": "Ary nanana anadahy Rebeka, ka ny anarany dia Labana; ary nihazakazaka nivoaka ho any amin-dralehilahy teo am-pantsakana Labana.",
+    "30": "Ary izao no niseho, rehefa hitany ny kavina sy ny haba teny an-tanan' ny anabaviny, ka reny ny tenin' i Rebeka anabaviny nanao hoe: Izany no nolazain-dralehilahy tamiko, dia nankeo amin-dralehilahy izy, ary indro, nijanona teo anilan' ny rameva teo am-pantsakana ralehilahy.",
+    "31": "Ary hoy Labana: Mandrosoa, ry ilay notahin' i Jehovah; Nahoana no mijanona eto ivelany ianao? Fa efa namboatra ny trano sy toerana ho an' ny rameva aho.",
+    "32": "Dia niditra tao an-trano ralehilahy; ary Labana dia namaha ny entana tamin' ny ramevany ka nanome mololo sy vilona ho an' ny rameva ary rano hanasana ny tongo-dralehilahy sy ny tongotry ny olona izay nomba azy.",
+    "33": "Dia norosoana hanina teo anoloany; fa hoy izy: Tsy hihinana aho, raha tsy voalazako ny raharahako. Ary hoy Labana: Lazao àry.",
+    "34": "Dia hoy ralehilahy: Mpanompon' i Abrahama aho.",
+    "35": "Ary Jehovah efa nitahy ny tompoko indrindra ka efa nihalehibe izy; ary izy efa nomeny ondry aman' osy sy omby, ary volafotsy sy volamena ary mpanompolahy sy mpanompovavy ary rameva sy boriky.",
+    "36": "Ary rehefa antitra Saraha vadin' ny tompoko dia niteraka zazalahy tamin' ny tompoko izy; ary efa natolony azy izay rehetra nananany.",
+    "37": "Ary efa nampianiana ahy ny tompoko nanao hoe: Aza maka vady ho an' ny zanako avy amin' ny zanakavavin' ny Kananita, tompon' ny tany onenako;",
+    "38": "Fa any amin' ny tranon' Ikaky sy ny fianakaviako no halehanao ka hakanao vady ho an' ny zanako.",
+    "39": "Ary hoy aho tamin' ny tompoko: Angamba tsy hety hanaraka ahy ny vehivavy.",
+    "40": "Ary hoy izy tamiko: Jehovah, Izay handehanako eo anatrehany, dia haniraka ny anjeliny homba anao sy hanambina ny alehanao, ary haka vady ho an' ny zanako ianao avy amin' ny fianakaviako, sy avy amin' ny tranon' Ikaky;",
+    "41": "Dia ho afaka amin' izao fampianianako izao ianao, raha tonga any amin' ny fianakaviako; ary raha tsy manome anao rizareo, dia ho afaka amin' ny fampianianako ianao.",
+    "42": "Ary tonga teo amin' ny fantsakana aho androany, ka hoy aho: Jehovah ô, Andriamanitr' i Abrahama tompoko, raha hanambina ny lalana alehako tokoa Ianao anio;",
+    "43": "Indro, mijanona eto anilan' ny fantsakan-drano aho; ary izao no hiseho, raha avy izay virijina hantsaka rano ka hilazako hoe: Masìna ianao, omeo rano kely avy amin' ny sininao aho hosotroiko ;",
+    "44": "Ka hiteny amiko izy hoe: Misotroa ianao, ary hantsakako koa ny ramevanao; izy no aoka ho ilay vehivavy voatendrin' i Jehovah ho an' ny zanakalahin' ny tompoko.",
+    "45": "Ary raha tsy mbola nitsaha-niteny tao am-poko aho, indro, nivoaka Rebeka niaraka tamin' ny sininy teny an-tsorony, dia nidina nankeo amin' ny fantsakana izy, ka naka rano; ary hoy aho taminy: Masìna ianao, aoka aho mba hisotro.",
+    "46": "Dia nampidininy faingana avy teo an-tsorony ny sininy, ka hoy izy: Misotroa, ary hampisotroiko koa ny ramevanao; dia nisotro aho, ary nampisotroiny koa ny rameva.",
+    "47": "Dia nanontany azy aho ka nanao hoe: Zanakavavin' iza moa ianao? Ary hoy izy: Zanakavavin' i Betoela, zanakalahin' i Nahora, izay naterak' i Milka taminy; dia nataoko teo an' orony ny kavina, ary ny haba teo amin' ny tanany.",
+    "48": "Dia nanondrika ny lohako aho ka niankohoka teo anatrehan' i Jehovah, dia nisaotra an' i Jehovah Andriamanitr' i Abrahama tompoko, Izay efa nitondra ahy tamin' ny lalana marina haka ny zanakavavin' ny rahalahin' ny tompoko ho an' ny zanany.",
+    "49": "Koa ankehitriny, raha hanao izay soa sy marina amin' ny tompoko ianareo, dia lazao amiko; fa raha tsy izany, dia lazao amiko, mba hiviliako ho amin' ny ankavanana na ho amin' ny ankavia.",
+    "50": "Dia namaly Labana sy Betoela ka nanao hoe: Avy amin' i Jehovah no nisehoan' izany zavatra izany; tsy afaka hilaza teny aminao izahay na ratsy na soa.",
+    "51": "Indro, Rebeka eto anatrehanao, ento izy, ka mandehana; ary aoka ho vadin' ny zanaky ny tomponao izy, araka izay nolazain' i Jehovah.",
+    "52": "Ary izao no niseho, rehefa nandre ny tenin-drizareo ilay mpanompon' i Abrahama, dia niankohoka tamin' ny tany teo anatrehan' i Jehovah izy.",
+    "53": "Ary ilay mpanompo dia namoaka firavaka volafotsy sy firavaka volamena ary fitafiana, ka nomeny an-dRebeka izany; nomeny zava-tsoa koa ny anadahiny sy ny reniny.",
+    "54": "Dia izay vao nihinana sy nisotro izy mbamin' ireo lehilahy nomba azy, ka nijanona tao nandritra ny alina; ary nifoha maraina izy ireo, ka hoy ralehilahy: Alefaso ary aho hankany amin' ny tompoko.",
+    "55": "Ary hoy ny anadahin-dRebeka sy ny reniny: Aoka hitoetra aty aminay andro vitsivitsy ny zazavavy, hafoloana farafahakeliny; aorian' izany dia handeha izy.",
+    "56": "Dia hoy ralehilahy tamin' ireo: Aza samponana aho, satria efa nanambina ny alehako Jehovah; alefaso aho mba hankanesako any amin' ny tompoko.",
+    "57": "Ary hoy ireo: Aoka hantsointsika ny zazavavy dia hofotopotorana ny teniny.",
+    "58": "Dia niantso an-dRebeka ireo ka nanao taminy hoe: Handeha hiaraka amin' io lehilahy io va ianao? Ary hoy izy: Handeha aho.",
+    "59": "Dia namoaka an-dRebeka anabaviny sy ny mpitaiza azy ary ilay mpanompon' i Abrahama mbamin' ny olony izy ireo.",
+    "60": "Dia nitsodrano an-dRebeka ireo ka nanao taminy hoe: Ry anabavinay, aoka ho tonga renin' ny an' arivony tapitrisa anie ianao, ary aoka ny taranakao hahazo ny vavahadin' izay mankahala azy.",
+    "61": "Ary niainga Rebeka, mbamin' ny ankizivaviny ka nitaingina rameva, dia nanaraka an-dralehilahy; ary nitondra an-dRebeka ilay mpanompo ka lasa nandeha.",
+    "62": "Ary efa tonga avy tamin' ny nalehany avy tany amin' ny fantsakana Lahairoy Isaka; fa nonina tany amin' ny tany atsimo izy.",
+    "63": "Ary nivoaka Isaka mba hisaintsaina any an-tsaha tamin' ny hariva; dia nanopy ny masony izy ka nahita fa indreny avy manatona ny rameva.",
+    "64": "Ary nanopy ny masony Rebeka ka nahita an' Isaka, dia nidina niala tamin' ny rameva izy.",
+    "65": "Fa hoy izy tamin' ilay mpanompo: Iza moa iry lehilahy mitsangatsangana eny an-tsaha avy mitsena antsika iry? Ary hoy ilay mpanompo: Iny no tompoko; noho izany, dia nandray ny fisalobonana Rebeka, ka nisalobonany.",
+    "66": "Ary nambaran' ilay mpanompo tamin' Isaka ny zavatra rehetra izay efa nataony.",
+    "67": "Ary Isaka dia nampandroso an-dRebeka ho ao an-dain' i Saraha reniny, ka nampakatra azy ho vady; ary tia azy izy: dia nionona Isaka ny amin' ny fahafatesan' ny reniny."
+  }
 }

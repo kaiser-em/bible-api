@@ -1,69 +1,22 @@
 {
+  "book": "Mpitoriteny",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Dia nitodika aho ka nandinika ny fampahoriana rehetra atao aty ambany masoandro; ary indro ny ranomason' ny ampahoriana; sady tsy nisy mpampionona azy; ary ny hery dia eo an-tanan' ireo mpampahory azy, nefa tsy nisy mpampionona azy.\""
-    },
-    {
-      "v": 2,
-      "text": "Noho izany, ny maty izay efa maty ela dia nataoko ho sambatra noho ny velona izay mbola velona,"
-    },
-    {
-      "v": 3,
-      "text": "Nefa tsara indray noho izy roa tonta aza ny tsy ary, izay tsy nahita ny ratsy atao aty ambany masoandro akory."
-    },
-    {
-      "v": 4,
-      "text": "Ary nodinihiko ny fisasarana rehetra sy ny fahaizan-javatra rehetra, fa avy amin' ny fifampialonan' ny olona izany. Zava-poana sy misambo-drivotra koa izany."
-    },
-    {
-      "v": 5,
-      "text": "Ny adala manohon-tanana ka homana ny tenany."
-    },
-    {
-      "v": 6,
-      "text": "Tsara ny eran-tanan' ila misy fiadanana noho ny eran-tanan-droa misy fisasarana sy misambo-drivotra foana."
-    },
-    {
-      "v": 7,
-      "text": "Dia niverina aho ka nahita zava-poana ety ambany masoandro."
-    },
-    {
-      "v": 8,
-      "text": "Misy mitoetra irery ka tsy manana mpandimby, eny, tsy manana izy na zanaka, na rahalahy, nefa tsy misy farany ny fisasarany rehetra, ary ny masony tsy afa-po amin' ny harena, ary tsy mba miteny izy hoe: ho an' iza no isasarako sy tsy ampananako soa ny fanahiko? Zava-poana koa izany, eny, asa mahareraka izany."
-    },
-    {
-      "v": 9,
-      "text": "\"Tsara ny roa noho ny iray; fa misy valiny tsara ny fisasarany.\""
-    },
-    {
-      "v": 10,
-      "text": "Raha lavo izy ireo dia harenin' ny anankiray ny namany, fa loza ho an' ny irery raha lavo, satria tsy manana namana hanarina azy izy."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary koa, raha miara-matory ny roa, dia mafana ireo; fa hatao ahoana ny hampahafana ny irery?\""
-    },
-    {
-      "v": 12,
-      "text": "\"Raha misy maharesy ny irery aza, ny roa tsy ho leony tsy akory; ary ny mahazaka telo olana tsy mora tapahina.\""
-    },
-    {
-      "v": 13,
-      "text": "Aleo zaza mahantra hendry toy izay mpanjaka antitra adala izay tsy laitra anarina intsony."
-    },
-    {
-      "v": 14,
-      "text": "Fa avy ao an-tranomaizina no nivoahany hanjaka, ka izay teraka tao amin' ny fanjakany koa dia ho tonga mahantra."
-    },
-    {
-      "v": 15,
-      "text": "Nodinihiko ny miaina rehetra izay miriaria aty ambany masoandro miaraka amin' ilay zaza mpandimby, izay hitsangana eo amin' ny toerany."
-    },
-    {
-      "v": 16,
-      "text": "\"Tsy misy fahataperany ny vahoaka rehetra, na dia ireo efa talohan' ireo aza; ireo izay tonga aoriana koa, dia tsy mba hifaly aminy. Koa zava-poana sy misambo-drivotra tokoa izany.\""
-    }
-  ]
+  "verses": {
+    "1": "Dia nitodika aho ka nandinika ny fampahoriana rehetra atao aty ambany masoandro; ary indro ny ranomason' ny ampahoriana; sady tsy nisy mpampionona azy; ary ny hery dia eo an-tanan' ireo mpampahory azy, nefa tsy nisy mpampionona azy.",
+    "2": "Noho izany, ny maty izay efa maty ela dia nataoko ho sambatra noho ny velona izay mbola velona,",
+    "3": "Nefa tsara indray noho izy roa tonta aza ny tsy ary, izay tsy nahita ny ratsy atao aty ambany masoandro akory.",
+    "4": "Ary nodinihiko ny fisasarana rehetra sy ny fahaizan-javatra rehetra, fa avy amin' ny fifampialonan' ny olona izany. Zava-poana sy misambo-drivotra koa izany.",
+    "5": "Ny adala manohon-tanana ka homana ny tenany.",
+    "6": "Tsara ny eran-tanan' ila misy fiadanana noho ny eran-tanan-droa misy fisasarana sy misambo-drivotra foana.",
+    "7": "Dia niverina aho ka nahita zava-poana ety ambany masoandro.",
+    "8": "Misy mitoetra irery ka tsy manana mpandimby, eny, tsy manana izy na zanaka, na rahalahy, nefa tsy misy farany ny fisasarany rehetra, ary ny masony tsy afa-po amin' ny harena, ary tsy mba miteny izy hoe: ho an' iza no isasarako sy tsy ampananako soa ny fanahiko? Zava-poana koa izany, eny, asa mahareraka izany.",
+    "9": "Tsara ny roa noho ny iray; fa misy valiny tsara ny fisasarany.",
+    "10": "Raha lavo izy ireo dia harenin' ny anankiray ny namany, fa loza ho an' ny irery raha lavo, satria tsy manana namana hanarina azy izy.",
+    "11": "Ary koa, raha miara-matory ny roa, dia mafana ireo; fa hatao ahoana ny hampahafana ny irery?",
+    "12": "Raha misy maharesy ny irery aza, ny roa tsy ho leony tsy akory; ary ny mahazaka telo olana tsy mora tapahina.",
+    "13": "Aleo zaza mahantra hendry toy izay mpanjaka antitra adala izay tsy laitra anarina intsony.",
+    "14": "Fa avy ao an-tranomaizina no nivoahany hanjaka, ka izay teraka tao amin' ny fanjakany koa dia ho tonga mahantra.",
+    "15": "Nodinihiko ny miaina rehetra izay miriaria aty ambany masoandro miaraka amin' ilay zaza mpandimby, izay hitsangana eo amin' ny toerany.",
+    "16": "Tsy misy fahataperany ny vahoaka rehetra, na dia ireo efa talohan' ireo aza; ireo izay tonga aoriana koa, dia tsy mba hifaly aminy. Koa zava-poana sy misambo-drivotra tokoa izany."
+  }
 }

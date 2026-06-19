@@ -1,105 +1,31 @@
 {
+  "book": "Joba",
   "chapter": 24,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Koa nahoana raha tsy afenin' ny Tsitoha ny fotoana, no tsy hitan' izay mahalala Azy ny androny?"
-    },
-    {
-      "v": 2,
-      "text": "Ny sasany mamindra faritany sy maka an-keriny ondry aman' osy sady mivelona amin' izany."
-    },
-    {
-      "v": 3,
-      "text": "Mandroaka ny borikin' ny kamboty izy, ary maka ny ombin' ny mpitondratena ho tsatòka."
-    },
-    {
-      "v": 4,
-      "text": "\"Manosika ny azom-pahoriana hiala amin' ny lalana izy; miara-miery ny mahantra amin' ny tany.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Indro, tahaka ny fivoaky ny boriky dia any an' efitra no fivoak' ireny ho amin' ny asany hiremby; ny tani-hay no ahazoany hanina ho azy sy ho an' ny zanany.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Mijinja ny varimbazaha avy eny an-tsaha izy; ary manangona ny voaloboky ny ratsy fanahy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Mampandry ny mitanjaka tsy mitafy izy, ka tsy manana firakotra amin' ny hatsiaka ireny;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Kotsan' ny ranonoram-baratra any an-tendrombohitra izy, ka mitampisaka amin' ny vatolampy, fa tsy manam-pialofana;\""
-    },
-    {
-      "v": 9,
-      "text": "Misarika ny kamboty eo am-pinonoana izy ary maka tsatòka amin' ny mahantra."
-    },
-    {
-      "v": 10,
-      "text": "\"Mampandeha azy mitanjaka tsy mitafy izy; ary maka ny amboaram-bary amin' ny noana;\""
-    },
-    {
-      "v": 11,
-      "text": "Izay manao diloilo ao anatin' ny tambohony sy manosihosy ny famiazam-boalobony, nefa mangetaheta."
-    },
-    {
-      "v": 12,
-      "text": "\"Mitrona ny lehilahy ao an-tanàna, ary mitaraina ny fanahin' ny voalefona; nefa tsy ahoan' Andriamanitra akory ny ratsy ataony.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ireny no mpikomy amin' ny mazava; tsy mba mahalala ny lalana izy, na mitoetra amin' ny alehany.\""
-    },
-    {
-      "v": 14,
-      "text": "Raha vao mangiran-dratsy, dia mifoha ny mpamono olona, ka mamono ny mahantra sy azom-pahasahiranana, ary nony alina dia tahaka ny mpangalatra."
-    },
-    {
-      "v": 15,
-      "text": "Ny mason' ny mpijangajanga koa dia miandry ny maizimaizina, ka hoy izy: tsy misy mahita ahy: dia mampiova ny endriny izy."
-    },
-    {
-      "v": 16,
-      "text": "\"Nony maizina izy dia manamy trano izay efa nomarihiny tamin' ny andro mazava; tsy mahalala ny mazava izy.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Fa ny maraina amin' izy ireo dia toy ny aloky ny fahafatesana; raha misy mahalala azy, dia ao amin' ny tahotry ny aloky ny fahafatesana izy.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Mailaka toy ny rano izy; voaozona ny anjarany eo amin' ny tany; tsy mahita ny lalana mankany amin' ny tanimboaloboka izy.\""
-    },
-    {
-      "v": 19,
-      "text": "Toy ny andevonan' ny maina sy ny mafana ny ranom-panala no andevonan' ny fasana izay nanota."
-    },
-    {
-      "v": 20,
-      "text": "\"Hanadino azy ny vohoka; hanjary hanim-py ho an' ny olitra izy; tsy hotsarovana intsony izy; ary ho tapaka tahaka ny hazo ny faharatsiana.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Manisy ratsy ny momba izay tsy niteraka izy; ary tsy manisy soa ny mpitondratena.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Misintona ny mahery amin' ny heriny koa izy; mifoha izy ka tsy misy mahazo antoka ny fiainana.\""
-    },
-    {
-      "v": 23,
-      "text": "Na dia mandry fahizay sy miadana aza izy, ny masony dia mitsinjo ny lalany ihany."
-    },
-    {
-      "v": 24,
-      "text": "\"Nasandratra vetivety izy, kanjo lasa sy naetry ambany; nesorina tahaka ny olona rehetra izy, ary notangosana tahaka ny laingon’ny salohim-barimbazaha.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary raha tsy izany, dia iza no hampandainga ahy, ka hampiseho ny teniko ho tsinontsinona?"
-    }
-  ]
+  "verses": {
+    "1": "Koa nahoana raha tsy afenin' ny Tsitoha ny fotoana, no tsy hitan' izay mahalala Azy ny androny?",
+    "2": "Ny sasany mamindra faritany sy maka an-keriny ondry aman' osy sady mivelona amin' izany.",
+    "3": "Mandroaka ny borikin' ny kamboty izy, ary maka ny ombin' ny mpitondratena ho tsatòka.",
+    "4": "Manosika ny azom-pahoriana hiala amin' ny lalana izy; miara-miery ny mahantra amin' ny tany.",
+    "5": "Indro, tahaka ny fivoaky ny boriky dia any an' efitra no fivoak' ireny ho amin' ny asany hiremby; ny tani-hay no ahazoany hanina ho azy sy ho an' ny zanany.",
+    "6": "Mijinja ny varimbazaha avy eny an-tsaha izy; ary manangona ny voaloboky ny ratsy fanahy.",
+    "7": "Mampandry ny mitanjaka tsy mitafy izy, ka tsy manana firakotra amin' ny hatsiaka ireny;",
+    "8": "Kotsan' ny ranonoram-baratra any an-tendrombohitra izy, ka mitampisaka amin' ny vatolampy, fa tsy manam-pialofana;",
+    "9": "Misarika ny kamboty eo am-pinonoana izy ary maka tsatòka amin' ny mahantra.",
+    "10": "Mampandeha azy mitanjaka tsy mitafy izy; ary maka ny amboaram-bary amin' ny noana;",
+    "11": "Izay manao diloilo ao anatin' ny tambohony sy manosihosy ny famiazam-boalobony, nefa mangetaheta.",
+    "12": "Mitrona ny lehilahy ao an-tanàna, ary mitaraina ny fanahin' ny voalefona; nefa tsy ahoan' Andriamanitra akory ny ratsy ataony.",
+    "13": "Ireny no mpikomy amin' ny mazava; tsy mba mahalala ny lalana izy, na mitoetra amin' ny alehany.",
+    "14": "Raha vao mangiran-dratsy, dia mifoha ny mpamono olona, ka mamono ny mahantra sy azom-pahasahiranana, ary nony alina dia tahaka ny mpangalatra.",
+    "15": "Ny mason' ny mpijangajanga koa dia miandry ny maizimaizina, ka hoy izy: tsy misy mahita ahy: dia mampiova ny endriny izy.",
+    "16": "Nony maizina izy dia manamy trano izay efa nomarihiny tamin' ny andro mazava; tsy mahalala ny mazava izy.",
+    "17": "Fa ny maraina amin' izy ireo dia toy ny aloky ny fahafatesana; raha misy mahalala azy, dia ao amin' ny tahotry ny aloky ny fahafatesana izy.",
+    "18": "Mailaka toy ny rano izy; voaozona ny anjarany eo amin' ny tany; tsy mahita ny lalana mankany amin' ny tanimboaloboka izy.",
+    "19": "Toy ny andevonan' ny maina sy ny mafana ny ranom-panala no andevonan' ny fasana izay nanota.",
+    "20": "Hanadino azy ny vohoka; hanjary hanim-py ho an' ny olitra izy; tsy hotsarovana intsony izy; ary ho tapaka tahaka ny hazo ny faharatsiana.",
+    "21": "Manisy ratsy ny momba izay tsy niteraka izy; ary tsy manisy soa ny mpitondratena.",
+    "22": "Misintona ny mahery amin' ny heriny koa izy; mifoha izy ka tsy misy mahazo antoka ny fiainana.",
+    "23": "Na dia mandry fahizay sy miadana aza izy, ny masony dia mitsinjo ny lalany ihany.",
+    "24": "Nasandratra vetivety izy, kanjo lasa sy naetry ambany; nesorina tahaka ny olona rehetra izy, ary notangosana tahaka ny laingon’ny salohim-barimbazaha.",
+    "25": "Ary raha tsy izany, dia iza no hampandainga ahy, ka hampiseho ny teniko ho tsinontsinona?"
+  }
 }

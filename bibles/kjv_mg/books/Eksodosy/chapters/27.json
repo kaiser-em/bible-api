@@ -1,89 +1,27 @@
 {
+  "book": "Eksodosy",
   "chapter": 27,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary manaova alitara amin' ny hazo sitima, dimy hakiho ny lavany, ary dimy hakiho ny sakany; ho efa-joro ny alitara, ary ny haavony ho telo hakiho.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary manaova ny tandrony eo ambonin' ny zorony efatra: hiray aminy ihany ny tandrony, ary petaho varahina izany."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary manaova ny vilaniny hanatazana ny lavenony, ary ny sotron' afony sy ny taviny, ary ny fitrebiny sy ny fitondran' afony; varahina no hanaovanao ny fanaka rehetra momba azy.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary manaova makarakara varahina tahaka ny harato ho eo aminy; ary manaova vavavola varahina efatra hatao ambonin' ny harato eo amin' ny zorony efatra.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary ataovy eo ambanin' ny sikin' ny alitara hatreo amin' ny fanambaniny izany mba hanasaka ny alitara ny makarakara."
-    },
-    {
-      "v": 6,
-      "text": "Ary manaova bao ho an' ny alitara, dia bao amin' ny hazo sitima ka petaho varahina izany."
-    },
-    {
-      "v": 7,
-      "text": "Ary ampidirina eo amin' ireo vavavola ny bao, ary ho eo amin' ny lafiny roa amin' ny alitara ny bao hitondrana azy."
-    },
-    {
-      "v": 8,
-      "text": "\"Ataovy hobokaty amin' ny hazofisaka ny alitara; araka izay naseho taminao tao an-tendrombohitra no hanaovana azy.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary manaova ny kianjan' ny tabernakely; amin' ny lafiny atsimo mianatsimo hisy fefy lamba rongony fotsy madinika voahasina ho an' ny kianja, zato hakiho ny halavany amin' ny lafiny iray;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary ny andriny roapolo sy ny faladiany roapolo dia ho varahina; ny farangon' ny andry sy ny anjany dia ho volafotsy.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary ho tahaka izany koa amin' ny lafiny avaratra, amin' ny lavany dia hisy fefy lamba zato hakiho ny halavany, ary ny andriny roapolo sy ny faladiany roapolo dia ho varahina; ny fihantonan' ny anjaka sy ny andriny dia ho volafotsy.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary hisy fefy lamba dimampolo hakiho amin' ny sakan' ny kianja amin' ny lafiny andrefana; ho folo ny andriny, ary ho folo ny faladiany.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary ny sakan' ny kianja amin' ny lafiny atsinanana miantsinanana dia ho dimampolo hakiho."
-    },
-    {
-      "v": 14,
-      "text": "\"Ny fefy lamba amin' ny lafiny iray amin' ny vavahady dia ho dimy ambin' ny folo hakiho; ho telo ny andriny ary ho telo ny faladiany.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary amin' ny lafiny ilany dia hisy fefy lamba dimy ambin' ny folo hakiho; ho telo ny andriny ary ho telo ny faladiany.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary ny vavahadin' ny kianja dia hisy vavahady lamba roapolo hakiho, amin' ny manga sy volomparasy sy jaky, ary rongony fotsy madinika voahasina, asan' ny mpanao tenona; ho efatra ny andriny ary ho efatra ny faladiany.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ny andry rehetra amin' ny kianja manodidina dia hisy anjaka volafotsy hitohizany; ho volafotsy ny fihantonany, ary ho varahina ny faladiany.\""
-    },
-    {
-      "v": 18,
-      "text": "Ho zato hakiho ny lavan' ny kianja, ary ny sakany amin' ny lafiny rehetra ho dimampolo hakiho, ary ny haavony ho dimy hakiho ka atao amin' ny rongony fotsy madinika voahasina, ary ho varahina ny faladiany."
-    },
-    {
-      "v": 19,
-      "text": "Ho varahina ny fanaka rehetra amin' ny tabernakely amin' ny fanompoana rehetra momba azy, sy ny tsimatra rehetra momba azy, ary ny tsimatra rehetra amin' ny kianja."
-    },
-    {
-      "v": 20,
-      "text": "Ary mandidia ny Zanak' Isiraely mba hitondrany aminao diloilon' oliva madio voavely hatao fanazavana, mba hirehetan' ny jiro mandrakariva."
-    },
-    {
-      "v": 21,
-      "text": "\"Ao anatin' ny trano lay fihaonana ivelan' ny efitra lamba izay manoloana ny Vavolombelona no handaharan' i Arona sy ny zanany azy hatramin' ny hariva ka hatramin' ny maraina eo anatrehan' i Jehovah; ho lalàna mandrakizay eo amin' ny Zanak' Isiraely amin' ny taranany mifandimby izany.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary manaova alitara amin' ny hazo sitima, dimy hakiho ny lavany, ary dimy hakiho ny sakany; ho efa-joro ny alitara, ary ny haavony ho telo hakiho.",
+    "2": "Ary manaova ny tandrony eo ambonin' ny zorony efatra: hiray aminy ihany ny tandrony, ary petaho varahina izany.",
+    "3": "Ary manaova ny vilaniny hanatazana ny lavenony, ary ny sotron' afony sy ny taviny, ary ny fitrebiny sy ny fitondran' afony; varahina no hanaovanao ny fanaka rehetra momba azy.",
+    "4": "Ary manaova makarakara varahina tahaka ny harato ho eo aminy; ary manaova vavavola varahina efatra hatao ambonin' ny harato eo amin' ny zorony efatra.",
+    "5": "Ary ataovy eo ambanin' ny sikin' ny alitara hatreo amin' ny fanambaniny izany mba hanasaka ny alitara ny makarakara.",
+    "6": "Ary manaova bao ho an' ny alitara, dia bao amin' ny hazo sitima ka petaho varahina izany.",
+    "7": "Ary ampidirina eo amin' ireo vavavola ny bao, ary ho eo amin' ny lafiny roa amin' ny alitara ny bao hitondrana azy.",
+    "8": "Ataovy hobokaty amin' ny hazofisaka ny alitara; araka izay naseho taminao tao an-tendrombohitra no hanaovana azy.",
+    "9": "Ary manaova ny kianjan' ny tabernakely; amin' ny lafiny atsimo mianatsimo hisy fefy lamba rongony fotsy madinika voahasina ho an' ny kianja, zato hakiho ny halavany amin' ny lafiny iray;",
+    "10": "Ary ny andriny roapolo sy ny faladiany roapolo dia ho varahina; ny farangon' ny andry sy ny anjany dia ho volafotsy.",
+    "11": "Ary ho tahaka izany koa amin' ny lafiny avaratra, amin' ny lavany dia hisy fefy lamba zato hakiho ny halavany, ary ny andriny roapolo sy ny faladiany roapolo dia ho varahina; ny fihantonan' ny anjaka sy ny andriny dia ho volafotsy.",
+    "12": "Ary hisy fefy lamba dimampolo hakiho amin' ny sakan' ny kianja amin' ny lafiny andrefana; ho folo ny andriny, ary ho folo ny faladiany.",
+    "13": "Ary ny sakan' ny kianja amin' ny lafiny atsinanana miantsinanana dia ho dimampolo hakiho.",
+    "14": "Ny fefy lamba amin' ny lafiny iray amin' ny vavahady dia ho dimy ambin' ny folo hakiho; ho telo ny andriny ary ho telo ny faladiany.",
+    "15": "Ary amin' ny lafiny ilany dia hisy fefy lamba dimy ambin' ny folo hakiho; ho telo ny andriny ary ho telo ny faladiany.",
+    "16": "Ary ny vavahadin' ny kianja dia hisy vavahady lamba roapolo hakiho, amin' ny manga sy volomparasy sy jaky, ary rongony fotsy madinika voahasina, asan' ny mpanao tenona; ho efatra ny andriny ary ho efatra ny faladiany.",
+    "17": "Ny andry rehetra amin' ny kianja manodidina dia hisy anjaka volafotsy hitohizany; ho volafotsy ny fihantonany, ary ho varahina ny faladiany.",
+    "18": "Ho zato hakiho ny lavan' ny kianja, ary ny sakany amin' ny lafiny rehetra ho dimampolo hakiho, ary ny haavony ho dimy hakiho ka atao amin' ny rongony fotsy madinika voahasina, ary ho varahina ny faladiany.",
+    "19": "Ho varahina ny fanaka rehetra amin' ny tabernakely amin' ny fanompoana rehetra momba azy, sy ny tsimatra rehetra momba azy, ary ny tsimatra rehetra amin' ny kianja.",
+    "20": "Ary mandidia ny Zanak' Isiraely mba hitondrany aminao diloilon' oliva madio voavely hatao fanazavana, mba hirehetan' ny jiro mandrakariva.",
+    "21": "Ao anatin' ny trano lay fihaonana ivelan' ny efitra lamba izay manoloana ny Vavolombelona no handaharan' i Arona sy ny zanany azy hatramin' ny hariva ka hatramin' ny maraina eo anatrehan' i Jehovah; ho lalàna mandrakizay eo amin' ny Zanak' Isiraely amin' ny taranany mifandimby izany."
+  }
 }

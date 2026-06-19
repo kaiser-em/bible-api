@@ -1,97 +1,29 @@
 {
+  "book": "Salamo",
   "chapter": 50,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Salamo nataon' i Asafa.] ANDRIAMANITRA mahery, dia Jehovah no niteny, ka niantso ny tany hatramin' ny fiposahan' ny masoandro ka hatramin' ny filentehany."
-    },
-    {
-      "v": 2,
-      "text": "Avy ao Ziona, izay tanteraka amin' ny fahatsaran-tarehy, no amirapiratan' Andriamanitra."
-    },
-    {
-      "v": 3,
-      "text": "\"Ho avy Andriamanitsika ka tsy hangina; afo no handevona eo anoloany, ary tafio-drivotra mahery no hanodidina azy.\""
-    },
-    {
-      "v": 4,
-      "text": "Hiantso ny lanitra any ambony izy sy ny tany koa, mba hitsarany ny olony."
-    },
-    {
-      "v": 5,
-      "text": "Angony ety amiko ny oloko masina, izay manao fanekena amiko amin' ny fanatitra."
-    },
-    {
-      "v": 6,
-      "text": "\"Hasehon' ny lanitra ny fahamarinany; fa Andriamanitra no Mpitsara.[Sela.]\""
-    },
-    {
-      "v": 7,
-      "text": "\"Mihainoa, ry oloko, fa hiteny aho; ry Isiraely ô, fa hanambara aminao Aho; Izaho no Andriamanitra, dia Andriamanitrao.\""
-    },
-    {
-      "v": 8,
-      "text": "Tsy ny fanatitrao no hananarako anao, na ny fanatitra doranao izay efa eo anatrehako mandrakariva."
-    },
-    {
-      "v": 9,
-      "text": "\"Tsy haka vantotr' ombilahy amin' ny tranonao aho, na osilahy amin' ny valanao;\""
-    },
-    {
-      "v": 10,
-      "text": "Fa ahy ny biby rehetra any an' ala, sy ny biby eny an-kavoana arivoarivo."
-    },
-    {
-      "v": 11,
-      "text": "\"Fantatro ny voro-manidina rehetra eny an-tendrombohitra; Ahy ny biby dia rehetra any an-tsaha.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Raha mba noana aho, dia tsy hilaza aminao; fa Ahy izao tontolo izao sy izay rehetra eo aminy.\""
-    },
-    {
-      "v": 13,
-      "text": "Hihinana ny nofon' ombilahy va aho, na hisotro ny ràn' osilahy?"
-    },
-    {
-      "v": 14,
-      "text": "\"Manatera fanati-pisaorana ho an' Andriamanitra; ary efao amin' ny Avo Indrindra ny voadinao;\""
-    },
-    {
-      "v": 15,
-      "text": "Ary antsoy Aho amin' ny andro fahoriana, dia hamonjy anao Aho, ka hanome voninahitra Ahy ianao."
-    },
-    {
-      "v": 16,
-      "text": "Fa amin' ny ratsy fanahy kosa dia hoy Andriamanitra: Ahoana no itorianao ny lalàko sy itondranao ny fanekeko eo am-bavanao?"
-    },
-    {
-      "v": 17,
-      "text": "Fa mankahala fananarana ianao, ary arianao eo ivohonao ny teniko."
-    },
-    {
-      "v": 18,
-      "text": "Raha mahita mpangalatra ianao dia mifanaiky aminy, ary miray anjara amin' ny mpijangajanga."
-    },
-    {
-      "v": 19,
-      "text": "Alefanao hiteny ratsy ny vavanao, ary mamorom-pitaka ny lelanao."
-    },
-    {
-      "v": 20,
-      "text": "Mipetraka sy miteny manohitra ny rahalahinao ianao, sady manaratsy ny zanakalahin-dreninao."
-    },
-    {
-      "v": 21,
-      "text": "Izany no nataonao, nefa nangina ihany Aho, ka dia nataonao fa mitovy aminao ihany Aho! fa hananatra anao Aho ka handahatra izany eo imasonao."
-    },
-    {
-      "v": 22,
-      "text": "\"Mihevera izany ankehitriny, ianareo izay manadino an' Andriamanitra, fandrao hamiravira Aho ka tsy misy hamonjy;\""
-    },
-    {
-      "v": 23,
-      "text": "\"Izay manatitra fanati-pisaorana no manome voninahitra ahy; ary izay mitandrina ny lalany no hanehoako ny famonjen' Andriamanitra.\""
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Asafa.] ANDRIAMANITRA mahery, dia Jehovah no niteny, ka niantso ny tany hatramin' ny fiposahan' ny masoandro ka hatramin' ny filentehany.",
+    "2": "Avy ao Ziona, izay tanteraka amin' ny fahatsaran-tarehy, no amirapiratan' Andriamanitra.",
+    "3": "Ho avy Andriamanitsika ka tsy hangina; afo no handevona eo anoloany, ary tafio-drivotra mahery no hanodidina azy.",
+    "4": "Hiantso ny lanitra any ambony izy sy ny tany koa, mba hitsarany ny olony.",
+    "5": "Angony ety amiko ny oloko masina, izay manao fanekena amiko amin' ny fanatitra.",
+    "6": "Hasehon' ny lanitra ny fahamarinany; fa Andriamanitra no Mpitsara.[Sela.]",
+    "7": "Mihainoa, ry oloko, fa hiteny aho; ry Isiraely ô, fa hanambara aminao Aho; Izaho no Andriamanitra, dia Andriamanitrao.",
+    "8": "Tsy ny fanatitrao no hananarako anao, na ny fanatitra doranao izay efa eo anatrehako mandrakariva.",
+    "9": "Tsy haka vantotr' ombilahy amin' ny tranonao aho, na osilahy amin' ny valanao;",
+    "10": "Fa ahy ny biby rehetra any an' ala, sy ny biby eny an-kavoana arivoarivo.",
+    "11": "Fantatro ny voro-manidina rehetra eny an-tendrombohitra; Ahy ny biby dia rehetra any an-tsaha.",
+    "12": "Raha mba noana aho, dia tsy hilaza aminao; fa Ahy izao tontolo izao sy izay rehetra eo aminy.",
+    "13": "Hihinana ny nofon' ombilahy va aho, na hisotro ny ràn' osilahy?",
+    "14": "Manatera fanati-pisaorana ho an' Andriamanitra; ary efao amin' ny Avo Indrindra ny voadinao;",
+    "15": "Ary antsoy Aho amin' ny andro fahoriana, dia hamonjy anao Aho, ka hanome voninahitra Ahy ianao.",
+    "16": "Fa amin' ny ratsy fanahy kosa dia hoy Andriamanitra: Ahoana no itorianao ny lalàko sy itondranao ny fanekeko eo am-bavanao?",
+    "17": "Fa mankahala fananarana ianao, ary arianao eo ivohonao ny teniko.",
+    "18": "Raha mahita mpangalatra ianao dia mifanaiky aminy, ary miray anjara amin' ny mpijangajanga.",
+    "19": "Alefanao hiteny ratsy ny vavanao, ary mamorom-pitaka ny lelanao.",
+    "20": "Mipetraka sy miteny manohitra ny rahalahinao ianao, sady manaratsy ny zanakalahin-dreninao.",
+    "21": "Izany no nataonao, nefa nangina ihany Aho, ka dia nataonao fa mitovy aminao ihany Aho! fa hananatra anao Aho ka handahatra izany eo imasonao.",
+    "22": "Mihevera izany ankehitriny, ianareo izay manadino an' Andriamanitra, fandrao hamiravira Aho ka tsy misy hamonjy;",
+    "23": "Izay manatitra fanati-pisaorana no manome voninahitra ahy; ary izay mitandrina ny lalany no hanehoako ny famonjen' Andriamanitra."
+  }
 }

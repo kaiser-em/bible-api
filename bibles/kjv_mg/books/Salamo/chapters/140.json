@@ -1,57 +1,19 @@
 {
+  "book": "Salamo",
   "chapter": 140,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira. Salamo nataon' i Davida.] JEHOVAH ô afaho amin' ny olon-dratsy aho; arovy aho amin' ny olon-dozabe,\""
-    },
-    {
-      "v": 2,
-      "text": "Izay mihevitra ratsy ao am-pony ka miangona hanangana ady mandrakariva."
-    },
-    {
-      "v": 3,
-      "text": "Mandranitra ny lelany tahaka ny bibilava izy, ny poizin' ny menarana no ao ambanin' ny molony[Sela.]"
-    },
-    {
-      "v": 4,
-      "text": "\"Jehovah ô, tahirizo aho tsy ho azon' ny tanan' ny ratsy fanahy; arovy aho amin' ny olon-dozabe izay efa nihevitra handronjina ahy ho potraka.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Efa nanafina fandrika sy kofehy hamandrihana ahy ny mpiavonavona; efa namela-pandrika harato teo amoron-dalana izy; nametraka tadivavarana hahazoana ahy izy.[Sela.]\""
-    },
-    {
-      "v": 6,
-      "text": "\"Hoy aho tamin' i Jehovah: Andriamanitro Ianao; henoy ny feon' ny fifonako, Jehovah ô.\""
-    },
-    {
-      "v": 7,
-      "text": "Jehovah Tompo ô, ry herin' ny famonjena ahy, nanarona ny lohako tamin' ny andro fiadiana Ianao."
-    },
-    {
-      "v": 8,
-      "text": "\"Jehovah ô, aza manome ny irin' ny ratsy fanahy; ary aza avela ho tanteraka ny hevi-dratsiny, fandrao hanandra-tena izy.[Sela.]\""
-    },
-    {
-      "v": 9,
-      "text": "Fa ny amin' ny lohan' ireo manemitra ahy, dia aoka ny ratsy tononin' ny vavany ihany no hanarona azy."
-    },
-    {
-      "v": 10,
-      "text": "\"Aoka hisy vain' afo halatsaka aminy; aoka hariana any anaty afo izy, any amin' ny lavaka lalina, mba tsy hiarina intsony.\""
-    },
-    {
-      "v": 11,
-      "text": "Aoka tsy hisy mpiteny ratsy hitoetra amin' ny tany. Enjehin-doza mba handavo azy ny olon-dozabe."
-    },
-    {
-      "v": 12,
-      "text": "Fantatro fa Jehovah no handahatra ny tenin' ny ory sy hanome rariny ny mahantra."
-    },
-    {
-      "v": 13,
-      "text": "\"Hisaotra ny anaranao tokoa ny marina; hitoetra eo anatrehanao ny mahitsy.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Salamo nataon' i Davida.] JEHOVAH ô afaho amin' ny olon-dratsy aho; arovy aho amin' ny olon-dozabe,",
+    "2": "Izay mihevitra ratsy ao am-pony ka miangona hanangana ady mandrakariva.",
+    "3": "Mandranitra ny lelany tahaka ny bibilava izy, ny poizin' ny menarana no ao ambanin' ny molony[Sela.]",
+    "4": "Jehovah ô, tahirizo aho tsy ho azon' ny tanan' ny ratsy fanahy; arovy aho amin' ny olon-dozabe izay efa nihevitra handronjina ahy ho potraka.",
+    "5": "Efa nanafina fandrika sy kofehy hamandrihana ahy ny mpiavonavona; efa namela-pandrika harato teo amoron-dalana izy; nametraka tadivavarana hahazoana ahy izy.[Sela.]",
+    "6": "Hoy aho tamin' i Jehovah: Andriamanitro Ianao; henoy ny feon' ny fifonako, Jehovah ô.",
+    "7": "Jehovah Tompo ô, ry herin' ny famonjena ahy, nanarona ny lohako tamin' ny andro fiadiana Ianao.",
+    "8": "Jehovah ô, aza manome ny irin' ny ratsy fanahy; ary aza avela ho tanteraka ny hevi-dratsiny, fandrao hanandra-tena izy.[Sela.]",
+    "9": "Fa ny amin' ny lohan' ireo manemitra ahy, dia aoka ny ratsy tononin' ny vavany ihany no hanarona azy.",
+    "10": "Aoka hisy vain' afo halatsaka aminy; aoka hariana any anaty afo izy, any amin' ny lavaka lalina, mba tsy hiarina intsony.",
+    "11": "Aoka tsy hisy mpiteny ratsy hitoetra amin' ny tany. Enjehin-doza mba handavo azy ny olon-dozabe.",
+    "12": "Fantatro fa Jehovah no handahatra ny tenin' ny ory sy hanome rariny ny mahantra.",
+    "13": "Hisaotra ny anaranao tokoa ny marina; hitoetra eo anatrehanao ny mahitsy."
+  }
 }

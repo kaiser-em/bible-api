@@ -1,61 +1,20 @@
 {
+  "book": "Salamo",
   "chapter": 48,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Tononkira. Salamo ho an' ny zanak' i Kora.] LEHIBE Jehovah ka mendrika hoderaina indrindra, ao an-tanànan' Andriamanitsika, ao an-tendrombohitry ny fahamasinany."
-    },
-    {
-      "v": 2,
-      "text": "Toera-mahafinaritra, fifalian' ny tany rehetra, ny tendrombohitra Ziona, eo amin' ny ilany avaratra, tanànan' ny Mpanjaka lehibe."
-    },
-    {
-      "v": 3,
-      "text": "Fantatra ho fialofana Andriamanitra ao amin' ny lapan' andrianany."
-    },
-    {
-      "v": 4,
-      "text": "Fa indreo, niangona ny mpanjaka ary niara-nandroso izy ireo."
-    },
-    {
-      "v": 5,
-      "text": "\"Nijery izy ireo ka talanjona tokoa; very hevitra izy ka nalaky nandositra;\""
-    },
-    {
-      "v": 6,
-      "text": "Tahotra no nahazo azy teo, ary fanaintainana tahaka ny vehivavy mihetsi-jaza."
-    },
-    {
-      "v": 7,
-      "text": "Amin' ny rivotra avy any atsinanana no namakianao ny sambon' i Tarsisy."
-    },
-    {
-      "v": 8,
-      "text": "\"Araka izay efa rentsika no hitantsika tao an-tanànan' i Jehovah, Tompon' ny maro, tao an-tanànan' Andriamanitsika; Andriamanitra hampitoetra azy mandrakizay. [Sela.]\""
-    },
-    {
-      "v": 9,
-      "text": "Efa nieritreritra ny indrafonao izahay, Andriamanitra ô, tao anatin' ny tempolinao."
-    },
-    {
-      "v": 10,
-      "text": "\"Araka ny anaranao, Andriamanitra ô, no fiderana anao hatramin' ny faran' ny tany; feno fahamarinana ny tananao ankavanana.\""
-    },
-    {
-      "v": 11,
-      "text": "Aoka hifaly ny tendrombohitra Ziona, aoka hifaly ny zanakavavin' i Joda, noho ny fitsaranao."
-    },
-    {
-      "v": 12,
-      "text": "\"Manodidìna an' i Ziona ianareo, eny mandehana manodidina azy; isao ny tilikambony,\""
-    },
-    {
-      "v": 13,
-      "text": "Hevero tsara ny màndany, diniho ny tranon' andrianany, mba hambaranareo amin' ny taranaka mandimby."
-    },
-    {
-      "v": 14,
-      "text": "\"Fa izany Andriamanitra izany no Andriamanitsika mandrakizay doria; Izy no hitarika antsika na dia hatramin' ny fahafatesana aza.\""
-    }
-  ]
+  "verses": {
+    "1": "[Tononkira. Salamo ho an' ny zanak' i Kora.] LEHIBE Jehovah ka mendrika hoderaina indrindra, ao an-tanànan' Andriamanitsika, ao an-tendrombohitry ny fahamasinany.",
+    "2": "Toera-mahafinaritra, fifalian' ny tany rehetra, ny tendrombohitra Ziona, eo amin' ny ilany avaratra, tanànan' ny Mpanjaka lehibe.",
+    "3": "Fantatra ho fialofana Andriamanitra ao amin' ny lapan' andrianany.",
+    "4": "Fa indreo, niangona ny mpanjaka ary niara-nandroso izy ireo.",
+    "5": "Nijery izy ireo ka talanjona tokoa; very hevitra izy ka nalaky nandositra;",
+    "6": "Tahotra no nahazo azy teo, ary fanaintainana tahaka ny vehivavy mihetsi-jaza.",
+    "7": "Amin' ny rivotra avy any atsinanana no namakianao ny sambon' i Tarsisy.",
+    "8": "Araka izay efa rentsika no hitantsika tao an-tanànan' i Jehovah, Tompon' ny maro, tao an-tanànan' Andriamanitsika; Andriamanitra hampitoetra azy mandrakizay. [Sela.]",
+    "9": "Efa nieritreritra ny indrafonao izahay, Andriamanitra ô, tao anatin' ny tempolinao.",
+    "10": "Araka ny anaranao, Andriamanitra ô, no fiderana anao hatramin' ny faran' ny tany; feno fahamarinana ny tananao ankavanana.",
+    "11": "Aoka hifaly ny tendrombohitra Ziona, aoka hifaly ny zanakavavin' i Joda, noho ny fitsaranao.",
+    "12": "Manodidìna an' i Ziona ianareo, eny mandehana manodidina azy; isao ny tilikambony,",
+    "13": "Hevero tsara ny màndany, diniho ny tranon' andrianany, mba hambaranareo amin' ny taranaka mandimby.",
+    "14": "Fa izany Andriamanitra izany no Andriamanitsika mandrakizay doria; Izy no hitarika antsika na dia hatramin' ny fahafatesana aza."
+  }
 }

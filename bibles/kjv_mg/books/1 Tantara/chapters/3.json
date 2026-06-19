@@ -1,101 +1,30 @@
 {
+  "book": "1 Tantara",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary izao ny zanakalahin' i Davida, izay naterany tao Hebrona: Amnona, zanak' i Ahinoama Jezirelita, no lahimatoa; ary Daniela, zanak' i Abigaila Karmelita, no lahiaivo;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Absaloma, zanak' i Maka, zanakavavin' i Talmay, mpanjakan' i Gesora, no fahatelo; Adonia, zanak' i Hagita, no fahefatra;\""
-    },
-    {
-      "v": 3,
-      "text": "\"Sefatia, zanak' i Abitala, no fahadimy; Jitreama, zanak' i Egla vadiny, no fahenina.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ireo enina ireo no naterany tao Hebrona; fa tao no nanjakany fito taona sy enim-bolana; ary tany Jerosalema kosa no nanjakany telo amby telopolo taona.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary izao no naterany tany Jerosalema: Simea sy Sobaba sy Natana ary Solomona, ireo efa-dahy ireo no naterak' i Batsoa, zanakavavin' i Amiela,"
-    },
-    {
-      "v": 6,
-      "text": "Jibara koa sy Elisama sy Elifeleta,"
-    },
-    {
-      "v": 7,
-      "text": "Sy Noga sy Nafega sy Jafia,"
-    },
-    {
-      "v": 8,
-      "text": "\"Sy Elisama sy Eliada ary Elifeleta; dia sivy kosa ireo.\""
-    },
-    {
-      "v": 9,
-      "text": "Ireo rehetra ireo no zanakalahin' i Davida, afa-tsy ny zanaky ny vaditsindranony sy Tamara anabavin' ireo."
-    },
-    {
-      "v": 10,
-      "text": "Ary ny zanakalahin' i Solomona dia Rehoboama, Abia no zanakalahin-dRehoboama, Asa no zanakalahin' i Abia, Josafata no zanakalahin' i Asa,"
-    },
-    {
-      "v": 11,
-      "text": "Jehorama no zanakalahin' i Josafata, Ahazia no zanakalahin' i Jehorama, Joasy no zanakalahin' i Ahazia,"
-    },
-    {
-      "v": 12,
-      "text": "Amazia no zanakalahin' i Joasy, Azaria no zanakalahin' i Amazia, Jotama no zanakalahin' i Azaria,"
-    },
-    {
-      "v": 13,
-      "text": "Ahaza no zanakalahin' i Jotama, Hezekia no zanakalahin' i Ahaza, Manase no zanakalahin' i Hezekia,"
-    },
-    {
-      "v": 14,
-      "text": "Amona no zanakalahin' i Manase, Josia no zanakalahin' i Amona."
-    },
-    {
-      "v": 15,
-      "text": "Ary izao no zanakalahin' i Josia: Johanana lahimatoa, Joiakima, lahiaivo, Zedekia fahatelo, Saloma, fahefatra."
-    },
-    {
-      "v": 16,
-      "text": "Ary ny zanakalahin' i Joiakima dia Jekonia, ary Zedekia no zanakalahin' i Jekonia."
-    },
-    {
-      "v": 17,
-      "text": "Ary ny zanakalahin' i Jekonia dia Asira, Sealtiela no zanak' i Asira,"
-    },
-    {
-      "v": 18,
-      "text": "Ary Malkirama koa sy Pedaia sy Senazara sy Jekamia sy Hosama ary Nedabia."
-    },
-    {
-      "v": 19,
-      "text": "Ary ny zanakalahin' i Pedaia dia Zerobabela sy Simey. Ary ny zanakalahin' i Zerobabela dia Mesolama sy Hanania ary Selomita, anabaviny,"
-    },
-    {
-      "v": 20,
-      "text": "\"Ary Hasoba sy Ohela sy Berekia sy Hasadia ary Josaba-heseda; dimy izy.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary ny zanakalahin' i Hanania dia Pelatia sy Jisaia sy ny zanakalahin' i Rafia sy ny zanakalahin' i Arnana sy ny zanakalahin' i Obadia sy ny zanakalahin' i Sekania."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary ny zanakalahin' i Sekania dia Semaia. Ary ny zanakalahin' i Semaia dia Hatosy sy Jigala sy Baria sy Nearia ary Safata; enina izy.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary ny zanakalahin' i Nearia dia Elioenay sy Hezekia ary Azrikama; telo izy.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary ny zanakalahin' i Elioenay dia Hodaia sy Eliasiba sy Pelaia sy Akoba sy Johanana sy Delaia ary Anany; fito izy.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao ny zanakalahin' i Davida, izay naterany tao Hebrona: Amnona, zanak' i Ahinoama Jezirelita, no lahimatoa; ary Daniela, zanak' i Abigaila Karmelita, no lahiaivo;",
+    "2": "Absaloma, zanak' i Maka, zanakavavin' i Talmay, mpanjakan' i Gesora, no fahatelo; Adonia, zanak' i Hagita, no fahefatra;",
+    "3": "Sefatia, zanak' i Abitala, no fahadimy; Jitreama, zanak' i Egla vadiny, no fahenina.",
+    "4": "Ireo enina ireo no naterany tao Hebrona; fa tao no nanjakany fito taona sy enim-bolana; ary tany Jerosalema kosa no nanjakany telo amby telopolo taona.",
+    "5": "Ary izao no naterany tany Jerosalema: Simea sy Sobaba sy Natana ary Solomona, ireo efa-dahy ireo no naterak' i Batsoa, zanakavavin' i Amiela,",
+    "6": "Jibara koa sy Elisama sy Elifeleta,",
+    "7": "Sy Noga sy Nafega sy Jafia,",
+    "8": "Sy Elisama sy Eliada ary Elifeleta; dia sivy kosa ireo.",
+    "9": "Ireo rehetra ireo no zanakalahin' i Davida, afa-tsy ny zanaky ny vaditsindranony sy Tamara anabavin' ireo.",
+    "10": "Ary ny zanakalahin' i Solomona dia Rehoboama, Abia no zanakalahin-dRehoboama, Asa no zanakalahin' i Abia, Josafata no zanakalahin' i Asa,",
+    "11": "Jehorama no zanakalahin' i Josafata, Ahazia no zanakalahin' i Jehorama, Joasy no zanakalahin' i Ahazia,",
+    "12": "Amazia no zanakalahin' i Joasy, Azaria no zanakalahin' i Amazia, Jotama no zanakalahin' i Azaria,",
+    "13": "Ahaza no zanakalahin' i Jotama, Hezekia no zanakalahin' i Ahaza, Manase no zanakalahin' i Hezekia,",
+    "14": "Amona no zanakalahin' i Manase, Josia no zanakalahin' i Amona.",
+    "15": "Ary izao no zanakalahin' i Josia: Johanana lahimatoa, Joiakima, lahiaivo, Zedekia fahatelo, Saloma, fahefatra.",
+    "16": "Ary ny zanakalahin' i Joiakima dia Jekonia, ary Zedekia no zanakalahin' i Jekonia.",
+    "17": "Ary ny zanakalahin' i Jekonia dia Asira, Sealtiela no zanak' i Asira,",
+    "18": "Ary Malkirama koa sy Pedaia sy Senazara sy Jekamia sy Hosama ary Nedabia.",
+    "19": "Ary ny zanakalahin' i Pedaia dia Zerobabela sy Simey. Ary ny zanakalahin' i Zerobabela dia Mesolama sy Hanania ary Selomita, anabaviny,",
+    "20": "Ary Hasoba sy Ohela sy Berekia sy Hasadia ary Josaba-heseda; dimy izy.",
+    "21": "Ary ny zanakalahin' i Hanania dia Pelatia sy Jisaia sy ny zanakalahin' i Rafia sy ny zanakalahin' i Arnana sy ny zanakalahin' i Obadia sy ny zanakalahin' i Sekania.",
+    "22": "Ary ny zanakalahin' i Sekania dia Semaia. Ary ny zanakalahin' i Semaia dia Hatosy sy Jigala sy Baria sy Nearia ary Safata; enina izy.",
+    "23": "Ary ny zanakalahin' i Nearia dia Elioenay sy Hezekia ary Azrikama; telo izy.",
+    "24": "Ary ny zanakalahin' i Elioenay dia Hodaia sy Eliasiba sy Pelaia sy Akoba sy Johanana sy Delaia ary Anany; fito izy."
+  }
 }

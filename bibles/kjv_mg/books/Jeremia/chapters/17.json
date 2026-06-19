@@ -1,113 +1,33 @@
 {
+  "book": "Jeremia",
   "chapter": 17,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ny fahotan' ny Joda dia voasoratra amin' ny vy fanoratana sy amin' ny diamondra fanoratana; voasoratra ao am-pony tahaka ny amin' ny vato fisaka sy eo amin' ny tandroky ny alitarany izany,\""
-    },
-    {
-      "v": 2,
-      "text": "Raha ny zanany mahatsiaro ny alitarany sy ny Aserahany eo akaikin' ny hazo maitso ambonin' ny havoana avo."
-    },
-    {
-      "v": 3,
-      "text": "Ry tendrombohitro any an-tsaha, ny fanananao sy ny rakitrao rehetra dia hatolotro ho babo, eny na dia ny fitoerana avonao koa aza noho ny fahotana tao anatin' ny fari-taninao rehetra."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary avy amin' ny tenanao ihany no mahatonga ny hamoizanao ny lovanao izay nomeko anao; ary hampanompoiko ny fahavalonao any amin' ny tany izay tsy fantatrao ianao; fa narehitrareo ny afon' ny fahatezerako, izay hirehitra mandrakizay.\""
-    },
-    {
-      "v": 5,
-      "text": "Izao no lazain' i Jehovah: Ho voaozona izay olona matoky olona sy manao ny nofo ho sandriny, ka miala amin' i Jehovah ny fony."
-    },
-    {
-      "v": 6,
-      "text": "\"Fa ho tahaka ny anjavidy any an-tani-hay izy ka tsy mba hahita, na dia avy aza ny soa; fa honina amin' ny tany karankaina any an' efitra, dia any amin' ny tany sira izay tsy onenana.\""
-    },
-    {
-      "v": 7,
-      "text": "Hotahiana izay olona matoky an' i Jehovah, ka Jehovah no fanantenany."
-    },
-    {
-      "v": 8,
-      "text": "Fa ho toy ny hazo ambolena eo amoron-drano izy, izay mamaka eo anilan' ny rano mandeha, ka tsy ho azon-kainandro izy, fa ho maitso ny raviny, ary tsy hanahy izy na dia mihantona aza ny andro, fa tsy hitsahatra ny famoany."
-    },
-    {
-      "v": 9,
-      "text": "\"Ny fo dia mamitaka mihoatra noho ny zavatra rehetra, ary ratsy indrindra; iza moa no mahafantatra ny aminy?\""
-    },
-    {
-      "v": 10,
-      "text": "Izaho Jehovah no Mpandinika ny fo sy Mpamantatra ny voa, mba hanome ny olona rehetra araka ny alehany sy araka ny vokatry ny asany."
-    },
-    {
-      "v": 11,
-      "text": "Toy ny tsipoy mikotrika izay tsy atodiny, dia toy izany izay mahazo harena tsy amin' ny rariny: Handao azy amin' ny antenatenan' androny izany, ka ho adala no farany."
-    },
-    {
-      "v": 12,
-      "text": "Sezafiandrianana be voninahitra sady avo hatramin' ny voalohany ny fitoera-masintsika."
-    },
-    {
-      "v": 13,
-      "text": "Ry Jehovah, Fanantenan' ny Isiraely ô! Ho menatra izay rehetra mahafoy Anao, ary hosoratana amin' ny tany izay miala amiko, satria izy efa nahafoy an' i Jehovah loharanon' ny rano velona."
-    },
-    {
-      "v": 14,
-      "text": "\"Jehovah ô, sitrano aho, dia ho sitrana; vonjeo aho, dia ho voavonjy; fa Ianao no fidèrako.\""
-    },
-    {
-      "v": 15,
-      "text": "Indro, ireo dia manao amiko hoe: Aiza ny tenin' i Jehovah? Aoka ho tanteraka izany."
-    },
-    {
-      "v": 16,
-      "text": "\"Fa izaho tsy nandeha faingana niala tsy ho mpiandry manaraka Anao; ary ny andro iavian' ny loza dia tsy niriko; fantatro izany; izay nivoaka tamin' ny molotro dia marina eo anatrehanao.\""
-    },
-    {
-      "v": 17,
-      "text": "Enga anie ka tsy ho fampitahorana ahy Ianao! Fanantenako amin' ny andro fahoriana Ianao!"
-    },
-    {
-      "v": 18,
-      "text": "\"Aoka ho menatra izay manenjika ahy, fa izaho kosa aoka tsy mba ho menatra; aoka hivadi-po ireo, fa izaho kosa aoka tsy mba hivadi-po; ataovy tonga aminy ny andro fahoriana, ary ny fahatorotoroana roa heny no anorotoroy azy.\""
-    },
-    {
-      "v": 19,
-      "text": "Izao no nolazain i Jehovah tamiko: Mandehana, ka mitsangàna eo amin' ny vavahadim-bahoaka, dia ilay fandehanan' ny mpanjakan' ny Joda miditra sy mivoaka, ary eo amin' ny vavahady rehetra eto Jerosalema."
-    },
-    {
-      "v": 20,
-      "text": "Ka lazao amin' ny olona hoe: Henoinareo ny tenin' i Jehovah, ry mpanjakan' ny Joda sy ry Joda rehetra ary ianareo mponina rehetra eto Jerosalema, izay miditra amin' ireto vavahady ireto."
-    },
-    {
-      "v": 21,
-      "text": "\"Izao no lazain' i Jehovah: Tandremo ny tenanareo, ka aza mitondra entana amin' ny andro sabata, ary aza mampiditra izany amin' ny vavahadin' i Jerosalema;\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary aza mitondra entana mivoaka avy amin' ny tranonareo amin' ny andro sabata na manao raharaha akory; fa hamasino ny andro sabata araka izay efa nandidiako ny razanareo.\""
-    },
-    {
-      "v": 23,
-      "text": "Nefa tsy nankatò izy na nanongilana ny sofiny, fa nanamafy ny hatony mba tsy hihaino na handray fananarana."
-    },
-    {
-      "v": 24,
-      "text": "Ary izao no hiseho, raha mihaino Ahy tsara tokoa ianareo, hoy Jehovah, ka tsy mampiditra entana amin' ny vavahadin' ity tanàna ity amin' ny andro sabata, fa manamasina ny andro sabata, ka tsy manao raharaha amin' izany,"
-    },
-    {
-      "v": 25,
-      "text": "Dia hisy mpanjaka sy mpanapaka mipetraka eo amin' ny sezafiandrianan' i Davida hiditra amin' ny vavahadin' ity tanàna ity mitaingina kalesy sy soavaly, dia izy sy ny mpanapaka sy ny Joda ary ny mponina eto Jerosalema ary honenana mandrakizay ity tanàna ity."
-    },
-    {
-      "v": 26,
-      "text": "Ary ho avy ny olona avy amin' ny tanànan' ny Joda sy ny manodidina an' i Jerosalema sy ny tanin' ny Benjamina sy ny tany lemaka sy ny tendrombohitra, ary ny tany atsimo ka hitondra fanatitra dorana sy fanatitra hafa sy fanatitra hohanina sy ditin-kazo mani-pofona ary hitondra fanati-piderana ho ao an-tranon' i Jehovah."
-    },
-    {
-      "v": 27,
-      "text": "Fa raha tsy hihaino Ahy kosa ianareo ka tsy manamasina ny andro sabata, fa mitondra entana miditra amin' ny vavahadin' i jerosalema ihany amin' ny andro sabata, dia handrehitra afo eo am-bavahadiny Aho handevonana ny lapa eto Jerosalema ary tsy hovonoina izany."
-    }
-  ]
+  "verses": {
+    "1": "Ny fahotan' ny Joda dia voasoratra amin' ny vy fanoratana sy amin' ny diamondra fanoratana; voasoratra ao am-pony tahaka ny amin' ny vato fisaka sy eo amin' ny tandroky ny alitarany izany,",
+    "2": "Raha ny zanany mahatsiaro ny alitarany sy ny Aserahany eo akaikin' ny hazo maitso ambonin' ny havoana avo.",
+    "3": "Ry tendrombohitro any an-tsaha, ny fanananao sy ny rakitrao rehetra dia hatolotro ho babo, eny na dia ny fitoerana avonao koa aza noho ny fahotana tao anatin' ny fari-taninao rehetra.",
+    "4": "Ary avy amin' ny tenanao ihany no mahatonga ny hamoizanao ny lovanao izay nomeko anao; ary hampanompoiko ny fahavalonao any amin' ny tany izay tsy fantatrao ianao; fa narehitrareo ny afon' ny fahatezerako, izay hirehitra mandrakizay.",
+    "5": "Izao no lazain' i Jehovah: Ho voaozona izay olona matoky olona sy manao ny nofo ho sandriny, ka miala amin' i Jehovah ny fony.",
+    "6": "Fa ho tahaka ny anjavidy any an-tani-hay izy ka tsy mba hahita, na dia avy aza ny soa; fa honina amin' ny tany karankaina any an' efitra, dia any amin' ny tany sira izay tsy onenana.",
+    "7": "Hotahiana izay olona matoky an' i Jehovah, ka Jehovah no fanantenany.",
+    "8": "Fa ho toy ny hazo ambolena eo amoron-drano izy, izay mamaka eo anilan' ny rano mandeha, ka tsy ho azon-kainandro izy, fa ho maitso ny raviny, ary tsy hanahy izy na dia mihantona aza ny andro, fa tsy hitsahatra ny famoany.",
+    "9": "Ny fo dia mamitaka mihoatra noho ny zavatra rehetra, ary ratsy indrindra; iza moa no mahafantatra ny aminy?",
+    "10": "Izaho Jehovah no Mpandinika ny fo sy Mpamantatra ny voa, mba hanome ny olona rehetra araka ny alehany sy araka ny vokatry ny asany.",
+    "11": "Toy ny tsipoy mikotrika izay tsy atodiny, dia toy izany izay mahazo harena tsy amin' ny rariny: Handao azy amin' ny antenatenan' androny izany, ka ho adala no farany.",
+    "12": "Sezafiandrianana be voninahitra sady avo hatramin' ny voalohany ny fitoera-masintsika.",
+    "13": "Ry Jehovah, Fanantenan' ny Isiraely ô! Ho menatra izay rehetra mahafoy Anao, ary hosoratana amin' ny tany izay miala amiko, satria izy efa nahafoy an' i Jehovah loharanon' ny rano velona.",
+    "14": "Jehovah ô, sitrano aho, dia ho sitrana; vonjeo aho, dia ho voavonjy; fa Ianao no fidèrako.",
+    "15": "Indro, ireo dia manao amiko hoe: Aiza ny tenin' i Jehovah? Aoka ho tanteraka izany.",
+    "16": "Fa izaho tsy nandeha faingana niala tsy ho mpiandry manaraka Anao; ary ny andro iavian' ny loza dia tsy niriko; fantatro izany; izay nivoaka tamin' ny molotro dia marina eo anatrehanao.",
+    "17": "Enga anie ka tsy ho fampitahorana ahy Ianao! Fanantenako amin' ny andro fahoriana Ianao!",
+    "18": "Aoka ho menatra izay manenjika ahy, fa izaho kosa aoka tsy mba ho menatra; aoka hivadi-po ireo, fa izaho kosa aoka tsy mba hivadi-po; ataovy tonga aminy ny andro fahoriana, ary ny fahatorotoroana roa heny no anorotoroy azy.",
+    "19": "Izao no nolazain i Jehovah tamiko: Mandehana, ka mitsangàna eo amin' ny vavahadim-bahoaka, dia ilay fandehanan' ny mpanjakan' ny Joda miditra sy mivoaka, ary eo amin' ny vavahady rehetra eto Jerosalema.",
+    "20": "Ka lazao amin' ny olona hoe: Henoinareo ny tenin' i Jehovah, ry mpanjakan' ny Joda sy ry Joda rehetra ary ianareo mponina rehetra eto Jerosalema, izay miditra amin' ireto vavahady ireto.",
+    "21": "Izao no lazain' i Jehovah: Tandremo ny tenanareo, ka aza mitondra entana amin' ny andro sabata, ary aza mampiditra izany amin' ny vavahadin' i Jerosalema;",
+    "22": "Ary aza mitondra entana mivoaka avy amin' ny tranonareo amin' ny andro sabata na manao raharaha akory; fa hamasino ny andro sabata araka izay efa nandidiako ny razanareo.",
+    "23": "Nefa tsy nankatò izy na nanongilana ny sofiny, fa nanamafy ny hatony mba tsy hihaino na handray fananarana.",
+    "24": "Ary izao no hiseho, raha mihaino Ahy tsara tokoa ianareo, hoy Jehovah, ka tsy mampiditra entana amin' ny vavahadin' ity tanàna ity amin' ny andro sabata, fa manamasina ny andro sabata, ka tsy manao raharaha amin' izany,",
+    "25": "Dia hisy mpanjaka sy mpanapaka mipetraka eo amin' ny sezafiandrianan' i Davida hiditra amin' ny vavahadin' ity tanàna ity mitaingina kalesy sy soavaly, dia izy sy ny mpanapaka sy ny Joda ary ny mponina eto Jerosalema ary honenana mandrakizay ity tanàna ity.",
+    "26": "Ary ho avy ny olona avy amin' ny tanànan' ny Joda sy ny manodidina an' i Jerosalema sy ny tanin' ny Benjamina sy ny tany lemaka sy ny tendrombohitra, ary ny tany atsimo ka hitondra fanatitra dorana sy fanatitra hafa sy fanatitra hohanina sy ditin-kazo mani-pofona ary hitondra fanati-piderana ho ao an-tranon' i Jehovah.",
+    "27": "Fa raha tsy hihaino Ahy kosa ianareo ka tsy manamasina ny andro sabata, fa mitondra entana miditra amin' ny vavahadin' i jerosalema ihany amin' ny andro sabata, dia handrehitra afo eo am-bavahadiny Aho handevonana ny lapa eto Jerosalema ary tsy hovonoina izany."
+  }
 }

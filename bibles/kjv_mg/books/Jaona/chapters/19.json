@@ -1,173 +1,48 @@
 {
+  "book": "Jaona",
   "chapter": 19,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary tamin' izany dia nalain' i Pilato Jesosy ka nokapohiny."
-    },
-    {
-      "v": 2,
-      "text": "Ary ny miaramila nandrandrana satroka tsilo, ka nasatrony ny lohany, ary nampitafiany lamba volomparasy Izy,"
-    },
-    {
-      "v": 3,
-      "text": "Dia nanatona Azy ireo, ka niteny hoe: Arahaba, ry Mpanjakan' ny Jiosy! sady namely tehamaina Azy ireo."
-    },
-    {
-      "v": 4,
-      "text": "Dia nivoaka indray Pilato ka nanao taminy hoe: Indro, izaho mitondra Azy mivoaka ho eto aminareo, mba ho fantatrareo fa tsy hitako izay helony, na dia kely akory aza."
-    },
-    {
-      "v": 5,
-      "text": "Ary nivoaka Jesosy misatroka tsilo sy mitafy ny lamba volomparasy.Dia hoy Pilato tamin' ny vahoaka: Indro ny Lehilahy!"
-    },
-    {
-      "v": 6,
-      "text": "\"Ary rehefa hitan' ny lohan' ny mpisorona sy ny mpiandry raharaha Jesosy, dia niantso ireo ka nanao hoe: Homboy amin' ny hazofijaliana Izy! homboy amin' ny hazofijaliana Izy! Hoy Pilato taminy: entonareo Izy, ka homboy amin' ny hazofijaliana; fa tsy mahita heloka aminy aho.\""
-    },
-    {
-      "v": 7,
-      "text": "Fa ny Jiosy namaly azy hoe: Izahay manana lalàna, ary araka izany lalànay izany dia tokony ho faty Izy, satria nanao ny tenany ho Zanak' Andriamanitra."
-    },
-    {
-      "v": 8,
-      "text": "Ary nony ren' i Pilato izany teny izany, dia vao mainka natahotra izy,"
-    },
-    {
-      "v": 9,
-      "text": "Dia niditra tao amin' ny efitra fitsarana indray izy ka nanao tamin' i Jesosy hoe: Avy aiza moa Ianao? Fa tsy namaly azy akory Jesosy."
-    },
-    {
-      "v": 10,
-      "text": "Dia hoy Pilato taminy: Tsy miteny amiko va Ianao? tsy fantatrao va fa manana fahefana handefa Anao aho, sady manana fahefana hanombo Anao amin' ny hazofijaliana koa?"
-    },
-    {
-      "v": 11,
-      "text": "Jesosy namaly azy hoe: Tsy manana fahefana amiko akory Ianao, raha tsy nomena anao avy any ambony izany, koa izay nanolotra Ahy taminao no manan-keloka bebe kokoa."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary hatramin' izany dia nitady handefa Azy Pilato; nefa ny Jiosy niantso ka nanao hoe: Raha alefanao io Lehilahy io, dia tsy mba sakaizan' i Kaisara ianao; fa izay rehetra manao ny tenany ho mpanjaka dia manao teny manohitra an' i Kaisara.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary rehefa ren' i Pilato izany teny izany, dia nitondra an' i Jesosy nivoaka izy ka nipetraka teo amin' ny seza fitsarana teo amin' ny fitoerana atao hoe Lampivato, fa amin' ny teny Hebreo Gabata."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary andro fiomanana amin' ny Paska ny andro, tokony ho tamin' ny ora fahenina; dia hoy izy tamin' ny Jiosy: Indro ny Mpanjakanareo!\""
-    },
-    {
-      "v": 15,
-      "text": "Fa niantso ireo hoe: Ento, ento, homboy amin' ny hazofijaliana Izy! Hoy Pilato taminy: Hohomboako amin' ny hazofijaliana va ny Mpanjakanareo? Ny lohan' ny mpisorona namaly hoe: Tsy manana mpanjaka afa-tsy Kaisara izahay."
-    },
-    {
-      "v": 16,
-      "text": "Ary tamin' izany Pilato dia nanolotra Azy taminy mba hohomboana amin' ny hazofijaliana. Dia noraisin' ireo Jesosy ka nentiny."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary nitondra ny hazofijaliany Izy, dia nankany amin' ny toerana atao hoe Ikarandoha, izay atao amin' ny teny Hebreo hoe Golgota;\""
-    },
-    {
-      "v": 18,
-      "text": "Teo no nanomboany Azy tamin' ny hazofijaliana, ary nisy roa lahy koa niaraka taminy, iray avy teo an-daniny roa, ary Jesosy teo afovoany."
-    },
-    {
-      "v": 19,
-      "text": "Ary Pilato nanoratra anarana, ka napetany teo amin' ny hazofijaliana. Ary izao no voasoratra: Jesosy avy any Nazareta, Mpanjakan' ny Jiosy."
-    },
-    {
-      "v": 20,
-      "text": "Ary izany teny izany dia novakin' ny Jiosy maro, fa akaikin' ny tanàna ny toerana izay nanomboana an' i Jesosy tamin' ny hazofijaliana: ary voasoratra amin' ny teny Hebreo sy Grika ary Latina izany."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary noho izany ny lohan' ny mpisorona tamin' ny Jiosy dia nanao tamin' i Pilato hoe: Aza soratana hoe: Mpanjakan' ny Jiosy; fa izao: Izy no nilaza hoe: Mpanjakan' ny Jiosy Aho.\""
-    },
-    {
-      "v": 22,
-      "text": "Pilato namaly hoe: Izay voasoratro dia voasoratro."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary rehefa voahombon' ny miaramila tamin' ny hazofijaliana Jesosy, dia nalainy ny fitafiany ka nozarainy efatra, samy nanana ny anjarany avy ny miaramila; ary ny akanjony koa; fa tsy nisy vitrana ny akanjony, fa tenona iray ihany.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Dia nifampiresaka izy hoe: Aza mba triarintsika, fa aoka hilokantsika ho an' izay hahazo azy; mba hahatanteraka ny Soratra Masina manao hoe: Nozarainy ny fitafiako, ary nilokany ny akanjoko. Izany zavatra izany no nataon' ny miaramila.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary nijanona teo akaikin' ny hazofijalian' i Jesosy ny reniny sy ny rahavavin-dreniny, Maria, vadin' i Klopa, sy Maria Magdalena."
-    },
-    {
-      "v": 26,
-      "text": "Ary nony hitan' i Jesosy ny reniny sy ilay mpianatra tiany nijanona teo, dia hoy Izy tamin' ny reniny: Ravehivavy, indro ny zanakao!"
-    },
-    {
-      "v": 27,
-      "text": "Ary hoy koa Izy tamin' ilay mpianatra: Indro ny reninao! Ary tamin' izany ora izany dia noraisin' ilay mpianatra ho any aminy izy."
-    },
-    {
-      "v": 28,
-      "text": "Ary rehefa afaka izany, dia fantatr' i Jesosy fa efa vita ny zavatra rehetra tamin' izay, mba hahatanteraka ny Soratra Masina, dia hoy Izy: Mangetaheta Aho."
-    },
-    {
-      "v": 29,
-      "text": "\"Ary nisy bakoly feno vinaingitra nipetraka teo; ary nisy sipaonjy feno vinaingitra notohiziny tamin' ny hysopa ka nataony tamin' ny vavany.\""
-    },
-    {
-      "v": 30,
-      "text": "\"Ary rehefa nanandrana ny vinaingitra Jesosy, dia nanao hoe: Vita; dia nanondrika ny lohany Izy, ka nanolotra ny fanahiny.\""
-    },
-    {
-      "v": 31,
-      "text": "Ary satria andro fiomanana ny andro, dia nangataka tamin' i Pilato ny Jiosy mba hotapahina ny ranjon' ireo, ary hoesorina ny faty, mba tsy ho tratry ny andro sabata eo amin' ny hazofijaliana (satria andro lehibe izany sabata izany)."
-    },
-    {
-      "v": 32,
-      "text": "Dia tonga ny miaramila ka nanapaka ny ranjon' ny voalohany sy ny an' ny anankiray koa izay niaraka nohomboana tamin' i Jesosy tamin' ny hazofijaliana."
-    },
-    {
-      "v": 33,
-      "text": "Fa nony nankeo amin' i Jesosy izy ireo, ka hitany fa efa maty sahady Izy, dia tsy mba notapahiny ny ranjony."
-    },
-    {
-      "v": 34,
-      "text": "Fa ny miaramila anankiray nandefona ny lanivoany, ary niaraka tamin' izay dia nisy rà sy rano nandeha."
-    },
-    {
-      "v": 35,
-      "text": "\"Ary ilay nahita dia vavolombelona manambara,ary marina ny fanambarany; ary fantany fa milaza ny marina izy, mba hinoanareo koa.\""
-    },
-    {
-      "v": 36,
-      "text": "Fa tonga izany mba hahatanteraka ny Soratra Masina hoe: Tsy hisy hotapahina ny taolany."
-    },
-    {
-      "v": 37,
-      "text": "Ary hoy koa ny teny iray ao amin' ny Soratra Masina: Hijery Izay nolefoniny izy."
-    },
-    {
-      "v": 38,
-      "text": "Ary rehefa afaka izany, Josefa avy any Arimatia (mpianatr' i Jesosy izy, nefa tamin' ny mangingina ihany noho ny fahatahorany ny Jiosy) dia nangataka tamin' i Pilato, mba hahazoany manaisotra ny fatin' i Jesosy. Ary nanaiky Pilato. Dia lasa izy ka naka ny fatin' i Jesosy."
-    },
-    {
-      "v": 39,
-      "text": "Ary tonga koa Nikodemosy (ilay nankao amin' i Jesosy nony alina tamin' ny voalohany) ka nitondra miora sy hazo manitra voaharoharo, tokony ho zato livatra."
-    },
-    {
-      "v": 40,
-      "text": "Dia noraisin' ireo ny fatin' i Jesosy ka nofonosiny lambam-paty mbamin' ny zava-manitra, araka ny fanaon' ny Jiosy, raha mamboatra faty halevina."
-    },
-    {
-      "v": 41,
-      "text": "\"Ary nisy saha teo amin' ilay nanomboana Azy tamin' ny hazofijaliana; ary teo anatin' ilay saha nisy fasana vaovao, izay tsy mbola nandevenana olona.\""
-    },
-    {
-      "v": 42,
-      "text": "Ary teo no nandevenany an' i Jesosy noho ny andro fiomanan' ny Jiosy, satria akaiky ny fasana."
-    }
-  ]
+  "verses": {
+    "1": "Ary tamin' izany dia nalain' i Pilato Jesosy ka nokapohiny.",
+    "2": "Ary ny miaramila nandrandrana satroka tsilo, ka nasatrony ny lohany, ary nampitafiany lamba volomparasy Izy,",
+    "3": "Dia nanatona Azy ireo, ka niteny hoe: Arahaba, ry Mpanjakan' ny Jiosy! sady namely tehamaina Azy ireo.",
+    "4": "Dia nivoaka indray Pilato ka nanao taminy hoe: Indro, izaho mitondra Azy mivoaka ho eto aminareo, mba ho fantatrareo fa tsy hitako izay helony, na dia kely akory aza.",
+    "5": "Ary nivoaka Jesosy misatroka tsilo sy mitafy ny lamba volomparasy.Dia hoy Pilato tamin' ny vahoaka: Indro ny Lehilahy!",
+    "6": "Ary rehefa hitan' ny lohan' ny mpisorona sy ny mpiandry raharaha Jesosy, dia niantso ireo ka nanao hoe: Homboy amin' ny hazofijaliana Izy! homboy amin' ny hazofijaliana Izy! Hoy Pilato taminy: entonareo Izy, ka homboy amin' ny hazofijaliana; fa tsy mahita heloka aminy aho.",
+    "7": "Fa ny Jiosy namaly azy hoe: Izahay manana lalàna, ary araka izany lalànay izany dia tokony ho faty Izy, satria nanao ny tenany ho Zanak' Andriamanitra.",
+    "8": "Ary nony ren' i Pilato izany teny izany, dia vao mainka natahotra izy,",
+    "9": "Dia niditra tao amin' ny efitra fitsarana indray izy ka nanao tamin' i Jesosy hoe: Avy aiza moa Ianao? Fa tsy namaly azy akory Jesosy.",
+    "10": "Dia hoy Pilato taminy: Tsy miteny amiko va Ianao? tsy fantatrao va fa manana fahefana handefa Anao aho, sady manana fahefana hanombo Anao amin' ny hazofijaliana koa?",
+    "11": "Jesosy namaly azy hoe: Tsy manana fahefana amiko akory Ianao, raha tsy nomena anao avy any ambony izany, koa izay nanolotra Ahy taminao no manan-keloka bebe kokoa.",
+    "12": "Ary hatramin' izany dia nitady handefa Azy Pilato; nefa ny Jiosy niantso ka nanao hoe: Raha alefanao io Lehilahy io, dia tsy mba sakaizan' i Kaisara ianao; fa izay rehetra manao ny tenany ho mpanjaka dia manao teny manohitra an' i Kaisara.",
+    "13": "Ary rehefa ren' i Pilato izany teny izany, dia nitondra an' i Jesosy nivoaka izy ka nipetraka teo amin' ny seza fitsarana teo amin' ny fitoerana atao hoe Lampivato, fa amin' ny teny Hebreo Gabata.",
+    "14": "Ary andro fiomanana amin' ny Paska ny andro, tokony ho tamin' ny ora fahenina; dia hoy izy tamin' ny Jiosy: Indro ny Mpanjakanareo!",
+    "15": "Fa niantso ireo hoe: Ento, ento, homboy amin' ny hazofijaliana Izy! Hoy Pilato taminy: Hohomboako amin' ny hazofijaliana va ny Mpanjakanareo? Ny lohan' ny mpisorona namaly hoe: Tsy manana mpanjaka afa-tsy Kaisara izahay.",
+    "16": "Ary tamin' izany Pilato dia nanolotra Azy taminy mba hohomboana amin' ny hazofijaliana. Dia noraisin' ireo Jesosy ka nentiny.",
+    "17": "Ary nitondra ny hazofijaliany Izy, dia nankany amin' ny toerana atao hoe Ikarandoha, izay atao amin' ny teny Hebreo hoe Golgota;",
+    "18": "Teo no nanomboany Azy tamin' ny hazofijaliana, ary nisy roa lahy koa niaraka taminy, iray avy teo an-daniny roa, ary Jesosy teo afovoany.",
+    "19": "Ary Pilato nanoratra anarana, ka napetany teo amin' ny hazofijaliana. Ary izao no voasoratra: Jesosy avy any Nazareta, Mpanjakan' ny Jiosy.",
+    "20": "Ary izany teny izany dia novakin' ny Jiosy maro, fa akaikin' ny tanàna ny toerana izay nanomboana an' i Jesosy tamin' ny hazofijaliana: ary voasoratra amin' ny teny Hebreo sy Grika ary Latina izany.",
+    "21": "Ary noho izany ny lohan' ny mpisorona tamin' ny Jiosy dia nanao tamin' i Pilato hoe: Aza soratana hoe: Mpanjakan' ny Jiosy; fa izao: Izy no nilaza hoe: Mpanjakan' ny Jiosy Aho.",
+    "22": "Pilato namaly hoe: Izay voasoratro dia voasoratro.",
+    "23": "Ary rehefa voahombon' ny miaramila tamin' ny hazofijaliana Jesosy, dia nalainy ny fitafiany ka nozarainy efatra, samy nanana ny anjarany avy ny miaramila; ary ny akanjony koa; fa tsy nisy vitrana ny akanjony, fa tenona iray ihany.",
+    "24": "Dia nifampiresaka izy hoe: Aza mba triarintsika, fa aoka hilokantsika ho an' izay hahazo azy; mba hahatanteraka ny Soratra Masina manao hoe: Nozarainy ny fitafiako, ary nilokany ny akanjoko. Izany zavatra izany no nataon' ny miaramila.",
+    "25": "Ary nijanona teo akaikin' ny hazofijalian' i Jesosy ny reniny sy ny rahavavin-dreniny, Maria, vadin' i Klopa, sy Maria Magdalena.",
+    "26": "Ary nony hitan' i Jesosy ny reniny sy ilay mpianatra tiany nijanona teo, dia hoy Izy tamin' ny reniny: Ravehivavy, indro ny zanakao!",
+    "27": "Ary hoy koa Izy tamin' ilay mpianatra: Indro ny reninao! Ary tamin' izany ora izany dia noraisin' ilay mpianatra ho any aminy izy.",
+    "28": "Ary rehefa afaka izany, dia fantatr' i Jesosy fa efa vita ny zavatra rehetra tamin' izay, mba hahatanteraka ny Soratra Masina, dia hoy Izy: Mangetaheta Aho.",
+    "29": "Ary nisy bakoly feno vinaingitra nipetraka teo; ary nisy sipaonjy feno vinaingitra notohiziny tamin' ny hysopa ka nataony tamin' ny vavany.",
+    "30": "Ary rehefa nanandrana ny vinaingitra Jesosy, dia nanao hoe: Vita; dia nanondrika ny lohany Izy, ka nanolotra ny fanahiny.",
+    "31": "Ary satria andro fiomanana ny andro, dia nangataka tamin' i Pilato ny Jiosy mba hotapahina ny ranjon' ireo, ary hoesorina ny faty, mba tsy ho tratry ny andro sabata eo amin' ny hazofijaliana (satria andro lehibe izany sabata izany).",
+    "32": "Dia tonga ny miaramila ka nanapaka ny ranjon' ny voalohany sy ny an' ny anankiray koa izay niaraka nohomboana tamin' i Jesosy tamin' ny hazofijaliana.",
+    "33": "Fa nony nankeo amin' i Jesosy izy ireo, ka hitany fa efa maty sahady Izy, dia tsy mba notapahiny ny ranjony.",
+    "34": "Fa ny miaramila anankiray nandefona ny lanivoany, ary niaraka tamin' izay dia nisy rà sy rano nandeha.",
+    "35": "Ary ilay nahita dia vavolombelona manambara,ary marina ny fanambarany; ary fantany fa milaza ny marina izy, mba hinoanareo koa.",
+    "36": "Fa tonga izany mba hahatanteraka ny Soratra Masina hoe: Tsy hisy hotapahina ny taolany.",
+    "37": "Ary hoy koa ny teny iray ao amin' ny Soratra Masina: Hijery Izay nolefoniny izy.",
+    "38": "Ary rehefa afaka izany, Josefa avy any Arimatia (mpianatr' i Jesosy izy, nefa tamin' ny mangingina ihany noho ny fahatahorany ny Jiosy) dia nangataka tamin' i Pilato, mba hahazoany manaisotra ny fatin' i Jesosy. Ary nanaiky Pilato. Dia lasa izy ka naka ny fatin' i Jesosy.",
+    "39": "Ary tonga koa Nikodemosy (ilay nankao amin' i Jesosy nony alina tamin' ny voalohany) ka nitondra miora sy hazo manitra voaharoharo, tokony ho zato livatra.",
+    "40": "Dia noraisin' ireo ny fatin' i Jesosy ka nofonosiny lambam-paty mbamin' ny zava-manitra, araka ny fanaon' ny Jiosy, raha mamboatra faty halevina.",
+    "41": "Ary nisy saha teo amin' ilay nanomboana Azy tamin' ny hazofijaliana; ary teo anatin' ilay saha nisy fasana vaovao, izay tsy mbola nandevenana olona.",
+    "42": "Ary teo no nandevenany an' i Jesosy noho ny andro fiomanan' ny Jiosy, satria akaiky ny fasana."
+  }
 }

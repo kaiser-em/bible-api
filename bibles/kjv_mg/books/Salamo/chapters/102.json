@@ -1,117 +1,34 @@
 {
+  "book": "Salamo",
   "chapter": 102,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Fivavaky ny ory, raha reraka izy ka mandoatra ny alahelony eo anatrehan' i Jehovah.] JEHOVAH ô, henoy ny fivavako, ary aoka hankeo aminao ny fitarainako."
-    },
-    {
-      "v": 2,
-      "text": "\"Aza manafina ny tavanao amiko amin' ny andro fahoriako; atongilano amiko ny sofinao; amin' ny andro itarainako dia faingàna hamaly ahy.\""
-    },
-    {
-      "v": 3,
-      "text": "Fa levona tahaka ny setroka ny androko, ary mahamay tahaka ny fatana ny taolako."
-    },
-    {
-      "v": 4,
-      "text": "\"Voadona ny foko, ka malazo tahaka ny ahitra; hany ka hadinoko ny fihinanana ny haniko.\""
-    },
-    {
-      "v": 5,
-      "text": "Noho ny fisentoan' ny foko dia miraikitra amin' ny hoditro ny taolako."
-    },
-    {
-      "v": 6,
-      "text": "\"Tahaka ny sama any an' efitra aho; ary tahaka ny vorondolo any an-tany hay.\""
-    },
-    {
-      "v": 7,
-      "text": "Tsy mahita tory aho sady tahaka ny tsikirity irery eo an-tampon-trano."
-    },
-    {
-      "v": 8,
-      "text": "Mandatsa ahy mandritra ny andro ny fahavaloko. Izay misafoaka amiko dia manozona manohitra ahy."
-    },
-    {
-      "v": 9,
-      "text": "\"Fa ny lavenona no nohaniko tahaka ny mofo; ary ny zavatra nosotroiko noharoharoiko ny ranomasoko,\""
-    },
-    {
-      "v": 10,
-      "text": "\"Noho ny fahaviniranao sy ny fahatezeranao; fa nasandratrao aho, kanefa natontanao indray.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ny androko dia tahaka ny aloka efa mandroso; ary malazo tahaka ny ahitra aho.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Nefa ianao, Jehovah ô, maharitra mandrakizay; ary ny fahatsiarovana Anao mihatra amin' ny taranaka rehetra.\""
-    },
-    {
-      "v": 13,
-      "text": "Hitsangana Ianao, ary hamindra fo amin' i Ziona, satria andro hamindrana fo aminy izao, eny, tonga ny fotoana voatendry."
-    },
-    {
-      "v": 14,
-      "text": "Fa mankasitraka ireo vatony ny mpanomponao, sady manina ny vovotaniny."
-    },
-    {
-      "v": 15,
-      "text": "Koa hatahotra ny anaran' i Jehovah ny jentilisa, ary hatahotra ny voninahitrao ny mpanjakan' ny tany rehetra."
-    },
-    {
-      "v": 16,
-      "text": "Raha hanangana an' i Ziona Jehovah dia hiseho amin' ny voninahiny Izy."
-    },
-    {
-      "v": 17,
-      "text": "Hijery ny fivavaky ny mahantra Izy, ary tsy hanevateva ny fivavany."
-    },
-    {
-      "v": 18,
-      "text": "\"Hosoratana ho an' ny taranaka ho avy izany; ary hidera an' i Jehovah ny olona izay hoforonina.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Fa nitazana tany amin' ny fitoerany masina any amin' ny avo Izy; notsinjovin' i Jehovah avy tany an-danitra ny tany,\""
-    },
-    {
-      "v": 20,
-      "text": "\"Mba handre ny fisentoan' ny mpigadra sy hanafaka izay voatendry ho faty;\""
-    },
-    {
-      "v": 21,
-      "text": "Mba hotoriana any Ziona ny anaran' i Jehovah ary any Jerosalema ny fiderana azy,"
-    },
-    {
-      "v": 22,
-      "text": "Rehefa tafangona hanompo an' i Jehovah ny olona sy ny fanjakana."
-    },
-    {
-      "v": 23,
-      "text": "\"Efa nahaketraka ny heriko teny an-dalana Izy; nohafoheziny ny androko.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Hoy aho: Andriamanitro ô, aza maka ahy an-tenantenan' ny androko; mihatra amin' ny taranaka rehetra ny taonanao.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Tany aloha no nanorenanao ny tany; ary asan' ny tananao ny lanitra.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ireo dia ho levona, fa Ianao no haharitra; ho tonta tahaka ny fitafiana izy rehetra; toy ny lamba ny hanovanao azy, ka hovana izy.\""
-    },
-    {
-      "v": 27,
-      "text": "Fa Ianao no tsy miova, ary ny taonanao no tsy ho tapitra."
-    },
-    {
-      "v": 28,
-      "text": "Haharitra ny zanaky ny mpanomponao, ary hampitoerina eo anatrehanao ny taranany."
-    }
-  ]
+  "verses": {
+    "1": "[Fivavaky ny ory, raha reraka izy ka mandoatra ny alahelony eo anatrehan' i Jehovah.] JEHOVAH ô, henoy ny fivavako, ary aoka hankeo aminao ny fitarainako.",
+    "2": "Aza manafina ny tavanao amiko amin' ny andro fahoriako; atongilano amiko ny sofinao; amin' ny andro itarainako dia faingàna hamaly ahy.",
+    "3": "Fa levona tahaka ny setroka ny androko, ary mahamay tahaka ny fatana ny taolako.",
+    "4": "Voadona ny foko, ka malazo tahaka ny ahitra; hany ka hadinoko ny fihinanana ny haniko.",
+    "5": "Noho ny fisentoan' ny foko dia miraikitra amin' ny hoditro ny taolako.",
+    "6": "Tahaka ny sama any an' efitra aho; ary tahaka ny vorondolo any an-tany hay.",
+    "7": "Tsy mahita tory aho sady tahaka ny tsikirity irery eo an-tampon-trano.",
+    "8": "Mandatsa ahy mandritra ny andro ny fahavaloko. Izay misafoaka amiko dia manozona manohitra ahy.",
+    "9": "Fa ny lavenona no nohaniko tahaka ny mofo; ary ny zavatra nosotroiko noharoharoiko ny ranomasoko,",
+    "10": "Noho ny fahaviniranao sy ny fahatezeranao; fa nasandratrao aho, kanefa natontanao indray.",
+    "11": "Ny androko dia tahaka ny aloka efa mandroso; ary malazo tahaka ny ahitra aho.",
+    "12": "Nefa ianao, Jehovah ô, maharitra mandrakizay; ary ny fahatsiarovana Anao mihatra amin' ny taranaka rehetra.",
+    "13": "Hitsangana Ianao, ary hamindra fo amin' i Ziona, satria andro hamindrana fo aminy izao, eny, tonga ny fotoana voatendry.",
+    "14": "Fa mankasitraka ireo vatony ny mpanomponao, sady manina ny vovotaniny.",
+    "15": "Koa hatahotra ny anaran' i Jehovah ny jentilisa, ary hatahotra ny voninahitrao ny mpanjakan' ny tany rehetra.",
+    "16": "Raha hanangana an' i Ziona Jehovah dia hiseho amin' ny voninahiny Izy.",
+    "17": "Hijery ny fivavaky ny mahantra Izy, ary tsy hanevateva ny fivavany.",
+    "18": "Hosoratana ho an' ny taranaka ho avy izany; ary hidera an' i Jehovah ny olona izay hoforonina.",
+    "19": "Fa nitazana tany amin' ny fitoerany masina any amin' ny avo Izy; notsinjovin' i Jehovah avy tany an-danitra ny tany,",
+    "20": "Mba handre ny fisentoan' ny mpigadra sy hanafaka izay voatendry ho faty;",
+    "21": "Mba hotoriana any Ziona ny anaran' i Jehovah ary any Jerosalema ny fiderana azy,",
+    "22": "Rehefa tafangona hanompo an' i Jehovah ny olona sy ny fanjakana.",
+    "23": "Efa nahaketraka ny heriko teny an-dalana Izy; nohafoheziny ny androko.",
+    "24": "Hoy aho: Andriamanitro ô, aza maka ahy an-tenantenan' ny androko; mihatra amin' ny taranaka rehetra ny taonanao.",
+    "25": "Tany aloha no nanorenanao ny tany; ary asan' ny tananao ny lanitra.",
+    "26": "Ireo dia ho levona, fa Ianao no haharitra; ho tonta tahaka ny fitafiana izy rehetra; toy ny lamba ny hanovanao azy, ka hovana izy.",
+    "27": "Fa Ianao no tsy miova, ary ny taonanao no tsy ho tapitra.",
+    "28": "Haharitra ny zanaky ny mpanomponao, ary hampitoerina eo anatrehanao ny taranany."
+  }
 }

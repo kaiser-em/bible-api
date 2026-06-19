@@ -1,117 +1,34 @@
 {
+  "book": "Joba",
   "chapter": 13,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Indro, efa hitan' ny masoko izany rehetra izany, ary efa ren' ny sofiko ka fantany."
-    },
-    {
-      "v": 2,
-      "text": "\"Izay fantatrareo dia mba fantatro koa; tsy latsaka noho ianareo aho tsy akory.\""
-    },
-    {
-      "v": 3,
-      "text": "Kanefa raha izaho, dia ny Tsitoha no tiako hitenenana, ary Andriamanitra no iriko handaharan-teny."
-    },
-    {
-      "v": 4,
-      "text": "\"Fa ianareo kosa dia mpamoron-dainga; dokotera tsy mahomby ianareo rehetra,\""
-    },
-    {
-      "v": 5,
-      "text": "Enga anie ka hangina mihitsy ianareo, dia ho fahendrenareo izany!"
-    },
-    {
-      "v": 6,
-      "text": "Masìna ianareo, henoy ny anatro, ary tandremo izay halahatry ny molotro."
-    },
-    {
-      "v": 7,
-      "text": "Hanao teny tsy marina hoenti-manamarina an' Andriamanitra va ianareo? Hiteny fitaka ho Azy va ianareo?"
-    },
-    {
-      "v": 8,
-      "text": "Hiangatra ho Azy va ianareo? Handaha-teny ho an' Andriamanitra va ianareo?"
-    },
-    {
-      "v": 9,
-      "text": "Ho tsara aminareo va, raha mandinika anareo Izy? Na ho azonareo fitahina tahaka ny famitaka zanak' olombelona va Izy?"
-    },
-    {
-      "v": 10,
-      "text": "Hananatra anareo mihitsy Izy, raha mizaha tavan' olona mangingina ianareo,"
-    },
-    {
-      "v": 11,
-      "text": "Tsy hampahatahotra anareo va ny fahalehibiazany? ary tsy hamely anareo mafy va ny fahatahorana avy aminy?"
-    },
-    {
-      "v": 12,
-      "text": "Ny fahatsiarovanareo dia toy ny amin' ny lavenona, ary ny tenanareo dia tena tanimanga."
-    },
-    {
-      "v": 13,
-      "text": "\"Mangina, ka mialà amiko ianareo, mba hitenenako; fa aoka hanjo ahy ihany izay hanjo ahy.\""
-    },
-    {
-      "v": 14,
-      "text": "Nahoana no hitondra ny nofoko amin' ny nifiko aho? ary hanao ny aiko eo an-tanako?"
-    },
-    {
-      "v": 15,
-      "text": "\"Na dia hamono ahy aza Izy, dia mbola hatoky azy ihany aho; nefa hihazona ny lalako eo anatrehany aho.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Izy koa no ho famonjena ahy; fa ny mpihatsaravelatsihy tsy ho tonga eo anatrehany.\""
-    },
-    {
-      "v": 17,
-      "text": "Mihainoa dia mihainoa ny teniko, ary aoka ho ren' ny sofinareo ny filazàko."
-    },
-    {
-      "v": 18,
-      "text": "\"Indro ankehitriny, fa efa nalahatro ny adiko; fantatro fa hohamarinina aho.\""
-    },
-    {
-      "v": 19,
-      "text": "Iza no hifandahatra amiko? Fa ankehitriny raha mangina aho, dia hiala aina."
-    },
-    {
-      "v": 20,
-      "text": "\"Izao zavatra roa loha izao ihany no aza mba atao amiko, dia tsy hiery Anao aho;\""
-    },
-    {
-      "v": 21,
-      "text": "Esory lavitra ahy ny tananao, ary aoka tsy hampahatsiravina ahy ny fampitahoranao."
-    },
-    {
-      "v": 22,
-      "text": "\"Dia miantsoa, fa izaho hamaly; na aoka hiteny aho, ka valio aho.\""
-    },
-    {
-      "v": 23,
-      "text": "Firy àry ny heloko sy ny fahotako? Mba ampahalalao izay fiodinako sy fahotako aho."
-    },
-    {
-      "v": 24,
-      "text": "Nahoana no manafina ny tavanao Ianao, ka manao ahy ho fahavalonao?"
-    },
-    {
-      "v": 25,
-      "text": "Ianao va hamaky ny ravina indaosin' ny rivotra? ary ny vodivary maina va no enjehinao?"
-    },
-    {
-      "v": 26,
-      "text": "Fa zava-mangidy no soratanao hamely ahy, ary ampanodiavinao ahy ny heloky ny fahatanorako."
-    },
-    {
-      "v": 27,
-      "text": "\"Dia mampiditra koa ny tongotro eo amin' ny boloky hazo Ianao; ary mitsikilo ny diako rehetra; ny hodiavin' ny tongotro dia feranao.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary izy dia levona tahaka ny zavatra lo sy tahaka ny fitafiana lanin' ny kalalao."
-    }
-  ]
+  "verses": {
+    "1": "Indro, efa hitan' ny masoko izany rehetra izany, ary efa ren' ny sofiko ka fantany.",
+    "2": "Izay fantatrareo dia mba fantatro koa; tsy latsaka noho ianareo aho tsy akory.",
+    "3": "Kanefa raha izaho, dia ny Tsitoha no tiako hitenenana, ary Andriamanitra no iriko handaharan-teny.",
+    "4": "Fa ianareo kosa dia mpamoron-dainga; dokotera tsy mahomby ianareo rehetra,",
+    "5": "Enga anie ka hangina mihitsy ianareo, dia ho fahendrenareo izany!",
+    "6": "Masìna ianareo, henoy ny anatro, ary tandremo izay halahatry ny molotro.",
+    "7": "Hanao teny tsy marina hoenti-manamarina an' Andriamanitra va ianareo? Hiteny fitaka ho Azy va ianareo?",
+    "8": "Hiangatra ho Azy va ianareo? Handaha-teny ho an' Andriamanitra va ianareo?",
+    "9": "Ho tsara aminareo va, raha mandinika anareo Izy? Na ho azonareo fitahina tahaka ny famitaka zanak' olombelona va Izy?",
+    "10": "Hananatra anareo mihitsy Izy, raha mizaha tavan' olona mangingina ianareo,",
+    "11": "Tsy hampahatahotra anareo va ny fahalehibiazany? ary tsy hamely anareo mafy va ny fahatahorana avy aminy?",
+    "12": "Ny fahatsiarovanareo dia toy ny amin' ny lavenona, ary ny tenanareo dia tena tanimanga.",
+    "13": "Mangina, ka mialà amiko ianareo, mba hitenenako; fa aoka hanjo ahy ihany izay hanjo ahy.",
+    "14": "Nahoana no hitondra ny nofoko amin' ny nifiko aho? ary hanao ny aiko eo an-tanako?",
+    "15": "Na dia hamono ahy aza Izy, dia mbola hatoky azy ihany aho; nefa hihazona ny lalako eo anatrehany aho.",
+    "16": "Izy koa no ho famonjena ahy; fa ny mpihatsaravelatsihy tsy ho tonga eo anatrehany.",
+    "17": "Mihainoa dia mihainoa ny teniko, ary aoka ho ren' ny sofinareo ny filazàko.",
+    "18": "Indro ankehitriny, fa efa nalahatro ny adiko; fantatro fa hohamarinina aho.",
+    "19": "Iza no hifandahatra amiko? Fa ankehitriny raha mangina aho, dia hiala aina.",
+    "20": "Izao zavatra roa loha izao ihany no aza mba atao amiko, dia tsy hiery Anao aho;",
+    "21": "Esory lavitra ahy ny tananao, ary aoka tsy hampahatsiravina ahy ny fampitahoranao.",
+    "22": "Dia miantsoa, fa izaho hamaly; na aoka hiteny aho, ka valio aho.",
+    "23": "Firy àry ny heloko sy ny fahotako? Mba ampahalalao izay fiodinako sy fahotako aho.",
+    "24": "Nahoana no manafina ny tavanao Ianao, ka manao ahy ho fahavalonao?",
+    "25": "Ianao va hamaky ny ravina indaosin' ny rivotra? ary ny vodivary maina va no enjehinao?",
+    "26": "Fa zava-mangidy no soratanao hamely ahy, ary ampanodiavinao ahy ny heloky ny fahatanorako.",
+    "27": "Dia mampiditra koa ny tongotro eo amin' ny boloky hazo Ianao; ary mitsikilo ny diako rehetra; ny hodiavin' ny tongotro dia feranao.",
+    "28": "Ary izy dia levona tahaka ny zavatra lo sy tahaka ny fitafiana lanin' ny kalalao."
+  }
 }

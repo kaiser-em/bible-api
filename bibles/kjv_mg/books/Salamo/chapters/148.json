@@ -1,61 +1,20 @@
 {
+  "book": "Salamo",
   "chapter": 148,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"MIDERÀ an' i Jehovah. Miderà an' i Jehovah any an-danitra; miderà Azy any ambony.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Miderà Azy, ry anjeliny rehetra; miderà Azy, ry tafiny rehetra.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Miderà Azy, ry masoandro amam-bolana; miderà Azy, ianareo rehetra kintan' ny fahazavana.\""
-    },
-    {
-      "v": 4,
-      "text": "Miderà Azy, ry lanitry ny lanitra, ary ianareo rano ambonin' ny lanitra."
-    },
-    {
-      "v": 5,
-      "text": "\"Aoka hidera ny anaran' i Jehovah ireo; fa Izy no nandidy dia ary ireo.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Nampitoetra ireo koa ho mandrakizay Izy; nanao lalàna izay tsy hiova izy.\""
-    },
-    {
-      "v": 7,
-      "text": "Miderà an' i Jehovah avy ety an-tany ianareo dragona sy ny lalina rehetra,"
-    },
-    {
-      "v": 8,
-      "text": "Ny afo sy ny havandra, ny oram-panala sy ny zavona, ny rivo-mahery izay manatanteraka ny teniny,"
-    },
-    {
-      "v": 9,
-      "text": "Ny tendrombohitra sy ny havoana rehetra, ny hazo fihinam-boa sy ny sedera rehetra,"
-    },
-    {
-      "v": 10,
-      "text": "Ny biby dia sy ny biby fiompy rehetra, ny biby mandady na mikisaka ary ny voro-manidina,"
-    },
-    {
-      "v": 11,
-      "text": "Ny mpanjakan' ny tany sy ny vahoaka rehetra, ny mpanapaka sy ny mpitsara rehetra amin' ny tany,"
-    },
-    {
-      "v": 12,
-      "text": "\"Na ny zatovolahy, na ny zatovovavy, na ny antitra, na ny ankizy;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Samia midera ny anaran' i Jehovah; fa ny anarany ihany no tsara indrindra; ambonin' ny tany sy ny lanitra ny voninahiny.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary manandratra ny tandroky ny olony Izy, dia ny fideran' ny olony masina rehetra, dia ny Zanak' Isiraely, firenena akaiky Azy. Miderà an' i Jehovah."
-    }
-  ]
+  "verses": {
+    "1": "MIDERÀ an' i Jehovah. Miderà an' i Jehovah any an-danitra; miderà Azy any ambony.",
+    "2": "Miderà Azy, ry anjeliny rehetra; miderà Azy, ry tafiny rehetra.",
+    "3": "Miderà Azy, ry masoandro amam-bolana; miderà Azy, ianareo rehetra kintan' ny fahazavana.",
+    "4": "Miderà Azy, ry lanitry ny lanitra, ary ianareo rano ambonin' ny lanitra.",
+    "5": "Aoka hidera ny anaran' i Jehovah ireo; fa Izy no nandidy dia ary ireo.",
+    "6": "Nampitoetra ireo koa ho mandrakizay Izy; nanao lalàna izay tsy hiova izy.",
+    "7": "Miderà an' i Jehovah avy ety an-tany ianareo dragona sy ny lalina rehetra,",
+    "8": "Ny afo sy ny havandra, ny oram-panala sy ny zavona, ny rivo-mahery izay manatanteraka ny teniny,",
+    "9": "Ny tendrombohitra sy ny havoana rehetra, ny hazo fihinam-boa sy ny sedera rehetra,",
+    "10": "Ny biby dia sy ny biby fiompy rehetra, ny biby mandady na mikisaka ary ny voro-manidina,",
+    "11": "Ny mpanjakan' ny tany sy ny vahoaka rehetra, ny mpanapaka sy ny mpitsara rehetra amin' ny tany,",
+    "12": "Na ny zatovolahy, na ny zatovovavy, na ny antitra, na ny ankizy;",
+    "13": "Samia midera ny anaran' i Jehovah; fa ny anarany ihany no tsara indrindra; ambonin' ny tany sy ny lanitra ny voninahiny.",
+    "14": "Ary manandratra ny tandroky ny olony Izy, dia ny fideran' ny olony masina rehetra, dia ny Zanak' Isiraely, firenena akaiky Azy. Miderà an' i Jehovah."
+  }
 }

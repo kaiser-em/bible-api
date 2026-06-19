@@ -1,97 +1,29 @@
 {
+  "book": "Salamo",
   "chapter": 55,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Ho an' ny mpiventy hira. Hampiarahiona amin' ny valiha. Maskila nataon' i Davida.]  MIHAINOA ny fivavako, Andriamanitra ô, ary aza miery amin' ny fitarainako."
-    },
-    {
-      "v": 2,
-      "text": "\"Atreho aho, ka henoy; mitaraina aho noho ny alaheloko, ka mitoloko.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Noho ny feon' ny fahavalo sy ny fampahorian' ny ratsy fanahy; fa mampianjera loza amiko ireny, ary amin' ny fahatezerana no ankahalany ahy.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Mangorohoro ato anatiko ny foko; ary mamely ahy ny tahotra ny fahafatesana.\""
-    },
-    {
-      "v": 5,
-      "text": "Tahotra sy hovitra no mahazo ahy, ary manafotra ahy ny horohoro."
-    },
-    {
-      "v": 6,
-      "text": "\"Ka hoy aho: Enga anie ka hanana elatra tahaka ny voromailala aho, dia handositra aho ka hanam-pitsaharana;\""
-    },
-    {
-      "v": 7,
-      "text": "Eny, handositra lavitra aho ka hitoetra any an' efitra. [Sela.]"
-    },
-    {
-      "v": 8,
-      "text": "Handeha faingana aho hamonjy fialofana, mba tsy ho azon' ny tafio-drivotra sy ny ranonoram-baratra."
-    },
-    {
-      "v": 9,
-      "text": "\"Aringano izy, ary akoroy ny fiteniny, Tompo ô; fa mahita herisetra sy ady ao an-tanàna aho.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Hodidininy andro aman' alina eny ambonin' ny mandany io; ary heloka koa sy fampahoriana no ao aminy;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Faharatsiana no ao anatiny; ny fitaka sy ny fanangolena tsy mba miala amin' ny lalambeny.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Fa tsy fahavalo no nanaratsy ahy; fa raha izany dia niaritra ihany aho; tsy olona nankahala ahy no nanandra-tena namely ahy; fa raha izany dia niery azy ihany aho;\""
-    },
-    {
-      "v": 13,
-      "text": "Fa ianao lehilahy mitovy saranga amiko, mpanolo-tsaiko, ary nifankazatra tamiko,"
-    },
-    {
-      "v": 14,
-      "text": "Dia isika izay nifankamamy resaka ka niara-nandeha tamin' ny maro ho ao an-tranon' Andriamanitra."
-    },
-    {
-      "v": 15,
-      "text": "\"Aoka hahazo azy ny fahafatesana, ka hidina velona any amin' ny helo izy; fa faharatsiana no ao amin' ny fonenany, sy eo aminy.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Raha izaho, dia Andriamanitra no hantsoiko; ary Jehovah no hamonjy ahy.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Hariva sy maraina ary mitataovovonana no hivavahako sy hitarainako mafy; dia hihaino ny feoko Izy.\""
-    },
-    {
-      "v": 18,
-      "text": "Nanavotra ny fanahiko tamim-piadanana Izy hahafahako tamin' ny ady nanoherana ahy, fa maro no niandany tamiko."
-    },
-    {
-      "v": 19,
-      "text": "Hihaino Andriamanitra, Izay mipetraka hatramin' ny taloha, ka hampahory azy ireo.[Sela.] Satria tsy miova toetra ireo sady tsy matahotra an' Andriamanitra."
-    },
-    {
-      "v": 20,
-      "text": "\"Efa naninjitra ny tanany hamely izay nihavana taminy izy; namadika ny fanekeny izy.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Malambo noho ny mena-dronono ny vavany, kanjo ady no ao am-pony; malemy noho ny diloilo ny teniny, kanjo sabatra voatsoaka ireny.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Apetraho amin' i Jehovah ny entanao, fa Izy no hanohana anao; tsy havelany hangozohozo mandrakizay ny marina.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Fa Ianao, Andriamanitra ô, no hampidina ireo any an-davaka fanimbana; ny mpandatsa-drà sy mpamitaka tsy hahatratra ny antsasaky ny androny; fa izaho kosa dia hatoky Anao.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Hampiarahiona amin' ny valiha. Maskila nataon' i Davida.]  MIHAINOA ny fivavako, Andriamanitra ô, ary aza miery amin' ny fitarainako.",
+    "2": "Atreho aho, ka henoy; mitaraina aho noho ny alaheloko, ka mitoloko.",
+    "3": "Noho ny feon' ny fahavalo sy ny fampahorian' ny ratsy fanahy; fa mampianjera loza amiko ireny, ary amin' ny fahatezerana no ankahalany ahy.",
+    "4": "Mangorohoro ato anatiko ny foko; ary mamely ahy ny tahotra ny fahafatesana.",
+    "5": "Tahotra sy hovitra no mahazo ahy, ary manafotra ahy ny horohoro.",
+    "6": "Ka hoy aho: Enga anie ka hanana elatra tahaka ny voromailala aho, dia handositra aho ka hanam-pitsaharana;",
+    "7": "Eny, handositra lavitra aho ka hitoetra any an' efitra. [Sela.]",
+    "8": "Handeha faingana aho hamonjy fialofana, mba tsy ho azon' ny tafio-drivotra sy ny ranonoram-baratra.",
+    "9": "Aringano izy, ary akoroy ny fiteniny, Tompo ô; fa mahita herisetra sy ady ao an-tanàna aho.",
+    "10": "Hodidininy andro aman' alina eny ambonin' ny mandany io; ary heloka koa sy fampahoriana no ao aminy;",
+    "11": "Faharatsiana no ao anatiny; ny fitaka sy ny fanangolena tsy mba miala amin' ny lalambeny.",
+    "12": "Fa tsy fahavalo no nanaratsy ahy; fa raha izany dia niaritra ihany aho; tsy olona nankahala ahy no nanandra-tena namely ahy; fa raha izany dia niery azy ihany aho;",
+    "13": "Fa ianao lehilahy mitovy saranga amiko, mpanolo-tsaiko, ary nifankazatra tamiko,",
+    "14": "Dia isika izay nifankamamy resaka ka niara-nandeha tamin' ny maro ho ao an-tranon' Andriamanitra.",
+    "15": "Aoka hahazo azy ny fahafatesana, ka hidina velona any amin' ny helo izy; fa faharatsiana no ao amin' ny fonenany, sy eo aminy.",
+    "16": "Raha izaho, dia Andriamanitra no hantsoiko; ary Jehovah no hamonjy ahy.",
+    "17": "Hariva sy maraina ary mitataovovonana no hivavahako sy hitarainako mafy; dia hihaino ny feoko Izy.",
+    "18": "Nanavotra ny fanahiko tamim-piadanana Izy hahafahako tamin' ny ady nanoherana ahy, fa maro no niandany tamiko.",
+    "19": "Hihaino Andriamanitra, Izay mipetraka hatramin' ny taloha, ka hampahory azy ireo.[Sela.] Satria tsy miova toetra ireo sady tsy matahotra an' Andriamanitra.",
+    "20": "Efa naninjitra ny tanany hamely izay nihavana taminy izy; namadika ny fanekeny izy.",
+    "21": "Malambo noho ny mena-dronono ny vavany, kanjo ady no ao am-pony; malemy noho ny diloilo ny teniny, kanjo sabatra voatsoaka ireny.",
+    "22": "Apetraho amin' i Jehovah ny entanao, fa Izy no hanohana anao; tsy havelany hangozohozo mandrakizay ny marina.",
+    "23": "Fa Ianao, Andriamanitra ô, no hampidina ireo any an-davaka fanimbana; ny mpandatsa-drà sy mpamitaka tsy hahatratra ny antsasaky ny androny; fa izaho kosa dia hatoky Anao."
+  }
 }

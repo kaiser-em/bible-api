@@ -1,101 +1,30 @@
 {
+  "book": "2 Korintiana",
   "chapter": 8,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary ampahafantarinay anareo,ry rahalahy, ny fahasoavan’Andriamanitra izay nomena tao amin’ny fiangonana any Masedonia;\""
-    },
-    {
-      "v": 2,
-      "text": "Fa tamin’ny fahoriana be nizahan-toetra azy no nitomboan’ny hafaliany, ary ny halalin’ny fahantrany no nitomboan’ny haren’ny fahalalahan-tanany."
-    },
-    {
-      "v": 3,
-      "text": "Koa vavolombelona aho fa araka ny zakany, eny, mihoatra noho ny zakany aza, sady araka ny sitrapony ihany, no nanomezany,"
-    },
-    {
-      "v": 4,
-      "text": "\"Sady nangataka mafy taminay koa izy mba horaisinay ny fanomezana ka havelanay hikambana amin’ny fanompoana ny olona masina;\""
-    },
-    {
-      "v": 5,
-      "text": "Ary izao no nataony, tsy araka ny nantenainay, fa ny tenany no natolony ho an’ny Tompo aloha, dia ho anay koa noho ny sitrapon’Andriamanitra."
-    },
-    {
-      "v": 6,
-      "text": "Ka dia nangataka an’i Titosy izahay mba hahatanteraka izany fahasoavana izany eo aminareo koa, araka ny efa nanombohany azy teo aloha."
-    },
-    {
-      "v": 7,
-      "text": "Fa araka ny itomboanareo amin’ny zavatra rehetra, na amin’ny finoana, na amin’ny teny, na amin’ny fahalalana, na amin’ny fahazotoana rehetra, na amin’ny fitiavanareo anay, dia aoka ho araka izany koa no hitomboanareo amin’izao fahasoavana izao."
-    },
-    {
-      "v": 8,
-      "text": "Tsy milaza izany ho didy aho, fa noho ny zotom-pon’ny sasany, mba hizaha toetra ny hamarinan' ny fitiavanareo koa."
-    },
-    {
-      "v": 9,
-      "text": "Fa fantatrareo ny fahasoavan’i Jesosy Kristy Tompontsika, fa na dia nanankarena azy Izy, dia tonga mahantra noho ny aminareo, mba hampanan-karena anareo ny fahantrany."
-    },
-    {
-      "v": 10,
-      "text": "Ary dia ambarako izay toro-hevitro ny amin’izany, fa mahatsara anareo izany, satria tsy ny fanaovana ihany, fa ny fikasana koa aza dia efa natombokareo teo alohan’ny sasany hatry ny taona itsy."
-    },
-    {
-      "v": 11,
-      "text": "Ataovy tanteraka àry izany, ka tahaka ny nahavononanareo fony nikasa, dia aoka ho tahaka izany koa no hahatanterahanareo azy araka izay anananareo."
-    },
-    {
-      "v": 12,
-      "text": "Fa raha misy aloha ny fahazotoana, dia araka izay ananan' ny olona no ankasitrahana, fa tsy araka izay tsy ananany."
-    },
-    {
-      "v": 13,
-      "text": "Kanefa tsy ny hahatonga fahamaivanana amin’ny sasany ary fahoriana aminareo no hanaovako izany,"
-    },
-    {
-      "v": 14,
-      "text": "Fa ny mba hisy fitoviana, ka amin’izao ankehitriny izao ny haben’ny harenareo no hahafaka ny alahelon’ireo, ary ny haben’ny haren’ireo kosa no hahafaka ny alahelonareo, mba hisy fitoviana,"
-    },
-    {
-      "v": 15,
-      "text": "Araka ny voasoratra hoe: “Ny nanangona be tsy nanana amby, ary ny nanangona kely tsy nanana ny tsy ampy”"
-    },
-    {
-      "v": 16,
-      "text": "Fa isaorana anie Andriamanitra, Izay manome fahazotoana ho ao am-pon’i Titosy ho anareo."
-    },
-    {
-      "v": 17,
-      "text": "Fa nanaiky ny fangatahanay ihany izy, nefa nazoto rahateo, ka sitrapony ihany no nandehanany nankany aminareo."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary ilay rahalahy izay malaza amin’ny filazantsara any amin’ny fiangonana rehetra no nirahinay hiaraka aminy;\""
-    },
-    {
-      "v": 19,
-      "text": "Ary tsy izany ihany, fa efa nofidin’ny fiangonana koa izy ho namanay hiara-mandeha aminay miaraka amin' izao fahasoavana izao, izay ataonay amin’ny fanompoana ho voninahitry ny Tompo ary ho vavolombelon’ny fahazotoanareo."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary mitandrina izahay mba tsy hisy hanome tsiny anay amin’izao harena be tapahinay izao;\""
-    },
-    {
-      "v": 21,
-      "text": "Fa mikatsaka hanao izay zavatra marina izahay, tsy eo imason’ny Tompo ihany, fa eny imason’ny olona koa."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary nirahinay niaraka tamin’ireo ilay rahalahinay izay efa hitanay mazoto matetika amin’ny zavatra maro; fa ankehitriny mazoto kokoa izy noho ny haben’ny fahatokiako anareo.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Raha ny amin’i Titosy, dia namako izy sady miara-miasa amiko ho anareo; ary ireo rahalahinay, dia irak’ireo fiangonana izy ireo sady voninahitr’i Kristy.\""
-    },
-    {
-      "v": 24,
-      "text": "Koa amin’izany, asehoy aminy eo imason’ny fiangonana ny famantarana mahamarina ny fitiavanareo sy ny reharehanay ny aminareo."
-    }
-  ]
+  "verses": {
+    "1": "Ary ampahafantarinay anareo,ry rahalahy, ny fahasoavan’Andriamanitra izay nomena tao amin’ny fiangonana any Masedonia;",
+    "2": "Fa tamin’ny fahoriana be nizahan-toetra azy no nitomboan’ny hafaliany, ary ny halalin’ny fahantrany no nitomboan’ny haren’ny fahalalahan-tanany.",
+    "3": "Koa vavolombelona aho fa araka ny zakany, eny, mihoatra noho ny zakany aza, sady araka ny sitrapony ihany, no nanomezany,",
+    "4": "Sady nangataka mafy taminay koa izy mba horaisinay ny fanomezana ka havelanay hikambana amin’ny fanompoana ny olona masina;",
+    "5": "Ary izao no nataony, tsy araka ny nantenainay, fa ny tenany no natolony ho an’ny Tompo aloha, dia ho anay koa noho ny sitrapon’Andriamanitra.",
+    "6": "Ka dia nangataka an’i Titosy izahay mba hahatanteraka izany fahasoavana izany eo aminareo koa, araka ny efa nanombohany azy teo aloha.",
+    "7": "Fa araka ny itomboanareo amin’ny zavatra rehetra, na amin’ny finoana, na amin’ny teny, na amin’ny fahalalana, na amin’ny fahazotoana rehetra, na amin’ny fitiavanareo anay, dia aoka ho araka izany koa no hitomboanareo amin’izao fahasoavana izao.",
+    "8": "Tsy milaza izany ho didy aho, fa noho ny zotom-pon’ny sasany, mba hizaha toetra ny hamarinan' ny fitiavanareo koa.",
+    "9": "Fa fantatrareo ny fahasoavan’i Jesosy Kristy Tompontsika, fa na dia nanankarena azy Izy, dia tonga mahantra noho ny aminareo, mba hampanan-karena anareo ny fahantrany.",
+    "10": "Ary dia ambarako izay toro-hevitro ny amin’izany, fa mahatsara anareo izany, satria tsy ny fanaovana ihany, fa ny fikasana koa aza dia efa natombokareo teo alohan’ny sasany hatry ny taona itsy.",
+    "11": "Ataovy tanteraka àry izany, ka tahaka ny nahavononanareo fony nikasa, dia aoka ho tahaka izany koa no hahatanterahanareo azy araka izay anananareo.",
+    "12": "Fa raha misy aloha ny fahazotoana, dia araka izay ananan' ny olona no ankasitrahana, fa tsy araka izay tsy ananany.",
+    "13": "Kanefa tsy ny hahatonga fahamaivanana amin’ny sasany ary fahoriana aminareo no hanaovako izany,",
+    "14": "Fa ny mba hisy fitoviana, ka amin’izao ankehitriny izao ny haben’ny harenareo no hahafaka ny alahelon’ireo, ary ny haben’ny haren’ireo kosa no hahafaka ny alahelonareo, mba hisy fitoviana,",
+    "15": "Araka ny voasoratra hoe: “Ny nanangona be tsy nanana amby, ary ny nanangona kely tsy nanana ny tsy ampy”",
+    "16": "Fa isaorana anie Andriamanitra, Izay manome fahazotoana ho ao am-pon’i Titosy ho anareo.",
+    "17": "Fa nanaiky ny fangatahanay ihany izy, nefa nazoto rahateo, ka sitrapony ihany no nandehanany nankany aminareo.",
+    "18": "Ary ilay rahalahy izay malaza amin’ny filazantsara any amin’ny fiangonana rehetra no nirahinay hiaraka aminy;",
+    "19": "Ary tsy izany ihany, fa efa nofidin’ny fiangonana koa izy ho namanay hiara-mandeha aminay miaraka amin' izao fahasoavana izao, izay ataonay amin’ny fanompoana ho voninahitry ny Tompo ary ho vavolombelon’ny fahazotoanareo.",
+    "20": "Ary mitandrina izahay mba tsy hisy hanome tsiny anay amin’izao harena be tapahinay izao;",
+    "21": "Fa mikatsaka hanao izay zavatra marina izahay, tsy eo imason’ny Tompo ihany, fa eny imason’ny olona koa.",
+    "22": "Ary nirahinay niaraka tamin’ireo ilay rahalahinay izay efa hitanay mazoto matetika amin’ny zavatra maro; fa ankehitriny mazoto kokoa izy noho ny haben’ny fahatokiako anareo.",
+    "23": "Raha ny amin’i Titosy, dia namako izy sady miara-miasa amiko ho anareo; ary ireo rahalahinay, dia irak’ireo fiangonana izy ireo sady voninahitr’i Kristy.",
+    "24": "Koa amin’izany, asehoy aminy eo imason’ny fiangonana ny famantarana mahamarina ny fitiavanareo sy ny reharehanay ny aminareo."
+  }
 }

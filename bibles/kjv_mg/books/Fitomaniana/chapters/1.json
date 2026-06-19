@@ -1,93 +1,28 @@
 {
+  "book": "Fitomaniana",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Indrisy, mitoetra manirery izao ilay tanàna feno olona! Efa tonga toy ny mpitondratena izy! Ilay nalaza tamin' ny firenena sy andriambavy tamin' ny faritany dia efa tonga mpandoa hetra izao."
-    },
-    {
-      "v": 2,
-      "text": "\"Mitomany dia mitomany izy nony alina, ary ny ranomasony dia eny an-takolany; izay rehetra tia azy dia tsy misy mampionona azy; ary ny sakaizany rehetra dia nivadika taminy ka tonga fahavalony.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Lasan-ko babo ny Joda noho ny fahoriana sy ny haben' ny fanompoana; mipetraka ao amin' ny jentilisa izy, nefa tsy mahita fitsaharana; izay rehetra nanenjika azy dia nahatratra azy teo an-ketena.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ireo lalana mankany Ziona dia mitomany, satria tsy misy mankao amin' ny fanasana lehibe; lao ny vavahadiny rehetra, misento ny mpisorony, ory ny virijinany, ary izy dia ao anatin' ny fangidiana.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ny rafiny no mpanapaka, ny fahavalony dia ambinina; fa Jehovah efa nampahory azy noho ny hamaroan' ny fandikan-dalànany; ny zanany madinika dia lasan-ko babo eo anoloan' ny fahavalony.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary ny fahatsaran-tarehy rehetra an' ny zanakavavin' i Ziona dia niala; ny mpanapaka azy dia tonga toy ny diera tsy mahita ahitra, ary mandeha tsy manan-kery eo anoloan' ny mpanenjika izy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Tsaroan' i Jerosalema amin' ny andro fahoriany sy ireo fahantrany ny zava-tsoa rehetra izay nananany hatry ny ela; fa nony lavo teo an-tanan' ny fahavalo ny olony, ka tsy nisy namonjy azy, dia nahita azy ny fahavalo ka naneso ireo sabatany.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Efa nanota dia nanota Jerosalema, ka izany no namindrana azy; izay rehetra nanaja azy dia mamingavinga azy, satria efa nahita ny fitanjahany ireo, eny misento izy sady miamboho.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ny lotony dia teo amin' ny morontongotr' akanjony, tsy mitsapa farany izy; dia mahagaga ny fietreny, tsy misy mampionona azy. Jehovah ô, jereo ny fahoriako, fa mirehareha ny fahavalo.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Naninjitra ny tanany ny fahavalo naka ny zava-tsoany rehetra; fa ny jentilisa izay noraranao tsy hiditra amin' ny fiangonanao dia hitany tafiditra ao amin' ny fitoeranao masina.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Misento ny olony rehetra, mitady hanina izy, natakalony hanina ny zava-tsoany mba hamelombelona ny ainy; Jehovah ô, jereo ka diniho, fa efa voavingavinga aho.\""
-    },
-    {
-      "v": 12,
-      "text": "Moa tsy mampaninona anareo va, ry mpandalo rehetra Jereo sy izahao raha mba misy fahoriana toy ny fahoriako, izay namelezany ahy, dia ilay nampahorian' i Jehovah ahy tamin' ny andro firehetan' ny fahatezerany."
-    },
-    {
-      "v": 13,
-      "text": "\"Avy tany amin' ny avo no nandatsahany afo ho amin' ny taolako handoroany azy; namela-pandrika harato haningorana ny tongotro izy ka nampihemotra ahy; nampahalao sy nampahaketraka ahy mandritra ny andro Izy.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ny ziogan' ny fandikan-dalànako nofehezin' ny tanany; voaolana ireny ka tonga eo an-katoko; noketrahiny ny heriko; natolotry ny Tompo ho eo an-tanan' izay tsy leoko aho.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Nohitsakitsahin' ny Tompo tambany tongony ny maheriko rehetra; niantso fivoriana hamelezana ahy Izy handringanana ny zatovoko; ny Tompo nanosihosy ny virijina, zanakavavin' i Joda, toy ny eo amin' ny famiazam-boaloboka.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Izany zavatra izany no mampitomany ahy; ny masoko, ny masoko mamarin-dranomaso, satria lavitra ahy ny mpampionona izay tokony hamelombelona ny fanahiko; ringana ny zanako, fa mahery ny fahavalo.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Mananty tanana Ziona, nefa tsy misy mampionona azy; Jehovah nandidy ny amin' i Jakoba mba ho tonga hanodidina azy ny fahavalony; Jerosalema dia tonga toy ny vehivavy mararin' ny fadimbolana teo afovoan' ireo.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Marina Jehovah, fa efa nanohitra ny didiny aho; ry firenena rehetra, masìna ianareo, henoy sy jereo ny fahoriako. Lasan-ko babo ny virijinako sy ny zatovoko.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Nantsoiko ireo tia ahy, nefa nofitahiny aho; ny mpisoroko sy ny loholoko niala aina tao an-tanàna, tamin' ny nitadiavany hanina mba hamelombelona ny ainy.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Izahao, Jehovah ô, fa azom-pahoriana aho, mandevilevy ny tsinaiko; miontana ato anatiko ny foko, fa efa niodina tokoa aho, eny ivelany dia ny sabatra no mahafoana anaka; ary ao an-trano dia misy toa fahafatesana kosa.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Reny fa misento aho; tsy misy mampionona ahy; ny fahavaloko rehetra nandre ny fahoriako, ka faly izy, satria Ianao no nanao izany; hahatonga izay andro nantsoinao Ianao, ka dia ho tonga tahaka ahy koa ireo.\""
-    },
-    {
-      "v": 22,
-      "text": "Aoka ho tonga eo anatrehanao ny faharatsiany rehetra, ary mba ataovy aminy kosa tahaka izay nataonao tamiko noho ny fandikan-dalàna rehetra nataoko, fa imbetsaka ny fisentoako, ka reraka ny foko."
-    }
-  ]
+  "verses": {
+    "1": "Indrisy, mitoetra manirery izao ilay tanàna feno olona! Efa tonga toy ny mpitondratena izy! Ilay nalaza tamin' ny firenena sy andriambavy tamin' ny faritany dia efa tonga mpandoa hetra izao.",
+    "2": "Mitomany dia mitomany izy nony alina, ary ny ranomasony dia eny an-takolany; izay rehetra tia azy dia tsy misy mampionona azy; ary ny sakaizany rehetra dia nivadika taminy ka tonga fahavalony.",
+    "3": "Lasan-ko babo ny Joda noho ny fahoriana sy ny haben' ny fanompoana; mipetraka ao amin' ny jentilisa izy, nefa tsy mahita fitsaharana; izay rehetra nanenjika azy dia nahatratra azy teo an-ketena.",
+    "4": "Ireo lalana mankany Ziona dia mitomany, satria tsy misy mankao amin' ny fanasana lehibe; lao ny vavahadiny rehetra, misento ny mpisorony, ory ny virijinany, ary izy dia ao anatin' ny fangidiana.",
+    "5": "Ny rafiny no mpanapaka, ny fahavalony dia ambinina; fa Jehovah efa nampahory azy noho ny hamaroan' ny fandikan-dalànany; ny zanany madinika dia lasan-ko babo eo anoloan' ny fahavalony.",
+    "6": "Ary ny fahatsaran-tarehy rehetra an' ny zanakavavin' i Ziona dia niala; ny mpanapaka azy dia tonga toy ny diera tsy mahita ahitra, ary mandeha tsy manan-kery eo anoloan' ny mpanenjika izy.",
+    "7": "Tsaroan' i Jerosalema amin' ny andro fahoriany sy ireo fahantrany ny zava-tsoa rehetra izay nananany hatry ny ela; fa nony lavo teo an-tanan' ny fahavalo ny olony, ka tsy nisy namonjy azy, dia nahita azy ny fahavalo ka naneso ireo sabatany.",
+    "8": "Efa nanota dia nanota Jerosalema, ka izany no namindrana azy; izay rehetra nanaja azy dia mamingavinga azy, satria efa nahita ny fitanjahany ireo, eny misento izy sady miamboho.",
+    "9": "Ny lotony dia teo amin' ny morontongotr' akanjony, tsy mitsapa farany izy; dia mahagaga ny fietreny, tsy misy mampionona azy. Jehovah ô, jereo ny fahoriako, fa mirehareha ny fahavalo.",
+    "10": "Naninjitra ny tanany ny fahavalo naka ny zava-tsoany rehetra; fa ny jentilisa izay noraranao tsy hiditra amin' ny fiangonanao dia hitany tafiditra ao amin' ny fitoeranao masina.",
+    "11": "Misento ny olony rehetra, mitady hanina izy, natakalony hanina ny zava-tsoany mba hamelombelona ny ainy; Jehovah ô, jereo ka diniho, fa efa voavingavinga aho.",
+    "12": "Moa tsy mampaninona anareo va, ry mpandalo rehetra Jereo sy izahao raha mba misy fahoriana toy ny fahoriako, izay namelezany ahy, dia ilay nampahorian' i Jehovah ahy tamin' ny andro firehetan' ny fahatezerany.",
+    "13": "Avy tany amin' ny avo no nandatsahany afo ho amin' ny taolako handoroany azy; namela-pandrika harato haningorana ny tongotro izy ka nampihemotra ahy; nampahalao sy nampahaketraka ahy mandritra ny andro Izy.",
+    "14": "Ny ziogan' ny fandikan-dalànako nofehezin' ny tanany; voaolana ireny ka tonga eo an-katoko; noketrahiny ny heriko; natolotry ny Tompo ho eo an-tanan' izay tsy leoko aho.",
+    "15": "Nohitsakitsahin' ny Tompo tambany tongony ny maheriko rehetra; niantso fivoriana hamelezana ahy Izy handringanana ny zatovoko; ny Tompo nanosihosy ny virijina, zanakavavin' i Joda, toy ny eo amin' ny famiazam-boaloboka.",
+    "16": "Izany zavatra izany no mampitomany ahy; ny masoko, ny masoko mamarin-dranomaso, satria lavitra ahy ny mpampionona izay tokony hamelombelona ny fanahiko; ringana ny zanako, fa mahery ny fahavalo.",
+    "17": "Mananty tanana Ziona, nefa tsy misy mampionona azy; Jehovah nandidy ny amin' i Jakoba mba ho tonga hanodidina azy ny fahavalony; Jerosalema dia tonga toy ny vehivavy mararin' ny fadimbolana teo afovoan' ireo.",
+    "18": "Marina Jehovah, fa efa nanohitra ny didiny aho; ry firenena rehetra, masìna ianareo, henoy sy jereo ny fahoriako. Lasan-ko babo ny virijinako sy ny zatovoko.",
+    "19": "Nantsoiko ireo tia ahy, nefa nofitahiny aho; ny mpisoroko sy ny loholoko niala aina tao an-tanàna, tamin' ny nitadiavany hanina mba hamelombelona ny ainy.",
+    "20": "Izahao, Jehovah ô, fa azom-pahoriana aho, mandevilevy ny tsinaiko; miontana ato anatiko ny foko, fa efa niodina tokoa aho, eny ivelany dia ny sabatra no mahafoana anaka; ary ao an-trano dia misy toa fahafatesana kosa.",
+    "21": "Reny fa misento aho; tsy misy mampionona ahy; ny fahavaloko rehetra nandre ny fahoriako, ka faly izy, satria Ianao no nanao izany; hahatonga izay andro nantsoinao Ianao, ka dia ho tonga tahaka ahy koa ireo.",
+    "22": "Aoka ho tonga eo anatrehanao ny faharatsiany rehetra, ary mba ataovy aminy kosa tahaka izay nataonao tamiko noho ny fandikan-dalàna rehetra nataoko, fa imbetsaka ny fisentoako, ka reraka ny foko."
+  }
 }

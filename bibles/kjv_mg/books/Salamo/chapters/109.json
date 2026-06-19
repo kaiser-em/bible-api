@@ -1,129 +1,37 @@
 {
+  "book": "Salamo",
   "chapter": 109,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Ho an' ny mpiventy hira. Salamo nataon' i Davida.]  RY Andriamanitra fiderako ô, aza mangina Ianao,"
-    },
-    {
-      "v": 2,
-      "text": "\"Fa nisoka-bava ny ratsy fanahy sy ny mpamitaka hamely ahy; niteny hanohitra ahy tamin' ny lela mandainga izy.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Teny fankahalana koa no nanodidinany ahy; ary niady tamiko tsy ahoan-tsy ahoana izy.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ny fitiavako dia valiany fandrafiana; fa izaho kosa dia manolo-tena mivavaka.\""
-    },
-    {
-      "v": 5,
-      "text": "Ny soa nataoko novaliany ratsy, ary ny fitiavako novaliany fankahalana."
-    },
-    {
-      "v": 6,
-      "text": "\"Anendreo olona ratsy fanahy hanapaka azy; ary aoka Satana hitsangana eo ankavanany.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Raha hotsaraina izy, dia aoka ho meloka; ary aoka ny fivavahany ho tonga fahotana.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Aoka ho vitsy ny androny; ary aoka ho lasan' olon-kafa ny anjara raharahany.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Aoka ho kamboty ny zanany; ary aoka ho mpitondratena ny vadiny.\""
-    },
-    {
-      "v": 10,
-      "text": "Aoka hirenireny mandrakariva ny zanany ka hangataka, ary aoka hiremby lavitra ny tranony efa lao izy."
-    },
-    {
-      "v": 11,
-      "text": "\"Aoka ny mpanao an-keriny hamandrika izay rehetra ananany; ary aoka ny vahiny hamabo ny asany.\""
-    },
-    {
-      "v": 12,
-      "text": "Aoka tsy hisy haharitra hamindra fo aminy, na hiantra ny zanany kamboty."
-    },
-    {
-      "v": 13,
-      "text": "\"Aoka ho fongotra ny taranany; ary aoka hovonoina amin' ny taranaka mandimby ny anarany.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Aoka hotsarovan' i Jehovah ny helo-drainy; ary aoka tsy hovonoina ny helo-dreniny.\""
-    },
-    {
-      "v": 15,
-      "text": "Aoka ho eo anatrehan' i Jehovah mandrakariva ireo, ary hofoanany tsy ho eto ambonin' ny tany anie ny fahatsiarovana azy."
-    },
-    {
-      "v": 16,
-      "text": "Satria tsy mba nahatsiaro hamindra fo izy, fa nanenjika ny ory sy ny malahelo ary ny reraka am-po mba hahafaty azy."
-    },
-    {
-      "v": 17,
-      "text": "\"Satria tia ozona izy dia aoka hanody azy izany; satria tsy tia famindrampo izy, dia aoka hanalavitra azy izany.\""
-    },
-    {
-      "v": 18,
-      "text": "Satria nitafy ozona tahaka ny fitafy lamba izy, dia aoka hiditra ao an-kibony tahaka ny rano izany, ary ao amin' ny taolany tahaka ny diloilo."
-    },
-    {
-      "v": 19,
-      "text": "Dia aoka ho tahaka ny lamba itafiany izany, ary ho fisikinana isikinany mandrakariva."
-    },
-    {
-      "v": 20,
-      "text": "Aoka izany no ho famaliana avy amin' i Jehovah ho an' ny mpanohitra ahy sy izay miteny ratsy hanohitra ny fanahiko."
-    },
-    {
-      "v": 21,
-      "text": "\"Fa ianao, Jehovah Tompo ô, miasà ho ahy noho ny anaranao; vonjeo aho fa tsara ny famindramponao.\""
-    },
-    {
-      "v": 22,
-      "text": "Fa mahantra sy malahelo aho, ary ny foko dia voaratra ato anatiko."
-    },
-    {
-      "v": 23,
-      "text": "\"Lasa tahaka ny aloka mihelina aho; roahina tahaka ny valala aho.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Malemy ny lohaliko noho ny fifadian-kanina; ary mihena ny hatavin' ny nofoko;\""
-    },
-    {
-      "v": 25,
-      "text": "\"Efa tonga fandatsan' ireny aho; mihifikifi-doha izy raha mijery ahy.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ampio aho, Jehovah Andriamanitro ô; vonjeo araka ny famindramponao aho;\""
-    },
-    {
-      "v": 27,
-      "text": "\"Mba ho fantany fa tananao izany; fa Ianao, Jehovah ô no nanao izany.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Aoka hanozona izy ireo, fa Ianao kosa mitahia; rehefa mitsangana ireo, dia aoka ho menatra; fa aoka hifaly kosa ny mpanomponao.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Aoka ny fahavaloko hitafy henatra; ary aoka hisaron-kenatra tahaka ny fitafy kapaoty izy ireo.\""
-    },
-    {
-      "v": 30,
-      "text": "\"Hidera an' i Jehovah indrindra amin' ny vavako aho; eny, eo amin' ny olona maro no hiderako Azy.\""
-    },
-    {
-      "v": 31,
-      "text": "Fa hitsangana eo ankavanan' ny mahantra izy, mba hamonjy azy amin' izay manameloka ny fanahiny."
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Salamo nataon' i Davida.]  RY Andriamanitra fiderako ô, aza mangina Ianao,",
+    "2": "Fa nisoka-bava ny ratsy fanahy sy ny mpamitaka hamely ahy; niteny hanohitra ahy tamin' ny lela mandainga izy.",
+    "3": "Teny fankahalana koa no nanodidinany ahy; ary niady tamiko tsy ahoan-tsy ahoana izy.",
+    "4": "Ny fitiavako dia valiany fandrafiana; fa izaho kosa dia manolo-tena mivavaka.",
+    "5": "Ny soa nataoko novaliany ratsy, ary ny fitiavako novaliany fankahalana.",
+    "6": "Anendreo olona ratsy fanahy hanapaka azy; ary aoka Satana hitsangana eo ankavanany.",
+    "7": "Raha hotsaraina izy, dia aoka ho meloka; ary aoka ny fivavahany ho tonga fahotana.",
+    "8": "Aoka ho vitsy ny androny; ary aoka ho lasan' olon-kafa ny anjara raharahany.",
+    "9": "Aoka ho kamboty ny zanany; ary aoka ho mpitondratena ny vadiny.",
+    "10": "Aoka hirenireny mandrakariva ny zanany ka hangataka, ary aoka hiremby lavitra ny tranony efa lao izy.",
+    "11": "Aoka ny mpanao an-keriny hamandrika izay rehetra ananany; ary aoka ny vahiny hamabo ny asany.",
+    "12": "Aoka tsy hisy haharitra hamindra fo aminy, na hiantra ny zanany kamboty.",
+    "13": "Aoka ho fongotra ny taranany; ary aoka hovonoina amin' ny taranaka mandimby ny anarany.",
+    "14": "Aoka hotsarovan' i Jehovah ny helo-drainy; ary aoka tsy hovonoina ny helo-dreniny.",
+    "15": "Aoka ho eo anatrehan' i Jehovah mandrakariva ireo, ary hofoanany tsy ho eto ambonin' ny tany anie ny fahatsiarovana azy.",
+    "16": "Satria tsy mba nahatsiaro hamindra fo izy, fa nanenjika ny ory sy ny malahelo ary ny reraka am-po mba hahafaty azy.",
+    "17": "Satria tia ozona izy dia aoka hanody azy izany; satria tsy tia famindrampo izy, dia aoka hanalavitra azy izany.",
+    "18": "Satria nitafy ozona tahaka ny fitafy lamba izy, dia aoka hiditra ao an-kibony tahaka ny rano izany, ary ao amin' ny taolany tahaka ny diloilo.",
+    "19": "Dia aoka ho tahaka ny lamba itafiany izany, ary ho fisikinana isikinany mandrakariva.",
+    "20": "Aoka izany no ho famaliana avy amin' i Jehovah ho an' ny mpanohitra ahy sy izay miteny ratsy hanohitra ny fanahiko.",
+    "21": "Fa ianao, Jehovah Tompo ô, miasà ho ahy noho ny anaranao; vonjeo aho fa tsara ny famindramponao.",
+    "22": "Fa mahantra sy malahelo aho, ary ny foko dia voaratra ato anatiko.",
+    "23": "Lasa tahaka ny aloka mihelina aho; roahina tahaka ny valala aho.",
+    "24": "Malemy ny lohaliko noho ny fifadian-kanina; ary mihena ny hatavin' ny nofoko;",
+    "25": "Efa tonga fandatsan' ireny aho; mihifikifi-doha izy raha mijery ahy.",
+    "26": "Ampio aho, Jehovah Andriamanitro ô; vonjeo araka ny famindramponao aho;",
+    "27": "Mba ho fantany fa tananao izany; fa Ianao, Jehovah ô no nanao izany.",
+    "28": "Aoka hanozona izy ireo, fa Ianao kosa mitahia; rehefa mitsangana ireo, dia aoka ho menatra; fa aoka hifaly kosa ny mpanomponao.",
+    "29": "Aoka ny fahavaloko hitafy henatra; ary aoka hisaron-kenatra tahaka ny fitafy kapaoty izy ireo.",
+    "30": "Hidera an' i Jehovah indrindra amin' ny vavako aho; eny, eo amin' ny olona maro no hiderako Azy.",
+    "31": "Fa hitsangana eo ankavanan' ny mahantra izy, mba hamonjy azy amin' izay manameloka ny fanahiny."
+  }
 }

@@ -1,137 +1,39 @@
 {
+  "book": "Romana",
   "chapter": 15,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Fa isika izay matanjaka dia tokony hitondra ny fahalemen’ny malemy ka tsy hitady izay hahafaly ny tenantsika ihany."
-    },
-    {
-      "v": 2,
-      "text": "Aoka isika rehetra samy hitady izay hahafaly ny namantsika amin’izay hahasoa azy ho fampandrosoana."
-    },
-    {
-      "v": 3,
-      "text": "\"Fa Kristy aza tsy nitady izay hahafaly ny tenany; fa araka ny voasoratra hoe: “Ny latsa nataon’izay nandatsa Anao dia nihatra tamiko”\""
-    },
-    {
-      "v": 4,
-      "text": "Fa izay rehetra voasoratra fahiny dia nosoratana ho fianarantsika hananantsika ny fanantenana amin’ny faharetana sy ny fampiononana avy amin’ny Soratra Masina."
-    },
-    {
-      "v": 5,
-      "text": "\"Fa Andriamanitry ny faharetana sy ny fiononana anie hampiray hevitra anareo araka an’i Kristy Jesosy;\""
-    },
-    {
-      "v": 6,
-      "text": "Mba ho saina iray sy vava iray no hiarahanareo mankalaza an’Andriamanitra, Izay Rain’i Jesosy Kristy Tompontsika."
-    },
-    {
-      "v": 7,
-      "text": "Koa mifandraisa ianareo tahaka ny nandraisan’i Kristy antsika koa ho voninahitr’Andriamanitra."
-    },
-    {
-      "v": 8,
-      "text": "Fa lazaiko fa Kristy efa tonga mpanompon’ny voafora noho ny fahamarinan’Andriamanitra hahatò ny tenifikasana tamin’ny razana,"
-    },
-    {
-      "v": 9,
-      "text": "Ary mba hankalazan’ny Jentilisa an’Andriamanitra koa noho ny famindrampony, araka ny voasoratra hoe: “Izany no hanekeko Anao any amin’ny Jentilisa sy hihirako ny anaranao”."
-    },
-    {
-      "v": 10,
-      "text": "Ary hoy koa Izy: “Miravoravoa, ry Jentilisa, miaraka amin’ny olony”."
-    },
-    {
-      "v": 11,
-      "text": "Ary koa: “Miderà ny Tompo, ry Jentilisa rehetra, ary aoka hankalaza Azy ny firenena rehetra”"
-    },
-    {
-      "v": 12,
-      "text": "Ary hoy koa Isaia: “Hisy Solofon’i Jese, dia Ilay hitsangana hanapaka ny Jentilisa: Izy no hitokian’ny Jentilisa”"
-    },
-    {
-      "v": 13,
-      "text": "Koa ny Andriamanitry ny fanantenana anie hameno anareo amin’ny fifaliana sy ny fiadanana rehetra amin’ny finoana, mba hitomboanareo amin’ny fanantenana noho ny herin’ny Fanahy Masina."
-    },
-    {
-      "v": 14,
-      "text": "Fa izaho koa, ry rahalahiko, dia resy lahatra ny aminareo fa feno fahatsarana koa ianareo, dia feno ny fahalalana rehetra sady mahay mifananatra koa."
-    },
-    {
-      "v": 15,
-      "text": "Kanefa amin’ny fahasahiana no anoratako ny teny sasany aminareo, toy ny mampahatsiaro anareo indray noho ny fahasoavana nomen’Andriamanitra ahy,"
-    },
-    {
-      "v": 16,
-      "text": "Mba ho mpanompon’i Kristy Jesosy ho an’ny jentilisa aho ka manao ny fanompoana amin’ny fitoriana ny filazantsaran’Andriamanitra, mba horaisina amin’ny fankasitrahana ny fanatitra, dia ny Jentilisa, rehefa nohamasinin’ny Fanahy Masina."
-    },
-    {
-      "v": 17,
-      "text": "Ka dia manana izay hataoko rehareha ao amin’i Kristy Jesosy aho noho ny amin’Andriamanitra."
-    },
-    {
-      "v": 18,
-      "text": "Fa tsy sahiko lazaina izay zavatra tsy nampanaovin’i Kristy ahy, na tamin’ny teny, na tamin’ny asa, mba hampanaiky ny Jentilisa,"
-    },
-    {
-      "v": 19,
-      "text": "\"Tamin’ny famantarana lehibe sy fahagagana ary tamin’ny herin’ny Fanahin’Andriamanitra; koa dia hatrany Jerosalema ka manodidina an’i Ilyrikiona, no nahatanterahako ny fitoriana ny filazantsaran’i Kristy.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Eny, niezaka ny hitory ny filazantsara aho; tsy eo amin’izay efa niantsoana an’i Kristy anefa, fandrao hanovona eo ambonin’izay efa naorin’ny sasany aho;\""
-    },
-    {
-      "v": 21,
-      "text": "Fa araka ny voasoratra hoe: “Izay tsy nilazana Azy no hahita, ary izay tsy nandre no hahafantatra”"
-    },
-    {
-      "v": 22,
-      "text": "Ary izany koa no nahasampona ahy matetika tsy hankany aminareo."
-    },
-    {
-      "v": 23,
-      "text": "Ankehitriny anefa dia tsy misy toerana tsy voatory intsony eto, sady efa naniry fatratra hatramin’ny taona maro hankany aminareo aho,"
-    },
-    {
-      "v": 24,
-      "text": "\"Raha mankany Espaina aho, dia ho any aminareo; satria manantena hahita anareo amin’ny alehako aho ka haterinareo ho any, rehefa afakafaka ny alaheloko anareo.\""
-    },
-    {
-      "v": 25,
-      "text": "Fa ankehitriny dia hankany Jerosalema aho hanompo ny olona masina."
-    },
-    {
-      "v": 26,
-      "text": "Fa efa sitrapon’i Masedonia sy Akaia ny hamory vola hiantrana ny mahantra amin’ny olona masina any Jerosalema."
-    },
-    {
-      "v": 27,
-      "text": "Sitrany tokoa izany, sady mpitrosa aminy izy. Fa raha ny Jentilisa no niombona ny zava-panahy taminy, dia tokony hanompo azy kosa amin’ny zavatra momba ny nofo izy."
-    },
-    {
-      "v": 28,
-      "text": "Ary rehefa vitako izany, ka voatolotro azy soa aman-tsara izany vokatra izany, dia hihazo any aminareo aho, raha mankany Espaina."
-    },
-    {
-      "v": 29,
-      "text": "Ary azoko antoka fa raha mankany aminareo aho, dia ho tonga amin' ny fahafenoan’ny fitahian’ny filazantsaran’i Kristy."
-    },
-    {
-      "v": 30,
-      "text": "\"Ary miangavy anareo aho, ry rahalahy, noho ny amin’i Jesosy Kristy Tompontsika sy ny fitiavan’ny Fanahy, mba hiarahanareo miezaka amiko amin’ny fivavahanareo amin’Andriamanitra ho ahy;\""
-    },
-    {
-      "v": 31,
-      "text": "\"Mba ho afaka amin’ny tsy mino any Jodia aho, ary mba hankasitrahan’ny olona masina izay fanompoana hataoko any Jerosalema;\""
-    },
-    {
-      "v": 32,
-      "text": "Mba hankanesako any aminareo amin’ny fifaliana, raha sitrapon’Andriamanitra, ka samy hovelombelomina ny fontsika."
-    },
-    {
-      "v": 33,
-      "text": "Ary Andriamanitry ny fiadanana anie ho aminareo rehetra. Amena."
-    }
-  ]
+  "verses": {
+    "1": "Fa isika izay matanjaka dia tokony hitondra ny fahalemen’ny malemy ka tsy hitady izay hahafaly ny tenantsika ihany.",
+    "2": "Aoka isika rehetra samy hitady izay hahafaly ny namantsika amin’izay hahasoa azy ho fampandrosoana.",
+    "3": "Fa Kristy aza tsy nitady izay hahafaly ny tenany; fa araka ny voasoratra hoe: “Ny latsa nataon’izay nandatsa Anao dia nihatra tamiko”",
+    "4": "Fa izay rehetra voasoratra fahiny dia nosoratana ho fianarantsika hananantsika ny fanantenana amin’ny faharetana sy ny fampiononana avy amin’ny Soratra Masina.",
+    "5": "Fa Andriamanitry ny faharetana sy ny fiononana anie hampiray hevitra anareo araka an’i Kristy Jesosy;",
+    "6": "Mba ho saina iray sy vava iray no hiarahanareo mankalaza an’Andriamanitra, Izay Rain’i Jesosy Kristy Tompontsika.",
+    "7": "Koa mifandraisa ianareo tahaka ny nandraisan’i Kristy antsika koa ho voninahitr’Andriamanitra.",
+    "8": "Fa lazaiko fa Kristy efa tonga mpanompon’ny voafora noho ny fahamarinan’Andriamanitra hahatò ny tenifikasana tamin’ny razana,",
+    "9": "Ary mba hankalazan’ny Jentilisa an’Andriamanitra koa noho ny famindrampony, araka ny voasoratra hoe: “Izany no hanekeko Anao any amin’ny Jentilisa sy hihirako ny anaranao”.",
+    "10": "Ary hoy koa Izy: “Miravoravoa, ry Jentilisa, miaraka amin’ny olony”.",
+    "11": "Ary koa: “Miderà ny Tompo, ry Jentilisa rehetra, ary aoka hankalaza Azy ny firenena rehetra”",
+    "12": "Ary hoy koa Isaia: “Hisy Solofon’i Jese, dia Ilay hitsangana hanapaka ny Jentilisa: Izy no hitokian’ny Jentilisa”",
+    "13": "Koa ny Andriamanitry ny fanantenana anie hameno anareo amin’ny fifaliana sy ny fiadanana rehetra amin’ny finoana, mba hitomboanareo amin’ny fanantenana noho ny herin’ny Fanahy Masina.",
+    "14": "Fa izaho koa, ry rahalahiko, dia resy lahatra ny aminareo fa feno fahatsarana koa ianareo, dia feno ny fahalalana rehetra sady mahay mifananatra koa.",
+    "15": "Kanefa amin’ny fahasahiana no anoratako ny teny sasany aminareo, toy ny mampahatsiaro anareo indray noho ny fahasoavana nomen’Andriamanitra ahy,",
+    "16": "Mba ho mpanompon’i Kristy Jesosy ho an’ny jentilisa aho ka manao ny fanompoana amin’ny fitoriana ny filazantsaran’Andriamanitra, mba horaisina amin’ny fankasitrahana ny fanatitra, dia ny Jentilisa, rehefa nohamasinin’ny Fanahy Masina.",
+    "17": "Ka dia manana izay hataoko rehareha ao amin’i Kristy Jesosy aho noho ny amin’Andriamanitra.",
+    "18": "Fa tsy sahiko lazaina izay zavatra tsy nampanaovin’i Kristy ahy, na tamin’ny teny, na tamin’ny asa, mba hampanaiky ny Jentilisa,",
+    "19": "Tamin’ny famantarana lehibe sy fahagagana ary tamin’ny herin’ny Fanahin’Andriamanitra; koa dia hatrany Jerosalema ka manodidina an’i Ilyrikiona, no nahatanterahako ny fitoriana ny filazantsaran’i Kristy.",
+    "20": "Eny, niezaka ny hitory ny filazantsara aho; tsy eo amin’izay efa niantsoana an’i Kristy anefa, fandrao hanovona eo ambonin’izay efa naorin’ny sasany aho;",
+    "21": "Fa araka ny voasoratra hoe: “Izay tsy nilazana Azy no hahita, ary izay tsy nandre no hahafantatra”",
+    "22": "Ary izany koa no nahasampona ahy matetika tsy hankany aminareo.",
+    "23": "Ankehitriny anefa dia tsy misy toerana tsy voatory intsony eto, sady efa naniry fatratra hatramin’ny taona maro hankany aminareo aho,",
+    "24": "Raha mankany Espaina aho, dia ho any aminareo; satria manantena hahita anareo amin’ny alehako aho ka haterinareo ho any, rehefa afakafaka ny alaheloko anareo.",
+    "25": "Fa ankehitriny dia hankany Jerosalema aho hanompo ny olona masina.",
+    "26": "Fa efa sitrapon’i Masedonia sy Akaia ny hamory vola hiantrana ny mahantra amin’ny olona masina any Jerosalema.",
+    "27": "Sitrany tokoa izany, sady mpitrosa aminy izy. Fa raha ny Jentilisa no niombona ny zava-panahy taminy, dia tokony hanompo azy kosa amin’ny zavatra momba ny nofo izy.",
+    "28": "Ary rehefa vitako izany, ka voatolotro azy soa aman-tsara izany vokatra izany, dia hihazo any aminareo aho, raha mankany Espaina.",
+    "29": "Ary azoko antoka fa raha mankany aminareo aho, dia ho tonga amin' ny fahafenoan’ny fitahian’ny filazantsaran’i Kristy.",
+    "30": "Ary miangavy anareo aho, ry rahalahy, noho ny amin’i Jesosy Kristy Tompontsika sy ny fitiavan’ny Fanahy, mba hiarahanareo miezaka amiko amin’ny fivavahanareo amin’Andriamanitra ho ahy;",
+    "31": "Mba ho afaka amin’ny tsy mino any Jodia aho, ary mba hankasitrahan’ny olona masina izay fanompoana hataoko any Jerosalema;",
+    "32": "Mba hankanesako any aminareo amin’ny fifaliana, raha sitrapon’Andriamanitra, ka samy hovelombelomina ny fontsika.",
+    "33": "Ary Andriamanitry ny fiadanana anie ho aminareo rehetra. Amena."
+  }
 }

@@ -1,121 +1,35 @@
 {
+  "book": "Genesisy",
   "chapter": 35,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary hoy Andriamanitra tamin' i Jakoba: Miaingà, miakara any Betela ka monena any; ary manaova alitara any ho an' Andriamanitra Izay niseho taminao fony ianao nandositra ny tavan' i Esao rahalahinao.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Dia hoy Jakoba tamin' izay tao an-tranony mbamin' izay rehetra nomba azy: Ario ireo andriamani-kafa izay ao aminareo, dia madiova, sady ovay ny fitafianareo ;\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary andeha hiainga isika, ka hiakatra ho any Betela; ary hanao alitara any ho an' Andriamanitra aho, izay namaly ahy tamin' ny andron' ny fahoriako, ary nomba ahy tamin' ny lalana izay nalehako.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Dia natolony teo amin' i Jakoba ny andriamani-kafa rehetra izay notanany sy ny kavina rehetra izay teny an-tsofiny; ary dia nalevin' i Jakoba tao am-pototry ny hazo oaka izay teo akaikin' i Sekema izany.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Dia lasa nandeha izy; ary nisy tahotra avy amin' Andriamanitra nahazo ny tanàna manodidina azy, ka tsy nanenjika ny zanak' i Jakoba izy.\""
-    },
-    {
-      "v": 6,
-      "text": "Koa tonga tany Lozy i Jakoba, Betela izay any amin' ny tany Kanana izany, dia izy sy ny olona rehetra izay nomba azy."
-    },
-    {
-      "v": 7,
-      "text": "Ary nanorina alitara teo izy, ka nataony hoe: El-Betela ilay toerana, satria teo no nisehoan' Andriamanitra taminy fony izy nandositra ny tavan' ny rahalahiny."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa maty Debora, mpitaiza an-dRebeka, ka nalevina tao am-pototr' i Betela teo ambanin' ny hazo oaka; ary ny anaran' izany dia nataony hoe: Alona-bakota.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary Andriamanitra niseho indray tamin' i Jakoba, raha tonga avy tany Padan-arama izy, ka nitahy azy."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary hoy Andriamanitra taminy: Jakoba no anaranao; nefa tsy hatao hoe Jakoba intsony ny anaranao, fa Isiraely no ho anaranao; dia nataony hoe: Isiraely ny anarany.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary hoy Andriamanitra taminy: Izaho no Andriamanitra Tsitoha; maroa fara sy mihabetsaha; firenena iray sy firenena maro no hiseho avy aminao, ary mpanjaka maro no hiseho avy amin' ny haterakao.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary ny tany izay nomeko an' i Abrahama sy Isaka dia homeko anao: ary ny taranakao mandimby anao koa no homeko ny tany."
-    },
-    {
-      "v": 13,
-      "text": "Ary niakatra niala taminy teo amin' ilay toerana niresahany taminy Andriamanitra."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary Jakoba nanangana tsangam-bato teo amin' ilay toerana niresahany taminy, dia tsangambato iray; ary nanidina fanatitra aidina teo izy sady nampidina diloilo teo.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary ny anaran' ny toerana izay niresahan' Andriamanitra taminy dia nataon' i Jakoba hoe: Betela."
-    },
-    {
-      "v": 16,
-      "text": "\"Dia niala tany Betela izy ireo; ary lalana kely foana no sisa tsy hahatongavany any Efrata; dia nihetsi-jaza Rahely sady saro-piterahana.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary izao no niseho, rehefa saro-piterahana izy dia hoy ny mpampivelona taminy: Aza matahotra, fa hahazo ity zazalahy ity koa ianao."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary izao no niseho, rehefa hiala ny fanahiny (fa maty izy) dia nataony hoe: Benony ny anarany; fa ny rainy nanao azy hoe: Benjamina.\""
-    },
-    {
-      "v": 19,
-      "text": "Dia maty Rahely ka nalevina teo amin' ny lalana mankany Efrata izay atao hoe Betlehema izany."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary nanorina tsangambato teo ambonin' ny fasany Jakoba; izany dia ilay tsangambato ao amin' ny fasan-dRahely mandraka androany.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary nandeha Isiraely ka namelatra ny lainy tao an-koatry ny tilikambon' i Edera."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary izao no niseho, raha nonina tamin' izany tany izany Isiraely, dia avy Robena ka nandry tamin' i Bila vaditsindranon-drainy; ary nahare izany Isiraely.Ary ny zanakalahin' i Jakoba dia roa ambin' ny folo:\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ny zanakalahin' i Lea dia Robena, lahimatoan' i Jakoba, sy Simeona, sy Levy sy Joda sy Isakara ary Zebolona;\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ny zanakalahin-dRahely dia Josefa sy Benjamina;\""
-    },
-    {
-      "v": 25,
-      "text": "Ary ny zanakalahin' i Bila, mpanompovavin-dRahely dia: Dana sy Naftaly."
-    },
-    {
-      "v": 26,
-      "text": "\"Ary ny zanakalahin' i Zilpa, mpanompovavin' i Lea dia: Gada sy Asera; Ireo no zanakalahin' i Jakoba, izay naterany tany Padan-arama.\""
-    },
-    {
-      "v": 27,
-      "text": "Ary nankany amin' Isaka rainy Jakoba, dia tany Mamre, any an-tanànan' i Arba, Hebrona izany, izay nivahinian' i  Abrahama sy Isaka."
-    },
-    {
-      "v": 28,
-      "text": "Ary ny andro niainan' Isaka dia valopolo amby zato taona."
-    },
-    {
-      "v": 29,
-      "text": "\"Dia nanolotra ny fanahiny Isaka ka maty ary voangona any amin' ny razany, rehefa antitra sy voky andro; ary Esao sy Jakoba zanany lahy no nandevina azy.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary hoy Andriamanitra tamin' i Jakoba: Miaingà, miakara any Betela ka monena any; ary manaova alitara any ho an' Andriamanitra Izay niseho taminao fony ianao nandositra ny tavan' i Esao rahalahinao.",
+    "2": "Dia hoy Jakoba tamin' izay tao an-tranony mbamin' izay rehetra nomba azy: Ario ireo andriamani-kafa izay ao aminareo, dia madiova, sady ovay ny fitafianareo ;",
+    "3": "Ary andeha hiainga isika, ka hiakatra ho any Betela; ary hanao alitara any ho an' Andriamanitra aho, izay namaly ahy tamin' ny andron' ny fahoriako, ary nomba ahy tamin' ny lalana izay nalehako.",
+    "4": "Dia natolony teo amin' i Jakoba ny andriamani-kafa rehetra izay notanany sy ny kavina rehetra izay teny an-tsofiny; ary dia nalevin' i Jakoba tao am-pototry ny hazo oaka izay teo akaikin' i Sekema izany.",
+    "5": "Dia lasa nandeha izy; ary nisy tahotra avy amin' Andriamanitra nahazo ny tanàna manodidina azy, ka tsy nanenjika ny zanak' i Jakoba izy.",
+    "6": "Koa tonga tany Lozy i Jakoba, Betela izay any amin' ny tany Kanana izany, dia izy sy ny olona rehetra izay nomba azy.",
+    "7": "Ary nanorina alitara teo izy, ka nataony hoe: El-Betela ilay toerana, satria teo no nisehoan' Andriamanitra taminy fony izy nandositra ny tavan' ny rahalahiny.",
+    "8": "Fa maty Debora, mpitaiza an-dRebeka, ka nalevina tao am-pototr' i Betela teo ambanin' ny hazo oaka; ary ny anaran' izany dia nataony hoe: Alona-bakota.",
+    "9": "Ary Andriamanitra niseho indray tamin' i Jakoba, raha tonga avy tany Padan-arama izy, ka nitahy azy.",
+    "10": "Ary hoy Andriamanitra taminy: Jakoba no anaranao; nefa tsy hatao hoe Jakoba intsony ny anaranao, fa Isiraely no ho anaranao; dia nataony hoe: Isiraely ny anarany.",
+    "11": "Ary hoy Andriamanitra taminy: Izaho no Andriamanitra Tsitoha; maroa fara sy mihabetsaha; firenena iray sy firenena maro no hiseho avy aminao, ary mpanjaka maro no hiseho avy amin' ny haterakao.",
+    "12": "Ary ny tany izay nomeko an' i Abrahama sy Isaka dia homeko anao: ary ny taranakao mandimby anao koa no homeko ny tany.",
+    "13": "Ary niakatra niala taminy teo amin' ilay toerana niresahany taminy Andriamanitra.",
+    "14": "Ary Jakoba nanangana tsangam-bato teo amin' ilay toerana niresahany taminy, dia tsangambato iray; ary nanidina fanatitra aidina teo izy sady nampidina diloilo teo.",
+    "15": "Ary ny anaran' ny toerana izay niresahan' Andriamanitra taminy dia nataon' i Jakoba hoe: Betela.",
+    "16": "Dia niala tany Betela izy ireo; ary lalana kely foana no sisa tsy hahatongavany any Efrata; dia nihetsi-jaza Rahely sady saro-piterahana.",
+    "17": "Ary izao no niseho, rehefa saro-piterahana izy dia hoy ny mpampivelona taminy: Aza matahotra, fa hahazo ity zazalahy ity koa ianao.",
+    "18": "Ary izao no niseho, rehefa hiala ny fanahiny (fa maty izy) dia nataony hoe: Benony ny anarany; fa ny rainy nanao azy hoe: Benjamina.",
+    "19": "Dia maty Rahely ka nalevina teo amin' ny lalana mankany Efrata izay atao hoe Betlehema izany.",
+    "20": "Ary nanorina tsangambato teo ambonin' ny fasany Jakoba; izany dia ilay tsangambato ao amin' ny fasan-dRahely mandraka androany.",
+    "21": "Ary nandeha Isiraely ka namelatra ny lainy tao an-koatry ny tilikambon' i Edera.",
+    "22": "Ary izao no niseho, raha nonina tamin' izany tany izany Isiraely, dia avy Robena ka nandry tamin' i Bila vaditsindranon-drainy; ary nahare izany Isiraely.Ary ny zanakalahin' i Jakoba dia roa ambin' ny folo:",
+    "23": "Ny zanakalahin' i Lea dia Robena, lahimatoan' i Jakoba, sy Simeona, sy Levy sy Joda sy Isakara ary Zebolona;",
+    "24": "Ny zanakalahin-dRahely dia Josefa sy Benjamina;",
+    "25": "Ary ny zanakalahin' i Bila, mpanompovavin-dRahely dia: Dana sy Naftaly.",
+    "26": "Ary ny zanakalahin' i Zilpa, mpanompovavin' i Lea dia: Gada sy Asera; Ireo no zanakalahin' i Jakoba, izay naterany tany Padan-arama.",
+    "27": "Ary nankany amin' Isaka rainy Jakoba, dia tany Mamre, any an-tanànan' i Arba, Hebrona izany, izay nivahinian' i  Abrahama sy Isaka.",
+    "28": "Ary ny andro niainan' Isaka dia valopolo amby zato taona.",
+    "29": "Dia nanolotra ny fanahiny Isaka ka maty ary voangona any amin' ny razany, rehefa antitra sy voky andro; ary Esao sy Jakoba zanany lahy no nandevina azy."
+  }
 }

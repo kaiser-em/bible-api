@@ -1,37 +1,14 @@
 {
+  "book": "Salamo",
   "chapter": 61,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira. Neginah. Salamo nataon' i Davida.]  HENOY ny fitarainako, Andriamanitra ô; tandremo ny fivavako.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Any amparan' ny tany no hiantsoako Anao raha reraka ny foko; ento aho ho any amin' ny vatolampy izay avo ka tsy tratro;\""
-    },
-    {
-      "v": 3,
-      "text": "Fa aroko Ianao sy tilikambo mafy handosirako ny fahavalo."
-    },
-    {
-      "v": 4,
-      "text": "Hitoetra ao amin' ny tabernakelinao mandrakizay aho. Hialoka ao ambanin' ny fanomban' ny elatrao aho.[Sela.]"
-    },
-    {
-      "v": 5,
-      "text": "\"Fa Ianao efa nandre ny voadiko, Andriamanitra ô; efa nomenao ahy ny lovan' izay matahotra ny anaranao.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Halavao ny andron' ny mpanjaka; Aoka ny taonany hahatratra ny taranaka maro.\""
-    },
-    {
-      "v": 7,
-      "text": "Hitoetra eo anatrehan' Andriamanitra mandrakizay izy: omany e! ny famindramponao sy ny fahamarinanao izay afaka hitahiry azy."
-    },
-    {
-      "v": 8,
-      "text": "Ka dia izany no hankalazako ny anaranao mandrakizay, mba hanefako isan' andro ny voadiko."
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Neginah. Salamo nataon' i Davida.]  HENOY ny fitarainako, Andriamanitra ô; tandremo ny fivavako.",
+    "2": "Any amparan' ny tany no hiantsoako Anao raha reraka ny foko; ento aho ho any amin' ny vatolampy izay avo ka tsy tratro;",
+    "3": "Fa aroko Ianao sy tilikambo mafy handosirako ny fahavalo.",
+    "4": "Hitoetra ao amin' ny tabernakelinao mandrakizay aho. Hialoka ao ambanin' ny fanomban' ny elatrao aho.[Sela.]",
+    "5": "Fa Ianao efa nandre ny voadiko, Andriamanitra ô; efa nomenao ahy ny lovan' izay matahotra ny anaranao.",
+    "6": "Halavao ny andron' ny mpanjaka; Aoka ny taonany hahatratra ny taranaka maro.",
+    "7": "Hitoetra eo anatrehan' Andriamanitra mandrakizay izy: omany e! ny famindramponao sy ny fahamarinanao izay afaka hitahiry azy.",
+    "8": "Ka dia izany no hankalazako ny anaranao mandrakizay, mba hanefako isan' andro ny voadiko."
+  }
 }

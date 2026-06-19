@@ -1,137 +1,39 @@
 {
+  "book": "Levitikosy",
   "chapter": 15,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy sy Arona ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Mitenena amin' ny Zanak' Isiraely ka lazao aminy hoe: Ny lehilahy rehetra izay mitsika amin' ny nofony dia haloto noho ny fitsihany."
-    },
-    {
-      "v": 3,
-      "text": "Ary izao no ho fahalotoany eo amin' ny fivoahany: na mandeha ny fitsihany, na tsy mandeha, dia fahalotoany izany."
-    },
-    {
-      "v": 4,
-      "text": "\"Maloto ny fandriana rehetra izay andrian' ny marary mitsika; ary maloto ny zavatra rehetra izay ipetrahany.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary izay mikasika ny fandriany dia hanasa fitafiana sy handro amin' ny rano ary haloto mandra-paharivan' ny andro."
-    },
-    {
-      "v": 6,
-      "text": "Ary izay mipetraka amin' ny zavatra izay nipetrahan' ny marary mitsika dia hanasa ny fitafiany sy handro amin' ny rano ary haloto mandra-paharivan' ny andro."
-    },
-    {
-      "v": 7,
-      "text": "Ary izay mikasika ny tenan' ny marary mitsika dia hanasa ny fitafiany sy handro amin' ny rano ary haloto mandra-paharivan' ny andro."
-    },
-    {
-      "v": 8,
-      "text": "Ary raha misy olona madio voaroran' ny marary mitsika dia hanasa ny fitafiany sy handro amin' ny rano izy ary haloto mandra-paharivan' ny andro."
-    },
-    {
-      "v": 9,
-      "text": "Ary haloto ny lasely rehetra izay itaingenan' ny marary mitsika."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary izay rehetra mikasika izay zavatra teo ambaniny dia haloto mandra-paharivan' ny andro; ary izay mitondra na inona na inona amin' izany zavatra rehetra izany dia hanasa ny fitafiany sy handro amin' ny rano, ka haloto mandra-paharivan' ny andro.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary izay rehetra voakasiky ny marary mitsika kanefa ilay marary mitsika tsy mbola nanasa ny tanany tamin' ny rano, dia hanasa ny fitafiany sy handro amin' ny rano ary haloto mandra-paharivan' ny andro."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary hovakiana ny vilany tany izay voakasiky ny marary mitsika; ary hokobanina amin' ny rano kosa ny fanaka hazo rehetra.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary rehefa madio amin'ny fitsihany ny marary mitsika, dia hanisa fito andro izy ny amin' ny fanadiovana azy, dia hanasa ny fitafiany sy handro amin' ny rano mandeha ny tenany, dia hadio izy."
-    },
-    {
-      "v": 14,
-      "text": "Ary amin' ny andro fahavalo dia hitondra domohina roa, na zana-boromailala roa izy ka hankeo anatrehan' i Jehovah eo amin' ny varavaran' ny tranolay fihaonana, dia hanome izany ho an' ny mpisorona."
-    },
-    {
-      "v": 15,
-      "text": "\"Dia atolotry ny mpisorona ireo, ny anankiray ho fanatitra noho ny ota ary ny anankiray kosa ho fanatitra dorana; dia hanao fanavotana ho azy eo anatrehan' i Jehovah ny mpisorona noho ny fitsihany.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary raha miala amin' ny lehilahy ny azy, dia hanasa ny tenany rehetra amin' ny rano izy ary haloto mandra-paharivan' ny andro;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary hosasana amin' ny rano ny fitafiany rehetra sy ny hoditra rehetra, izay nilatsahan' ny azy; dia haloto mandra-paharivan' ny andro izany.\""
-    },
-    {
-      "v": 18,
-      "text": "Ny vehivavy izay andrian-dehilahy koa, dia samy handro amin' ny rano izy roroa ary haloto mandra-paharivan' ny andro."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary raha misy vehivavy mararin' ny fadimbolana ka rà no mandeha aminy, dia hatokana hafitoana izy; ary izay rehetra mikasika azy dia haloto mandra-paharivan' ny andro.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Ary ny zavatra rehetra izay andriany amin' ny fotoana hitokanany dia haloto; ny zavatra rehetra izay ipetrahany dia haloto koa.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary izay rehetra mikasika ny fandriany, dia hanasa ny fitafiany sy handro amin' ny rano ary haloto mandra-paharivan' ny andro."
-    },
-    {
-      "v": 22,
-      "text": "Ary izay rehetra mikasika ny zavatra izay efa nipetrahany dia hanasa ny fitafiany sy handro amin' ny rano ary haloto mandra-paharivan' ny andro."
-    },
-    {
-      "v": 23,
-      "text": "Ary raha ao amin' ny fandriana izany, na ao amin' ny zavatra iray efa nipetrahany, raha nikasika izany izy, dia haloto mandra-paharivan' ny andro."
-    },
-    {
-      "v": 24,
-      "text": "Ary raha misy lehilahy mandry amin-dravehivavy, ary mankao aminy ny fadimbolany, dia haloto hafitoana izy, ary izay rehetra andriany dia haloto koa."
-    },
-    {
-      "v": 25,
-      "text": "\"Ary raha misy vehivavy mitsi-drà andro maro mihoatra noho ny fotoana fitokanany, na raha mandeha izany ankoatry ny fotoana fitokanany; ny andro rehetra ny amin' ny fitsihany amin' ny fahalotoany dia ho tahaka ny andron' ny fitokanany; haloto izy.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ny fandriana rehetra izay andriany amin' ny andron' ny fahalotoany rehetra dia hatao tahaka ny fandriana nandriany tamin' ny andro fahalotoany; ary izay rehetra ipetrahany dia haloto koa tahaka ny fahalotoany amin' ny fadimbolany.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Ary izay rehetra mikasika izany zavatra izany dia haloto; ary hanasa ny fitafiany sy handro amin' ny rano izy ary haloto mandra-paharivan' ny andro.\""
-    },
-    {
-      "v": 28,
-      "text": "Fa raha sitrana amin' ny faharariany ravehivavy, dia hiandry hafitoana izy, ary rehefa afaka izany dia hadio izy."
-    },
-    {
-      "v": 29,
-      "text": "Ary amin' ny andro fahavalo, dia haka domohina roa, na zana-boromailala roa ho azy izy ka hitondra izany ho eo amin' ny mpisorona, eo amin' ny varavaran' ny tranolay fihaonana."
-    },
-    {
-      "v": 30,
-      "text": "\"Dia atolotry ny mpisorona ny anankiray ho fanatitra noho ny ota ary ny anankiray ho fanatitra dorana; dia hanao fanavotana ho an-dravehivavy eo anatrehan' i Jehovah ny mpisorona noho ny fitsihany ny amin' ny fahalotoany.\""
-    },
-    {
-      "v": 31,
-      "text": "Dia hampisarahinareo amin' ny fahalotoany ny Zanak' Isiraely, ka tsy ho faty amin' ny fahalotoany izy, raha nandoto ny tabernakeliko izay eo aminy."
-    },
-    {
-      "v": 32,
-      "text": "\"Ireo no lalàna ny amin' ny marary mitsika sy ny amin' izay ialan' ny azy, ka mahaloto azy izany;\""
-    },
-    {
-      "v": 33,
-      "text": "Ary ny amin' ny mararin' ny fadimbolany sy ny amin' ny marary mitsika, na lehilahy na vehivavy, ary ny amin' izay mandry amin' ny vehivavy maloto."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy sy Arona ka nanao hoe:",
+    "2": "Mitenena amin' ny Zanak' Isiraely ka lazao aminy hoe: Ny lehilahy rehetra izay mitsika amin' ny nofony dia haloto noho ny fitsihany.",
+    "3": "Ary izao no ho fahalotoany eo amin' ny fivoahany: na mandeha ny fitsihany, na tsy mandeha, dia fahalotoany izany.",
+    "4": "Maloto ny fandriana rehetra izay andrian' ny marary mitsika; ary maloto ny zavatra rehetra izay ipetrahany.",
+    "5": "Ary izay mikasika ny fandriany dia hanasa fitafiana sy handro amin' ny rano ary haloto mandra-paharivan' ny andro.",
+    "6": "Ary izay mipetraka amin' ny zavatra izay nipetrahan' ny marary mitsika dia hanasa ny fitafiany sy handro amin' ny rano ary haloto mandra-paharivan' ny andro.",
+    "7": "Ary izay mikasika ny tenan' ny marary mitsika dia hanasa ny fitafiany sy handro amin' ny rano ary haloto mandra-paharivan' ny andro.",
+    "8": "Ary raha misy olona madio voaroran' ny marary mitsika dia hanasa ny fitafiany sy handro amin' ny rano izy ary haloto mandra-paharivan' ny andro.",
+    "9": "Ary haloto ny lasely rehetra izay itaingenan' ny marary mitsika.",
+    "10": "Ary izay rehetra mikasika izay zavatra teo ambaniny dia haloto mandra-paharivan' ny andro; ary izay mitondra na inona na inona amin' izany zavatra rehetra izany dia hanasa ny fitafiany sy handro amin' ny rano, ka haloto mandra-paharivan' ny andro.",
+    "11": "Ary izay rehetra voakasiky ny marary mitsika kanefa ilay marary mitsika tsy mbola nanasa ny tanany tamin' ny rano, dia hanasa ny fitafiany sy handro amin' ny rano ary haloto mandra-paharivan' ny andro.",
+    "12": "Ary hovakiana ny vilany tany izay voakasiky ny marary mitsika; ary hokobanina amin' ny rano kosa ny fanaka hazo rehetra.",
+    "13": "Ary rehefa madio amin'ny fitsihany ny marary mitsika, dia hanisa fito andro izy ny amin' ny fanadiovana azy, dia hanasa ny fitafiany sy handro amin' ny rano mandeha ny tenany, dia hadio izy.",
+    "14": "Ary amin' ny andro fahavalo dia hitondra domohina roa, na zana-boromailala roa izy ka hankeo anatrehan' i Jehovah eo amin' ny varavaran' ny tranolay fihaonana, dia hanome izany ho an' ny mpisorona.",
+    "15": "Dia atolotry ny mpisorona ireo, ny anankiray ho fanatitra noho ny ota ary ny anankiray kosa ho fanatitra dorana; dia hanao fanavotana ho azy eo anatrehan' i Jehovah ny mpisorona noho ny fitsihany.",
+    "16": "Ary raha miala amin' ny lehilahy ny azy, dia hanasa ny tenany rehetra amin' ny rano izy ary haloto mandra-paharivan' ny andro;",
+    "17": "Ary hosasana amin' ny rano ny fitafiany rehetra sy ny hoditra rehetra, izay nilatsahan' ny azy; dia haloto mandra-paharivan' ny andro izany.",
+    "18": "Ny vehivavy izay andrian-dehilahy koa, dia samy handro amin' ny rano izy roroa ary haloto mandra-paharivan' ny andro.",
+    "19": "Ary raha misy vehivavy mararin' ny fadimbolana ka rà no mandeha aminy, dia hatokana hafitoana izy; ary izay rehetra mikasika azy dia haloto mandra-paharivan' ny andro.",
+    "20": "Ary ny zavatra rehetra izay andriany amin' ny fotoana hitokanany dia haloto; ny zavatra rehetra izay ipetrahany dia haloto koa.",
+    "21": "Ary izay rehetra mikasika ny fandriany, dia hanasa ny fitafiany sy handro amin' ny rano ary haloto mandra-paharivan' ny andro.",
+    "22": "Ary izay rehetra mikasika ny zavatra izay efa nipetrahany dia hanasa ny fitafiany sy handro amin' ny rano ary haloto mandra-paharivan' ny andro.",
+    "23": "Ary raha ao amin' ny fandriana izany, na ao amin' ny zavatra iray efa nipetrahany, raha nikasika izany izy, dia haloto mandra-paharivan' ny andro.",
+    "24": "Ary raha misy lehilahy mandry amin-dravehivavy, ary mankao aminy ny fadimbolany, dia haloto hafitoana izy, ary izay rehetra andriany dia haloto koa.",
+    "25": "Ary raha misy vehivavy mitsi-drà andro maro mihoatra noho ny fotoana fitokanany, na raha mandeha izany ankoatry ny fotoana fitokanany; ny andro rehetra ny amin' ny fitsihany amin' ny fahalotoany dia ho tahaka ny andron' ny fitokanany; haloto izy.",
+    "26": "Ny fandriana rehetra izay andriany amin' ny andron' ny fahalotoany rehetra dia hatao tahaka ny fandriana nandriany tamin' ny andro fahalotoany; ary izay rehetra ipetrahany dia haloto koa tahaka ny fahalotoany amin' ny fadimbolany.",
+    "27": "Ary izay rehetra mikasika izany zavatra izany dia haloto; ary hanasa ny fitafiany sy handro amin' ny rano izy ary haloto mandra-paharivan' ny andro.",
+    "28": "Fa raha sitrana amin' ny faharariany ravehivavy, dia hiandry hafitoana izy, ary rehefa afaka izany dia hadio izy.",
+    "29": "Ary amin' ny andro fahavalo, dia haka domohina roa, na zana-boromailala roa ho azy izy ka hitondra izany ho eo amin' ny mpisorona, eo amin' ny varavaran' ny tranolay fihaonana.",
+    "30": "Dia atolotry ny mpisorona ny anankiray ho fanatitra noho ny ota ary ny anankiray ho fanatitra dorana; dia hanao fanavotana ho an-dravehivavy eo anatrehan' i Jehovah ny mpisorona noho ny fitsihany ny amin' ny fahalotoany.",
+    "31": "Dia hampisarahinareo amin' ny fahalotoany ny Zanak' Isiraely, ka tsy ho faty amin' ny fahalotoany izy, raha nandoto ny tabernakeliko izay eo aminy.",
+    "32": "Ireo no lalàna ny amin' ny marary mitsika sy ny amin' izay ialan' ny azy, ka mahaloto azy izany;",
+    "33": "Ary ny amin' ny mararin' ny fadimbolany sy ny amin' ny marary mitsika, na lehilahy na vehivavy, ary ny amin' izay mandry amin' ny vehivavy maloto."
+  }
 }

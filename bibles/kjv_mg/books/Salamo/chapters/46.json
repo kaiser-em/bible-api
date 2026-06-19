@@ -1,49 +1,17 @@
 {
+  "book": "Salamo",
   "chapter": 46,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira, ho an' ny zanak' i Kora. Al-alamoth. Tononkira.]  ANDRIAMANITRA no fialofana sy hery ho antsika; Mpamonjy mora azo indrindra amin' ny fahoriana Izy.\""
-    },
-    {
-      "v": 2,
-      "text": "Koa izany no tsy hatahorantsika, na dia ho levona aza ny tany, na mifindra ho ao anatin' ny ranomasina aza ny tendrombohitra,"
-    },
-    {
-      "v": 3,
-      "text": "Na mirohondrohona sy misamboaravoara aza ny onjany, ka mihorohoro ny tendrombohitra noho ny fisafoakany.[Sela.]"
-    },
-    {
-      "v": 4,
-      "text": "Misy ony, ka ny sampany dia hampifaly ny tanànan' Andriamanitra, fonena-masin' ny tabernakelin' ny Avo Indrindra."
-    },
-    {
-      "v": 5,
-      "text": "\"Andriamanitra no eo afovoany, ka tsy mba hihetsika izy; Andriamanitra no hamonjy azy, rehefa madiva ho maraina ny andro.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Nitabataba ny jentilisa, nikotrankotrana ny fanjakana; namoaka ny feony Izy, ka niempo ny tany,\""
-    },
-    {
-      "v": 7,
-      "text": "\"Jehovah, Tompon' ny maro, no momba antsika; Andriamanitr' i Jakoba no fialofantsika.[Sela.]\""
-    },
-    {
-      "v": 8,
-      "text": "Avia, jereo ny asan' i Jehovah, Izay mahatonga faharavana ety an-tany."
-    },
-    {
-      "v": 9,
-      "text": "\"Mampitsahatra ady hatramin' ny faran' ny tany Izy; manapaka ny tsipìka sy manito ny lefona izy, ary mandoro ny sarety amin' ny afo;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Mitsahara, ka fantaro fa Izaho no Andriamanitra; hisandratra amin' ny jentilisa Aho, hisandratra amin' ny tany Aho.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Jehovah, Tompon' ny maro, no momba antsika; Andriamanitr' i Jakoba no fialofantsika. [Sela.]\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira, ho an' ny zanak' i Kora. Al-alamoth. Tononkira.]  ANDRIAMANITRA no fialofana sy hery ho antsika; Mpamonjy mora azo indrindra amin' ny fahoriana Izy.",
+    "2": "Koa izany no tsy hatahorantsika, na dia ho levona aza ny tany, na mifindra ho ao anatin' ny ranomasina aza ny tendrombohitra,",
+    "3": "Na mirohondrohona sy misamboaravoara aza ny onjany, ka mihorohoro ny tendrombohitra noho ny fisafoakany.[Sela.]",
+    "4": "Misy ony, ka ny sampany dia hampifaly ny tanànan' Andriamanitra, fonena-masin' ny tabernakelin' ny Avo Indrindra.",
+    "5": "Andriamanitra no eo afovoany, ka tsy mba hihetsika izy; Andriamanitra no hamonjy azy, rehefa madiva ho maraina ny andro.",
+    "6": "Nitabataba ny jentilisa, nikotrankotrana ny fanjakana; namoaka ny feony Izy, ka niempo ny tany,",
+    "7": "Jehovah, Tompon' ny maro, no momba antsika; Andriamanitr' i Jakoba no fialofantsika.[Sela.]",
+    "8": "Avia, jereo ny asan' i Jehovah, Izay mahatonga faharavana ety an-tany.",
+    "9": "Mampitsahatra ady hatramin' ny faran' ny tany Izy; manapaka ny tsipìka sy manito ny lefona izy, ary mandoro ny sarety amin' ny afo;",
+    "10": "Mitsahara, ka fantaro fa Izaho no Andriamanitra; hisandratra amin' ny jentilisa Aho, hisandratra amin' ny tany Aho.",
+    "11": "Jehovah, Tompon' ny maro, no momba antsika; Andriamanitr' i Jakoba no fialofantsika. [Sela.]"
+  }
 }

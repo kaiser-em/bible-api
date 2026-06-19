@@ -1,85 +1,26 @@
 {
+  "book": "Salamo",
   "chapter": 72,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Salamo ho an' i Solomona.]  ANDRIAMANITRA ô, omeo ho an' ny mpanjaka ny fitsaranao, ary ho an' ny zanaky ny mpanjaka ny fahamarinanao."
-    },
-    {
-      "v": 2,
-      "text": "Hitsara ny olonao amin' ny fahamarinana izy, ary ny mahantranao amin' ny rariny."
-    },
-    {
-      "v": 3,
-      "text": "Ny tendrombohitra hahavokatra fiadanana ho an' ny olona, ary ny havoana kely ho amin' ny fahamarinana."
-    },
-    {
-      "v": 4,
-      "text": "Hitsara ny mahantra amin' ny olona Izy sy hamonjy ny zanaky ny mahantra ary hanorotoro ny mpampahory."
-    },
-    {
-      "v": 5,
-      "text": "Hatahotra anao ny olona, raha mbola maharitra koa ny masoandro sy ny volana hatramin' ny taranaka fara mandimby."
-    },
-    {
-      "v": 6,
-      "text": "Hidina tahaka ny ranonorana amin' ny saha voajinja izy, tahaka ny ranonorana manondraka ny tany."
-    },
-    {
-      "v": 7,
-      "text": "Hamony ny marina amin' ny androny, ary ho be ny fiadanana raha mbola maharitra koa ny volana."
-    },
-    {
-      "v": 8,
-      "text": "Ary hanjaka hatramin' ny ranomasina ka hatramin' ny ranomasina izy, ary hatramin' ny ony ka hatramin' ny faran' ny tany."
-    },
-    {
-      "v": 9,
-      "text": "\"Ny mponina any an' efitra hiondrika eo anatrehany; ary ny fahavalony hilelaka ny vovoka.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ny mpanjakan' i Tarsisy sy ny nosy hitondra fanomezana; ny mpanjakan' i Sheba sy Seba hanolotra fanomezana.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Eny, ny mpanjaka rehetra hiankohoka eo anatrehany; ny firenena rehetra hanompo azy.\""
-    },
-    {
-      "v": 12,
-      "text": "Fa hamonjy ny mahantra mitaraina izy sy ny ory tsy manan-kamonjy."
-    },
-    {
-      "v": 13,
-      "text": "Hiantra ny ory sy ny malahelo izy, ary hamonjy ny fanahin' ny mahantra."
-    },
-    {
-      "v": 14,
-      "text": "\"Hanavotra ny fanahiny amin' ny fitaka sy ny fanaovana an-keriny izy; ary ho sarobidy eo imasony ny rany.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Dia ho velona izy ka homena volamena avy any Sheba; hisy vavaka hatao ho azy mandrakariva; ary isan' andro no hiderana azy.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Hahavoka-barimbazaha betsaka ny tany ao an-tampon-tendrombohitra; hirondròna tahaka ny any Libanona ny fahavokarany; ary ireo ao an-tanàna hidokadoka tahaka ny ahitra amin' ny tany.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Haharitra mandrakizay ny anarany; haharitra toy ny faharetan'ny masoandro ny anarany; ary izy no hitahiana ny olona; ny firenena rehetra hanao azy ho sambatra.\""
-    },
-    {
-      "v": 18,
-      "text": "Isaorana anie Jehovah Andriamanitra, Andriamanitry ny Isiraely, izay hany manao zava-mahagaga."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary isaorana mandrakizay anie ny anarany malaza; ary aoka ny tany rehetra ho henika ny voninahiny. Amena dia Amena.\""
-    },
-    {
-      "v": 20,
-      "text": "Tapitra ny fivavak' i Davida, zanak' i Jese."
-    }
-  ]
+  "verses": {
+    "1": "[Salamo ho an' i Solomona.]  ANDRIAMANITRA ô, omeo ho an' ny mpanjaka ny fitsaranao, ary ho an' ny zanaky ny mpanjaka ny fahamarinanao.",
+    "2": "Hitsara ny olonao amin' ny fahamarinana izy, ary ny mahantranao amin' ny rariny.",
+    "3": "Ny tendrombohitra hahavokatra fiadanana ho an' ny olona, ary ny havoana kely ho amin' ny fahamarinana.",
+    "4": "Hitsara ny mahantra amin' ny olona Izy sy hamonjy ny zanaky ny mahantra ary hanorotoro ny mpampahory.",
+    "5": "Hatahotra anao ny olona, raha mbola maharitra koa ny masoandro sy ny volana hatramin' ny taranaka fara mandimby.",
+    "6": "Hidina tahaka ny ranonorana amin' ny saha voajinja izy, tahaka ny ranonorana manondraka ny tany.",
+    "7": "Hamony ny marina amin' ny androny, ary ho be ny fiadanana raha mbola maharitra koa ny volana.",
+    "8": "Ary hanjaka hatramin' ny ranomasina ka hatramin' ny ranomasina izy, ary hatramin' ny ony ka hatramin' ny faran' ny tany.",
+    "9": "Ny mponina any an' efitra hiondrika eo anatrehany; ary ny fahavalony hilelaka ny vovoka.",
+    "10": "Ny mpanjakan' i Tarsisy sy ny nosy hitondra fanomezana; ny mpanjakan' i Sheba sy Seba hanolotra fanomezana.",
+    "11": "Eny, ny mpanjaka rehetra hiankohoka eo anatrehany; ny firenena rehetra hanompo azy.",
+    "12": "Fa hamonjy ny mahantra mitaraina izy sy ny ory tsy manan-kamonjy.",
+    "13": "Hiantra ny ory sy ny malahelo izy, ary hamonjy ny fanahin' ny mahantra.",
+    "14": "Hanavotra ny fanahiny amin' ny fitaka sy ny fanaovana an-keriny izy; ary ho sarobidy eo imasony ny rany.",
+    "15": "Dia ho velona izy ka homena volamena avy any Sheba; hisy vavaka hatao ho azy mandrakariva; ary isan' andro no hiderana azy.",
+    "16": "Hahavoka-barimbazaha betsaka ny tany ao an-tampon-tendrombohitra; hirondròna tahaka ny any Libanona ny fahavokarany; ary ireo ao an-tanàna hidokadoka tahaka ny ahitra amin' ny tany.",
+    "17": "Haharitra mandrakizay ny anarany; haharitra toy ny faharetan'ny masoandro ny anarany; ary izy no hitahiana ny olona; ny firenena rehetra hanao azy ho sambatra.",
+    "18": "Isaorana anie Jehovah Andriamanitra, Andriamanitry ny Isiraely, izay hany manao zava-mahagaga.",
+    "19": "Ary isaorana mandrakizay anie ny anarany malaza; ary aoka ny tany rehetra ho henika ny voninahiny. Amena dia Amena.",
+    "20": "Tapitra ny fivavak' i Davida, zanak' i Jese."
+  }
 }

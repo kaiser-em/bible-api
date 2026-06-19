@@ -1,141 +1,40 @@
 {
+  "book": "Joba",
   "chapter": 41,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Mahasarika ny leviatana amin' ny farango va ianao, na mahafatotra ny lelany amin' ny mahazaka?"
-    },
-    {
-      "v": 2,
-      "text": "Mahisy tady zozoro amin' ny orony va ianao, na mahaboroaka ny valanoranony amin' ny tsilo?"
-    },
-    {
-      "v": 3,
-      "text": "Hifon-jato amin' arivo aminao va izy, na hanao teny malefaka aminao?"
-    },
-    {
-      "v": 4,
-      "text": "Hanao fanekena aminao va izy? Azonao alaina ho mpanomponao mandrakizay va izy?"
-    },
-    {
-      "v": 5,
-      "text": "Hilalao azy tahaka ny filalao voron-kely va ianao? Na hamatotra azy ho an' ny zazavavy ao aminao va ianao?"
-    },
-    {
-      "v": 6,
-      "text": "Hataon' ny mpaka hazandrano varotra va izy, ka hotsinjarainy amin' ny mpandranto?"
-    },
-    {
-      "v": 7,
-      "text": "Mahafeno lefompohy ny hodiny va ianao, na firombaka amin' ny lohany?"
-    },
-    {
-      "v": 8,
-      "text": "Atehefo aminy ange ny tananao, dia tsarovy ny ady ka aza manao intsony."
-    },
-    {
-      "v": 9,
-      "text": "Indro, foana ny fanantenana azy: Tsy mahakivy va na dia ny fijery azy aza?"
-    },
-    {
-      "v": 10,
-      "text": "Tsy misy sahy manao vy very hanaitra azy? Koa iza no mahajanona eo anatrehany?"
-    },
-    {
-      "v": 11,
-      "text": "Iza no efa nanome talohako mba hamaliako azy? Izay rehetra eo ambanin' ny lanitra manontolo dia Ahy."
-    },
-    {
-      "v": 12,
-      "text": "Tsy mbola hangina aho ny amin' ny momba ny tenany sy ny heriny ary ny fahatsaran' ny endriny."
-    },
-    {
-      "v": 13,
-      "text": "Iza no mahasonga ny fitafiany anoloana? Na iza no sahy hiditra ao amin' ny nifiny roa sosona?"
-    },
-    {
-      "v": 14,
-      "text": "Iza no mahasokatra ny varavaran' ny tavany? Mahatsiravina ny nifiny manodidina!"
-    },
-    {
-      "v": 15,
-      "text": "Ny kirany no reharehany, fa mihidy avokoa toy ny voapetaka mafy amin' ny tombo-kase."
-    },
-    {
-      "v": 16,
-      "text": "Mikirindro ireo ka tsy azon' ny rivotra idirana eo anelanelany."
-    },
-    {
-      "v": 17,
-      "text": "Mifanindry lany ireo sady mifaniditra ka tsy azo sarahina."
-    },
-    {
-      "v": 18,
-      "text": "Ny fieviny dia mampamirapiratra fahazavana, ary ny masony dia tahaka ny hodimason' ny maraina."
-    },
-    {
-      "v": 19,
-      "text": "\"Lelafo no mivoaka avy amin' ny vavany; kilalaon' afo no mipariaka avy aminy.\""
-    },
-    {
-      "v": 20,
-      "text": "Ny vavorony dia ivoahan' ny setroka, tahaka ny avy amin' ny vilany mangotraka, na amin' ny fandrahoana."
-    },
-    {
-      "v": 21,
-      "text": "Ny fofonainy mampirehitra arina, ary misy lelafo mivoaka avy amin' ny vavany."
-    },
-    {
-      "v": 22,
-      "text": "\"Ny vozony no itoeran' ny heriny; ary mandeha eo alohany ny fampahatahorana.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Mivalombalona ny hotraka amin' ny tenany; mafy ireny ka tsy azo endahana.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Mafy tahaka ny vato ny fony; eny, mafy tahaka ny vato fikosoham-barim-bazaha ambany.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Raha mitsangana izy, dia raiki-tahotra ny mahery; eny, toran-kovitra ireo ka tsy mahavoa.\""
-    },
-    {
-      "v": 26,
-      "text": "Raha misy mamely azy amin' ny sabatra dia tsy mahalaitra, na amin' ny lefompohy, na ny firombaka, na ny zana-tsipìka."
-    },
-    {
-      "v": 27,
-      "text": "Ataony toy ny mololo ny vy, ary toy ny hazo momoka ny varahina."
-    },
-    {
-      "v": 28,
-      "text": "\"Tsy mampandositra azy ny zana-tsipìka; ataony ho toy ny vodivary ny vaton' antsamotady.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Ataony ho toy ny vodivary koa ny langilangy; ihomehezany ny fanetsehana ny lefona.\""
-    },
-    {
-      "v": 30,
-      "text": "\"Ny takibany dia tahaka ny tavim-bilany maranitra; mamelatra fivelezam-bary maranitra eo amin' ny fotaka izy.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Mampandevy ny lalina ho tahaka ny ao am-bilany izy; manao ny ranomasina ho tahaka ny vilany misy menaka manitra izy.\""
-    },
-    {
-      "v": 32,
-      "text": "Mampahazava ny lalana eo aoriany izy. Ataon' ny olona ho toy ny volo fotsy ny lalina."
-    },
-    {
-      "v": 33,
-      "text": "Tsy misy tahaka azy eny ambonin' ny tany, izay voaforona tsy hahalala tahotra."
-    },
-    {
-      "v": 34,
-      "text": "\"Ny avo rehetra dia jereny avokoa; Mpanjakan' ny zanaky ny mpiavonavona rehetra izy.\""
-    }
-  ]
+  "verses": {
+    "1": "Mahasarika ny leviatana amin' ny farango va ianao, na mahafatotra ny lelany amin' ny mahazaka?",
+    "2": "Mahisy tady zozoro amin' ny orony va ianao, na mahaboroaka ny valanoranony amin' ny tsilo?",
+    "3": "Hifon-jato amin' arivo aminao va izy, na hanao teny malefaka aminao?",
+    "4": "Hanao fanekena aminao va izy? Azonao alaina ho mpanomponao mandrakizay va izy?",
+    "5": "Hilalao azy tahaka ny filalao voron-kely va ianao? Na hamatotra azy ho an' ny zazavavy ao aminao va ianao?",
+    "6": "Hataon' ny mpaka hazandrano varotra va izy, ka hotsinjarainy amin' ny mpandranto?",
+    "7": "Mahafeno lefompohy ny hodiny va ianao, na firombaka amin' ny lohany?",
+    "8": "Atehefo aminy ange ny tananao, dia tsarovy ny ady ka aza manao intsony.",
+    "9": "Indro, foana ny fanantenana azy: Tsy mahakivy va na dia ny fijery azy aza?",
+    "10": "Tsy misy sahy manao vy very hanaitra azy? Koa iza no mahajanona eo anatrehany?",
+    "11": "Iza no efa nanome talohako mba hamaliako azy? Izay rehetra eo ambanin' ny lanitra manontolo dia Ahy.",
+    "12": "Tsy mbola hangina aho ny amin' ny momba ny tenany sy ny heriny ary ny fahatsaran' ny endriny.",
+    "13": "Iza no mahasonga ny fitafiany anoloana? Na iza no sahy hiditra ao amin' ny nifiny roa sosona?",
+    "14": "Iza no mahasokatra ny varavaran' ny tavany? Mahatsiravina ny nifiny manodidina!",
+    "15": "Ny kirany no reharehany, fa mihidy avokoa toy ny voapetaka mafy amin' ny tombo-kase.",
+    "16": "Mikirindro ireo ka tsy azon' ny rivotra idirana eo anelanelany.",
+    "17": "Mifanindry lany ireo sady mifaniditra ka tsy azo sarahina.",
+    "18": "Ny fieviny dia mampamirapiratra fahazavana, ary ny masony dia tahaka ny hodimason' ny maraina.",
+    "19": "Lelafo no mivoaka avy amin' ny vavany; kilalaon' afo no mipariaka avy aminy.",
+    "20": "Ny vavorony dia ivoahan' ny setroka, tahaka ny avy amin' ny vilany mangotraka, na amin' ny fandrahoana.",
+    "21": "Ny fofonainy mampirehitra arina, ary misy lelafo mivoaka avy amin' ny vavany.",
+    "22": "Ny vozony no itoeran' ny heriny; ary mandeha eo alohany ny fampahatahorana.",
+    "23": "Mivalombalona ny hotraka amin' ny tenany; mafy ireny ka tsy azo endahana.",
+    "24": "Mafy tahaka ny vato ny fony; eny, mafy tahaka ny vato fikosoham-barim-bazaha ambany.",
+    "25": "Raha mitsangana izy, dia raiki-tahotra ny mahery; eny, toran-kovitra ireo ka tsy mahavoa.",
+    "26": "Raha misy mamely azy amin' ny sabatra dia tsy mahalaitra, na amin' ny lefompohy, na ny firombaka, na ny zana-tsipìka.",
+    "27": "Ataony toy ny mololo ny vy, ary toy ny hazo momoka ny varahina.",
+    "28": "Tsy mampandositra azy ny zana-tsipìka; ataony ho toy ny vodivary ny vaton' antsamotady.",
+    "29": "Ataony ho toy ny vodivary koa ny langilangy; ihomehezany ny fanetsehana ny lefona.",
+    "30": "Ny takibany dia tahaka ny tavim-bilany maranitra; mamelatra fivelezam-bary maranitra eo amin' ny fotaka izy.",
+    "31": "Mampandevy ny lalina ho tahaka ny ao am-bilany izy; manao ny ranomasina ho tahaka ny vilany misy menaka manitra izy.",
+    "32": "Mampahazava ny lalana eo aoriany izy. Ataon' ny olona ho toy ny volo fotsy ny lalina.",
+    "33": "Tsy misy tahaka azy eny ambonin' ny tany, izay voaforona tsy hahalala tahotra.",
+    "34": "Ny avo rehetra dia jereny avokoa; Mpanjakan' ny zanaky ny mpiavonavona rehetra izy."
+  }
 }

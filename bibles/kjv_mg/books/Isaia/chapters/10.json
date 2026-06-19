@@ -1,141 +1,40 @@
 {
+  "book": "Isaia",
   "chapter": 10,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Loza ho an' izay manao lalàna tsy marina sy izay mpanoratra manoratra fampahoriana;\""
-    },
-    {
-      "v": 2,
-      "text": "Hampialany ny olon-tsahirana amin' ny fitsarana sy hanalany ny rariny tsy ho amin' ny mahantra eo amin' ny oloko, handrobany ny mpitondratena sy hamaboany ny kamboty!"
-    },
-    {
-      "v": 3,
-      "text": "Ary ahoana no hataonareo amin' ny andro famaliana sy amin' ny fandravana izay ho tonga avy lavitra? Ho any amin' iza no handosiranareo hamonjy ny ainareo? Ary aiza no hametrahanareo ny voninahitrareo?"
-    },
-    {
-      "v": 4,
-      "text": "Raha tsy Izaho, dia hihohoka voatsindrin' ny mpifatotra izy sy ho lavo votsindrin' ny voavono. Kanefa, na dia izany rehetra izany aza, dia tsy mbola afaka ihany ny fahatezerany, fa mbola mihinjitra ihany ny tanany."
-    },
-    {
-      "v": 5,
-      "text": "Endrey! ry Asyria, tsorakazon' ny fahatezerako ô, Eny, tehina eny an-tanany ny fahavinirako!"
-    },
-    {
-      "v": 6,
-      "text": "Hamely firenena mihatsaravelatsihy no anirahako azy, ary hamely firenena izay iharan' ny fahatezerako no andidiako azy, hamabo sy handroba ary hanao azy ho fanitsakitsaka tahaka ny fotaka eny an-dalambe."
-    },
-    {
-      "v": 7,
-      "text": "\"Kanjo tsy izany no kasainy, ary tsy izany no heverin' ny fony; fa ny handringana sy ny hamongotra firenena tsy vitsy no ao am-pony.\""
-    },
-    {
-      "v": 8,
-      "text": "Fa hoy izy: Tsy mpanjaka avokoa va ireny governorako ireny?"
-    },
-    {
-      "v": 9,
-      "text": "Tsy tahaka an' i Karkemisy va Kalno? Tsy tahaka an' i Arpada va Hamata? Ary tsy tahaka an' i Damaskosy va Samaria?"
-    },
-    {
-      "v": 10,
-      "text": "Tahaka ny nahatraran' ny tanako ny fanjakan' ny sampy, fa mihoatra noho ny an' i Jerosalema sy ny an' i Samaria ny sarin-javatra voasokitr' ireo,"
-    },
-    {
-      "v": 11,
-      "text": "Dia tsy tahaka ny nataoko tamin' i Samaria sy ny sampiny va no hataoko amin' i Jerosalema sy ny sampiny koa?"
-    },
-    {
-      "v": 12,
-      "text": "\"Koa izao no hiseho, rehefa vitan' ny Tompo ny asany manontolo eo an-tendrombohitra Ziona sy Jerosalema, dia hovaliako kosa ny vokatry ny fiavonavonan' ny fon' ny mpanjakan' i Asyria sy ny reharehan' ny fiandranandran' ny masony;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Fa hoy izy: Tamin' ny herin' ny tanako no nanaovako izany, sy tamin' ny fahendreko, fa mahira-tsaina aho; ary nanaisotra ny fari-tanin' ny olona aho sady namabo ny tahiriny, ary namotraka ny mponina tahaka ny lehilahy mahery aho.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary tahaka ny fakàna ny ao amin' ny akanim-borona no nakàn' ny tanako ny haren' ny firenena; ary tahaka ny famory atody nilaozan-dreniny no namoriako ny tany rehetra, ka tsy nisy nikopaka elatra, na nisoka-bava, na nikiakiaka.\""
-    },
-    {
-      "v": 15,
-      "text": "Hirehareha amin' izay mikapa aminy va ny famaky? Hiavonavona amin' izay manatsofa aminy va ny tsofa? Toy ny tsorakazo, raha mihetsika hanohitra izay manainga azy! Ary toy ny tehina raha manandra-tena toy ny tsy hazo."
-    },
-    {
-      "v": 16,
-      "text": "\"Koa izany no anateran' ny Tompo, dia ny Tompon' ny maro, fahahiazana amin' ny tremalahiny; ary ao ambanin' ny voninahiny dia hisy mirehitra toy ny firehitry ny afo.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ny fahazavan' ny Isiraely ho tonga afo, ary ny Iray Masiny ho tonga lelafo, ka hodorana ho levona indray andro monja ny tsilony sy ny heriny;\""
-    },
-    {
-      "v": 18,
-      "text": "Ary ny voninahitry ny alany sy ny sahany mahavokatra dia holevoniny, na ny fanahiny, na ny nofony, ka ho tahaka ny fahatoranan' ny mpitondra faneva."
-    },
-    {
-      "v": 19,
-      "text": "Ary ho vitsy ny hazo sisa any an' alany ka na dia izay mbola zaza aza hahasoratra azy."
-    },
-    {
-      "v": 20,
-      "text": "Ary izao no hiseho amin' izany andro izany, fa ny sisa amin' ny Isiraely, dia izay afa-mandositra tamin' ny taranak' i Jakoba, dia tsy hiankina amin' izay namely azy intsony. Fa Jehovah, Iray Masin' ny Isiraely ihany no hiankinany marina tokoa."
-    },
-    {
-      "v": 21,
-      "text": "Ny sisa dia ny sisa amin' i Jakoba dia hiverina amin' Andriamanitra Mahery."
-    },
-    {
-      "v": 22,
-      "text": "\"Fa na dia tahaka ny fasika any amin' ny ranomasina aza ny isan' ny Isiraely olonao, dia izay sisa aminy ihany no hiverina; voatendry ny fandringanana izay hanafotra ho famaliana marina;\""
-    },
-    {
-      "v": 23,
-      "text": "Fa fahafonganana voatendry no hataon' i Jehovah, Tompon' ny maro, ao amin' ny tany rehetra."
-    },
-    {
-      "v": 24,
-      "text": "\"Koa izao no lazain' i Jehovah, Tompon' ny maro: Ry oloko, izay monina any Ziona, aza matahotra ny Asyriana; hamely anao amin' ny tsorakazo izy ary hanainga ny tehiny aminao, tahaka ny fanaon' i Egypta;\""
-    },
-    {
-      "v": 25,
-      "text": "Fa rehefa afaka vetivety, dia hitsahatra ny fahavinirany, ary ny fahatezerako dia handringana azy kosa."
-    },
-    {
-      "v": 26,
-      "text": "\"Ary Jehovah, Tompon' ny maro, hamely azy amin' ny kotopia, tahaka ny namelezana ny Midiana teo am-batolampy Oreba; ary ny tsorakazony haingainy eny ambonin' ny ranomasina ka hatsangany tahaka ny fanaon' i Egypta!\""
-    },
-    {
-      "v": 27,
-      "text": "Ary izao no hiseho amin' izany andro izany, ho afaka eo an-tsorokao ny entany, ary ny ziogany ho afaka amin' vozonao, ary ho tapaka ny zioga noho ny hosotra."
-    },
-    {
-      "v": 28,
-      "text": "Injao! tonga any Aiata izy. Mamaky an' i Migrona izy ary mametraka ny entany ao Mikmasy,"
-    },
-    {
-      "v": 29,
-      "text": "\"Mihoatra ao an-kadilanana izy, ao Geba isika no handry, hoy izy; mangovitra Rama, mandositra Gibean' i Saoly.\""
-    },
-    {
-      "v": 30,
-      "text": "\"Asandrato ny feonao, ry zanakavavin' i Galima; ataovy re any Laisy izany, ry Anatota mahantra!\""
-    },
-    {
-      "v": 31,
-      "text": "Lasa nesorina Madmena, miara-miangona handositra ny mponina any Gebima."
-    },
-    {
-      "v": 32,
-      "text": "\"Mbola hitoetra any Noba izy amin' izany andro izany; haninjitra ny tanany hamely ny tendrombohitry ny zanakavavin' i Ziona, havoan' i Jerosalema izy.\""
-    },
-    {
-      "v": 33,
-      "text": "\"Indro, Jehovah, Tompon' ny maro, hanapaka ny rantsana madinika amin' ny heriny mahatahotra; ary izay mijoaka lava hokapaina ary ny avo haetry.\""
-    },
-    {
-      "v": 34,
-      "text": "Hokapainy vy ny ala mikirindro, ary Libanona dia halamaky ny Iray Mahery."
-    }
-  ]
+  "verses": {
+    "1": "Loza ho an' izay manao lalàna tsy marina sy izay mpanoratra manoratra fampahoriana;",
+    "2": "Hampialany ny olon-tsahirana amin' ny fitsarana sy hanalany ny rariny tsy ho amin' ny mahantra eo amin' ny oloko, handrobany ny mpitondratena sy hamaboany ny kamboty!",
+    "3": "Ary ahoana no hataonareo amin' ny andro famaliana sy amin' ny fandravana izay ho tonga avy lavitra? Ho any amin' iza no handosiranareo hamonjy ny ainareo? Ary aiza no hametrahanareo ny voninahitrareo?",
+    "4": "Raha tsy Izaho, dia hihohoka voatsindrin' ny mpifatotra izy sy ho lavo votsindrin' ny voavono. Kanefa, na dia izany rehetra izany aza, dia tsy mbola afaka ihany ny fahatezerany, fa mbola mihinjitra ihany ny tanany.",
+    "5": "Endrey! ry Asyria, tsorakazon' ny fahatezerako ô, Eny, tehina eny an-tanany ny fahavinirako!",
+    "6": "Hamely firenena mihatsaravelatsihy no anirahako azy, ary hamely firenena izay iharan' ny fahatezerako no andidiako azy, hamabo sy handroba ary hanao azy ho fanitsakitsaka tahaka ny fotaka eny an-dalambe.",
+    "7": "Kanjo tsy izany no kasainy, ary tsy izany no heverin' ny fony; fa ny handringana sy ny hamongotra firenena tsy vitsy no ao am-pony.",
+    "8": "Fa hoy izy: Tsy mpanjaka avokoa va ireny governorako ireny?",
+    "9": "Tsy tahaka an' i Karkemisy va Kalno? Tsy tahaka an' i Arpada va Hamata? Ary tsy tahaka an' i Damaskosy va Samaria?",
+    "10": "Tahaka ny nahatraran' ny tanako ny fanjakan' ny sampy, fa mihoatra noho ny an' i Jerosalema sy ny an' i Samaria ny sarin-javatra voasokitr' ireo,",
+    "11": "Dia tsy tahaka ny nataoko tamin' i Samaria sy ny sampiny va no hataoko amin' i Jerosalema sy ny sampiny koa?",
+    "12": "Koa izao no hiseho, rehefa vitan' ny Tompo ny asany manontolo eo an-tendrombohitra Ziona sy Jerosalema, dia hovaliako kosa ny vokatry ny fiavonavonan' ny fon' ny mpanjakan' i Asyria sy ny reharehan' ny fiandranandran' ny masony;",
+    "13": "Fa hoy izy: Tamin' ny herin' ny tanako no nanaovako izany, sy tamin' ny fahendreko, fa mahira-tsaina aho; ary nanaisotra ny fari-tanin' ny olona aho sady namabo ny tahiriny, ary namotraka ny mponina tahaka ny lehilahy mahery aho.",
+    "14": "Ary tahaka ny fakàna ny ao amin' ny akanim-borona no nakàn' ny tanako ny haren' ny firenena; ary tahaka ny famory atody nilaozan-dreniny no namoriako ny tany rehetra, ka tsy nisy nikopaka elatra, na nisoka-bava, na nikiakiaka.",
+    "15": "Hirehareha amin' izay mikapa aminy va ny famaky? Hiavonavona amin' izay manatsofa aminy va ny tsofa? Toy ny tsorakazo, raha mihetsika hanohitra izay manainga azy! Ary toy ny tehina raha manandra-tena toy ny tsy hazo.",
+    "16": "Koa izany no anateran' ny Tompo, dia ny Tompon' ny maro, fahahiazana amin' ny tremalahiny; ary ao ambanin' ny voninahiny dia hisy mirehitra toy ny firehitry ny afo.",
+    "17": "Ary ny fahazavan' ny Isiraely ho tonga afo, ary ny Iray Masiny ho tonga lelafo, ka hodorana ho levona indray andro monja ny tsilony sy ny heriny;",
+    "18": "Ary ny voninahitry ny alany sy ny sahany mahavokatra dia holevoniny, na ny fanahiny, na ny nofony, ka ho tahaka ny fahatoranan' ny mpitondra faneva.",
+    "19": "Ary ho vitsy ny hazo sisa any an' alany ka na dia izay mbola zaza aza hahasoratra azy.",
+    "20": "Ary izao no hiseho amin' izany andro izany, fa ny sisa amin' ny Isiraely, dia izay afa-mandositra tamin' ny taranak' i Jakoba, dia tsy hiankina amin' izay namely azy intsony. Fa Jehovah, Iray Masin' ny Isiraely ihany no hiankinany marina tokoa.",
+    "21": "Ny sisa dia ny sisa amin' i Jakoba dia hiverina amin' Andriamanitra Mahery.",
+    "22": "Fa na dia tahaka ny fasika any amin' ny ranomasina aza ny isan' ny Isiraely olonao, dia izay sisa aminy ihany no hiverina; voatendry ny fandringanana izay hanafotra ho famaliana marina;",
+    "23": "Fa fahafonganana voatendry no hataon' i Jehovah, Tompon' ny maro, ao amin' ny tany rehetra.",
+    "24": "Koa izao no lazain' i Jehovah, Tompon' ny maro: Ry oloko, izay monina any Ziona, aza matahotra ny Asyriana; hamely anao amin' ny tsorakazo izy ary hanainga ny tehiny aminao, tahaka ny fanaon' i Egypta;",
+    "25": "Fa rehefa afaka vetivety, dia hitsahatra ny fahavinirany, ary ny fahatezerako dia handringana azy kosa.",
+    "26": "Ary Jehovah, Tompon' ny maro, hamely azy amin' ny kotopia, tahaka ny namelezana ny Midiana teo am-batolampy Oreba; ary ny tsorakazony haingainy eny ambonin' ny ranomasina ka hatsangany tahaka ny fanaon' i Egypta!",
+    "27": "Ary izao no hiseho amin' izany andro izany, ho afaka eo an-tsorokao ny entany, ary ny ziogany ho afaka amin' vozonao, ary ho tapaka ny zioga noho ny hosotra.",
+    "28": "Injao! tonga any Aiata izy. Mamaky an' i Migrona izy ary mametraka ny entany ao Mikmasy,",
+    "29": "Mihoatra ao an-kadilanana izy, ao Geba isika no handry, hoy izy; mangovitra Rama, mandositra Gibean' i Saoly.",
+    "30": "Asandrato ny feonao, ry zanakavavin' i Galima; ataovy re any Laisy izany, ry Anatota mahantra!",
+    "31": "Lasa nesorina Madmena, miara-miangona handositra ny mponina any Gebima.",
+    "32": "Mbola hitoetra any Noba izy amin' izany andro izany; haninjitra ny tanany hamely ny tendrombohitry ny zanakavavin' i Ziona, havoan' i Jerosalema izy.",
+    "33": "Indro, Jehovah, Tompon' ny maro, hanapaka ny rantsana madinika amin' ny heriny mahatahotra; ary izay mijoaka lava hokapaina ary ny avo haetry.",
+    "34": "Hokapainy vy ny ala mikirindro, ary Libanona dia halamaky ny Iray Mahery."
+  }
 }

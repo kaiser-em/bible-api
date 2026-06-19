@@ -1,189 +1,52 @@
 {
+  "book": "Jeremia",
   "chapter": 50,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ny tenin' i Jehovah nampilazainy an' i Jeremia mpaminany hamelezana an' i Babylona sy ny tanin' ny Kaldeana."
-    },
-    {
-      "v": 2,
-      "text": "\"Ambaraonareo eny amin' ny firenena, ka aelezo ary manangàna faneva, aelezo, ka aza afenina; lazao hoe: Afaka Babylona, very hevitra Bela, torotoro Merodaka; mangaihay ny sampiny, torotoro ny sarin-javany.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Fa misy firenena avy any avaratra miakatra hamely azy ka hahatonga ny taniny ho lao tsy hisy mponina intsony; fa na ny olona na ny biby dia samy handositra ka ho lasa avokoa.\""
-    },
-    {
-      "v": 4,
-      "text": "Amin' izany andro izany sy amin' izany fotoana izany, hoy Jehovah, dia ho avy ny Zanak' Isiraely, dia izy sy ny taranak' i Joda hiara-mandeha sady hitomany, handeha izy ka hitady an' i Jehovah Andriamaniny."
-    },
-    {
-      "v": 5,
-      "text": "Hanontany ny lalana mankany Ziona izy sady hanatrika any ny tavany ka hanao hoe: Avia, ka aoka isika hikambana amin' i Jehovah amin' ny fanekena mandrakizay izay tsy hohadinoina."
-    },
-    {
-      "v": 6,
-      "text": "\"Ondry very ny oloko, ny mpiandry azy no nampirenireny azy, nampirenireny azy teny an-tendrombohitra izy; nirenireny avy tany an-tendrombohitra mankany amin' ny havoana izy, hadinony ny toerana fandriany.\""
-    },
-    {
-      "v": 7,
-      "text": "Izay rehetra nahita azy dia nandany azy, ary ny fahavalony nanao hoe: Tsy manan-keloka izahay, satria izy efa nanota tamin' i Jehovah, fonenan' ny fahamarinana, dia Jehovah, fanantenan' ny razany."
-    },
-    {
-      "v": 8,
-      "text": "Mandosira hiala an' i Babylona ary mialà amin' ny tanin' ny Kaldeana, ary aoka ianareo ho tahaka ny osilahy izay tari-dalan' ny ondry aman' osy andiany."
-    },
-    {
-      "v": 9,
-      "text": "\"Fa, indro, Izaho hampirisika sy hampiakatra firenena lehibe manao andiany avy any avaratra hamely an' i Babylona; ary hilahatra hamely azy ireo, ka avy ao no hanafahany azy; ny zana-tsipìkany ho tahaka ny lehilahy mahery sady mahay, izay tsy hiverina foana.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary Kaldea ho voababo; izay rehetra mamabo azy dia ho afa-po, hoy Jehovah.\""
-    },
-    {
-      "v": 11,
-      "text": "Satria nifaly ianareo, satria niravoravo ianareo, ry mpandrava ny lovako, satria mihamatavy toy ny ombivavy kely eny amin' ny ahitra ianareo, sady mitrena toy ny ombilahy,"
-    },
-    {
-      "v": 12,
-      "text": "\"Dia ho very hevitra indrindra ny reninareo, ho menatra ilay niteraka anareo; indro, ny faran' ny firenena ho efitra sy tany karankaina ary tani-hay.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Noho ny fahatezeran' i Jehovah dia tsy honenana Babylona, fa ho tonga tany lao tanteraka; izay rehetra mandalo azy dia ho gaga ka hisitrisitra noho ny loza rehetra eo aminy.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Milahara manodidina hamely an' i Babylona, ianareo rehetra izay manenjana tsipìka; asio izy, fa aza tsitsina ny zana-tsipìka, fa tamin' i Jehovah no nanotany.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Akoray manodidina izy, fa efa nikoy! Rava ny fanorenany, nirodana ny bateriny, fa famalian' i Jehovah izany; Valio izy, toy ny efa nataony no mba ataovinareo aminy kosa.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Aringano tsy ho any Babylona ny mpamafy sy izay mitana fijinjana amin' ny taom-pijinjana; fa noho ny tahotra ny sabatra mandoza dia samy hihodina ho any amin' ny fireneny avy izy, ary samy handositra ho any amin' ny taniny avy.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ondry iray voavily ny Isiraely; ny liona no nampandositra azy, voalohany dia ny mpanjakan' i Asyria no nandany azy; ary farany dia ity Nebokadnezara mpanjakan' ny Babylona ity no nanapaka ny taolany.\""
-    },
-    {
-      "v": 18,
-      "text": "Koa izao no lazain' i Jehovah Tompon' ny maro, Andriamanitry ny Isiraely: Indro, hofaiziko ny mpanjakan' i Babylona sy ny taniny, toy ny efa namaizako ny mpanjakan' i Asyria."
-    },
-    {
-      "v": 19,
-      "text": "Ary hoentiko any amin' ny fonenany indray ny Isiraely, ka hihinana ao Karmela sy Basana izy, ary any an-tendrombohitr' i Efraima sy Gileada no hahavoky ny fanahiny."
-    },
-    {
-      "v": 20,
-      "text": "\"Amin' izany andro izany sy amin' izany fotoana izany, hoy Jehovah, dia hotadiavina izay heloky ny Isiraely, fa tsy hisy; ary izay fahotan' ny Joda, fa tsy ho hita; satria havelako ny helok' izay sisa narovako.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Iakaro ny tanin' i Merataima, hamelezana azy, sy hamelezana ny mponina ao Pakoda; ravao sy haringano tanteraka, hoy Jehovah, ary manaova araka izay rehetra nandidiako anao.\""
-    },
-    {
-      "v": 22,
-      "text": "Misy tabataban' ady amin' ny tany sy fandringanana be."
-    },
-    {
-      "v": 23,
-      "text": "\"Indrisy, tapaka sy torotoro ny tantanan' ny tany rehetra; indrisy, Babylona efa tonga foana amin' ny firenena !\""
-    },
-    {
-      "v": 24,
-      "text": "\"Nofandrihako ianao, ry Babylona, ka voa, nefa tsy fantatrao akory; hita ka voasambotra koa ianao, satria nila ady tamin' i Jehovah.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Novohan' i Jehovah ny firaketan' ny fitaovam-piadiany, ka navoakany ny fitaovan' ny fahatezerany; fa izao no asan' i Jehovah Tompon' ny maro any amin' ny tanin' ny Kaldeana.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Avia hamely azy avy amin' ny faran' ny tany, sokafy ny trano firaketany; atobitobio toy ny antontam-barimbazaha izy.\""
-    },
-    {
-      "v": 27,
-      "text": "Vonoy ireo ombilahiny rehetra, ary aoka hidina ho any amin' ny famonoana izy. Loza ho azy ireo! fa tonga ny androny, dia ny fotoana hamaliana azy."
-    },
-    {
-      "v": 28,
-      "text": "Injany! misy feon' izay mandositra sy izay afaka avy any amin' ny tany Babylona, hanambara ny famalian' i Jehovah Andriamanitsika ao Ziona, dia ny famaliana noho ny tempoliny."
-    },
-    {
-      "v": 29,
-      "text": "\"Antsoy ny mpandefa zana-tsipìka hamely an' i Babylona, dia ianareo mpanenjana tsipìka rehetra; mitobia manodidina hamely azy; aoka tsy hisy ho afaka izy; valio araka ny asany izy, eny, araka ny asa rehetra nataony no mba ataovy aminy kosa; fa niavonavona tamin' i Jehovah izy, dia tamin' ny Iray Masin' ny Isiraely.\""
-    },
-    {
-      "v": 30,
-      "text": "Koa ho lavo eny an-kalalahana ny zatovony, ary ho ringana ny miaramilany rehetra amin' izany andro izany, hoy Jehovah."
-    },
-    {
-      "v": 31,
-      "text": "\"Indro hamely anao Aho ry mpiavonavona indrindra, hoy Jehovah Tompon' ny maro; fa tonga ny andronao, dia ny fotoana hamaliako anao.\""
-    },
-    {
-      "v": 32,
-      "text": "\"Ary ho tafintohina sy lavo ilay mpiavonavona indrindra, ka tsy hisy hanarina azy; ary handrehitra afo ao an-tanànany Aho, ka handevona ny manodidina azy rehetra izany.\""
-    },
-    {
-      "v": 33,
-      "text": "\"Izao no lazain' i Jehovah, Tompon' ny maro: Niara-nampahorina ny Zanak' Isiraely sy ny taranak' i Joda; ary izay rehetra namabo azy dia nihazona azy mafy ka tsy nety nandefa azy.\""
-    },
-    {
-      "v": 34,
-      "text": "\"Mahery ny Mpanavotra azy, Jehovah, Tompon' ny maro no anarany; handahatra ny adiny tokoa Izy, mba hampiadana ny tany sy hampangovitra ny mponina any Babylona kosa.\""
-    },
-    {
-      "v": 35,
-      "text": "Misy sabatra mamely ny Kaldeana mbamin' ny mponina any Babylona sy ny mpanapaka azy ary ny olon-kendriny, hoy Jehovah."
-    },
-    {
-      "v": 36,
-      "text": "\"Ny sabatra mamely ny mpandainga, ka ho very saina izy; ny sabatra mamely ny lehilahy maheriny ka hivadi-po izy.\""
-    },
-    {
-      "v": 37,
-      "text": "\"Ny sabatra mamely ny soavaliny sy ny kalesiny mbamin' ny olona samy hafa firenena rehetra ao aminy; ka ho tonga toy ny vehivavy izy; hamely ny firaketany ny sabatra, ka horobaina izy.\""
-    },
-    {
-      "v": 38,
-      "text": "\"Ny fihantonan' ny andro no mahatankina ny ranony; fa tany misy sarin-javatra voasokitra izy, ary ny sampiny no mahadala azy.\""
-    },
-    {
-      "v": 39,
-      "text": "\"Koa ny biby dia any an' efitra sy ny biby dia eny amin' ny nosy no honina ao, ary ny vorondolo no honina ao; ary tsy honenana intsony mandrakizay izy na hitoerana hatramin' ny taranaka fara mandimby.\""
-    },
-    {
-      "v": 40,
-      "text": "Toy ny nandravan' Andriamanitra an' i Sodoma sy Gomora mbamin' ny tanàna eny akaikiny, hoy Jehovah, no tsy hisian' olona honina any na zanak' olombelona hitoetra any."
-    },
-    {
-      "v": 41,
-      "text": "Indro, hisy firenena avy any avaratra, dia firenena lehibe sy mpanjaka maro no hitsangana avy any amin' ny faran' ny tany."
-    },
-    {
-      "v": 42,
-      "text": "\"Tsipìka sy lefona no hoentiny; lozabe sy tsy mampiseho famindrampo izy, ny feony dia hirohondrohona toy ny ranomasina sady hitaingin-tsoavaly izy ary voaomana tahaka ny lehilahy ho amin' ny ady, hamely anao ry zanakavavin' i Babylona.\""
-    },
-    {
-      "v": 43,
-      "text": "\"Efa ren' ny mpanjakan' i Babylona ny lazany ka niraviravy tanana izy; tebiteby no nahazo azy, ary fanaintainana tahaka ny vehivavy mihetsi-jaza.\""
-    },
-    {
-      "v": 44,
-      "text": "Indro, hiakatra hamely ny fonenan' ny mahery izy, toy ny liona avy amin' ny fahatondrahan' i Jordana, fa hampandosiriko tampoka izy hiala ao, ary iza no olona iray voafidy hotendreko hanapaka azy? Fa iza moa no tahaka Ahy, ary iza no hanendry fotoana ho ahy, ary iza no mpiandry ondry hahajanona eo anatrehako?"
-    },
-    {
-      "v": 45,
-      "text": "\"Koa henoy ny saina avy amin' i Jehovah izay nosaininy hamelezana an' i Babylona sy ny zava-kendreny izay noheveriny hamelezana ny tanin' ny Kaldeana; ny kely indrindra amin' ny ondry no hamoaka azy tokoa, ary hofoanany miaraka aminy tokoa ny fonenany.\""
-    },
-    {
-      "v": 46,
-      "text": "Noho ny feo amin' ny fanafahana an' i Babylona dia mihorohoro ny tany, ary ny fitarainana dia re any amin'ny firenena."
-    }
-  ]
+  "verses": {
+    "1": "Ny tenin' i Jehovah nampilazainy an' i Jeremia mpaminany hamelezana an' i Babylona sy ny tanin' ny Kaldeana.",
+    "2": "Ambaraonareo eny amin' ny firenena, ka aelezo ary manangàna faneva, aelezo, ka aza afenina; lazao hoe: Afaka Babylona, very hevitra Bela, torotoro Merodaka; mangaihay ny sampiny, torotoro ny sarin-javany.",
+    "3": "Fa misy firenena avy any avaratra miakatra hamely azy ka hahatonga ny taniny ho lao tsy hisy mponina intsony; fa na ny olona na ny biby dia samy handositra ka ho lasa avokoa.",
+    "4": "Amin' izany andro izany sy amin' izany fotoana izany, hoy Jehovah, dia ho avy ny Zanak' Isiraely, dia izy sy ny taranak' i Joda hiara-mandeha sady hitomany, handeha izy ka hitady an' i Jehovah Andriamaniny.",
+    "5": "Hanontany ny lalana mankany Ziona izy sady hanatrika any ny tavany ka hanao hoe: Avia, ka aoka isika hikambana amin' i Jehovah amin' ny fanekena mandrakizay izay tsy hohadinoina.",
+    "6": "Ondry very ny oloko, ny mpiandry azy no nampirenireny azy, nampirenireny azy teny an-tendrombohitra izy; nirenireny avy tany an-tendrombohitra mankany amin' ny havoana izy, hadinony ny toerana fandriany.",
+    "7": "Izay rehetra nahita azy dia nandany azy, ary ny fahavalony nanao hoe: Tsy manan-keloka izahay, satria izy efa nanota tamin' i Jehovah, fonenan' ny fahamarinana, dia Jehovah, fanantenan' ny razany.",
+    "8": "Mandosira hiala an' i Babylona ary mialà amin' ny tanin' ny Kaldeana, ary aoka ianareo ho tahaka ny osilahy izay tari-dalan' ny ondry aman' osy andiany.",
+    "9": "Fa, indro, Izaho hampirisika sy hampiakatra firenena lehibe manao andiany avy any avaratra hamely an' i Babylona; ary hilahatra hamely azy ireo, ka avy ao no hanafahany azy; ny zana-tsipìkany ho tahaka ny lehilahy mahery sady mahay, izay tsy hiverina foana.",
+    "10": "Ary Kaldea ho voababo; izay rehetra mamabo azy dia ho afa-po, hoy Jehovah.",
+    "11": "Satria nifaly ianareo, satria niravoravo ianareo, ry mpandrava ny lovako, satria mihamatavy toy ny ombivavy kely eny amin' ny ahitra ianareo, sady mitrena toy ny ombilahy,",
+    "12": "Dia ho very hevitra indrindra ny reninareo, ho menatra ilay niteraka anareo; indro, ny faran' ny firenena ho efitra sy tany karankaina ary tani-hay.",
+    "13": "Noho ny fahatezeran' i Jehovah dia tsy honenana Babylona, fa ho tonga tany lao tanteraka; izay rehetra mandalo azy dia ho gaga ka hisitrisitra noho ny loza rehetra eo aminy.",
+    "14": "Milahara manodidina hamely an' i Babylona, ianareo rehetra izay manenjana tsipìka; asio izy, fa aza tsitsina ny zana-tsipìka, fa tamin' i Jehovah no nanotany.",
+    "15": "Akoray manodidina izy, fa efa nikoy! Rava ny fanorenany, nirodana ny bateriny, fa famalian' i Jehovah izany; Valio izy, toy ny efa nataony no mba ataovinareo aminy kosa.",
+    "16": "Aringano tsy ho any Babylona ny mpamafy sy izay mitana fijinjana amin' ny taom-pijinjana; fa noho ny tahotra ny sabatra mandoza dia samy hihodina ho any amin' ny fireneny avy izy, ary samy handositra ho any amin' ny taniny avy.",
+    "17": "Ondry iray voavily ny Isiraely; ny liona no nampandositra azy, voalohany dia ny mpanjakan' i Asyria no nandany azy; ary farany dia ity Nebokadnezara mpanjakan' ny Babylona ity no nanapaka ny taolany.",
+    "18": "Koa izao no lazain' i Jehovah Tompon' ny maro, Andriamanitry ny Isiraely: Indro, hofaiziko ny mpanjakan' i Babylona sy ny taniny, toy ny efa namaizako ny mpanjakan' i Asyria.",
+    "19": "Ary hoentiko any amin' ny fonenany indray ny Isiraely, ka hihinana ao Karmela sy Basana izy, ary any an-tendrombohitr' i Efraima sy Gileada no hahavoky ny fanahiny.",
+    "20": "Amin' izany andro izany sy amin' izany fotoana izany, hoy Jehovah, dia hotadiavina izay heloky ny Isiraely, fa tsy hisy; ary izay fahotan' ny Joda, fa tsy ho hita; satria havelako ny helok' izay sisa narovako.",
+    "21": "Iakaro ny tanin' i Merataima, hamelezana azy, sy hamelezana ny mponina ao Pakoda; ravao sy haringano tanteraka, hoy Jehovah, ary manaova araka izay rehetra nandidiako anao.",
+    "22": "Misy tabataban' ady amin' ny tany sy fandringanana be.",
+    "23": "Indrisy, tapaka sy torotoro ny tantanan' ny tany rehetra; indrisy, Babylona efa tonga foana amin' ny firenena !",
+    "24": "Nofandrihako ianao, ry Babylona, ka voa, nefa tsy fantatrao akory; hita ka voasambotra koa ianao, satria nila ady tamin' i Jehovah.",
+    "25": "Novohan' i Jehovah ny firaketan' ny fitaovam-piadiany, ka navoakany ny fitaovan' ny fahatezerany; fa izao no asan' i Jehovah Tompon' ny maro any amin' ny tanin' ny Kaldeana.",
+    "26": "Avia hamely azy avy amin' ny faran' ny tany, sokafy ny trano firaketany; atobitobio toy ny antontam-barimbazaha izy.",
+    "27": "Vonoy ireo ombilahiny rehetra, ary aoka hidina ho any amin' ny famonoana izy. Loza ho azy ireo! fa tonga ny androny, dia ny fotoana hamaliana azy.",
+    "28": "Injany! misy feon' izay mandositra sy izay afaka avy any amin' ny tany Babylona, hanambara ny famalian' i Jehovah Andriamanitsika ao Ziona, dia ny famaliana noho ny tempoliny.",
+    "29": "Antsoy ny mpandefa zana-tsipìka hamely an' i Babylona, dia ianareo mpanenjana tsipìka rehetra; mitobia manodidina hamely azy; aoka tsy hisy ho afaka izy; valio araka ny asany izy, eny, araka ny asa rehetra nataony no mba ataovy aminy kosa; fa niavonavona tamin' i Jehovah izy, dia tamin' ny Iray Masin' ny Isiraely.",
+    "30": "Koa ho lavo eny an-kalalahana ny zatovony, ary ho ringana ny miaramilany rehetra amin' izany andro izany, hoy Jehovah.",
+    "31": "Indro hamely anao Aho ry mpiavonavona indrindra, hoy Jehovah Tompon' ny maro; fa tonga ny andronao, dia ny fotoana hamaliako anao.",
+    "32": "Ary ho tafintohina sy lavo ilay mpiavonavona indrindra, ka tsy hisy hanarina azy; ary handrehitra afo ao an-tanànany Aho, ka handevona ny manodidina azy rehetra izany.",
+    "33": "Izao no lazain' i Jehovah, Tompon' ny maro: Niara-nampahorina ny Zanak' Isiraely sy ny taranak' i Joda; ary izay rehetra namabo azy dia nihazona azy mafy ka tsy nety nandefa azy.",
+    "34": "Mahery ny Mpanavotra azy, Jehovah, Tompon' ny maro no anarany; handahatra ny adiny tokoa Izy, mba hampiadana ny tany sy hampangovitra ny mponina any Babylona kosa.",
+    "35": "Misy sabatra mamely ny Kaldeana mbamin' ny mponina any Babylona sy ny mpanapaka azy ary ny olon-kendriny, hoy Jehovah.",
+    "36": "Ny sabatra mamely ny mpandainga, ka ho very saina izy; ny sabatra mamely ny lehilahy maheriny ka hivadi-po izy.",
+    "37": "Ny sabatra mamely ny soavaliny sy ny kalesiny mbamin' ny olona samy hafa firenena rehetra ao aminy; ka ho tonga toy ny vehivavy izy; hamely ny firaketany ny sabatra, ka horobaina izy.",
+    "38": "Ny fihantonan' ny andro no mahatankina ny ranony; fa tany misy sarin-javatra voasokitra izy, ary ny sampiny no mahadala azy.",
+    "39": "Koa ny biby dia any an' efitra sy ny biby dia eny amin' ny nosy no honina ao, ary ny vorondolo no honina ao; ary tsy honenana intsony mandrakizay izy na hitoerana hatramin' ny taranaka fara mandimby.",
+    "40": "Toy ny nandravan' Andriamanitra an' i Sodoma sy Gomora mbamin' ny tanàna eny akaikiny, hoy Jehovah, no tsy hisian' olona honina any na zanak' olombelona hitoetra any.",
+    "41": "Indro, hisy firenena avy any avaratra, dia firenena lehibe sy mpanjaka maro no hitsangana avy any amin' ny faran' ny tany.",
+    "42": "Tsipìka sy lefona no hoentiny; lozabe sy tsy mampiseho famindrampo izy, ny feony dia hirohondrohona toy ny ranomasina sady hitaingin-tsoavaly izy ary voaomana tahaka ny lehilahy ho amin' ny ady, hamely anao ry zanakavavin' i Babylona.",
+    "43": "Efa ren' ny mpanjakan' i Babylona ny lazany ka niraviravy tanana izy; tebiteby no nahazo azy, ary fanaintainana tahaka ny vehivavy mihetsi-jaza.",
+    "44": "Indro, hiakatra hamely ny fonenan' ny mahery izy, toy ny liona avy amin' ny fahatondrahan' i Jordana, fa hampandosiriko tampoka izy hiala ao, ary iza no olona iray voafidy hotendreko hanapaka azy? Fa iza moa no tahaka Ahy, ary iza no hanendry fotoana ho ahy, ary iza no mpiandry ondry hahajanona eo anatrehako?",
+    "45": "Koa henoy ny saina avy amin' i Jehovah izay nosaininy hamelezana an' i Babylona sy ny zava-kendreny izay noheveriny hamelezana ny tanin' ny Kaldeana; ny kely indrindra amin' ny ondry no hamoaka azy tokoa, ary hofoanany miaraka aminy tokoa ny fonenany.",
+    "46": "Noho ny feo amin' ny fanafahana an' i Babylona dia mihorohoro ny tany, ary ny fitarainana dia re any amin'ny firenena."
+  }
 }

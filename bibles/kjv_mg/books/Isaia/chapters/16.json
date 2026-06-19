@@ -1,61 +1,20 @@
 {
+  "book": "Isaia",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Atero ny zanak' ondrin' ny mpanapaka ny tany, hatrao Sela ka mamaky ny efitra, hatramin' ny tendrombohitry ny zanakavavin' i Ziona."
-    },
-    {
-      "v": 2,
-      "text": "Fa izao no hisy, tahaka ny vorona notairina niala tamin' ny akaniny ka mirenireny foana, dia ho toy izany ny zanakavavin' i Moaba ao amin' ny fitàna any Arnona."
-    },
-    {
-      "v": 3,
-      "text": "\"Makà saina, manaova ny rariny; ataovy tahaka ny alina ny alokao, na dia amin' ilay andro mitataovovonana iny aza; afeno izay voaroaka, ary aza aseho izay mandositra!\""
-    },
-    {
-      "v": 4,
-      "text": "\"Aoka hitoetra ao aminao ny oloko voaroaka, ry Moaba; aoka ho fiarovana ho azy amin' ny mpanimba ianao; tapitra ny mpanao an-keriny, nitsahatra ny mpanimba, levona tsy ho amin' ny tany ny mpanosihosy.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary ny sezafiandrianana dia hampitoerina amin' ny famindrampo ary izy hipetraka eo aminy amin' ny fahamarinana ao an-dain' i Davida ka hitsara sy handinika izay rariny sady ho faingam-pamoaka ny marina."
-    },
-    {
-      "v": 6,
-      "text": "Efa renay ny fiavonavonan' i Moaba, fatra-piavonavona loatra izy, dia ny fireharehany sy ny fiavonavonany sy ny fahatezerany, nefa tsy ho araka izany ny laingany."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary noho izany Moaba dia hidradradradra an' i Moaba, eny, samy hidradradradra avokoa izy rehetra; fa hitomany ny faharavan' i Kira-haresa ianareo ka ho ory indrindra.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Fa malazo avokoa ny sahan' i Hesbona sy ny voalobok' i Sibma; norantsanan' ny andrianan' ny jentilisa ny sakeliny; tonga hatrany Jazera sy nisandrahaka tany an' efitra izy, ny sampany nandadilady ka tafita ny ranomasina.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Koa izany no hitomaniako ny voalobok' i Sibma, miaraka amin' ny fitomaniana an' i Jazera; handena anao amin' ny ranomasoko aho, ry Hesbona sy Elale; fa ny fihobiana amin' ny vokatrao lohataona sy ny fararanonao dia foana.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ny hafaliana sy ny haravoravoana efa nesorina tamin' ny saha mahavokatra, ka tsy hisy hoby na horakoraka ao amin' ny tanimboaloboka; ny mpanosihosy tsy hanosihosy divay ao amin' ny famiazana intsony; efa natsahatro ny fihobiana amin' ny fararano.\""
-    },
-    {
-      "v": 11,
-      "text": "Koa noho izany ny tsinaiko dia mitaraina manao feon' ny harpa noho ny amin' i Moaba, ary ny ato anatiko noho ny amin' i Kira-haresa."
-    },
-    {
-      "v": 12,
-      "text": "Ary izao no hiseho, rehefa hita fa sasatra ao amin' ny fitoerana avo Moaba, ka hankao amin' ny fitoerany masina mba hivavaka, dia tsy hahazo na inona na inona izy."
-    },
-    {
-      "v": 13,
-      "text": "Izany no tenin' i Jehovah nataony fahiny ny amin' i Moaba."
-    },
-    {
-      "v": 14,
-      "text": "Ary ankehitriny Jehovah dia efa niteny hoe: ao anatin' ny telo taona, tahaka ny taonan' ny mpikarama, dia ho tsinontsinona ny voninahitr' i Moaba, na dia manana vahoaka betsaka aza, ary izay sisa dia ho vitsy sy osa."
-    }
-  ]
+  "verses": {
+    "1": "Atero ny zanak' ondrin' ny mpanapaka ny tany, hatrao Sela ka mamaky ny efitra, hatramin' ny tendrombohitry ny zanakavavin' i Ziona.",
+    "2": "Fa izao no hisy, tahaka ny vorona notairina niala tamin' ny akaniny ka mirenireny foana, dia ho toy izany ny zanakavavin' i Moaba ao amin' ny fitàna any Arnona.",
+    "3": "Makà saina, manaova ny rariny; ataovy tahaka ny alina ny alokao, na dia amin' ilay andro mitataovovonana iny aza; afeno izay voaroaka, ary aza aseho izay mandositra!",
+    "4": "Aoka hitoetra ao aminao ny oloko voaroaka, ry Moaba; aoka ho fiarovana ho azy amin' ny mpanimba ianao; tapitra ny mpanao an-keriny, nitsahatra ny mpanimba, levona tsy ho amin' ny tany ny mpanosihosy.",
+    "5": "Ary ny sezafiandrianana dia hampitoerina amin' ny famindrampo ary izy hipetraka eo aminy amin' ny fahamarinana ao an-dain' i Davida ka hitsara sy handinika izay rariny sady ho faingam-pamoaka ny marina.",
+    "6": "Efa renay ny fiavonavonan' i Moaba, fatra-piavonavona loatra izy, dia ny fireharehany sy ny fiavonavonany sy ny fahatezerany, nefa tsy ho araka izany ny laingany.",
+    "7": "Ary noho izany Moaba dia hidradradradra an' i Moaba, eny, samy hidradradradra avokoa izy rehetra; fa hitomany ny faharavan' i Kira-haresa ianareo ka ho ory indrindra.",
+    "8": "Fa malazo avokoa ny sahan' i Hesbona sy ny voalobok' i Sibma; norantsanan' ny andrianan' ny jentilisa ny sakeliny; tonga hatrany Jazera sy nisandrahaka tany an' efitra izy, ny sampany nandadilady ka tafita ny ranomasina.",
+    "9": "Koa izany no hitomaniako ny voalobok' i Sibma, miaraka amin' ny fitomaniana an' i Jazera; handena anao amin' ny ranomasoko aho, ry Hesbona sy Elale; fa ny fihobiana amin' ny vokatrao lohataona sy ny fararanonao dia foana.",
+    "10": "Ny hafaliana sy ny haravoravoana efa nesorina tamin' ny saha mahavokatra, ka tsy hisy hoby na horakoraka ao amin' ny tanimboaloboka; ny mpanosihosy tsy hanosihosy divay ao amin' ny famiazana intsony; efa natsahatro ny fihobiana amin' ny fararano.",
+    "11": "Koa noho izany ny tsinaiko dia mitaraina manao feon' ny harpa noho ny amin' i Moaba, ary ny ato anatiko noho ny amin' i Kira-haresa.",
+    "12": "Ary izao no hiseho, rehefa hita fa sasatra ao amin' ny fitoerana avo Moaba, ka hankao amin' ny fitoerany masina mba hivavaka, dia tsy hahazo na inona na inona izy.",
+    "13": "Izany no tenin' i Jehovah nataony fahiny ny amin' i Moaba.",
+    "14": "Ary ankehitriny Jehovah dia efa niteny hoe: ao anatin' ny telo taona, tahaka ny taonan' ny mpikarama, dia ho tsinontsinona ny voninahitr' i Moaba, na dia manana vahoaka betsaka aza, ary izay sisa dia ho vitsy sy osa."
+  }
 }

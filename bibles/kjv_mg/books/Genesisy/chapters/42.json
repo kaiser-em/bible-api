@@ -1,157 +1,44 @@
 {
+  "book": "Genesisy",
   "chapter": 42,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary rehefa hitan' i Jakoba fa nisy varimbazaha tany Egypta, dia hoy izy tamin' ny zanany lahy: Nahoana no mifampijery foana ianareo?"
-    },
-    {
-      "v": 2,
-      "text": "\"Dia hoy izy: Indro, efa reko fa misy varimbazaha any Egypta; Andeha midina any ianareo, ka mividiana ho antsika; mba ho velona isika fa tsy ho faty.\""
-    },
-    {
-      "v": 3,
-      "text": "Dia lasa nidina izy folo lahy rahalahin' i Josefa mba hividy varimbazaha tany Egypta."
-    },
-    {
-      "v": 4,
-      "text": "Fa Benjamina rahalahin' i Josefa tsy mba nalefan' i Jakoba niaraka tamin' ny rahalahiny, fa hoy izy: Andrao hisy loza hanjo azy."
-    },
-    {
-      "v": 5,
-      "text": "\"Dia tonga ny zanak' Isiraely mba hividy varimbazaha niaraka tamin' ireo izay nankany; fa tratry ny mosary ny tany Kanana.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary Josefa no mpanapaka ny tany, sady izy no nivarotra tamin'ny tompon-tany rehetra; ary tonga ny rahalahin' i Josefa ka niankohoka tamin' ny tany teo anatrehany.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary hitan' i Josefa ny rahalahiny, dia fantany izy ireo, nefa nody olon-kafa taminy izy ka niteny mafy taminy sady nanao hoe: Avy aiza ianareo? Ary hoy ireo: Avy any amin' ny tany Kanana mba hividy hanina."
-    },
-    {
-      "v": 8,
-      "text": "Ary fantatr'i Josefa ny rahalahiny, nefa izy ireo kosa tsy mba nahafantatra azy."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary nahatsiaro ireo nofy izay nanofisany azy Josefa ka nanao taminy hoe: Mpisafo ianareo; hizaha ny fangadihadin' ny tany no nahatongavanareo.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Fa hoy izy ireo taminy: Tsia, tompokolahy; fa tonga mba hividy hanina ny mpanomponao.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Zanaky ny lehilahy iray izahay rehetra; lehilahy marina izahay, tsy mba mpisafo akory ny mpanomponao.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary hoy izy taminy: Tsia, fa hizaha ny fangadihadin' ny tany no nahatongavanareo."
-    },
-    {
-      "v": 13,
-      "text": "\"Fa hoy ireo: Roa ambin' ny folo mirahalahy ny mpanomponao, zanaky ny lehilahy iray ihany any amin' ny tany Kanana; ary, indro, ny faralahy dia any amin' ny rainay ankehitriny, fa ny anankiray tsy ao intsony.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary hoy Josefa taminy: Izay nolazaiko taminareo izay ihany no izy, hoe: Mpisafo ianareo;\""
-    },
-    {
-      "v": 15,
-      "text": "Izao àry no hitsapana anareo: Raha velona koa Farao, tsy hiala aty ianareo, raha tsy tonga aty ny zandrinareo faralahy."
-    },
-    {
-      "v": 16,
-      "text": "\"Iraho ny anankiray aminareo, ary aoka izy haka ny rahalahinareo, fa ianareo hotazonina ao an-tranomaizina, mba hoporofoina ny teninareo na misy fahamarinana ao aminareo na tsia; raha tsy izany raha velona koa Farao dia mpisafo tokoa ianareo.\""
-    },
-    {
-      "v": 17,
-      "text": "Dia niara-nataony tao an-tranomaizina hateloana izy rehetra."
-    },
-    {
-      "v": 18,
-      "text": "Ary hoy Josefa tamin' izy ireo tamin' ny andro fahatelo: Izao no ataovy, dia ho velona ianareo, fa matahotra an' Andriamanitra aho."
-    },
-    {
-      "v": 19,
-      "text": "\"Raha olo-marina àry ianareo, dia aoka ny anankiray amin' ny rahalahinareo hafatotra ao amin' ny trano izay atao tranomaizina ho anareo; ary mandehana ianareo, mitondrà varimbazaha noho ny mosary any amin' ny tranonareo;\""
-    },
-    {
-      "v": 20,
-      "text": "\"Ary ny zandrinareo faralahy dia ento mankaty amiko; dia ho voamarina ny teninareo, ary tsy ho faty ianareo. Ary nataony izany.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Dia niresaka izy ireo hoe: Efa meloka tokoa isika noho ny amin' ny rahalahintsika, satria nahita ny fahorian' ny fanahiny isika, raha nitaraina tamintsika izy, nefa tsy mba nihaino isika; noho izany no nahatongavan' izao fahoriana izao amintsika.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Dia namaly azy ireo Robena ka nanao hoe: Moa tsy niteny taminareo va aho ka nanao hoe: Aza manota amin' ny zaza; nefa tsy mba nihaino ianareo; noho izany, indro, fa adinina koa ny rany.\""
-    },
-    {
-      "v": 23,
-      "text": "Ary izy ireo tsy mba nahalala fa Josefa nahafantatra ny teniny, satria niteny tamin' izy ireo tamin' ny alalan' ny mpandika teny Josefa."
-    },
-    {
-      "v": 24,
-      "text": "\"Ary Josefa dia nihodina niala teo amin' izy ireo ka nitomany; ary niverina nankeo aminy indray izy ka niteny taminy, ary dia naka an' i Simeona teo aminy sady namatotra azy teo imasony.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ary Josefa nanome teny hameno varimbazaha ny lasakany sady hamerina ny volan' ny isan-dahy ho ao anatin' ny lasakany avy ary hanome vatsy azy hoentiny eny an-dalana; dia izany no nataony taminy.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary natainginy tamin' ny boriky ny varimbazaha, dia lasa nandeha izy ireo."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary raha nosokafan' ny anankiray tamin' izy ireo ny lasakany hampihinanany ny borikiny teo amin' izay nandriany, dia hitany ny volany; fa, indro, teo am-bavan' ny lasakany izany.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Dia hoy izy tamin' ireo rahalahiny: Naverina ny volako, ka, indro, eo anatin' ny lasakako izany; dia ketraka ny fon' izy ireo, ary nifampijery tamin-tahotra izy ka niresaka hoe: Inona izao ataon' Andriamanitra amintsika izao?\""
-    },
-    {
-      "v": 29,
-      "text": "Ary tonga tany amin' i Jakoba rainy tany amin' ny tany Kanana izy, dia nambarany taminy izay rehetra efa nanjo azy, ka hoy izy:"
-    },
-    {
-      "v": 30,
-      "text": "Mafy ny teny nataon-dralehilahy, tompon' ny tany taminay, fa nataony ho mpisafo ny tany izahay."
-    },
-    {
-      "v": 31,
-      "text": "\"Ary hoy izahay taminy: Olo-marina izahay, fa tsy mba mpisafo tsy akory;\""
-    },
-    {
-      "v": 32,
-      "text": "\"Roa ambin' ny folo mirahalahy izahay no zanaky ny rainay; tsy ao intsony ny anankiray, ary ny faralahy dia any amin' ny rainay any amin' ny tany Kanana ankehitriny.\""
-    },
-    {
-      "v": 33,
-      "text": "\"Dia hoy ralehilahy, tompon' ny tany taminay: Izao àry no hahafantarako fa olo-marina ianareo, ny anankiray aminareo mirahalahy avy dia avelao aty amiko, ka mitondrà sakafo noho ny mosary any amin' ny taninareo, dia mandehana;\""
-    },
-    {
-      "v": 34,
-      "text": "\"Ary ento mankaty amiko ny zandrinareo faralahy, dia ho fantatro fa tsy mba mpisafo ianareo, fa olo-marina; dia hatolotro anareo ny rahalahinareo, ka dia hanao varotra eto amin' ny tany ianareo.\""
-    },
-    {
-      "v": 35,
-      "text": "\"Ary izao no niseho, raha nandraraka izay tao anatin' ny lasakany izy ireo, dia, indro, ny volany am-ponosana samy teo anatin' ny lasakany avy; ary rehefa nahita ny volany am-ponosana izy sy ny rainy, dia natahotra.\""
-    },
-    {
-      "v": 36,
-      "text": "\"Ary hoy Jakoba rainy taminy: Foananareo anaka aho; Josefa tsy eto intsony, Simeona tsy eto intsony, ary Benjamina halainareo; izaho no ozoin' izany rehetra izany.\""
-    },
-    {
-      "v": 37,
-      "text": "\"Ary niteny tamin' ny rainy Robena ka nanao hoe: Vonoy ny zanako roa lahy, raha tsy entiko miverina aty aminao izy; atolory eto an-tanako izy, dia izaho no hitondra azy ho aty aminao indray.\""
-    },
-    {
-      "v": 38,
-      "text": "\"Ary hoy Jakoba: Tsy hidina hiaraka aminareo ny zanako; fa maty ny rahalahiny, ary izy irery no sisa, ary raha hisy loza hanjo azy any amin' ny lalana izay halehanareo, dia hampidininareo any am-pasana amin' alahelo ny volofotsiko.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary rehefa hitan' i Jakoba fa nisy varimbazaha tany Egypta, dia hoy izy tamin' ny zanany lahy: Nahoana no mifampijery foana ianareo?",
+    "2": "Dia hoy izy: Indro, efa reko fa misy varimbazaha any Egypta; Andeha midina any ianareo, ka mividiana ho antsika; mba ho velona isika fa tsy ho faty.",
+    "3": "Dia lasa nidina izy folo lahy rahalahin' i Josefa mba hividy varimbazaha tany Egypta.",
+    "4": "Fa Benjamina rahalahin' i Josefa tsy mba nalefan' i Jakoba niaraka tamin' ny rahalahiny, fa hoy izy: Andrao hisy loza hanjo azy.",
+    "5": "Dia tonga ny zanak' Isiraely mba hividy varimbazaha niaraka tamin' ireo izay nankany; fa tratry ny mosary ny tany Kanana.",
+    "6": "Ary Josefa no mpanapaka ny tany, sady izy no nivarotra tamin'ny tompon-tany rehetra; ary tonga ny rahalahin' i Josefa ka niankohoka tamin' ny tany teo anatrehany.",
+    "7": "Ary hitan' i Josefa ny rahalahiny, dia fantany izy ireo, nefa nody olon-kafa taminy izy ka niteny mafy taminy sady nanao hoe: Avy aiza ianareo? Ary hoy ireo: Avy any amin' ny tany Kanana mba hividy hanina.",
+    "8": "Ary fantatr'i Josefa ny rahalahiny, nefa izy ireo kosa tsy mba nahafantatra azy.",
+    "9": "Ary nahatsiaro ireo nofy izay nanofisany azy Josefa ka nanao taminy hoe: Mpisafo ianareo; hizaha ny fangadihadin' ny tany no nahatongavanareo.",
+    "10": "Fa hoy izy ireo taminy: Tsia, tompokolahy; fa tonga mba hividy hanina ny mpanomponao.",
+    "11": "Zanaky ny lehilahy iray izahay rehetra; lehilahy marina izahay, tsy mba mpisafo akory ny mpanomponao.",
+    "12": "Ary hoy izy taminy: Tsia, fa hizaha ny fangadihadin' ny tany no nahatongavanareo.",
+    "13": "Fa hoy ireo: Roa ambin' ny folo mirahalahy ny mpanomponao, zanaky ny lehilahy iray ihany any amin' ny tany Kanana; ary, indro, ny faralahy dia any amin' ny rainay ankehitriny, fa ny anankiray tsy ao intsony.",
+    "14": "Ary hoy Josefa taminy: Izay nolazaiko taminareo izay ihany no izy, hoe: Mpisafo ianareo;",
+    "15": "Izao àry no hitsapana anareo: Raha velona koa Farao, tsy hiala aty ianareo, raha tsy tonga aty ny zandrinareo faralahy.",
+    "16": "Iraho ny anankiray aminareo, ary aoka izy haka ny rahalahinareo, fa ianareo hotazonina ao an-tranomaizina, mba hoporofoina ny teninareo na misy fahamarinana ao aminareo na tsia; raha tsy izany raha velona koa Farao dia mpisafo tokoa ianareo.",
+    "17": "Dia niara-nataony tao an-tranomaizina hateloana izy rehetra.",
+    "18": "Ary hoy Josefa tamin' izy ireo tamin' ny andro fahatelo: Izao no ataovy, dia ho velona ianareo, fa matahotra an' Andriamanitra aho.",
+    "19": "Raha olo-marina àry ianareo, dia aoka ny anankiray amin' ny rahalahinareo hafatotra ao amin' ny trano izay atao tranomaizina ho anareo; ary mandehana ianareo, mitondrà varimbazaha noho ny mosary any amin' ny tranonareo;",
+    "20": "Ary ny zandrinareo faralahy dia ento mankaty amiko; dia ho voamarina ny teninareo, ary tsy ho faty ianareo. Ary nataony izany.",
+    "21": "Dia niresaka izy ireo hoe: Efa meloka tokoa isika noho ny amin' ny rahalahintsika, satria nahita ny fahorian' ny fanahiny isika, raha nitaraina tamintsika izy, nefa tsy mba nihaino isika; noho izany no nahatongavan' izao fahoriana izao amintsika.",
+    "22": "Dia namaly azy ireo Robena ka nanao hoe: Moa tsy niteny taminareo va aho ka nanao hoe: Aza manota amin' ny zaza; nefa tsy mba nihaino ianareo; noho izany, indro, fa adinina koa ny rany.",
+    "23": "Ary izy ireo tsy mba nahalala fa Josefa nahafantatra ny teniny, satria niteny tamin' izy ireo tamin' ny alalan' ny mpandika teny Josefa.",
+    "24": "Ary Josefa dia nihodina niala teo amin' izy ireo ka nitomany; ary niverina nankeo aminy indray izy ka niteny taminy, ary dia naka an' i Simeona teo aminy sady namatotra azy teo imasony.",
+    "25": "Ary Josefa nanome teny hameno varimbazaha ny lasakany sady hamerina ny volan' ny isan-dahy ho ao anatin' ny lasakany avy ary hanome vatsy azy hoentiny eny an-dalana; dia izany no nataony taminy.",
+    "26": "Ary natainginy tamin' ny boriky ny varimbazaha, dia lasa nandeha izy ireo.",
+    "27": "Ary raha nosokafan' ny anankiray tamin' izy ireo ny lasakany hampihinanany ny borikiny teo amin' izay nandriany, dia hitany ny volany; fa, indro, teo am-bavan' ny lasakany izany.",
+    "28": "Dia hoy izy tamin' ireo rahalahiny: Naverina ny volako, ka, indro, eo anatin' ny lasakako izany; dia ketraka ny fon' izy ireo, ary nifampijery tamin-tahotra izy ka niresaka hoe: Inona izao ataon' Andriamanitra amintsika izao?",
+    "29": "Ary tonga tany amin' i Jakoba rainy tany amin' ny tany Kanana izy, dia nambarany taminy izay rehetra efa nanjo azy, ka hoy izy:",
+    "30": "Mafy ny teny nataon-dralehilahy, tompon' ny tany taminay, fa nataony ho mpisafo ny tany izahay.",
+    "31": "Ary hoy izahay taminy: Olo-marina izahay, fa tsy mba mpisafo tsy akory;",
+    "32": "Roa ambin' ny folo mirahalahy izahay no zanaky ny rainay; tsy ao intsony ny anankiray, ary ny faralahy dia any amin' ny rainay any amin' ny tany Kanana ankehitriny.",
+    "33": "Dia hoy ralehilahy, tompon' ny tany taminay: Izao àry no hahafantarako fa olo-marina ianareo, ny anankiray aminareo mirahalahy avy dia avelao aty amiko, ka mitondrà sakafo noho ny mosary any amin' ny taninareo, dia mandehana;",
+    "34": "Ary ento mankaty amiko ny zandrinareo faralahy, dia ho fantatro fa tsy mba mpisafo ianareo, fa olo-marina; dia hatolotro anareo ny rahalahinareo, ka dia hanao varotra eto amin' ny tany ianareo.",
+    "35": "Ary izao no niseho, raha nandraraka izay tao anatin' ny lasakany izy ireo, dia, indro, ny volany am-ponosana samy teo anatin' ny lasakany avy; ary rehefa nahita ny volany am-ponosana izy sy ny rainy, dia natahotra.",
+    "36": "Ary hoy Jakoba rainy taminy: Foananareo anaka aho; Josefa tsy eto intsony, Simeona tsy eto intsony, ary Benjamina halainareo; izaho no ozoin' izany rehetra izany.",
+    "37": "Ary niteny tamin' ny rainy Robena ka nanao hoe: Vonoy ny zanako roa lahy, raha tsy entiko miverina aty aminao izy; atolory eto an-tanako izy, dia izaho no hitondra azy ho aty aminao indray.",
+    "38": "Ary hoy Jakoba: Tsy hidina hiaraka aminareo ny zanako; fa maty ny rahalahiny, ary izy irery no sisa, ary raha hisy loza hanjo azy any amin' ny lalana izay halehanareo, dia hampidininareo any am-pasana amin' alahelo ny volofotsiko."
+  }
 }

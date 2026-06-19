@@ -1,97 +1,29 @@
 {
+  "book": "Joba",
   "chapter": 27,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia mbola nandroso nanao ny oha-teny ihany Joba ka niteny hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Raha velona koa Andriamanitra, Izay efa nanaisotra ny rariny tamiko ary ny Tsitoha Izay nampahory ny fanahiko;\""
-    },
-    {
-      "v": 3,
-      "text": "Fa mbola ao anatiko ihany ny aiko, ary eo am-bavoroko ny Fanahin' Andriamanitra,"
-    },
-    {
-      "v": 4,
-      "text": "Dia tsy hiteny faharatsiana ny molotro, ary tsy hamorom-pitaka ny lelako."
-    },
-    {
-      "v": 5,
-      "text": "\"Sanatria raha hanamarina anareo aho; mandra-pahafatiko dia tsy hampialaiko amiko ny tsy fananako tsiny.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ny fahamarinako dia hazoniko mafy ka tsy havotsotro; ny foko tsy hanome tsiny ahy akory raha mbola velona koa aho.\""
-    },
-    {
-      "v": 7,
-      "text": "Aoka ho tahaka ny ratsy fanahy ny fahavaloko ary ho toy ny tsy marina izay mitsangana hanohitra ahy."
-    },
-    {
-      "v": 8,
-      "text": "Fa inona no fanantenan' ny mpihatsaravelatsihy, na dia mahazo tombony aza izy, rehefa tsoahin' Andriamanitra ny fanahiny?"
-    },
-    {
-      "v": 9,
-      "text": "Hihaino ny fitarainany va Andriamanitra, raha ozoim-pahoriana izy?"
-    },
-    {
-      "v": 10,
-      "text": "Ho azony hiravoravoana va ny Tsitoha? Hahazo miantso an' Andriamanitra mandrakariva va izy?"
-    },
-    {
-      "v": 11,
-      "text": "\"Hampianatra anareo amin' ny alalan' ny tanan' Andriamanitra aho; izay ao amin' ny Tsitoha dia tsy hafeniko.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Indreo, ianareo rehetra efa nahita izany; koa nahoana ianareo no manao hevi-poana?\""
-    },
-    {
-      "v": 13,
-      "text": "Izao no anjaran' ny ratsy fanahy avy amin' Andriamanitra, ary lovan' ny lozabe horaisiny avy amin' ny Tsitoha:"
-    },
-    {
-      "v": 14,
-      "text": "\"Raha mihamaro ny zanany, dia ho an' ny sabatra izany; ary ny taranany tsy ho voky hanina.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ireo izay sisa avy aminy dia halevina noho ny fahafatesana; ary tsy hitomany ny mpitondratenany.\""
-    },
-    {
-      "v": 16,
-      "text": "Na dia mahary volafotsy hoatra ny vovoka aza izy, ary mahangona fitafiana hoatra ny tanimanga,"
-    },
-    {
-      "v": 17,
-      "text": "\"Afaka manangona ihany izy, nefa ny marina no hitafy izany, ary ny tsy manan-tsiny no hizara ny volafotsy;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Manao ny tranony tahaka ny an' ny lolofotsy izy, ary tahaka ny trano rantsankazo ataon' ny mpiandry voly;\""
-    },
-    {
-      "v": 19,
-      "text": "\"Handry ny manankarena nefa tsy ho tafatoetra; hahirany ny masony nefa tsy hisy intsony ao.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Ny fampahatahorana mahatratra azy tahaka ny riaka; nony alina dia paohin' ny tafio-drivotra izy;\""
-    },
-    {
-      "v": 21,
-      "text": "\"Ny rivotra avy any atsinanana mampiainga sy mahalasa azy; ary tahaka ny tafiotra izay mipaoka azy hiala amin' ny fitoerany;\""
-    },
-    {
-      "v": 22,
-      "text": "\"Fa hasian' Andriamanitra izy ka tsy iantrany, ary mandositra dia mandositra ho afaka amin' ny tanany izy;\""
-    },
-    {
-      "v": 23,
-      "text": "Hotehafin' ny olona tanana izy sady hihisitrisirany ka hampialàny amin' ny fonenany."
-    }
-  ]
+  "verses": {
+    "1": "Dia mbola nandroso nanao ny oha-teny ihany Joba ka niteny hoe:",
+    "2": "Raha velona koa Andriamanitra, Izay efa nanaisotra ny rariny tamiko ary ny Tsitoha Izay nampahory ny fanahiko;",
+    "3": "Fa mbola ao anatiko ihany ny aiko, ary eo am-bavoroko ny Fanahin' Andriamanitra,",
+    "4": "Dia tsy hiteny faharatsiana ny molotro, ary tsy hamorom-pitaka ny lelako.",
+    "5": "Sanatria raha hanamarina anareo aho; mandra-pahafatiko dia tsy hampialaiko amiko ny tsy fananako tsiny.",
+    "6": "Ny fahamarinako dia hazoniko mafy ka tsy havotsotro; ny foko tsy hanome tsiny ahy akory raha mbola velona koa aho.",
+    "7": "Aoka ho tahaka ny ratsy fanahy ny fahavaloko ary ho toy ny tsy marina izay mitsangana hanohitra ahy.",
+    "8": "Fa inona no fanantenan' ny mpihatsaravelatsihy, na dia mahazo tombony aza izy, rehefa tsoahin' Andriamanitra ny fanahiny?",
+    "9": "Hihaino ny fitarainany va Andriamanitra, raha ozoim-pahoriana izy?",
+    "10": "Ho azony hiravoravoana va ny Tsitoha? Hahazo miantso an' Andriamanitra mandrakariva va izy?",
+    "11": "Hampianatra anareo amin' ny alalan' ny tanan' Andriamanitra aho; izay ao amin' ny Tsitoha dia tsy hafeniko.",
+    "12": "Indreo, ianareo rehetra efa nahita izany; koa nahoana ianareo no manao hevi-poana?",
+    "13": "Izao no anjaran' ny ratsy fanahy avy amin' Andriamanitra, ary lovan' ny lozabe horaisiny avy amin' ny Tsitoha:",
+    "14": "Raha mihamaro ny zanany, dia ho an' ny sabatra izany; ary ny taranany tsy ho voky hanina.",
+    "15": "Ireo izay sisa avy aminy dia halevina noho ny fahafatesana; ary tsy hitomany ny mpitondratenany.",
+    "16": "Na dia mahary volafotsy hoatra ny vovoka aza izy, ary mahangona fitafiana hoatra ny tanimanga,",
+    "17": "Afaka manangona ihany izy, nefa ny marina no hitafy izany, ary ny tsy manan-tsiny no hizara ny volafotsy;",
+    "18": "Manao ny tranony tahaka ny an' ny lolofotsy izy, ary tahaka ny trano rantsankazo ataon' ny mpiandry voly;",
+    "19": "Handry ny manankarena nefa tsy ho tafatoetra; hahirany ny masony nefa tsy hisy intsony ao.",
+    "20": "Ny fampahatahorana mahatratra azy tahaka ny riaka; nony alina dia paohin' ny tafio-drivotra izy;",
+    "21": "Ny rivotra avy any atsinanana mampiainga sy mahalasa azy; ary tahaka ny tafiotra izay mipaoka azy hiala amin' ny fitoerany;",
+    "22": "Fa hasian' Andriamanitra izy ka tsy iantrany, ary mandositra dia mandositra ho afaka amin' ny tanany izy;",
+    "23": "Hotehafin' ny olona tanana izy sady hihisitrisirany ka hampialàny amin' ny fonenany."
+  }
 }

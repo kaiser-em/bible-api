@@ -1,145 +1,41 @@
 {
+  "book": "Asa",
   "chapter": 23,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Paoly dia nibanjina ny Synedriona ka nanao hoe: Ry lehilahy sy rahalahy, izaho dia nivelona tamin' ny fieritreretana tsara rehetra teo anatrehan' Andriamanitra mandrakaandroany."
-    },
-    {
-      "v": 2,
-      "text": "Ary Ananiasy mpisoronabe nandidy izay nitsangana teo hamely ny vavany."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary hoy Paoly taminy: Andriamanitra mba hamely anao, ry rafi-bato voalalotra fotsy; fa ianao va mipetraka hitsara ahy araka ny lalàna, nefa asainao kapohina tsy araka ny lalàna aho?\""
-    },
-    {
-      "v": 4,
-      "text": "Ary izay nitsangana teo dia nanao hoe: Tevatevainao va ny mpisoronaben' Andriamanitra?"
-    },
-    {
-      "v": 5,
-      "text": "\"Ary hoy Paoly: Tsy fantatro fa mpisoronabe izy, ry rahalahy; fa voasoratra hoe: Aza miteny ratsy ny mpanapaka ny firenenao\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary rehefa tsikaritr' i Paoly fa Sadoseo ny sasany, ary ny sasany kosa Fariseo, dia niantso teo amin' ny Synedriona izy nanao hoe: Ry lehilahy sy rahalahy, izaho dia Fariseo, zanaky ny Fariseo; ny amin' ny fanantenana sy ny fitsanganan' ny maty no itsarana ahy.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary rehefa nilaza izany izy, dia nifanditra ny Fariseo sy ny Sadoseo, ka nizara roa toko ny vahoaka."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa ny Sadoseo manao hoe: Tsy misy fitsanganan' ny maty, na anjely, na fanahy; fa ny Fariseo kosa manaiky azy roa.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary nisy antsoantso maharenina teo, ary ny mpanoradalàna sasany, izay isan' ny antokon' ny Fariseo, nitsangana dia niady hevitra ka nanao hoe: tsy hitanay izay helok' io lehilahy io; fa sao fanahy na anjely no niteny taminy, aoka isika tsy hiady amin' Andriamanitra.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary rehefa nisy tabataba be teo, dia natahotra ny mpifehy arivo, fandrao hifandroritan' ny olona Paoly ka ho samatsamaka, dia nasainy nidina ny miaramila mba haka azy an-keriny hiala teo ampovoany ary mba hitondra azy ho any amin' ny lapa."
-    },
-    {
-      "v": 11,
-      "text": "Ary ny Tompo nitsangana teo anilany tamin' ny ampitso alina ka nanao hoe: Matokia ry Paoly, fa tahaka ny nanambaranao Ahy tany Jerosalema no mbola hanambaranao Ahy any Roma koa."
-    },
-    {
-      "v": 12,
-      "text": "Ary nony maraina dia niray tetika ny Jiosy sasany ka niozona sy nianiana nilaza fa tsy hihinana na hisotro izy ambara-pamonony an' i Paoly."
-    },
-    {
-      "v": 13,
-      "text": "Ary mihoatra ny efapolo no niray tetika nanao izany."
-    },
-    {
-      "v": 14,
-      "text": "Ary nankany amin' ny mpisoronabe sy ny loholona izy ka nanao hoe: Efa niozona sy nianiana izahay fa tsy hihinana na inona na inona ambara-pamononay an' i Paoly."
-    },
-    {
-      "v": 15,
-      "text": "\"Koa ankehitriny dia milazà amin' ny mpifehy arivo ianareo sy ny Synedriona mba hampidina azy hankaty aminareo rahampitso,mody te-hamototra azy marimarina kokoa ny amin' izay nataony; ary izahay kosa dia efa vonona hamono azy, alohan' ny hahatongavany eto.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary nony ren' ny zanak' anabavin' i Paoly ny fanotrehana, dia lasa nankany amin' ny lapa izy ka nilaza tamin' i Paoly."
-    },
-    {
-      "v": 17,
-      "text": "Ary niantso ny kapiteny anankiray Paoly hankeo aminy ka nanao hoe: Ento mankany amin' ny mpifehy arivo ity zatovo ity, fa manan-javatra holazaina aminy."
-    },
-    {
-      "v": 18,
-      "text": "Koa dia nandray azy ilay kapiteny ka nitondra azy ho any amin' ny mpifehy arivo, dia nanao hoe: Paoly mpifatotra niantso ahy hankeo aminy ka nangataka ahy hitondra ity zatovo ity hanketo aminao, fa manan-teny holazaina aminao izy."
-    },
-    {
-      "v": 19,
-      "text": "Ary ny mpifehy arivo nitantana azy, ary nony efa nitokana tao amin' ny mangingina izy, dia nanontaniany hoe: Inona moa no teny holazainao amiko?"
-    },
-    {
-      "v": 20,
-      "text": "Dia hoy ilay zatovo: Ny Jiosy efa nifanaiky hangataka aminao hampidina an' i Paoly ho any amin' ny Synedriona rahampitso, mody te-hanadina azy marimarina kokoa."
-    },
-    {
-      "v": 21,
-      "text": "\"Koa aza manaiky azy ianao, fa mihoatra ny efapolo izy no manotrika hisambotra an' i Paoly, ka efa niozona sy nianiana izy fa tsy hihinana na hisotro ambara-pamonony azy; ary efa vonona izy ankehitriny ka miandry ny teny fanomezan-toky avy aty aminao.\""
-    },
-    {
-      "v": 22,
-      "text": "Ary ny mpifehy arivo nampandeha ilay zatovo ka nandidy azy hoe: Aza milaza amin' olona fa efa nilaza izany zavatra izany tamiko ianao."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary niantso kapiteny roa lahy hankeo aminy izy ka nanao hoe: Manomàna miaramila roanjato lahy sy mpitaingin-tsoavaly fitopolo ary mpitan-defona roanjato anio alina amin' ny ora fahatelo;\""
-    },
-    {
-      "v": 24,
-      "text": "Ary ikarakarao biby koa hitaingenan' i Paoly hitondra azy soa aman-tsara ho any amin' i Feliksa governora."
-    },
-    {
-      "v": 25,
-      "text": "Ary nanoratra taratasy nisy izao teny izao izy:"
-    },
-    {
-      "v": 26,
-      "text": "Klaodio Lysia miarahaba an' i Feliksa, governora tsara indrindra."
-    },
-    {
-      "v": 27,
-      "text": "\"Ity lehilahy ity dia nosamborin' ny Jiosy ka efa saiky novonoiny; fa nony fantatro fa Romana izy, dia nitondra ny miaramila aho ka namonjy azy.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary satria te-hahalala tsara izay niampangany azy aho, dia nentiko nidina ho eo amin' ny Synedrionany izy ;\""
-    },
-    {
-      "v": 29,
-      "text": "Dia hitako fa adi-hevitra ny amin' ny lalàny no niampangany azy, fa tsy nisy niampangany azy izay tokony hahafaty na hanagadrana azy."
-    },
-    {
-      "v": 30,
-      "text": "Ary rehefa voalaza tamiko fa nisy Jiosy nikasa hanotrika hisambotra an-dralehilahy, dia naniraka faingana hitondra azy aty aminao aho, ary ny mpiampanga koa nasaiko hilaza eto anatrehanao izay iampangany azy. Veloma."
-    },
-    {
-      "v": 31,
-      "text": "Dia nalain' ny miaramila Paoly araka ny nandidiana azy ka nentiny tamin' iny alina iny ho any Antipatria."
-    },
-    {
-      "v": 32,
-      "text": "Ary nony ampitso dia navelany handeha hiaraka aminy ny mpitaingin-tsoavaly, ary niverina ho any amin' ny lapa ireo."
-    },
-    {
-      "v": 33,
-      "text": "Rehefa tonga tany Kaisaria ireo, dia nanolotra ny taratasy tamin' ny governora sady nanolotra an' i Paoly ho eo anatrehany koa."
-    },
-    {
-      "v": 34,
-      "text": "\"Ary rehefa novakin' ny governora ilay taratasy, dia nanontany izay zara-fanapahana niaviany izy; ary rehefa fantany fa avy any Silisia izy,\""
-    },
-    {
-      "v": 35,
-      "text": "Dia hoy izy: Hihaino tsara ny teninao aho, rehefa tonga aty ny mpiampanga anao. Dia nasaina nambenana tao amin' ny efitra fitsaran' i Heroda izy."
-    }
-  ]
+  "verses": {
+    "1": "Ary Paoly dia nibanjina ny Synedriona ka nanao hoe: Ry lehilahy sy rahalahy, izaho dia nivelona tamin' ny fieritreretana tsara rehetra teo anatrehan' Andriamanitra mandrakaandroany.",
+    "2": "Ary Ananiasy mpisoronabe nandidy izay nitsangana teo hamely ny vavany.",
+    "3": "Ary hoy Paoly taminy: Andriamanitra mba hamely anao, ry rafi-bato voalalotra fotsy; fa ianao va mipetraka hitsara ahy araka ny lalàna, nefa asainao kapohina tsy araka ny lalàna aho?",
+    "4": "Ary izay nitsangana teo dia nanao hoe: Tevatevainao va ny mpisoronaben' Andriamanitra?",
+    "5": "Ary hoy Paoly: Tsy fantatro fa mpisoronabe izy, ry rahalahy; fa voasoratra hoe: Aza miteny ratsy ny mpanapaka ny firenenao",
+    "6": "Ary rehefa tsikaritr' i Paoly fa Sadoseo ny sasany, ary ny sasany kosa Fariseo, dia niantso teo amin' ny Synedriona izy nanao hoe: Ry lehilahy sy rahalahy, izaho dia Fariseo, zanaky ny Fariseo; ny amin' ny fanantenana sy ny fitsanganan' ny maty no itsarana ahy.",
+    "7": "Ary rehefa nilaza izany izy, dia nifanditra ny Fariseo sy ny Sadoseo, ka nizara roa toko ny vahoaka.",
+    "8": "Fa ny Sadoseo manao hoe: Tsy misy fitsanganan' ny maty, na anjely, na fanahy; fa ny Fariseo kosa manaiky azy roa.",
+    "9": "Ary nisy antsoantso maharenina teo, ary ny mpanoradalàna sasany, izay isan' ny antokon' ny Fariseo, nitsangana dia niady hevitra ka nanao hoe: tsy hitanay izay helok' io lehilahy io; fa sao fanahy na anjely no niteny taminy, aoka isika tsy hiady amin' Andriamanitra.",
+    "10": "Ary rehefa nisy tabataba be teo, dia natahotra ny mpifehy arivo, fandrao hifandroritan' ny olona Paoly ka ho samatsamaka, dia nasainy nidina ny miaramila mba haka azy an-keriny hiala teo ampovoany ary mba hitondra azy ho any amin' ny lapa.",
+    "11": "Ary ny Tompo nitsangana teo anilany tamin' ny ampitso alina ka nanao hoe: Matokia ry Paoly, fa tahaka ny nanambaranao Ahy tany Jerosalema no mbola hanambaranao Ahy any Roma koa.",
+    "12": "Ary nony maraina dia niray tetika ny Jiosy sasany ka niozona sy nianiana nilaza fa tsy hihinana na hisotro izy ambara-pamonony an' i Paoly.",
+    "13": "Ary mihoatra ny efapolo no niray tetika nanao izany.",
+    "14": "Ary nankany amin' ny mpisoronabe sy ny loholona izy ka nanao hoe: Efa niozona sy nianiana izahay fa tsy hihinana na inona na inona ambara-pamononay an' i Paoly.",
+    "15": "Koa ankehitriny dia milazà amin' ny mpifehy arivo ianareo sy ny Synedriona mba hampidina azy hankaty aminareo rahampitso,mody te-hamototra azy marimarina kokoa ny amin' izay nataony; ary izahay kosa dia efa vonona hamono azy, alohan' ny hahatongavany eto.",
+    "16": "Ary nony ren' ny zanak' anabavin' i Paoly ny fanotrehana, dia lasa nankany amin' ny lapa izy ka nilaza tamin' i Paoly.",
+    "17": "Ary niantso ny kapiteny anankiray Paoly hankeo aminy ka nanao hoe: Ento mankany amin' ny mpifehy arivo ity zatovo ity, fa manan-javatra holazaina aminy.",
+    "18": "Koa dia nandray azy ilay kapiteny ka nitondra azy ho any amin' ny mpifehy arivo, dia nanao hoe: Paoly mpifatotra niantso ahy hankeo aminy ka nangataka ahy hitondra ity zatovo ity hanketo aminao, fa manan-teny holazaina aminao izy.",
+    "19": "Ary ny mpifehy arivo nitantana azy, ary nony efa nitokana tao amin' ny mangingina izy, dia nanontaniany hoe: Inona moa no teny holazainao amiko?",
+    "20": "Dia hoy ilay zatovo: Ny Jiosy efa nifanaiky hangataka aminao hampidina an' i Paoly ho any amin' ny Synedriona rahampitso, mody te-hanadina azy marimarina kokoa.",
+    "21": "Koa aza manaiky azy ianao, fa mihoatra ny efapolo izy no manotrika hisambotra an' i Paoly, ka efa niozona sy nianiana izy fa tsy hihinana na hisotro ambara-pamonony azy; ary efa vonona izy ankehitriny ka miandry ny teny fanomezan-toky avy aty aminao.",
+    "22": "Ary ny mpifehy arivo nampandeha ilay zatovo ka nandidy azy hoe: Aza milaza amin' olona fa efa nilaza izany zavatra izany tamiko ianao.",
+    "23": "Ary niantso kapiteny roa lahy hankeo aminy izy ka nanao hoe: Manomàna miaramila roanjato lahy sy mpitaingin-tsoavaly fitopolo ary mpitan-defona roanjato anio alina amin' ny ora fahatelo;",
+    "24": "Ary ikarakarao biby koa hitaingenan' i Paoly hitondra azy soa aman-tsara ho any amin' i Feliksa governora.",
+    "25": "Ary nanoratra taratasy nisy izao teny izao izy:",
+    "26": "Klaodio Lysia miarahaba an' i Feliksa, governora tsara indrindra.",
+    "27": "Ity lehilahy ity dia nosamborin' ny Jiosy ka efa saiky novonoiny; fa nony fantatro fa Romana izy, dia nitondra ny miaramila aho ka namonjy azy.",
+    "28": "Ary satria te-hahalala tsara izay niampangany azy aho, dia nentiko nidina ho eo amin' ny Synedrionany izy ;",
+    "29": "Dia hitako fa adi-hevitra ny amin' ny lalàny no niampangany azy, fa tsy nisy niampangany azy izay tokony hahafaty na hanagadrana azy.",
+    "30": "Ary rehefa voalaza tamiko fa nisy Jiosy nikasa hanotrika hisambotra an-dralehilahy, dia naniraka faingana hitondra azy aty aminao aho, ary ny mpiampanga koa nasaiko hilaza eto anatrehanao izay iampangany azy. Veloma.",
+    "31": "Dia nalain' ny miaramila Paoly araka ny nandidiana azy ka nentiny tamin' iny alina iny ho any Antipatria.",
+    "32": "Ary nony ampitso dia navelany handeha hiaraka aminy ny mpitaingin-tsoavaly, ary niverina ho any amin' ny lapa ireo.",
+    "33": "Rehefa tonga tany Kaisaria ireo, dia nanolotra ny taratasy tamin' ny governora sady nanolotra an' i Paoly ho eo anatrehany koa.",
+    "34": "Ary rehefa novakin' ny governora ilay taratasy, dia nanontany izay zara-fanapahana niaviany izy; ary rehefa fantany fa avy any Silisia izy,",
+    "35": "Dia hoy izy: Hihaino tsara ny teninao aho, rehefa tonga aty ny mpiampanga anao. Dia nasaina nambenana tao amin' ny efitra fitsaran' i Heroda izy."
+  }
 }

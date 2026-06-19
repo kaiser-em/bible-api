@@ -1,145 +1,41 @@
 {
+  "book": "Joba",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia namaly Joba ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Fantatro fa izany no izy; fa aiza no hahamarina ny zanak' olombelona eo anatrehan' Andriamanitra?\""
-    },
-    {
-      "v": 3,
-      "text": "Raha te-hifandahatra aminy izy, dia tsy mahavaly teny Azy na dia iray amin' ny arivo aza."
-    },
-    {
-      "v": 4,
-      "text": "\"Hendry am-po Izy sady matanjaka amin' ny hery; iza no nikiry nanohitra azy ka nambinina?\""
-    },
-    {
-      "v": 5,
-      "text": "Izay mamindra tendrombohitra, nefa ireny tsy mahalala akory, izay mamadika azy amin' ny fahatezerany,"
-    },
-    {
-      "v": 6,
-      "text": "\"Ary mampihorohoro ny tany ho afaka amin' ny fitoerany, ka mihozongozona ny andriny;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Mandidy ny masoandro Izy, ka tsy miposaka izany, ary manisy tombo-kase ny kintana;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Sady Izy irery ihany no mamelatra ny lanitra sy mandia ny onjan-dranomasina;\""
-    },
-    {
-      "v": 9,
-      "text": "Manao ireo kintana lehibe Izy, dia ny Bera sy ny Telonohorefy ary ny Ikotokelimiadilaona sy ireo kintana maro any atsimo,"
-    },
-    {
-      "v": 10,
-      "text": "Ary manao zava-dehibe tsy takatry ny saina, eny, fahagagana tsy hita isa."
-    },
-    {
-      "v": 11,
-      "text": "Indro, mandalo ahy Izy, nefa tsy hitako, ary mihelina koa Izy, nefa tsy fantatro."
-    },
-    {
-      "v": 12,
-      "text": "Indro, mipaoka Izy, ka iza no mahasakana Azy? Iza no hanao aminy hoe: Inona no ataonao?"
-    },
-    {
-      "v": 13,
-      "text": "Tsy mampihemotra ny fahatezerany Andriamanitra ka miforitra eo ambaniny ny mpomba an-dRahaba."
-    },
-    {
-      "v": 14,
-      "text": "Mainka ahoana no hamaliako azy sy hifidianako teny hifandaharako aminy?"
-    },
-    {
-      "v": 15,
-      "text": "Na dia marina aza aho, dia tsy hamaly akory, fa hitaraina amin' ny mpitsara ahy aho."
-    },
-    {
-      "v": 16,
-      "text": "Raha mba niantso aho, ka namaly ahy aza Izy, dia tsy ho nino aho fa hanaiky ny fitarainako Izy."
-    },
-    {
-      "v": 17,
-      "text": "Fa manorotoro ahy amin' ny tafio-drivotra Izy ka manamaro ny feriko tsy ahoan-tsy ahoana."
-    },
-    {
-      "v": 18,
-      "text": "Tsy avelany haka aina akory aho, fa vokisany fangidiana aho."
-    },
-    {
-      "v": 19,
-      "text": "\"Raha miteny ny amin' ny tanjaka aho, indro mahery izy; ary raha ny amin' ny fitsarana, iza no hanendry fotoana mba handaharako ny teniko?\""
-    },
-    {
-      "v": 20,
-      "text": "\"Raha manamarina ny tenako aho, dia hanameloka ahy ny vavako; raha hoy aho hoe: tanteraka aho, dia izany no hanaporofo fa ratsy aho.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Na dia tsy manan-tsiny aza aho, dia tsy ho fantatro ny fanahiko; ataoko tsinontsinona ny aiko.\""
-    },
-    {
-      "v": 22,
-      "text": "Izao zavatra iray izao no lazaiko: Haringany ny tsy manan-tsiny sy ny ratsy fanahy."
-    },
-    {
-      "v": 23,
-      "text": "Raha mahafaty tampoka ny fikapohana, dia hihomehy ny fizahan-toetra ny marina Izy."
-    },
-    {
-      "v": 24,
-      "text": "\"Ny tany efa voatolotra ho eo an-tanan' ny ratsy fanahy; manarona ny tavan' ny mpitsara Izy; raha tsy izany, dia aiza ary iza kosa Izy?\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ankehitriny ny androko dia faingana noho ny tsimandoa; lasa ireny, ka tsy nahita soa akory.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Mihelina tahaka ny sambo faingam-pandeha izy; tahaka ny voromahery mipaoka haza.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Raha hoy aho: Hanadino ny fitarainako aho, hilaozako ny alaheloko, ka hampionon-tena aho;\""
-    },
-    {
-      "v": 28,
-      "text": "Dia mahatahotra ahy ny fahoriako rehetra, fantatro fa tsy hataonao ho tsy manan-tsiny aho."
-    },
-    {
-      "v": 29,
-      "text": "Raha atao ho olon-dratsy aho, nahoana aho no hanasa-tena foana?"
-    },
-    {
-      "v": 30,
-      "text": "Na dia mandro amin' ny orampanala aza aho, ka manadio ny tanako indrindra,"
-    },
-    {
-      "v": 31,
-      "text": "Dia hanitrika ahy any anaty hady Ianao, ka hataon' ny fitafiako ho zava-betaveta aho."
-    },
-    {
-      "v": 32,
-      "text": "Fa tsy olona tahaka ahy Izy ka ho azoko valiana hifanatrehana amin' ny fitsarana."
-    },
-    {
-      "v": 33,
-      "text": "Tsy misy manelanelana anay hametraka ny tanany aminay roa tonta."
-    },
-    {
-      "v": 34,
-      "text": "Aoka hanaisotra ny tsorakazony amiko Izy, ary aoka tsy hampihorohoro ahy ny fampitahorany,"
-    },
-    {
-      "v": 35,
-      "text": "\"Dia hiteny aho, ka tsy hatahotra Azy aho; nefa tsy izany ny momba ahy.\""
-    }
-  ]
+  "verses": {
+    "1": "Dia namaly Joba ka nanao hoe:",
+    "2": "Fantatro fa izany no izy; fa aiza no hahamarina ny zanak' olombelona eo anatrehan' Andriamanitra?",
+    "3": "Raha te-hifandahatra aminy izy, dia tsy mahavaly teny Azy na dia iray amin' ny arivo aza.",
+    "4": "Hendry am-po Izy sady matanjaka amin' ny hery; iza no nikiry nanohitra azy ka nambinina?",
+    "5": "Izay mamindra tendrombohitra, nefa ireny tsy mahalala akory, izay mamadika azy amin' ny fahatezerany,",
+    "6": "Ary mampihorohoro ny tany ho afaka amin' ny fitoerany, ka mihozongozona ny andriny;",
+    "7": "Mandidy ny masoandro Izy, ka tsy miposaka izany, ary manisy tombo-kase ny kintana;",
+    "8": "Sady Izy irery ihany no mamelatra ny lanitra sy mandia ny onjan-dranomasina;",
+    "9": "Manao ireo kintana lehibe Izy, dia ny Bera sy ny Telonohorefy ary ny Ikotokelimiadilaona sy ireo kintana maro any atsimo,",
+    "10": "Ary manao zava-dehibe tsy takatry ny saina, eny, fahagagana tsy hita isa.",
+    "11": "Indro, mandalo ahy Izy, nefa tsy hitako, ary mihelina koa Izy, nefa tsy fantatro.",
+    "12": "Indro, mipaoka Izy, ka iza no mahasakana Azy? Iza no hanao aminy hoe: Inona no ataonao?",
+    "13": "Tsy mampihemotra ny fahatezerany Andriamanitra ka miforitra eo ambaniny ny mpomba an-dRahaba.",
+    "14": "Mainka ahoana no hamaliako azy sy hifidianako teny hifandaharako aminy?",
+    "15": "Na dia marina aza aho, dia tsy hamaly akory, fa hitaraina amin' ny mpitsara ahy aho.",
+    "16": "Raha mba niantso aho, ka namaly ahy aza Izy, dia tsy ho nino aho fa hanaiky ny fitarainako Izy.",
+    "17": "Fa manorotoro ahy amin' ny tafio-drivotra Izy ka manamaro ny feriko tsy ahoan-tsy ahoana.",
+    "18": "Tsy avelany haka aina akory aho, fa vokisany fangidiana aho.",
+    "19": "Raha miteny ny amin' ny tanjaka aho, indro mahery izy; ary raha ny amin' ny fitsarana, iza no hanendry fotoana mba handaharako ny teniko?",
+    "20": "Raha manamarina ny tenako aho, dia hanameloka ahy ny vavako; raha hoy aho hoe: tanteraka aho, dia izany no hanaporofo fa ratsy aho.",
+    "21": "Na dia tsy manan-tsiny aza aho, dia tsy ho fantatro ny fanahiko; ataoko tsinontsinona ny aiko.",
+    "22": "Izao zavatra iray izao no lazaiko: Haringany ny tsy manan-tsiny sy ny ratsy fanahy.",
+    "23": "Raha mahafaty tampoka ny fikapohana, dia hihomehy ny fizahan-toetra ny marina Izy.",
+    "24": "Ny tany efa voatolotra ho eo an-tanan' ny ratsy fanahy; manarona ny tavan' ny mpitsara Izy; raha tsy izany, dia aiza ary iza kosa Izy?",
+    "25": "Ankehitriny ny androko dia faingana noho ny tsimandoa; lasa ireny, ka tsy nahita soa akory.",
+    "26": "Mihelina tahaka ny sambo faingam-pandeha izy; tahaka ny voromahery mipaoka haza.",
+    "27": "Raha hoy aho: Hanadino ny fitarainako aho, hilaozako ny alaheloko, ka hampionon-tena aho;",
+    "28": "Dia mahatahotra ahy ny fahoriako rehetra, fantatro fa tsy hataonao ho tsy manan-tsiny aho.",
+    "29": "Raha atao ho olon-dratsy aho, nahoana aho no hanasa-tena foana?",
+    "30": "Na dia mandro amin' ny orampanala aza aho, ka manadio ny tanako indrindra,",
+    "31": "Dia hanitrika ahy any anaty hady Ianao, ka hataon' ny fitafiako ho zava-betaveta aho.",
+    "32": "Fa tsy olona tahaka ahy Izy ka ho azoko valiana hifanatrehana amin' ny fitsarana.",
+    "33": "Tsy misy manelanelana anay hametraka ny tanany aminay roa tonta.",
+    "34": "Aoka hanaisotra ny tsorakazony amiko Izy, ary aoka tsy hampihorohoro ahy ny fampitahorany,",
+    "35": "Dia hiteny aho, ka tsy hatahotra Azy aho; nefa tsy izany ny momba ahy."
+  }
 }

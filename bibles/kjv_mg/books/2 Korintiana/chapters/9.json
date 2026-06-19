@@ -1,65 +1,21 @@
 {
+  "book": "2 Korintiana",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Fa ny amin’ny fanompoana ho an’ny olona masina, dia tsy misy tokony hanoratako aminareo;\""
-    },
-    {
-      "v": 2,
-      "text": "Fa fantatro ny fahazotoanareo, izay ataoko rehareha ny aminareo amin’ny Masedoniana hoe: Efa vonona hatry ny taon' itsy Akaia, ary ny zotom-ponareo dia nampirisika ny maro."
-    },
-    {
-      "v": 3,
-      "text": "Kanefa naniraka ny rahalahy ihany aho, fandrao dia ho foana ny reharehanay ny aminareo amin’izany zavatra izany, mba ho vonona ianareo araka izay nolazaiko,"
-    },
-    {
-      "v": 4,
-      "text": "Fandrao, raha tàhiny hisy hiaraka amiko ny avy eto Masedonia ka hahita anareo tsy mbola vonona, dia ho menatra izahay (mba tsy hanaovanay hoe, ianareo) noho izany fahatokiana izany."
-    },
-    {
-      "v": 5,
-      "text": "Koa nataoko fa tsy maintsy mangataka ny rahalahy handeha hialoha ho any aminareo aho ka hahavita rahateo ny fiantranareo izay nokasainareo teo aloha, mba hovitaina toy ny fiantrana izany, fa tsy toy ny fahihirana."
-    },
-    {
-      "v": 6,
-      "text": "\"Fa izao no lazaiko: Izay mamafy kely, dia kely no hojinjainy; fa izay mamafy be, dia be kosa no hojinjainy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Aoka ny olona rehetra samy hanao araka izay inian’ny fony avy, tsy amin’ny alahelo, na amin’ny faneriterena; fa “ny mpanome amin’ny firavoravoana no tian’Andriamanitra”\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary Andriamanitra mahay mampitombo ny fahasoavana rehetra aminareo, mba hanananareo ny ampy mandrakariva amin’ny zavatra rehetra, ka hitombo amin’ny asa tsara rehetra;\""
-    },
-    {
-      "v": 9,
-      "text": "\"(Araka ny voasoratra hoe: Namafy izy, eny, nanome ho an’ny mahantra; ny fahamarinany maharitra mandrakizay.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary Izay manome voa ho an’ny mpamafy no manome mofo hohaninareo koa sy mampitombo ny voa afafinareo ary manalehibe ny vokatry ny fahamarinanareo),"
-    },
-    {
-      "v": 11,
-      "text": "Dia hanan-karena amin’ny zavatra rehetra ianareo ka handroso amin’ny fahalalahan-tanana, izay mahatonga ny fisaoranay an’Andriamanitra."
-    },
-    {
-      "v": 12,
-      "text": "Fa ny fanaovana izany fanompoana izany dia tsy mahafaka fotsiny ny fahasahiranan’ny olo-masina, fa mahabe ny fisaoran’ny maro an’Andriamanitra koa,"
-    },
-    {
-      "v": 13,
-      "text": "\"Satria ny fizahan-toetra anareo amin’izany fanompoana izany no ankalazany an’Andriamanitra noho ny fitananareo tsara ny fanekenareo ny filazantsaran’i Kristy sy noho ny fahazotoanareo amin’ny fiantrana ho azy sy ho an’ny olona rehetra;\""
-    },
-    {
-      "v": 14,
-      "text": "Ary amin’ny fangatahany ho anareo dia tia anareo izy noho ny haben’ny fahasoavan’Andriamanitra aminareo."
-    },
-    {
-      "v": 15,
-      "text": "Isaorana anie Andriamanitra noho ny fanomezany tsy hay tononina."
-    }
-  ]
+  "verses": {
+    "1": "Fa ny amin’ny fanompoana ho an’ny olona masina, dia tsy misy tokony hanoratako aminareo;",
+    "2": "Fa fantatro ny fahazotoanareo, izay ataoko rehareha ny aminareo amin’ny Masedoniana hoe: Efa vonona hatry ny taon' itsy Akaia, ary ny zotom-ponareo dia nampirisika ny maro.",
+    "3": "Kanefa naniraka ny rahalahy ihany aho, fandrao dia ho foana ny reharehanay ny aminareo amin’izany zavatra izany, mba ho vonona ianareo araka izay nolazaiko,",
+    "4": "Fandrao, raha tàhiny hisy hiaraka amiko ny avy eto Masedonia ka hahita anareo tsy mbola vonona, dia ho menatra izahay (mba tsy hanaovanay hoe, ianareo) noho izany fahatokiana izany.",
+    "5": "Koa nataoko fa tsy maintsy mangataka ny rahalahy handeha hialoha ho any aminareo aho ka hahavita rahateo ny fiantranareo izay nokasainareo teo aloha, mba hovitaina toy ny fiantrana izany, fa tsy toy ny fahihirana.",
+    "6": "Fa izao no lazaiko: Izay mamafy kely, dia kely no hojinjainy; fa izay mamafy be, dia be kosa no hojinjainy.",
+    "7": "Aoka ny olona rehetra samy hanao araka izay inian’ny fony avy, tsy amin’ny alahelo, na amin’ny faneriterena; fa “ny mpanome amin’ny firavoravoana no tian’Andriamanitra”",
+    "8": "Ary Andriamanitra mahay mampitombo ny fahasoavana rehetra aminareo, mba hanananareo ny ampy mandrakariva amin’ny zavatra rehetra, ka hitombo amin’ny asa tsara rehetra;",
+    "9": "(Araka ny voasoratra hoe: Namafy izy, eny, nanome ho an’ny mahantra; ny fahamarinany maharitra mandrakizay.",
+    "10": "Ary Izay manome voa ho an’ny mpamafy no manome mofo hohaninareo koa sy mampitombo ny voa afafinareo ary manalehibe ny vokatry ny fahamarinanareo),",
+    "11": "Dia hanan-karena amin’ny zavatra rehetra ianareo ka handroso amin’ny fahalalahan-tanana, izay mahatonga ny fisaoranay an’Andriamanitra.",
+    "12": "Fa ny fanaovana izany fanompoana izany dia tsy mahafaka fotsiny ny fahasahiranan’ny olo-masina, fa mahabe ny fisaoran’ny maro an’Andriamanitra koa,",
+    "13": "Satria ny fizahan-toetra anareo amin’izany fanompoana izany no ankalazany an’Andriamanitra noho ny fitananareo tsara ny fanekenareo ny filazantsaran’i Kristy sy noho ny fahazotoanareo amin’ny fiantrana ho azy sy ho an’ny olona rehetra;",
+    "14": "Ary amin’ny fangatahany ho anareo dia tia anareo izy noho ny haben’ny fahasoavan’Andriamanitra aminareo.",
+    "15": "Isaorana anie Andriamanitra noho ny fanomezany tsy hay tononina."
+  }
 }

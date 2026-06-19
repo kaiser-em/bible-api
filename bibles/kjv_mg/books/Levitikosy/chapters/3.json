@@ -1,73 +1,23 @@
 {
+  "book": "Levitikosy",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary raha fanati-pihavanana no fanatiny, ka ombilahy, na ombivavy no ateriny, dia izay tsy misy kilema no ateriny eo anatrehan' i Jehovah."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary hametraka ny tanany amin' ny lohan' ny fanatiny izy, dia hamono azy eo anoloan' ny varavaran' ny tranolay fihaonana; ary ireo mpisorona zanakalahin' i Arona hanopy ny rà manodidina amin' ny lafin' ny alitara.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary hanatitra avy amin' ny fanati-pihavanana izay fanatitra atao amin' ny afo ho an' i Jehovah izy, dia ny safo-drorohany sy ny saboran-tsinainy,"
-    },
-    {
-      "v": 4,
-      "text": "\"Sy ny voany roa mbamin' ny fonom-boany, izay eo amin' ny takibany ary ny saron' atiny; esorina miaraka amin' ny voany izany.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary ireo zanakalahin' i Arona dia handoro izany eo amin' ny alitara eo ambonin' ny fanatitra dorana, izay eo ambonin'ny kitay amin' ny afo; fanatitra atao amin' ny afo ho hanitra ankasitrahana ho an' i Jehovah izany.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary raha biby fiompy no ateriny ho fanati-pihavanana ho an' i Jehovah, dia izay tsy misy kilema, na lahy na vavy no ateriny."
-    },
-    {
-      "v": 7,
-      "text": "Ary raha zanak' ondry no ateriny ho fanatiny, dia hanatitra izany eo anatrehan' i Jehovah izy."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary hametraka ny tanany amin' ny lohan' ny fanatiny izy, dia hamono azy eo anoloan' ny tranolay fihaonana; ary ireo zanakalahin' i Arona hanopy ny rà manodidina amin' ny lafin' ny alitara.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary hanatitra avy amin' ny fanati-pihavanana ho fanatitra atao amin' ny afo ho an' i Jehovah izy; ny saborany, ny hofany manontolo, faranana hatreo amin' ny faran' ny taolan-damosina no fanaisony izany, ary ny saboran-tsinainy sy ny safodrorohany rehetra,\""
-    },
-    {
-      "v": 10,
-      "text": "Ary ny voany roa mbamin' ny fonom-boany izay eo amin' ny takibany, sy ny saron' atiny, dia esorina miaraka amin' ny voany izany."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary ny mpisorona dia handoro izany eo ambony alitara; hanina avy amin' ny fanatitra atao amin' ny afo ho an' i Jehovah izany.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary raha osy no fanatiny, dia hanatitra izany eo anatrehan' i Jehovah izy."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary hametraka ny tanany amin' ny lohany izy, dia hamono izany eo anoloan' ny tranolay fihaonana; ary ireo mpisorona zanakalahin' i Arona dia hanopy ny rà manodidina amin' ny lafin' ny alitara.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary avy amin' izany no anaterany ny fanatiny, dia ny fanatiny atao amin' ny afo ho an' i Jehovah: ny safodrorohany sy ny saboran-tsinainy rehetra,"
-    },
-    {
-      "v": 15,
-      "text": "Ary ny voany roa mbamin' ny fonom-boany izay eo amin' ny takibany sy ny saron' atiny dia esorina miaraka amin' ny voany izany."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary handoro izany eo ambony alitara ny mpisorona; hanina avy amin' ny fanatitra atao amin' ny afo ho hanitra ankasitrahana izany; an' i Jehovah ny sabora rehetra.\""
-    },
-    {
-      "v": 17,
-      "text": "Ho lalàna mandrakizay ho an' ny taranakareo mifandimby amin' izay fitoeranareo rehetra izany, fa tsy hihinana sabora na rà ianareo."
-    }
-  ]
+  "verses": {
+    "1": "Ary raha fanati-pihavanana no fanatiny, ka ombilahy, na ombivavy no ateriny, dia izay tsy misy kilema no ateriny eo anatrehan' i Jehovah.",
+    "2": "Ary hametraka ny tanany amin' ny lohan' ny fanatiny izy, dia hamono azy eo anoloan' ny varavaran' ny tranolay fihaonana; ary ireo mpisorona zanakalahin' i Arona hanopy ny rà manodidina amin' ny lafin' ny alitara.",
+    "3": "Ary hanatitra avy amin' ny fanati-pihavanana izay fanatitra atao amin' ny afo ho an' i Jehovah izy, dia ny safo-drorohany sy ny saboran-tsinainy,",
+    "4": "Sy ny voany roa mbamin' ny fonom-boany, izay eo amin' ny takibany ary ny saron' atiny; esorina miaraka amin' ny voany izany.",
+    "5": "Ary ireo zanakalahin' i Arona dia handoro izany eo amin' ny alitara eo ambonin' ny fanatitra dorana, izay eo ambonin'ny kitay amin' ny afo; fanatitra atao amin' ny afo ho hanitra ankasitrahana ho an' i Jehovah izany.",
+    "6": "Ary raha biby fiompy no ateriny ho fanati-pihavanana ho an' i Jehovah, dia izay tsy misy kilema, na lahy na vavy no ateriny.",
+    "7": "Ary raha zanak' ondry no ateriny ho fanatiny, dia hanatitra izany eo anatrehan' i Jehovah izy.",
+    "8": "Ary hametraka ny tanany amin' ny lohan' ny fanatiny izy, dia hamono azy eo anoloan' ny tranolay fihaonana; ary ireo zanakalahin' i Arona hanopy ny rà manodidina amin' ny lafin' ny alitara.",
+    "9": "Ary hanatitra avy amin' ny fanati-pihavanana ho fanatitra atao amin' ny afo ho an' i Jehovah izy; ny saborany, ny hofany manontolo, faranana hatreo amin' ny faran' ny taolan-damosina no fanaisony izany, ary ny saboran-tsinainy sy ny safodrorohany rehetra,",
+    "10": "Ary ny voany roa mbamin' ny fonom-boany izay eo amin' ny takibany, sy ny saron' atiny, dia esorina miaraka amin' ny voany izany.",
+    "11": "Ary ny mpisorona dia handoro izany eo ambony alitara; hanina avy amin' ny fanatitra atao amin' ny afo ho an' i Jehovah izany.",
+    "12": "Ary raha osy no fanatiny, dia hanatitra izany eo anatrehan' i Jehovah izy.",
+    "13": "Ary hametraka ny tanany amin' ny lohany izy, dia hamono izany eo anoloan' ny tranolay fihaonana; ary ireo mpisorona zanakalahin' i Arona dia hanopy ny rà manodidina amin' ny lafin' ny alitara.",
+    "14": "Ary avy amin' izany no anaterany ny fanatiny, dia ny fanatiny atao amin' ny afo ho an' i Jehovah: ny safodrorohany sy ny saboran-tsinainy rehetra,",
+    "15": "Ary ny voany roa mbamin' ny fonom-boany izay eo amin' ny takibany sy ny saron' atiny dia esorina miaraka amin' ny voany izany.",
+    "16": "Ary handoro izany eo ambony alitara ny mpisorona; hanina avy amin' ny fanatitra atao amin' ny afo ho hanitra ankasitrahana izany; an' i Jehovah ny sabora rehetra.",
+    "17": "Ho lalàna mandrakizay ho an' ny taranakareo mifandimby amin' izay fitoeranareo rehetra izany, fa tsy hihinana sabora na rà ianareo."
+  }
 }

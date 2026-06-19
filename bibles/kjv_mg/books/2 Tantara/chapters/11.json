@@ -1,97 +1,29 @@
 {
+  "book": "2 Tantara",
   "chapter": 11,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ARy nony tonga tany Jerosalema Rehoboama, dia novoriny ny taranak' i Joda sy Benjamina, dia miaramila valo alina amby iray hetsy voafantina, hiady amin' ny Isiraely hampody ny fanjakana ho an-dRehoboama."
-    },
-    {
-      "v": 2,
-      "text": "Kanjo kosa ny tenin' i Jehovah tonga tamin' i Semaia, lehilahin' Andriamanitra, ka nanao hoe:"
-    },
-    {
-      "v": 3,
-      "text": "Mitenena amin-dRehoboama, zanak' i Solomona, mpanjakan' ny Joda sy amin' ny Isiraely rehetra amin' ny Joda sy ny Benjamina hoe:"
-    },
-    {
-      "v": 4,
-      "text": "Izao no lazain' i Jehovah: Aza miakatra ianareo, na hiady amin' ny rahalahinareo, fa samia mody any an-tranony avy ianareo, fa avy amiko izao zavatra izao. Ary nihaino ny tenin' i Jehovah ny olona, ka dia niverina, tsy nandeha hamely an' i Jeroboama."
-    },
-    {
-      "v": 5,
-      "text": "Ary Rehoboama nitoetra tany Jerosalema ka nanorina tanàna fiarovana tany Joda."
-    },
-    {
-      "v": 6,
-      "text": "Ny namboariny dia: Betlehema sy Atama sy Tekoa,"
-    },
-    {
-      "v": 7,
-      "text": "Sy Beti-zora sy Soko sy Adolama,"
-    },
-    {
-      "v": 8,
-      "text": "Sy Gata sy Maresa sy Zifa,"
-    },
-    {
-      "v": 9,
-      "text": "Sy Adoraima sy Lakisy sy Azeka,"
-    },
-    {
-      "v": 10,
-      "text": "Sy Zora sy Aialona ary Hebrona, izay tanàna mimanda ao amin' ny Joda sy ny Benjamina."
-    },
-    {
-      "v": 11,
-      "text": "Ary nanamafy ny tanàna mimanda izy sady nametraka mpanapaka tao aminy ary nanangona hanina sy diloilo ary divay."
-    },
-    {
-      "v": 12,
-      "text": "Ary tamin' ny isam-bohitra dia nasiany ampinga sy lefona sady nohamafisiny dia nohamafisiny ny tanàna, ary ny Joda sy ny Benjamina no nomba azy."
-    },
-    {
-      "v": 13,
-      "text": "Ary ny mpisorona sy ny Levita izay teo amin' ny Isiraely rehetra dia nanatona azy avy tany amin' ny faritaniny avy."
-    },
-    {
-      "v": 14,
-      "text": "\"Fa nandao ny tanànany sy ny fananany ny Levita ka nankany Joda sy Jerosalema; fa Jeroboama sy ny zanany efa nanaisotra azy tsy ho mpisorona ho an' i Jehovah;\""
-    },
-    {
-      "v": 15,
-      "text": "Fa nanendry mpisorona ho azy izy, ho an' ny fitoerana avo, sy ho an' ny devoly ary ho an' ny zanak' omby izay efa nataony."
-    },
-    {
-      "v": 16,
-      "text": "Ary ankoatra ireo, na iza na iza avy tamin' ireo fokon' ny Isiraely rehetra no nitady an' i Jehovah Andriamanitry ny Isiraely, dia nankany Jerosalema hanao fanatitra ho an' i Jehovah Andriamanitry ny razany."
-    },
-    {
-      "v": 17,
-      "text": "\"Ka dia nampahery ny fanjakan' ny Joda izy sady nampahavitrika an-dRehoboama, zanak' i Solomona, telo taona; fa nandeha tamin' ny lalan' i Davida sy Solomona telo taona izy.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary Rehoboama naka an' i Mahalota, zanakavavin'i Jerimota, zanak' i Davida, sy Abihaila, zanakavavin' i Eliaba, zanak' i Jese, ho vadiny,"
-    },
-    {
-      "v": 19,
-      "text": "Izay nahazoany zaza, dia Jeosy sy Semaria ary Zahama."
-    },
-    {
-      "v": 20,
-      "text": "Ary manarakaraka azy, dia nalainy koa Imaka, zanakavavin' i Absaloma, izay niteraka an' i Abia sy Atahy sy Ziza ary Selomita taminy."
-    },
-    {
-      "v": 21,
-      "text": "Ary Rehoboama tia an' Imaka, zanakavavin' i Absaloma, mihoatra noho ny vadiny sy ny vaditsindranony rehetra (fa naka vady valo ambin' ny folo sy vadi-tsindrano enimpolo izy ka niteraka lahy valo amby roapolo sy vavy enimpolo)."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary Abia, zanak' Imaka, no nataon-dRehoboama lohany ho mpanapaka ny rahalahiny ; fa izy no efa nokasainy hampanjakaina.\""
-    },
-    {
-      "v": 23,
-      "text": "Ary mailo izy ka nampiely ny zanany eran' ny tanin' ny Joda sy ny Benjamina rehetra, dia tany amin' ny tanàna mimanda rehetra, ka nomeny hanina betsaka ireo. Ary naniry vady maro izy."
-    }
-  ]
+  "verses": {
+    "1": "ARy nony tonga tany Jerosalema Rehoboama, dia novoriny ny taranak' i Joda sy Benjamina, dia miaramila valo alina amby iray hetsy voafantina, hiady amin' ny Isiraely hampody ny fanjakana ho an-dRehoboama.",
+    "2": "Kanjo kosa ny tenin' i Jehovah tonga tamin' i Semaia, lehilahin' Andriamanitra, ka nanao hoe:",
+    "3": "Mitenena amin-dRehoboama, zanak' i Solomona, mpanjakan' ny Joda sy amin' ny Isiraely rehetra amin' ny Joda sy ny Benjamina hoe:",
+    "4": "Izao no lazain' i Jehovah: Aza miakatra ianareo, na hiady amin' ny rahalahinareo, fa samia mody any an-tranony avy ianareo, fa avy amiko izao zavatra izao. Ary nihaino ny tenin' i Jehovah ny olona, ka dia niverina, tsy nandeha hamely an' i Jeroboama.",
+    "5": "Ary Rehoboama nitoetra tany Jerosalema ka nanorina tanàna fiarovana tany Joda.",
+    "6": "Ny namboariny dia: Betlehema sy Atama sy Tekoa,",
+    "7": "Sy Beti-zora sy Soko sy Adolama,",
+    "8": "Sy Gata sy Maresa sy Zifa,",
+    "9": "Sy Adoraima sy Lakisy sy Azeka,",
+    "10": "Sy Zora sy Aialona ary Hebrona, izay tanàna mimanda ao amin' ny Joda sy ny Benjamina.",
+    "11": "Ary nanamafy ny tanàna mimanda izy sady nametraka mpanapaka tao aminy ary nanangona hanina sy diloilo ary divay.",
+    "12": "Ary tamin' ny isam-bohitra dia nasiany ampinga sy lefona sady nohamafisiny dia nohamafisiny ny tanàna, ary ny Joda sy ny Benjamina no nomba azy.",
+    "13": "Ary ny mpisorona sy ny Levita izay teo amin' ny Isiraely rehetra dia nanatona azy avy tany amin' ny faritaniny avy.",
+    "14": "Fa nandao ny tanànany sy ny fananany ny Levita ka nankany Joda sy Jerosalema; fa Jeroboama sy ny zanany efa nanaisotra azy tsy ho mpisorona ho an' i Jehovah;",
+    "15": "Fa nanendry mpisorona ho azy izy, ho an' ny fitoerana avo, sy ho an' ny devoly ary ho an' ny zanak' omby izay efa nataony.",
+    "16": "Ary ankoatra ireo, na iza na iza avy tamin' ireo fokon' ny Isiraely rehetra no nitady an' i Jehovah Andriamanitry ny Isiraely, dia nankany Jerosalema hanao fanatitra ho an' i Jehovah Andriamanitry ny razany.",
+    "17": "Ka dia nampahery ny fanjakan' ny Joda izy sady nampahavitrika an-dRehoboama, zanak' i Solomona, telo taona; fa nandeha tamin' ny lalan' i Davida sy Solomona telo taona izy.",
+    "18": "Ary Rehoboama naka an' i Mahalota, zanakavavin'i Jerimota, zanak' i Davida, sy Abihaila, zanakavavin' i Eliaba, zanak' i Jese, ho vadiny,",
+    "19": "Izay nahazoany zaza, dia Jeosy sy Semaria ary Zahama.",
+    "20": "Ary manarakaraka azy, dia nalainy koa Imaka, zanakavavin' i Absaloma, izay niteraka an' i Abia sy Atahy sy Ziza ary Selomita taminy.",
+    "21": "Ary Rehoboama tia an' Imaka, zanakavavin' i Absaloma, mihoatra noho ny vadiny sy ny vaditsindranony rehetra (fa naka vady valo ambin' ny folo sy vadi-tsindrano enimpolo izy ka niteraka lahy valo amby roapolo sy vavy enimpolo).",
+    "22": "Ary Abia, zanak' Imaka, no nataon-dRehoboama lohany ho mpanapaka ny rahalahiny ; fa izy no efa nokasainy hampanjakaina.",
+    "23": "Ary mailo izy ka nampiely ny zanany eran' ny tanin' ny Joda sy ny Benjamina rehetra, dia tany amin' ny tanàna mimanda rehetra, ka nomeny hanina betsaka ireo. Ary naniry vady maro izy."
+  }
 }

@@ -1,37 +1,14 @@
 {
+  "book": "Salamo",
   "chapter": 101,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Salamo nataon' i Davida.] FAMINDRAMPO sy fitsarana no hohiraiko; ho Anao, Jehovah ô no hihirako.\""
-    },
-    {
-      "v": 2,
-      "text": "Hitandrina tsara ny lalana marina aho. Rahoviana no ho tonga amiko Ianao? Handeha amin' ny fahitsian' ny foko ao anatin' ny tranoko aho."
-    },
-    {
-      "v": 3,
-      "text": "\"Tsy hampitoetra zava-dratsy eo anoloan' ny masoko aho; halako ny asan' ny mpivadika; tsy hikambana amiko izany.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Hiala amiko ny fo ratsy; tsy hahalala ny olon-dratsy aho.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Izay manendrikendrika ny namany mangingina dia hofongorako; tsy tohako izay miandranandrana sy miavonavona am-po.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Hijery izay olo-mahatoky amin' ny tany ny masoko, mba hitoerany ato amiko; izay mandeha amin' ny lalana marina no hanompo ahy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Tsy mba hitoetra ao anatin' ny tranoko izay manao fitaka; tsy mba hijanona eo anoloan' ny masoko izay milaza lainga.\""
-    },
-    {
-      "v": 8,
-      "text": "Haringako isa-maraina ny ratsy fanahy rehetra amin' ny tany, mba hofongorako ny manao ratsy rehetra tsy ho ao an-tanànan' i Jehovah."
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida.] FAMINDRAMPO sy fitsarana no hohiraiko; ho Anao, Jehovah ô no hihirako.",
+    "2": "Hitandrina tsara ny lalana marina aho. Rahoviana no ho tonga amiko Ianao? Handeha amin' ny fahitsian' ny foko ao anatin' ny tranoko aho.",
+    "3": "Tsy hampitoetra zava-dratsy eo anoloan' ny masoko aho; halako ny asan' ny mpivadika; tsy hikambana amiko izany.",
+    "4": "Hiala amiko ny fo ratsy; tsy hahalala ny olon-dratsy aho.",
+    "5": "Izay manendrikendrika ny namany mangingina dia hofongorako; tsy tohako izay miandranandrana sy miavonavona am-po.",
+    "6": "Hijery izay olo-mahatoky amin' ny tany ny masoko, mba hitoerany ato amiko; izay mandeha amin' ny lalana marina no hanompo ahy.",
+    "7": "Tsy mba hitoetra ao anatin' ny tranoko izay manao fitaka; tsy mba hijanona eo anoloan' ny masoko izay milaza lainga.",
+    "8": "Haringako isa-maraina ny ratsy fanahy rehetra amin' ny tany, mba hofongorako ny manao ratsy rehetra tsy ho ao an-tanànan' i Jehovah."
+  }
 }

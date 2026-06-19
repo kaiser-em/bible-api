@@ -1,205 +1,56 @@
 {
+  "book": "Marka",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ARY hoy Izy taminy: Lazaiko marina aminareo: Misy ny sasany eto izay tsy mba hanandrana fahafatesana mandra-pahitany ny fanjakan’Andriamanitra tonga amin-kery."
-    },
-    {
-      "v": 2,
-      "text": "Ary nony afaka henemana, Jesosy dia naka an’i Petera sy Jakoba ary Jaona, ka nitondra azy ireo nitokana niakatra ho any an-tendrombohitra avo anankiray, dia niova tarehy teo anatrehany Izy,"
-    },
-    {
-      "v": 3,
-      "text": "Ary ny fitafiany niova nanelatrelatra sady fotsy indrindra toy ny orampanala, ka tsy nisy mpamotsy lamba ambonin’ny tany mahafotsy toy izany."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary Elia sy Mosesy niseho taminy; sady niresaka tamin’i Jesosy izy ireo.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary namaly Petera ka nanao tamin’i Jesosy hoe: Raby ô, tsara raha mitoetra eto isika; ary aoka hanao lay telo izahay, ny anankiray ho Anao, ny anankiray ho an’i Mosesy, ary ny anankiray ho an’i Elia.\""
-    },
-    {
-      "v": 6,
-      "text": "Fa tsy fantany izay holazaina, satria efa raiki-tahotra izy rehetra."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary nisy rahona niseho nanarona azy; ary dia nisy feo avy tao amin’ny rahona nanao hoe: Ity no Zanako malalako, Izy no henoy.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary tampotampoka teo, nony nijery manodidina izy ireo, dia tsy nisy hitany intsony na iza na iza afa-tsy Jesosy irery ihany, Izay teo aminy."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary nony nidina avy teo an-tendrombohitra izy ireo, dia nandidy azy Jesosy mba tsy hilazalaza amin’olona izay zavatra hitany mandra-pitsangan’ny Zanak’olona amin’ny maty;\""
-    },
-    {
-      "v": 10,
-      "text": "Ary nitana izany teny izany izy ireo ka nifampaka saina ny amin’izay hevitr’izany fitsanganana amin’ny maty izany."
-    },
-    {
-      "v": 11,
-      "text": "Dia nanontany an’i Jesosy izy ireo ka nanao hoe: Nahoana no lazain’ny mpanoradalàna fa Elia tsy maintsy ho avy aloha?"
-    },
-    {
-      "v": 12,
-      "text": "\"Ary Izy namaly ka nanao hoe: Ho avy mialoha tokoa Elia ka hampody ny zavatra rehetra; ary ahoana kosa no nanoratana ny amin’ny Zanak’olona, fa tsy maintsy miharitra zavatra maro Izy ka hatao tsinontsinona.\""
-    },
-    {
-      "v": 13,
-      "text": "Nefa lazaiko aminareo: Efa tonga tokoa Elia, sady efa nataon’ny olona taminy araka izay voasoratra ny aminy."
-    },
-    {
-      "v": 14,
-      "text": "Ary nony efa tonga teo amin’ny mpianany Izy, dia nahita vahoaka betsaka manodidina azy sy mpanoradalàna niady hevitra taminy."
-    },
-    {
-      "v": 15,
-      "text": "Ary niaraka tamin’izay, nony nahita Azy ny vahoaka rehetra, dia talanjona ka nihazakazaka nanatona sy niarahaba Azy."
-    },
-    {
-      "v": 16,
-      "text": "Ary Izy nanontany azy hoe: Inona no iadianareo hevitra amin’ireto?"
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ny anankiray tamin’ny vahoaka namaly ka nanao hoe: Mpampianatra ô, nentiko ho ety aminao ny zanako lahy izay azom-panahy moana;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary na aiza na aiza no ahazoany azy, dia ampihinjitrinjiriny izy, ary mandoa vory, dia mikitro-nify sady valaka dia valaka; ary niteny tamin’ny mpianatrao aho mba hamoaka izany; fa tsy hainy.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary Jesosy namaly azy hoe: Ry taranaka tsy mino, mandra-pahoviana no hitoerako aminareo? Mandra-pahoviana no handeferako aminareo? Ento ety amiko izy."
-    },
-    {
-      "v": 20,
-      "text": "\"Dia nentiny teo aminy izy; fa nony nahita an’i Jesosy izy, dia nampifanintontsintona ny tenany niaraka tamin’izay ny fanahy; dia lavo tamin’ny tany izy sady nitsinkasinkasina sy nandoa vory.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary Jesosy nanontany ny rainy hoe: Hatramin’ny oviana izay no nahatongavan’izao taminy? Ary hoy izy: hatramin’ny fahazazany."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary nazerany matetika tao anaty afo sy tao anaty rano izy hamonoany azy; fa raha mba misy hainao, dia mamindrà fo aminay, ka ampio izahay.\""
-    },
-    {
-      "v": 23,
-      "text": "Fa hoy Jesosy taminy: Raha afaka mino ianao, ny zavatra rehetra dia hain’ny mino."
-    },
-    {
-      "v": 24,
-      "text": "Ary niaraka tamin’izay dia niantsoantso sady nandrotsa-dranomaso ny rain-drazazalahy ka nanao hoe: Tompo ô, mino aho: ampio aho ho afaka amin’ny tsy finoako."
-    },
-    {
-      "v": 25,
-      "text": "Ary nony hitan’i Jesosy fa nihazakazaka nitangorona ny vahoaka, dia niteny mafy ny fanahy maloto Izy ka nanao hoe: Ry fanahy moana sy marenina! Mandidy anao Aho: Mivoaha aminy, ka aza miditra ao aminy intsony."
-    },
-    {
-      "v": 26,
-      "text": "\"Ary ninananana ny fanahy sady nampifanintontsintona mafy ilay zazalahy, dia nivoaka taminy; ary efa toy ny maty izy, ka dia nataon’ny maro hoe: maty.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Fa Jesosy nandray ny tanany ka nanarina azy; dia nitsangana izy.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary rehefa tonga tao an-trano Jesosy, dia nanontany azy mangingina ny mpianany hoe: Nahoana izahay no tsy nahavoaka azy?"
-    },
-    {
-      "v": 29,
-      "text": "Ary hoy Izy taminy: Iny karazany iny tsy mba azo avoaka na amin’inona na amin’inona, afa-tsy amin’ny vavaka sy ny fifadian-kanina ihany."
-    },
-    {
-      "v": 30,
-      "text": "Dia niala teo izy ka nizotra namaky an’i Galilia, ary tsy tian’i Jesosy ho fantatry ny olona izany."
-    },
-    {
-      "v": 31,
-      "text": "\"Fa nampianatra ny mpianany Izy ka nanao taminy hoe: Ny Zanak’olona dia hatolotra eo an-tanan’ny olona ka hovonoiny; ary rehefa voavono Izy, dia hitsangana indray rehefa afaka hateloana.\""
-    },
-    {
-      "v": 32,
-      "text": "Fa izy ireo tsy nahafantatra izany teny izany sady natahotra hanontany Azy."
-    },
-    {
-      "v": 33,
-      "text": "\"Ary tonga tao Kapernaomy Izy; ary rehefa mby tao an-trano Jesosy, dia nanontany ny mpianany hoe: Inona no niadianareo hevitra teny an-dalana?\""
-    },
-    {
-      "v": 34,
-      "text": "Fa tsy nahateny izy ireo, satria efa niady hevitra teny an-dalana ny amin’izay ho lehibe indrindra."
-    },
-    {
-      "v": 35,
-      "text": "Ary rehefa tafapetraka Jesosy, dia niantso ny roa ambin’ny folo lahy Izy ka nanao taminy hoe: Raha misy te-ho voalohany, dia hatao farany amin’izy rehetra sy ho mpanompon’izy rehetra izy."
-    },
-    {
-      "v": 36,
-      "text": "\"Ary nandray zaza Izy ka nametraka azy teo afovoany; ary raha notrotroiny ilay zaza, dia hoy Izy tamin’ny mpianany:\""
-    },
-    {
-      "v": 37,
-      "text": "\"Na zovy na zovy no mandray anankiray amin’ny zaza tahaka itony amin’ny anarako, dia mandray Ahy; ary na zovy na zovy no handray Ahy, dia tsy mandray Ahy, fa Izay naniraka Ahy.\""
-    },
-    {
-      "v": 38,
-      "text": "\"Ary Jaona namaly Azy hoe: Mpampianatra ô, nahita olona anankiray namoaka devoly tamin’ny anaranao izahay; ka noraranay izy, satria tsy manaraka antsika.\""
-    },
-    {
-      "v": 39,
-      "text": "Fa hoy Jesosy: Aza mandrara azy, fa tsy misy olona izay hanao fahagagana amin’ny anarako ka mora hiteny ratsy Ahy vetivety."
-    },
-    {
-      "v": 40,
-      "text": "Fa izay tsy manohitra antsika dia momba antsika."
-    },
-    {
-      "v": 41,
-      "text": "Fa na iza na iza no hanome anareo rano eran’ny kaopy hosotroinareo amin’ny anarako, satria an’i Kristy ianareo, dia lazaiko marina aminareo fa tsy ho very ny valim-pitiany."
-    },
-    {
-      "v": 42,
-      "text": "Ary na iza na iza no hanafintohina na iray aza amin’ireo madinika mino Ahy ireo, dia tsara ho azy, raha anantonana vato lehibe fikosoham-barimbazaha ny vozony, ka hatsipy any anaty ranomasina izy."
-    },
-    {
-      "v": 43,
-      "text": "\"Ary raha ny tananao no manafintohina anao, tapaho izy; fa tsara ho anao ny hiditra kilemaina any amin’ny fiainana noho ny manana tanana roa, nefa hariana any amin’ny helo, any amin' ny afo tsy hovonoina mihitsy,\""
-    },
-    {
-      "v": 44,
-      "text": "Any ny kankany tsy maty, ary ny afo tsy vonoina."
-    },
-    {
-      "v": 45,
-      "text": "\"Ary raha ny tongotrao no manafintohina anao, tapaho izy; fa tsara ho anao ny hiditra mandringa any amin’ny fiainana noho ny manana tongotra roa, nefa hariana any amin’ny helo, any amin’ny afo tsy hovonoina mihitsy;\""
-    },
-    {
-      "v": 46,
-      "text": "Any ny kankany tsy maty, ary ny afo tsy vonoina."
-    },
-    {
-      "v": 47,
-      "text": "\"Ary raha ny masonao no manafintohina anao, esory hiala izy; fa tsara ho anao ny hiditra tokamaso amin’ny fanjakan’Andriamanitra noho ny manana maso roa, nefa hariana any amin’ny helo mirehitra afo;\""
-    },
-    {
-      "v": 48,
-      "text": "Any ny kankany tsy maty, ary ny afo tsy vonoina."
-    },
-    {
-      "v": 49,
-      "text": "Fa samy ho voasira amin’ny afo izy rehetra, ary ny fanatitra rehetra samy ho voasira amin’ny fanasina."
-    },
-    {
-      "v": 50,
-      "text": "Tsara ny sira, fa raha tonga matsatso izy, inona no hoentinareo mampody ny tsirony? Aoka hisy sira ao anatinareo, ka mihavàna tsara ianareo."
-    }
-  ]
+  "verses": {
+    "1": "ARY hoy Izy taminy: Lazaiko marina aminareo: Misy ny sasany eto izay tsy mba hanandrana fahafatesana mandra-pahitany ny fanjakan’Andriamanitra tonga amin-kery.",
+    "2": "Ary nony afaka henemana, Jesosy dia naka an’i Petera sy Jakoba ary Jaona, ka nitondra azy ireo nitokana niakatra ho any an-tendrombohitra avo anankiray, dia niova tarehy teo anatrehany Izy,",
+    "3": "Ary ny fitafiany niova nanelatrelatra sady fotsy indrindra toy ny orampanala, ka tsy nisy mpamotsy lamba ambonin’ny tany mahafotsy toy izany.",
+    "4": "Ary Elia sy Mosesy niseho taminy; sady niresaka tamin’i Jesosy izy ireo.",
+    "5": "Ary namaly Petera ka nanao tamin’i Jesosy hoe: Raby ô, tsara raha mitoetra eto isika; ary aoka hanao lay telo izahay, ny anankiray ho Anao, ny anankiray ho an’i Mosesy, ary ny anankiray ho an’i Elia.",
+    "6": "Fa tsy fantany izay holazaina, satria efa raiki-tahotra izy rehetra.",
+    "7": "Ary nisy rahona niseho nanarona azy; ary dia nisy feo avy tao amin’ny rahona nanao hoe: Ity no Zanako malalako, Izy no henoy.",
+    "8": "Ary tampotampoka teo, nony nijery manodidina izy ireo, dia tsy nisy hitany intsony na iza na iza afa-tsy Jesosy irery ihany, Izay teo aminy.",
+    "9": "Ary nony nidina avy teo an-tendrombohitra izy ireo, dia nandidy azy Jesosy mba tsy hilazalaza amin’olona izay zavatra hitany mandra-pitsangan’ny Zanak’olona amin’ny maty;",
+    "10": "Ary nitana izany teny izany izy ireo ka nifampaka saina ny amin’izay hevitr’izany fitsanganana amin’ny maty izany.",
+    "11": "Dia nanontany an’i Jesosy izy ireo ka nanao hoe: Nahoana no lazain’ny mpanoradalàna fa Elia tsy maintsy ho avy aloha?",
+    "12": "Ary Izy namaly ka nanao hoe: Ho avy mialoha tokoa Elia ka hampody ny zavatra rehetra; ary ahoana kosa no nanoratana ny amin’ny Zanak’olona, fa tsy maintsy miharitra zavatra maro Izy ka hatao tsinontsinona.",
+    "13": "Nefa lazaiko aminareo: Efa tonga tokoa Elia, sady efa nataon’ny olona taminy araka izay voasoratra ny aminy.",
+    "14": "Ary nony efa tonga teo amin’ny mpianany Izy, dia nahita vahoaka betsaka manodidina azy sy mpanoradalàna niady hevitra taminy.",
+    "15": "Ary niaraka tamin’izay, nony nahita Azy ny vahoaka rehetra, dia talanjona ka nihazakazaka nanatona sy niarahaba Azy.",
+    "16": "Ary Izy nanontany azy hoe: Inona no iadianareo hevitra amin’ireto?",
+    "17": "Ary ny anankiray tamin’ny vahoaka namaly ka nanao hoe: Mpampianatra ô, nentiko ho ety aminao ny zanako lahy izay azom-panahy moana;",
+    "18": "Ary na aiza na aiza no ahazoany azy, dia ampihinjitrinjiriny izy, ary mandoa vory, dia mikitro-nify sady valaka dia valaka; ary niteny tamin’ny mpianatrao aho mba hamoaka izany; fa tsy hainy.",
+    "19": "Ary Jesosy namaly azy hoe: Ry taranaka tsy mino, mandra-pahoviana no hitoerako aminareo? Mandra-pahoviana no handeferako aminareo? Ento ety amiko izy.",
+    "20": "Dia nentiny teo aminy izy; fa nony nahita an’i Jesosy izy, dia nampifanintontsintona ny tenany niaraka tamin’izay ny fanahy; dia lavo tamin’ny tany izy sady nitsinkasinkasina sy nandoa vory.",
+    "21": "Ary Jesosy nanontany ny rainy hoe: Hatramin’ny oviana izay no nahatongavan’izao taminy? Ary hoy izy: hatramin’ny fahazazany.",
+    "22": "Ary nazerany matetika tao anaty afo sy tao anaty rano izy hamonoany azy; fa raha mba misy hainao, dia mamindrà fo aminay, ka ampio izahay.",
+    "23": "Fa hoy Jesosy taminy: Raha afaka mino ianao, ny zavatra rehetra dia hain’ny mino.",
+    "24": "Ary niaraka tamin’izay dia niantsoantso sady nandrotsa-dranomaso ny rain-drazazalahy ka nanao hoe: Tompo ô, mino aho: ampio aho ho afaka amin’ny tsy finoako.",
+    "25": "Ary nony hitan’i Jesosy fa nihazakazaka nitangorona ny vahoaka, dia niteny mafy ny fanahy maloto Izy ka nanao hoe: Ry fanahy moana sy marenina! Mandidy anao Aho: Mivoaha aminy, ka aza miditra ao aminy intsony.",
+    "26": "Ary ninananana ny fanahy sady nampifanintontsintona mafy ilay zazalahy, dia nivoaka taminy; ary efa toy ny maty izy, ka dia nataon’ny maro hoe: maty.",
+    "27": "Fa Jesosy nandray ny tanany ka nanarina azy; dia nitsangana izy.",
+    "28": "Ary rehefa tonga tao an-trano Jesosy, dia nanontany azy mangingina ny mpianany hoe: Nahoana izahay no tsy nahavoaka azy?",
+    "29": "Ary hoy Izy taminy: Iny karazany iny tsy mba azo avoaka na amin’inona na amin’inona, afa-tsy amin’ny vavaka sy ny fifadian-kanina ihany.",
+    "30": "Dia niala teo izy ka nizotra namaky an’i Galilia, ary tsy tian’i Jesosy ho fantatry ny olona izany.",
+    "31": "Fa nampianatra ny mpianany Izy ka nanao taminy hoe: Ny Zanak’olona dia hatolotra eo an-tanan’ny olona ka hovonoiny; ary rehefa voavono Izy, dia hitsangana indray rehefa afaka hateloana.",
+    "32": "Fa izy ireo tsy nahafantatra izany teny izany sady natahotra hanontany Azy.",
+    "33": "Ary tonga tao Kapernaomy Izy; ary rehefa mby tao an-trano Jesosy, dia nanontany ny mpianany hoe: Inona no niadianareo hevitra teny an-dalana?",
+    "34": "Fa tsy nahateny izy ireo, satria efa niady hevitra teny an-dalana ny amin’izay ho lehibe indrindra.",
+    "35": "Ary rehefa tafapetraka Jesosy, dia niantso ny roa ambin’ny folo lahy Izy ka nanao taminy hoe: Raha misy te-ho voalohany, dia hatao farany amin’izy rehetra sy ho mpanompon’izy rehetra izy.",
+    "36": "Ary nandray zaza Izy ka nametraka azy teo afovoany; ary raha notrotroiny ilay zaza, dia hoy Izy tamin’ny mpianany:",
+    "37": "Na zovy na zovy no mandray anankiray amin’ny zaza tahaka itony amin’ny anarako, dia mandray Ahy; ary na zovy na zovy no handray Ahy, dia tsy mandray Ahy, fa Izay naniraka Ahy.",
+    "38": "Ary Jaona namaly Azy hoe: Mpampianatra ô, nahita olona anankiray namoaka devoly tamin’ny anaranao izahay; ka noraranay izy, satria tsy manaraka antsika.",
+    "39": "Fa hoy Jesosy: Aza mandrara azy, fa tsy misy olona izay hanao fahagagana amin’ny anarako ka mora hiteny ratsy Ahy vetivety.",
+    "40": "Fa izay tsy manohitra antsika dia momba antsika.",
+    "41": "Fa na iza na iza no hanome anareo rano eran’ny kaopy hosotroinareo amin’ny anarako, satria an’i Kristy ianareo, dia lazaiko marina aminareo fa tsy ho very ny valim-pitiany.",
+    "42": "Ary na iza na iza no hanafintohina na iray aza amin’ireo madinika mino Ahy ireo, dia tsara ho azy, raha anantonana vato lehibe fikosoham-barimbazaha ny vozony, ka hatsipy any anaty ranomasina izy.",
+    "43": "Ary raha ny tananao no manafintohina anao, tapaho izy; fa tsara ho anao ny hiditra kilemaina any amin’ny fiainana noho ny manana tanana roa, nefa hariana any amin’ny helo, any amin' ny afo tsy hovonoina mihitsy,",
+    "44": "Any ny kankany tsy maty, ary ny afo tsy vonoina.",
+    "45": "Ary raha ny tongotrao no manafintohina anao, tapaho izy; fa tsara ho anao ny hiditra mandringa any amin’ny fiainana noho ny manana tongotra roa, nefa hariana any amin’ny helo, any amin’ny afo tsy hovonoina mihitsy;",
+    "46": "Any ny kankany tsy maty, ary ny afo tsy vonoina.",
+    "47": "Ary raha ny masonao no manafintohina anao, esory hiala izy; fa tsara ho anao ny hiditra tokamaso amin’ny fanjakan’Andriamanitra noho ny manana maso roa, nefa hariana any amin’ny helo mirehitra afo;",
+    "48": "Any ny kankany tsy maty, ary ny afo tsy vonoina.",
+    "49": "Fa samy ho voasira amin’ny afo izy rehetra, ary ny fanatitra rehetra samy ho voasira amin’ny fanasina.",
+    "50": "Tsara ny sira, fa raha tonga matsatso izy, inona no hoentinareo mampody ny tsirony? Aoka hisy sira ao anatinareo, ka mihavàna tsara ianareo."
+  }
 }

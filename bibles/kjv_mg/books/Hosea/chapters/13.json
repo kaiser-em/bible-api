@@ -1,69 +1,22 @@
 {
+  "book": "Hosea",
   "chapter": 13,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Raha niteny Efraima, dia nampangorohoro, ka nanandra-tena tao amin' ny Isiraely, fa rehefa nanota ny amin' i Bala izy, dia maty."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary ankehitriny dia mandroso manota izy, fa ny volafotsiny no anaovany sarin-javatra an' idina ho azy, dia sampy araka ny fahalalany izay asan' ny mpiasa avokoa; ireny dia lazainy hoe: Aoka izay manao fanatitra hanoroka ny ombilahy kely.\""
-    },
-    {
-      "v": 3,
-      "text": "Koa ho toy ny rahona maraina izy sy ho toy ny ando izay levona raha mbola maraina ny andro, sy ho toy ny akofa izay paohin' ny rivotra hiala amin' ny famoloana ary ho toy ny setroka avy amin' ny lafaoro."
-    },
-    {
-      "v": 4,
-      "text": "Fa Izaho no Jehovah Andriamanitrao hatrany amin' ny tany Egypta, ary tsy hahalala Andriamanitra afa-tsy Izaho ianao, sady tsy misy mpamonjy afa-tsy Izaho."
-    },
-    {
-      "v": 5,
-      "text": "Izaho dia nahalala anao tany an' efitra, dia tany amin' ny tany mampangetaheta."
-    },
-    {
-      "v": 6,
-      "text": "\"Araka ny ahitra teny aminy no nahavoky azy; voky izy, ka niavonavona ny fony; koa izany no nanadinoany Ahy.\""
-    },
-    {
-      "v": 7,
-      "text": "Ka dia ho tonga toy ny liona aminy Aho, toy ny leoparda amoron-dalana no handinihako azy."
-    },
-    {
-      "v": 8,
-      "text": "\"Hamely azy toy ny famelin' ny bera very anaka Aho, ka handriatra ny sarom-pony, eny any no handrapahako azy toy ny fandrapaky ny liom-bavy; ny biby dia no hamiravira azy.\""
-    },
-    {
-      "v": 9,
-      "text": "Nanimba tena ianao ry Isiraely ô, fa ato amiko ny fanampiana anao."
-    },
-    {
-      "v": 10,
-      "text": "Izaho no ho mpanjakanao, aiza ary izay hafa afaka hamonjy anao ao an-tanànanao rehetra?Ary aiza ireo mpitsaranao izay nilazanao hoe: Omeo mpanjaka sy mpanapaka aho?"
-    },
-    {
-      "v": 11,
-      "text": "Nomeko mpanjaka ianao tamin' ny fahatezerako ary nesoriko izy tamin' ny fahavinirako."
-    },
-    {
-      "v": 12,
-      "text": "Voafehy ny helok' i Efraima, voaafina ny fahotany,"
-    },
-    {
-      "v": 13,
-      "text": "\"Ny fahorian' ny vehivavy miteraka no hahazo azy, zazalahy tsy hendry izy; fa tsy tokony hitoetra ela eo amin' ny fotoana fiterahan-jaza izy.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Havotako tsy ho azon' ny herin' ny fasana izy; hovonjeko ho afaka amin' ny fahafatesana izy; ry fahafatesana ô, Izaho no ho areti-mandringanao; ry fasana ô, Izaho no fandringananao; hafenina tsy ho hitan' ny masoko ny nenina.\""
-    },
-    {
-      "v": 15,
-      "text": "Na dia mahavokatra eo amin' ny rahalahiny aza izy, dia ho avy ny rivotra avy any atsinanana, dia ny rivotr' i Jehovah hiakatra avy any an' efitra, ka dia ho ritra ny loharanony, ary ho tankina ny fantsakany: Hobaboiny ny rakitra, dia ny fanaka tsara rehetra."
-    },
-    {
-      "v": 16,
-      "text": "\"Ho lao Samaria fa niodina tamin' Andriamaniny izy; ho lavon-tsabatra izy, hotorotoroina ny zanany madinika, ary izay bevohoka eo aminy hotatahana.\""
-    }
-  ]
+  "verses": {
+    "1": "Raha niteny Efraima, dia nampangorohoro, ka nanandra-tena tao amin' ny Isiraely, fa rehefa nanota ny amin' i Bala izy, dia maty.",
+    "2": "Ary ankehitriny dia mandroso manota izy, fa ny volafotsiny no anaovany sarin-javatra an' idina ho azy, dia sampy araka ny fahalalany izay asan' ny mpiasa avokoa; ireny dia lazainy hoe: Aoka izay manao fanatitra hanoroka ny ombilahy kely.",
+    "3": "Koa ho toy ny rahona maraina izy sy ho toy ny ando izay levona raha mbola maraina ny andro, sy ho toy ny akofa izay paohin' ny rivotra hiala amin' ny famoloana ary ho toy ny setroka avy amin' ny lafaoro.",
+    "4": "Fa Izaho no Jehovah Andriamanitrao hatrany amin' ny tany Egypta, ary tsy hahalala Andriamanitra afa-tsy Izaho ianao, sady tsy misy mpamonjy afa-tsy Izaho.",
+    "5": "Izaho dia nahalala anao tany an' efitra, dia tany amin' ny tany mampangetaheta.",
+    "6": "Araka ny ahitra teny aminy no nahavoky azy; voky izy, ka niavonavona ny fony; koa izany no nanadinoany Ahy.",
+    "7": "Ka dia ho tonga toy ny liona aminy Aho, toy ny leoparda amoron-dalana no handinihako azy.",
+    "8": "Hamely azy toy ny famelin' ny bera very anaka Aho, ka handriatra ny sarom-pony, eny any no handrapahako azy toy ny fandrapaky ny liom-bavy; ny biby dia no hamiravira azy.",
+    "9": "Nanimba tena ianao ry Isiraely ô, fa ato amiko ny fanampiana anao.",
+    "10": "Izaho no ho mpanjakanao, aiza ary izay hafa afaka hamonjy anao ao an-tanànanao rehetra?Ary aiza ireo mpitsaranao izay nilazanao hoe: Omeo mpanjaka sy mpanapaka aho?",
+    "11": "Nomeko mpanjaka ianao tamin' ny fahatezerako ary nesoriko izy tamin' ny fahavinirako.",
+    "12": "Voafehy ny helok' i Efraima, voaafina ny fahotany,",
+    "13": "Ny fahorian' ny vehivavy miteraka no hahazo azy, zazalahy tsy hendry izy; fa tsy tokony hitoetra ela eo amin' ny fotoana fiterahan-jaza izy.",
+    "14": "Havotako tsy ho azon' ny herin' ny fasana izy; hovonjeko ho afaka amin' ny fahafatesana izy; ry fahafatesana ô, Izaho no ho areti-mandringanao; ry fasana ô, Izaho no fandringananao; hafenina tsy ho hitan' ny masoko ny nenina.",
+    "15": "Na dia mahavokatra eo amin' ny rahalahiny aza izy, dia ho avy ny rivotra avy any atsinanana, dia ny rivotr' i Jehovah hiakatra avy any an' efitra, ka dia ho ritra ny loharanony, ary ho tankina ny fantsakany: Hobaboiny ny rakitra, dia ny fanaka tsara rehetra.",
+    "16": "Ho lao Samaria fa niodina tamin' Andriamaniny izy; ho lavon-tsabatra izy, hotorotoroina ny zanany madinika, ary izay bevohoka eo aminy hotatahana."
+  }
 }

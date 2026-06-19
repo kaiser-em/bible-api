@@ -1,89 +1,27 @@
 {
+  "book": "Ezekiela",
   "chapter": 29,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tamin' ny andro faharoa ambin' ny folo tamin' ny volana fahafolo tamin' ny taona fahafolo dia tonga tamiko ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Ry zanak' olona, manandrifia an' i Farao, mpanjakan' i Egypta, ka maminania ny hamelezana azy mbamin' i Egypta rehetra."
-    },
-    {
-      "v": 3,
-      "text": "Mitenena, ka ataovy hoe: izao no lazain' i Jehovah Andriamanitra: Indro, avy hamely anao Aho, ry Farao, mpanjakan' i Egypta, Ilay dragona makadiry mamitsaka ao afovoan' ny reniranony, dia ilay efa nanao hoe: Ahy manokana ny reniranoko, Izaho no namorona azy ho an' ny tenako."
-    },
-    {
-      "v": 4,
-      "text": "Fa hasiako farango ny valanoranonao sady hampiraiketiko amin' ny kiranao ny hazandrano ao amin' ny reniranonao, dia hampiakariko avy eo afovoan' ny reniranonao ianao ary ny hazandrano rehetra amin' ny reniranonao dia hiraikitra amin' ny kiranao."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary hariako any an' efitra ianao, dia ianao sy ny hazandrano rehetra avy amin' ny reniranonao; hitsitsitra eny an-tanety ianao ka tsy hovorina na hangonina; efa nomeko hohanin' ny biby eny an-tsaha sy ny voro-manidina eny amin' ny lanitra ianao.\""
-    },
-    {
-      "v": 6,
-      "text": "Dia ho fantatry ny mponina rehetra any Egypta fa Izaho no Jehovah, satria efa tehina volotara ho an' ny taranak' Isiraely izy."
-    },
-    {
-      "v": 7,
-      "text": "\"Nony nandray anao tamin' ny tanany izy ireo, dia folaka ianao, ka voatsindronao ny helik' izy rehetra; ary nony nitehina taminao izy ireo, dia tapaka ianao ka nampilefitra ny valahan' izy rehetra.\""
-    },
-    {
-      "v": 8,
-      "text": "Koa izao no lazain' i Jehovah Andriamanitra: Indro, hahatonga sabatra hamely anao Aho ka hofongorako tsy ho aminao ny olona sy ny biby."
-    },
-    {
-      "v": 9,
-      "text": "Ary ny tany Egypta ho lao sy rava, ka dia ho fantany fa Izaho no Jehovah, satria izy efa nanao hoe: Ahy ny renirano, Izaho no nanao azy."
-    },
-    {
-      "v": 10,
-      "text": "Dia, indro, avy hamely anao sy ny reniranonao Aho, ary ny tany Egypta hataoko lao sy rava tanteraka, hatrany Syena ka hatramin' ny sisin' i Etiopia."
-    },
-    {
-      "v": 11,
-      "text": "Tsy hodiavin-tongotr' olona ny tany, ary ny tongo-biby aza tsy handia azy, sady tsy honenana efapolo taona izy."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary hataoko lao ao amin' ny tany lao ny tany Egypta, ary ny tanànany dia ho rava ao amin' ny tanàna lao efapolo taona; dia haeliko ho any amin' ny firenena samy hafa ny Egyptiana, ary hahahako any amin' ny tany samy hafa.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Fa izao no lazain' i Jehovah Andriamanitra: rehefa afaka efapolo taona dia hangoniko avy any amin' ny firenena izay nielezany ny Egyptiana;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary haveriko avy amin' ny fahababoany Egypta, ka hampodiko any amin' ny tany Patrosa, tany niaviany izy; ary ho fanjakana ambany Egypta;\""
-    },
-    {
-      "v": 15,
-      "text": "\"Eny, ho ambany indrindra noho ny fanjakana hafa izy ka tsy hisandratra ambonin' ny firenena hafa intsony; fa hohakeleziko izy ka tsy hampanompo ny firenena intsony.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Dia tsy ho tokin' ny taranak' Isiraely intsony izy ho fampahatsiarovana ny helony amin' ny andehanan' ireo hanaraka azy; ka dia ho fantany fa Izaho no Jehovah Andriamanitra.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary izao no niseho, tamin' ny andro voalohany tamin' ny volana voalohany tamin' ny taona fahafito amby roapolo dia tonga tamiko ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 18,
-      "text": "Ry zanak' olona, mafy ny fanompoana izay nampanaovin' i Nebokadnezara, mpanjakan' i Babylona ny miaramilany tamin' ny namelezany an' i Tyro, ka efa samy tonga sola avokoa ny lohany, sady niendaka ny sorony, nefa tsy nahazo karama avy tany Tyro izy sy ny miaramilany noho ny fanompoana izay nataony tamin' ny namelezany azy."
-    },
-    {
-      "v": 19,
-      "text": "Koa izao no lazain' i Jehovah Andriamanitra: Indro, homeko an' i Nebokadnezara, mpanjakan' i Babylona, ny tany Egypta, dia halainy ny olony marobe ary halainy izay nobaboiny ao, hataony sambotra izay azo ao, ary izany no ho karaman' ny miaramilany."
-    },
-    {
-      "v": 20,
-      "text": "Ho valin' ny fanompoana nataony tany Tyro no nanomezako azy ny tany Egypta, satria nataony ho Ahy izany, hoy Jehovah Andriamanitra."
-    },
-    {
-      "v": 21,
-      "text": "\"Amin' izany andro izany dia hampitsimoka tandroka ho an' ny taranak' Isiraely Aho, ary hampiloahiko vava eo aminy ianao; ka dia ho fantany fa Izaho no Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "Tamin' ny andro faharoa ambin' ny folo tamin' ny volana fahafolo tamin' ny taona fahafolo dia tonga tamiko ny tenin' i Jehovah nanao hoe:",
+    "2": "Ry zanak' olona, manandrifia an' i Farao, mpanjakan' i Egypta, ka maminania ny hamelezana azy mbamin' i Egypta rehetra.",
+    "3": "Mitenena, ka ataovy hoe: izao no lazain' i Jehovah Andriamanitra: Indro, avy hamely anao Aho, ry Farao, mpanjakan' i Egypta, Ilay dragona makadiry mamitsaka ao afovoan' ny reniranony, dia ilay efa nanao hoe: Ahy manokana ny reniranoko, Izaho no namorona azy ho an' ny tenako.",
+    "4": "Fa hasiako farango ny valanoranonao sady hampiraiketiko amin' ny kiranao ny hazandrano ao amin' ny reniranonao, dia hampiakariko avy eo afovoan' ny reniranonao ianao ary ny hazandrano rehetra amin' ny reniranonao dia hiraikitra amin' ny kiranao.",
+    "5": "Ary hariako any an' efitra ianao, dia ianao sy ny hazandrano rehetra avy amin' ny reniranonao; hitsitsitra eny an-tanety ianao ka tsy hovorina na hangonina; efa nomeko hohanin' ny biby eny an-tsaha sy ny voro-manidina eny amin' ny lanitra ianao.",
+    "6": "Dia ho fantatry ny mponina rehetra any Egypta fa Izaho no Jehovah, satria efa tehina volotara ho an' ny taranak' Isiraely izy.",
+    "7": "Nony nandray anao tamin' ny tanany izy ireo, dia folaka ianao, ka voatsindronao ny helik' izy rehetra; ary nony nitehina taminao izy ireo, dia tapaka ianao ka nampilefitra ny valahan' izy rehetra.",
+    "8": "Koa izao no lazain' i Jehovah Andriamanitra: Indro, hahatonga sabatra hamely anao Aho ka hofongorako tsy ho aminao ny olona sy ny biby.",
+    "9": "Ary ny tany Egypta ho lao sy rava, ka dia ho fantany fa Izaho no Jehovah, satria izy efa nanao hoe: Ahy ny renirano, Izaho no nanao azy.",
+    "10": "Dia, indro, avy hamely anao sy ny reniranonao Aho, ary ny tany Egypta hataoko lao sy rava tanteraka, hatrany Syena ka hatramin' ny sisin' i Etiopia.",
+    "11": "Tsy hodiavin-tongotr' olona ny tany, ary ny tongo-biby aza tsy handia azy, sady tsy honenana efapolo taona izy.",
+    "12": "Ary hataoko lao ao amin' ny tany lao ny tany Egypta, ary ny tanànany dia ho rava ao amin' ny tanàna lao efapolo taona; dia haeliko ho any amin' ny firenena samy hafa ny Egyptiana, ary hahahako any amin' ny tany samy hafa.",
+    "13": "Fa izao no lazain' i Jehovah Andriamanitra: rehefa afaka efapolo taona dia hangoniko avy any amin' ny firenena izay nielezany ny Egyptiana;",
+    "14": "Ary haveriko avy amin' ny fahababoany Egypta, ka hampodiko any amin' ny tany Patrosa, tany niaviany izy; ary ho fanjakana ambany Egypta;",
+    "15": "Eny, ho ambany indrindra noho ny fanjakana hafa izy ka tsy hisandratra ambonin' ny firenena hafa intsony; fa hohakeleziko izy ka tsy hampanompo ny firenena intsony.",
+    "16": "Dia tsy ho tokin' ny taranak' Isiraely intsony izy ho fampahatsiarovana ny helony amin' ny andehanan' ireo hanaraka azy; ka dia ho fantany fa Izaho no Jehovah Andriamanitra.",
+    "17": "Ary izao no niseho, tamin' ny andro voalohany tamin' ny volana voalohany tamin' ny taona fahafito amby roapolo dia tonga tamiko ny tenin' i Jehovah nanao hoe:",
+    "18": "Ry zanak' olona, mafy ny fanompoana izay nampanaovin' i Nebokadnezara, mpanjakan' i Babylona ny miaramilany tamin' ny namelezany an' i Tyro, ka efa samy tonga sola avokoa ny lohany, sady niendaka ny sorony, nefa tsy nahazo karama avy tany Tyro izy sy ny miaramilany noho ny fanompoana izay nataony tamin' ny namelezany azy.",
+    "19": "Koa izao no lazain' i Jehovah Andriamanitra: Indro, homeko an' i Nebokadnezara, mpanjakan' i Babylona, ny tany Egypta, dia halainy ny olony marobe ary halainy izay nobaboiny ao, hataony sambotra izay azo ao, ary izany no ho karaman' ny miaramilany.",
+    "20": "Ho valin' ny fanompoana nataony tany Tyro no nanomezako azy ny tany Egypta, satria nataony ho Ahy izany, hoy Jehovah Andriamanitra.",
+    "21": "Amin' izany andro izany dia hampitsimoka tandroka ho an' ny taranak' Isiraely Aho, ary hampiloahiko vava eo aminy ianao; ka dia ho fantany fa Izaho no Jehovah."
+  }
 }

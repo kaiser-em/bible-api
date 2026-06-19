@@ -1,69 +1,22 @@
 {
+  "book": "1 Timoty",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Fa ny Fanahy milaza marina fa amin’ny andro aoriana dia hiala amin’ny finoana ny sasany, manaiky fanahy mamitaka sy fampianaran’ny devoly;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Milaza lainga amin’ny fihatsarambelatsihy ka voapetaky ny vy mahamay ny fieritreretany;\""
-    },
-    {
-      "v": 3,
-      "text": "Izay mandrara tsy hanambady, ary mba hifadiana ny hanina izay noforonin’Andriamanitra horaisin’izay mino sy mahalala ny marina amin’ny fisaorana."
-    },
-    {
-      "v": 4,
-      "text": "Ny zavatra rehetra noforonin’Andriamanitra dia tsara avokoa, ka tsy misy tokony holavina raha raisina amin’ny fisaorana,"
-    },
-    {
-      "v": 5,
-      "text": "Satria hamasinin’ny tenin’Andriamanitra sy ny fivavahana izany,"
-    },
-    {
-      "v": 6,
-      "text": "Raha mampahatsiaro ny rahalahy ny amin’izany zavatra izany ianao, dia ho mpanompo tsaran’i Jesosy Kristy, tezaina amin’ny tenin’ny finoana sy ny foto-pampianarana tsara izay narahinao."
-    },
-    {
-      "v": 7,
-      "text": "Fa ny anganongano ratsy fanaom-bavy antitra dia lavo, ka mampiasà ny tenanao ho amin’ny toe-panahy araka an’Andriamanitra."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa mahasoa kely ihany ny fampiasana ny tena; fa ny toe-panahy araka an’Andriamanitra no mahasoa amin’ny zavatra rehetra ka manana ny tenifikasana ny amin’ny fiainana ankehitriny sy ny ho avy koa.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Mahatoky izao teny izao ka tokony hekena amin’ny fankasitrahana rehetra;\""
-    },
-    {
-      "v": 10,
-      "text": "Fa izany no ikelezanay aina sy iaretanay fanaratsiana, satria matoky an' Andriamanitra velona izahay, Izay Mpamonjy ny olona rehetra, indrindra fa izay mino."
-    },
-    {
-      "v": 11,
-      "text": "Izany zavatra izany no andidio sy ampianaro."
-    },
-    {
-      "v": 12,
-      "text": "\"Aoka tsy hisy olona hanao tsinontsinona anao noho ny fahatanoranao; fa aoka ho ohatra ny amin’ny mpino ianao amin’ny fiteny, amin’ny fitondrantena, amin’ny fitiavana, amin’ny fanahy, amin’ny finoana, amin’ny fahadiovana.\""
-    },
-    {
-      "v": 13,
-      "text": "Mandra-piaviko, manokàna fotoana ho amin’ny famakian-teny, ny fananarana, ny foto-pampianarana."
-    },
-    {
-      "v": 14,
-      "text": "Aza manao tsirambina ny fanomezana izay ao anatinao, izay nomena anao tamin’ny faminaniana mbamin' ny fametrahan-tanan’ny loholona."
-    },
-    {
-      "v": 15,
-      "text": "\"Saintsaino izany zavatra izany; dia mikeleza aina fatratra amin’izany, mba hiseho amin’ny rehetra ny fandrosoanao.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Tandremo ny tenanao sy ny foto-pampianarana, ka mahareta amin’izany; fa raha manao izany ianao, dia hamonjy ny tenanao sy izay mihaino anao.\""
-    }
-  ]
+  "verses": {
+    "1": "Fa ny Fanahy milaza marina fa amin’ny andro aoriana dia hiala amin’ny finoana ny sasany, manaiky fanahy mamitaka sy fampianaran’ny devoly;",
+    "2": "Milaza lainga amin’ny fihatsarambelatsihy ka voapetaky ny vy mahamay ny fieritreretany;",
+    "3": "Izay mandrara tsy hanambady, ary mba hifadiana ny hanina izay noforonin’Andriamanitra horaisin’izay mino sy mahalala ny marina amin’ny fisaorana.",
+    "4": "Ny zavatra rehetra noforonin’Andriamanitra dia tsara avokoa, ka tsy misy tokony holavina raha raisina amin’ny fisaorana,",
+    "5": "Satria hamasinin’ny tenin’Andriamanitra sy ny fivavahana izany,",
+    "6": "Raha mampahatsiaro ny rahalahy ny amin’izany zavatra izany ianao, dia ho mpanompo tsaran’i Jesosy Kristy, tezaina amin’ny tenin’ny finoana sy ny foto-pampianarana tsara izay narahinao.",
+    "7": "Fa ny anganongano ratsy fanaom-bavy antitra dia lavo, ka mampiasà ny tenanao ho amin’ny toe-panahy araka an’Andriamanitra.",
+    "8": "Fa mahasoa kely ihany ny fampiasana ny tena; fa ny toe-panahy araka an’Andriamanitra no mahasoa amin’ny zavatra rehetra ka manana ny tenifikasana ny amin’ny fiainana ankehitriny sy ny ho avy koa.",
+    "9": "Mahatoky izao teny izao ka tokony hekena amin’ny fankasitrahana rehetra;",
+    "10": "Fa izany no ikelezanay aina sy iaretanay fanaratsiana, satria matoky an' Andriamanitra velona izahay, Izay Mpamonjy ny olona rehetra, indrindra fa izay mino.",
+    "11": "Izany zavatra izany no andidio sy ampianaro.",
+    "12": "Aoka tsy hisy olona hanao tsinontsinona anao noho ny fahatanoranao; fa aoka ho ohatra ny amin’ny mpino ianao amin’ny fiteny, amin’ny fitondrantena, amin’ny fitiavana, amin’ny fanahy, amin’ny finoana, amin’ny fahadiovana.",
+    "13": "Mandra-piaviko, manokàna fotoana ho amin’ny famakian-teny, ny fananarana, ny foto-pampianarana.",
+    "14": "Aza manao tsirambina ny fanomezana izay ao anatinao, izay nomena anao tamin’ny faminaniana mbamin' ny fametrahan-tanan’ny loholona.",
+    "15": "Saintsaino izany zavatra izany; dia mikeleza aina fatratra amin’izany, mba hiseho amin’ny rehetra ny fandrosoanao.",
+    "16": "Tandremo ny tenanao sy ny foto-pampianarana, ka mahareta amin’izany; fa raha manao izany ianao, dia hamonjy ny tenanao sy izay mihaino anao."
+  }
 }

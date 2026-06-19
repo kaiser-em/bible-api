@@ -1,73 +1,23 @@
 {
+  "book": "Hosea",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Aza dia fatra-pifaly loatra, toy ny firenena hafa, ry Isiraely, fa ianao efa nijangajanga niala tamin' Andriamanitrao, sady efa tia tangy teny am-pamoloana rehetra."
-    },
-    {
-      "v": 2,
-      "text": "Ny famoloana sy ny famiazana tsy hahavelona azy, ary hahadiso fanantenana azy ny ranom-boaloboka."
-    },
-    {
-      "v": 3,
-      "text": "\"Tsy honina ao amin' ny tanin' i Jehovah izy; fa Efraima hiverina ho any Egypta ary hihinana zava-padìna izy ireo any Asyria.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Tsy hanidina divay ho fanatitra ho an' i Jehovah izy, ary tsy hankasitrahany; ny zavatra vonoiny hatao fanatitra dia ho toy ny fahan-kanina ho an' ny mpisaona aminy: Izay rehetra homana izany dia voaloto; fa ny haniny dia ho an' ny tenany ihany, fa tsy ho tafiditra ao an-tranon' i Jehovah.\""
-    },
-    {
-      "v": 5,
-      "text": "Hanao ahoana kosa ianareo amin' ny andro lehibe sy amin' ny andro firavoravoana voatendrin' i Jehovah?"
-    },
-    {
-      "v": 6,
-      "text": "\"Fa he! Lasa izy noho ny fandringanana; Egypta no hanangona azy, Memfisa no handevina azy; ny fana-bolafotsiny mahafinaritra dia ho lasan' ny amiana, tsilo no ho ao amin’ny tabernakeliny.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Tonga ireo andro famaliana, tonga ireo andro fanodiavana; ho fantatr' Isiraely izany; adala ny mpaminany, very saina ny olona ara-panahy, noho ny hamaroan' ny helokao sy ny halehiben' ny fankahalana.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ny mpiambina an' i Efraima dia tao amin' Andriamanitro; fa ny mpaminany dia fandriky ny mpamandri-borona eny amin' ny alehany rehetra, ary fankahalana ao an-tranon' Andriamaniny.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Fatra-panao ratsy toy ny tamin' ny andro tany Gibea izy; ka dia hotsarovany ny helony, ary hovaliany ny fahotany.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Tahaka ny fahitana voaloboka any an' efitra no nahitako ny Isiraely; toy ny fahitana aviavy mialin-taona no nahitako ny razanareo; nefa ireny dia tonga tany Bala-peora ka nanolo-tena ho amin' izay mampahamenatra, ka tonga fahavetavetana tahaka izay tiany ihany izy.\""
-    },
-    {
-      "v": 11,
-      "text": "Ny amin' i Efraima, hihelina toy ny voro-manidina ny voninahiny, ka tsy hisy hiteraka, na hanana anaka, na ho torontoronina."
-    },
-    {
-      "v": 12,
-      "text": "\"Na dia misy mitaiza zanaka aza izy, dia hofoanako ihany ireny, ka tsy hisy miangana; eny, hahita loza koa izy amin' ny handaozako azy!\""
-    },
-    {
-      "v": 13,
-      "text": "Efraima, araka ny nahitako an' i Tyro, dia voavoly ao amin' ny tany mahafinaritra, nefa hamoaka ny zanany ho amin' ny mpamono izy."
-    },
-    {
-      "v": 14,
-      "text": "Jehovah ô, omeo azy: Inona no homenao azy? Omeo azy ny kibo tsy mahazo zaza sy ny nono ritra."
-    },
-    {
-      "v": 15,
-      "text": "\"Ao Gilgala ny faharatsiany rehetra fa tao no nankahalako azy; noho ny faharatsian' ny ataony dia horoahiko hiala ao an-tranoko izy; tsy ho tia azy intsony Aho, mpiodina avokoa ny mpanapaka azy.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Voaratra Efraima, maina ny fakany, ka tsy hamoa izy; eny, na dia miteraka aza izy, dia hovonoiko ny vokatra mahafinaritra nateraky ny kibony.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Harian' Andriamanitro izy, satria tsy nihaino Azy; ka dia ho tonga mpirenireny any amin' ny firenena izy.\""
-    }
-  ]
+  "verses": {
+    "1": "Aza dia fatra-pifaly loatra, toy ny firenena hafa, ry Isiraely, fa ianao efa nijangajanga niala tamin' Andriamanitrao, sady efa tia tangy teny am-pamoloana rehetra.",
+    "2": "Ny famoloana sy ny famiazana tsy hahavelona azy, ary hahadiso fanantenana azy ny ranom-boaloboka.",
+    "3": "Tsy honina ao amin' ny tanin' i Jehovah izy; fa Efraima hiverina ho any Egypta ary hihinana zava-padìna izy ireo any Asyria.",
+    "4": "Tsy hanidina divay ho fanatitra ho an' i Jehovah izy, ary tsy hankasitrahany; ny zavatra vonoiny hatao fanatitra dia ho toy ny fahan-kanina ho an' ny mpisaona aminy: Izay rehetra homana izany dia voaloto; fa ny haniny dia ho an' ny tenany ihany, fa tsy ho tafiditra ao an-tranon' i Jehovah.",
+    "5": "Hanao ahoana kosa ianareo amin' ny andro lehibe sy amin' ny andro firavoravoana voatendrin' i Jehovah?",
+    "6": "Fa he! Lasa izy noho ny fandringanana; Egypta no hanangona azy, Memfisa no handevina azy; ny fana-bolafotsiny mahafinaritra dia ho lasan' ny amiana, tsilo no ho ao amin’ny tabernakeliny.",
+    "7": "Tonga ireo andro famaliana, tonga ireo andro fanodiavana; ho fantatr' Isiraely izany; adala ny mpaminany, very saina ny olona ara-panahy, noho ny hamaroan' ny helokao sy ny halehiben' ny fankahalana.",
+    "8": "Ny mpiambina an' i Efraima dia tao amin' Andriamanitro; fa ny mpaminany dia fandriky ny mpamandri-borona eny amin' ny alehany rehetra, ary fankahalana ao an-tranon' Andriamaniny.",
+    "9": "Fatra-panao ratsy toy ny tamin' ny andro tany Gibea izy; ka dia hotsarovany ny helony, ary hovaliany ny fahotany.",
+    "10": "Tahaka ny fahitana voaloboka any an' efitra no nahitako ny Isiraely; toy ny fahitana aviavy mialin-taona no nahitako ny razanareo; nefa ireny dia tonga tany Bala-peora ka nanolo-tena ho amin' izay mampahamenatra, ka tonga fahavetavetana tahaka izay tiany ihany izy.",
+    "11": "Ny amin' i Efraima, hihelina toy ny voro-manidina ny voninahiny, ka tsy hisy hiteraka, na hanana anaka, na ho torontoronina.",
+    "12": "Na dia misy mitaiza zanaka aza izy, dia hofoanako ihany ireny, ka tsy hisy miangana; eny, hahita loza koa izy amin' ny handaozako azy!",
+    "13": "Efraima, araka ny nahitako an' i Tyro, dia voavoly ao amin' ny tany mahafinaritra, nefa hamoaka ny zanany ho amin' ny mpamono izy.",
+    "14": "Jehovah ô, omeo azy: Inona no homenao azy? Omeo azy ny kibo tsy mahazo zaza sy ny nono ritra.",
+    "15": "Ao Gilgala ny faharatsiany rehetra fa tao no nankahalako azy; noho ny faharatsian' ny ataony dia horoahiko hiala ao an-tranoko izy; tsy ho tia azy intsony Aho, mpiodina avokoa ny mpanapaka azy.",
+    "16": "Voaratra Efraima, maina ny fakany, ka tsy hamoa izy; eny, na dia miteraka aza izy, dia hovonoiko ny vokatra mahafinaritra nateraky ny kibony.",
+    "17": "Harian' Andriamanitro izy, satria tsy nihaino Azy; ka dia ho tonga mpirenireny any amin' ny firenena izy."
+  }
 }

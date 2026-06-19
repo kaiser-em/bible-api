@@ -1,93 +1,28 @@
 {
+  "book": "2 Samoela",
   "chapter": 21,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary nisy mosary telo taona misesy tamin' ny andron' i Davida; ary nanontany tamin' i Jehovah i Davida. Dia namaly Jehovah hoe: Noho ny amin' i Saoly sy ny ankohonany mpandatsa-drà izao, satria namono ny Gibeonita izy.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary ny mpanjaka niantso ny Gibeonita ka niteny taminy (ny Gibeonita dia tsy mba isan' ny Zanak' Isiraely, fa sisa tamin' ny Amorita; ary ny Zanak' Isiraely efa nianiana taminy nefa Saoly nitady izay hamelezany azy noho ny firehetany ny amin' ny Zanak' Isiraely sy ny Joda).\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary hoy Davida tamin' ny Gibeonita: Inona no hataoko ho anareo; ary amin' inona no hanaovako fanavotana mba hitsofanareo rano ny lovan' i Jehovah?\""
-    },
-    {
-      "v": 4,
-      "text": "Dia hoy ny Gibeonita: Izahay tsy mahazo mandray volafotsy na volamena amin' i Saoly na amin' ny taranany, ary tsy hamono olona amin' ny Isiraely noho ny aminay ianao. Ary hoy izy: Izay holazainareo no hataoko ho anareo."
-    },
-    {
-      "v": 5,
-      "text": "Dia namaly ny mpanjaka izy ireo hoe: Ny lehilahy izay nandringana anay sy nikasa hamely anay ho ringana tsy hitoetra amin' ny tanin' ny Isiraely rehetra,"
-    },
-    {
-      "v": 6,
-      "text": "No aoka hisy fito lahy amin' ny zanany hatolotra anay hahantonay ho an' i Jehovah ao Gibean' i Saoly, ilay voafidin' i Jehovah. Dia hoy ny mpanjaka: Hatolotro izy."
-    },
-    {
-      "v": 7,
-      "text": "Fa ny mpanjaka niaro an' i Mefiboseta, zanak' i Jonatana, zanak' i Saoly, noho ny fianianana tamin' i Jehovah nataon' i Davida sy Jonatana, zanak' i Saoly."
-    },
-    {
-      "v": 8,
-      "text": "Fa ny mpanjaka naka azy roa lahy, zanak' i Rizpa, zanakavavin' i Aia, izay naterany tamin' i Saoly, dia Armony sy Mefiboseta, ary ny dimy lahy zanak' i Mikala, zanakavavin' i Saoly, izay naterany tamin' i Adriela, zanak' i Barzilay Meholatita,"
-    },
-    {
-      "v": 9,
-      "text": "\"Dia natolony teo an-tanan' ny Gibeonita ireo ka nahanton' ireo teo amin' ny havoana teo anatrehan' i Jehovah; ary niara-maty izy fito lahy, samy novonoiny tamin' ny niandohan' ny fararano tamin' ny andro voalohan' ny taom-pijinjana ny vary hordea izy ireo.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary Rizpa, zanakavavin' i Aia, naka lamba fisaonana, dia novelariny ho azy teo amin' ny vatolampy izany hatramin' ny niandohan' ny taom-pijinjana ka ambara-pilatsaky ny orana avy any an-danitra tamin' ny faty, ka tsy navelany hipetrahan' ny vorona eny amin' ny habakabaka ireo nony antoandro, na ny biby eny an-tsaha nony alina."
-    },
-    {
-      "v": 11,
-      "text": "Ary nambara tamin' i Davida izay nataon' i Rizpa, zanakavavin' i Aia, vadi-tsindranon' i Saoly."
-    },
-    {
-      "v": 12,
-      "text": "Dia lasa Davida naka ny taolan' i Saoly sy ny taolan' i Jonatana zanany tany amin' ny mponina tao Jabesi-gileada, izay nangalatra azy tao an-kalalahana any Beti-sana, ilay nanantonan' ny Filistina azy tamin' ny andro namonoan' ny Filistina an' i Saoly tao Gilboa."
-    },
-    {
-      "v": 13,
-      "text": "Ary dia nentiny niakatra avy tany ny taolan' i Saoly sy ny taolan' i Jonatana zanany, ary nangoniny koa ny taolan' ireo voahantona ireo."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary ny taolan' i Saoly sy Jonatana zanany dia nalevin' ny olona tao amin' ny tanin' ny Benjamina tao Zela, tao amin' ny fasan' i Kisy rainy; ary dia vitany izay rehetra nandidian' ny mpanjaka. Ary nony efa vitany izany, dia neken' Andriamanitra ny fifonana natao ho an' ny tany.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary niady indray ny Filistina sy ny Isiraely; ary Davida sy ny mpanompony izay nanaraka azy dia nidina ka niady tamin' ny Filistina, ary reraka Davida.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary Jisbi-benoba, isan' ny taranaky ny olona goavambe (ny lanjan' ny lefony dia varahina telonjato sekely), dia nitondra sabatra vaovao ka nikasa hahafaty an' i Davida."
-    },
-    {
-      "v": 17,
-      "text": "Fa Abisay, zanak' i Zeroia, nanampy azy, dia namely ilay Filistina ka nahafaty azy. Ary tamin' izany ny olon' i Davida dia nianiana taminy ka nanao hoe: Tsy hiara-mivoaka aminay intsony ho amin' ny ady ianao, fandrao hovonoinao ny fahazavan' ny Isiraely."
-    },
-    {
-      "v": 18,
-      "text": "Ary izao no niseho, nony afaka izany dia nisy ady indray tamin' ny Filistina teo Goba, ary Sibeka Hosatita nahafaty an' i Safa, izay isan' ny taranaky ny olona goavambe."
-    },
-    {
-      "v": 19,
-      "text": "Ary nisy ady indray koa tamin' ny Filistina teo Goba, ary Elanana, zanak' i Jare-oregima Betlehemita namono ny rahalahin' i Goliata Gatita, izay nanan-jaran-defona tahaka ny vodi-tenon' ny mpanenona."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary mbola nisy ady koa tao Gata, izay nisy lehilahy vaventy nanana rantsana enina avy teo amin' ny isan-tanany, sy rantsana enina avy teo amin' ny isan-tongony, dia efatra amby roapolo no fitambarany; ary izy koa dia taranaky ny olona goavambe.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary rehefa nihaika ny Isiraely izy, dia novonoin' i Jonatana, zanak' i Simea, rahalahin' i Davida."
-    },
-    {
-      "v": 22,
-      "text": "Ireo efatra ireo no teraky ny olona goavambe tao Gata, ka lavo tamin' ny tanan' i Davida sy ny tanan' ny mpanompony."
-    }
-  ]
+  "verses": {
+    "1": "Ary nisy mosary telo taona misesy tamin' ny andron' i Davida; ary nanontany tamin' i Jehovah i Davida. Dia namaly Jehovah hoe: Noho ny amin' i Saoly sy ny ankohonany mpandatsa-drà izao, satria namono ny Gibeonita izy.",
+    "2": "Ary ny mpanjaka niantso ny Gibeonita ka niteny taminy (ny Gibeonita dia tsy mba isan' ny Zanak' Isiraely, fa sisa tamin' ny Amorita; ary ny Zanak' Isiraely efa nianiana taminy nefa Saoly nitady izay hamelezany azy noho ny firehetany ny amin' ny Zanak' Isiraely sy ny Joda).",
+    "3": "Ary hoy Davida tamin' ny Gibeonita: Inona no hataoko ho anareo; ary amin' inona no hanaovako fanavotana mba hitsofanareo rano ny lovan' i Jehovah?",
+    "4": "Dia hoy ny Gibeonita: Izahay tsy mahazo mandray volafotsy na volamena amin' i Saoly na amin' ny taranany, ary tsy hamono olona amin' ny Isiraely noho ny aminay ianao. Ary hoy izy: Izay holazainareo no hataoko ho anareo.",
+    "5": "Dia namaly ny mpanjaka izy ireo hoe: Ny lehilahy izay nandringana anay sy nikasa hamely anay ho ringana tsy hitoetra amin' ny tanin' ny Isiraely rehetra,",
+    "6": "No aoka hisy fito lahy amin' ny zanany hatolotra anay hahantonay ho an' i Jehovah ao Gibean' i Saoly, ilay voafidin' i Jehovah. Dia hoy ny mpanjaka: Hatolotro izy.",
+    "7": "Fa ny mpanjaka niaro an' i Mefiboseta, zanak' i Jonatana, zanak' i Saoly, noho ny fianianana tamin' i Jehovah nataon' i Davida sy Jonatana, zanak' i Saoly.",
+    "8": "Fa ny mpanjaka naka azy roa lahy, zanak' i Rizpa, zanakavavin' i Aia, izay naterany tamin' i Saoly, dia Armony sy Mefiboseta, ary ny dimy lahy zanak' i Mikala, zanakavavin' i Saoly, izay naterany tamin' i Adriela, zanak' i Barzilay Meholatita,",
+    "9": "Dia natolony teo an-tanan' ny Gibeonita ireo ka nahanton' ireo teo amin' ny havoana teo anatrehan' i Jehovah; ary niara-maty izy fito lahy, samy novonoiny tamin' ny niandohan' ny fararano tamin' ny andro voalohan' ny taom-pijinjana ny vary hordea izy ireo.",
+    "10": "Ary Rizpa, zanakavavin' i Aia, naka lamba fisaonana, dia novelariny ho azy teo amin' ny vatolampy izany hatramin' ny niandohan' ny taom-pijinjana ka ambara-pilatsaky ny orana avy any an-danitra tamin' ny faty, ka tsy navelany hipetrahan' ny vorona eny amin' ny habakabaka ireo nony antoandro, na ny biby eny an-tsaha nony alina.",
+    "11": "Ary nambara tamin' i Davida izay nataon' i Rizpa, zanakavavin' i Aia, vadi-tsindranon' i Saoly.",
+    "12": "Dia lasa Davida naka ny taolan' i Saoly sy ny taolan' i Jonatana zanany tany amin' ny mponina tao Jabesi-gileada, izay nangalatra azy tao an-kalalahana any Beti-sana, ilay nanantonan' ny Filistina azy tamin' ny andro namonoan' ny Filistina an' i Saoly tao Gilboa.",
+    "13": "Ary dia nentiny niakatra avy tany ny taolan' i Saoly sy ny taolan' i Jonatana zanany, ary nangoniny koa ny taolan' ireo voahantona ireo.",
+    "14": "Ary ny taolan' i Saoly sy Jonatana zanany dia nalevin' ny olona tao amin' ny tanin' ny Benjamina tao Zela, tao amin' ny fasan' i Kisy rainy; ary dia vitany izay rehetra nandidian' ny mpanjaka. Ary nony efa vitany izany, dia neken' Andriamanitra ny fifonana natao ho an' ny tany.",
+    "15": "Ary niady indray ny Filistina sy ny Isiraely; ary Davida sy ny mpanompony izay nanaraka azy dia nidina ka niady tamin' ny Filistina, ary reraka Davida.",
+    "16": "Ary Jisbi-benoba, isan' ny taranaky ny olona goavambe (ny lanjan' ny lefony dia varahina telonjato sekely), dia nitondra sabatra vaovao ka nikasa hahafaty an' i Davida.",
+    "17": "Fa Abisay, zanak' i Zeroia, nanampy azy, dia namely ilay Filistina ka nahafaty azy. Ary tamin' izany ny olon' i Davida dia nianiana taminy ka nanao hoe: Tsy hiara-mivoaka aminay intsony ho amin' ny ady ianao, fandrao hovonoinao ny fahazavan' ny Isiraely.",
+    "18": "Ary izao no niseho, nony afaka izany dia nisy ady indray tamin' ny Filistina teo Goba, ary Sibeka Hosatita nahafaty an' i Safa, izay isan' ny taranaky ny olona goavambe.",
+    "19": "Ary nisy ady indray koa tamin' ny Filistina teo Goba, ary Elanana, zanak' i Jare-oregima Betlehemita namono ny rahalahin' i Goliata Gatita, izay nanan-jaran-defona tahaka ny vodi-tenon' ny mpanenona.",
+    "20": "Ary mbola nisy ady koa tao Gata, izay nisy lehilahy vaventy nanana rantsana enina avy teo amin' ny isan-tanany, sy rantsana enina avy teo amin' ny isan-tongony, dia efatra amby roapolo no fitambarany; ary izy koa dia taranaky ny olona goavambe.",
+    "21": "Ary rehefa nihaika ny Isiraely izy, dia novonoin' i Jonatana, zanak' i Simea, rahalahin' i Davida.",
+    "22": "Ireo efatra ireo no teraky ny olona goavambe tao Gata, ka lavo tamin' ny tanan' i Davida sy ny tanan' ny mpanompony."
+  }
 }

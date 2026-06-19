@@ -1,93 +1,28 @@
 {
+  "book": "Ohabolana",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ANAKA, raha horaisinao ny teniko, ary raketinao ao aminao ny didiko,"
-    },
-    {
-      "v": 2,
-      "text": "\"Ka atongilanao amin' ny fahendrena ny sofinao, ary hampitandremanao fahalalana ny fonao;\""
-    },
-    {
-      "v": 3,
-      "text": "\"Eny, raha miantso ny fahalalana ianao, ary manandratra ny feonao hahazo saina;\""
-    },
-    {
-      "v": 4,
-      "text": "Raha mikatsaka azy toy ny fikatsaka volafotsy ianao ary mitady azy toy ny fitady tahiry nafenina,"
-    },
-    {
-      "v": 5,
-      "text": "Dia ho fantatrao ny fahatahorana an' i Jehovah, ary ho hitanao ny fahalalana an' Andriamanitra."
-    },
-    {
-      "v": 6,
-      "text": "Fa manome fahendrena Jehovah ary avy amin' ny vavany no ivoahan' ny fahalalana sy ny fahatakaran-javatra."
-    },
-    {
-      "v": 7,
-      "text": "Mitahiry ny tena fahendrena ho an' ny marina Izy sady ampingan' izay mandeha mahitsy."
-    },
-    {
-      "v": 8,
-      "text": "\"Mitandrina ny lalan' ny fitsarana Izy; ary miaro ny lalan' ny olony masina.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary amin' izay dia ho fantatrao ny fahamarinana sy ny rariny ary ny fahitsiana, dia ny lalana tsara rehetra."
-    },
-    {
-      "v": 10,
-      "text": "Raha miditra ao am-ponao ny fahendrena ary mahafinaritra ny fanahinao ny fahalalana,"
-    },
-    {
-      "v": 11,
-      "text": "\"Dia hiaro anao ny fisainana mazava, ary hiambina anao ny fahalalana;\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ka hanafaka anao amin' ny lalan' ny olon-dratsy sy amin' ny lehilahy izay miteny fitaka;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Izay mahafoy ny lalan' ny fahitsiana, mba hizorany amin' ny lalan' ny fahamaizinana;\""
-    },
-    {
-      "v": 14,
-      "text": "Dia izay mifaly hanao ratsy ary finaritra amin' ny fitaky ny ratsy fanahy."
-    },
-    {
-      "v": 15,
-      "text": "\"Dia izay melo-dalana sy maniasia amin' ny alehany;\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary hanafaka anao amin' ny vehivavy jejo, dia ny vahiny izay mandrobo amin' ny teniny;\""
-    },
-    {
-      "v": 17,
-      "text": "Izay mahafoy ny mpitari-dalan' ny fahatanorany sy manadino ny faneken' andriamaniny."
-    },
-    {
-      "v": 18,
-      "text": "Fa ny tranony milentika ho amin' ny fahafatesana ary ny alehany mankany amin' ny maty."
-    },
-    {
-      "v": 19,
-      "text": "Tsy misy afa-miverina izay mankany aminy, na mihazo amin' ny lalan' aina,"
-    },
-    {
-      "v": 20,
-      "text": "Handehananao amin' ny lalan' ny tsara fanahy sy hitandremanao ny alehan' ny marina."
-    },
-    {
-      "v": 21,
-      "text": "Fa ny olona mahitsy no honina amin' ny tany ary ny tsy manan-tsiny no hitoetra ao."
-    },
-    {
-      "v": 22,
-      "text": "Fa ny ratsy fanahy kosa hofongorana amin' ny tany ary ny mpandika lalàna hongotana."
-    }
-  ]
+  "verses": {
+    "1": "ANAKA, raha horaisinao ny teniko, ary raketinao ao aminao ny didiko,",
+    "2": "Ka atongilanao amin' ny fahendrena ny sofinao, ary hampitandremanao fahalalana ny fonao;",
+    "3": "Eny, raha miantso ny fahalalana ianao, ary manandratra ny feonao hahazo saina;",
+    "4": "Raha mikatsaka azy toy ny fikatsaka volafotsy ianao ary mitady azy toy ny fitady tahiry nafenina,",
+    "5": "Dia ho fantatrao ny fahatahorana an' i Jehovah, ary ho hitanao ny fahalalana an' Andriamanitra.",
+    "6": "Fa manome fahendrena Jehovah ary avy amin' ny vavany no ivoahan' ny fahalalana sy ny fahatakaran-javatra.",
+    "7": "Mitahiry ny tena fahendrena ho an' ny marina Izy sady ampingan' izay mandeha mahitsy.",
+    "8": "Mitandrina ny lalan' ny fitsarana Izy; ary miaro ny lalan' ny olony masina.",
+    "9": "Ary amin' izay dia ho fantatrao ny fahamarinana sy ny rariny ary ny fahitsiana, dia ny lalana tsara rehetra.",
+    "10": "Raha miditra ao am-ponao ny fahendrena ary mahafinaritra ny fanahinao ny fahalalana,",
+    "11": "Dia hiaro anao ny fisainana mazava, ary hiambina anao ny fahalalana;",
+    "12": "Ka hanafaka anao amin' ny lalan' ny olon-dratsy sy amin' ny lehilahy izay miteny fitaka;",
+    "13": "Izay mahafoy ny lalan' ny fahitsiana, mba hizorany amin' ny lalan' ny fahamaizinana;",
+    "14": "Dia izay mifaly hanao ratsy ary finaritra amin' ny fitaky ny ratsy fanahy.",
+    "15": "Dia izay melo-dalana sy maniasia amin' ny alehany;",
+    "16": "Ary hanafaka anao amin' ny vehivavy jejo, dia ny vahiny izay mandrobo amin' ny teniny;",
+    "17": "Izay mahafoy ny mpitari-dalan' ny fahatanorany sy manadino ny faneken' andriamaniny.",
+    "18": "Fa ny tranony milentika ho amin' ny fahafatesana ary ny alehany mankany amin' ny maty.",
+    "19": "Tsy misy afa-miverina izay mankany aminy, na mihazo amin' ny lalan' aina,",
+    "20": "Handehananao amin' ny lalan' ny tsara fanahy sy hitandremanao ny alehan' ny marina.",
+    "21": "Fa ny olona mahitsy no honina amin' ny tany ary ny tsy manan-tsiny no hitoetra ao.",
+    "22": "Fa ny ratsy fanahy kosa hofongorana amin' ny tany ary ny mpandika lalàna hongotana."
+  }
 }

@@ -1,49 +1,17 @@
 {
+  "book": "Jona",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Fa tsy sitrak' i Jona indrindra izany, ka tezitra mafy izy."
-    },
-    {
-      "v": 2,
-      "text": "Dia nivavaka tamin' i Jehovah izy ka nanao hoe: Mifona aminao aho, Jehovah ô, tsy izao ihany va no efa nolazaiko fony aho mbola tany amin' ny taniko? Noho izany no nandosirako ho any Tarsisy, satria fantatro fa Ianao dia Andriamanitra miantra sy mamindrafo, mahari-po sady be famindrampo, ary manenina ny amin' ny loza."
-    },
-    {
-      "v": 3,
-      "text": "\"Koa mifona aminao aho ankehitriny, Jehovah ô, esory ny aiko; fa tsara ho ahy kokoa ny ho faty noho ny ho velona.\""
-    },
-    {
-      "v": 4,
-      "text": "Fa hoy Jehovah: Moa tsara va izao fahatezeranao izao?"
-    },
-    {
-      "v": 5,
-      "text": "\"Dia nivoaka ny tanàna Jona ka nipetraka teo atsinanan-tanàna; ary nanao trano rantsankazo ho azy teo izy ka nipetraka teo ambanin' ny alokalony ambara-pahitany izay hiafaran' ny tanàna.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary Jehovah Andriamanitra nanomana tanantanamanga, ka nampaniriny hanalokaloka an' i Jona izany ho alokaloky ny lohany, hanafaka ny alahelony, ka dia nahafaly an' i Jona indrindra ny tanantanamanga."
-    },
-    {
-      "v": 7,
-      "text": "Kanjo nony ampitso maraina dia nanomana kankana Andriamanitra, ka namely ilay tanantanamanga iny, dia nalazo izany."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary izao no niseho, nony niposaka ny masoandro, Andriamanitra dia nanomana rivotra mahamay avy any atsinanana; ary namely ny lohan' i Jona ny masoandro, dia ana izy, ka naniry ny ho faty, sady nanao hoe: Tsara ho ahy kokoa ny ho faty noho ny ho velona.\""
-    },
-    {
-      "v": 9,
-      "text": "Fa hoy Andriamanitra tamin' i Jona: Moa tsara va izao firehitry ny fahatezeranao ny amin' ny tanantanamanga izao? Ary hoy izy: Tsara ny hahatezerako mandra-pahafatiko."
-    },
-    {
-      "v": 10,
-      "text": "\"Dia hoy Jehovah: Ianao malahelo ny tanantanamanga izay tsy nisasaranao na nampanirinao, dia ilay naniry indray alina monja ary maty indray alina koa;\""
-    },
-    {
-      "v": 11,
-      "text": "Ka moa Izaho tsy mba hiantra an' i Ninive, ilay tanàna lehibe va, izay misy olona tsy omby roa alina sy iray hetsy, izay tsy mahafantatra ny havanany sy ny haviany, sady be biby fiompy koa?"
-    }
-  ]
+  "verses": {
+    "1": "Fa tsy sitrak' i Jona indrindra izany, ka tezitra mafy izy.",
+    "2": "Dia nivavaka tamin' i Jehovah izy ka nanao hoe: Mifona aminao aho, Jehovah ô, tsy izao ihany va no efa nolazaiko fony aho mbola tany amin' ny taniko? Noho izany no nandosirako ho any Tarsisy, satria fantatro fa Ianao dia Andriamanitra miantra sy mamindrafo, mahari-po sady be famindrampo, ary manenina ny amin' ny loza.",
+    "3": "Koa mifona aminao aho ankehitriny, Jehovah ô, esory ny aiko; fa tsara ho ahy kokoa ny ho faty noho ny ho velona.",
+    "4": "Fa hoy Jehovah: Moa tsara va izao fahatezeranao izao?",
+    "5": "Dia nivoaka ny tanàna Jona ka nipetraka teo atsinanan-tanàna; ary nanao trano rantsankazo ho azy teo izy ka nipetraka teo ambanin' ny alokalony ambara-pahitany izay hiafaran' ny tanàna.",
+    "6": "Ary Jehovah Andriamanitra nanomana tanantanamanga, ka nampaniriny hanalokaloka an' i Jona izany ho alokaloky ny lohany, hanafaka ny alahelony, ka dia nahafaly an' i Jona indrindra ny tanantanamanga.",
+    "7": "Kanjo nony ampitso maraina dia nanomana kankana Andriamanitra, ka namely ilay tanantanamanga iny, dia nalazo izany.",
+    "8": "Ary izao no niseho, nony niposaka ny masoandro, Andriamanitra dia nanomana rivotra mahamay avy any atsinanana; ary namely ny lohan' i Jona ny masoandro, dia ana izy, ka naniry ny ho faty, sady nanao hoe: Tsara ho ahy kokoa ny ho faty noho ny ho velona.",
+    "9": "Fa hoy Andriamanitra tamin' i Jona: Moa tsara va izao firehitry ny fahatezeranao ny amin' ny tanantanamanga izao? Ary hoy izy: Tsara ny hahatezerako mandra-pahafatiko.",
+    "10": "Dia hoy Jehovah: Ianao malahelo ny tanantanamanga izay tsy nisasaranao na nampanirinao, dia ilay naniry indray alina monja ary maty indray alina koa;",
+    "11": "Ka moa Izaho tsy mba hiantra an' i Ninive, ilay tanàna lehibe va, izay misy olona tsy omby roa alina sy iray hetsy, izay tsy mahafantatra ny havanany sy ny haviany, sady be biby fiompy koa?"
+  }
 }

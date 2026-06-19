@@ -1,113 +1,33 @@
 {
+  "book": "Daniela",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tamin' ny taona voalohany nanjakan' i Dariosy, zanak' i Ahasoerosy, avy amin' ny taranaky ny Mediana, izay nampanjakaina tamin' ny fanjakan' ny Kaldeana,"
-    },
-    {
-      "v": 2,
-      "text": "Tamin' ny taona voalohany nanjakany, izaho Daniela nahalala tamin' ny boky ny isan' ny taona nampahafantarin' ny tenin' i Jehovah an' i Jeremia mpaminany, izay hahataperan' ny fitopolo taona amin' ny hahafoanan' i Jerosalema."
-    },
-    {
-      "v": 3,
-      "text": "Ary nampanatrehiko an' Andriamanitra Tompo ny tavako hitady izay hivavahana sy hifonana amin' ny fifadian-kanina sy ny lamba fisaonana ary ny lavenona."
-    },
-    {
-      "v": 4,
-      "text": "Ary nivavaka tamin' i Jehovah Andriamanitro aho ka niaiky sy niteny hoe: Tompo ô, Andriamanitra lehibe sy mahatahotra, mitandrina ny fanekena sy ny famindrampo ho amin' izay tia Azy sy amin' izay mitandrina ny didiny."
-    },
-    {
-      "v": 5,
-      "text": "Efa nanota izahay sady nanao heloka ary nanao ratsy sy niodina, eny, efa niala tamin' ny didinao sy ny fitsipikao izahay,"
-    },
-    {
-      "v": 6,
-      "text": "Ary tsy nohenoinay ny mpaminany mpanomponao, izay niteny tamin' ny anaranao tamin' ny mpanjakanay sy ny mpanapaka anay sy ny razanay ary ny vahoaka rehetra amin' ny tany."
-    },
-    {
-      "v": 7,
-      "text": "\"Anao ny fahamarinana, Tompo ô, fa anay kosa ny fangaihaizana, tahaka ny amin' izao anio izao, dia an' ny Joda sy ny mponina any Jerosalema ary ny Isiraely rehetra, na ny akaiky na ny lavitra, dia any amin' ny tany rehetra izay efa nandroahanao azy noho ny fahadisoany izay nandisoany taminao;\""
-    },
-    {
-      "v": 8,
-      "text": "Eny, anay ny fangaihaizana, Tompo ô, dia an' ny mpanjakanay sy ny mpanapaka anay ary ny razanay, satria efa nanota taminao izahay."
-    },
-    {
-      "v": 9,
-      "text": "\"An' ny Tompo Andriamanitray kosa ny famindrampo sy ny famelan-keloka, na dia efa niodina taminy aza izahay;\""
-    },
-    {
-      "v": 10,
-      "text": "Sady tsy nankatò ny feon' i Jehovah Andriamanitray, mba handeha araka ny lalàny izay nasainy napetraky ny mpaminany mpanompony teo anoloanay."
-    },
-    {
-      "v": 11,
-      "text": "Eny, ny Isiraely rehetra efa nandika ny lalànao ka niala, fa tsy nihaino ny feonao, ka dia naidina taminay ny ozona sy ny fianianana izay voasoratra ao amin' ny lalàn' i Mosesy, mpanompon' Andriamanitra, satria efa nanota taminy izahay."
-    },
-    {
-      "v": 12,
-      "text": "Ary notanterahiny ny teniny, izay nolazainy hamelezana anay sy ny mpitsaranay izay nitsara anay, ka nataony niharan-doza lehibe izahay, fa tety ambanin' ny lanitra rehetra dia tsy mbola nisy natao tahaka izay natao tany Jerosalema."
-    },
-    {
-      "v": 13,
-      "text": "\"Araka ny voasoratra ao amin' ny lalàn' i Mosesy no nahatongavan' izao loza rehetra izao taminay; nefa tsy nifona teo anatrehan' i Jehovah Andriamanitray izahay hialanay amin' ny helokay sy hahafantaranay ny fahamarinanao.\""
-    },
-    {
-      "v": 14,
-      "text": "Koa izany no nitahirizan' i Jehovah ny loza, ka nataony mihatra aminay izany, fa marina Jehovah Andriamanitray amin' ny asany rehetra izay ataony, fa izahay no tsy nankatò ny feony."
-    },
-    {
-      "v": 15,
-      "text": "Koa ankehitriny, Tompo Andriamanitray ô, Izay nitondra ny olonao nivoaka avy tany amin' ny tany Egypta tamin' ny tanana mahery ka nanao anarana ho Anao tahaka ny amin' izao anio izao, efa nanota izahay, efa nanao ratsy izahay."
-    },
-    {
-      "v": 16,
-      "text": "\"Tompo ô, mifona aminao aho, araka ny fahamarinanao rehetra, aoka re hionona ny fahatezeranao sy ny fahaviniranao amin' i Jerosalema tanànanao, tendrombohitrao masina; fa ny fahotanay sy ny heloky ny razanay no nahatonga an' i Jerosalema sy ny olonao ho latsa amin' izay rehetra manodidina anay.\""
-    },
-    {
-      "v": 17,
-      "text": "Fa ankehitriny, ry Andriamanitray ô, henoy ny fivavaky ny mpanomponao sy ny fifonany, ary noho ny amin' ny Tompo, hampamirapirato ny tavanao amin' ny fitoeranao masina izay efa foana."
-    },
-    {
-      "v": 18,
-      "text": "\"Andriamanitro ô, atongilano ny sofinao, ka mihainoa; ahirato ny masonao, ka jereo ny fahafoananay sy ny tanàna izay nantsoina amin' ny anaranao; fa tsy amin' ny fahamarinanay no andoaranay ny fifonanay eto anatrehanao, fa amin' ny halehiben' ny indrafonao.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Tompo ô, mandrenesa; Tompo ô, mamelà heloka; Tompo ô, mihainoa, ka miasà; aza ela Ianao, ry Andriamanitro ô, noho ny aminao; fa ny tanànanao sy ny olonao dia antsoina amin' ny anaranao.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary raha mbola niteny sy nivavaka sy niaiky ny fahotako mbamin' ny fahotan' ny Isiraely fireneko aho ka nandoatra ny fifonako teo anatrehan' i Jehovah Andriamanitro ho an' ny tendrombohitra masin' Andriamanitro,"
-    },
-    {
-      "v": 21,
-      "text": "Eny, raha mbola niteny nivavaka aho, dia, indro, ilay lehilahy Gabriela izay hitako tamin' ny fahitana voalohany, dia nampanidinina faingana ka nanatona ahy tokony ho tamin' ny fotoan' ny fanatitra hariva."
-    },
-    {
-      "v": 22,
-      "text": "Ary nampahalala ahy sy niresaka tamiko izy nanao hoe: Ry Daniela ô, avy hanome anao fahazavan-tsaina sy fahalalana aho."
-    },
-    {
-      "v": 23,
-      "text": "\"Tamin' ny niantombohan' ny fifonanao dia nisy didy nivoaka, ka tonga aho hanambara aminao, satria malala indrindra ianao; ka diniho ny teny, ary hevero ny fahitana.\""
-    },
-    {
-      "v": 24,
-      "text": "Fitopolo herinandro no voatendry ho an' ny firenenao sy ny tanànanao masina hahatapitra ny fahadisoana sy hamaranana ny ota, ary hanaovana fanavotana noho ny heloka, sy hampidirana fahamarinana mandrakizay, ary hanisiana tombo-kase ny fahitana sy faminaniana ary hanosorana Ilay Masina indrindra."
-    },
-    {
-      "v": 25,
-      "text": "\"Koa aoka ho fantatrao sy ho azonao fa hatramin' ny nivoahan' ny didy hanavaozana sy hanamboarana an' i Jerosalema ka hatramin' ny Mesia, Ilay zanak' Andriana, dia ho fito herinandro sy roa amby enimpolo herinandro; hamboarina indray ny lalana sy ny manda, dia amin' izay andro mampahory.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ary rehefa afaka ny roa amby enimpolo herinandro, dia hovonoina ny Mesia, ka tsy noho ny aminy akory; ary ny vahoakan' ny solo-mpanjaka izay ho avy dia handrava ny tanàna sy ny fitoerana masina; ary ny farany dia hisy riaka, ary hatramin' ny faran' ny ady dia hisy fandravana voatendry.\""
-    },
-    {
-      "v": 27,
-      "text": "Ary hanorina fanekena ho herinandro amin' ny maro izy ary hampitsahatra ny fanatitra alatsa-drà sy ny fanatitra hafa amin' ny antsasaky ny herinandro ary noho ny fielezan' ny fahavetavetana no hanafoanany, mandra-pahatanteraka ny fahafonganana ary izay voatendry dia haidina amin' ny rava."
-    }
-  ]
+  "verses": {
+    "1": "Tamin' ny taona voalohany nanjakan' i Dariosy, zanak' i Ahasoerosy, avy amin' ny taranaky ny Mediana, izay nampanjakaina tamin' ny fanjakan' ny Kaldeana,",
+    "2": "Tamin' ny taona voalohany nanjakany, izaho Daniela nahalala tamin' ny boky ny isan' ny taona nampahafantarin' ny tenin' i Jehovah an' i Jeremia mpaminany, izay hahataperan' ny fitopolo taona amin' ny hahafoanan' i Jerosalema.",
+    "3": "Ary nampanatrehiko an' Andriamanitra Tompo ny tavako hitady izay hivavahana sy hifonana amin' ny fifadian-kanina sy ny lamba fisaonana ary ny lavenona.",
+    "4": "Ary nivavaka tamin' i Jehovah Andriamanitro aho ka niaiky sy niteny hoe: Tompo ô, Andriamanitra lehibe sy mahatahotra, mitandrina ny fanekena sy ny famindrampo ho amin' izay tia Azy sy amin' izay mitandrina ny didiny.",
+    "5": "Efa nanota izahay sady nanao heloka ary nanao ratsy sy niodina, eny, efa niala tamin' ny didinao sy ny fitsipikao izahay,",
+    "6": "Ary tsy nohenoinay ny mpaminany mpanomponao, izay niteny tamin' ny anaranao tamin' ny mpanjakanay sy ny mpanapaka anay sy ny razanay ary ny vahoaka rehetra amin' ny tany.",
+    "7": "Anao ny fahamarinana, Tompo ô, fa anay kosa ny fangaihaizana, tahaka ny amin' izao anio izao, dia an' ny Joda sy ny mponina any Jerosalema ary ny Isiraely rehetra, na ny akaiky na ny lavitra, dia any amin' ny tany rehetra izay efa nandroahanao azy noho ny fahadisoany izay nandisoany taminao;",
+    "8": "Eny, anay ny fangaihaizana, Tompo ô, dia an' ny mpanjakanay sy ny mpanapaka anay ary ny razanay, satria efa nanota taminao izahay.",
+    "9": "An' ny Tompo Andriamanitray kosa ny famindrampo sy ny famelan-keloka, na dia efa niodina taminy aza izahay;",
+    "10": "Sady tsy nankatò ny feon' i Jehovah Andriamanitray, mba handeha araka ny lalàny izay nasainy napetraky ny mpaminany mpanompony teo anoloanay.",
+    "11": "Eny, ny Isiraely rehetra efa nandika ny lalànao ka niala, fa tsy nihaino ny feonao, ka dia naidina taminay ny ozona sy ny fianianana izay voasoratra ao amin' ny lalàn' i Mosesy, mpanompon' Andriamanitra, satria efa nanota taminy izahay.",
+    "12": "Ary notanterahiny ny teniny, izay nolazainy hamelezana anay sy ny mpitsaranay izay nitsara anay, ka nataony niharan-doza lehibe izahay, fa tety ambanin' ny lanitra rehetra dia tsy mbola nisy natao tahaka izay natao tany Jerosalema.",
+    "13": "Araka ny voasoratra ao amin' ny lalàn' i Mosesy no nahatongavan' izao loza rehetra izao taminay; nefa tsy nifona teo anatrehan' i Jehovah Andriamanitray izahay hialanay amin' ny helokay sy hahafantaranay ny fahamarinanao.",
+    "14": "Koa izany no nitahirizan' i Jehovah ny loza, ka nataony mihatra aminay izany, fa marina Jehovah Andriamanitray amin' ny asany rehetra izay ataony, fa izahay no tsy nankatò ny feony.",
+    "15": "Koa ankehitriny, Tompo Andriamanitray ô, Izay nitondra ny olonao nivoaka avy tany amin' ny tany Egypta tamin' ny tanana mahery ka nanao anarana ho Anao tahaka ny amin' izao anio izao, efa nanota izahay, efa nanao ratsy izahay.",
+    "16": "Tompo ô, mifona aminao aho, araka ny fahamarinanao rehetra, aoka re hionona ny fahatezeranao sy ny fahaviniranao amin' i Jerosalema tanànanao, tendrombohitrao masina; fa ny fahotanay sy ny heloky ny razanay no nahatonga an' i Jerosalema sy ny olonao ho latsa amin' izay rehetra manodidina anay.",
+    "17": "Fa ankehitriny, ry Andriamanitray ô, henoy ny fivavaky ny mpanomponao sy ny fifonany, ary noho ny amin' ny Tompo, hampamirapirato ny tavanao amin' ny fitoeranao masina izay efa foana.",
+    "18": "Andriamanitro ô, atongilano ny sofinao, ka mihainoa; ahirato ny masonao, ka jereo ny fahafoananay sy ny tanàna izay nantsoina amin' ny anaranao; fa tsy amin' ny fahamarinanay no andoaranay ny fifonanay eto anatrehanao, fa amin' ny halehiben' ny indrafonao.",
+    "19": "Tompo ô, mandrenesa; Tompo ô, mamelà heloka; Tompo ô, mihainoa, ka miasà; aza ela Ianao, ry Andriamanitro ô, noho ny aminao; fa ny tanànanao sy ny olonao dia antsoina amin' ny anaranao.",
+    "20": "Ary raha mbola niteny sy nivavaka sy niaiky ny fahotako mbamin' ny fahotan' ny Isiraely fireneko aho ka nandoatra ny fifonako teo anatrehan' i Jehovah Andriamanitro ho an' ny tendrombohitra masin' Andriamanitro,",
+    "21": "Eny, raha mbola niteny nivavaka aho, dia, indro, ilay lehilahy Gabriela izay hitako tamin' ny fahitana voalohany, dia nampanidinina faingana ka nanatona ahy tokony ho tamin' ny fotoan' ny fanatitra hariva.",
+    "22": "Ary nampahalala ahy sy niresaka tamiko izy nanao hoe: Ry Daniela ô, avy hanome anao fahazavan-tsaina sy fahalalana aho.",
+    "23": "Tamin' ny niantombohan' ny fifonanao dia nisy didy nivoaka, ka tonga aho hanambara aminao, satria malala indrindra ianao; ka diniho ny teny, ary hevero ny fahitana.",
+    "24": "Fitopolo herinandro no voatendry ho an' ny firenenao sy ny tanànanao masina hahatapitra ny fahadisoana sy hamaranana ny ota, ary hanaovana fanavotana noho ny heloka, sy hampidirana fahamarinana mandrakizay, ary hanisiana tombo-kase ny fahitana sy faminaniana ary hanosorana Ilay Masina indrindra.",
+    "25": "Koa aoka ho fantatrao sy ho azonao fa hatramin' ny nivoahan' ny didy hanavaozana sy hanamboarana an' i Jerosalema ka hatramin' ny Mesia, Ilay zanak' Andriana, dia ho fito herinandro sy roa amby enimpolo herinandro; hamboarina indray ny lalana sy ny manda, dia amin' izay andro mampahory.",
+    "26": "Ary rehefa afaka ny roa amby enimpolo herinandro, dia hovonoina ny Mesia, ka tsy noho ny aminy akory; ary ny vahoakan' ny solo-mpanjaka izay ho avy dia handrava ny tanàna sy ny fitoerana masina; ary ny farany dia hisy riaka, ary hatramin' ny faran' ny ady dia hisy fandravana voatendry.",
+    "27": "Ary hanorina fanekena ho herinandro amin' ny maro izy ary hampitsahatra ny fanatitra alatsa-drà sy ny fanatitra hafa amin' ny antsasaky ny herinandro ary noho ny fielezan' ny fahavetavetana no hanafoanany, mandra-pahatanteraka ny fahafonganana ary izay voatendry dia haidina amin' ny rava."
+  }
 }

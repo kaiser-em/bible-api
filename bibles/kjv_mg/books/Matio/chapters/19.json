@@ -1,125 +1,36 @@
 {
+  "book": "Matio",
   "chapter": 19,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ARY izao no niseho, rehefa vitan' i Jesosy izany teny izany, dia niala tany Galilia Izy ka nihazo ny lalana teny an-dafin' i Jordana, dia tonga tany amin' ny sisin-tanin' i Jodia."
-    },
-    {
-      "v": 2,
-      "text": "Ary nisy vahoaka betsaka nanaraka Azy, dia nahasitrana azy teo Izy."
-    },
-    {
-      "v": 3,
-      "text": "Ary nanatona Azy koa ny Fariseo dia naka fanahy Azy sy niteny taminy hoe: Mahazo misaotra ny vadiny va ny lehilahy noho izay rehetra iampangany azy na inona na inona?"
-    },
-    {
-      "v": 4,
-      "text": "Ary Izy namaly ka nanao taminy hoe: Tsy mbola novakinareo va ny teny, fa izay namboatra azy tamin' ny voalohany dia nanao azy ho lahy sy vavy,"
-    },
-    {
-      "v": 5,
-      "text": "\"ka nanao hoe: Ary noho izany ny lehilahy dia handao ny rainy sy ny reniny ka hikambana amin' ny vadiny; ary dia ho nofo iray ihany izy roroa?\""
-    },
-    {
-      "v": 6,
-      "text": "Ka dia tsy roa intsony izy ireo, fa nofo iray ihany. Koa amin' izany, izay nampiraisin' Andriamanitra, dia aoka tsy hampisarahin' olona."
-    },
-    {
-      "v": 7,
-      "text": "Hoy ireo taminy: Nahoana àry Mosesy no nandidy hanome taratasy fisaoram-bady sy hisaotra azy?"
-    },
-    {
-      "v": 8,
-      "text": "\"Ary hoy Izy taminy: Noho ny hamafin' ny fonareo no namelan' i Mosesy anareo hisao-bady; fa tsy mba toy izany tany am-piandohana.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Fa lazaiko aminareo: Na zovy na zovy no misaotra ny vadiny, afa-tsy noho ny fahavetavetana ihany, ka mampakatra ny hafa, dia mijangajanga; ary izay mampakatra ny voasaotra dia mijangajanga.\""
-    },
-    {
-      "v": 10,
-      "text": "Dia hoy ny mpianany taminy: Raha izany no toetry ny lehilahy amin' ny vadiny, dia aleo tsy manambady."
-    },
-    {
-      "v": 11,
-      "text": "\"Fa hoy Izy taminy: Tsy ny olona rehetra no mahay mandray izany teny izany, fa izay nomena ihany;\""
-    },
-    {
-      "v": 12,
-      "text": "\"Fa misy ionoka, izay teraka ionoka hatrany an-kibon-dreniny; ary misy ionoka, izay nataon' ny olona ionoka; ary misy ionoka, izay nanao ny tenany ionoka noho ny fanjakan' ny lanitra. Aoka handray izany izay mahay mandray.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary tamin' izany dia nisy ankizy madinika nentina teo Aminy, mba hametrahany ny tanany sy hivavahany ho azy; fa ny mpianany niteny mafy ireny.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Nefa Jesosy kosa nanao hoe: Avelao ny ankizy madinika, ary aza raràna tsy hanatona Ahy ireo; fa an' ny toa azy ny fanjakan' ny lanitra.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary nametra-tanana tamin' ireo Izy, vao niala teo."
-    },
-    {
-      "v": 16,
-      "text": "Ary, indro, nisy anankiray nanatona Azy ka nanao hoe: Mpampianatra Tsara ô, inona no tsara hataoko hahazoako fiainana mandrakizay?"
-    },
-    {
-      "v": 17,
-      "text": "\"Fa hoy Jesosy taminy: Nahoana Aho no ataonao tsara? Tsy misy tsara afa-tsy iray ihany dia Andriamanitra; fa raha te-hiditra any amin' ny fiainana ianao, tandremo ny didy.\""
-    },
-    {
-      "v": 18,
-      "text": "Hoy ralehilahy taminy: Inona avy moa? Dia hoy Jesosy: “Aza mamono olona, aza mijangajanga, aza mangalatra, Aza milaza vavolombelona tsy marina”,"
-    },
-    {
-      "v": 19,
-      "text": "\"“Manajà ny rainao sy ny reninao”; ary: “Tiava ny namanao tahaka ny tenanao.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Hoy ilay zatovo taminy: Izany rehetra izany efa voatandriko avokoa hatramin' ny fahazazako; fa inona no mbola tsy ampy amiko?\""
-    },
-    {
-      "v": 21,
-      "text": "\"Dia hoy Jesosy taminy: Raha tia ho tanteraka ianao, mandehana, amidio ny fanananao, ka omeo ny mahantra, dia hanana tahiry sarobidy any an-danitra ianao; ary avia hanaraka Ahy.\""
-    },
-    {
-      "v": 22,
-      "text": "Fa nony nandre izany teny izany ilay zatovo, dia niala tamin' alahelo izy satria nanana fananana be."
-    },
-    {
-      "v": 23,
-      "text": "Dia hoy Jesosy tamin' ny mpianany: Lazaiko aminareo marina tokoa fa sarotra ny hidiran' ny mpanankarena amin' ny fanjakan' ny lanitra."
-    },
-    {
-      "v": 24,
-      "text": "Ary hoy Aho aminareo indray: Ho moramora kokoa ny hidiran' ny rameva amin' ny vodifanjaitra noho ny hidiran' ny mpanankarena amin' ny fanjakan' Andriamanitra."
-    },
-    {
-      "v": 25,
-      "text": "Ary nony nandre izany ny mpianany, dia talanjona indrindra ka nanao hoe: Iza indray no azo hovonjena?"
-    },
-    {
-      "v": 26,
-      "text": "Ary Jesosy nijery azy ireo ka nanao taminy hoe: Amin' ny olona dia tsy hay atao izany, fa amin' Andriamanitra dia hay atao ny zavatra rehetra."
-    },
-    {
-      "v": 27,
-      "text": "\"Dia namaly Petera ka nanao taminy hoe: Indro, izahay efa nahafoy ny zavatra rehetra ka nanaraka Anao; koa inona àry no ho azonay?\""
-    },
-    {
-      "v": 28,
-      "text": "Fa hoy Jesosy taminy: Lazaiko aminareo marina tokoa, fa rehefa mby amin' ny fanavaozana, ka hipetraka amin' ny sezafiandrianan' ny voninahiny ny Zanak' olona, ianareo koa, izay nanaraka Ahy, dia hipetraka amin' ny sezafiandrianana roa ambin' ny folo ka hitsara ny fokon' Isiraely roa ambin' ny folo."
-    },
-    {
-      "v": 29,
-      "text": "Ary izay rehetra efa nahafoy trano, na rahalahy, na anabavy, na ray, na reny, na vady, na zanaka, na tany, noho ny anarako dia handray zato heny ka handova fiainana mandrakizay."
-    },
-    {
-      "v": 30,
-      "text": "Nefa maro izay voalohany no ho farany, ary ny farany no ho voalohany."
-    }
-  ]
+  "verses": {
+    "1": "ARY izao no niseho, rehefa vitan' i Jesosy izany teny izany, dia niala tany Galilia Izy ka nihazo ny lalana teny an-dafin' i Jordana, dia tonga tany amin' ny sisin-tanin' i Jodia.",
+    "2": "Ary nisy vahoaka betsaka nanaraka Azy, dia nahasitrana azy teo Izy.",
+    "3": "Ary nanatona Azy koa ny Fariseo dia naka fanahy Azy sy niteny taminy hoe: Mahazo misaotra ny vadiny va ny lehilahy noho izay rehetra iampangany azy na inona na inona?",
+    "4": "Ary Izy namaly ka nanao taminy hoe: Tsy mbola novakinareo va ny teny, fa izay namboatra azy tamin' ny voalohany dia nanao azy ho lahy sy vavy,",
+    "5": "ka nanao hoe: Ary noho izany ny lehilahy dia handao ny rainy sy ny reniny ka hikambana amin' ny vadiny; ary dia ho nofo iray ihany izy roroa?",
+    "6": "Ka dia tsy roa intsony izy ireo, fa nofo iray ihany. Koa amin' izany, izay nampiraisin' Andriamanitra, dia aoka tsy hampisarahin' olona.",
+    "7": "Hoy ireo taminy: Nahoana àry Mosesy no nandidy hanome taratasy fisaoram-bady sy hisaotra azy?",
+    "8": "Ary hoy Izy taminy: Noho ny hamafin' ny fonareo no namelan' i Mosesy anareo hisao-bady; fa tsy mba toy izany tany am-piandohana.",
+    "9": "Fa lazaiko aminareo: Na zovy na zovy no misaotra ny vadiny, afa-tsy noho ny fahavetavetana ihany, ka mampakatra ny hafa, dia mijangajanga; ary izay mampakatra ny voasaotra dia mijangajanga.",
+    "10": "Dia hoy ny mpianany taminy: Raha izany no toetry ny lehilahy amin' ny vadiny, dia aleo tsy manambady.",
+    "11": "Fa hoy Izy taminy: Tsy ny olona rehetra no mahay mandray izany teny izany, fa izay nomena ihany;",
+    "12": "Fa misy ionoka, izay teraka ionoka hatrany an-kibon-dreniny; ary misy ionoka, izay nataon' ny olona ionoka; ary misy ionoka, izay nanao ny tenany ionoka noho ny fanjakan' ny lanitra. Aoka handray izany izay mahay mandray.",
+    "13": "Ary tamin' izany dia nisy ankizy madinika nentina teo Aminy, mba hametrahany ny tanany sy hivavahany ho azy; fa ny mpianany niteny mafy ireny.",
+    "14": "Nefa Jesosy kosa nanao hoe: Avelao ny ankizy madinika, ary aza raràna tsy hanatona Ahy ireo; fa an' ny toa azy ny fanjakan' ny lanitra.",
+    "15": "Ary nametra-tanana tamin' ireo Izy, vao niala teo.",
+    "16": "Ary, indro, nisy anankiray nanatona Azy ka nanao hoe: Mpampianatra Tsara ô, inona no tsara hataoko hahazoako fiainana mandrakizay?",
+    "17": "Fa hoy Jesosy taminy: Nahoana Aho no ataonao tsara? Tsy misy tsara afa-tsy iray ihany dia Andriamanitra; fa raha te-hiditra any amin' ny fiainana ianao, tandremo ny didy.",
+    "18": "Hoy ralehilahy taminy: Inona avy moa? Dia hoy Jesosy: “Aza mamono olona, aza mijangajanga, aza mangalatra, Aza milaza vavolombelona tsy marina”,",
+    "19": "“Manajà ny rainao sy ny reninao”; ary: “Tiava ny namanao tahaka ny tenanao.",
+    "20": "Hoy ilay zatovo taminy: Izany rehetra izany efa voatandriko avokoa hatramin' ny fahazazako; fa inona no mbola tsy ampy amiko?",
+    "21": "Dia hoy Jesosy taminy: Raha tia ho tanteraka ianao, mandehana, amidio ny fanananao, ka omeo ny mahantra, dia hanana tahiry sarobidy any an-danitra ianao; ary avia hanaraka Ahy.",
+    "22": "Fa nony nandre izany teny izany ilay zatovo, dia niala tamin' alahelo izy satria nanana fananana be.",
+    "23": "Dia hoy Jesosy tamin' ny mpianany: Lazaiko aminareo marina tokoa fa sarotra ny hidiran' ny mpanankarena amin' ny fanjakan' ny lanitra.",
+    "24": "Ary hoy Aho aminareo indray: Ho moramora kokoa ny hidiran' ny rameva amin' ny vodifanjaitra noho ny hidiran' ny mpanankarena amin' ny fanjakan' Andriamanitra.",
+    "25": "Ary nony nandre izany ny mpianany, dia talanjona indrindra ka nanao hoe: Iza indray no azo hovonjena?",
+    "26": "Ary Jesosy nijery azy ireo ka nanao taminy hoe: Amin' ny olona dia tsy hay atao izany, fa amin' Andriamanitra dia hay atao ny zavatra rehetra.",
+    "27": "Dia namaly Petera ka nanao taminy hoe: Indro, izahay efa nahafoy ny zavatra rehetra ka nanaraka Anao; koa inona àry no ho azonay?",
+    "28": "Fa hoy Jesosy taminy: Lazaiko aminareo marina tokoa, fa rehefa mby amin' ny fanavaozana, ka hipetraka amin' ny sezafiandrianan' ny voninahiny ny Zanak' olona, ianareo koa, izay nanaraka Ahy, dia hipetraka amin' ny sezafiandrianana roa ambin' ny folo ka hitsara ny fokon' Isiraely roa ambin' ny folo.",
+    "29": "Ary izay rehetra efa nahafoy trano, na rahalahy, na anabavy, na ray, na reny, na vady, na zanaka, na tany, noho ny anarako dia handray zato heny ka handova fiainana mandrakizay.",
+    "30": "Nefa maro izay voalohany no ho farany, ary ny farany no ho voalohany."
+  }
 }

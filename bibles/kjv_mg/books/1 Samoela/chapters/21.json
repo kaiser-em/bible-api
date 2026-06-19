@@ -1,65 +1,21 @@
 {
+  "book": "1 Samoela",
   "chapter": 21,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary Davida tonga tany Noba tany amin' i Ahimeleka mpisorona; ary toran-kovitra Ahimeleka, raha nihaona tamin' i Davida, ka nanao taminy hoe: Nahoana no mandeha irery ianao, fa tsy misy manaraka anao?\""
-    },
-    {
-      "v": 2,
-      "text": "\"Dia hoy Davida tamin' i Ahimeleka mpisorona: Ny mpanjaka efa nanome raharaha ahy, ka hoy izy tamiko: Aoka tsy ho fantatr' olona ny raharaha nanirahako sy nandidiako anao; ka dia nasaiko nankary ny zatovoko.\""
-    },
-    {
-      "v": 3,
-      "text": "Koa inona no misy ato aminao? Omeo mofo dimy aho ho ety an-tanako, na izay misy."
-    },
-    {
-      "v": 4,
-      "text": "Ary ny mpisorona namaly an' i Davida hoe: tsy misy mofo fihinana ato amiko, fa mofo masina ihany no ato, ka raha mba nifady vehivavy ahay mantsy ny zatovo."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary Davida namaly ny mpisorona ka nanao taminy hoe: eny, fa hatramin' ny hateloana no efa tsy niara-nitoetra tamim-behivavy izahay; ary tamin' izaho niainga dia masina ny fanaky ny zatovo, ary ny mofo dia zavatra ho an' ny rehetra, eny, hamasinina izy anio noho ny fanaka.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary ny mpisorona nanome azy mofo masina; fa tsy nisy mofo teo, afa-tsy ny mofo aseho, izay nalainy teo anatrehan' i Jehovah, mba hasiana mofo mafana tamin' ny andro nanesorana azy.\""
-    },
-    {
-      "v": 7,
-      "text": "Nefa nisy anankiray tamin' ny mpanompon' i Saoly teo tamin' izany andro izany, voahazona teo anatrehan' i Jehovah, Doega Edomita no anarany, lehiben' ny mpiandry ombin' i Saoly izy."
-    },
-    {
-      "v": 8,
-      "text": "Ary hoy Davida tamin' i Ahimeleka: Tsy misy lefona na sabatra va eto aminao? fa izaho tsy nitondra ny sabatro, na ny fiadiako ety amiko, satria nahamaika ny raharahan' ny mpanjaka."
-    },
-    {
-      "v": 9,
-      "text": "\"Fa hoy ny mpisorona: Ny sabatr' i Goliata Filistina, ilay novonoinao tao amin' ny lohasaha Elaha, indro, fa mifono lamba ao ivohon' ny efoda izy; ka raha iny no hoentinao, dia ento; fa tsy misy afa-tsy iny eto. Ary hoy Davida: Tsy misy tahaka iny, fa omeo ahy.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary Davida niainga nandositra tamin' izany andro izany noho ny tahotra an' i Saoly, dia nankany amin' i Akisy, mpanjakan' i Gata."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary hoy ny mpanompon' i akisy taminy: Tsy ity moa no Davida, mpanjakan' ny tany? Tsy izy va no nandihizany sy nifampihirany hoe: Saoly nahafaty ny arivoarivony; fa Davida ny alinaliny?\""
-    },
-    {
-      "v": 12,
-      "text": "Ary dia nalatsak' i Davida tao am-pony izany teny izany, ka natahotra an' i Akisy mpanjakan' i Gata indrindra izy."
-    },
-    {
-      "v": 13,
-      "text": "Dia nanova ny fitondrantenany teo anatrehan' ireo izy, ka nody adala teo an-tanany, fa nanoratsoratra teo amin' ny lela-vavahady izy, sady navelany hitsororoka tamin' ny somony ny iviny."
-    },
-    {
-      "v": 14,
-      "text": "Ary hoy Akisy tamin' ny mpanompony: He! hitanareo fa very saina io lehilahy io, ka nahoana no nentinareo ety amiko izy?"
-    },
-    {
-      "v": 15,
-      "text": "Izaho moa mitady olona very saina no nitondranareo ity olona very saina ity mba hanondrana eto anatrehako? Moa hiditra ato an-tranoko va ilehio?"
-    }
-  ]
+  "verses": {
+    "1": "Ary Davida tonga tany Noba tany amin' i Ahimeleka mpisorona; ary toran-kovitra Ahimeleka, raha nihaona tamin' i Davida, ka nanao taminy hoe: Nahoana no mandeha irery ianao, fa tsy misy manaraka anao?",
+    "2": "Dia hoy Davida tamin' i Ahimeleka mpisorona: Ny mpanjaka efa nanome raharaha ahy, ka hoy izy tamiko: Aoka tsy ho fantatr' olona ny raharaha nanirahako sy nandidiako anao; ka dia nasaiko nankary ny zatovoko.",
+    "3": "Koa inona no misy ato aminao? Omeo mofo dimy aho ho ety an-tanako, na izay misy.",
+    "4": "Ary ny mpisorona namaly an' i Davida hoe: tsy misy mofo fihinana ato amiko, fa mofo masina ihany no ato, ka raha mba nifady vehivavy ahay mantsy ny zatovo.",
+    "5": "Ary Davida namaly ny mpisorona ka nanao taminy hoe: eny, fa hatramin' ny hateloana no efa tsy niara-nitoetra tamim-behivavy izahay; ary tamin' izaho niainga dia masina ny fanaky ny zatovo, ary ny mofo dia zavatra ho an' ny rehetra, eny, hamasinina izy anio noho ny fanaka.",
+    "6": "Ary ny mpisorona nanome azy mofo masina; fa tsy nisy mofo teo, afa-tsy ny mofo aseho, izay nalainy teo anatrehan' i Jehovah, mba hasiana mofo mafana tamin' ny andro nanesorana azy.",
+    "7": "Nefa nisy anankiray tamin' ny mpanompon' i Saoly teo tamin' izany andro izany, voahazona teo anatrehan' i Jehovah, Doega Edomita no anarany, lehiben' ny mpiandry ombin' i Saoly izy.",
+    "8": "Ary hoy Davida tamin' i Ahimeleka: Tsy misy lefona na sabatra va eto aminao? fa izaho tsy nitondra ny sabatro, na ny fiadiako ety amiko, satria nahamaika ny raharahan' ny mpanjaka.",
+    "9": "Fa hoy ny mpisorona: Ny sabatr' i Goliata Filistina, ilay novonoinao tao amin' ny lohasaha Elaha, indro, fa mifono lamba ao ivohon' ny efoda izy; ka raha iny no hoentinao, dia ento; fa tsy misy afa-tsy iny eto. Ary hoy Davida: Tsy misy tahaka iny, fa omeo ahy.",
+    "10": "Ary Davida niainga nandositra tamin' izany andro izany noho ny tahotra an' i Saoly, dia nankany amin' i Akisy, mpanjakan' i Gata.",
+    "11": "Ary hoy ny mpanompon' i akisy taminy: Tsy ity moa no Davida, mpanjakan' ny tany? Tsy izy va no nandihizany sy nifampihirany hoe: Saoly nahafaty ny arivoarivony; fa Davida ny alinaliny?",
+    "12": "Ary dia nalatsak' i Davida tao am-pony izany teny izany, ka natahotra an' i Akisy mpanjakan' i Gata indrindra izy.",
+    "13": "Dia nanova ny fitondrantenany teo anatrehan' ireo izy, ka nody adala teo an-tanany, fa nanoratsoratra teo amin' ny lela-vavahady izy, sady navelany hitsororoka tamin' ny somony ny iviny.",
+    "14": "Ary hoy Akisy tamin' ny mpanompony: He! hitanareo fa very saina io lehilahy io, ka nahoana no nentinareo ety amiko izy?",
+    "15": "Izaho moa mitady olona very saina no nitondranareo ity olona very saina ity mba hanondrana eto anatrehako? Moa hiditra ato an-tranoko va ilehio?"
+  }
 }

@@ -1,161 +1,45 @@
 {
+  "book": "Matio",
   "chapter": 15,
-  "verses": [
-    {
-      "v": 1,
-      "text": "DIA nankeo amin' i Jesosy ny Fariseo sy ny mpanoradalàna sasany avy tany Jerosalema ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Nahoana ny mpianatrao no mandika ny fomba amam-panaon' ny razana? fa tsy mba manasa tanana izy, raha hihinan-kanina."
-    },
-    {
-      "v": 3,
-      "text": "Fa namaly Izy ka nanao taminy hoe: Nahoana kosa ianareo no mandika ny didin' Andriamanitra noho ny fomba amam-panaonareo?"
-    },
-    {
-      "v": 4,
-      "text": "Fa Andriamanitra efa nandidy hoe: “Manajà ny rainao sy ny reninao”. ary koa: “Izay manozona ny rainy na ny reniny dia hatao maty tokoa”."
-    },
-    {
-      "v": 5,
-      "text": "\"Fa hoy kosa ianareo: Na zovy na zovy no hilaza amin' ny rainy na ny reniny hoe: Efa fanatitra ho an' Andriamanitra izay rehetra tokony hahazoanao soa avy amiko;\""
-    },
-    {
-      "v": 6,
-      "text": "Dia tsy mba hanaja ny rainy na ny reniny izy ka ho afa-maina. Koa dia foananareo ny didin' Andriamanitra noho ny fomba amam-panaonareo."
-    },
-    {
-      "v": 7,
-      "text": "Ry mpihatsaravelatsihy, marina ny naminanian' Isaia anareo hoe:"
-    },
-    {
-      "v": 8,
-      "text": "“Ity firenena ity manatona Ahy amin' ny vavany, ary manaja Ahy amin' ny molony, fa ny fony kosa lavitra Ahy."
-    },
-    {
-      "v": 9,
-      "text": "Koa foana ny ivavahan' ireo amiko, raha mampianatra ny didin' olombelona ho foto-pampianarana izy”."
-    },
-    {
-      "v": 10,
-      "text": "Ary niantso ny vahoaka hankeo aminy Izy ka nanao taminy hoe: Mihainoa ka mahafantara:"
-    },
-    {
-      "v": 11,
-      "text": "\"Tsy izay miditra amin' ny vava no mahaloto ny olona; fa izay mivoaka avy amin' ny vava, izany no mahaloto ny olona.\""
-    },
-    {
-      "v": 12,
-      "text": "Dia nankeo aminy ny mpianany ka nanao taminy hoe: Fantatrao va fa tafintohina ny Fariseo, raha nandre izany teny izany?"
-    },
-    {
-      "v": 13,
-      "text": "Ary namaly Izy ka nanao hoe: Ny zava-maniry rehetra izay tsy nambolen' ny Raiko izay any an-danitra dia hongotana."
-    },
-    {
-      "v": 14,
-      "text": "\"Avelao izy; jamba mpitarika jamba izy; ary raha ny jamba no mitarika ny jamba, dia samy ho latsaka any an-kady izy roa.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary namaly Petera ka nanao taminy hoe: Ampahafantaro anay ny hevitr' izany fanoharana izany."
-    },
-    {
-      "v": 16,
-      "text": "Ary hoy Jesosy: Ianareo koa va mbola tsy mahafantatra ihany?"
-    },
-    {
-      "v": 17,
-      "text": "Tsy mbola fantatrareo va fa izay rehetra miditra amin' ny vava dia mankao an-kibo ka avoaka ao amin' ny fivoahana?"
-    },
-    {
-      "v": 18,
-      "text": "Fa ireto zavatra ireto, izay mivoaka avy amin' ny vava kosa dia avy amin' ny fo, ka izany no mahaloto ny olona."
-    },
-    {
-      "v": 19,
-      "text": "\"Fa avy amin' ny fo no ivoahan' ny sain-dratsy, dia ny vonoana olona, ny fijangajangana, ny fahavetavetana, ny halatra, ny ampanga lainga, ny blasfemia;\""
-    },
-    {
-      "v": 20,
-      "text": "\"Izany no zavatra mahaloto ny olona; fa ny mihinana amin' ny tanana tsy misasa tsy mba mahaloto ny olona;\""
-    },
-    {
-      "v": 21,
-      "text": "Dia niala teo Jesosy ka nankany amin' ny faritanin' i Tyro sy Sidona."
-    },
-    {
-      "v": 22,
-      "text": "Ary, indro, nisy vehivavy Kananita anankiray nivoaka avy tamin' izany tany izany ka niantso nanao hoe: Mamindrà fo amiko, Tompoko, zanak' i Davida ô! ampahorin' ny devoly loatra ny zanako vavy."
-    },
-    {
-      "v": 23,
-      "text": "Fa tsy namaly teny azy Izy. Ary nanatona ny mpianany ka nangataka taminy nanao hoe: Roahy izy, fa miantso mafy ato aoriantsika."
-    },
-    {
-      "v": 24,
-      "text": "Fa namaly Izy ka nanao hoe: Tsy nirahina Aho afa-tsy ho amin' ny ondry very amin' ny taranak' Isiraely."
-    },
-    {
-      "v": 25,
-      "text": "Dia nanatona ravehivavy, sady niankohoka teo anatrehany ka nanao hoe: Tompo ô, ampio aho."
-    },
-    {
-      "v": 26,
-      "text": "Fa Izy namaly ka nanao hoe: Tsy mety raha maka ny mofon-jaza ka manipy azy ho an' ny amboakely."
-    },
-    {
-      "v": 27,
-      "text": "\"Fa hoy ravehivavy: Marina izany, Tompoko; fa na dia ny amboakely aza mba mihinana izay sombintsombiny latsaka avy amin' ny latabatry ny tompony ihany.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Dia namaly Jesosy ka nanao taminy hoe: Ravehivavy, lehibe ny finoanao; tongava aminao araka izay irinao. Dia salama tanteraka ny zanany vavy hatramin' izay ora izay.\""
-    },
-    {
-      "v": 29,
-      "text": "\" Ary raha niala teo Jesosy, dia nankany amoron' ny ranomasin' i Galilia; ary niakatra nankeo an-tendrombohitra Izy ka nipetraka teo;\""
-    },
-    {
-      "v": 30,
-      "text": "\"Ary nisy vahoaka betsaka nankeo aminy nitondra ireo izay mandringa, ny jamba, ny moana, ny kilemaina, ary ny maro hafa koa, ka nametraka azy teo akaikin' ny tongotr' i Jesosy; dia nahasitrana azy ireo Izy;\""
-    },
-    {
-      "v": 31,
-      "text": "\"Ka dia talanjona ny vahoaka, raha nahita ny moana miteny, ny kilemaina salama tsara, ny mandringa afa-mandeha, ary ny jamba mahiratra; dia nankalaza an' Andriamanitry ny Isiraely izy.\""
-    },
-    {
-      "v": 32,
-      "text": "\"Ary niantso ny mpianany hankeo aminy Jesosy ka nanao hoe: Mahonena Ahy ny vahoaka, fa efa nitoetra hateloana taty amiko izy izao, ka tsy manan-kohanina; ary tsy tiako ny hampody azy tsy mihinana, fandrao reraka eny an-dalana izy.\""
-    },
-    {
-      "v": 33,
-      "text": "Fa hoy ny mpianany taminy: Aiza no hahitanay mofo aty an' efitra ampy hahavoky izao vahoaka betsaka izao?"
-    },
-    {
-      "v": 34,
-      "text": "Ary hoy Jesosy taminy: Misy mofo firy any aminareo? Ary hoy ireo: Fito, ary hazandrano madinika vitsy."
-    },
-    {
-      "v": 35,
-      "text": "Ary nandidy ny vahoaka hipetraka amin' ny tany Izy."
-    },
-    {
-      "v": 36,
-      "text": "Dia nandray ny mofo fito mbamin' ny hazandrano Izy, ary nisaotra sy namaky ireny ka nanolotra azy ho an' ny mpianany, ary ny mpianatra kosa nanolotra ho an' ny vahoaka."
-    },
-    {
-      "v": 37,
-      "text": "\"Ary nihinana avokoa izy rehetra, ka dia voky; ary nangoniny ny sombin-tsombiny sisa tsy lany, ka dia nahafeno sobiky fito.\""
-    },
-    {
-      "v": 38,
-      "text": "Ary izay nihinana dia efatra arivo lahy, afa-tsy ny zaza amam-behivavy."
-    },
-    {
-      "v": 39,
-      "text": "Ary nampody ny vahoaka Izy, dia niondrana an-tsambokely ka nankany amin' ny sisin-tanin' i Magdala."
-    }
-  ]
+  "verses": {
+    "1": "DIA nankeo amin' i Jesosy ny Fariseo sy ny mpanoradalàna sasany avy tany Jerosalema ka nanao hoe:",
+    "2": "Nahoana ny mpianatrao no mandika ny fomba amam-panaon' ny razana? fa tsy mba manasa tanana izy, raha hihinan-kanina.",
+    "3": "Fa namaly Izy ka nanao taminy hoe: Nahoana kosa ianareo no mandika ny didin' Andriamanitra noho ny fomba amam-panaonareo?",
+    "4": "Fa Andriamanitra efa nandidy hoe: “Manajà ny rainao sy ny reninao”. ary koa: “Izay manozona ny rainy na ny reniny dia hatao maty tokoa”.",
+    "5": "Fa hoy kosa ianareo: Na zovy na zovy no hilaza amin' ny rainy na ny reniny hoe: Efa fanatitra ho an' Andriamanitra izay rehetra tokony hahazoanao soa avy amiko;",
+    "6": "Dia tsy mba hanaja ny rainy na ny reniny izy ka ho afa-maina. Koa dia foananareo ny didin' Andriamanitra noho ny fomba amam-panaonareo.",
+    "7": "Ry mpihatsaravelatsihy, marina ny naminanian' Isaia anareo hoe:",
+    "8": "“Ity firenena ity manatona Ahy amin' ny vavany, ary manaja Ahy amin' ny molony, fa ny fony kosa lavitra Ahy.",
+    "9": "Koa foana ny ivavahan' ireo amiko, raha mampianatra ny didin' olombelona ho foto-pampianarana izy”.",
+    "10": "Ary niantso ny vahoaka hankeo aminy Izy ka nanao taminy hoe: Mihainoa ka mahafantara:",
+    "11": "Tsy izay miditra amin' ny vava no mahaloto ny olona; fa izay mivoaka avy amin' ny vava, izany no mahaloto ny olona.",
+    "12": "Dia nankeo aminy ny mpianany ka nanao taminy hoe: Fantatrao va fa tafintohina ny Fariseo, raha nandre izany teny izany?",
+    "13": "Ary namaly Izy ka nanao hoe: Ny zava-maniry rehetra izay tsy nambolen' ny Raiko izay any an-danitra dia hongotana.",
+    "14": "Avelao izy; jamba mpitarika jamba izy; ary raha ny jamba no mitarika ny jamba, dia samy ho latsaka any an-kady izy roa.",
+    "15": "Ary namaly Petera ka nanao taminy hoe: Ampahafantaro anay ny hevitr' izany fanoharana izany.",
+    "16": "Ary hoy Jesosy: Ianareo koa va mbola tsy mahafantatra ihany?",
+    "17": "Tsy mbola fantatrareo va fa izay rehetra miditra amin' ny vava dia mankao an-kibo ka avoaka ao amin' ny fivoahana?",
+    "18": "Fa ireto zavatra ireto, izay mivoaka avy amin' ny vava kosa dia avy amin' ny fo, ka izany no mahaloto ny olona.",
+    "19": "Fa avy amin' ny fo no ivoahan' ny sain-dratsy, dia ny vonoana olona, ny fijangajangana, ny fahavetavetana, ny halatra, ny ampanga lainga, ny blasfemia;",
+    "20": "Izany no zavatra mahaloto ny olona; fa ny mihinana amin' ny tanana tsy misasa tsy mba mahaloto ny olona;",
+    "21": "Dia niala teo Jesosy ka nankany amin' ny faritanin' i Tyro sy Sidona.",
+    "22": "Ary, indro, nisy vehivavy Kananita anankiray nivoaka avy tamin' izany tany izany ka niantso nanao hoe: Mamindrà fo amiko, Tompoko, zanak' i Davida ô! ampahorin' ny devoly loatra ny zanako vavy.",
+    "23": "Fa tsy namaly teny azy Izy. Ary nanatona ny mpianany ka nangataka taminy nanao hoe: Roahy izy, fa miantso mafy ato aoriantsika.",
+    "24": "Fa namaly Izy ka nanao hoe: Tsy nirahina Aho afa-tsy ho amin' ny ondry very amin' ny taranak' Isiraely.",
+    "25": "Dia nanatona ravehivavy, sady niankohoka teo anatrehany ka nanao hoe: Tompo ô, ampio aho.",
+    "26": "Fa Izy namaly ka nanao hoe: Tsy mety raha maka ny mofon-jaza ka manipy azy ho an' ny amboakely.",
+    "27": "Fa hoy ravehivavy: Marina izany, Tompoko; fa na dia ny amboakely aza mba mihinana izay sombintsombiny latsaka avy amin' ny latabatry ny tompony ihany.",
+    "28": "Dia namaly Jesosy ka nanao taminy hoe: Ravehivavy, lehibe ny finoanao; tongava aminao araka izay irinao. Dia salama tanteraka ny zanany vavy hatramin' izay ora izay.",
+    "29": " Ary raha niala teo Jesosy, dia nankany amoron' ny ranomasin' i Galilia; ary niakatra nankeo an-tendrombohitra Izy ka nipetraka teo;",
+    "30": "Ary nisy vahoaka betsaka nankeo aminy nitondra ireo izay mandringa, ny jamba, ny moana, ny kilemaina, ary ny maro hafa koa, ka nametraka azy teo akaikin' ny tongotr' i Jesosy; dia nahasitrana azy ireo Izy;",
+    "31": "Ka dia talanjona ny vahoaka, raha nahita ny moana miteny, ny kilemaina salama tsara, ny mandringa afa-mandeha, ary ny jamba mahiratra; dia nankalaza an' Andriamanitry ny Isiraely izy.",
+    "32": "Ary niantso ny mpianany hankeo aminy Jesosy ka nanao hoe: Mahonena Ahy ny vahoaka, fa efa nitoetra hateloana taty amiko izy izao, ka tsy manan-kohanina; ary tsy tiako ny hampody azy tsy mihinana, fandrao reraka eny an-dalana izy.",
+    "33": "Fa hoy ny mpianany taminy: Aiza no hahitanay mofo aty an' efitra ampy hahavoky izao vahoaka betsaka izao?",
+    "34": "Ary hoy Jesosy taminy: Misy mofo firy any aminareo? Ary hoy ireo: Fito, ary hazandrano madinika vitsy.",
+    "35": "Ary nandidy ny vahoaka hipetraka amin' ny tany Izy.",
+    "36": "Dia nandray ny mofo fito mbamin' ny hazandrano Izy, ary nisaotra sy namaky ireny ka nanolotra azy ho an' ny mpianany, ary ny mpianatra kosa nanolotra ho an' ny vahoaka.",
+    "37": "Ary nihinana avokoa izy rehetra, ka dia voky; ary nangoniny ny sombin-tsombiny sisa tsy lany, ka dia nahafeno sobiky fito.",
+    "38": "Ary izay nihinana dia efatra arivo lahy, afa-tsy ny zaza amam-behivavy.",
+    "39": "Ary nampody ny vahoaka Izy, dia niondrana an-tsambokely ka nankany amin' ny sisin-tanin' i Magdala."
+  }
 }

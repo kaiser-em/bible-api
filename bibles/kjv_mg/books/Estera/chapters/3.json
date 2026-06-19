@@ -1,65 +1,21 @@
 {
+  "book": "Estera",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "REHEFA afaka izany zavatra izany, dia nasandratr' i Ahasoerosy mpanjaka i Hamana, zanak' i Hamedota Agagita, ka nomeny voninahitra, ary ny sezany nataony ambony noho ny an' ny mpanapaka rehetra izay teo aminy."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary ny mpanompon' ny mpanjaka rehetra izay teo am-bavahadin' ny mpanjaka dia niondrika sy niankohoka teo anatrehan' i Hamana; fa izany no nandidian' ny mpanjaka ny aminy. Fa i Mordekay tsy mba niondrika na niankohoka taminy.\""
-    },
-    {
-      "v": 3,
-      "text": "Dia hoy ny mpanompon' ny mpanjaka izay teo am-bavahadin' ny mpanjaka tamin' i Mordekay: Nahoana ianao no mandika ny didin' ny mpanjaka?"
-    },
-    {
-      "v": 4,
-      "text": "\"Koa izao no niseho, rehefa niteny taminy isan' andro ireo, nefa tsy nihaino ireo izy, dia nolazain' ireo tamin' i Hamana, mba hizahany na haharitra amin' ny teniny ihany Mordekay, na tsia; fa efa nilaza tamin' ireo izy fa Jiosy.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary rehefa hitan' i Hamana fa tsy niondrika, na niankohoka taminy i Mordekay, dia feno fahatezerana i Hamana."
-    },
-    {
-      "v": 6,
-      "text": "Ary nataon' i Hamana ho zavatra kely loatra ny haninji-tanana hamely an' i Mordekay irery ihany, fa efa nambara azy ny firenen' i Mordekay, ka dia nitady handringana ny Jiosy rehetra eran' ny fanjakan' i Ahasoerosy koa izy, dia ny firenen' i Mordekay."
-    },
-    {
-      "v": 7,
-      "text": "Tamin' ny volana voalohany, na volana Nisana izany, tamin' ny taona faharoa ambin' ny folo nanjakan' i Ahasoerosy mpanjaka, dia nisy nanao pora, dia antsapaka izany, teo anatrehan' i Hamana ny amin' ny isan' andro isan' andro sy ny isam-bolana isam-bolana hatramin' ny volana faharoa ambin' ny folo, na ny volana Adara izany."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary hoy Hamana tamin' ny Ahasoerosy mpanjaka: Misy firenena iray efa miely sy mihahaka eny amin' ny firenena any amin' ny faritany rehetra amin' ny fanjakanao; ary hafa lalàna noho ny firenena rehetra ireny sady tsy mba mankatò ny lalàn' ny mpanjaka; ary tsy mahasoa ny mpanjaka ny hamela azy ho eny.\""
-    },
-    {
-      "v": 9,
-      "text": "Koa raha sitraky ny mpanjaka, aoka hosoratana mba haringana ireny, dia handoa talenta volafotsy iray alina ho eo an-tanan' ny mpanao raharaha aho hoentina ao an-trano firaketan' ny mpanjaka."
-    },
-    {
-      "v": 10,
-      "text": "Dia nesorin' ny mpanjaka tamin' ny tanany ny peratra fanombohany ka nomeny an' i Hamana, zanak' i Hamedota Agagita, fahavalon' ny Jiosy."
-    },
-    {
-      "v": 11,
-      "text": "Ary hoy ny mpanjaka tamin' i Hamana: Homena anao ihany ny volafotsy sy ny olona koa hanaovanao azy araka izay sitrakao."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary nantsoina ny mpanoratry ny mpanjaka tamin' ny andro fahatelo ambin' ny folo tamin' ny volana voalohany, ka nosoratana izany araka izay rehetra nandidian' i Hamana ho an' ny solo-mpanjaka sy ny governora tamin' ny faritany rehetra, ary ny mpanapaka ny firenena rehetra amin' ny faritany rehetra sy ny sorany avy, ary ho amin' isam-pirenena araka ny fiteniny avy; dia tamin' ny anaran' i Ahasoerosy mpanjaka no nanoratany azy ka notombohany tamin' ny peratry ny mpanjaka.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary ny taratasy dia nampitondrainy ny tsimandoa ho any amin' ny faritanin' ny mpanjaka rehetra mba hampandringana sy hampamono ary hampandripaka ny Jiosy rehetra, na tanora, na antitra, na zaza madinika na vehivavy amin' ny indray andro monja, dia amin' ny andro fahatelo ambin' ny folo amin' ny volana faharoa ambin' ny folo, na ny volana Adara izany, ary handroba ny fananany."
-    },
-    {
-      "v": 14,
-      "text": "Ny kopian' ny soratra izay natao didy homena ny faritany rehetra dia naely tamin' ny olona rehetra mba hampiomana azy amin' izany andro izany."
-    },
-    {
-      "v": 15,
-      "text": "\"Dia nivoaka ny tsimandoa, fa nododonan' ny didin' ny mpanjaka; ary nomena tany Sosana renivohitra misy ny lapa koa ny lalàna. Ary nipetraka hisotro ny mpanjaka sy Hamana, fa ny tao an-tanàna Sosana kosa dia very hevitra.\""
-    }
-  ]
+  "verses": {
+    "1": "REHEFA afaka izany zavatra izany, dia nasandratr' i Ahasoerosy mpanjaka i Hamana, zanak' i Hamedota Agagita, ka nomeny voninahitra, ary ny sezany nataony ambony noho ny an' ny mpanapaka rehetra izay teo aminy.",
+    "2": "Ary ny mpanompon' ny mpanjaka rehetra izay teo am-bavahadin' ny mpanjaka dia niondrika sy niankohoka teo anatrehan' i Hamana; fa izany no nandidian' ny mpanjaka ny aminy. Fa i Mordekay tsy mba niondrika na niankohoka taminy.",
+    "3": "Dia hoy ny mpanompon' ny mpanjaka izay teo am-bavahadin' ny mpanjaka tamin' i Mordekay: Nahoana ianao no mandika ny didin' ny mpanjaka?",
+    "4": "Koa izao no niseho, rehefa niteny taminy isan' andro ireo, nefa tsy nihaino ireo izy, dia nolazain' ireo tamin' i Hamana, mba hizahany na haharitra amin' ny teniny ihany Mordekay, na tsia; fa efa nilaza tamin' ireo izy fa Jiosy.",
+    "5": "Ary rehefa hitan' i Hamana fa tsy niondrika, na niankohoka taminy i Mordekay, dia feno fahatezerana i Hamana.",
+    "6": "Ary nataon' i Hamana ho zavatra kely loatra ny haninji-tanana hamely an' i Mordekay irery ihany, fa efa nambara azy ny firenen' i Mordekay, ka dia nitady handringana ny Jiosy rehetra eran' ny fanjakan' i Ahasoerosy koa izy, dia ny firenen' i Mordekay.",
+    "7": "Tamin' ny volana voalohany, na volana Nisana izany, tamin' ny taona faharoa ambin' ny folo nanjakan' i Ahasoerosy mpanjaka, dia nisy nanao pora, dia antsapaka izany, teo anatrehan' i Hamana ny amin' ny isan' andro isan' andro sy ny isam-bolana isam-bolana hatramin' ny volana faharoa ambin' ny folo, na ny volana Adara izany.",
+    "8": "Ary hoy Hamana tamin' ny Ahasoerosy mpanjaka: Misy firenena iray efa miely sy mihahaka eny amin' ny firenena any amin' ny faritany rehetra amin' ny fanjakanao; ary hafa lalàna noho ny firenena rehetra ireny sady tsy mba mankatò ny lalàn' ny mpanjaka; ary tsy mahasoa ny mpanjaka ny hamela azy ho eny.",
+    "9": "Koa raha sitraky ny mpanjaka, aoka hosoratana mba haringana ireny, dia handoa talenta volafotsy iray alina ho eo an-tanan' ny mpanao raharaha aho hoentina ao an-trano firaketan' ny mpanjaka.",
+    "10": "Dia nesorin' ny mpanjaka tamin' ny tanany ny peratra fanombohany ka nomeny an' i Hamana, zanak' i Hamedota Agagita, fahavalon' ny Jiosy.",
+    "11": "Ary hoy ny mpanjaka tamin' i Hamana: Homena anao ihany ny volafotsy sy ny olona koa hanaovanao azy araka izay sitrakao.",
+    "12": "Ary nantsoina ny mpanoratry ny mpanjaka tamin' ny andro fahatelo ambin' ny folo tamin' ny volana voalohany, ka nosoratana izany araka izay rehetra nandidian' i Hamana ho an' ny solo-mpanjaka sy ny governora tamin' ny faritany rehetra, ary ny mpanapaka ny firenena rehetra amin' ny faritany rehetra sy ny sorany avy, ary ho amin' isam-pirenena araka ny fiteniny avy; dia tamin' ny anaran' i Ahasoerosy mpanjaka no nanoratany azy ka notombohany tamin' ny peratry ny mpanjaka.",
+    "13": "Ary ny taratasy dia nampitondrainy ny tsimandoa ho any amin' ny faritanin' ny mpanjaka rehetra mba hampandringana sy hampamono ary hampandripaka ny Jiosy rehetra, na tanora, na antitra, na zaza madinika na vehivavy amin' ny indray andro monja, dia amin' ny andro fahatelo ambin' ny folo amin' ny volana faharoa ambin' ny folo, na ny volana Adara izany, ary handroba ny fananany.",
+    "14": "Ny kopian' ny soratra izay natao didy homena ny faritany rehetra dia naely tamin' ny olona rehetra mba hampiomana azy amin' izany andro izany.",
+    "15": "Dia nivoaka ny tsimandoa, fa nododonan' ny didin' ny mpanjaka; ary nomena tany Sosana renivohitra misy ny lapa koa ny lalàna. Ary nipetraka hisotro ny mpanjaka sy Hamana, fa ny tao an-tanàna Sosana kosa dia very hevitra."
+  }
 }

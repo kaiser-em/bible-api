@@ -1,129 +1,37 @@
 {
+  "book": "Jeremia",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Miveziveze eny an-dalamben' i Jerosalema ianareo, ka izahao ankehitriny ary fantaro sy tadiavo ao an-kalalahana, fa raha mba misy olona iray izay manao fitsarana marina sy mikatsaka ny rariny, dia havelako ny helok' i Jerosalema."
-    },
-    {
-      "v": 2,
-      "text": "Ary na dia misy aza manao hoe: Raha velona koa Jehovah, dia entiny mianian-tsy to tokoa izany."
-    },
-    {
-      "v": 3,
-      "text": "\"Jehovah ô, tsy mijery ny marina va ny masonao? Namely azy Ianao, nefa tsy nahatsiaro narary izy; nandany azy Ianao, nefa tsy nety nandray anatra izy; nohamafisiny mihoatra noho ny harambato ny tarehiny, tsy nety niverina izy.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ka dia hoy aho: olo-mahantra tokoa ireto; adala izy fa tsy mahalala ny lalan' i Jehovah, na ny fitsaran' Andriamaniny.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Handeha ho any amin' ny lehibe aho ka hiteny aminy; fa ireny dia nahalala ny lalan' i Jehovah sy ny fitsaran' Andriamaniny; kanjo ireny koa aza dia samy efa nanapaka zioga sy nanito fatorana.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Koa noho izany dia hamely azy ny liona avy any an' ala, ary handringana azy amin' ny hariva ny amboadia avy any an' efitra, ny leoparda hiandry hamely ny tanànany, ka izay rehetra mivoaka avy ao dia hoviraviraina; fa efa maro ny fahadisoany ary mitombo ny fihemorany.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ahoana no hamelako heloka anao amin' izany? Efa nahafoy Ahy ny zanakao, ka efa nianiana tamin' izay tsy andriamanitra; rehefa novokisako izy, dia nijangajanga ihany ka nirohitra niditra tao an-tranon' ny vehivavy janga.\""
-    },
-    {
-      "v": 8,
-      "text": "Tahaka ny soavaly tsara fahana amin' ny maraina izy, ka samy naneno tamin' ny vadin' ny namany avy."
-    },
-    {
-      "v": 9,
-      "text": "\"Tsy hovaliako va izany zavatra izany? hoy Jehovah; ary tsy hialako fo va ny firenena toy izany?\""
-    },
-    {
-      "v": 10,
-      "text": "\"Miakara eo amin' ny mandany ianareo, ka mameleza, nefa aza dia levonina avokoa izy; esory ny sakeliny, satria tsy an' i Jehovah izy.\""
-    },
-    {
-      "v": 11,
-      "text": "Fa efa nivadika tamiko mihitsy ny taranak' Isiraely sy ny taranak' i Joda, hoy Jehovah."
-    },
-    {
-      "v": 12,
-      "text": "\"Efa nampandainga an' Andriamanitra izy ka nanao hoe: Tsy Izy no izy; tsy hisy loza hanjo antsika, ary tsy hahita sabatra na mosary isika;\""
-    },
-    {
-      "v": 13,
-      "text": "Ny mpaminany dia hanjary rivotra ary tsy ao aminy ny teny, toy izany no hanjo azy."
-    },
-    {
-      "v": 14,
-      "text": "Koa izao no lazain' i Jehovah, Andriamanitry ny maro: Noho ny nanaovanareo izany teny izany, indro, hataoko afo ny teniko izay eo am-bavanao, ary ity firenena ity ho kitay hazo ka holevoniny."
-    },
-    {
-      "v": 15,
-      "text": "\"Indro, efa hitondra firenena avy lavitra Aho hamely anareo, ry taranak' Isiraely, hoy Jehovah; dia firenena mahery, firenena hatry ny ela, firenena izay tsy fantatrao ny fiteniny, na ho azonao izay lazainy.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ny tranon-jana-tsipìkany dia tahaka ny fasana misokatra; izy rehetra dia samy lehilahy mahery avokoa.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary hohaniny ny vokatrao sy ny haninao izay tokony hohanin' ny zanakao lahy sy ny zanakao vavy, hohaniny ny ondry aman' osinao sy ny ombinao, hohaniny ny voalobokao sy ny aviavinao; sady horavany amin' ny sabatra ny tanànanao mimanda izay itokianao.\""
-    },
-    {
-      "v": 18,
-      "text": "Nefa na dia amin' izany andro izany aza, hoy Jehovah, tsy dia holevoniko avokoa ianareo."
-    },
-    {
-      "v": 19,
-      "text": "Ary izao no hiseho, raha hoy ianareo: Nahoana Jehovah Andriamanitsika no dia manao izao zavatra rehetra izao amintsika? Dia hovalianao izy hoe: Toy ny nahafoizanareo Ahy sy ny nanompoanareo andriamani-kafa teo amin' ny taninareo no hanompoanareo firenen-kafa any amin' ny tany izay tsy anareo."
-    },
-    {
-      "v": 20,
-      "text": "Ambarao ao amin' ny taranak' i Jakoba izany, ary torio ao amin' ny Joda hoe:"
-    },
-    {
-      "v": 21,
-      "text": "Henoy izao, ry firenena adala sady tsy manan-tsaina, izay mana-maso, fa tsy mahita, ary manan-tsofina, fa tsy mandre:"
-    },
-    {
-      "v": 22,
-      "text": "\"Izaho va tsy atahoranareo? hoy Jehovah; tsy hangovitra va ianareo eo anatrehako, izay nanao ny fasika ho fefin' ny ranomasina, dia fetra mandrakizay tsy azony hihoarana? Ka na dia mitopatopa aza ny onjany, dia tsy mahavaky azy, ary na dia mirohondrohona aza, dia tsy mahahoatra azy.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Fa ity firenena ity dia manana fo mikomy sy miodina; miodina izy dia lasa.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary tsy manao anakampo akory izy hoe: Aoka isika hatahotra an' i Jehovah Andriamanitsika ankehitriny, izay mandatsaka ranonorana, dia ny loha-orana sy ny fara-orana amin' ny fotoany avy; ireo herinandro voatendry ho amin' ny fararano dia tandremany ho antsika.\""
-    },
-    {
-      "v": 25,
-      "text": "Ny helokareo no nampiala izany, ary ny fahotanareo no nisakana ny soa tsy ho azonareo."
-    },
-    {
-      "v": 26,
-      "text": "\"Fa misy hita fa ratsy fanahy ny oloko; mamitaka sy mijoko toy ny mamela-pandrika izy; mamela-pandrika izy, dia mahazo olona.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Toy ny tranom-borona feno vorona no mahafeno fitaka ny tranony; ary noho izany dia tonga lehibe sy mpanankarena izy.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Mihamatavy izy ka mandimandina, eny mihoa-pampana amin' ny fanaovan-dratsy; tsy mety mitsara ady izy, dia ny adin' ny kamboty, nefa ambinina ihany izy; ary ny adin' ny azom-pahasahiranana tsy mba tsarainy.\""
-    },
-    {
-      "v": 29,
-      "text": "Tsy hovaliako va izany zavatra izany? hoy Jehovah. Tsy hialako fo va ny firenena toy izany?"
-    },
-    {
-      "v": 30,
-      "text": "Zava-mahagaga sy mahatsiravina no atao eo amin' ny tany:"
-    },
-    {
-      "v": 31,
-      "text": "\"Ny mpaminany maminany sandoka, ny mpisorona manapaka araka ny heviny, ary ny oloko mankasitraka izany; koa hanao ahoana re ianareo any am-parany?\""
-    }
-  ]
+  "verses": {
+    "1": "Miveziveze eny an-dalamben' i Jerosalema ianareo, ka izahao ankehitriny ary fantaro sy tadiavo ao an-kalalahana, fa raha mba misy olona iray izay manao fitsarana marina sy mikatsaka ny rariny, dia havelako ny helok' i Jerosalema.",
+    "2": "Ary na dia misy aza manao hoe: Raha velona koa Jehovah, dia entiny mianian-tsy to tokoa izany.",
+    "3": "Jehovah ô, tsy mijery ny marina va ny masonao? Namely azy Ianao, nefa tsy nahatsiaro narary izy; nandany azy Ianao, nefa tsy nety nandray anatra izy; nohamafisiny mihoatra noho ny harambato ny tarehiny, tsy nety niverina izy.",
+    "4": "Ka dia hoy aho: olo-mahantra tokoa ireto; adala izy fa tsy mahalala ny lalan' i Jehovah, na ny fitsaran' Andriamaniny.",
+    "5": "Handeha ho any amin' ny lehibe aho ka hiteny aminy; fa ireny dia nahalala ny lalan' i Jehovah sy ny fitsaran' Andriamaniny; kanjo ireny koa aza dia samy efa nanapaka zioga sy nanito fatorana.",
+    "6": "Koa noho izany dia hamely azy ny liona avy any an' ala, ary handringana azy amin' ny hariva ny amboadia avy any an' efitra, ny leoparda hiandry hamely ny tanànany, ka izay rehetra mivoaka avy ao dia hoviraviraina; fa efa maro ny fahadisoany ary mitombo ny fihemorany.",
+    "7": "Ahoana no hamelako heloka anao amin' izany? Efa nahafoy Ahy ny zanakao, ka efa nianiana tamin' izay tsy andriamanitra; rehefa novokisako izy, dia nijangajanga ihany ka nirohitra niditra tao an-tranon' ny vehivavy janga.",
+    "8": "Tahaka ny soavaly tsara fahana amin' ny maraina izy, ka samy naneno tamin' ny vadin' ny namany avy.",
+    "9": "Tsy hovaliako va izany zavatra izany? hoy Jehovah; ary tsy hialako fo va ny firenena toy izany?",
+    "10": "Miakara eo amin' ny mandany ianareo, ka mameleza, nefa aza dia levonina avokoa izy; esory ny sakeliny, satria tsy an' i Jehovah izy.",
+    "11": "Fa efa nivadika tamiko mihitsy ny taranak' Isiraely sy ny taranak' i Joda, hoy Jehovah.",
+    "12": "Efa nampandainga an' Andriamanitra izy ka nanao hoe: Tsy Izy no izy; tsy hisy loza hanjo antsika, ary tsy hahita sabatra na mosary isika;",
+    "13": "Ny mpaminany dia hanjary rivotra ary tsy ao aminy ny teny, toy izany no hanjo azy.",
+    "14": "Koa izao no lazain' i Jehovah, Andriamanitry ny maro: Noho ny nanaovanareo izany teny izany, indro, hataoko afo ny teniko izay eo am-bavanao, ary ity firenena ity ho kitay hazo ka holevoniny.",
+    "15": "Indro, efa hitondra firenena avy lavitra Aho hamely anareo, ry taranak' Isiraely, hoy Jehovah; dia firenena mahery, firenena hatry ny ela, firenena izay tsy fantatrao ny fiteniny, na ho azonao izay lazainy.",
+    "16": "Ny tranon-jana-tsipìkany dia tahaka ny fasana misokatra; izy rehetra dia samy lehilahy mahery avokoa.",
+    "17": "Ary hohaniny ny vokatrao sy ny haninao izay tokony hohanin' ny zanakao lahy sy ny zanakao vavy, hohaniny ny ondry aman' osinao sy ny ombinao, hohaniny ny voalobokao sy ny aviavinao; sady horavany amin' ny sabatra ny tanànanao mimanda izay itokianao.",
+    "18": "Nefa na dia amin' izany andro izany aza, hoy Jehovah, tsy dia holevoniko avokoa ianareo.",
+    "19": "Ary izao no hiseho, raha hoy ianareo: Nahoana Jehovah Andriamanitsika no dia manao izao zavatra rehetra izao amintsika? Dia hovalianao izy hoe: Toy ny nahafoizanareo Ahy sy ny nanompoanareo andriamani-kafa teo amin' ny taninareo no hanompoanareo firenen-kafa any amin' ny tany izay tsy anareo.",
+    "20": "Ambarao ao amin' ny taranak' i Jakoba izany, ary torio ao amin' ny Joda hoe:",
+    "21": "Henoy izao, ry firenena adala sady tsy manan-tsaina, izay mana-maso, fa tsy mahita, ary manan-tsofina, fa tsy mandre:",
+    "22": "Izaho va tsy atahoranareo? hoy Jehovah; tsy hangovitra va ianareo eo anatrehako, izay nanao ny fasika ho fefin' ny ranomasina, dia fetra mandrakizay tsy azony hihoarana? Ka na dia mitopatopa aza ny onjany, dia tsy mahavaky azy, ary na dia mirohondrohona aza, dia tsy mahahoatra azy.",
+    "23": "Fa ity firenena ity dia manana fo mikomy sy miodina; miodina izy dia lasa.",
+    "24": "Ary tsy manao anakampo akory izy hoe: Aoka isika hatahotra an' i Jehovah Andriamanitsika ankehitriny, izay mandatsaka ranonorana, dia ny loha-orana sy ny fara-orana amin' ny fotoany avy; ireo herinandro voatendry ho amin' ny fararano dia tandremany ho antsika.",
+    "25": "Ny helokareo no nampiala izany, ary ny fahotanareo no nisakana ny soa tsy ho azonareo.",
+    "26": "Fa misy hita fa ratsy fanahy ny oloko; mamitaka sy mijoko toy ny mamela-pandrika izy; mamela-pandrika izy, dia mahazo olona.",
+    "27": "Toy ny tranom-borona feno vorona no mahafeno fitaka ny tranony; ary noho izany dia tonga lehibe sy mpanankarena izy.",
+    "28": "Mihamatavy izy ka mandimandina, eny mihoa-pampana amin' ny fanaovan-dratsy; tsy mety mitsara ady izy, dia ny adin' ny kamboty, nefa ambinina ihany izy; ary ny adin' ny azom-pahasahiranana tsy mba tsarainy.",
+    "29": "Tsy hovaliako va izany zavatra izany? hoy Jehovah. Tsy hialako fo va ny firenena toy izany?",
+    "30": "Zava-mahagaga sy mahatsiravina no atao eo amin' ny tany:",
+    "31": "Ny mpaminany maminany sandoka, ny mpisorona manapaka araka ny heviny, ary ny oloko mankasitraka izany; koa hanao ahoana re ianareo any am-parany?"
+  }
 }

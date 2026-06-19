@@ -1,69 +1,22 @@
 {
+  "book": "Salamo",
   "chapter": 91,
-  "verses": [
-    {
-      "v": 1,
-      "text": "NY mitoetra ao amin' ny fierena izay an' ny Avo Indrindra dia monina eo ambanin' ny aloky ny Tsitoha."
-    },
-    {
-      "v": 2,
-      "text": "Hilaza an' i Jehovah aho hoe: Fialofako sy batery fiarovana ahy Izy, Andriamanitro izay hitokiako."
-    },
-    {
-      "v": 3,
-      "text": "Hanafaka anao tokoa amin' ny fandriky ny mpihaza sy ny areti-mandoza izy."
-    },
-    {
-      "v": 4,
-      "text": "\"Ny volon' elany no hanaronany anao, ary ao ambanin' ny elany no hitokianao; ho ampinga kely sy ampinga lehibe ho anao ny fahamarinany.\""
-    },
-    {
-      "v": 5,
-      "text": "Tsy hatahotra ny fampitahorana nony alina ianao, na ny zana-tsipìka manidina nony andro."
-    },
-    {
-      "v": 6,
-      "text": "Na ny areti-mandringana mandeha amin' ny maizina, na ny fandringanana mandripaka amin' ny mitataovovonana."
-    },
-    {
-      "v": 7,
-      "text": "\"Hisy arivo ho lavo eo anilanao sy iray alina eo ankavananao; nefa tsy hanakaiky anao izany.\""
-    },
-    {
-      "v": 8,
-      "text": "Hijery maso fotsiny ihany ianao, ka ho hitanao ny hamaliana ny ratsy fanahy."
-    },
-    {
-      "v": 9,
-      "text": "\"Satria Jehovah no efa nataonao hoe: Fialofako; eny, ny Avo Indrindra ho fonenanao,\""
-    },
-    {
-      "v": 10,
-      "text": "Dia tsy hisy loza hanjo anao, na areti-mandoza hanakaiky ny lainao."
-    },
-    {
-      "v": 11,
-      "text": "Fa Izy handidy ny anjeliny ny aminao, mba hiaro anao amin' izay alehanao rehetra."
-    },
-    {
-      "v": 12,
-      "text": "Eny an-tanany no hitondran' ireo anao, fandrao ho tafintohina amin' ny vato ny tongotrao."
-    },
-    {
-      "v": 13,
-      "text": "\"Hodiavinao ny liona sy ny vipera; hohitsahinao ny liona tanora sy ny dragona.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Satria Izaho no niraiketan' ny fitiavany, dia hanafaka azy Aho; hanandratra azy ho any amin' ny avo Aho, satria mahalala ny anarako izy.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Hiantso Ahy izy, dia hamaly azy Aho; ho eo aminy Aho, raha ory izy; hanafaka sy hanome voninahitra azy Aho.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Hovokisako fahelavelona izy; ary hasehoko azy ny famonjeko.\""
-    }
-  ]
+  "verses": {
+    "1": "NY mitoetra ao amin' ny fierena izay an' ny Avo Indrindra dia monina eo ambanin' ny aloky ny Tsitoha.",
+    "2": "Hilaza an' i Jehovah aho hoe: Fialofako sy batery fiarovana ahy Izy, Andriamanitro izay hitokiako.",
+    "3": "Hanafaka anao tokoa amin' ny fandriky ny mpihaza sy ny areti-mandoza izy.",
+    "4": "Ny volon' elany no hanaronany anao, ary ao ambanin' ny elany no hitokianao; ho ampinga kely sy ampinga lehibe ho anao ny fahamarinany.",
+    "5": "Tsy hatahotra ny fampitahorana nony alina ianao, na ny zana-tsipìka manidina nony andro.",
+    "6": "Na ny areti-mandringana mandeha amin' ny maizina, na ny fandringanana mandripaka amin' ny mitataovovonana.",
+    "7": "Hisy arivo ho lavo eo anilanao sy iray alina eo ankavananao; nefa tsy hanakaiky anao izany.",
+    "8": "Hijery maso fotsiny ihany ianao, ka ho hitanao ny hamaliana ny ratsy fanahy.",
+    "9": "Satria Jehovah no efa nataonao hoe: Fialofako; eny, ny Avo Indrindra ho fonenanao,",
+    "10": "Dia tsy hisy loza hanjo anao, na areti-mandoza hanakaiky ny lainao.",
+    "11": "Fa Izy handidy ny anjeliny ny aminao, mba hiaro anao amin' izay alehanao rehetra.",
+    "12": "Eny an-tanany no hitondran' ireo anao, fandrao ho tafintohina amin' ny vato ny tongotrao.",
+    "13": "Hodiavinao ny liona sy ny vipera; hohitsahinao ny liona tanora sy ny dragona.",
+    "14": "Satria Izaho no niraiketan' ny fitiavany, dia hanafaka azy Aho; hanandratra azy ho any amin' ny avo Aho, satria mahalala ny anarako izy.",
+    "15": "Hiantso Ahy izy, dia hamaly azy Aho; ho eo aminy Aho, raha ory izy; hanafaka sy hanome voninahitra azy Aho.",
+    "16": "Hovokisako fahelavelona izy; ary hasehoko azy ny famonjeko."
+  }
 }

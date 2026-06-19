@@ -1,93 +1,28 @@
 {
+  "book": "Salamo",
   "chapter": 38,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Salamo nataon' i Davida. Ho fampahatsiarovana.]  JEHOVAH ô, aza ny fahatezeranao no ananaranao ahy; ary aza ny fahaviniranao no amaizanao ahy.\""
-    },
-    {
-      "v": 2,
-      "text": "Fa mitsatoka amiko ny zana-tsipìkanao, ary manindry ahy mafy ny tananao,"
-    },
-    {
-      "v": 3,
-      "text": "\"Tsy misy fahasalamana ny nofoko rehetra noho ny fahatezeranao; tsy misy fitsaharana ny taolako noho ny fahotako.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Fa ny heloko efa mihoatra ny lohako; tahaka ny entana mavesatra izy ka tsy zakako.\""
-    },
-    {
-      "v": 5,
-      "text": "Maimbo sy mihalò ny feriko noho ny fahadalako."
-    },
-    {
-      "v": 6,
-      "text": "\"Ory aho; mijoretra indrindra aho; misaona mandrakariva aho.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary ny vaniako heniky ny aretina mamaivay; ary tsy misy fahasalamana ny nofoko.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Reraka aho sady torovana indrindra; midradradradra aho noho ny fitolokon' ny foko.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Tompo ô, eo anatrehanao ny faniriako rehetra; ary ny fisentoako tsy mba miafina aminao.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Miemponempona ny foko, lany ny heriko; ary ny fahiratan' ny masoko aza efa nandao ahy.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ny olo-malalako sy ny sakaizako aza efa manalavitra ny fahoriako; ary ny havako mijanona eny lavitra eny.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Mamela-pandrika izay mitady ny aiko; ary izay mitady hanimba ahy miteny fandozana sy misaim-pitaka mandrakariva.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Fa izaho dia tahaka ny marenina ka tsy mandre, ary tahaka ny moana ka tsy mahaloa-bava;\""
-    },
-    {
-      "v": 14,
-      "text": "Eny, dia tahaka ny olona tsy mandre, sady tsy misy teny havaly eo am-bavany."
-    },
-    {
-      "v": 15,
-      "text": "\"Fa ianao no antenaiko, Jehovah ô; Ianao no hihaino, ry Tompo Andriamanitro ô.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Fa hoy aho: Henoy aho, fandrao hifalian' izy ireo aho; ary raha mibolasitra ny tongotro dia hirehareha amiko izy.\""
-    },
-    {
-      "v": 17,
-      "text": "Fa efa ho lavo aho, ary ny alaheloko dia eo anatrehako mandrakariva."
-    },
-    {
-      "v": 18,
-      "text": "\"Fa ny heloko no hambarako; halahelo aho noho ny fahotako.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Fa velona sady mahery ny fahavaloko; ary mitombo ny mandrafy ahy tsy ahoan-tsy ahoana.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary fahavaloko koa izay mamaly ratsy ny soa, satria manaraka izay tsara aho."
-    },
-    {
-      "v": 21,
-      "text": "\"Aza mahafoy ahy, Jehovah ô; ry Andriamanitro ô, aza manalavitra ahy.\""
-    },
-    {
-      "v": 22,
-      "text": "Faingàna hamonjy ahy, ry Tompo, famonjena ahy ô."
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida. Ho fampahatsiarovana.]  JEHOVAH ô, aza ny fahatezeranao no ananaranao ahy; ary aza ny fahaviniranao no amaizanao ahy.",
+    "2": "Fa mitsatoka amiko ny zana-tsipìkanao, ary manindry ahy mafy ny tananao,",
+    "3": "Tsy misy fahasalamana ny nofoko rehetra noho ny fahatezeranao; tsy misy fitsaharana ny taolako noho ny fahotako.",
+    "4": "Fa ny heloko efa mihoatra ny lohako; tahaka ny entana mavesatra izy ka tsy zakako.",
+    "5": "Maimbo sy mihalò ny feriko noho ny fahadalako.",
+    "6": "Ory aho; mijoretra indrindra aho; misaona mandrakariva aho.",
+    "7": "Ary ny vaniako heniky ny aretina mamaivay; ary tsy misy fahasalamana ny nofoko.",
+    "8": "Reraka aho sady torovana indrindra; midradradradra aho noho ny fitolokon' ny foko.",
+    "9": "Tompo ô, eo anatrehanao ny faniriako rehetra; ary ny fisentoako tsy mba miafina aminao.",
+    "10": "Miemponempona ny foko, lany ny heriko; ary ny fahiratan' ny masoko aza efa nandao ahy.",
+    "11": "Ny olo-malalako sy ny sakaizako aza efa manalavitra ny fahoriako; ary ny havako mijanona eny lavitra eny.",
+    "12": "Mamela-pandrika izay mitady ny aiko; ary izay mitady hanimba ahy miteny fandozana sy misaim-pitaka mandrakariva.",
+    "13": "Fa izaho dia tahaka ny marenina ka tsy mandre, ary tahaka ny moana ka tsy mahaloa-bava;",
+    "14": "Eny, dia tahaka ny olona tsy mandre, sady tsy misy teny havaly eo am-bavany.",
+    "15": "Fa ianao no antenaiko, Jehovah ô; Ianao no hihaino, ry Tompo Andriamanitro ô.",
+    "16": "Fa hoy aho: Henoy aho, fandrao hifalian' izy ireo aho; ary raha mibolasitra ny tongotro dia hirehareha amiko izy.",
+    "17": "Fa efa ho lavo aho, ary ny alaheloko dia eo anatrehako mandrakariva.",
+    "18": "Fa ny heloko no hambarako; halahelo aho noho ny fahotako.",
+    "19": "Fa velona sady mahery ny fahavaloko; ary mitombo ny mandrafy ahy tsy ahoan-tsy ahoana.",
+    "20": "Ary fahavaloko koa izay mamaly ratsy ny soa, satria manaraka izay tsara aho.",
+    "21": "Aza mahafoy ahy, Jehovah ô; ry Andriamanitro ô, aza manalavitra ahy.",
+    "22": "Faingàna hamonjy ahy, ry Tompo, famonjena ahy ô."
+  }
 }

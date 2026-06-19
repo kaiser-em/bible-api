@@ -1,121 +1,35 @@
 {
+  "book": "Ohabolana",
   "chapter": 19,
-  "verses": [
-    {
-      "v": 1,
-      "text": "TSARA ny mahantra izay mandeha amin' ny fahitsiany, noho izay miolakolaka amin' ny molony sady adala."
-    },
-    {
-      "v": 2,
-      "text": "\"Koa, tsy tsara raha tsy manam-pahalalana ny fanahy; ary izay maimay manao dingana dia manota.\""
-    },
-    {
-      "v": 3,
-      "text": "Ny fahadalan' ny olona no mahasimba ny alehany, ka amin' i Jehovah no sosotra ny fony."
-    },
-    {
-      "v": 4,
-      "text": "\"Mahamaro sakaiza ny harena; fa ny mahantra dia afoin' ny namany.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Tsy ho afa-maina ny vavolombelona mandainga; ary izay miteny lainga tsy ho afa-mandositra.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Maro no mandambolambo andriana; ary ny olona rehetra samy misakaiza amin' izay manome zavatra.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ny mahantra dia halan' ny rahalahiny rehetra; koa mainka ny sakaizany tsy hanalavitra azy va? Mitady resaka amin' ireo izy fa tsy misy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Izay mihary fahendrena no tia ny fanahiny; izay mitandrina fahalalana no hahita soa.\""
-    },
-    {
-      "v": 9,
-      "text": "Ny vavolombelona mandainga dia tsy maintsy hampijaliana, ary ny miteny lainga ho very."
-    },
-    {
-      "v": 10,
-      "text": "Ny firavoravoana dia tsy tandrifiny ho an' ny adala, koa mainka izay hanapahan' ny mpanompo ny zanak' andriana."
-    },
-    {
-      "v": 11,
-      "text": "Ny fahendren' ny olona manindry ny fahatezerany, ary voninahitra ho azy ny tsy mamaly fahadisoana."
-    },
-    {
-      "v": 12,
-      "text": "\"Ny fahatezeran' ny mpanjaka dia toy ny fieron' ny liona; fa ny fankasitrahany kosa dia toy ny ando amin' ny ahitra.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ny zanaka adala mahabe fahoriana ny rainy; ary ny fifandirana ataon' ny vehivavy vady dia toy ny rano mijononoka mandrakariva.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Trano sy harena no lova avy amin' ny ray; fa ny vady hendry kosa dia avy amin' i Jehovah.\""
-    },
-    {
-      "v": 15,
-      "text": "Ny hakamoana mahasondrian-tory, ary ho mosarena ny olona malaina."
-    },
-    {
-      "v": 16,
-      "text": "\"Mitandrina ny fanahiny izay mitandrina ny didy; fa izay tsy mihevitra ny alehany dia ho faty.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Izay miantra ny mahantra dia mampisambotra an' i Jehovah; ary izay nomeny dia honerany kosa.\""
-    },
-    {
-      "v": 18,
-      "text": "Faizo ny zanakao raha mbola misy azo antenaina, ary aoka tsy hanimba ny fanahinao ny tomaniny."
-    },
-    {
-      "v": 19,
-      "text": "\"Tsy maintsy hofaizina ny lozabe; fa na dia voavonjinao aza izy, dia mbola hanahirana anao ihany indray.\""
-    },
-    {
-      "v": 20,
-      "text": "Henoy ny saina atolotra, ary raiso ny fananarana, mba ho hendry ianao amin' izay hiafaranao."
-    },
-    {
-      "v": 21,
-      "text": "Maro ny hevitra ao am-pon' ny olona fa ny toro-hevitr' i Jehovah kosa no ho tafatoetra."
-    },
-    {
-      "v": 22,
-      "text": "\"Fifaliana amin' ny olona ny manisy soa; ary aleo ho mahantra toy izay ho mpandainga.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ny fahatahorana an' i Jehovah no ahazoana fiainana; izay manana an' izany dia tsy mba handry fotsy sady tsy hiharan-doza.\""
-    },
-    {
-      "v": 24,
-      "text": "Ny kamo dia manafina ny tanany ao an-tratrany ary ny hampakatra azy ho ao am-bavany dia tsy zakany."
-    },
-    {
-      "v": 25,
-      "text": "\"Kapohy ny mpaniratsira, dia ho hendry ny kely saina; ary anaro ny manan-tsaina, dia hahalala fahendrena izy.\""
-    },
-    {
-      "v": 26,
-      "text": "Izay mitohatoha amin-drainy sy mandroaka ny reniny dia zanaka mahamenatra sy mahafa-baràka."
-    },
-    {
-      "v": 27,
-      "text": "Anaka, mitsahara tsy hihaino anatra izay mampanalavitra anao ny tenin' ny fahalalana."
-    },
-    {
-      "v": 28,
-      "text": "\"Ny vavolombelona tsy araka an' Andriamanitra dia maniratsira ny fitsarana; ary ny vavan' ny ratsy fanahy mitelina ny ratsy.\""
-    },
-    {
-      "v": 29,
-      "text": "Vonona ho an' ny mpaniratsira ny fanamelohana, ary ny kapoka ho amin' ny lamosin' ny adala."
-    }
-  ]
+  "verses": {
+    "1": "TSARA ny mahantra izay mandeha amin' ny fahitsiany, noho izay miolakolaka amin' ny molony sady adala.",
+    "2": "Koa, tsy tsara raha tsy manam-pahalalana ny fanahy; ary izay maimay manao dingana dia manota.",
+    "3": "Ny fahadalan' ny olona no mahasimba ny alehany, ka amin' i Jehovah no sosotra ny fony.",
+    "4": "Mahamaro sakaiza ny harena; fa ny mahantra dia afoin' ny namany.",
+    "5": "Tsy ho afa-maina ny vavolombelona mandainga; ary izay miteny lainga tsy ho afa-mandositra.",
+    "6": "Maro no mandambolambo andriana; ary ny olona rehetra samy misakaiza amin' izay manome zavatra.",
+    "7": "Ny mahantra dia halan' ny rahalahiny rehetra; koa mainka ny sakaizany tsy hanalavitra azy va? Mitady resaka amin' ireo izy fa tsy misy.",
+    "8": "Izay mihary fahendrena no tia ny fanahiny; izay mitandrina fahalalana no hahita soa.",
+    "9": "Ny vavolombelona mandainga dia tsy maintsy hampijaliana, ary ny miteny lainga ho very.",
+    "10": "Ny firavoravoana dia tsy tandrifiny ho an' ny adala, koa mainka izay hanapahan' ny mpanompo ny zanak' andriana.",
+    "11": "Ny fahendren' ny olona manindry ny fahatezerany, ary voninahitra ho azy ny tsy mamaly fahadisoana.",
+    "12": "Ny fahatezeran' ny mpanjaka dia toy ny fieron' ny liona; fa ny fankasitrahany kosa dia toy ny ando amin' ny ahitra.",
+    "13": "Ny zanaka adala mahabe fahoriana ny rainy; ary ny fifandirana ataon' ny vehivavy vady dia toy ny rano mijononoka mandrakariva.",
+    "14": "Trano sy harena no lova avy amin' ny ray; fa ny vady hendry kosa dia avy amin' i Jehovah.",
+    "15": "Ny hakamoana mahasondrian-tory, ary ho mosarena ny olona malaina.",
+    "16": "Mitandrina ny fanahiny izay mitandrina ny didy; fa izay tsy mihevitra ny alehany dia ho faty.",
+    "17": "Izay miantra ny mahantra dia mampisambotra an' i Jehovah; ary izay nomeny dia honerany kosa.",
+    "18": "Faizo ny zanakao raha mbola misy azo antenaina, ary aoka tsy hanimba ny fanahinao ny tomaniny.",
+    "19": "Tsy maintsy hofaizina ny lozabe; fa na dia voavonjinao aza izy, dia mbola hanahirana anao ihany indray.",
+    "20": "Henoy ny saina atolotra, ary raiso ny fananarana, mba ho hendry ianao amin' izay hiafaranao.",
+    "21": "Maro ny hevitra ao am-pon' ny olona fa ny toro-hevitr' i Jehovah kosa no ho tafatoetra.",
+    "22": "Fifaliana amin' ny olona ny manisy soa; ary aleo ho mahantra toy izay ho mpandainga.",
+    "23": "Ny fahatahorana an' i Jehovah no ahazoana fiainana; izay manana an' izany dia tsy mba handry fotsy sady tsy hiharan-doza.",
+    "24": "Ny kamo dia manafina ny tanany ao an-tratrany ary ny hampakatra azy ho ao am-bavany dia tsy zakany.",
+    "25": "Kapohy ny mpaniratsira, dia ho hendry ny kely saina; ary anaro ny manan-tsaina, dia hahalala fahendrena izy.",
+    "26": "Izay mitohatoha amin-drainy sy mandroaka ny reniny dia zanaka mahamenatra sy mahafa-baràka.",
+    "27": "Anaka, mitsahara tsy hihaino anatra izay mampanalavitra anao ny tenin' ny fahalalana.",
+    "28": "Ny vavolombelona tsy araka an' Andriamanitra dia maniratsira ny fitsarana; ary ny vavan' ny ratsy fanahy mitelina ny ratsy.",
+    "29": "Vonona ho an' ny mpaniratsira ny fanamelohana, ary ny kapoka ho amin' ny lamosin' ny adala."
+  }
 }

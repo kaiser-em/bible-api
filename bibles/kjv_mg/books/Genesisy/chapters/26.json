@@ -1,145 +1,41 @@
 {
+  "book": "Genesisy",
   "chapter": 26,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nisy mosary teo amin' ny tany, ankoatra ilay mosary voalohany tamin' ny andron' i Abrahama. Ary nankany amin' i Abimeleka, mpanjakan' ny Filistina tany Gerara i Isaka."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary niseho taminy Jehovah ka nanao hoe: Aza midina any Egypta; mitoera eo amin' ny tany izay holazaiko anao.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Mivahinia eto amin' ity tany ity ianao, dia homba anao sy hitahy anao Aho; fa ianao sy ny taranakao no homeko ireto tany rehetra ireto, ka hotoviko ny fianianana izay nataoko tamin' i Abrahama rainao ;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Dia hahamaro ny taranakao ho tahaka ny kintana eny amin' ny lanitra Aho, ka homeko ny taranakao ireto tany rehetra ireto, ary amin' ny taranakao no hitahiana ny firenena rehetra ambonin' ny tany ;\""
-    },
-    {
-      "v": 5,
-      "text": "Satria efa nankatò ny feoko Abrahama ka nitandrina izay nasaiko notandremana, ny teniko sy ny didiko ary ny lalàko."
-    },
-    {
-      "v": 6,
-      "text": "Ary Isaka dia nitoetra tany Gerara."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary nanontany azy ny amin' ny vadiny ny lehilahy tompon-tany; ary hoy izy: Anabaviko izy; fa natahotra hilaza hoe vadiko izy; fandrao, hoy izy, hamono ahy ny lehilahy tompon-tany noho Rebeka, satria tsara tarehy izy.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary izao no niseho, rehefa nitoetra ela tao izy, dia nitsirika teo am-baravarakely Abimeleka, mpanjakan' ny Filistina, ka nahita fa, indro Isaka nisangy tamin-dRebeka vadiny."
-    },
-    {
-      "v": 9,
-      "text": "Ary Abimeleka dia niantso an' Isaka ka nanao hoe: Indro tena vadinao izy, ka nahoana no nolazainao fa anabaviko izy? Ary hoy Isaka taminy: Satria hoy aho, andrao maty aho noho ny aminy."
-    },
-    {
-      "v": 10,
-      "text": "Ary hoy Abimeleka: Inona izao nataonao taminay izao? Saiky nisy olona nandry mora foana tamin' ny vadinao, ka dia ho nahatonga heloka taminay ianao."
-    },
-    {
-      "v": 11,
-      "text": "Dia nandidy ny vahoakany rehetra Abimeleka ka nanao hoe: Izay manendry io lehilahy io na ny vadiny dia hatao maty tokoa."
-    },
-    {
-      "v": 12,
-      "text": "\"Dia namafy tamin' izany tany izany Isaka ka nahazo zato heny tamin' izay taona izay; ary Jehovah nitahy azy.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary nanankarena ralehilahy ka nandroso sy nitombo ambara-pahatongany ho mpanjatobe indrindra:"
-    },
-    {
-      "v": 14,
-      "text": "Fa izy nanana fananana dia ondry aman' osy sy omby ary mpanompo maro ka dia nialona azy ny Filistina."
-    },
-    {
-      "v": 15,
-      "text": "Fa ny lavaka fantsakana rehetra, izay efa nohadin' ny mpanompon-drainy tamin' ny andron' i Abrahama rainy, dia efa novonoin' ny Filistina sy nototofany tany."
-    },
-    {
-      "v": 16,
-      "text": "Ary hoy Abimeleka tamin' Isaka: Mialà eto aminay, fa mahery lavitra noho izahay ianao."
-    },
-    {
-      "v": 17,
-      "text": "Ary lasa niala teo Isaka, dia nanorina ny lainy teo an-dohasahan' i Gerara ka nonina teo."
-    },
-    {
-      "v": 18,
-      "text": "\"Dia noloaran' Isaka indray ny lavaka fantsakan-drano izay efa voahady tamin' ny andron' i Abrahama rainy; fa efa novonoin' ny Filistina ireny taorian' ny fahafatesan' i Abrahama; ary araka ny anarana izay efa niantsoan' ny rainy azy ireny no nataony anarany.\""
-    },
-    {
-      "v": 19,
-      "text": "Dia nihady teo amin' ny lohasaha ny mpanompon' Isaka ka nahita rano velona teo."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary niady tamin' ny mpiandry ombin' Isaka ny mpiandry omby tao Gerara ka nanao hoe: Anay ny rano; ary ny anaran' ny lavaka fantsakana dia nataon' Isaka hoe Eseka, satria nifanditra taminy izy ireo.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Dia nihady lavaka fantsakana hafa izy, ka niadiany koa io; ary ny anarany dia nataony hoe Sitna.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Dia nifindra niala teo izy ka nihady lavaka fantsakana hafa; fa io kosa tsy mba niadiany; ary ny anarany dia nataony hoe Rehobota; fa hoy izy: Satria efa nanaovan' i Jehovah toerana isika ankehitriny, dia hihamaro eto amin' ny tany.\""
-    },
-    {
-      "v": 23,
-      "text": "Dia niakatra niala teo izy ka nankany Beri-sheba."
-    },
-    {
-      "v": 24,
-      "text": "\"Ary niseho taminy tamin' iny alina iny Jehovah ka nanao hoe: Izaho no Andriamanitr' i Abrahama rainao; aza matahotra fa momba anao Aho, ka hitahy anao sy hahamaro ny taranakao noho ny amin' i Abrahama mpanompoko.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ary nanorina alitara teo izy, dia niantso ny anaran' i Jehovah sady nanorina ny lainy teo; dia nihady lavaka fantsakana teo ny mpanompon' Isaka.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary Abimeleka mbamin'i Ahozota, iray amin' ny sakaizany sy Pikola, komandin' ny miaramilany, dia niala tao Gerara hankany amin' Isaka."
-    },
-    {
-      "v": 27,
-      "text": "Fa hoy Isaka taminy: Nahoana ianareo no mankaty amiko, kanefa mankahala ahy ka nandroaka ahy niala teo aminareo?"
-    },
-    {
-      "v": 28,
-      "text": "\"Ary hoy izy ireo: Hitanay marimarina fa momba anao Jehovah, ka hoy izahay: Aoka hanao fianianana isika ankehitriny, dia izahay sy ianao, ary izahay hanao fanekena aminao;\""
-    },
-    {
-      "v": 29,
-      "text": "\"Fa tsy hanisy ratsy anay ianao, tahaka ny tsy nanendrenay anao akory, sy tahaka ny tsy nanaovanay na inona na inona taminao afa-tsy ny soa ihany, fa efa nampandehaninay soa aman-tsara ianao; ianao ankehitriny ilay notahin' i Jehovah.\""
-    },
-    {
-      "v": 30,
-      "text": "Dia nanao fanasana ho azy Isaka, ka dia nihinana sy nisotro izy."
-    },
-    {
-      "v": 31,
-      "text": "\"Dia nifoha maraina koa izy ireo, ka samy nianiana ny andaniny sy ny ankilany; dia nampandehanin' Isaka ireo, ka nandao azy soa aman-tsara.\""
-    },
-    {
-      "v": 32,
-      "text": "Ary izao no niseho tamin' izany andro izany, avy ny mpanompon' Isaka ka nanambara taminy ny amin' ny lavaka fantsakana izay efa nohadiny ka nanao taminy hoe: Efa nahita rano izahay."
-    },
-    {
-      "v": 33,
-      "text": "\"Dia nataony hoe Sheba izany; noho izany dia Beri-sheba no anaran' ny tanàna mandraka androany.\""
-    },
-    {
-      "v": 34,
-      "text": "Ary efapolo taona Esao raha nanambady an' i Jodita zanakavavin' i Bery Hetita, sy Basemata zanakavavin' i Elona Hetita:"
-    },
-    {
-      "v": 35,
-      "text": "Izay tonga fahorian-tsaina tamin' Isaka sy Rebeka."
-    }
-  ]
+  "verses": {
+    "1": "Ary nisy mosary teo amin' ny tany, ankoatra ilay mosary voalohany tamin' ny andron' i Abrahama. Ary nankany amin' i Abimeleka, mpanjakan' ny Filistina tany Gerara i Isaka.",
+    "2": "Ary niseho taminy Jehovah ka nanao hoe: Aza midina any Egypta; mitoera eo amin' ny tany izay holazaiko anao.",
+    "3": "Mivahinia eto amin' ity tany ity ianao, dia homba anao sy hitahy anao Aho; fa ianao sy ny taranakao no homeko ireto tany rehetra ireto, ka hotoviko ny fianianana izay nataoko tamin' i Abrahama rainao ;",
+    "4": "Dia hahamaro ny taranakao ho tahaka ny kintana eny amin' ny lanitra Aho, ka homeko ny taranakao ireto tany rehetra ireto, ary amin' ny taranakao no hitahiana ny firenena rehetra ambonin' ny tany ;",
+    "5": "Satria efa nankatò ny feoko Abrahama ka nitandrina izay nasaiko notandremana, ny teniko sy ny didiko ary ny lalàko.",
+    "6": "Ary Isaka dia nitoetra tany Gerara.",
+    "7": "Ary nanontany azy ny amin' ny vadiny ny lehilahy tompon-tany; ary hoy izy: Anabaviko izy; fa natahotra hilaza hoe vadiko izy; fandrao, hoy izy, hamono ahy ny lehilahy tompon-tany noho Rebeka, satria tsara tarehy izy.",
+    "8": "Ary izao no niseho, rehefa nitoetra ela tao izy, dia nitsirika teo am-baravarakely Abimeleka, mpanjakan' ny Filistina, ka nahita fa, indro Isaka nisangy tamin-dRebeka vadiny.",
+    "9": "Ary Abimeleka dia niantso an' Isaka ka nanao hoe: Indro tena vadinao izy, ka nahoana no nolazainao fa anabaviko izy? Ary hoy Isaka taminy: Satria hoy aho, andrao maty aho noho ny aminy.",
+    "10": "Ary hoy Abimeleka: Inona izao nataonao taminay izao? Saiky nisy olona nandry mora foana tamin' ny vadinao, ka dia ho nahatonga heloka taminay ianao.",
+    "11": "Dia nandidy ny vahoakany rehetra Abimeleka ka nanao hoe: Izay manendry io lehilahy io na ny vadiny dia hatao maty tokoa.",
+    "12": "Dia namafy tamin' izany tany izany Isaka ka nahazo zato heny tamin' izay taona izay; ary Jehovah nitahy azy.",
+    "13": "Ary nanankarena ralehilahy ka nandroso sy nitombo ambara-pahatongany ho mpanjatobe indrindra:",
+    "14": "Fa izy nanana fananana dia ondry aman' osy sy omby ary mpanompo maro ka dia nialona azy ny Filistina.",
+    "15": "Fa ny lavaka fantsakana rehetra, izay efa nohadin' ny mpanompon-drainy tamin' ny andron' i Abrahama rainy, dia efa novonoin' ny Filistina sy nototofany tany.",
+    "16": "Ary hoy Abimeleka tamin' Isaka: Mialà eto aminay, fa mahery lavitra noho izahay ianao.",
+    "17": "Ary lasa niala teo Isaka, dia nanorina ny lainy teo an-dohasahan' i Gerara ka nonina teo.",
+    "18": "Dia noloaran' Isaka indray ny lavaka fantsakan-drano izay efa voahady tamin' ny andron' i Abrahama rainy; fa efa novonoin' ny Filistina ireny taorian' ny fahafatesan' i Abrahama; ary araka ny anarana izay efa niantsoan' ny rainy azy ireny no nataony anarany.",
+    "19": "Dia nihady teo amin' ny lohasaha ny mpanompon' Isaka ka nahita rano velona teo.",
+    "20": "Ary niady tamin' ny mpiandry ombin' Isaka ny mpiandry omby tao Gerara ka nanao hoe: Anay ny rano; ary ny anaran' ny lavaka fantsakana dia nataon' Isaka hoe Eseka, satria nifanditra taminy izy ireo.",
+    "21": "Dia nihady lavaka fantsakana hafa izy, ka niadiany koa io; ary ny anarany dia nataony hoe Sitna.",
+    "22": "Dia nifindra niala teo izy ka nihady lavaka fantsakana hafa; fa io kosa tsy mba niadiany; ary ny anarany dia nataony hoe Rehobota; fa hoy izy: Satria efa nanaovan' i Jehovah toerana isika ankehitriny, dia hihamaro eto amin' ny tany.",
+    "23": "Dia niakatra niala teo izy ka nankany Beri-sheba.",
+    "24": "Ary niseho taminy tamin' iny alina iny Jehovah ka nanao hoe: Izaho no Andriamanitr' i Abrahama rainao; aza matahotra fa momba anao Aho, ka hitahy anao sy hahamaro ny taranakao noho ny amin' i Abrahama mpanompoko.",
+    "25": "Ary nanorina alitara teo izy, dia niantso ny anaran' i Jehovah sady nanorina ny lainy teo; dia nihady lavaka fantsakana teo ny mpanompon' Isaka.",
+    "26": "Ary Abimeleka mbamin'i Ahozota, iray amin' ny sakaizany sy Pikola, komandin' ny miaramilany, dia niala tao Gerara hankany amin' Isaka.",
+    "27": "Fa hoy Isaka taminy: Nahoana ianareo no mankaty amiko, kanefa mankahala ahy ka nandroaka ahy niala teo aminareo?",
+    "28": "Ary hoy izy ireo: Hitanay marimarina fa momba anao Jehovah, ka hoy izahay: Aoka hanao fianianana isika ankehitriny, dia izahay sy ianao, ary izahay hanao fanekena aminao;",
+    "29": "Fa tsy hanisy ratsy anay ianao, tahaka ny tsy nanendrenay anao akory, sy tahaka ny tsy nanaovanay na inona na inona taminao afa-tsy ny soa ihany, fa efa nampandehaninay soa aman-tsara ianao; ianao ankehitriny ilay notahin' i Jehovah.",
+    "30": "Dia nanao fanasana ho azy Isaka, ka dia nihinana sy nisotro izy.",
+    "31": "Dia nifoha maraina koa izy ireo, ka samy nianiana ny andaniny sy ny ankilany; dia nampandehanin' Isaka ireo, ka nandao azy soa aman-tsara.",
+    "32": "Ary izao no niseho tamin' izany andro izany, avy ny mpanompon' Isaka ka nanambara taminy ny amin' ny lavaka fantsakana izay efa nohadiny ka nanao taminy hoe: Efa nahita rano izahay.",
+    "33": "Dia nataony hoe Sheba izany; noho izany dia Beri-sheba no anaran' ny tanàna mandraka androany.",
+    "34": "Ary efapolo taona Esao raha nanambady an' i Jodita zanakavavin' i Bery Hetita, sy Basemata zanakavavin' i Elona Hetita:",
+    "35": "Izay tonga fahorian-tsaina tamin' Isaka sy Rebeka."
+  }
 }

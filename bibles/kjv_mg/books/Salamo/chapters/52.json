@@ -1,41 +1,15 @@
 {
+  "book": "Salamo",
   "chapter": 52,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Ho an' ny mpiventy hira. Maskila nataon' i Davida fony tonga Doega Edomita ka nilaza tamin' i Saoly hoe: Davida dia efa tonga ao an-tranon' i Ahimeleka.]  NAHOANA no mandoka tena amin' ny haratsiana ianao, ry lehilahy mahery? Ny fahatsaran' Andriamanitra maharitra mandrakizay."
-    },
-    {
-      "v": 2,
-      "text": "Loza no foronin' ny lelanao, tahaka ny hareza maranitra, ry manao fitaka."
-    },
-    {
-      "v": 3,
-      "text": "Efa tia ny ratsy noho ny tsara ianao, ary ny lainga noho ny miteny ny marina.[Sela.]"
-    },
-    {
-      "v": 4,
-      "text": "Ny teny mandripaka rehetra no tianao, ry lela mamitaka."
-    },
-    {
-      "v": 5,
-      "text": "Andriamanitra kosa handringana anao mandrakizay, hanaisotra anao sy hamongotra anao eo amin' ny fonenanao Izy, ary hanongotra anao tsy ho eo amin' ny tanin' ny velona.[Sela.]"
-    },
-    {
-      "v": 6,
-      "text": "Hijery koa ny marina, dia hatahotra ka hihomehy azy."
-    },
-    {
-      "v": 7,
-      "text": "\"Indro, ny lehilahy izay tsy nanao an' Andriamanitra ho heriny ; fa natoky ny haben' ny hareny ka nampahery ny tenany tamin' ny faharatsiany.\""
-    },
-    {
-      "v": 8,
-      "text": "Fa izaho dia tahaka ny hazo oliva maitso ao an-tranon' Andriamanitra. Matoky ny famindrampon' Andriamanitra mandrakizay doria aho."
-    },
-    {
-      "v": 9,
-      "text": "\"Hidera Anao mandrakizay aho fa efa nataonao izany; ary hiandry ny anaranao aho, fa tsara eo anatrehan' ny olonao masina izany.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Maskila nataon' i Davida fony tonga Doega Edomita ka nilaza tamin' i Saoly hoe: Davida dia efa tonga ao an-tranon' i Ahimeleka.]  NAHOANA no mandoka tena amin' ny haratsiana ianao, ry lehilahy mahery? Ny fahatsaran' Andriamanitra maharitra mandrakizay.",
+    "2": "Loza no foronin' ny lelanao, tahaka ny hareza maranitra, ry manao fitaka.",
+    "3": "Efa tia ny ratsy noho ny tsara ianao, ary ny lainga noho ny miteny ny marina.[Sela.]",
+    "4": "Ny teny mandripaka rehetra no tianao, ry lela mamitaka.",
+    "5": "Andriamanitra kosa handringana anao mandrakizay, hanaisotra anao sy hamongotra anao eo amin' ny fonenanao Izy, ary hanongotra anao tsy ho eo amin' ny tanin' ny velona.[Sela.]",
+    "6": "Hijery koa ny marina, dia hatahotra ka hihomehy azy.",
+    "7": "Indro, ny lehilahy izay tsy nanao an' Andriamanitra ho heriny ; fa natoky ny haben' ny hareny ka nampahery ny tenany tamin' ny faharatsiany.",
+    "8": "Fa izaho dia tahaka ny hazo oliva maitso ao an-tranon' Andriamanitra. Matoky ny famindrampon' Andriamanitra mandrakizay doria aho.",
+    "9": "Hidera Anao mandrakizay aho fa efa nataonao izany; ary hiandry ny anaranao aho, fa tsara eo anatrehan' ny olonao masina izany."
+  }
 }

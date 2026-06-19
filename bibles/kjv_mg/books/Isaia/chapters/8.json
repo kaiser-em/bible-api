@@ -1,93 +1,28 @@
 {
+  "book": "Isaia",
   "chapter": 8,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary hoy koa Jehovah tamiko: Mangalà fàfana lehibe, ka soraty ao aminy amin' ny fanoratan' ny olona ny amin' i Mahera-salala-hasi-baza."
-    },
-    {
-      "v": 2,
-      "text": "Ary naka vavolombelona mahatoky aho handrakitra izany dia Oria mpisorona sy Zakaria zanakalahin' i Jeberekia."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary nankany amin' ny mpaminanivavy aho; dia nanana anaka izy ka niteraka zazalahy. Ary hoy Jehovah tamiko: aoka ny anarany hataonao hoe: Mahera-salala-hasi-baza.\""
-    },
-    {
-      "v": 4,
-      "text": "Fa raha tsy mbola mahay manonona hoe Idada na Ineny ny zaza dia hobaboina eo anatrehan' ny mpanjakan' i Asyria ny haren' i Damaskosy sy ny fananan' i Samaria."
-    },
-    {
-      "v": 5,
-      "text": "Ary Jehovah dia mbola niteny tamiko indray hoe:"
-    },
-    {
-      "v": 6,
-      "text": "Satria ity firenena ity mandà ny rano Siloa izay misononoka ary mifaly amin-dRezina sy ny zanak' i Remalia,"
-    },
-    {
-      "v": 7,
-      "text": "\"Dia, indro, hampiakarin' ny Tompo hanafotra azy ny rano be sady manonja amin' ny Ony, dia ny mpanjakan' i Asyria sy ny voninahiny rehetra; ary ny masondranony rehetra ho tondraka, ary ny morony rehetra hihoarany;\""
-    },
-    {
-      "v": 8,
-      "text": "Dia hamakivaky ny Joda izy ka hanafotra sady mbola hisondrotra ihany, mandra-pahatongany havozona, ary ny fampivelarany ny elany dia hanenika ny sakan' ny taninao, ry Imanoela ô!"
-    },
-    {
-      "v": 9,
-      "text": "\"Mivondròna ianareo, ry vahoaka, fa ho torotoro ianareo; ary mihainoa, ry tany lavitra rehetra, fa ho torotoro ianareo, misikìna ianareo, fa ho torotoro ianareo, eny, misikìna ianareo fa ho torotoro ianareo.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Miaraha maka saina, fa ho tsinontsinona izany; lazao ny teny fa tsy ho tanteraka izany; fa aminay Andriamanitra.\""
-    },
-    {
-      "v": 11,
-      "text": "Fa izao no nolazain' i Jehovah tamiko, raha nanindry ahy mafy ny tanany, ka nanariny tsy handeha amin' ny falehan' ity firenena ity aho hoe:"
-    },
-    {
-      "v": 12,
-      "text": "\"Aza mba lazainareo ho tetika fikomiana izay lazain' ity firenena ity ho tetika fikomiana; ary aza matahotra izay atahorany, na mangovitra ianareo.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Jehovah, Tompon' ny maro, no hamasino; ary aoka Izy no hatahoranareo, ary izy ihany no hangovitanareo.\""
-    },
-    {
-      "v": 14,
-      "text": "Dia ho fitoerana masina ho anareo Izy, fa ho vato mahatafintohina sy ho vato mahasolafaka kosa amin' ny firenena roa amin' ny Isiraely, sady ho fandrika sy ho tonta amin' ny mponina any Jerosalema."
-    },
-    {
-      "v": 15,
-      "text": "Ary maro ao aminy no ho tafintohina sady ho lavo sy ho ringana ary ho voafandrika sy ho voasambotra."
-    },
-    {
-      "v": 16,
-      "text": "Fehezo ny teni-vavolombelona, ary asio tombo-kase ny lalàna eo amin' ny mpianatro."
-    },
-    {
-      "v": 17,
-      "text": "Ary izaho hiandry an' i Jehovah, izay manafina ny tavany amin' ny taranak'i Jakoba, ka hanantena azy ihany aho."
-    },
-    {
-      "v": 18,
-      "text": "Indreto, izaho sy ireo zaza nomen' i Jehovah ahy, dia ho famantarana sy fahagagana ao amin' ny Isiraely avy amin' i Jehovah, Tompon' ny maro, Izay monina ao an-tendrombohitra Ziona."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary raha lazainy aminareo hoe: Milà saina amin' ny manao azy ho tsindrian-javatra sy ny mpanao sikidy, izay mitsiatsiaka sy miboeriboerika; moa tsy Andriamaniny va no tokony hilàn' ny olona saina? Fa hila saina amin' ny maty ho an' ny velona va izy?\""
-    },
-    {
-      "v": 20,
-      "text": "Ho amin' ny lalàna sy ny teni-vavolombelona ihany! Raha tsy miteny araka izao teny izao izy dia satria tsy misy fahazavana ao aminy."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary samy hivezivezy amin' ny tany izy rehetra sady mahantra no mosarena; ary izao no hiseho, rehefa mosarena izy dia ho sosotra ka hanozona ny mpanjakany sy ny Andriamaniny, ary dia hiandrandra.\""
-    },
-    {
-      "v": 22,
-      "text": "Ary hijery ny tany izy, ka indro, fahoriana sy fahamaizinana ary manjombona mahafadiranovana, ary horoahina ho any amin' ny haizim-pito izy."
-    }
-  ]
+  "verses": {
+    "1": "Ary hoy koa Jehovah tamiko: Mangalà fàfana lehibe, ka soraty ao aminy amin' ny fanoratan' ny olona ny amin' i Mahera-salala-hasi-baza.",
+    "2": "Ary naka vavolombelona mahatoky aho handrakitra izany dia Oria mpisorona sy Zakaria zanakalahin' i Jeberekia.",
+    "3": "Ary nankany amin' ny mpaminanivavy aho; dia nanana anaka izy ka niteraka zazalahy. Ary hoy Jehovah tamiko: aoka ny anarany hataonao hoe: Mahera-salala-hasi-baza.",
+    "4": "Fa raha tsy mbola mahay manonona hoe Idada na Ineny ny zaza dia hobaboina eo anatrehan' ny mpanjakan' i Asyria ny haren' i Damaskosy sy ny fananan' i Samaria.",
+    "5": "Ary Jehovah dia mbola niteny tamiko indray hoe:",
+    "6": "Satria ity firenena ity mandà ny rano Siloa izay misononoka ary mifaly amin-dRezina sy ny zanak' i Remalia,",
+    "7": "Dia, indro, hampiakarin' ny Tompo hanafotra azy ny rano be sady manonja amin' ny Ony, dia ny mpanjakan' i Asyria sy ny voninahiny rehetra; ary ny masondranony rehetra ho tondraka, ary ny morony rehetra hihoarany;",
+    "8": "Dia hamakivaky ny Joda izy ka hanafotra sady mbola hisondrotra ihany, mandra-pahatongany havozona, ary ny fampivelarany ny elany dia hanenika ny sakan' ny taninao, ry Imanoela ô!",
+    "9": "Mivondròna ianareo, ry vahoaka, fa ho torotoro ianareo; ary mihainoa, ry tany lavitra rehetra, fa ho torotoro ianareo, misikìna ianareo, fa ho torotoro ianareo, eny, misikìna ianareo fa ho torotoro ianareo.",
+    "10": "Miaraha maka saina, fa ho tsinontsinona izany; lazao ny teny fa tsy ho tanteraka izany; fa aminay Andriamanitra.",
+    "11": "Fa izao no nolazain' i Jehovah tamiko, raha nanindry ahy mafy ny tanany, ka nanariny tsy handeha amin' ny falehan' ity firenena ity aho hoe:",
+    "12": "Aza mba lazainareo ho tetika fikomiana izay lazain' ity firenena ity ho tetika fikomiana; ary aza matahotra izay atahorany, na mangovitra ianareo.",
+    "13": "Jehovah, Tompon' ny maro, no hamasino; ary aoka Izy no hatahoranareo, ary izy ihany no hangovitanareo.",
+    "14": "Dia ho fitoerana masina ho anareo Izy, fa ho vato mahatafintohina sy ho vato mahasolafaka kosa amin' ny firenena roa amin' ny Isiraely, sady ho fandrika sy ho tonta amin' ny mponina any Jerosalema.",
+    "15": "Ary maro ao aminy no ho tafintohina sady ho lavo sy ho ringana ary ho voafandrika sy ho voasambotra.",
+    "16": "Fehezo ny teni-vavolombelona, ary asio tombo-kase ny lalàna eo amin' ny mpianatro.",
+    "17": "Ary izaho hiandry an' i Jehovah, izay manafina ny tavany amin' ny taranak'i Jakoba, ka hanantena azy ihany aho.",
+    "18": "Indreto, izaho sy ireo zaza nomen' i Jehovah ahy, dia ho famantarana sy fahagagana ao amin' ny Isiraely avy amin' i Jehovah, Tompon' ny maro, Izay monina ao an-tendrombohitra Ziona.",
+    "19": "Ary raha lazainy aminareo hoe: Milà saina amin' ny manao azy ho tsindrian-javatra sy ny mpanao sikidy, izay mitsiatsiaka sy miboeriboerika; moa tsy Andriamaniny va no tokony hilàn' ny olona saina? Fa hila saina amin' ny maty ho an' ny velona va izy?",
+    "20": "Ho amin' ny lalàna sy ny teni-vavolombelona ihany! Raha tsy miteny araka izao teny izao izy dia satria tsy misy fahazavana ao aminy.",
+    "21": "Ary samy hivezivezy amin' ny tany izy rehetra sady mahantra no mosarena; ary izao no hiseho, rehefa mosarena izy dia ho sosotra ka hanozona ny mpanjakany sy ny Andriamaniny, ary dia hiandrandra.",
+    "22": "Ary hijery ny tany izy, ka indro, fahoriana sy fahamaizinana ary manjombona mahafadiranovana, ary horoahina ho any amin' ny haizim-pito izy."
+  }
 }

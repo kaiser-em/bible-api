@@ -1,73 +1,23 @@
 {
+  "book": "Salamo",
   "chapter": 40,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira. Salamo nataon' i Davida.]  NIANDRY dia niandry an' i Jehovah aho; ary nitodika nitsinjo ahy Izy ka nandre ny fitarainako.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Dia nampakatra ahy koa avy tao amin' ny lavaka mahatsiravina Izy, avy tamin' ny fotaka mandrevo; ary nampitoetra ny tongotro teo ambony vatolampy Izy ka nampijoro ahy.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary nanisy fihiram-baovao teo am-bavako Izy, dia fiderana an' Andriamanitsika; maro no hahita sy hatahotra ary hatoky an' i Jehovah.\""
-    },
-    {
-      "v": 4,
-      "text": "Sambatra ny olona manao an' i Jehovah ho tokiny, ka tsy manaja ny mpiavonavona, na mivily ho amin' ny lainga."
-    },
-    {
-      "v": 5,
-      "text": "\"Maro, Jehovah Andriamanitro ô, ny asa mahagaga izay nataonao sy ny fiheveranao anay; tsy misy azo ampitahaina aminao; raha tiako hambara sy holazaina ireny, dia, indro, maro loatra izy ka tsy tambo isaina.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ny fanatitra sy ny fanomezana tsy mba sitrakao; nataonao malady ny sofiko; ny fanatitra dorana sy ny fanatitra noho ny ota tsy mba nilainao.\""
-    },
-    {
-      "v": 7,
-      "text": "Dia hoy aho: Inty Aho tonga, ao amin' ny horonam-boky no nanoratana Ahy."
-    },
-    {
-      "v": 8,
-      "text": "\"Ny manao ny sitraponao, Andriamanitro ô, no sitrako; ary ny lalànao no ato am-poko.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Efa nitory ny fahamarinana teo amin' ny fiangonan-dehibe aho; indro, ny molotro tsy mba nakomboko; Jehovah ô, Ianao no mahalala.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ny fahamarinanao tsy mba nafeniko tato am-poko; efa nambarako ny fahamarinanao sy ny famonjenao. Tsy nanafina ny indrafonao sy ny famindramponao tamin' ny fiangonana lehibe Aho.\""
-    },
-    {
-      "v": 11,
-      "text": "Aza miaro ny antranao tsy ho amiko, Jehovah ô! Aoka ny indrafonao sy ny fahamarinanao hiaro ahy mandrakariva."
-    },
-    {
-      "v": 12,
-      "text": "\"Fa zava-dratsy tsy tambo isaina no nanodidina ahy; nahazo ahy ny heloko, ka tsy mahatraka aho; maro noho ny volon-dohako ireny ka reraka ny foko.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Aoka ho sitraky ny fonao, Jehovah ô, ny hanafaka ahy; Jehovah ô, faingàna hamonjy ahy.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Aoka ho indray menatra sy mangaihay izay mitady hanimba ny aiko; aoka hiamboho sy ho menatra izay mankasitraka ahy ho ory.\""
-    },
-    {
-      "v": 15,
-      "text": "Aoka ho ankona noho ny fahamenarany ireny izay manao amiko hoe: Hia! sakoa izay!"
-    },
-    {
-      "v": 16,
-      "text": "\"Aoka ho faly sy ho ravoravo aminao izay rehetra mitady anao; aoka izay rehetra tia ny famonjenao hanao mandrakariva hoe: Hankalazaina anie Jehovah.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Fa na dia mahantra sy malahelo aza aho, ny Tompo no mihevitra ahy; Mpamonjy sy Mpanafaka ahy Ianao; aza ela, Andriamanitro ô.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Salamo nataon' i Davida.]  NIANDRY dia niandry an' i Jehovah aho; ary nitodika nitsinjo ahy Izy ka nandre ny fitarainako.",
+    "2": "Dia nampakatra ahy koa avy tao amin' ny lavaka mahatsiravina Izy, avy tamin' ny fotaka mandrevo; ary nampitoetra ny tongotro teo ambony vatolampy Izy ka nampijoro ahy.",
+    "3": "Ary nanisy fihiram-baovao teo am-bavako Izy, dia fiderana an' Andriamanitsika; maro no hahita sy hatahotra ary hatoky an' i Jehovah.",
+    "4": "Sambatra ny olona manao an' i Jehovah ho tokiny, ka tsy manaja ny mpiavonavona, na mivily ho amin' ny lainga.",
+    "5": "Maro, Jehovah Andriamanitro ô, ny asa mahagaga izay nataonao sy ny fiheveranao anay; tsy misy azo ampitahaina aminao; raha tiako hambara sy holazaina ireny, dia, indro, maro loatra izy ka tsy tambo isaina.",
+    "6": "Ny fanatitra sy ny fanomezana tsy mba sitrakao; nataonao malady ny sofiko; ny fanatitra dorana sy ny fanatitra noho ny ota tsy mba nilainao.",
+    "7": "Dia hoy aho: Inty Aho tonga, ao amin' ny horonam-boky no nanoratana Ahy.",
+    "8": "Ny manao ny sitraponao, Andriamanitro ô, no sitrako; ary ny lalànao no ato am-poko.",
+    "9": "Efa nitory ny fahamarinana teo amin' ny fiangonan-dehibe aho; indro, ny molotro tsy mba nakomboko; Jehovah ô, Ianao no mahalala.",
+    "10": "Ny fahamarinanao tsy mba nafeniko tato am-poko; efa nambarako ny fahamarinanao sy ny famonjenao. Tsy nanafina ny indrafonao sy ny famindramponao tamin' ny fiangonana lehibe Aho.",
+    "11": "Aza miaro ny antranao tsy ho amiko, Jehovah ô! Aoka ny indrafonao sy ny fahamarinanao hiaro ahy mandrakariva.",
+    "12": "Fa zava-dratsy tsy tambo isaina no nanodidina ahy; nahazo ahy ny heloko, ka tsy mahatraka aho; maro noho ny volon-dohako ireny ka reraka ny foko.",
+    "13": "Aoka ho sitraky ny fonao, Jehovah ô, ny hanafaka ahy; Jehovah ô, faingàna hamonjy ahy.",
+    "14": "Aoka ho indray menatra sy mangaihay izay mitady hanimba ny aiko; aoka hiamboho sy ho menatra izay mankasitraka ahy ho ory.",
+    "15": "Aoka ho ankona noho ny fahamenarany ireny izay manao amiko hoe: Hia! sakoa izay!",
+    "16": "Aoka ho faly sy ho ravoravo aminao izay rehetra mitady anao; aoka izay rehetra tia ny famonjenao hanao mandrakariva hoe: Hankalazaina anie Jehovah.",
+    "17": "Fa na dia mahantra sy malahelo aza aho, ny Tompo no mihevitra ahy; Mpamonjy sy Mpanafaka ahy Ianao; aza ela, Andriamanitro ô."
+  }
 }

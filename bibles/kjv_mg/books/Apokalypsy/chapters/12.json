@@ -1,73 +1,23 @@
 {
+  "book": "Apokalypsy",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nisy famantarana lehibe hita tany an-danitra, dia vehivavy mitafy ny masoandro, ary ny volana no eo ambanin’ny tongony, ary nisy satroboninahitra kintana roa ambin’ny folo no eo amin’ny lohany,"
-    },
-    {
-      "v": 2,
-      "text": "\"Sady bevohoka izy; ary mihetsi-jaza izy ka mitaraina, satria marary fatratra efa hiteraka.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary nisy famantarana hafa koa hita tany an-danitra, ka, indro, nisy dragona mena lehibe manan-doha fito sy tandroka folo, ary misy diadema fito amin’ny lohany."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary ny rambony dia nanala ny ampahatelon’ny kintana amin’ny lanitra ka nanjera ireny ho amin’ny tany; ary ny dragona nijanona teo anatrehan’ilay vehivavy efa hiteraka mba handrapaka ny zanany, raha vao teraka;\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary niteraka zazalahy izy, izay efa hanapaka ny firenena rehetra amin’ny tehim-by; ary ny zanany novonjena faingana nakarina ho any amin’Andriamanitra, dia ho any amin’ny sezafiandrianany.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary ravehivavy kosa nandositra nankany an’efitra, izay nisy fitoerany namboarin’Andriamanitra, mba hovelomina any enimpolo amby roanjato amby arivo andro izy."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary nisy ady tany an-danitra: Mikaela sy ireo anjeliny niady tamin’ilay dragona; ary ilay dragona mbamin’ireo anjeliny dia niady,\""
-    },
-    {
-      "v": 8,
-      "text": "Nefa tsy naharesy, sady tsy nisy fitoerana ho azy intsony tany an-danitra."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary nazera ilay dragona lehibe, dia ilay menarana ela, izay atao hoe Devoly sy Satana, izay mamitaka izao tontolo izao; dia nazera tamin’ny tany izy, ary ny anjeliny koa niaraka nazera taminy.\""
-    },
-    {
-      "v": 10,
-      "text": "Dia nahare feo mahery tany an-danitra aho nanao hoe: Ankehitriny dia tonga ny famonjena sy ny hery sy ny fanjakan’Andriamanitsika, ary ny fahefan’ny Kristiny, satria nazera ilay mpiampanga ny rahalahintsika, dia ilay miampanga azy eo anatrehan' Andriamanitsika andro aman’alina."
-    },
-    {
-      "v": 11,
-      "text": "Ary izy ireo naharesy azy noho ny amin’ny ran’ny Zanak’Ondry sy ny teny filazany Azy, ary tsy nankamamy ny ainy intsony izy ireo, na dia ho faty aza."
-    },
-    {
-      "v": 12,
-      "text": "Ary noho izany, mifalia ry lanitra sy ianareo izay monina ao aminy. Loza ho an’ny mponin’ny tany sy ny ranomasina! Fa nidina ho aminareo ny devoly sady manana fahatezerana lehibe, satria fantany fa kely sisa ny fotoany."
-    },
-    {
-      "v": 13,
-      "text": "Ary rehefa hitan’ilay dragona fa nazera tamin’ny tany izy, dia nanenjika ilay vehivavy niteraka ny zazalahy izy."
-    },
-    {
-      "v": 14,
-      "text": "Ary ilay vehivavy nomena ny elatra roan’ny voromahery lehibe hanidinany ho any an’efitra, ho any amin’ny fitoerany, izay itaizana azy fe-potoana iray sy fe-potoana maro ary antsasaky ny fe-potoana, mba tsy ho hitan’ilay menarana izy."
-    },
-    {
-      "v": 15,
-      "text": "Ary ilay menarana namoaka rano tamin’ny vavany, toy ny safodrano, hanaraka an-dravehivavy mba hindaosin’ny safodrano izy."
-    },
-    {
-      "v": 16,
-      "text": "Nefa ny tany namonjy an-dravehivavy, fa nivava ny tany ka nitelina ny safodrano izay navoaky ny dragona tamin’ny vavany."
-    },
-    {
-      "v": 17,
-      "text": "Dia tezitra tamin’ilay vehivavy ny dragona ka lasa nandeha hiady tamin’ny zanany sisa, izay mitandrina ny didin’Andriamanitra sy mitana ny filazana an’i Jesosy Kristy."
-    }
-  ]
+  "verses": {
+    "1": "Ary nisy famantarana lehibe hita tany an-danitra, dia vehivavy mitafy ny masoandro, ary ny volana no eo ambanin’ny tongony, ary nisy satroboninahitra kintana roa ambin’ny folo no eo amin’ny lohany,",
+    "2": "Sady bevohoka izy; ary mihetsi-jaza izy ka mitaraina, satria marary fatratra efa hiteraka.",
+    "3": "Ary nisy famantarana hafa koa hita tany an-danitra, ka, indro, nisy dragona mena lehibe manan-doha fito sy tandroka folo, ary misy diadema fito amin’ny lohany.",
+    "4": "Ary ny rambony dia nanala ny ampahatelon’ny kintana amin’ny lanitra ka nanjera ireny ho amin’ny tany; ary ny dragona nijanona teo anatrehan’ilay vehivavy efa hiteraka mba handrapaka ny zanany, raha vao teraka;",
+    "5": "Ary niteraka zazalahy izy, izay efa hanapaka ny firenena rehetra amin’ny tehim-by; ary ny zanany novonjena faingana nakarina ho any amin’Andriamanitra, dia ho any amin’ny sezafiandrianany.",
+    "6": "Ary ravehivavy kosa nandositra nankany an’efitra, izay nisy fitoerany namboarin’Andriamanitra, mba hovelomina any enimpolo amby roanjato amby arivo andro izy.",
+    "7": "Ary nisy ady tany an-danitra: Mikaela sy ireo anjeliny niady tamin’ilay dragona; ary ilay dragona mbamin’ireo anjeliny dia niady,",
+    "8": "Nefa tsy naharesy, sady tsy nisy fitoerana ho azy intsony tany an-danitra.",
+    "9": "Ary nazera ilay dragona lehibe, dia ilay menarana ela, izay atao hoe Devoly sy Satana, izay mamitaka izao tontolo izao; dia nazera tamin’ny tany izy, ary ny anjeliny koa niaraka nazera taminy.",
+    "10": "Dia nahare feo mahery tany an-danitra aho nanao hoe: Ankehitriny dia tonga ny famonjena sy ny hery sy ny fanjakan’Andriamanitsika, ary ny fahefan’ny Kristiny, satria nazera ilay mpiampanga ny rahalahintsika, dia ilay miampanga azy eo anatrehan' Andriamanitsika andro aman’alina.",
+    "11": "Ary izy ireo naharesy azy noho ny amin’ny ran’ny Zanak’Ondry sy ny teny filazany Azy, ary tsy nankamamy ny ainy intsony izy ireo, na dia ho faty aza.",
+    "12": "Ary noho izany, mifalia ry lanitra sy ianareo izay monina ao aminy. Loza ho an’ny mponin’ny tany sy ny ranomasina! Fa nidina ho aminareo ny devoly sady manana fahatezerana lehibe, satria fantany fa kely sisa ny fotoany.",
+    "13": "Ary rehefa hitan’ilay dragona fa nazera tamin’ny tany izy, dia nanenjika ilay vehivavy niteraka ny zazalahy izy.",
+    "14": "Ary ilay vehivavy nomena ny elatra roan’ny voromahery lehibe hanidinany ho any an’efitra, ho any amin’ny fitoerany, izay itaizana azy fe-potoana iray sy fe-potoana maro ary antsasaky ny fe-potoana, mba tsy ho hitan’ilay menarana izy.",
+    "15": "Ary ilay menarana namoaka rano tamin’ny vavany, toy ny safodrano, hanaraka an-dravehivavy mba hindaosin’ny safodrano izy.",
+    "16": "Nefa ny tany namonjy an-dravehivavy, fa nivava ny tany ka nitelina ny safodrano izay navoaky ny dragona tamin’ny vavany.",
+    "17": "Dia tezitra tamin’ilay vehivavy ny dragona ka lasa nandeha hiady tamin’ny zanany sisa, izay mitandrina ny didin’Andriamanitra sy mitana ny filazana an’i Jesosy Kristy."
+  }
 }

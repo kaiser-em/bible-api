@@ -1,157 +1,44 @@
 {
+  "book": "2 Mpanjaka",
   "chapter": 15,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tamin' ny taona fahafito amby roa­polo nanjakan' i Jeroboama, mpanjakan' ny Isiraely no vao nanomboka nanjaka Azaria, zanak' i Amazia, mpanjakan' ny Joda."
-    },
-    {
-      "v": 2,
-      "text": "Enina ambin' ny folo taona izy, fony vao nanjaka, ary roa amby dimampolo taona no nanjakany tany Jerosalema. Ary ny anaran-dreniny dia Jekolia, avy any Jerosalema."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary nanao izay mahitsy eo imason' i Jehovah izy tahaka izay rehetra nataon' i Amazia rainy;\""
-    },
-    {
-      "v": 4,
-      "text": "Kanefa ny fitoerana avo tsy mba noravana, fa mbola nanao fanatitra sy nandoro ditin-kazo manitra teny amin' ny fitoerana avo ihany ny olona."
-    },
-    {
-      "v": 5,
-      "text": "Ary Jehovah namely ny mpanjaka, ka dia boka mandra-pahafatiny izy ka nitoetra tao an-trano nitokana. Ary Jotama, zanakalahin' ny mpanjaka, no nanapaka tao an-dapa sy nitsara ny vahoaka tamin' ny tany."
-    },
-    {
-      "v": 6,
-      "text": "Ary ny asan' i Azaria sisa, mbamin' izay rehetra nataony, tsy efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Joda va izany?"
-    },
-    {
-      "v": 7,
-      "text": "\"Ary Azaria dia lasa nodimandry any amin' ny razany ka nalevina tao amin' ny razany tao an-Tanànan' i Davida izy; ary Jotama zanany no nanjaka nandimby azy.\""
-    },
-    {
-      "v": 8,
-      "text": "Tamin' ny taona fahavalo amby telopolo nanjakan' i Azaria, mpanjakan' ny Joda no nanjakan' i Zakaria, zanak' i Jeroboama tamin' ny Isiraely enim-bolana tao Samaria."
-    },
-    {
-      "v": 9,
-      "text": "Ary nanao izay ratsy eo imason' i Jehovah tahaka ny efa nataon' ny razany izy, fa tsy niala tamin' ny fahotan' i Jeroboama, zanak' i Nebata izay nampanota ny Isiraely."
-    },
-    {
-      "v": 10,
-      "text": "Ary Saloma, zanak' i Jabesy, nikomy taminy, dia namely azy teo anatrehan' ny olona ka nahafaty azy ary nanjaka nandimby azy."
-    },
-    {
-      "v": 11,
-      "text": "Ary ny asan' i Zakaria sisa, indro, efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Isiraely izany."
-    },
-    {
-      "v": 12,
-      "text": "Izany no ilay tenin' i Jehovah nolazainy tamin' i Jeho hoe: Ny taranakao hatramin' ny zafindohalika dia hipetraka amin' ny sezafiandrianan' ny Isiraely, ka dia izany no niseho."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary Saloma, zanak' i Jabesy, dia nanomboka nanjaka tamin' ny taona fahasivy amby telopolo nanjakan' i Ozia, mpanjakan' ny Joda; ary nanjaka iray volana mipaka tany Samaria izy.\""
-    },
-    {
-      "v": 14,
-      "text": "Fa Menahema, zanak' i Gady, niakatra avy tany Tirza ka nankany Samaria, dia namely an' i Saloma, zanak' i Jabesy tany Samaria ka nahafaty azy ary nanjaka nandimby azy."
-    },
-    {
-      "v": 15,
-      "text": "Ary ny asan' i Saloma sisa mbamin' ny fikomiana nataony, indro, fa efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Isiraely izany."
-    },
-    {
-      "v": 16,
-      "text": "\"Tamin' izany Menahema dia niala tany Tirza ka namely an' i Tifsa mbamin' izay rehetra tao hatramin' ny sisin-taniny; fa tsy namoha vavahady azy Tifsa, ka dia nasiany, ary izay bevohoka rehetra tao dia notatahany.\""
-    },
-    {
-      "v": 17,
-      "text": "Tamin' ny taona fahasivy amby telopolo nanjakan' i Azaria, mpanjakan' ny Joda no vao nanomboka nanjaka tamin' ny Isiraely i Menahema, zanak' i Gady ary nanjaka folo taona tao Samaria izy."
-    },
-    {
-      "v": 18,
-      "text": "Ary nanao izay ratsy eo imason' i Jehovah izy, ary tamin' ny androny rehetra izy dia tsy niala tamin' ny fahotan' i Jeroboama, zanak' i Nebata, izay nampanota ny Isiraely."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary Pola, mpanjakan' i Asyria, dia avy hananika ny tany; ary Menahema dia nanome an' i Pola talenta volafotsy arivo mba hampitoetra ny fanjakana eo an-tanan' i Menahema.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary nampandoavin' i Menahema io vola io ny mpanankarena rehetra tamin' ny Isiraely, dia sekely volafotsy dimampolo avy isan' olona, homeny ny mpanjakan' i Asyria. Ka dia niverina ny mpanjakan' i Asyria, fa tsy nitoetra tao amin' ny tany."
-    },
-    {
-      "v": 21,
-      "text": "Ary ny asan' i Menahema sisa mbamin' izay rehetra nataony, tsy efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Isiraely va izany?"
-    },
-    {
-      "v": 22,
-      "text": "\"Ary lasa nodimandry any amin' ny razany Menahema; ary Pekahia zanany no nanjaka nandimby azy.\""
-    },
-    {
-      "v": 23,
-      "text": "Tamin' ny taona fahadimampolo nanjakan' i Azaria, mpanjakan' ny Joda no vao nanomboka nanjaka tamin' ny Isiraely tao Samaria i Pekahia, zanak' i Menahema, ary nanjaka roa taona izy."
-    },
-    {
-      "v": 24,
-      "text": "Ary nanao izay ratsy eo imason' i Jehovah izy, fa tsy niala tamin' ny fahotana rehetra izay nataon' i Jeroboama, zanak' i Nebata, izay nampanota ny Isiraely."
-    },
-    {
-      "v": 25,
-      "text": "\"Fa Peka, zanak' i Remalia, lefiny, dia nikomy taminy ka namely an' i Pekahia mbamin' i Argoba sy Ana teo Samaria, tao amin' ny lapan' ny tranon' ny mpanjaka, ary teo amin' i Peka nisy olona dimampolo lahy tamin' ny taranak' i Gileada; koa namono azy izy, dia nanjaka nandimby azy.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary ny asan' i Pekahia sisa mbamin' izay rehetra nataony, indro, efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Isiraely izany."
-    },
-    {
-      "v": 27,
-      "text": "Tamin' ny taona faharoa amby dimampolo nanjakan' i Azaria, mpanjakan' ny Joda, no vao nanomboka nanjaka tamin' ny Isiraely tao Samaria, i Peka, zanak' i Remalia, ary nanjaka roapolo taona izy."
-    },
-    {
-      "v": 28,
-      "text": "Ary nanao izay ratsy eo imason' i Jehovah izy, fa tsy niala tamin' ny fahotan' i Jeroboama, zanak' i Nebata, izay nampanota ny Isiraely."
-    },
-    {
-      "v": 29,
-      "text": "Tamin' ny andron' i Peka, mpanjakan' ny Isiraely dia tonga Tiglato-pilesera, mpanjakan' i Asyria, ka nahafaka an' iona sy Abela-beti-maka sy Janoa sy Kadesy sy Hazora sy Gileada ary Galilia, dia ny tanin' ny Naftaly rehetra ary nitondra ny olona ho babo tany Asyria izy."
-    },
-    {
-      "v": 30,
-      "text": "Ary Hosea, zanak' i Elaha, nikomy tamin' i Peka, zanak' i Remalia, dia namely azy ho faty ka nanjaka nandimby azy tamin' ny taona faharoapolo nanjakan' i Jotama, zanak' i Ozia."
-    },
-    {
-      "v": 31,
-      "text": "Ary ny asan' i Peka sisa mbamin' izay rehetra nataony, indro fa efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Isiraely izany."
-    },
-    {
-      "v": 32,
-      "text": "Tamin' ny taona faharoa nanjakan' i Peka, zanak' i Remalia mpanjakan' ny Isiraely no vao nanomboka nanjaka Jotama, zanak' i Ozia, mpanjakan' ny Joda."
-    },
-    {
-      "v": 33,
-      "text": "Dimy amby roapolo taona izy, fony vao nanjaka, ary enina ambin' ny folo taona no nanjakany tany Jerosalema. Ary ny anaran-dreniny dia Jerosa, zanakavavin' i Zadoka."
-    },
-    {
-      "v": 34,
-      "text": "\"Ary nanao izay mahitsy eo imason' i Jehovah izy; tahaka izay rehetra nataon' i Ozia rainy no nataony.\""
-    },
-    {
-      "v": 35,
-      "text": "\"Kanefa ny fitoerana avo tsy mba noravana; fa mbola nanao fanatitra sy nandoro ditin-kazo manitra teny amin' ny fitoerana avo ihany ny olona. Izy no nanao ny vavahady ambony amin' ny tranon' i Jehovah.\""
-    },
-    {
-      "v": 36,
-      "text": "Ary ny asan' i Jotama sisa mbamin' izay rehetra nataony, tsy efa voasoratra ao amin' ny bokin' ny tantaran' ny Mpanjakan' ny Joda va izany?"
-    },
-    {
-      "v": 37,
-      "text": "Tamin izany andro izany no vao nanomboka nampandehanan' i Jehovah an' i Rezina, mpanjakan' i Syria, sy Peka, zanak' i Remalia, hanafika an' i Joda."
-    },
-    {
-      "v": 38,
-      "text": "\"Ary lasa nodimandry any amin' ny razany Jotama, dia nalevina tao amin' razany tao an-Tanànan' i Davida rainy izy; ary Ahaza zanany no nanjaka nandimby azy.\""
-    }
-  ]
+  "verses": {
+    "1": "Tamin' ny taona fahafito amby roa­polo nanjakan' i Jeroboama, mpanjakan' ny Isiraely no vao nanomboka nanjaka Azaria, zanak' i Amazia, mpanjakan' ny Joda.",
+    "2": "Enina ambin' ny folo taona izy, fony vao nanjaka, ary roa amby dimampolo taona no nanjakany tany Jerosalema. Ary ny anaran-dreniny dia Jekolia, avy any Jerosalema.",
+    "3": "Ary nanao izay mahitsy eo imason' i Jehovah izy tahaka izay rehetra nataon' i Amazia rainy;",
+    "4": "Kanefa ny fitoerana avo tsy mba noravana, fa mbola nanao fanatitra sy nandoro ditin-kazo manitra teny amin' ny fitoerana avo ihany ny olona.",
+    "5": "Ary Jehovah namely ny mpanjaka, ka dia boka mandra-pahafatiny izy ka nitoetra tao an-trano nitokana. Ary Jotama, zanakalahin' ny mpanjaka, no nanapaka tao an-dapa sy nitsara ny vahoaka tamin' ny tany.",
+    "6": "Ary ny asan' i Azaria sisa, mbamin' izay rehetra nataony, tsy efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Joda va izany?",
+    "7": "Ary Azaria dia lasa nodimandry any amin' ny razany ka nalevina tao amin' ny razany tao an-Tanànan' i Davida izy; ary Jotama zanany no nanjaka nandimby azy.",
+    "8": "Tamin' ny taona fahavalo amby telopolo nanjakan' i Azaria, mpanjakan' ny Joda no nanjakan' i Zakaria, zanak' i Jeroboama tamin' ny Isiraely enim-bolana tao Samaria.",
+    "9": "Ary nanao izay ratsy eo imason' i Jehovah tahaka ny efa nataon' ny razany izy, fa tsy niala tamin' ny fahotan' i Jeroboama, zanak' i Nebata izay nampanota ny Isiraely.",
+    "10": "Ary Saloma, zanak' i Jabesy, nikomy taminy, dia namely azy teo anatrehan' ny olona ka nahafaty azy ary nanjaka nandimby azy.",
+    "11": "Ary ny asan' i Zakaria sisa, indro, efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Isiraely izany.",
+    "12": "Izany no ilay tenin' i Jehovah nolazainy tamin' i Jeho hoe: Ny taranakao hatramin' ny zafindohalika dia hipetraka amin' ny sezafiandrianan' ny Isiraely, ka dia izany no niseho.",
+    "13": "Ary Saloma, zanak' i Jabesy, dia nanomboka nanjaka tamin' ny taona fahasivy amby telopolo nanjakan' i Ozia, mpanjakan' ny Joda; ary nanjaka iray volana mipaka tany Samaria izy.",
+    "14": "Fa Menahema, zanak' i Gady, niakatra avy tany Tirza ka nankany Samaria, dia namely an' i Saloma, zanak' i Jabesy tany Samaria ka nahafaty azy ary nanjaka nandimby azy.",
+    "15": "Ary ny asan' i Saloma sisa mbamin' ny fikomiana nataony, indro, fa efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Isiraely izany.",
+    "16": "Tamin' izany Menahema dia niala tany Tirza ka namely an' i Tifsa mbamin' izay rehetra tao hatramin' ny sisin-taniny; fa tsy namoha vavahady azy Tifsa, ka dia nasiany, ary izay bevohoka rehetra tao dia notatahany.",
+    "17": "Tamin' ny taona fahasivy amby telopolo nanjakan' i Azaria, mpanjakan' ny Joda no vao nanomboka nanjaka tamin' ny Isiraely i Menahema, zanak' i Gady ary nanjaka folo taona tao Samaria izy.",
+    "18": "Ary nanao izay ratsy eo imason' i Jehovah izy, ary tamin' ny androny rehetra izy dia tsy niala tamin' ny fahotan' i Jeroboama, zanak' i Nebata, izay nampanota ny Isiraely.",
+    "19": "Ary Pola, mpanjakan' i Asyria, dia avy hananika ny tany; ary Menahema dia nanome an' i Pola talenta volafotsy arivo mba hampitoetra ny fanjakana eo an-tanan' i Menahema.",
+    "20": "Ary nampandoavin' i Menahema io vola io ny mpanankarena rehetra tamin' ny Isiraely, dia sekely volafotsy dimampolo avy isan' olona, homeny ny mpanjakan' i Asyria. Ka dia niverina ny mpanjakan' i Asyria, fa tsy nitoetra tao amin' ny tany.",
+    "21": "Ary ny asan' i Menahema sisa mbamin' izay rehetra nataony, tsy efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Isiraely va izany?",
+    "22": "Ary lasa nodimandry any amin' ny razany Menahema; ary Pekahia zanany no nanjaka nandimby azy.",
+    "23": "Tamin' ny taona fahadimampolo nanjakan' i Azaria, mpanjakan' ny Joda no vao nanomboka nanjaka tamin' ny Isiraely tao Samaria i Pekahia, zanak' i Menahema, ary nanjaka roa taona izy.",
+    "24": "Ary nanao izay ratsy eo imason' i Jehovah izy, fa tsy niala tamin' ny fahotana rehetra izay nataon' i Jeroboama, zanak' i Nebata, izay nampanota ny Isiraely.",
+    "25": "Fa Peka, zanak' i Remalia, lefiny, dia nikomy taminy ka namely an' i Pekahia mbamin' i Argoba sy Ana teo Samaria, tao amin' ny lapan' ny tranon' ny mpanjaka, ary teo amin' i Peka nisy olona dimampolo lahy tamin' ny taranak' i Gileada; koa namono azy izy, dia nanjaka nandimby azy.",
+    "26": "Ary ny asan' i Pekahia sisa mbamin' izay rehetra nataony, indro, efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Isiraely izany.",
+    "27": "Tamin' ny taona faharoa amby dimampolo nanjakan' i Azaria, mpanjakan' ny Joda, no vao nanomboka nanjaka tamin' ny Isiraely tao Samaria, i Peka, zanak' i Remalia, ary nanjaka roapolo taona izy.",
+    "28": "Ary nanao izay ratsy eo imason' i Jehovah izy, fa tsy niala tamin' ny fahotan' i Jeroboama, zanak' i Nebata, izay nampanota ny Isiraely.",
+    "29": "Tamin' ny andron' i Peka, mpanjakan' ny Isiraely dia tonga Tiglato-pilesera, mpanjakan' i Asyria, ka nahafaka an' iona sy Abela-beti-maka sy Janoa sy Kadesy sy Hazora sy Gileada ary Galilia, dia ny tanin' ny Naftaly rehetra ary nitondra ny olona ho babo tany Asyria izy.",
+    "30": "Ary Hosea, zanak' i Elaha, nikomy tamin' i Peka, zanak' i Remalia, dia namely azy ho faty ka nanjaka nandimby azy tamin' ny taona faharoapolo nanjakan' i Jotama, zanak' i Ozia.",
+    "31": "Ary ny asan' i Peka sisa mbamin' izay rehetra nataony, indro fa efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Isiraely izany.",
+    "32": "Tamin' ny taona faharoa nanjakan' i Peka, zanak' i Remalia mpanjakan' ny Isiraely no vao nanomboka nanjaka Jotama, zanak' i Ozia, mpanjakan' ny Joda.",
+    "33": "Dimy amby roapolo taona izy, fony vao nanjaka, ary enina ambin' ny folo taona no nanjakany tany Jerosalema. Ary ny anaran-dreniny dia Jerosa, zanakavavin' i Zadoka.",
+    "34": "Ary nanao izay mahitsy eo imason' i Jehovah izy; tahaka izay rehetra nataon' i Ozia rainy no nataony.",
+    "35": "Kanefa ny fitoerana avo tsy mba noravana; fa mbola nanao fanatitra sy nandoro ditin-kazo manitra teny amin' ny fitoerana avo ihany ny olona. Izy no nanao ny vavahady ambony amin' ny tranon' i Jehovah.",
+    "36": "Ary ny asan' i Jotama sisa mbamin' izay rehetra nataony, tsy efa voasoratra ao amin' ny bokin' ny tantaran' ny Mpanjakan' ny Joda va izany?",
+    "37": "Tamin izany andro izany no vao nanomboka nampandehanan' i Jehovah an' i Rezina, mpanjakan' i Syria, sy Peka, zanak' i Remalia, hanafika an' i Joda.",
+    "38": "Ary lasa nodimandry any amin' ny razany Jotama, dia nalevina tao amin' razany tao an-Tanànan' i Davida rainy izy; ary Ahaza zanany no nanjaka nandimby azy."
+  }
 }

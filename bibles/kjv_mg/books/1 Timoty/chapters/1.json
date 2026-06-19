@@ -1,85 +1,26 @@
 {
+  "book": "1 Timoty",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Paoly, apostolin’i Jesosy Kristy araka ny didin’Andriamanitra, Mpamonjy antsika sy Jesosy Kristy Tompo izay fanantenantsika,"
-    },
-    {
-      "v": 2,
-      "text": "\"Mamangy an’i Timoty, tena zanako amin’ny finoana: fahasoavana, famindrampo, fiadanana avy amin’Andriamanitra Raintsika sy Kristy Jesosy Tompontsika;\""
-    },
-    {
-      "v": 3,
-      "text": "Toy ny niangaviako anao hitoetra any Efesosy, rehefa nankany Masedonia aho mba handidianao ny sasany tsy hampianatra foto-pampianarana hafa,"
-    },
-    {
-      "v": 4,
-      "text": "Na hitandrina ny anganongano sy ny tantaram-pirazanana tsy hita lany izay mahatonga ady hevitra, fa tsy mampandroso ny fitondrana araka an’Andriamanitra amin’ny finoana: ataovy izany."
-    },
-    {
-      "v": 5,
-      "text": "Fa ny anton’ny didy dia fitiavana avy amin’ny fo madio sy ny fieritreretana tsara ary ny finoana tsy mihatsaravelatsihy,"
-    },
-    {
-      "v": 6,
-      "text": "Izay nivilian’ny sasany, ka nania ho amin’ny taria foana izy,"
-    },
-    {
-      "v": 7,
-      "text": "Dia olona izay te-ho mpampiana-dalàna kanefa tsy fantany akory izay lazainy na izay itompoany."
-    },
-    {
-      "v": 8,
-      "text": "Nefa fantatsika fa tsara ny lalàna, raha entin’ny olona araka izay antony,"
-    },
-    {
-      "v": 9,
-      "text": "Ka fantany fa tsy ny olona marina no nanaovana ny lalàna, fa ny mpandika lalàna sy ny maditra, dia ny tsy araka an' Andriamanitra sy ny mpanota, ny tsy masina sy ny olom-betaveta, ny mpamono ray sy mpamono reny, ny mpamono olona,"
-    },
-    {
-      "v": 10,
-      "text": "\"Ny mpivarotena, ny mpanao fahavetavetana, ny mpangalatra olona, ny mpandainga, ny mpianian-tsy tò ary na inona na inona manohitra ny foto-pampianarana tsy misy kilema;\""
-    },
-    {
-      "v": 11,
-      "text": "Araka ny filazantsaran’ny voninahitr’Andriamanitra finaritra, izay natolotra ho adidiko."
-    },
-    {
-      "v": 12,
-      "text": "Misaotra an’i Kristy Jesosy Tompontsika aho, Izay nampahery ahy, fa nataony mahatoky aho ka notendreny ho amin’ny fanompoana,"
-    },
-    {
-      "v": 13,
-      "text": "Dia izaho, izay mpanao blasfemia fahiny sady mpanenjika sy mpampahory, kanefa nahazo famindrampo aho, satria tamin’ny tsy fahalalana no nanaovako izany noho ny tsy finoana."
-    },
-    {
-      "v": 14,
-      "text": "Fa be indrindra ny fahasoavan’ny Tompontsika tamin’ny finoana sy ny fitiavana izay ao amin’i Kristy Jesosy."
-    },
-    {
-      "v": 15,
-      "text": "Mahatoky ka tokony hekena amin’ny fankasitrahana rehetra izao teny izao: tonga tety ambonin’ny tany Kristy Jesosy hamonjy ny mpanota, ary amin’ireny izaho no lohany."
-    },
-    {
-      "v": 16,
-      "text": "Kanefa izao no namindrana fo tamiko, dia ny mba hasehon’i Jesosy Kristy eo amiko, izay lohany, ny fahari-po rehetra ho fianarana ho an’izay hino Azy hahazoana fiainana mandrakizay."
-    },
-    {
-      "v": 17,
-      "text": "Ary ho an’ny Mpanjaka mandrakizay tsy mety maty, tsy hita, Ilay hany Andriamanitra hendry anie ny laza sy ny voninahitra mandrakizay mandrakizay. Amena."
-    },
-    {
-      "v": 18,
-      "text": "Izao andraikitra izao no atolotro anao, ry Timoty zanako, araka ireo faminaniana natao fahiny ny aminao ireo, mba hoentinao miady ny ady tsara ireo,"
-    },
-    {
-      "v": 19,
-      "text": "\"Amin’ny itananao ny finoana sy ny fieritreretana tsara, izay efa narian’ny sasany, ka toy ny olona vaky sambo izy ny amin’ny finoana;\""
-    },
-    {
-      "v": 20,
-      "text": "Naman’ireny Hymeneo sy Aleksandro izay natolotro ho an’i Satana mba hianarany tsy hanao blasfemia."
-    }
-  ]
+  "verses": {
+    "1": "Paoly, apostolin’i Jesosy Kristy araka ny didin’Andriamanitra, Mpamonjy antsika sy Jesosy Kristy Tompo izay fanantenantsika,",
+    "2": "Mamangy an’i Timoty, tena zanako amin’ny finoana: fahasoavana, famindrampo, fiadanana avy amin’Andriamanitra Raintsika sy Kristy Jesosy Tompontsika;",
+    "3": "Toy ny niangaviako anao hitoetra any Efesosy, rehefa nankany Masedonia aho mba handidianao ny sasany tsy hampianatra foto-pampianarana hafa,",
+    "4": "Na hitandrina ny anganongano sy ny tantaram-pirazanana tsy hita lany izay mahatonga ady hevitra, fa tsy mampandroso ny fitondrana araka an’Andriamanitra amin’ny finoana: ataovy izany.",
+    "5": "Fa ny anton’ny didy dia fitiavana avy amin’ny fo madio sy ny fieritreretana tsara ary ny finoana tsy mihatsaravelatsihy,",
+    "6": "Izay nivilian’ny sasany, ka nania ho amin’ny taria foana izy,",
+    "7": "Dia olona izay te-ho mpampiana-dalàna kanefa tsy fantany akory izay lazainy na izay itompoany.",
+    "8": "Nefa fantatsika fa tsara ny lalàna, raha entin’ny olona araka izay antony,",
+    "9": "Ka fantany fa tsy ny olona marina no nanaovana ny lalàna, fa ny mpandika lalàna sy ny maditra, dia ny tsy araka an' Andriamanitra sy ny mpanota, ny tsy masina sy ny olom-betaveta, ny mpamono ray sy mpamono reny, ny mpamono olona,",
+    "10": "Ny mpivarotena, ny mpanao fahavetavetana, ny mpangalatra olona, ny mpandainga, ny mpianian-tsy tò ary na inona na inona manohitra ny foto-pampianarana tsy misy kilema;",
+    "11": "Araka ny filazantsaran’ny voninahitr’Andriamanitra finaritra, izay natolotra ho adidiko.",
+    "12": "Misaotra an’i Kristy Jesosy Tompontsika aho, Izay nampahery ahy, fa nataony mahatoky aho ka notendreny ho amin’ny fanompoana,",
+    "13": "Dia izaho, izay mpanao blasfemia fahiny sady mpanenjika sy mpampahory, kanefa nahazo famindrampo aho, satria tamin’ny tsy fahalalana no nanaovako izany noho ny tsy finoana.",
+    "14": "Fa be indrindra ny fahasoavan’ny Tompontsika tamin’ny finoana sy ny fitiavana izay ao amin’i Kristy Jesosy.",
+    "15": "Mahatoky ka tokony hekena amin’ny fankasitrahana rehetra izao teny izao: tonga tety ambonin’ny tany Kristy Jesosy hamonjy ny mpanota, ary amin’ireny izaho no lohany.",
+    "16": "Kanefa izao no namindrana fo tamiko, dia ny mba hasehon’i Jesosy Kristy eo amiko, izay lohany, ny fahari-po rehetra ho fianarana ho an’izay hino Azy hahazoana fiainana mandrakizay.",
+    "17": "Ary ho an’ny Mpanjaka mandrakizay tsy mety maty, tsy hita, Ilay hany Andriamanitra hendry anie ny laza sy ny voninahitra mandrakizay mandrakizay. Amena.",
+    "18": "Izao andraikitra izao no atolotro anao, ry Timoty zanako, araka ireo faminaniana natao fahiny ny aminao ireo, mba hoentinao miady ny ady tsara ireo,",
+    "19": "Amin’ny itananao ny finoana sy ny fieritreretana tsara, izay efa narian’ny sasany, ka toy ny olona vaky sambo izy ny amin’ny finoana;",
+    "20": "Naman’ireny Hymeneo sy Aleksandro izay natolotro ho an’i Satana mba hianarany tsy hanao blasfemia."
+  }
 }

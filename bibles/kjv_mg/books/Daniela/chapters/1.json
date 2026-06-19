@@ -1,89 +1,27 @@
 {
+  "book": "Daniela",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tamin'ny taona fahatelo nanjakan' i Joiakima, mpanjakan' ny Joda, no nankanesan' i Nebokadnezara, mpanjakan' i Babylona, tany Jerosalema sy nanaovany fahirano azy."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary ny Tompo nanolotra an' i Joiakima, mpanjakan' ny Joda, mbamin' ny fanaka sasany tao an-tranon' Andriamanitra ho eo an-tanany, ka nentiny ho any amin' ny tany Sinara ireny, ho ao an-tranon' andriamaniny; koa ny fanaka dia nampidiriny tao amin' ny trano firaketan' andriamaniny.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary ny mpanjaka nandidy an' i Aspenaza, lehiben' ny ionokany, hitondra ny sasany amin' ny Zanak' Isiraely, dia amin' ny taranaky ny mpanjaka sy amin' ny zanak' andriana,"
-    },
-    {
-      "v": 4,
-      "text": "Dia zazalahy izay tsy nisy kilema, fa tsara tarehy sady kanto amin' ny fahendrena rehetra sy manam-pahalalana ary mahafantatra siansa ka mendrika hitoetra ao an-dapan' ny mpanjaka, sady azony nampianarina ny fianarana sy ny tenin' ny Kaldeana."
-    },
-    {
-      "v": 5,
-      "text": "Ary ny mpanjaka nampanokana hanina ho an' ireo isan' andro avy tamin' ny haniny sy avy tamin' ny divay izay fisotrony mba hamelomana azy telo taona, ary rehefa afaka izany, dia hitoetra eo anatrehan' ny mpanjaka izy."
-    },
-    {
-      "v": 6,
-      "text": "Ary tamin' ireo dia nisy avy amin' ny taranak' i Joda, dia Daniela sy Hanania sy Misaela ary Azaria."
-    },
-    {
-      "v": 7,
-      "text": "Ary izy ireo nomen' ny lehiben' ny tandapa anarana, ka Daniela nataony hoe Beltesazara, ary Hanania nataony hoe Sadraka, ary Misaela nataony hoe Mesaka, ary Azaria nataony hoe Abednego."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa Daniela ninia tao am-pony tsy handoto ny tenany tamin' ny anjara-hanina avy tamin' ny hanin' ny mpanjaka, na tamin' ny divay izay fisotrony; ka dia nangataka tamin' ny lehiben' ny ionoka izy mba havelany tsy handoto ny tenany.\""
-    },
-    {
-      "v": 9,
-      "text": "Dia nataon' Andriamanitra nahita fitia sy famindrampo tamin' ilay lehiben' ny ionoka Daniela."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary hoy ilay lehiben' ny ionoka tamin' i Daniela: Matahotra ny mpanjaka tompoko izay nampanokana ny hohaninareo sy hosotroinareo aho; fa hanao ahoana raha mahita ny tarehinareo mahia noho ny an' ny zazalahy namanareo izy, moa tsy hahameloka ahy amin' ny mpanjaka va ianareo, ka hotapahiny ny lohako?\""
-    },
-    {
-      "v": 11,
-      "text": "Dia hoy Daniela tamin' i Melzara, izay notendren' ny lehiben' ny ionoka ho mpiadidy an' i Daniela sy Hanania sy Misaela ary Azaria:"
-    },
-    {
-      "v": 12,
-      "text": "Masìna ianao, izahao toetra hafoloana ny mpanomponao, ary aoka izahay homena legioma hohaninay sy rano hosotroinay."
-    },
-    {
-      "v": 13,
-      "text": "Dia aoka hizahana eo anatrehanao ny tarehinay sy ny tarehin' ny zazalahy izay mihinana ny anjara avy amin' ny hanin' ny mpanjaka, ary araka izay hitanao no ataovy amin' ny mpanomponao."
-    },
-    {
-      "v": 14,
-      "text": "Ary nanaiky izany teny izany izy ka nizaha toetra azy hafoloana."
-    },
-    {
-      "v": 15,
-      "text": "Ary nony tapitra ny hafoloana, dia hita fa mandimandina sy matavy aza ny tarehiny noho ny an' ny zazalahy rehetra izay nihinana anjara avy tamin' ny hanin' ny mpanjaka."
-    },
-    {
-      "v": 16,
-      "text": "Dia najanon' i Melzara ny anjara haniny sy ny divay tokony hosotroiny ka legioma no nomeny azy."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ireo zazalahy efatra ireo dia nomen' Andriamanitra fahalalana sy saina ny amin' ny fianarana sy ny fahendrena rehetra; ary Daniela nahafantatra ny amin' ny fahitana sy ny nofy rehetra.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary nony tonga ny faran' ny andro nasain' ny mpanjaka hampidirana azy, dia nentin' ilay lehiben' ny ionoka niditra teo anatrehan' i Nebokadnezara izy ireo."
-    },
-    {
-      "v": 19,
-      "text": "Ary ny mpanjaka niresaka taminy, ka tsy nisy hita izay tahaka an' i Daniela sy Hanania sy Misaela ary Azaria tamin' izy rehetra, ka dia nitoetra teo anatrehan' ny mpanjaka izy ireo."
-    },
-    {
-      "v": 20,
-      "text": "Ary ny amin' ny fahendrena sy ny fahalalana rehetra izay nanontanian' ny mpanjaka azy, dia hitany fa nanantombo impolo heny noho ny ombiasy rehetra sy ny mpisikidy izay teo amin' ny fanjakany rehetra aza izy ireo."
-    },
-    {
-      "v": 21,
-      "text": "Ary Daniela nahatratra ny taona voalohany nanjakan' i Kyrosy mpanjaka."
-    }
-  ]
+  "verses": {
+    "1": "Tamin'ny taona fahatelo nanjakan' i Joiakima, mpanjakan' ny Joda, no nankanesan' i Nebokadnezara, mpanjakan' i Babylona, tany Jerosalema sy nanaovany fahirano azy.",
+    "2": "Ary ny Tompo nanolotra an' i Joiakima, mpanjakan' ny Joda, mbamin' ny fanaka sasany tao an-tranon' Andriamanitra ho eo an-tanany, ka nentiny ho any amin' ny tany Sinara ireny, ho ao an-tranon' andriamaniny; koa ny fanaka dia nampidiriny tao amin' ny trano firaketan' andriamaniny.",
+    "3": "Ary ny mpanjaka nandidy an' i Aspenaza, lehiben' ny ionokany, hitondra ny sasany amin' ny Zanak' Isiraely, dia amin' ny taranaky ny mpanjaka sy amin' ny zanak' andriana,",
+    "4": "Dia zazalahy izay tsy nisy kilema, fa tsara tarehy sady kanto amin' ny fahendrena rehetra sy manam-pahalalana ary mahafantatra siansa ka mendrika hitoetra ao an-dapan' ny mpanjaka, sady azony nampianarina ny fianarana sy ny tenin' ny Kaldeana.",
+    "5": "Ary ny mpanjaka nampanokana hanina ho an' ireo isan' andro avy tamin' ny haniny sy avy tamin' ny divay izay fisotrony mba hamelomana azy telo taona, ary rehefa afaka izany, dia hitoetra eo anatrehan' ny mpanjaka izy.",
+    "6": "Ary tamin' ireo dia nisy avy amin' ny taranak' i Joda, dia Daniela sy Hanania sy Misaela ary Azaria.",
+    "7": "Ary izy ireo nomen' ny lehiben' ny tandapa anarana, ka Daniela nataony hoe Beltesazara, ary Hanania nataony hoe Sadraka, ary Misaela nataony hoe Mesaka, ary Azaria nataony hoe Abednego.",
+    "8": "Fa Daniela ninia tao am-pony tsy handoto ny tenany tamin' ny anjara-hanina avy tamin' ny hanin' ny mpanjaka, na tamin' ny divay izay fisotrony; ka dia nangataka tamin' ny lehiben' ny ionoka izy mba havelany tsy handoto ny tenany.",
+    "9": "Dia nataon' Andriamanitra nahita fitia sy famindrampo tamin' ilay lehiben' ny ionoka Daniela.",
+    "10": "Ary hoy ilay lehiben' ny ionoka tamin' i Daniela: Matahotra ny mpanjaka tompoko izay nampanokana ny hohaninareo sy hosotroinareo aho; fa hanao ahoana raha mahita ny tarehinareo mahia noho ny an' ny zazalahy namanareo izy, moa tsy hahameloka ahy amin' ny mpanjaka va ianareo, ka hotapahiny ny lohako?",
+    "11": "Dia hoy Daniela tamin' i Melzara, izay notendren' ny lehiben' ny ionoka ho mpiadidy an' i Daniela sy Hanania sy Misaela ary Azaria:",
+    "12": "Masìna ianao, izahao toetra hafoloana ny mpanomponao, ary aoka izahay homena legioma hohaninay sy rano hosotroinay.",
+    "13": "Dia aoka hizahana eo anatrehanao ny tarehinay sy ny tarehin' ny zazalahy izay mihinana ny anjara avy amin' ny hanin' ny mpanjaka, ary araka izay hitanao no ataovy amin' ny mpanomponao.",
+    "14": "Ary nanaiky izany teny izany izy ka nizaha toetra azy hafoloana.",
+    "15": "Ary nony tapitra ny hafoloana, dia hita fa mandimandina sy matavy aza ny tarehiny noho ny an' ny zazalahy rehetra izay nihinana anjara avy tamin' ny hanin' ny mpanjaka.",
+    "16": "Dia najanon' i Melzara ny anjara haniny sy ny divay tokony hosotroiny ka legioma no nomeny azy.",
+    "17": "Ary ireo zazalahy efatra ireo dia nomen' Andriamanitra fahalalana sy saina ny amin' ny fianarana sy ny fahendrena rehetra; ary Daniela nahafantatra ny amin' ny fahitana sy ny nofy rehetra.",
+    "18": "Ary nony tonga ny faran' ny andro nasain' ny mpanjaka hampidirana azy, dia nentin' ilay lehiben' ny ionoka niditra teo anatrehan' i Nebokadnezara izy ireo.",
+    "19": "Ary ny mpanjaka niresaka taminy, ka tsy nisy hita izay tahaka an' i Daniela sy Hanania sy Misaela ary Azaria tamin' izy rehetra, ka dia nitoetra teo anatrehan' ny mpanjaka izy ireo.",
+    "20": "Ary ny amin' ny fahendrena sy ny fahalalana rehetra izay nanontanian' ny mpanjaka azy, dia hitany fa nanantombo impolo heny noho ny ombiasy rehetra sy ny mpisikidy izay teo amin' ny fanjakany rehetra aza izy ireo.",
+    "21": "Ary Daniela nahatratra ny taona voalohany nanjakan' i Kyrosy mpanjaka."
+  }
 }

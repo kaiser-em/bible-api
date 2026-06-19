@@ -1,85 +1,26 @@
 {
+  "book": "2 Mpanjaka",
   "chapter": 22,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Valo taona Josia, fony vao nanjaka,ary iraika amby telopolo taona no nanjakany tany Jerosalema. Ary ny anaran-dreniny dia Jedida, zanakavavin' i Adaia, avy any Bozkata."
-    },
-    {
-      "v": 2,
-      "text": "Ary nanao izay mahitsy eo imason' i Jehovah kosa izy ka nandeha tamin' izay rehetra nalehan' i Davida rainy, fa tsy mba nivily, na ho amin' ny ankavanana, na ho amin' ny ankavia."
-    },
-    {
-      "v": 3,
-      "text": "Ary izao no niseho, tamin' ny taona fahavalo ambin' ny folo nanjakan' i Josia mpanjaka, dia naniraka an' i Safana mpanoratra, zanak' i Azalia, zanak' i Mesolama izy ho any an-tranon' i Jehovah ka nanao hoe:"
-    },
-    {
-      "v": 4,
-      "text": "\"Miakara any amin' i Hilkia mpisoronabe hanisany ny volafotsy izay nampidirina ho ao an-tranon' i Jehovah, dia izay nangonin' ny mpiandry varavarana tamin' ny olona;\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary aoka hatolony ho eo an-tanan' ny mpanao raharaha izay voatendry ny amin' ny tranon' i Jehovah izany; ary aoka homen' ireo ho an' ny mpiasa izay ao an-tranon' i Jehovah hanamboarany ny simba amin' ny trano,\""
-    },
-    {
-      "v": 6,
-      "text": "Dia ho an' ny mpandrafitra sy ny mpandatsa-bato ary ny mpipaika, dia hividianana hazo sy vato voapaika hanamboarana ny simba amin' ny trano."
-    },
-    {
-      "v": 7,
-      "text": "Kanefa tsy nampamoahina ny amin' ny vola natolotra teo an-tanany ireo, fa nahatoky izy."
-    },
-    {
-      "v": 8,
-      "text": "Dia hoy Hilkia mpisoronabe tamin' i Safana mpanoratra: Ny bokin' ny lalàna dia hitako tao an-tranon' i Jehovah. Dia natolotr' i Hilkia an' i Safana ny boky ka novakiny."
-    },
-    {
-      "v": 9,
-      "text": "Ary Safana mpanoratra tonga tany amin' ny mpanjaka ka nitondra valiny nanao hoe: Ny mpanomponao dia efa nanangona ny vola izay hita tao an-trano, ka efa nanolotra izany ho eo an-tanan' ny mpanao raharaha izay voatendry ny amin' ny tranon' i Jehovah."
-    },
-    {
-      "v": 10,
-      "text": "Ary Safana mpanoratra naneho tamin' ny mpanjaka nanao hoe: Misy boky nomen' i Hilkia mpisorona ahy. Dia novakin' i Safana teo anatrehan' ny mpanjaka izany."
-    },
-    {
-      "v": 11,
-      "text": "Ary izao no niseho, rehefa ren' ny mpanjaka ny teny tao amin' ny bokin' ny lalàna, dia nandriatra ny fitafiany izy."
-    },
-    {
-      "v": 12,
-      "text": "Ary ny mpanjaka nandidy an' i Hilkia mpisorona sy Ahikama, zanak' i Safana, sy Akbora, zanak' i Mikaia sy Safana mpanoratra sy Asaia, mpanompon' ny mpanjaka hoe:"
-    },
-    {
-      "v": 13,
-      "text": "\"Mandehana ianareo, ka manontania amin' i Jehovah ho ahy sy ho an' ny vahoaka, mbamin' ny Joda rehetra ny amin' ny tenin' ity boky vao hita ity; fa mafy ny fahatezeran' i Jehovah izay mirehitra amintsika noho ny tsy nihainoan' ny razantsika ny tenin' ity boky ity hanao araka izay rehetra voasoratra momba antsika.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Dia nandeha Hilkia sy Ahikama sy Akbora sy Safana ary Asaia ka nankany amin' ny Holda mpaminanivavy, vadin' i Saloma, zanak' i Tikva, zanak' i Harasa, mpitahiry ny fitafiana (fa nitoetra tao amin' ny trano fianarana tany Jerosalema ravehivavy); dia niresaka taminy izy ireo.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary hoy ravehivavy tamin' izy ireo: Izao no lazain' i Jehovah, Andriamanitry ny Isiraely: Lazao amin' ny lehilahy izay naniraka anareo ho aty amiko hoe:"
-    },
-    {
-      "v": 16,
-      "text": "\"Izao no lazain' i Jehovah: Indro, Izaho hahatonga loza amin' ity tanàna ity sy amin' ny mponina eto, dia araka izay rehetra lazain' ny boky novakin' ny mpanjakan' ny Joda;\""
-    },
-    {
-      "v": 17,
-      "text": "Satria nahafoy Ahy izy ary nandoro ditin-kazo manitra tamin' izay andriamani-kafa ka nampahatezitra Ahy tamin' izay rehetra nataon' ny tanany, koa dia mirehitra amin' ity tanàna ity ny fahatezerako ka tsy azo vonoina."
-    },
-    {
-      "v": 18,
-      "text": "Fa ny amin' ny mpanjakan' ny Joda izay naniraka anareo hanontany amin' i Jehovah kosa anefa, dia izao no ambaraonareo aminy: Izao no lazain' i Jehovah Andriamanitry ny Isiraely: Ny amin' ny teny izay renao:"
-    },
-    {
-      "v": 19,
-      "text": "Satria nalefaka ny fonao ka nanetry tena teo anatrehan' i Jehovah ianao, raha nandre izay nolazaiko ny amin' izay hanjo ity tanàna ity sy ny mponina eto, dia ny handravana azy sy ny hahatongavany ho fanozonana ka nandriatra ny fitafianao ianao sady nitomany teo anatrehako, dia Izaho kosa efa nihaino anao, hoy Jehovah."
-    },
-    {
-      "v": 20,
-      "text": "\"Koa, indro, hangoniko any amin' ny razanao ianao, ary ho voangona any amin' ny fasanao amin' ny fiadanana; ary ny masonao tsy mba hahita izay loza rehetra hoentiko mamely ity tanàna ity. Dia nitondra teny ho any amin' ny mpanjaka izy ireo.\""
-    }
-  ]
+  "verses": {
+    "1": "Valo taona Josia, fony vao nanjaka,ary iraika amby telopolo taona no nanjakany tany Jerosalema. Ary ny anaran-dreniny dia Jedida, zanakavavin' i Adaia, avy any Bozkata.",
+    "2": "Ary nanao izay mahitsy eo imason' i Jehovah kosa izy ka nandeha tamin' izay rehetra nalehan' i Davida rainy, fa tsy mba nivily, na ho amin' ny ankavanana, na ho amin' ny ankavia.",
+    "3": "Ary izao no niseho, tamin' ny taona fahavalo ambin' ny folo nanjakan' i Josia mpanjaka, dia naniraka an' i Safana mpanoratra, zanak' i Azalia, zanak' i Mesolama izy ho any an-tranon' i Jehovah ka nanao hoe:",
+    "4": "Miakara any amin' i Hilkia mpisoronabe hanisany ny volafotsy izay nampidirina ho ao an-tranon' i Jehovah, dia izay nangonin' ny mpiandry varavarana tamin' ny olona;",
+    "5": "Ary aoka hatolony ho eo an-tanan' ny mpanao raharaha izay voatendry ny amin' ny tranon' i Jehovah izany; ary aoka homen' ireo ho an' ny mpiasa izay ao an-tranon' i Jehovah hanamboarany ny simba amin' ny trano,",
+    "6": "Dia ho an' ny mpandrafitra sy ny mpandatsa-bato ary ny mpipaika, dia hividianana hazo sy vato voapaika hanamboarana ny simba amin' ny trano.",
+    "7": "Kanefa tsy nampamoahina ny amin' ny vola natolotra teo an-tanany ireo, fa nahatoky izy.",
+    "8": "Dia hoy Hilkia mpisoronabe tamin' i Safana mpanoratra: Ny bokin' ny lalàna dia hitako tao an-tranon' i Jehovah. Dia natolotr' i Hilkia an' i Safana ny boky ka novakiny.",
+    "9": "Ary Safana mpanoratra tonga tany amin' ny mpanjaka ka nitondra valiny nanao hoe: Ny mpanomponao dia efa nanangona ny vola izay hita tao an-trano, ka efa nanolotra izany ho eo an-tanan' ny mpanao raharaha izay voatendry ny amin' ny tranon' i Jehovah.",
+    "10": "Ary Safana mpanoratra naneho tamin' ny mpanjaka nanao hoe: Misy boky nomen' i Hilkia mpisorona ahy. Dia novakin' i Safana teo anatrehan' ny mpanjaka izany.",
+    "11": "Ary izao no niseho, rehefa ren' ny mpanjaka ny teny tao amin' ny bokin' ny lalàna, dia nandriatra ny fitafiany izy.",
+    "12": "Ary ny mpanjaka nandidy an' i Hilkia mpisorona sy Ahikama, zanak' i Safana, sy Akbora, zanak' i Mikaia sy Safana mpanoratra sy Asaia, mpanompon' ny mpanjaka hoe:",
+    "13": "Mandehana ianareo, ka manontania amin' i Jehovah ho ahy sy ho an' ny vahoaka, mbamin' ny Joda rehetra ny amin' ny tenin' ity boky vao hita ity; fa mafy ny fahatezeran' i Jehovah izay mirehitra amintsika noho ny tsy nihainoan' ny razantsika ny tenin' ity boky ity hanao araka izay rehetra voasoratra momba antsika.",
+    "14": "Dia nandeha Hilkia sy Ahikama sy Akbora sy Safana ary Asaia ka nankany amin' ny Holda mpaminanivavy, vadin' i Saloma, zanak' i Tikva, zanak' i Harasa, mpitahiry ny fitafiana (fa nitoetra tao amin' ny trano fianarana tany Jerosalema ravehivavy); dia niresaka taminy izy ireo.",
+    "15": "Ary hoy ravehivavy tamin' izy ireo: Izao no lazain' i Jehovah, Andriamanitry ny Isiraely: Lazao amin' ny lehilahy izay naniraka anareo ho aty amiko hoe:",
+    "16": "Izao no lazain' i Jehovah: Indro, Izaho hahatonga loza amin' ity tanàna ity sy amin' ny mponina eto, dia araka izay rehetra lazain' ny boky novakin' ny mpanjakan' ny Joda;",
+    "17": "Satria nahafoy Ahy izy ary nandoro ditin-kazo manitra tamin' izay andriamani-kafa ka nampahatezitra Ahy tamin' izay rehetra nataon' ny tanany, koa dia mirehitra amin' ity tanàna ity ny fahatezerako ka tsy azo vonoina.",
+    "18": "Fa ny amin' ny mpanjakan' ny Joda izay naniraka anareo hanontany amin' i Jehovah kosa anefa, dia izao no ambaraonareo aminy: Izao no lazain' i Jehovah Andriamanitry ny Isiraely: Ny amin' ny teny izay renao:",
+    "19": "Satria nalefaka ny fonao ka nanetry tena teo anatrehan' i Jehovah ianao, raha nandre izay nolazaiko ny amin' izay hanjo ity tanàna ity sy ny mponina eto, dia ny handravana azy sy ny hahatongavany ho fanozonana ka nandriatra ny fitafianao ianao sady nitomany teo anatrehako, dia Izaho kosa efa nihaino anao, hoy Jehovah.",
+    "20": "Koa, indro, hangoniko any amin' ny razanao ianao, ary ho voangona any amin' ny fasanao amin' ny fiadanana; ary ny masonao tsy mba hahita izay loza rehetra hoentiko mamely ity tanàna ity. Dia nitondra teny ho any amin' ny mpanjaka izy ireo."
+  }
 }

@@ -1,161 +1,45 @@
 {
+  "book": "2 Samoela",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary naharitra ela ny adin' ny tamingan' i Saoly sy ny tamingan' i Davida, nefa Davida nihanahery, fa ny tamingan' i Saoly kosa nihaosa dia nihaosa."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary Davida niteraka zazalahy tao Hebrona; koa Amnona, tamin' i Ahinoama Jezirelita, no lahimatoany;\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary Kileaba, tamin' i Abigaila, ilay novinadin' i Nabala Karmelita, no lahiaivo; ary ny fahatelo dia Absaloma, zanak' i Maka, zanakavavin' i Talmay, mpanjakan' i Gesora;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary ny fahefatra dia Adonia, zanak' i Hagita; ary ny fahadimy dia Sefatia, zanak' i Abitala;\""
-    },
-    {
-      "v": 5,
-      "text": "Ary ny fahenina dia Jitreama, tamin' i Egla, vadin' i Davida. Ireo no naterak' i Davida tao Hebrona."
-    },
-    {
-      "v": 6,
-      "text": "Ary izao no niseho, raha mbola niady ny tamingan' i Davida sy ny tamingan' i Saoly, i Abnera dia nampiseho hery niandany tamin' ny tamingan' i Saoly."
-    },
-    {
-      "v": 7,
-      "text": "Ary Saoly nanana vaditsindrano, Rizpa no anarany, zanakavavin' i Aia. Kanefa Isboseta niteny tamin' i Abnera hoe: Nahoana no nalainao ny vaditsindranon' ikaky?"
-    },
-    {
-      "v": 8,
-      "text": "Dia tezitra mafy Abnera noho ny tenin' Isboseta, ka hoy izy: Lohan' alika no miandany amin' ny Joda va aho? He, izato izaho manisy soa ny tamingan' i Saoly rainao sy ny rahalahiny sy ny sakaizany izao, ka tsy nanolotra anao ho eo an-tanan' i Davida, nefa helohinao aho izao noho ny amin' io vehivavy io?"
-    },
-    {
-      "v": 9,
-      "text": "Hataon' Andriamanitra amin' i Abnera anie izany, eny, mihoatra noho izany aza, raha tsy hataoko aminy araka ny nianianan' i Jehovah tamin' i Davida,"
-    },
-    {
-      "v": 10,
-      "text": "Ka hampiala ny fanjakana amin' ny tamingan' i Saoly aho ary hampitoetra ny sezafiandrianan' i Davida amin' ny Isiraely sy amin' ny Joda hatrany Dana ka hatrany Beri-sheba."
-    },
-    {
-      "v": 11,
-      "text": "Dia tsy nahavaly an' i Abnera intsony izy noho ny tahony azy."
-    },
-    {
-      "v": 12,
-      "text": "Ary Abnera nandefa iraka avy taminy nankany amin' i Davida nanao hoe: An' iza ny tany? Ary koa hoe: Manaova fanekena amiko, ary, indro, ny tanako homba anao hitondra ny Isiraely rehetra ho anao."
-    },
-    {
-      "v": 13,
-      "text": "\"Dia hoy izy: Tsara izany; hanao fanekena aminao aho, kanefa zavatra iray loha no angatahiko aminao: tsy hahazo mahita ny tavako ianao, raha tsy entinao aty amiko aloha i Mikala, zanakavavin' i Saoly rehefa avy hihaona amiko ianao.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary Davida nandefa iraka nankany amin' Isboseta, zanakalahin' i Saoly, hanao hoe: Omeo ahy Mikala vadiko, izay efa nifanekena ho vadiko tamin' ny saron-tsotsoky ny Filistina zato lahy."
-    },
-    {
-      "v": 15,
-      "text": "Ary Isboseta naniraka naka an' i Mikala tany amin' i Paltiela vadiny, zanak' i Laisy."
-    },
-    {
-      "v": 16,
-      "text": "Ary nanaraka azy ny vadin-dravehivavy ka nitomany teny aoriany hatrany Bahorima. Fa hoy Abnera taminy: Mandehana miverina. Dia niverina izy."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary Abnera efa niteny tamin' ny loholon' ny Isiraely hoe: Efa ela no nitadiavanareo an' i Davida ho mpanjakanareo;\""
-    },
-    {
-      "v": 18,
-      "text": "Koa tanteraho izany ankehitriny, fa Jehovah efa nilaza an' i Davida hoe: Amin' ny tanan' i Davida mpanompoko no hamonjeko ny Isiraely oloko ho afaka amin' ny tanan' ny Filistina sy amin' ny tanan' ny fahavalony rehetra."
-    },
-    {
-      "v": 19,
-      "text": "Ary Abnera efa niteny tamin' ny Benjamita koa, ary lasa koa Abnera hilaza amin' i Davida ao Hebrona, izay rehetra heverin' ny Isiraely ho tsara sy izay heverin' ny ankohonan' i Benjamina manontolo ho tsara."
-    },
-    {
-      "v": 20,
-      "text": "Dia tonga tany amin' i Davida tao Hebrona i Abnera sy ny olona roapolo lahy nanaraka azy. Ary nanao fanasana ho an' i Abnera sy ny olona nanaraka azy i Davida."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary hoy Abnera tamin' i Davida: Hiainga aho, dia handeha hamory ny Isiraely rehetra ho ety aminao mpanjaka tompoko, mba hanaovany fanekena aminao ary hanjakanao amin' izay rehetra irin' ny fonao. Ary Davida nampandeha an' i Abnera; ka dia lasa soa aman-tsara izy.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary, indreo tonga ny mpanompon' i Davida sy Joaba avy nitoha ka nitondra babo be niaraka taminy; ary efa tsy teo amin' i Davida tao Hebrona intsony i Abnera, fa efa nalefany izy, ka dia lasa soa aman-tsara.\""
-    },
-    {
-      "v": 23,
-      "text": "Nony tonga Joaba sy ny miaramila rehetra izay nanaraka azy, dia nisy nanambara tamin' i Joaba hoe: Tonga tao amin' ny mpanjaka i Abnera, zanak' i Nera, nefa nalefany izy, ka dia lasa soa aman-tsara."
-    },
-    {
-      "v": 24,
-      "text": "Ary nankao amin' ny mpanjaka Joaba ka nanao hoe: Inona no nataonao? Nahoana no efa tonga teto aminao i Abnera ka nalefanao fotsiny, ka dia afaka soa aman-tsara izy?"
-    },
-    {
-      "v": 25,
-      "text": "Fantatrao anefa ny amin' i Abnera, zanak' i Nera, fa hamitaka anao no nahatongavany, hahalalany ny ivoahanao sy ny idiranao ary hahalalany izay rehetra ataonao."
-    },
-    {
-      "v": 26,
-      "text": "Ary rehefa nivoaka avy tao amin' i Davida i Joaba dia nandefa iraka hanaraka an' i Abnera, ary ireo nitondra azy niverina avy any amin' ny lavaka famorian-drano Siraha, nefa tsy fantatr' i Davida izany."
-    },
-    {
-      "v": 27,
-      "text": "Ary nony niverina tao Hebrona i Abnera, dia nentin' i Joaba nitanila tao anaty vavahady hiresaka aminy mangingina, kanjo nasiany tamin' ny taolan-tehezany fahadimy ka matiny ho todin' ny ràn' i Asahela rahalahiny."
-    },
-    {
-      "v": 28,
-      "text": "Ary rehefa afaka izany, raha nahare izany Davida, dia hoy izy: Tsy manan-keloka mandrakizay eo anatrehan' i Jehovah aho sy ny fanjakako ny amin' ny ràn' i Abnera, zanak' i Nera."
-    },
-    {
-      "v": 29,
-      "text": "\"Hitsingerina amin' ny lohan' i Joaba sy ny tarana-drainy rehetra anie ny todin' izany; ary tsy ho tapaka amin' ny taranak' i Joaba anie ny marary mitsika, na ny boka, na ny mamahana amin' ny tehina, na ny lavon-tsabatra, na ny tsy manan-kohanina.\""
-    },
-    {
-      "v": 30,
-      "text": "Toy izany no namonoan' i Joaba sy Abisay rahalahiny an' i Abnera noho ny namonoany an' i Asahela rahalahiny tao Gibeona tamin' ny ady."
-    },
-    {
-      "v": 31,
-      "text": "Ary hoy Davida tamin' i Joaba sy ny olona rehetra izay teo aminy: Triaro ny fitafianareo, ary misikìna lamba fisaonana, ka aoka hisaona eo alohan' i Abnera ianareo. Ary Davida mpanjaka nanaraka ny tranovorona."
-    },
-    {
-      "v": 32,
-      "text": "\"Dia nandevina an' i Abnera tao Hebrona izy ireo; ary ny mpanjaka nanandratra ny feony nitomany teo amin' ny fasan' i Abnera, dia nitomany ny vahoaka rehetra.\""
-    },
-    {
-      "v": 33,
-      "text": "Ary nalahelo an' i Abnera ny mpanjaka ka nanao hoe: Tahaka ny fahafatesan' ny adala va no nahafatesan' i Abnera?"
-    },
-    {
-      "v": 34,
-      "text": "\"Ny tananao tsy nifatotra, ary ny tongotrao tsy nigadra; fa tahaka ny fahalavoan' ny olona izay asian' ny ratsy fanahy no nahalavoanao. Ary ny vahoaka rehetra dia mbola nitomany azy indray.\""
-    },
-    {
-      "v": 35,
-      "text": "Ary rehefa avy ny vahoaka rehetra hampihinan-kanina an' i Davida raha mbola antoandro, dia nianiana i Davida hoe: Hataon' Andriamanitra amiko anie izany, eny, mihoatra noho izany aza, raha mba hitendry hanina na inona na inona akory aho mandra-pilentiky ny masoandro."
-    },
-    {
-      "v": 36,
-      "text": "\"Ary azon' ny vahoaka rehetra ny hevitr' izany ka nankasitrahany; dia tahaka ny nankasitrahany izay rehetra nataon' ny mpanjaka.\""
-    },
-    {
-      "v": 37,
-      "text": "Ka dia fantatry ny vahoaka rehetra sy ny Isiraely rehetra tamin' izany andro izany fa tsy avy tamin' ny mpanjaka no nahafaty an' i Abnera, zanak' i Nera."
-    },
-    {
-      "v": 38,
-      "text": "Ary hoy ny mpanjaka tamin' ny mpanompony: Tsy fantatrareo va fa komandy sady lehilahy malaza no lavo androany tamin' ny Isiraely?"
-    },
-    {
-      "v": 39,
-      "text": "\"Ary tsy mbola manan-kery loatra aho izao, na dia mpanjaka efa voahosotra aza; ary ireo lehilahy zanak' i Zeroia ireo dia maheri-sata loatra amiko; Jehovah anie hamaly izay nanao izao ratsy izao araka ny ratsy nataony.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary naharitra ela ny adin' ny tamingan' i Saoly sy ny tamingan' i Davida, nefa Davida nihanahery, fa ny tamingan' i Saoly kosa nihaosa dia nihaosa.",
+    "2": "Ary Davida niteraka zazalahy tao Hebrona; koa Amnona, tamin' i Ahinoama Jezirelita, no lahimatoany;",
+    "3": "Ary Kileaba, tamin' i Abigaila, ilay novinadin' i Nabala Karmelita, no lahiaivo; ary ny fahatelo dia Absaloma, zanak' i Maka, zanakavavin' i Talmay, mpanjakan' i Gesora;",
+    "4": "Ary ny fahefatra dia Adonia, zanak' i Hagita; ary ny fahadimy dia Sefatia, zanak' i Abitala;",
+    "5": "Ary ny fahenina dia Jitreama, tamin' i Egla, vadin' i Davida. Ireo no naterak' i Davida tao Hebrona.",
+    "6": "Ary izao no niseho, raha mbola niady ny tamingan' i Davida sy ny tamingan' i Saoly, i Abnera dia nampiseho hery niandany tamin' ny tamingan' i Saoly.",
+    "7": "Ary Saoly nanana vaditsindrano, Rizpa no anarany, zanakavavin' i Aia. Kanefa Isboseta niteny tamin' i Abnera hoe: Nahoana no nalainao ny vaditsindranon' ikaky?",
+    "8": "Dia tezitra mafy Abnera noho ny tenin' Isboseta, ka hoy izy: Lohan' alika no miandany amin' ny Joda va aho? He, izato izaho manisy soa ny tamingan' i Saoly rainao sy ny rahalahiny sy ny sakaizany izao, ka tsy nanolotra anao ho eo an-tanan' i Davida, nefa helohinao aho izao noho ny amin' io vehivavy io?",
+    "9": "Hataon' Andriamanitra amin' i Abnera anie izany, eny, mihoatra noho izany aza, raha tsy hataoko aminy araka ny nianianan' i Jehovah tamin' i Davida,",
+    "10": "Ka hampiala ny fanjakana amin' ny tamingan' i Saoly aho ary hampitoetra ny sezafiandrianan' i Davida amin' ny Isiraely sy amin' ny Joda hatrany Dana ka hatrany Beri-sheba.",
+    "11": "Dia tsy nahavaly an' i Abnera intsony izy noho ny tahony azy.",
+    "12": "Ary Abnera nandefa iraka avy taminy nankany amin' i Davida nanao hoe: An' iza ny tany? Ary koa hoe: Manaova fanekena amiko, ary, indro, ny tanako homba anao hitondra ny Isiraely rehetra ho anao.",
+    "13": "Dia hoy izy: Tsara izany; hanao fanekena aminao aho, kanefa zavatra iray loha no angatahiko aminao: tsy hahazo mahita ny tavako ianao, raha tsy entinao aty amiko aloha i Mikala, zanakavavin' i Saoly rehefa avy hihaona amiko ianao.",
+    "14": "Ary Davida nandefa iraka nankany amin' Isboseta, zanakalahin' i Saoly, hanao hoe: Omeo ahy Mikala vadiko, izay efa nifanekena ho vadiko tamin' ny saron-tsotsoky ny Filistina zato lahy.",
+    "15": "Ary Isboseta naniraka naka an' i Mikala tany amin' i Paltiela vadiny, zanak' i Laisy.",
+    "16": "Ary nanaraka azy ny vadin-dravehivavy ka nitomany teny aoriany hatrany Bahorima. Fa hoy Abnera taminy: Mandehana miverina. Dia niverina izy.",
+    "17": "Ary Abnera efa niteny tamin' ny loholon' ny Isiraely hoe: Efa ela no nitadiavanareo an' i Davida ho mpanjakanareo;",
+    "18": "Koa tanteraho izany ankehitriny, fa Jehovah efa nilaza an' i Davida hoe: Amin' ny tanan' i Davida mpanompoko no hamonjeko ny Isiraely oloko ho afaka amin' ny tanan' ny Filistina sy amin' ny tanan' ny fahavalony rehetra.",
+    "19": "Ary Abnera efa niteny tamin' ny Benjamita koa, ary lasa koa Abnera hilaza amin' i Davida ao Hebrona, izay rehetra heverin' ny Isiraely ho tsara sy izay heverin' ny ankohonan' i Benjamina manontolo ho tsara.",
+    "20": "Dia tonga tany amin' i Davida tao Hebrona i Abnera sy ny olona roapolo lahy nanaraka azy. Ary nanao fanasana ho an' i Abnera sy ny olona nanaraka azy i Davida.",
+    "21": "Ary hoy Abnera tamin' i Davida: Hiainga aho, dia handeha hamory ny Isiraely rehetra ho ety aminao mpanjaka tompoko, mba hanaovany fanekena aminao ary hanjakanao amin' izay rehetra irin' ny fonao. Ary Davida nampandeha an' i Abnera; ka dia lasa soa aman-tsara izy.",
+    "22": "Ary, indreo tonga ny mpanompon' i Davida sy Joaba avy nitoha ka nitondra babo be niaraka taminy; ary efa tsy teo amin' i Davida tao Hebrona intsony i Abnera, fa efa nalefany izy, ka dia lasa soa aman-tsara.",
+    "23": "Nony tonga Joaba sy ny miaramila rehetra izay nanaraka azy, dia nisy nanambara tamin' i Joaba hoe: Tonga tao amin' ny mpanjaka i Abnera, zanak' i Nera, nefa nalefany izy, ka dia lasa soa aman-tsara.",
+    "24": "Ary nankao amin' ny mpanjaka Joaba ka nanao hoe: Inona no nataonao? Nahoana no efa tonga teto aminao i Abnera ka nalefanao fotsiny, ka dia afaka soa aman-tsara izy?",
+    "25": "Fantatrao anefa ny amin' i Abnera, zanak' i Nera, fa hamitaka anao no nahatongavany, hahalalany ny ivoahanao sy ny idiranao ary hahalalany izay rehetra ataonao.",
+    "26": "Ary rehefa nivoaka avy tao amin' i Davida i Joaba dia nandefa iraka hanaraka an' i Abnera, ary ireo nitondra azy niverina avy any amin' ny lavaka famorian-drano Siraha, nefa tsy fantatr' i Davida izany.",
+    "27": "Ary nony niverina tao Hebrona i Abnera, dia nentin' i Joaba nitanila tao anaty vavahady hiresaka aminy mangingina, kanjo nasiany tamin' ny taolan-tehezany fahadimy ka matiny ho todin' ny ràn' i Asahela rahalahiny.",
+    "28": "Ary rehefa afaka izany, raha nahare izany Davida, dia hoy izy: Tsy manan-keloka mandrakizay eo anatrehan' i Jehovah aho sy ny fanjakako ny amin' ny ràn' i Abnera, zanak' i Nera.",
+    "29": "Hitsingerina amin' ny lohan' i Joaba sy ny tarana-drainy rehetra anie ny todin' izany; ary tsy ho tapaka amin' ny taranak' i Joaba anie ny marary mitsika, na ny boka, na ny mamahana amin' ny tehina, na ny lavon-tsabatra, na ny tsy manan-kohanina.",
+    "30": "Toy izany no namonoan' i Joaba sy Abisay rahalahiny an' i Abnera noho ny namonoany an' i Asahela rahalahiny tao Gibeona tamin' ny ady.",
+    "31": "Ary hoy Davida tamin' i Joaba sy ny olona rehetra izay teo aminy: Triaro ny fitafianareo, ary misikìna lamba fisaonana, ka aoka hisaona eo alohan' i Abnera ianareo. Ary Davida mpanjaka nanaraka ny tranovorona.",
+    "32": "Dia nandevina an' i Abnera tao Hebrona izy ireo; ary ny mpanjaka nanandratra ny feony nitomany teo amin' ny fasan' i Abnera, dia nitomany ny vahoaka rehetra.",
+    "33": "Ary nalahelo an' i Abnera ny mpanjaka ka nanao hoe: Tahaka ny fahafatesan' ny adala va no nahafatesan' i Abnera?",
+    "34": "Ny tananao tsy nifatotra, ary ny tongotrao tsy nigadra; fa tahaka ny fahalavoan' ny olona izay asian' ny ratsy fanahy no nahalavoanao. Ary ny vahoaka rehetra dia mbola nitomany azy indray.",
+    "35": "Ary rehefa avy ny vahoaka rehetra hampihinan-kanina an' i Davida raha mbola antoandro, dia nianiana i Davida hoe: Hataon' Andriamanitra amiko anie izany, eny, mihoatra noho izany aza, raha mba hitendry hanina na inona na inona akory aho mandra-pilentiky ny masoandro.",
+    "36": "Ary azon' ny vahoaka rehetra ny hevitr' izany ka nankasitrahany; dia tahaka ny nankasitrahany izay rehetra nataon' ny mpanjaka.",
+    "37": "Ka dia fantatry ny vahoaka rehetra sy ny Isiraely rehetra tamin' izany andro izany fa tsy avy tamin' ny mpanjaka no nahafaty an' i Abnera, zanak' i Nera.",
+    "38": "Ary hoy ny mpanjaka tamin' ny mpanompony: Tsy fantatrareo va fa komandy sady lehilahy malaza no lavo androany tamin' ny Isiraely?",
+    "39": "Ary tsy mbola manan-kery loatra aho izao, na dia mpanjaka efa voahosotra aza; ary ireo lehilahy zanak' i Zeroia ireo dia maheri-sata loatra amiko; Jehovah anie hamaly izay nanao izao ratsy izao araka ny ratsy nataony."
+  }
 }

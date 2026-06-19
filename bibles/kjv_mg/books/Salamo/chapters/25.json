@@ -1,93 +1,28 @@
 {
+  "book": "Salamo",
   "chapter": 25,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Salamo nataon' i Davida.]  AMINAO, Jehovah ô, no anandratako ny fanahiko."
-    },
-    {
-      "v": 2,
-      "text": "\"Andriamanitro ô, Ianao no itokiako, aoka tsy ho menatra aho; aoka tsy handresy ahy ny fahavaloko.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Eny, aoka tsy hisy ho menatra izay miandry Anao; fa izay mandika foana ny lalàna no aoka ho menatra.\""
-    },
-    {
-      "v": 4,
-      "text": "Asehoy ahy ny lalanao, Jehovah ô! Ampianaro ahy ny lalanao."
-    },
-    {
-      "v": 5,
-      "text": "\"Tariho amin' ny fahamarinanao aho, ka ampianaro; fa Ianao no Andriamanitry ny famonjena ahy; Ianao no andrasako mandritra ny andro.\""
-    },
-    {
-      "v": 6,
-      "text": "Tsarovy ny antranao sy ny indrafonao, Jehovah ô, fa hatrizay hatrizay ireny."
-    },
-    {
-      "v": 7,
-      "text": "\"Aza tsarovanao ny fahotan' ny fahatanorako sy ny fahadisoako; fa aoka ho araka ny famindramponao no hahatsiarovanao ahy, noho ny fahatsaranao, Jehovah ô.\""
-    },
-    {
-      "v": 8,
-      "text": "Tsara sy mahitsy Jehovah, ka izany no ampianarany ny mpanota ny lalany."
-    },
-    {
-      "v": 9,
-      "text": "\"Mitarika ny mpandefitra amin' ny marina Izy; ary ampianariny ny lalany ny mpandefitra.\""
-    },
-    {
-      "v": 10,
-      "text": "Ny lalan' i Jehovah rehetra dia famindrampo sy fahamarinana amin' izay mitandrina ny fanekeny sy ny teni-vavolombelony."
-    },
-    {
-      "v": 11,
-      "text": "Noho ny anaranao, Jehovah ô, dia mamelà ny heloko, fa lehibe izany."
-    },
-    {
-      "v": 12,
-      "text": "Iza no lehilahy matahotra an' i Jehovah? Izy no hampianariny izay lalana tokony hofidiny."
-    },
-    {
-      "v": 13,
-      "text": "\"Ny fanahiny hitoetra amin' ny soa; ary ny taranany handova ny tany.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ny zava-miafin' i Jehovah dia amin' izay matahotra azy; ary hasehony azy ny fanekeny.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Mijery an' i Jehovah mandrakariva ny masoko; fa Izy no hanafaka ny tongotro amin' ny fandrika harato.\""
-    },
-    {
-      "v": 16,
-      "text": "Todiho aho, ka amindrao fo, fa irery aho sady ory."
-    },
-    {
-      "v": 17,
-      "text": "\"Ny fahorian' ny foko efa mihalehibe; afaho amin' ny fahoriako aho.\""
-    },
-    {
-      "v": 18,
-      "text": "Jereo ny fahoriako sy ny fanaintainako ka mamelà ny fahotako rehetra."
-    },
-    {
-      "v": 19,
-      "text": "\"Jereo ny fahavaloko, fa maro izy ireny; ary loza ny fankahalany ahy.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Arovy ny fanahiko, ka vonjeo aho; aoka tsy ho menatra aho, fa ianao no itokiako.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Aoka ny tsy fisian-tsiny sy ny fahitsiana no hiaro ahy; fa miandry Anao aho.\""
-    },
-    {
-      "v": 22,
-      "text": "Andriamanitra ô! Avoty Isiraely amin' ny fahoriany rehetra."
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida.]  AMINAO, Jehovah ô, no anandratako ny fanahiko.",
+    "2": "Andriamanitro ô, Ianao no itokiako, aoka tsy ho menatra aho; aoka tsy handresy ahy ny fahavaloko.",
+    "3": "Eny, aoka tsy hisy ho menatra izay miandry Anao; fa izay mandika foana ny lalàna no aoka ho menatra.",
+    "4": "Asehoy ahy ny lalanao, Jehovah ô! Ampianaro ahy ny lalanao.",
+    "5": "Tariho amin' ny fahamarinanao aho, ka ampianaro; fa Ianao no Andriamanitry ny famonjena ahy; Ianao no andrasako mandritra ny andro.",
+    "6": "Tsarovy ny antranao sy ny indrafonao, Jehovah ô, fa hatrizay hatrizay ireny.",
+    "7": "Aza tsarovanao ny fahotan' ny fahatanorako sy ny fahadisoako; fa aoka ho araka ny famindramponao no hahatsiarovanao ahy, noho ny fahatsaranao, Jehovah ô.",
+    "8": "Tsara sy mahitsy Jehovah, ka izany no ampianarany ny mpanota ny lalany.",
+    "9": "Mitarika ny mpandefitra amin' ny marina Izy; ary ampianariny ny lalany ny mpandefitra.",
+    "10": "Ny lalan' i Jehovah rehetra dia famindrampo sy fahamarinana amin' izay mitandrina ny fanekeny sy ny teni-vavolombelony.",
+    "11": "Noho ny anaranao, Jehovah ô, dia mamelà ny heloko, fa lehibe izany.",
+    "12": "Iza no lehilahy matahotra an' i Jehovah? Izy no hampianariny izay lalana tokony hofidiny.",
+    "13": "Ny fanahiny hitoetra amin' ny soa; ary ny taranany handova ny tany.",
+    "14": "Ny zava-miafin' i Jehovah dia amin' izay matahotra azy; ary hasehony azy ny fanekeny.",
+    "15": "Mijery an' i Jehovah mandrakariva ny masoko; fa Izy no hanafaka ny tongotro amin' ny fandrika harato.",
+    "16": "Todiho aho, ka amindrao fo, fa irery aho sady ory.",
+    "17": "Ny fahorian' ny foko efa mihalehibe; afaho amin' ny fahoriako aho.",
+    "18": "Jereo ny fahoriako sy ny fanaintainako ka mamelà ny fahotako rehetra.",
+    "19": "Jereo ny fahavaloko, fa maro izy ireny; ary loza ny fankahalany ahy.",
+    "20": "Arovy ny fanahiko, ka vonjeo aho; aoka tsy ho menatra aho, fa ianao no itokiako.",
+    "21": "Aoka ny tsy fisian-tsiny sy ny fahitsiana no hiaro ahy; fa miandry Anao aho.",
+    "22": "Andriamanitra ô! Avoty Isiraely amin' ny fahoriany rehetra."
+  }
 }

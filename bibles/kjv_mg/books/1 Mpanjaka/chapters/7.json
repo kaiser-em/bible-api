@@ -1,209 +1,57 @@
 {
+  "book": "1 Mpanjaka",
   "chapter": 7,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary telo ambin' ny folo taona no nanaovan' i Solomona ny tranony manokana, dia vitany ny tranony rehetra."
-    },
-    {
-      "v": 2,
-      "text": "Nanao ilay trano alan' i Libanona koa izy: zato hakiho ny lavany, dimampolo hakiho ny sakany, ary telopolo hakiho ny haavony, teo ambonin' ny andry sedera efatra andalana mbamin' ny rairainy sedera teo ambonin'ny andry."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary ireo efitrano teo ambonin' ny andry notafoany hazo sedera; ary ny isany dia dimy ambin' ny folo isan' andalana, ka dimy amby efapolo izy rehetra.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary ny rairainy dia telo andalana, ary ny varavarankely dia nifanandrify intelo."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary ny varavarana rehetra sy ny tolàna dia natao efajoro; ary ny varavarankely nifanandrify intelo.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary dia nataony koa ny lavarangana maro andry; dimampolo hakiho ny lavany, ary telopolo hakiho ny sakany; nisy koa ny lavarangana fidirana teo anoloany; ary nisy andry sy tokonana koa teo anoloan' io.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary nataony koa ny lavarangana hitoeran' ny sezafiandrianana izay hitsarany, dia ny lavarangana fitsarana; ary nataony hazo sedera avokoa ny gorodona rehetra.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary ny tranony izay nitoerany teo amin' ny kianja hafa tao anatinatiny kokoa noho ny lavarangana fidirana dia nitovy rafitra tamin' io koa.Ary Solomona nanao trano tahaka izany lavarangana fidirana izany koa ho an' ny zanakavavin' i Farao, izay efa nampakariny ho vady."
-    },
-    {
-      "v": 9,
-      "text": "Izany rehetra izany dia vato lafo vidy avokoa voapaika araka ny marika, sady vaotsofa ny atiny sy ny ivelany, hatramin' ny fanambaniny ka hatramin' ny tongolany, ary teo ivelany koa hatramin' ny kianja lehibe."
-    },
-    {
-      "v": 10,
-      "text": "Ary vato lafo vidy sady lehibe ny fanorenana, dia vato folo hakiho sy vato valo hakiho"
-    },
-    {
-      "v": 11,
-      "text": "\"Ary teo amboniny nisy vato lafo vidy voapaika araka ny marika sy hazo sedera;\""
-    },
-    {
-      "v": 12,
-      "text": "Ary manodidina ny kianja lehibe dia nasiany vato voapaika telo andalana sy hazo sedera iray andalana, tahaka ny amin' ny kianja anatiny amin' ny tranon' i Jehovah sy amin' ny lavarangana fidirana amin' ny trano."
-    },
-    {
-      "v": 13,
-      "text": "Ary Solomona mpanjaka naniraka haka an' i Hirama avy tany Tyro."
-    },
-    {
-      "v": 14,
-      "text": "\"Zanaky ny vehivavy mpitondratena tamin' ny fokon' i Naftaly izy, nefa rainy dia lehilahy Tyriana, mpiasa varahina; feno fahendrena sy fahiratan-tsaina ary fahaizana izay hahavitany ny asa varahina rehetra. Dia tonga tao amin' i Solomona mpanjaka Hirama ka nanao izay asa rehetra tao aminy.\""
-    },
-    {
-      "v": 15,
-      "text": "Dia nanao ny andry varahina roa izy: valo ambin' ny folo hakiho avy ny haavony, ary roa ambin' ny folo hakiho ny manodidina azy."
-    },
-    {
-      "v": 16,
-      "text": "Ary nanao kapitaly varahina roa an' idina izy hatao eo amin' ny tampon' ny andry: dimy hakiho avy ny haavony,"
-    },
-    {
-      "v": 17,
-      "text": "Ary harato sy fesitaonina miolana amin' ny kapitaly izay teo amin' ny tampon' ny andry avy: fito amin' ny kapitaly iray ary fito koa amin' ny kapitaly iray."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary nanao ny andry izy, ary nisy roa andalana manodidina tamin' ny asa harato iray, hafono ny kapitaly izay teo an-tampon' ny andry misy ampongabendanitra; ary toy izany koa no nataony tamin' ny kapitaly iray\""
-    },
-    {
-      "v": 19,
-      "text": "Ary ny kapitaly izay teo an-tampon' ny andry dia nataony mitarehim-boninkazo lilia tahaka ny amin' ny lavarangana fidirana, ary efatra hakiho ny haavony."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary ny kapitaly teo an-tampon' ny andry roa dia nisy ampongabendanitra teo ambony koa, teo akaikin' ny kibony izay anatin' ny harato; ary nisy ampongabendanitra roanjato nifanandalana nanodidina ny kapitaly faharoa.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Ary ny andry dia natsangany teo amin' ny lavarangana fidirana amin' ny tempoly; ary ny andry ankavanana natsangany, ka ny anarany nataony hoe Jakina; ary ny andry ankavia natsangany ka ny anarany nataony hoe Boaza.\""
-    },
-    {
-      "v": 22,
-      "text": "Ary nisy natao mitarehim-boninkazo lilia teo an-tampon' ny andry.Toy izany no nahavitana ny asa tamin' ny andry."
-    },
-    {
-      "v": 23,
-      "text": "Ary nanao ny tavin-drano an' idina boribory lehibe izy, ka folo hakiho ny halehiben' ny vavany, ary dimy hakiho ny haavony, ary telopolo hakiho ny manodidina azy."
-    },
-    {
-      "v": 24,
-      "text": "Ary tambanin' ny molotry ny tavin-drano lehibe manodidina nisy sarim-boantango manodidina azy, folo amin' ny iray hakiho manodidina ny tavin-drano lehibe, ary naidiny ho roa andalana ny sarim-boantango sady niara-nataony an' idina tamin' ny tavin-drano."
-    },
-    {
-      "v": 25,
-      "text": "\"Ny tavin-drano dia nipetraka tambonin' ny sarin' omby roa ambin' ny folo; ny telo nanatrika ny avaratra, ny telo nanatrika ny andrefana, ny telo nanatrika ny atsimo, ary ny telo nanatrika ny atsinanana; ary ny tavin-drano lehibe dia teo ambonin' ireo, ary niady vody izy rehetra.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ary ny hateviny dia vodivoam-pelatanana, ary ny molony nataony tahaka ny molotry ny kapoaka, dia tahaka ny vonin' ny lilia; ary nahalàny roa arivo bata izy.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Nanao ny fitoeran-tavin-drano varahina folo izy; efatra hakiho ny lavan' ny anankiray, ary efatra hakiho koa ny sakany, ary telo hakiho ny haavony.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary toy izao ny asa amin' ireo fitoeran-tavin-drano ireo: nisy kobany izy, ary ireo kobany ireo dia teo anatin' ny sisiny;\""
-    },
-    {
-      "v": 29,
-      "text": "\"Ary tamin' ny kobany izay nohodidinin' ny sisiny dia nisy sarin-diona sy omby ary kerobima; ary teo ambonin' ny sisiny koa nisy faladiany; ary teo ambanin' ny sarin-diona sy omby nisy fesitaonina mihantona.\""
-    },
-    {
-      "v": 30,
-      "text": "\"Ary isaky ny fanambaniny dia nisy kodiarana varahina efatra sy tanan-kodiarana varahina, ary ny zorony efatra dia nisy sorony; teo ambanin' ny tavin-drano no nisy ny sorony an' idina manandrify ny fesitaonina.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Ary ny vavan' ny fitoeran-tavin-drano dia teo anatin' ny kapitaliny, ary mbola nisy iray hakiho teo ambonin' io; ary ny vavany dia hakiho iray sy sasany sady boribory tahaka ny amin' ny faladia, ary tamin' ny vavany koa nisy soratra, ary ny kobany teo aminy dia efa-joro, fa tsy boribory.\""
-    },
-    {
-      "v": 32,
-      "text": "\"Ary ny kodiarany efatra dia teo ambanin' ny kobany; ary ny fihazonana ny tanan-kodiarana dia nikambana tamin' ny fitoeran-tavin-drano ihany; ary hakiho iray sy sasany ny haavon' ny kodiarana.\""
-    },
-    {
-      "v": 33,
-      "text": "Ary ny fomban' ny kodiarana dia tahaka ny amin' ny kodiaran-kalesy: ny tanany sy ny boriboriny manodidina azy sy ny tanamasoandrony ary ny foitrany dia nataony an' idina avokoa"
-    },
-    {
-      "v": 34,
-      "text": "Ary nisy sorony efatra tamin' ny zorony efatra amin' ny fitoeran-tavin-drano iray, sady nitranga avy teo amin' ny fitoeran-tavin-drano ireo."
-    },
-    {
-      "v": 35,
-      "text": "\"Ary teo an-tampon' ny fitoeran-tavin-drano dia nisy boribory manodidina, irain-jehy ny haavony; ary teo an-tampon' ny fitoeran-tavin-drano koa ny fitombenany sy ny kobany dia natao an' idina iray aminy.\""
-    },
-    {
-      "v": 36,
-      "text": "Fa ny koban' ny sorony sy ny kobany hafa nosoratany nasiany sarin' ny kerobima sy liona ary hazo palma, araka izay nahafeno azy avy sady nasiany fesitaona manodidina."
-    },
-    {
-      "v": 37,
-      "text": "Tahaka izany no nanaovany ny fitoeran-tavin-drano folo: samy natao an' idina avokoa, ary nitovy halehibe sy nitovy tarehy izy."
-    },
-    {
-      "v": 38,
-      "text": "\"Ary nanao tavin-drano varahina folo koa izy; ny tavin-drano dia samy nahalany efapolo bata avy; ary samy efatra hakiho avy ny tavin-drano; ary tavin-drano iray avy no tamin' ny fitoerany folo.\""
-    },
-    {
-      "v": 39,
-      "text": "Ary nametraka ny fitoeran-tavin-drano dimy teo ankavanan' ny trano izy, ary ny dimy teo ankavian' ny trano, ary ilay tavin-drano lehibe nataony teo ankavanan' ny trano, dia teo atsimo-atsinanana."
-    },
-    {
-      "v": 40,
-      "text": "\"Ary Hirama nanao ny tavin-drano sy ny sotron' afo ary ny lovia famafazana; ka dia vitan' i Hirama ny asa rehetra izay nataony ho an' i Solomona mpanjaka ho amin' ny tranon' i Jehovah;\""
-    },
-    {
-      "v": 41,
-      "text": "Dia ny andry roa sy ny boriboriny roa amin' ny kapitaly izay teny an-tampon' ny andry roa, sy ny harato roa izay hafono ny boriboriny roa amin' ny kapitaly izay teo an-tampon' ny andry avy,"
-    },
-    {
-      "v": 42,
-      "text": "Ary ny sarin' ampongabendanitra efajato ho amin' ny harato roa, ampongabendanitra roa andalana ho amin' ny harato iray hafono ny boriboriny roa amin' ny kapitaly izay teny an-tampon' ny andry avy,"
-    },
-    {
-      "v": 43,
-      "text": "Ary ny fitoeran-tavin-drano folo sy ny tavin-drano folo ho eo ambonin' ny fitoerany,"
-    },
-    {
-      "v": 44,
-      "text": "Ary ny tavin-drano lehibe iray sy ny sarin' omby roa ambin' ny folo teo ambaniny,"
-    },
-    {
-      "v": 45,
-      "text": "Ary ny vilany fandraofan-davenona sy ny sotron' afo ary ny lovia famafazana. Ary ireo fanaka rehetra ireo, izay nataon' i Hirama ho an' i Solomona mpanjaka ho amin' ny tranon' i Jehovah, dia varahina manganohano avokoa."
-    },
-    {
-      "v": 46,
-      "text": "Teo amin' ny tany amoron' i Jordana no nanaovan' ny mpanjaka an' idina azy tamin' ny tanimanga teo anelanelan' i Sokota sy Zaretana."
-    },
-    {
-      "v": 47,
-      "text": "\"Ary tsy nolanjain' i Solomona ny fanaka rehetra satria be loatra izany; ary tsy nozahana izay lanjan' ny varahina.\""
-    },
-    {
-      "v": 48,
-      "text": "Ary Solomona nanao ny fanaka rehetra izay ao amin' ny tranon' i Jehovah: ny alitara volamena sy ny latabatra volamena, izay fitoeran' ny mofo aseho."
-    },
-    {
-      "v": 49,
-      "text": "\"Ary ny fanaovanjiro, dimy amin' ny ankavanana ary dimy amin' ny ankavia, teo anoloan' ny efitra anatiny, dia samy volamena madio; ary ny voniny sy ny lela fanaovanjiro ary ny hetin-jiro dia volamena koa;\""
-    },
-    {
-      "v": 50,
-      "text": "\"Ary ny tsangambava sy ny antsy sy ny vilia famafazana sy ny sotro sy ny fitoeran-davenon-jiro dia volamena madio; ary ny vavin-tsavily ho amin' ny lela varavaran' ny efitra anatiny, dia ny fitoerana masina indrindra sy ho amin' ny lela-varavaran' ny tempoly dia volamena.\""
-    },
-    {
-      "v": 51,
-      "text": "\"Toy izany no nahavitana ny asa rehetra nataon' i Solomona mpanjaka ho amin' ny tranon' i Jehovah; ary nampidirin' i Solomona ny zavatra izay efa nohamasinin' i Davida rainy, dia ny volafotsy sy ny volamena ary ny fanaka, ka nataony tao amin' ny rakitry ny tranon' i Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary telo ambin' ny folo taona no nanaovan' i Solomona ny tranony manokana, dia vitany ny tranony rehetra.",
+    "2": "Nanao ilay trano alan' i Libanona koa izy: zato hakiho ny lavany, dimampolo hakiho ny sakany, ary telopolo hakiho ny haavony, teo ambonin' ny andry sedera efatra andalana mbamin' ny rairainy sedera teo ambonin'ny andry.",
+    "3": "Ary ireo efitrano teo ambonin' ny andry notafoany hazo sedera; ary ny isany dia dimy ambin' ny folo isan' andalana, ka dimy amby efapolo izy rehetra.",
+    "4": "Ary ny rairainy dia telo andalana, ary ny varavarankely dia nifanandrify intelo.",
+    "5": "Ary ny varavarana rehetra sy ny tolàna dia natao efajoro; ary ny varavarankely nifanandrify intelo.",
+    "6": "Ary dia nataony koa ny lavarangana maro andry; dimampolo hakiho ny lavany, ary telopolo hakiho ny sakany; nisy koa ny lavarangana fidirana teo anoloany; ary nisy andry sy tokonana koa teo anoloan' io.",
+    "7": "Ary nataony koa ny lavarangana hitoeran' ny sezafiandrianana izay hitsarany, dia ny lavarangana fitsarana; ary nataony hazo sedera avokoa ny gorodona rehetra.",
+    "8": "Ary ny tranony izay nitoerany teo amin' ny kianja hafa tao anatinatiny kokoa noho ny lavarangana fidirana dia nitovy rafitra tamin' io koa.Ary Solomona nanao trano tahaka izany lavarangana fidirana izany koa ho an' ny zanakavavin' i Farao, izay efa nampakariny ho vady.",
+    "9": "Izany rehetra izany dia vato lafo vidy avokoa voapaika araka ny marika, sady vaotsofa ny atiny sy ny ivelany, hatramin' ny fanambaniny ka hatramin' ny tongolany, ary teo ivelany koa hatramin' ny kianja lehibe.",
+    "10": "Ary vato lafo vidy sady lehibe ny fanorenana, dia vato folo hakiho sy vato valo hakiho",
+    "11": "Ary teo amboniny nisy vato lafo vidy voapaika araka ny marika sy hazo sedera;",
+    "12": "Ary manodidina ny kianja lehibe dia nasiany vato voapaika telo andalana sy hazo sedera iray andalana, tahaka ny amin' ny kianja anatiny amin' ny tranon' i Jehovah sy amin' ny lavarangana fidirana amin' ny trano.",
+    "13": "Ary Solomona mpanjaka naniraka haka an' i Hirama avy tany Tyro.",
+    "14": "Zanaky ny vehivavy mpitondratena tamin' ny fokon' i Naftaly izy, nefa rainy dia lehilahy Tyriana, mpiasa varahina; feno fahendrena sy fahiratan-tsaina ary fahaizana izay hahavitany ny asa varahina rehetra. Dia tonga tao amin' i Solomona mpanjaka Hirama ka nanao izay asa rehetra tao aminy.",
+    "15": "Dia nanao ny andry varahina roa izy: valo ambin' ny folo hakiho avy ny haavony, ary roa ambin' ny folo hakiho ny manodidina azy.",
+    "16": "Ary nanao kapitaly varahina roa an' idina izy hatao eo amin' ny tampon' ny andry: dimy hakiho avy ny haavony,",
+    "17": "Ary harato sy fesitaonina miolana amin' ny kapitaly izay teo amin' ny tampon' ny andry avy: fito amin' ny kapitaly iray ary fito koa amin' ny kapitaly iray.",
+    "18": "Ary nanao ny andry izy, ary nisy roa andalana manodidina tamin' ny asa harato iray, hafono ny kapitaly izay teo an-tampon' ny andry misy ampongabendanitra; ary toy izany koa no nataony tamin' ny kapitaly iray",
+    "19": "Ary ny kapitaly izay teo an-tampon' ny andry dia nataony mitarehim-boninkazo lilia tahaka ny amin' ny lavarangana fidirana, ary efatra hakiho ny haavony.",
+    "20": "Ary ny kapitaly teo an-tampon' ny andry roa dia nisy ampongabendanitra teo ambony koa, teo akaikin' ny kibony izay anatin' ny harato; ary nisy ampongabendanitra roanjato nifanandalana nanodidina ny kapitaly faharoa.",
+    "21": "Ary ny andry dia natsangany teo amin' ny lavarangana fidirana amin' ny tempoly; ary ny andry ankavanana natsangany, ka ny anarany nataony hoe Jakina; ary ny andry ankavia natsangany ka ny anarany nataony hoe Boaza.",
+    "22": "Ary nisy natao mitarehim-boninkazo lilia teo an-tampon' ny andry.Toy izany no nahavitana ny asa tamin' ny andry.",
+    "23": "Ary nanao ny tavin-drano an' idina boribory lehibe izy, ka folo hakiho ny halehiben' ny vavany, ary dimy hakiho ny haavony, ary telopolo hakiho ny manodidina azy.",
+    "24": "Ary tambanin' ny molotry ny tavin-drano lehibe manodidina nisy sarim-boantango manodidina azy, folo amin' ny iray hakiho manodidina ny tavin-drano lehibe, ary naidiny ho roa andalana ny sarim-boantango sady niara-nataony an' idina tamin' ny tavin-drano.",
+    "25": "Ny tavin-drano dia nipetraka tambonin' ny sarin' omby roa ambin' ny folo; ny telo nanatrika ny avaratra, ny telo nanatrika ny andrefana, ny telo nanatrika ny atsimo, ary ny telo nanatrika ny atsinanana; ary ny tavin-drano lehibe dia teo ambonin' ireo, ary niady vody izy rehetra.",
+    "26": "Ary ny hateviny dia vodivoam-pelatanana, ary ny molony nataony tahaka ny molotry ny kapoaka, dia tahaka ny vonin' ny lilia; ary nahalàny roa arivo bata izy.",
+    "27": "Nanao ny fitoeran-tavin-drano varahina folo izy; efatra hakiho ny lavan' ny anankiray, ary efatra hakiho koa ny sakany, ary telo hakiho ny haavony.",
+    "28": "Ary toy izao ny asa amin' ireo fitoeran-tavin-drano ireo: nisy kobany izy, ary ireo kobany ireo dia teo anatin' ny sisiny;",
+    "29": "Ary tamin' ny kobany izay nohodidinin' ny sisiny dia nisy sarin-diona sy omby ary kerobima; ary teo ambonin' ny sisiny koa nisy faladiany; ary teo ambanin' ny sarin-diona sy omby nisy fesitaonina mihantona.",
+    "30": "Ary isaky ny fanambaniny dia nisy kodiarana varahina efatra sy tanan-kodiarana varahina, ary ny zorony efatra dia nisy sorony; teo ambanin' ny tavin-drano no nisy ny sorony an' idina manandrify ny fesitaonina.",
+    "31": "Ary ny vavan' ny fitoeran-tavin-drano dia teo anatin' ny kapitaliny, ary mbola nisy iray hakiho teo ambonin' io; ary ny vavany dia hakiho iray sy sasany sady boribory tahaka ny amin' ny faladia, ary tamin' ny vavany koa nisy soratra, ary ny kobany teo aminy dia efa-joro, fa tsy boribory.",
+    "32": "Ary ny kodiarany efatra dia teo ambanin' ny kobany; ary ny fihazonana ny tanan-kodiarana dia nikambana tamin' ny fitoeran-tavin-drano ihany; ary hakiho iray sy sasany ny haavon' ny kodiarana.",
+    "33": "Ary ny fomban' ny kodiarana dia tahaka ny amin' ny kodiaran-kalesy: ny tanany sy ny boriboriny manodidina azy sy ny tanamasoandrony ary ny foitrany dia nataony an' idina avokoa",
+    "34": "Ary nisy sorony efatra tamin' ny zorony efatra amin' ny fitoeran-tavin-drano iray, sady nitranga avy teo amin' ny fitoeran-tavin-drano ireo.",
+    "35": "Ary teo an-tampon' ny fitoeran-tavin-drano dia nisy boribory manodidina, irain-jehy ny haavony; ary teo an-tampon' ny fitoeran-tavin-drano koa ny fitombenany sy ny kobany dia natao an' idina iray aminy.",
+    "36": "Fa ny koban' ny sorony sy ny kobany hafa nosoratany nasiany sarin' ny kerobima sy liona ary hazo palma, araka izay nahafeno azy avy sady nasiany fesitaona manodidina.",
+    "37": "Tahaka izany no nanaovany ny fitoeran-tavin-drano folo: samy natao an' idina avokoa, ary nitovy halehibe sy nitovy tarehy izy.",
+    "38": "Ary nanao tavin-drano varahina folo koa izy; ny tavin-drano dia samy nahalany efapolo bata avy; ary samy efatra hakiho avy ny tavin-drano; ary tavin-drano iray avy no tamin' ny fitoerany folo.",
+    "39": "Ary nametraka ny fitoeran-tavin-drano dimy teo ankavanan' ny trano izy, ary ny dimy teo ankavian' ny trano, ary ilay tavin-drano lehibe nataony teo ankavanan' ny trano, dia teo atsimo-atsinanana.",
+    "40": "Ary Hirama nanao ny tavin-drano sy ny sotron' afo ary ny lovia famafazana; ka dia vitan' i Hirama ny asa rehetra izay nataony ho an' i Solomona mpanjaka ho amin' ny tranon' i Jehovah;",
+    "41": "Dia ny andry roa sy ny boriboriny roa amin' ny kapitaly izay teny an-tampon' ny andry roa, sy ny harato roa izay hafono ny boriboriny roa amin' ny kapitaly izay teo an-tampon' ny andry avy,",
+    "42": "Ary ny sarin' ampongabendanitra efajato ho amin' ny harato roa, ampongabendanitra roa andalana ho amin' ny harato iray hafono ny boriboriny roa amin' ny kapitaly izay teny an-tampon' ny andry avy,",
+    "43": "Ary ny fitoeran-tavin-drano folo sy ny tavin-drano folo ho eo ambonin' ny fitoerany,",
+    "44": "Ary ny tavin-drano lehibe iray sy ny sarin' omby roa ambin' ny folo teo ambaniny,",
+    "45": "Ary ny vilany fandraofan-davenona sy ny sotron' afo ary ny lovia famafazana. Ary ireo fanaka rehetra ireo, izay nataon' i Hirama ho an' i Solomona mpanjaka ho amin' ny tranon' i Jehovah, dia varahina manganohano avokoa.",
+    "46": "Teo amin' ny tany amoron' i Jordana no nanaovan' ny mpanjaka an' idina azy tamin' ny tanimanga teo anelanelan' i Sokota sy Zaretana.",
+    "47": "Ary tsy nolanjain' i Solomona ny fanaka rehetra satria be loatra izany; ary tsy nozahana izay lanjan' ny varahina.",
+    "48": "Ary Solomona nanao ny fanaka rehetra izay ao amin' ny tranon' i Jehovah: ny alitara volamena sy ny latabatra volamena, izay fitoeran' ny mofo aseho.",
+    "49": "Ary ny fanaovanjiro, dimy amin' ny ankavanana ary dimy amin' ny ankavia, teo anoloan' ny efitra anatiny, dia samy volamena madio; ary ny voniny sy ny lela fanaovanjiro ary ny hetin-jiro dia volamena koa;",
+    "50": "Ary ny tsangambava sy ny antsy sy ny vilia famafazana sy ny sotro sy ny fitoeran-davenon-jiro dia volamena madio; ary ny vavin-tsavily ho amin' ny lela varavaran' ny efitra anatiny, dia ny fitoerana masina indrindra sy ho amin' ny lela-varavaran' ny tempoly dia volamena.",
+    "51": "Toy izany no nahavitana ny asa rehetra nataon' i Solomona mpanjaka ho amin' ny tranon' i Jehovah; ary nampidirin' i Solomona ny zavatra izay efa nohamasinin' i Davida rainy, dia ny volafotsy sy ny volamena ary ny fanaka, ka nataony tao amin' ny rakitry ny tranon' i Jehovah."
+  }
 }

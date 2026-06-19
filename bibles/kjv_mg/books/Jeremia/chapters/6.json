@@ -1,125 +1,36 @@
 {
+  "book": "Jeremia",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ianareo zanak' i Benjamina, mivoria mba handositra hiala an' i Jerosalema, ary tsofy ao Tekoa ny anjomara, ka manaova tsangan' afo ao Beti-hakerema; fa misy loza sy fandringanana be miposaka avy any avaratra.\""
-    },
-    {
-      "v": 2,
-      "text": "Ny zanakavavin' i Ziona dia nampitoviko amin' ny vehivavy tsara tarehy sy mihantahanta."
-    },
-    {
-      "v": 3,
-      "text": "\"Ao aminy no halehan' ny mpiandry ondry mbamin' ny ondry aman' osiny; haoriny manodidina azy ny lainy, ka samy hihinana eo amin' ny fitoerany avy izy.\""
-    },
-    {
-      "v": 4,
-      "text": "Mivonòna hiady aminy ianareo. Mitsangàna, ka andeha isika hiakatra amin' ny mitataovovonana. Loza ho antsika! fa lasan-davitra ny andro, ka efa mandroso ny aloky ny hariva."
-    },
-    {
-      "v": 5,
-      "text": "Mitsangàna, ka andeha isika hanao latsak' alina, ary aoka horavantsika ny lapany."
-    },
-    {
-      "v": 6,
-      "text": "\"Fa izao no lazain' i Jehovah, Tompon' ny maro: Kapao ny hazo, ary manandrata tovon-tany hamelezana an' i Jerosalema; io ilay tanàna hovaliana, feno fampahoriana ny ao anatiny.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Toy ny loharano mampiboiboika ny ranony no ampiboiboihany ny faharatsiany; herisetra sy fandravana no re ao aminy; eo anatrehako mandrakariva ny alahelo sy ny ratra.\""
-    },
-    {
-      "v": 8,
-      "text": "Minoa anatra ianao, ry Jerosalema, fandrao miombotra miala aminao ny fanahiko, ary fandrao hataoko tany lao ianao, dia tany tsy honenana."
-    },
-    {
-      "v": 9,
-      "text": "\"Izao no lazain' i Jehovah, Tompon' ny maro: Hotsimponina fatratra toy ny fitsimpona voaloboka izay sisa amin' ny Isiraely; avereno ho ao amin' ny harona ny tananao toy ny mpioty voaloboka.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Iza no hilazako sy hanariko mba handrenesany? Indro, ny sofiny dia tsy voafora, ka tsy mahahaino izy; indro ny tenin' i Jehovah dia fandatsana aminy, ka tsy ankasitrahany izany.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Koa mahafeno ahy ny fahatezeran' i Jehovah ka tsy zakako tsindriana intsony; haidiko amin' ny ankizy madinika eny an-dalambe sy amin' ny fiokoan' ny zatovo izany; fa na dia ny lehilahy sy ny vadiny aza dia hosamborina avokoa, ary koa ny anti-panahy izay ela niainana.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary ho lasan' ny sasany ny tranony mbamin' ny sahany sy ny vadiny koa; fa hahinjitro amin' ny mponina amin' ny tany ny tanako, hoy Jehovah,\""
-    },
-    {
-      "v": 13,
-      "text": "\"Satria izy rehetra, na ny kely na ny lehibe, dia samy fatra-pila harena avokoa; na ny mpaminany na ny mpisorona dia samy mamitaka avokoa.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Fa nataotaony foana ny fanasitranany ny faharatran' ny zanakavavin' ny oloko tamin' ny nanaovany hoe: Fiadanana, fiadanana; kanjo tsy misy fiadanana tsinona!\""
-    },
-    {
-      "v": 15,
-      "text": "\"Moa menatra va izy raha nanao fahavetavetana? Tsia, tsy mba menatra akory izy ary tsy mba teramena akory; koa ho lavo ao amin' izay lavo izy; ary amin' ny andro hamangiako dia hianjera izy, hoy Jehovah.\""
-    },
-    {
-      "v": 16,
-      "text": "Izao no lazain' i Jehovah: Mijanòna eo an-dalana ianareo ka izahao, ary anontanio izay lalana masaka hatry ny ela, dia izay lalana tsara, ka iny no izory, dia hahita fitsaharana ho an' ny fanahinareo ianareo. Nefa hoy izy: Tsy hizotra amin' izany izahay."
-    },
-    {
-      "v": 17,
-      "text": "Ary nasiako mpitily ianareo nanao hoe: Henoy ny feon' ny anjomara! nefa hoy izy: Tsy hihaino izahay."
-    },
-    {
-      "v": 18,
-      "text": "Koa henoinareo, ry firenena, ary fantaro ry fiangonana, izay hanjo azy."
-    },
-    {
-      "v": 19,
-      "text": "Henoy ry tany! Indro, Izaho hahatonga loza amin' ity firenena ity, dia ny vokatry ny heviny ihany, satria tsy nihaino ny teniko na ny lalàko izy, fa nolaviny izany."
-    },
-    {
-      "v": 20,
-      "text": "Nahoana no itondrana ditin-kazo manim-pofona avy any Sheba Aho, sy fary mamy avy any an-tany lavitra? Tsy sitrako ny fanatitra doranareo, ary tsy mamiko ny zavatra hataonareo fanatitra."
-    },
-    {
-      "v": 21,
-      "text": "Koa izao no lazain' i Jehovah: Indro hasiako fahatafintohinana eo amin' ity firenena ity, ka dia samy ho tafintohina amin' izany ny ray mbamin' ny zanany, ho faty ny olona mbamin' ny namany."
-    },
-    {
-      "v": 22,
-      "text": "Izao no lazain' i Jehovah: Indro misy firenena avy any amin' ny tany avaratra, dia firenena lehibe no hatsangana avy any amin' ny vazan-tany."
-    },
-    {
-      "v": 23,
-      "text": "\"Tsipìka sy lefona no hoentiny, lozabe sady tsy mamindra fo izy; ny feony dia mirohondrohona toy ny ranomasina, sady mitaingin-tsoavaly izy ary voaomana tahaka ny lehilahy ho amin' ny ady, hamelezana anao, ry zanakavavin' i Ziona.\""
-    },
-    {
-      "v": 24,
-      "text": "Efa renay ny lazany, ka miraviravy tanana izahay, fahoriam-be no nahazo anay, sy fanaintainana tahaka ny vehivavy raha miteraka."
-    },
-    {
-      "v": 25,
-      "text": "Aza mivoaka ho any an-tsaha, ary aza mandeha eny an-dalana, fa ny sabatry ny fahavalo sy ny fampangorohoroana dia eny rehetra eny."
-    },
-    {
-      "v": 26,
-      "text": "\"Ry zanakavavin' ny oloko, misikìna lamba fisaonana ianao, ary mihosena lavenona, ka manaova fisaonana toy ny fisaonana zanakalahy tokana, dia fitomaniana fatratra; fa ho avy tampoka amintsika ny mpandringana.\""
-    },
-    {
-      "v": 27,
-      "text": "Efa nanao anao ho tilikambo sy fiarovana eo amin' ny oloko aho, mba ho fantatrao sy hizahanao toetra ny alehany."
-    },
-    {
-      "v": 28,
-      "text": "\"Tena mpikomy avokoa izy rehetra, ka mandehandeha manaratsy, varahina sy vy izy; samy mpanao ratsy avokoa izy rehetra.\""
-    },
-    {
-      "v": 29,
-      "text": "May ny tafoforana, levon' ny afo ny firaka, foana ny nandrendrehan' ny mpandrendrika, fa tsy voaesotra ny ratsy."
-    },
-    {
-      "v": 30,
-      "text": "Hataon' ny olona hoe volafotsy nolavina izy, satria efa nolavin' i Jehovah."
-    }
-  ]
+  "verses": {
+    "1": "Ianareo zanak' i Benjamina, mivoria mba handositra hiala an' i Jerosalema, ary tsofy ao Tekoa ny anjomara, ka manaova tsangan' afo ao Beti-hakerema; fa misy loza sy fandringanana be miposaka avy any avaratra.",
+    "2": "Ny zanakavavin' i Ziona dia nampitoviko amin' ny vehivavy tsara tarehy sy mihantahanta.",
+    "3": "Ao aminy no halehan' ny mpiandry ondry mbamin' ny ondry aman' osiny; haoriny manodidina azy ny lainy, ka samy hihinana eo amin' ny fitoerany avy izy.",
+    "4": "Mivonòna hiady aminy ianareo. Mitsangàna, ka andeha isika hiakatra amin' ny mitataovovonana. Loza ho antsika! fa lasan-davitra ny andro, ka efa mandroso ny aloky ny hariva.",
+    "5": "Mitsangàna, ka andeha isika hanao latsak' alina, ary aoka horavantsika ny lapany.",
+    "6": "Fa izao no lazain' i Jehovah, Tompon' ny maro: Kapao ny hazo, ary manandrata tovon-tany hamelezana an' i Jerosalema; io ilay tanàna hovaliana, feno fampahoriana ny ao anatiny.",
+    "7": "Toy ny loharano mampiboiboika ny ranony no ampiboiboihany ny faharatsiany; herisetra sy fandravana no re ao aminy; eo anatrehako mandrakariva ny alahelo sy ny ratra.",
+    "8": "Minoa anatra ianao, ry Jerosalema, fandrao miombotra miala aminao ny fanahiko, ary fandrao hataoko tany lao ianao, dia tany tsy honenana.",
+    "9": "Izao no lazain' i Jehovah, Tompon' ny maro: Hotsimponina fatratra toy ny fitsimpona voaloboka izay sisa amin' ny Isiraely; avereno ho ao amin' ny harona ny tananao toy ny mpioty voaloboka.",
+    "10": "Iza no hilazako sy hanariko mba handrenesany? Indro, ny sofiny dia tsy voafora, ka tsy mahahaino izy; indro ny tenin' i Jehovah dia fandatsana aminy, ka tsy ankasitrahany izany.",
+    "11": "Koa mahafeno ahy ny fahatezeran' i Jehovah ka tsy zakako tsindriana intsony; haidiko amin' ny ankizy madinika eny an-dalambe sy amin' ny fiokoan' ny zatovo izany; fa na dia ny lehilahy sy ny vadiny aza dia hosamborina avokoa, ary koa ny anti-panahy izay ela niainana.",
+    "12": "Ary ho lasan' ny sasany ny tranony mbamin' ny sahany sy ny vadiny koa; fa hahinjitro amin' ny mponina amin' ny tany ny tanako, hoy Jehovah,",
+    "13": "Satria izy rehetra, na ny kely na ny lehibe, dia samy fatra-pila harena avokoa; na ny mpaminany na ny mpisorona dia samy mamitaka avokoa.",
+    "14": "Fa nataotaony foana ny fanasitranany ny faharatran' ny zanakavavin' ny oloko tamin' ny nanaovany hoe: Fiadanana, fiadanana; kanjo tsy misy fiadanana tsinona!",
+    "15": "Moa menatra va izy raha nanao fahavetavetana? Tsia, tsy mba menatra akory izy ary tsy mba teramena akory; koa ho lavo ao amin' izay lavo izy; ary amin' ny andro hamangiako dia hianjera izy, hoy Jehovah.",
+    "16": "Izao no lazain' i Jehovah: Mijanòna eo an-dalana ianareo ka izahao, ary anontanio izay lalana masaka hatry ny ela, dia izay lalana tsara, ka iny no izory, dia hahita fitsaharana ho an' ny fanahinareo ianareo. Nefa hoy izy: Tsy hizotra amin' izany izahay.",
+    "17": "Ary nasiako mpitily ianareo nanao hoe: Henoy ny feon' ny anjomara! nefa hoy izy: Tsy hihaino izahay.",
+    "18": "Koa henoinareo, ry firenena, ary fantaro ry fiangonana, izay hanjo azy.",
+    "19": "Henoy ry tany! Indro, Izaho hahatonga loza amin' ity firenena ity, dia ny vokatry ny heviny ihany, satria tsy nihaino ny teniko na ny lalàko izy, fa nolaviny izany.",
+    "20": "Nahoana no itondrana ditin-kazo manim-pofona avy any Sheba Aho, sy fary mamy avy any an-tany lavitra? Tsy sitrako ny fanatitra doranareo, ary tsy mamiko ny zavatra hataonareo fanatitra.",
+    "21": "Koa izao no lazain' i Jehovah: Indro hasiako fahatafintohinana eo amin' ity firenena ity, ka dia samy ho tafintohina amin' izany ny ray mbamin' ny zanany, ho faty ny olona mbamin' ny namany.",
+    "22": "Izao no lazain' i Jehovah: Indro misy firenena avy any amin' ny tany avaratra, dia firenena lehibe no hatsangana avy any amin' ny vazan-tany.",
+    "23": "Tsipìka sy lefona no hoentiny, lozabe sady tsy mamindra fo izy; ny feony dia mirohondrohona toy ny ranomasina, sady mitaingin-tsoavaly izy ary voaomana tahaka ny lehilahy ho amin' ny ady, hamelezana anao, ry zanakavavin' i Ziona.",
+    "24": "Efa renay ny lazany, ka miraviravy tanana izahay, fahoriam-be no nahazo anay, sy fanaintainana tahaka ny vehivavy raha miteraka.",
+    "25": "Aza mivoaka ho any an-tsaha, ary aza mandeha eny an-dalana, fa ny sabatry ny fahavalo sy ny fampangorohoroana dia eny rehetra eny.",
+    "26": "Ry zanakavavin' ny oloko, misikìna lamba fisaonana ianao, ary mihosena lavenona, ka manaova fisaonana toy ny fisaonana zanakalahy tokana, dia fitomaniana fatratra; fa ho avy tampoka amintsika ny mpandringana.",
+    "27": "Efa nanao anao ho tilikambo sy fiarovana eo amin' ny oloko aho, mba ho fantatrao sy hizahanao toetra ny alehany.",
+    "28": "Tena mpikomy avokoa izy rehetra, ka mandehandeha manaratsy, varahina sy vy izy; samy mpanao ratsy avokoa izy rehetra.",
+    "29": "May ny tafoforana, levon' ny afo ny firaka, foana ny nandrendrehan' ny mpandrendrika, fa tsy voaesotra ny ratsy.",
+    "30": "Hataon' ny olona hoe volafotsy nolavina izy, satria efa nolavin' i Jehovah."
+  }
 }

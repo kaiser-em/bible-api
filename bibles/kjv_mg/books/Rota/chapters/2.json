@@ -1,97 +1,29 @@
 {
+  "book": "Rota",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nisy havan' ny vadin' i Naomy avy tamin' ny ankohonan' i Elimeleka, lehilahy mpanankarembe tokoa, Boaza no anarany."
-    },
-    {
-      "v": 2,
-      "text": "Ary hoy Rota, vehivavy Moabita tamin' i Naomy: Aoka aho hankany an-tsaha mba hitsimpona salohim-barimbazaha eo aorian' izay hahitako fitia eo imasony. dia hoy izy taminy: Andeha àry, anaka."
-    },
-    {
-      "v": 3,
-      "text": "\"Dia lasa nandeha izy ka nitsimpona tany an-tsaha teo aorian' ny mpijinja; ary sendra tonga tany amin' ny faritry ny sahan' i Boaza, izay avy amin' ny fianakavian' i Elimeleka izy.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary, indro, Boaza tonga avy tany Betlehema ka niteny tamin' ny mpijinja hoe: Jehovah anie ho aminareo. Dia hoy kosa ireo taminy: Hitahy anao anie Jehovah."
-    },
-    {
-      "v": 5,
-      "text": "Dia hoy Boaza tamin' ny mpanompony izay nitandrina ny mpijinja: Zanak' iza moa io zazavavy io?"
-    },
-    {
-      "v": 6,
-      "text": "\"Dia namaly ilay mpanompo nitandrina ny mpijinja ka nanao hoe: Zazavavy Moabita, izay niverina nomba an' i Naomy avy tany amin' ny tany Moaba io;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa hoy izy: Masìna ianao, aoka aho hitsimpona sy hanangona eo aorian' ny mpijinja eny anelanelan' ny amboara; dia tonga izy ka nijanona teto hatramin' ny maraina ka mandraka ankehitriny; kely foana no nitoerany tao an-trano.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Dia hoy Boaza tamin' i Rota: Tsy mandre va ianao, anaka? Aza mandeha hitsimpona eny an-tsaha hafa, na miala eto ianao, fa mitoera tsara eto anilan' ny mpanompovaviko;\""
-    },
-    {
-      "v": 9,
-      "text": "\"Aoka ny masonao ho amin' ny saha izay jinjainy, ka manaraha ao aoriany ianao; tsy nodidiako va ny zatovo mba tsy haninona anao? Ary raha mangetaheta ianao, dia mankanesa eroa amin' ny siny, ka misotroa amin' izay antsakain' ny zatovo.\""
-    },
-    {
-      "v": 10,
-      "text": "Dia niondrika sy niankohoka tamin' ny tany Rota ka nanao taminy hoe: Ahoana no mba ahitako fitia eto imasonao sy itsinjovanao ahy, nefa vahiny ihany aho?"
-    },
-    {
-      "v": 11,
-      "text": "Dia namaly Boaza ka nanao taminy hoe: Efa naseho tamiko tsara izay rehetra nataonao tamin' ny rafozanao vavy hatrizay nahafatesan' ny vadinao sy ny nahafoizanao ny rainao sy ny reninao mbamin' ny tany nahaterahanao sy ny nankanesanao aty amin' ny firenena tsy mbola fantatrao."
-    },
-    {
-      "v": 12,
-      "text": "Hamaly ny asanao anie Jehovah, ka homen' i Jehovah, Andriamanitry ny Isiraely valim-pitia lehibe anie ianao, satria avy hialoka eo ambanin' ny elany ianao."
-    },
-    {
-      "v": 13,
-      "text": "\"Dia hoy razazavavy: aoka hahita fitia eo imasonao aho, tompokolahy; fa efa nampionona ahy ianao, ary efa niteny mora tamin' ny mpanompovavinao ianao, na dia tsy tahaka ny anankiray amin' ny mpanompovavinao aza aho.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary hoy Boaza taminy: Mankanesa aty amin' ny fotoam-pisakafoana, ka mihinàna mofo, ary atsobohy amin' ny vinaingitra ny sombi-mofonao. Dia nipetraka teo anilan' ny mpijinja izy; ary nangalan-dralehilahy lango izy, dia nihinana ka voky, ary nisy sisa tsy laniny aza.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary raha nitsangana hitsimpona izy, dia nodidian' i Boaza ny zatovony hoe: Aoka izy hitsimpona na dia eny anelanelan' ny amboara aza, ka aza maninona azy."
-    },
-    {
-      "v": 16,
-      "text": "Asio latsadatsaka avy amin' ny amboara, ka avelao ireny hotsimponiny, fa aza raràna izy."
-    },
-    {
-      "v": 17,
-      "text": "Ary nitsimpona tany an-tsaha mandra-paharivan' ny andro Rota, dia nively izay efa voatsimpony, ka nisy vary hordea tokony ho iray efaha."
-    },
-    {
-      "v": 18,
-      "text": "\"Dia nentiny izany, ka nankany an-tanàna izy, ary hitan' ny rafozany vavy izay efa voatsimpony; ary navoakany koa ilay sisa tsy laniny tamin' ny nisakafoany ka nomeny ny rafozany.\""
-    },
-    {
-      "v": 19,
-      "text": "Dia hoy ny rafozany vavy taminy: Taiza no nitsimponanao androany, ary taiza no nanaovanao? Hotahiana anie izay nitsinjo anao. Dia nambarany tamin' ny rafozany vavy izay efa nitsimponany ka hoy izy: Boaza no anaran' ny lehilahy izay tompon' ny nitsimponako androany."
-    },
-    {
-      "v": 20,
-      "text": "Dia hoy Naomy tamin' ny vinantovaviny: Hotahian' i Jehovah anie izay tsy nitsahatra nanao soa amin' ny velona sy ny maty. Ary hoy Naomy taminy: Havantsika akaiky ihany ralehilahy, ka isan' izay mahavotra antsika izy."
-    },
-    {
-      "v": 21,
-      "text": "Ary hoy Rota vehivavy Moabita: izao koa no nataony tamiko: Mitoera tsara eo anilan' ny zatovoko ianao mandra-pahatapitry ny fijinjako rehetra."
-    },
-    {
-      "v": 22,
-      "text": "Ary hoy Naomy tamin' i Rota vinantony vavy: Tsara izany, anaka, raha miara-mivoaka amin' ny zatovony vavy ianao, fandrao hisy haninona anao raha any an-tsaha hafa."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary tsy nety nisaraka tamin' ny zatovovavin' i Boaza izy, fa ni-tsimpona mandra-pahatapitry ny fijinjana ny vary hordea sy ny vary tritika; ary nitoetra tao amin' ny rafozany vavy izy.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary nisy havan' ny vadin' i Naomy avy tamin' ny ankohonan' i Elimeleka, lehilahy mpanankarembe tokoa, Boaza no anarany.",
+    "2": "Ary hoy Rota, vehivavy Moabita tamin' i Naomy: Aoka aho hankany an-tsaha mba hitsimpona salohim-barimbazaha eo aorian' izay hahitako fitia eo imasony. dia hoy izy taminy: Andeha àry, anaka.",
+    "3": "Dia lasa nandeha izy ka nitsimpona tany an-tsaha teo aorian' ny mpijinja; ary sendra tonga tany amin' ny faritry ny sahan' i Boaza, izay avy amin' ny fianakavian' i Elimeleka izy.",
+    "4": "Ary, indro, Boaza tonga avy tany Betlehema ka niteny tamin' ny mpijinja hoe: Jehovah anie ho aminareo. Dia hoy kosa ireo taminy: Hitahy anao anie Jehovah.",
+    "5": "Dia hoy Boaza tamin' ny mpanompony izay nitandrina ny mpijinja: Zanak' iza moa io zazavavy io?",
+    "6": "Dia namaly ilay mpanompo nitandrina ny mpijinja ka nanao hoe: Zazavavy Moabita, izay niverina nomba an' i Naomy avy tany amin' ny tany Moaba io;",
+    "7": "Fa hoy izy: Masìna ianao, aoka aho hitsimpona sy hanangona eo aorian' ny mpijinja eny anelanelan' ny amboara; dia tonga izy ka nijanona teto hatramin' ny maraina ka mandraka ankehitriny; kely foana no nitoerany tao an-trano.",
+    "8": "Dia hoy Boaza tamin' i Rota: Tsy mandre va ianao, anaka? Aza mandeha hitsimpona eny an-tsaha hafa, na miala eto ianao, fa mitoera tsara eto anilan' ny mpanompovaviko;",
+    "9": "Aoka ny masonao ho amin' ny saha izay jinjainy, ka manaraha ao aoriany ianao; tsy nodidiako va ny zatovo mba tsy haninona anao? Ary raha mangetaheta ianao, dia mankanesa eroa amin' ny siny, ka misotroa amin' izay antsakain' ny zatovo.",
+    "10": "Dia niondrika sy niankohoka tamin' ny tany Rota ka nanao taminy hoe: Ahoana no mba ahitako fitia eto imasonao sy itsinjovanao ahy, nefa vahiny ihany aho?",
+    "11": "Dia namaly Boaza ka nanao taminy hoe: Efa naseho tamiko tsara izay rehetra nataonao tamin' ny rafozanao vavy hatrizay nahafatesan' ny vadinao sy ny nahafoizanao ny rainao sy ny reninao mbamin' ny tany nahaterahanao sy ny nankanesanao aty amin' ny firenena tsy mbola fantatrao.",
+    "12": "Hamaly ny asanao anie Jehovah, ka homen' i Jehovah, Andriamanitry ny Isiraely valim-pitia lehibe anie ianao, satria avy hialoka eo ambanin' ny elany ianao.",
+    "13": "Dia hoy razazavavy: aoka hahita fitia eo imasonao aho, tompokolahy; fa efa nampionona ahy ianao, ary efa niteny mora tamin' ny mpanompovavinao ianao, na dia tsy tahaka ny anankiray amin' ny mpanompovavinao aza aho.",
+    "14": "Ary hoy Boaza taminy: Mankanesa aty amin' ny fotoam-pisakafoana, ka mihinàna mofo, ary atsobohy amin' ny vinaingitra ny sombi-mofonao. Dia nipetraka teo anilan' ny mpijinja izy; ary nangalan-dralehilahy lango izy, dia nihinana ka voky, ary nisy sisa tsy laniny aza.",
+    "15": "Ary raha nitsangana hitsimpona izy, dia nodidian' i Boaza ny zatovony hoe: Aoka izy hitsimpona na dia eny anelanelan' ny amboara aza, ka aza maninona azy.",
+    "16": "Asio latsadatsaka avy amin' ny amboara, ka avelao ireny hotsimponiny, fa aza raràna izy.",
+    "17": "Ary nitsimpona tany an-tsaha mandra-paharivan' ny andro Rota, dia nively izay efa voatsimpony, ka nisy vary hordea tokony ho iray efaha.",
+    "18": "Dia nentiny izany, ka nankany an-tanàna izy, ary hitan' ny rafozany vavy izay efa voatsimpony; ary navoakany koa ilay sisa tsy laniny tamin' ny nisakafoany ka nomeny ny rafozany.",
+    "19": "Dia hoy ny rafozany vavy taminy: Taiza no nitsimponanao androany, ary taiza no nanaovanao? Hotahiana anie izay nitsinjo anao. Dia nambarany tamin' ny rafozany vavy izay efa nitsimponany ka hoy izy: Boaza no anaran' ny lehilahy izay tompon' ny nitsimponako androany.",
+    "20": "Dia hoy Naomy tamin' ny vinantovaviny: Hotahian' i Jehovah anie izay tsy nitsahatra nanao soa amin' ny velona sy ny maty. Ary hoy Naomy taminy: Havantsika akaiky ihany ralehilahy, ka isan' izay mahavotra antsika izy.",
+    "21": "Ary hoy Rota vehivavy Moabita: izao koa no nataony tamiko: Mitoera tsara eo anilan' ny zatovoko ianao mandra-pahatapitry ny fijinjako rehetra.",
+    "22": "Ary hoy Naomy tamin' i Rota vinantony vavy: Tsara izany, anaka, raha miara-mivoaka amin' ny zatovony vavy ianao, fandrao hisy haninona anao raha any an-tsaha hafa.",
+    "23": "Ary tsy nety nisaraka tamin' ny zatovovavin' i Boaza izy, fa ni-tsimpona mandra-pahatapitry ny fijinjana ny vary hordea sy ny vary tritika; ary nitoetra tao amin' ny rafozany vavy izy."
+  }
 }

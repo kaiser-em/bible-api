@@ -1,85 +1,26 @@
 {
+  "book": "Deotornomia",
   "chapter": 17,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Aza ataonao fanatitra ho an' i Jehovah Andriamanitrao ny omby, na ondry, izay misy takaitra, na kilema maharatsy azy, fa fahavetavetana amin' i Jehovah Andriamanitrao izany."
-    },
-    {
-      "v": 2,
-      "text": "Raha misy hita eo aminao ao am-bavahadinao, izay omen' i Jehovah Andriamanitrao anao, na lehilahy, na vehivavy manao izay ratsy eo imason' i Jehovah Andriamanitrao ka mivadika amin' ny fanekeny,"
-    },
-    {
-      "v": 3,
-      "text": "\"Ka lasa nanompo andriamani-kafa ary niankohoka taminy, na ny masoandro, na ny volana, na izay rehetra eny amin' ny lanitra, izay tsy nandidiako;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ka voalaza taminao izany, ary efa renao sady nofotopotoranao tsara, ka, indro, raha marina tokoa izany zavatra izany, fa natao teo amin' ny Isiraely izany fahavetavetana izany;\""
-    },
-    {
-      "v": 5,
-      "text": "Dia avoahy ho eo am-bavahadinao izay lehilahy, na vehivavy efa nanao izany zava-dratsy izany, dia izany lehilahy, na vehivavy izany, ka torahy vato mandra-pahafatiny."
-    },
-    {
-      "v": 6,
-      "text": "\"Amin' ny tenin' ny vavolombelona roa na telo no hamonoana izay tokony ho faty; fa ny tenin' ny vavolombelona iray monja dia tsy hahafaty azy;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ny tanan' ny vavolombelona no ho voalohany hamono azy, dia vao ny tanan' ny vahoaka rehetra; dia hofongoranao tsy ho eo aminareo ny ratsy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Raha misy raharaha sarotra loatra aminao amin' ny fitsarana, ny amin' ny fandatsahan-dra, ny amin' ny ady ary ny fifamelezana izay iadiana ao am-bavahadinao; dia miaingà ianao, ka miakara any amin' ny toerana izay hofidin' i Jehovah Andriamanitrao;\""
-    },
-    {
-      "v": 9,
-      "text": "Ary mankanesa amin' ireo Levita mpisorona sy amin' ny anankiray izay mpitsara amin' izany andro izany, ka manontania, dia hambarany aminao ny teny fitsarana."
-    },
-    {
-      "v": 10,
-      "text": "Ary araho ny teny izay ambarany aminao eo amin' ny toerana izay hofidin' i Jehovah, ka mitandrema hanao araka izay rehetra ampahafantariny anao."
-    },
-    {
-      "v": 11,
-      "text": "\"Araka ny lalàna izay hampianariny anao sy araka ny fitsarana izay holazainy aminao no hataonao; aza mivily miala amin' ny teny izay hambarany aminao, na ho amin' ny ankavanana na ho amin' ny ankavia.\""
-    },
-    {
-      "v": 12,
-      "text": "Fa ny olona izay miavonavona ka tsy mihaino ny mpisorona izay mitsangana eo hanao ny asa fanompoana eo anatrehan' i Jehovah Andriamanitrao, na ny mpitsara, dia ho faty izany olona izany ka hofongoranao tsy ho amin' ny Isiraely ny ratsy."
-    },
-    {
-      "v": 13,
-      "text": "Ary ny vahoaka rehetra handre dia hatahotra ka tsy hiavonavona sy tsy ho sahisahy foana."
-    },
-    {
-      "v": 14,
-      "text": "\"Rehefa tonga any amin' ny tany izay omen' i Jehovah Andriamanitrao anao ianao ka hahazo izany sy honina ao ary hanao hoe: Hanangana mpanjaka ho ahy aho, mba ho tahaka ny firenena rehetra izay manodidina ahy;\""
-    },
-    {
-      "v": 15,
-      "text": "Dia izay hofidin' i Jehovah Andriamanitrao ihany no hatsanganao ho mpanjakanao: anankiray amin' ny rahalahinao no hatsanganao ho mpanjakanao, fa tsy mahazo mifidy olona hafa firenena izay tsy rahalahinao ianao."
-    },
-    {
-      "v": 16,
-      "text": "\"Kanefa aoka tsy hampitombo soavaly maro ho azy izy, na hampiverina ny olona ho any Egypta mba hampitomboany ny soavaly; satria hoy Jehovah taminao: Aza miverina amin' izany lalana izany intsony.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary aoka tsy hampirafy maro izy, fandrao hivily ny fony; ary aoka tsy hamory volafotsy na volamena be ho azy izy.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary izao no hisy, rehefa mipetraka eo ambonin' ny sezafiandrianam-panjakany izy, dia aoka hadikany ho azy amin' ny boky izao lalàna izao, araka ilay eo anatrehan' ny Levita mpisorona;\""
-    },
-    {
-      "v": 19,
-      "text": "Ary ho ao aminy izany ka hovakìny amin' ny andro rehetra iainany, mba hianarany hatahotra an' i Jehovah Andriamaniny ka hitandrina ny teniny rehetra amin' izao lalàna izao sy ireto didy ireto hankatoavany azy,"
-    },
-    {
-      "v": 20,
-      "text": "\"Mba tsy hiavonavonan' ny fony amin' ny rahalahiny, ary mba tsy hiviliany hiala amin' ny didy, na ho amin' ny ankavanana na ho amin' ny ankavia; fa mba ho maro andro amin' ny fanjakany eo amin' ny Isiraely izy sy ny zanany.\""
-    }
-  ]
+  "verses": {
+    "1": "Aza ataonao fanatitra ho an' i Jehovah Andriamanitrao ny omby, na ondry, izay misy takaitra, na kilema maharatsy azy, fa fahavetavetana amin' i Jehovah Andriamanitrao izany.",
+    "2": "Raha misy hita eo aminao ao am-bavahadinao, izay omen' i Jehovah Andriamanitrao anao, na lehilahy, na vehivavy manao izay ratsy eo imason' i Jehovah Andriamanitrao ka mivadika amin' ny fanekeny,",
+    "3": "Ka lasa nanompo andriamani-kafa ary niankohoka taminy, na ny masoandro, na ny volana, na izay rehetra eny amin' ny lanitra, izay tsy nandidiako;",
+    "4": "Ka voalaza taminao izany, ary efa renao sady nofotopotoranao tsara, ka, indro, raha marina tokoa izany zavatra izany, fa natao teo amin' ny Isiraely izany fahavetavetana izany;",
+    "5": "Dia avoahy ho eo am-bavahadinao izay lehilahy, na vehivavy efa nanao izany zava-dratsy izany, dia izany lehilahy, na vehivavy izany, ka torahy vato mandra-pahafatiny.",
+    "6": "Amin' ny tenin' ny vavolombelona roa na telo no hamonoana izay tokony ho faty; fa ny tenin' ny vavolombelona iray monja dia tsy hahafaty azy;",
+    "7": "Ny tanan' ny vavolombelona no ho voalohany hamono azy, dia vao ny tanan' ny vahoaka rehetra; dia hofongoranao tsy ho eo aminareo ny ratsy.",
+    "8": "Raha misy raharaha sarotra loatra aminao amin' ny fitsarana, ny amin' ny fandatsahan-dra, ny amin' ny ady ary ny fifamelezana izay iadiana ao am-bavahadinao; dia miaingà ianao, ka miakara any amin' ny toerana izay hofidin' i Jehovah Andriamanitrao;",
+    "9": "Ary mankanesa amin' ireo Levita mpisorona sy amin' ny anankiray izay mpitsara amin' izany andro izany, ka manontania, dia hambarany aminao ny teny fitsarana.",
+    "10": "Ary araho ny teny izay ambarany aminao eo amin' ny toerana izay hofidin' i Jehovah, ka mitandrema hanao araka izay rehetra ampahafantariny anao.",
+    "11": "Araka ny lalàna izay hampianariny anao sy araka ny fitsarana izay holazainy aminao no hataonao; aza mivily miala amin' ny teny izay hambarany aminao, na ho amin' ny ankavanana na ho amin' ny ankavia.",
+    "12": "Fa ny olona izay miavonavona ka tsy mihaino ny mpisorona izay mitsangana eo hanao ny asa fanompoana eo anatrehan' i Jehovah Andriamanitrao, na ny mpitsara, dia ho faty izany olona izany ka hofongoranao tsy ho amin' ny Isiraely ny ratsy.",
+    "13": "Ary ny vahoaka rehetra handre dia hatahotra ka tsy hiavonavona sy tsy ho sahisahy foana.",
+    "14": "Rehefa tonga any amin' ny tany izay omen' i Jehovah Andriamanitrao anao ianao ka hahazo izany sy honina ao ary hanao hoe: Hanangana mpanjaka ho ahy aho, mba ho tahaka ny firenena rehetra izay manodidina ahy;",
+    "15": "Dia izay hofidin' i Jehovah Andriamanitrao ihany no hatsanganao ho mpanjakanao: anankiray amin' ny rahalahinao no hatsanganao ho mpanjakanao, fa tsy mahazo mifidy olona hafa firenena izay tsy rahalahinao ianao.",
+    "16": "Kanefa aoka tsy hampitombo soavaly maro ho azy izy, na hampiverina ny olona ho any Egypta mba hampitomboany ny soavaly; satria hoy Jehovah taminao: Aza miverina amin' izany lalana izany intsony.",
+    "17": "Ary aoka tsy hampirafy maro izy, fandrao hivily ny fony; ary aoka tsy hamory volafotsy na volamena be ho azy izy.",
+    "18": "Ary izao no hisy, rehefa mipetraka eo ambonin' ny sezafiandrianam-panjakany izy, dia aoka hadikany ho azy amin' ny boky izao lalàna izao, araka ilay eo anatrehan' ny Levita mpisorona;",
+    "19": "Ary ho ao aminy izany ka hovakìny amin' ny andro rehetra iainany, mba hianarany hatahotra an' i Jehovah Andriamaniny ka hitandrina ny teniny rehetra amin' izao lalàna izao sy ireto didy ireto hankatoavany azy,",
+    "20": "Mba tsy hiavonavonan' ny fony amin' ny rahalahiny, ary mba tsy hiviliany hiala amin' ny didy, na ho amin' ny ankavanana na ho amin' ny ankavia; fa mba ho maro andro amin' ny fanjakany eo amin' ny Isiraely izy sy ny zanany."
+  }
 }

@@ -1,89 +1,27 @@
 {
+  "book": "2 Tantara",
   "chapter": 31,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nony vita izany rehetra izany, dia niainga nankany an-tanànan' ny Joda ny Isiraely rehetra izay tao ka nanorotoro ny tsangambaton-tsampy sy nikapa ny Aseraha ary nandrava ny fitoerana avo sy ny alitara eran' i Joda sy Benjamina rehetra ary tany Efraima sy Manase koa ambara-paharavany azy rehetra. Dia samy nody ho any amin' ny taniny sy ny tanànany avy ny Zanak' Isiraely rehetra."
-    },
-    {
-      "v": 2,
-      "text": "Ary Hezekia nanendry ny antokon' ny mpisorona sy ny Levita araka ny antokony avy, samy araka ny fanompoany avy, dia ny mpisorona sy ny Levita ho amin' ny fanatitra dorana sy fanati-pihavanana, hanao ny asa fanompoana sy hisaotra ary hidera eny amin' ny vavahadin' ny tobin' i Jehovah."
-    },
-    {
-      "v": 3,
-      "text": "Notendreny koa ny anjaran' ny mpanjaka avy tamin' ny fananany ho amin' ny fanatitra dorana, dia ny amin' ny fanatitra dorana maraina sy hariva sy ny fanatitra dorana atao amin' ireo sabata sy amin' ny voaloham-bolana sy ny andro firavoravoana voatendry, araka ny voasoratra ao amin' ny lalàn' i Jehovah."
-    },
-    {
-      "v": 4,
-      "text": "Ary ny olona izay nonina tany Jerosalema koa dia nasainy nandoa ny anjaran' ny mpisorona sy ny Levita, mba hampaherezina ao amin' ny lalàn' i Jehovah ireo."
-    },
-    {
-      "v": 5,
-      "text": "Ary raha vao niely izany didy izany dia nitondra be dia be ny voaloham-bokatra ny Zanak' Isiraely, dia ny varimbazaha sy ny divay sy ny diloilo sy ny tantely ary ny vokatry ny saha rehetra ary ny ampahafolon' ny zavatra rehetra dia betsaka koa no nentiny."
-    },
-    {
-      "v": 6,
-      "text": "Ary ny amin' ny taranak' Isiraely sy ny Joda, izay nonina tany an-tanànan' ny Joda, dia nitondra ny ampahafolon' ny omby sy ny ondry koa, ary ny ampahafolon' ny zavatra masina izay nohamasinina ho an' i Jehovah Andriamaniny, ary navosany nitokotoko maro ireny."
-    },
-    {
-      "v": 7,
-      "text": "Tamin' ny volana fahatelo no nanomboka nanokotoko azy izy, ary tamin' ny volana fahafito no nahavitany azy."
-    },
-    {
-      "v": 8,
-      "text": "Ary nony avy Hezekia sy ny mpanapaka ka nahita ireo antontany ireo dia nisaotra an' i Jehovah sy ny Isiraely olony izy."
-    },
-    {
-      "v": 9,
-      "text": "Ary nanontany ny mpisorona sy ny Levita i Hezekia ny amin' ireo antontany ireo."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary Azaria mpisoronabe, taranak' i Zadoka namaly azy ka nanao hoe: Hatramin' ny niandohan' ny nitondran' ny olona ny fanatitra ho ao an-tranon' i Jehovah dia nihinana izahay ka voky, ary be ny sisa; fa Jehovah nitahy ny olony; ary ny sisa dia ireo betsaka ireo.\""
-    },
-    {
-      "v": 11,
-      "text": "Dia nasain' i Hezekia nanamboarana trano fitahirizana tao an-tranon' i Jehovah, ka nanamboatra izany ireo."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary tamin' ny fahamarinana no nampidirany ny fanatitra sy ny ampahafolony sy ny zavatra nohamasinina; ary Konania Levita no mpitahiry ireny, ary Simey rahalahiny no manarakaraka.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary Jehiela sy Azaria sy Nahata sy Asahela sy Jerimota sy ny Jozabada sy Eliala sy Jismakia sy Mahata ary Benaia, dia mpanaramaso teo ambany fitantanan' i Konania sy Simey rahalahiny, araka ny didin' i Hezekia, mpanjaka sy Azaria mpanapaka ny tranon' Andriamanitra."
-    },
-    {
-      "v": 14,
-      "text": "Ary Kore Levita, zanak' i Jimna, mpiandry varavarana tao atsinanana, no tonian' ny fanati-tsitrapo ho an' Andriamanitra, hizara ny fanatitra asandratra ho an' i Jehovah sy ny zava-masina indrindra."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary manarakaraka azy dia Edena sy Miniamina sy Jesoa sy Semaia sy Amaria ary Sekania tao amin' ny tanànan' ny mpisorona; ary adidin' ireo ny hizara ho an' ny rahalahiny araka ny antokony avy, na ny lehibe na ny kely.\""
-    },
-    {
-      "v": 16,
-      "text": "Afa-tsy ny lehilahy voasoratra hatramin' ny telo taona no ho miakatra, dia izay rehetra miditra ao an-tranon' i Jehovah handray ny anjarany isan' andro noho ny fanompoany amin' ny anjara-raharahany araka ny antokony avy."
-    },
-    {
-      "v": 17,
-      "text": "Ary ny amin' ny fanoratana ny mpisorona koa, dia nosoratana araka ny fianakaviany avy, ary ny Levita koa hatramin' ny roapolo taona no ho miakatra, araka ny anjara-raharahany sy ny antokony avy."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary nomena koa ny zaza madinika rehetra, izay voasoratra, dia ny vadiny mbamin' ny zanany lahy sy ny zanany vavy, teo amin' ny fiangonana rehetra; fa tamin' ny fahamasinana no nanamasinany ny tenany teo amin' ny raharahany.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary ho an' ny mpisorona, zanak' i Arona koa, izay teny an-tsaha tany amin' ny zana-bohitry ny tanànany, amin' ny tanànany rehetra, dia ny lehilahy voatonona anarana no manome anjara ny lehilahy rehetra amin' ny mpisorona sy izay rehetra voasoratra ho anisan' ny Levita."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary toy izany no nataon' i Hezekia eran' ny Joda rehetra; fa nanao izay tsara sy mety ary marina eo anatrehan' i Jehovah Andriamaniny izy.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary ny raharaha rehetra izay natombony ny amin' ny fanompoana ao an-tranon' Andriamanitra sy ny lalàna ary ny didy hitadiavana an' Andriamaniny dia nataony tamin' ny fony rehetra, ka nambinina izy."
-    }
-  ]
+  "verses": {
+    "1": "Ary nony vita izany rehetra izany, dia niainga nankany an-tanànan' ny Joda ny Isiraely rehetra izay tao ka nanorotoro ny tsangambaton-tsampy sy nikapa ny Aseraha ary nandrava ny fitoerana avo sy ny alitara eran' i Joda sy Benjamina rehetra ary tany Efraima sy Manase koa ambara-paharavany azy rehetra. Dia samy nody ho any amin' ny taniny sy ny tanànany avy ny Zanak' Isiraely rehetra.",
+    "2": "Ary Hezekia nanendry ny antokon' ny mpisorona sy ny Levita araka ny antokony avy, samy araka ny fanompoany avy, dia ny mpisorona sy ny Levita ho amin' ny fanatitra dorana sy fanati-pihavanana, hanao ny asa fanompoana sy hisaotra ary hidera eny amin' ny vavahadin' ny tobin' i Jehovah.",
+    "3": "Notendreny koa ny anjaran' ny mpanjaka avy tamin' ny fananany ho amin' ny fanatitra dorana, dia ny amin' ny fanatitra dorana maraina sy hariva sy ny fanatitra dorana atao amin' ireo sabata sy amin' ny voaloham-bolana sy ny andro firavoravoana voatendry, araka ny voasoratra ao amin' ny lalàn' i Jehovah.",
+    "4": "Ary ny olona izay nonina tany Jerosalema koa dia nasainy nandoa ny anjaran' ny mpisorona sy ny Levita, mba hampaherezina ao amin' ny lalàn' i Jehovah ireo.",
+    "5": "Ary raha vao niely izany didy izany dia nitondra be dia be ny voaloham-bokatra ny Zanak' Isiraely, dia ny varimbazaha sy ny divay sy ny diloilo sy ny tantely ary ny vokatry ny saha rehetra ary ny ampahafolon' ny zavatra rehetra dia betsaka koa no nentiny.",
+    "6": "Ary ny amin' ny taranak' Isiraely sy ny Joda, izay nonina tany an-tanànan' ny Joda, dia nitondra ny ampahafolon' ny omby sy ny ondry koa, ary ny ampahafolon' ny zavatra masina izay nohamasinina ho an' i Jehovah Andriamaniny, ary navosany nitokotoko maro ireny.",
+    "7": "Tamin' ny volana fahatelo no nanomboka nanokotoko azy izy, ary tamin' ny volana fahafito no nahavitany azy.",
+    "8": "Ary nony avy Hezekia sy ny mpanapaka ka nahita ireo antontany ireo dia nisaotra an' i Jehovah sy ny Isiraely olony izy.",
+    "9": "Ary nanontany ny mpisorona sy ny Levita i Hezekia ny amin' ireo antontany ireo.",
+    "10": "Ary Azaria mpisoronabe, taranak' i Zadoka namaly azy ka nanao hoe: Hatramin' ny niandohan' ny nitondran' ny olona ny fanatitra ho ao an-tranon' i Jehovah dia nihinana izahay ka voky, ary be ny sisa; fa Jehovah nitahy ny olony; ary ny sisa dia ireo betsaka ireo.",
+    "11": "Dia nasain' i Hezekia nanamboarana trano fitahirizana tao an-tranon' i Jehovah, ka nanamboatra izany ireo.",
+    "12": "Ary tamin' ny fahamarinana no nampidirany ny fanatitra sy ny ampahafolony sy ny zavatra nohamasinina; ary Konania Levita no mpitahiry ireny, ary Simey rahalahiny no manarakaraka.",
+    "13": "Ary Jehiela sy Azaria sy Nahata sy Asahela sy Jerimota sy ny Jozabada sy Eliala sy Jismakia sy Mahata ary Benaia, dia mpanaramaso teo ambany fitantanan' i Konania sy Simey rahalahiny, araka ny didin' i Hezekia, mpanjaka sy Azaria mpanapaka ny tranon' Andriamanitra.",
+    "14": "Ary Kore Levita, zanak' i Jimna, mpiandry varavarana tao atsinanana, no tonian' ny fanati-tsitrapo ho an' Andriamanitra, hizara ny fanatitra asandratra ho an' i Jehovah sy ny zava-masina indrindra.",
+    "15": "Ary manarakaraka azy dia Edena sy Miniamina sy Jesoa sy Semaia sy Amaria ary Sekania tao amin' ny tanànan' ny mpisorona; ary adidin' ireo ny hizara ho an' ny rahalahiny araka ny antokony avy, na ny lehibe na ny kely.",
+    "16": "Afa-tsy ny lehilahy voasoratra hatramin' ny telo taona no ho miakatra, dia izay rehetra miditra ao an-tranon' i Jehovah handray ny anjarany isan' andro noho ny fanompoany amin' ny anjara-raharahany araka ny antokony avy.",
+    "17": "Ary ny amin' ny fanoratana ny mpisorona koa, dia nosoratana araka ny fianakaviany avy, ary ny Levita koa hatramin' ny roapolo taona no ho miakatra, araka ny anjara-raharahany sy ny antokony avy.",
+    "18": "Ary nomena koa ny zaza madinika rehetra, izay voasoratra, dia ny vadiny mbamin' ny zanany lahy sy ny zanany vavy, teo amin' ny fiangonana rehetra; fa tamin' ny fahamasinana no nanamasinany ny tenany teo amin' ny raharahany.",
+    "19": "Ary ho an' ny mpisorona, zanak' i Arona koa, izay teny an-tsaha tany amin' ny zana-bohitry ny tanànany, amin' ny tanànany rehetra, dia ny lehilahy voatonona anarana no manome anjara ny lehilahy rehetra amin' ny mpisorona sy izay rehetra voasoratra ho anisan' ny Levita.",
+    "20": "Ary toy izany no nataon' i Hezekia eran' ny Joda rehetra; fa nanao izay tsara sy mety ary marina eo anatrehan' i Jehovah Andriamaniny izy.",
+    "21": "Ary ny raharaha rehetra izay natombony ny amin' ny fanompoana ao an-tranon' Andriamanitra sy ny lalàna ary ny didy hitadiavana an' Andriamaniny dia nataony tamin' ny fony rehetra, ka nambinina izy."
+  }
 }

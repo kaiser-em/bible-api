@@ -1,101 +1,30 @@
 {
+  "book": "Efesiana",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Anaka, mankatoava ny ray sy reninareo ao amin’ny Tompo, fa marina izany."
-    },
-    {
-      "v": 2,
-      "text": "\"Manajà ny rainao sy ny reninao fa izany no didy voalohany misy tenifikasana;\""
-    },
-    {
-      "v": 3,
-      "text": "Mba hahita soa ianao sy ho maro andro ambonin’ny tany"
-    },
-    {
-      "v": 4,
-      "text": "Ary ianareo ray, aza mampahatezitra ny zanakareo, fa tezao amin’ny fanabeazana sy ny fananaran’ny Tompo izy."
-    },
-    {
-      "v": 5,
-      "text": "Ianareo mpanompo, mankatoava ny tomponareo araka ny nofo amin’ny fahatahorana sy ny fangovitana, amin’ny fahatsoran’ny fonareo, toy ny fanekena an’i Kristy ihany,"
-    },
-    {
-      "v": 6,
-      "text": "Tsy amin’ny fanompoana eo imaso, tahaka ny mpila sitraka amin’olona, fa tahaka ny mpanompon’i Kristy manao izay sitrapon’Andriamanitra amin’ny fo,"
-    },
-    {
-      "v": 7,
-      "text": "Amin’ny sitrapo manao fanompoana toy ny amin’ny Tompo, fa tsy amin’ny olona,"
-    },
-    {
-      "v": 8,
-      "text": "Satria fantatrareo fa izay soa ataon’ny olona rehetra no horaisiny amin’ny Tompo, na andevo na tsy andevo."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary ianareo tompo, manaova toy izany aminy kosa, ka atsaharo ny fandrahonana, satria fantatrareo fa ny Tompony sady Tomponareo koa dia any an-danitra; ary tsy misy fizahan-tavan’olona aminy.\""
-    },
-    {
-      "v": 10,
-      "text": "Farany, ry rahalahiko, mahereza ao amin’ny Tompo sy amin’ny herin’ny faherezany."
-    },
-    {
-      "v": 11,
-      "text": "Itafio avokoa ny fiadian' Andriamanitra, mba hahazoanareo hifahatra amin’ny fanangolen’ny devoly."
-    },
-    {
-      "v": 12,
-      "text": "Fa isika tsy mitolona amin’ny nofo aman-dra, fa amin’ny fanapahana, sy amin’ny hery, sy amin’ny mpanjakan’ny fahamaizinana eto amin' ity tany ity, ary amin' ny faharatsiana ara-panahy eny amin' ny toerana avo."
-    },
-    {
-      "v": 13,
-      "text": "\"Noho izany, dia raisonareo avokoa ny fiadian’Andriamanitra, mba ahazoanareo hanohitra amin’ny andro mahory; ary rehefa vitanareo avokoa izany, dia hahafahatra ianareo.\""
-    },
-    {
-      "v": 14,
-      "text": "Mifahara àry, ka sikino fahamarinana ny valahanareo, ary mitafia ny rariny ho fiarovan-tratra,"
-    },
-    {
-      "v": 15,
-      "text": "\"Ary kiraroy ny fahavononam-panahy avy amin’ny filazantsaran’ny fihavanana ny tongotrareo;\""
-    },
-    {
-      "v": 16,
-      "text": "Ary ho fanampin’izany rehetra izany dia tano ny finoana ho ampinga, izay hahazoanareo hamono ny zana-tsipìka mirehitra rehetra izay alefan’ilay ratsy."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary raiso ny famonjena ho fiarovan-doha sy ny tenin’Andriamanitra izay sabatry ny fanahy;\""
-    },
-    {
-      "v": 18,
-      "text": "Ary mivavaha mandrakariva ao amin’ny Fanahy amin’ny fivavahana rehetra sy ny fangatahana, ka miambena amin’izany amin’ny faharetana sy ny fitarainana ho an’ny olona masina rehetra,"
-    },
-    {
-      "v": 19,
-      "text": "Ary ho ahy koa, mba homena ahy ny hiloa-bava amin’ny fahasahiana hampahafantatra ny zava-miafin' ny filazantsara,"
-    },
-    {
-      "v": 20,
-      "text": "Fa ambasadaoro migadra noho izany aho, mba hiteny izany amin’ny fahasahiana, araka izay tokony hoteneniko."
-    },
-    {
-      "v": 21,
-      "text": "\"Fa mba ho fantatrareo koa ny toetro sy izay ataoko, dia Tykiko, rahalahy malala sady mpanompo mahatoky ao amin’ny Tompo, no hampahalala anareo ny zavatra rehetra;\""
-    },
-    {
-      "v": 22,
-      "text": "Izy no nirahiko hilaza izany zavatra izany indrindra aminareo, mba ho fantatrareo ny toetray, ary mba hampionona ny fonareo izy."
-    },
-    {
-      "v": 23,
-      "text": "Fiadanana anie ho an’ny rahalahy ary fitiavana mbamin’ny finoana avy amin’Andriamanitra Ray sy Jesosy Kristy Tompo."
-    },
-    {
-      "v": 24,
-      "text": "Ny fahasoavana anie ho an’izay rehetra tia an’i Jesosy Kristy Tompontsika amin’ny tena fahatsoram-po. Amena.(Nosoratan' i Tykiko tany Roma ho an' ny Efesiana)."
-    }
-  ]
+  "verses": {
+    "1": "Anaka, mankatoava ny ray sy reninareo ao amin’ny Tompo, fa marina izany.",
+    "2": "Manajà ny rainao sy ny reninao fa izany no didy voalohany misy tenifikasana;",
+    "3": "Mba hahita soa ianao sy ho maro andro ambonin’ny tany",
+    "4": "Ary ianareo ray, aza mampahatezitra ny zanakareo, fa tezao amin’ny fanabeazana sy ny fananaran’ny Tompo izy.",
+    "5": "Ianareo mpanompo, mankatoava ny tomponareo araka ny nofo amin’ny fahatahorana sy ny fangovitana, amin’ny fahatsoran’ny fonareo, toy ny fanekena an’i Kristy ihany,",
+    "6": "Tsy amin’ny fanompoana eo imaso, tahaka ny mpila sitraka amin’olona, fa tahaka ny mpanompon’i Kristy manao izay sitrapon’Andriamanitra amin’ny fo,",
+    "7": "Amin’ny sitrapo manao fanompoana toy ny amin’ny Tompo, fa tsy amin’ny olona,",
+    "8": "Satria fantatrareo fa izay soa ataon’ny olona rehetra no horaisiny amin’ny Tompo, na andevo na tsy andevo.",
+    "9": "Ary ianareo tompo, manaova toy izany aminy kosa, ka atsaharo ny fandrahonana, satria fantatrareo fa ny Tompony sady Tomponareo koa dia any an-danitra; ary tsy misy fizahan-tavan’olona aminy.",
+    "10": "Farany, ry rahalahiko, mahereza ao amin’ny Tompo sy amin’ny herin’ny faherezany.",
+    "11": "Itafio avokoa ny fiadian' Andriamanitra, mba hahazoanareo hifahatra amin’ny fanangolen’ny devoly.",
+    "12": "Fa isika tsy mitolona amin’ny nofo aman-dra, fa amin’ny fanapahana, sy amin’ny hery, sy amin’ny mpanjakan’ny fahamaizinana eto amin' ity tany ity, ary amin' ny faharatsiana ara-panahy eny amin' ny toerana avo.",
+    "13": "Noho izany, dia raisonareo avokoa ny fiadian’Andriamanitra, mba ahazoanareo hanohitra amin’ny andro mahory; ary rehefa vitanareo avokoa izany, dia hahafahatra ianareo.",
+    "14": "Mifahara àry, ka sikino fahamarinana ny valahanareo, ary mitafia ny rariny ho fiarovan-tratra,",
+    "15": "Ary kiraroy ny fahavononam-panahy avy amin’ny filazantsaran’ny fihavanana ny tongotrareo;",
+    "16": "Ary ho fanampin’izany rehetra izany dia tano ny finoana ho ampinga, izay hahazoanareo hamono ny zana-tsipìka mirehitra rehetra izay alefan’ilay ratsy.",
+    "17": "Ary raiso ny famonjena ho fiarovan-doha sy ny tenin’Andriamanitra izay sabatry ny fanahy;",
+    "18": "Ary mivavaha mandrakariva ao amin’ny Fanahy amin’ny fivavahana rehetra sy ny fangatahana, ka miambena amin’izany amin’ny faharetana sy ny fitarainana ho an’ny olona masina rehetra,",
+    "19": "Ary ho ahy koa, mba homena ahy ny hiloa-bava amin’ny fahasahiana hampahafantatra ny zava-miafin' ny filazantsara,",
+    "20": "Fa ambasadaoro migadra noho izany aho, mba hiteny izany amin’ny fahasahiana, araka izay tokony hoteneniko.",
+    "21": "Fa mba ho fantatrareo koa ny toetro sy izay ataoko, dia Tykiko, rahalahy malala sady mpanompo mahatoky ao amin’ny Tompo, no hampahalala anareo ny zavatra rehetra;",
+    "22": "Izy no nirahiko hilaza izany zavatra izany indrindra aminareo, mba ho fantatrareo ny toetray, ary mba hampionona ny fonareo izy.",
+    "23": "Fiadanana anie ho an’ny rahalahy ary fitiavana mbamin’ny finoana avy amin’Andriamanitra Ray sy Jesosy Kristy Tompo.",
+    "24": "Ny fahasoavana anie ho an’izay rehetra tia an’i Jesosy Kristy Tompontsika amin’ny tena fahatsoram-po. Amena.(Nosoratan' i Tykiko tany Roma ho an' ny Efesiana)."
+  }
 }

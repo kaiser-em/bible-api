@@ -1,49 +1,17 @@
 {
+  "book": "Salamo",
   "chapter": 29,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Salamo nataon' i Davida.]  MANOMEZA an' i Jehovah, ry mahery, manomeza voninahitra sy hery ho an' i Jehovah"
-    },
-    {
-      "v": 2,
-      "text": "\"Omeo an' i Jehovah ny voninahitry ny anarany; miankohofa eo anatrehan' i Jehovah amin' ny fahatsaran' ny fahamasinana.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Eny ambonin' ny rano ny feon' i Jehovah. Andriamanitry ny voninahitra no mampikotrokorana; eny ambonin' ny rano marobe Jehovah.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ny feon' i Jehovah be hery ; ny feon' i Jehovah be fiandrianana.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ny feon' i Jehovah manorotoro ny hazo sedera; eny, Jehovah manorotoro ny hazo sedera any Libanona.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Dia mampitsambikina azy tahaka ny zanak' omby koa Izy; Libanona sy Siriona dia tahaka ny zanaky ny ombimanga.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ny feon' i Jehovah mampisaraka ny lelafo;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ny feon' i Jehovah mampihorohoro ny efitra; Jehovah mampihorohoro ny efitr' i Kadesy.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ny feon' i Jehovah mampiteraka ny dieravavy, ary mivofy ny ala be; ary samy milaza ny voninahiny izay rehetra ao amin' ny tempoliny.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Mipetraka eo ambonin' ny safodrano Jehovah; eny, mipetraka ho mpanjaka mandrakizay Jehovah.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Hanome hery ny olony Jehovah; hitahy ny olony amin' ny fiadanana Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida.]  MANOMEZA an' i Jehovah, ry mahery, manomeza voninahitra sy hery ho an' i Jehovah",
+    "2": "Omeo an' i Jehovah ny voninahitry ny anarany; miankohofa eo anatrehan' i Jehovah amin' ny fahatsaran' ny fahamasinana.",
+    "3": "Eny ambonin' ny rano ny feon' i Jehovah. Andriamanitry ny voninahitra no mampikotrokorana; eny ambonin' ny rano marobe Jehovah.",
+    "4": "Ny feon' i Jehovah be hery ; ny feon' i Jehovah be fiandrianana.",
+    "5": "Ny feon' i Jehovah manorotoro ny hazo sedera; eny, Jehovah manorotoro ny hazo sedera any Libanona.",
+    "6": "Dia mampitsambikina azy tahaka ny zanak' omby koa Izy; Libanona sy Siriona dia tahaka ny zanaky ny ombimanga.",
+    "7": "Ny feon' i Jehovah mampisaraka ny lelafo;",
+    "8": "Ny feon' i Jehovah mampihorohoro ny efitra; Jehovah mampihorohoro ny efitr' i Kadesy.",
+    "9": "Ny feon' i Jehovah mampiteraka ny dieravavy, ary mivofy ny ala be; ary samy milaza ny voninahiny izay rehetra ao amin' ny tempoliny.",
+    "10": "Mipetraka eo ambonin' ny safodrano Jehovah; eny, mipetraka ho mpanjaka mandrakizay Jehovah.",
+    "11": "Hanome hery ny olony Jehovah; hitahy ny olony amin' ny fiadanana Jehovah."
+  }
 }

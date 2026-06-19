@@ -1,77 +1,24 @@
 {
+  "book": "2 Petera",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ry malala, ity no epistily faharoa soratako ho aminareo ankehitriny, ka izy roroa dia samy entiko mampifoha ny sainareo madio amin’ny fampahatsiarovana,"
-    },
-    {
-      "v": 2,
-      "text": "Mba hahatsiarovanareo ny teny voalazan’ny mpaminany masina taloha, sy ny didy avy aminay apostolin’ny Tompo sy Mpamonjy."
-    },
-    {
-      "v": 3,
-      "text": "Fa fantatrareo voalohany indrindra fa amin’ny andro farany dia hisy mpaniratsira avy haniratsira, mandeha araka ny filàny,"
-    },
-    {
-      "v": 4,
-      "text": "Ka manao hoe: Aiza ny tenifikasana ny amin’ny fiaviany? Fa hatrizay nodian’ny razana mandry, dia maharitra tsy miova ny zavatra rehetra toy izay nisy hatramin' ny nanaovana izao tontolo izao."
-    },
-    {
-      "v": 5,
-      "text": "Fa minia tsy mahalala ireo fa noho ny tenin' Andriamanitra dia nisy hatramin’ny ela ny lanitra, ary nisy koa ny tany, izay niseho avy tamin' ny rano, sady tao amin' ny rano."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary rano koa no nandravana izao rehetra izao taloha tamin’ny nanasaforany azy;\""
-    },
-    {
-      "v": 7,
-      "text": "Fa izao lanitra sy tany ankehitriny izao dia hazonin’izany teny izany ho amin’ny afo ka tahirizina ho amin’ny andro fitsarana sy fandringanana ny olona tsy araka an’Andriamanitra."
-    },
-    {
-      "v": 8,
-      "text": "Nefa, ry malala, izao zavatra iray loha izao no aoka ho fantatrareo: ny indray andro amin’ny Tompo dia toy ny arivo taona, ary ny arivo taona toy ny indray andro."
-    },
-    {
-      "v": 9,
-      "text": "\"Ny Tompo tsy mahela ny tenifikasany, araka izay ataon’ny sasany ho fahelany; fa mahari-po amintsika Izy, ka tsy tiany hisy ho very, fa mba ho tonga amin’ny fibebahana ny rehetra.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Fa ho avy tahaka ny mpangalatra amin’ny alina ny andron’ny Tompo; ary amin’izany ny lanitra dia ho levona amin’ny feona tabataba mafy, ary ny tenan’ny zava-drehetra dia ho levon’ny hafanana mivaivay, ary hodorana avokoa ny tany sy ny asa eo aminy.\""
-    },
-    {
-      "v": 11,
-      "text": "Koa raha ho levona toy izany izao zavatra rehetra izao, dia olona tokony hanao ahoana moa ianareo amin’ny fitondrantena masina sy ny toe-panahy araka an’Andriamanitra,"
-    },
-    {
-      "v": 12,
-      "text": "Sady miandrandra mafy no mampahafaingana ny fiavian’ny andron’Andriamanitra, izay handoro sy hahalevona ny lanitra, ary hampiempo ny tenan’ny zavatra rehetra amin’ny hafanana mivaivay."
-    },
-    {
-      "v": 13,
-      "text": "Kanefa isika, araka ny tenifikasany, dia miandrandra lanitra vaovao sy tany vaovao, izay itoeran’ny fahamarinana."
-    },
-    {
-      "v": 14,
-      "text": "Koa amin’izany, ry malala, satria miandrandra izany zavatra izany ianareo, dia mazotoa mba ho hita tsy manan-tsiny amam-pondro eo anatrehan’ny Tompo amin’ny fihavanana."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ny fahari-pon’ny Tompontsika dia ekeo ho famonjena, tahaka ny voasoratr’i Paoly, rahalahy malalantsika, taminareo koa araka ny fahendrena nomena azy;\""
-    },
-    {
-      "v": 16,
-      "text": "\"Tahaka ny ataony ao amin’ny epistiliny rehetra koa, fa milaza izany zavatra izany ao aminy izy; ary amin’ireo dia misy zavatra saro-pantarina, izay aolan’ny olona kely fahalalana sady tsy miorina tsara, tahaka ny anaovany ny teny sasany amin’ny Soratra Masina koa, ka mahatonga fandringanana ho an’ny tenany.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Koa satria fantatrareo rahateo izany, ry malala, dia tandremo fandrao ho voataonan’ny ratsy fanahy koa ianareo ka ho lavo hiala amin’izay iorenanareo;\""
-    },
-    {
-      "v": 18,
-      "text": "Fa mitomboa amin’ny fahasoavana sy ny fahalalana an’i Jesosy Kristy, Tompo sy Mpamonjintsika. Ho Azy anie ny voninahitra ankehitriny sy mandrakizay. Amena."
-    }
-  ]
+  "verses": {
+    "1": "Ry malala, ity no epistily faharoa soratako ho aminareo ankehitriny, ka izy roroa dia samy entiko mampifoha ny sainareo madio amin’ny fampahatsiarovana,",
+    "2": "Mba hahatsiarovanareo ny teny voalazan’ny mpaminany masina taloha, sy ny didy avy aminay apostolin’ny Tompo sy Mpamonjy.",
+    "3": "Fa fantatrareo voalohany indrindra fa amin’ny andro farany dia hisy mpaniratsira avy haniratsira, mandeha araka ny filàny,",
+    "4": "Ka manao hoe: Aiza ny tenifikasana ny amin’ny fiaviany? Fa hatrizay nodian’ny razana mandry, dia maharitra tsy miova ny zavatra rehetra toy izay nisy hatramin' ny nanaovana izao tontolo izao.",
+    "5": "Fa minia tsy mahalala ireo fa noho ny tenin' Andriamanitra dia nisy hatramin’ny ela ny lanitra, ary nisy koa ny tany, izay niseho avy tamin' ny rano, sady tao amin' ny rano.",
+    "6": "Ary rano koa no nandravana izao rehetra izao taloha tamin’ny nanasaforany azy;",
+    "7": "Fa izao lanitra sy tany ankehitriny izao dia hazonin’izany teny izany ho amin’ny afo ka tahirizina ho amin’ny andro fitsarana sy fandringanana ny olona tsy araka an’Andriamanitra.",
+    "8": "Nefa, ry malala, izao zavatra iray loha izao no aoka ho fantatrareo: ny indray andro amin’ny Tompo dia toy ny arivo taona, ary ny arivo taona toy ny indray andro.",
+    "9": "Ny Tompo tsy mahela ny tenifikasany, araka izay ataon’ny sasany ho fahelany; fa mahari-po amintsika Izy, ka tsy tiany hisy ho very, fa mba ho tonga amin’ny fibebahana ny rehetra.",
+    "10": "Fa ho avy tahaka ny mpangalatra amin’ny alina ny andron’ny Tompo; ary amin’izany ny lanitra dia ho levona amin’ny feona tabataba mafy, ary ny tenan’ny zava-drehetra dia ho levon’ny hafanana mivaivay, ary hodorana avokoa ny tany sy ny asa eo aminy.",
+    "11": "Koa raha ho levona toy izany izao zavatra rehetra izao, dia olona tokony hanao ahoana moa ianareo amin’ny fitondrantena masina sy ny toe-panahy araka an’Andriamanitra,",
+    "12": "Sady miandrandra mafy no mampahafaingana ny fiavian’ny andron’Andriamanitra, izay handoro sy hahalevona ny lanitra, ary hampiempo ny tenan’ny zavatra rehetra amin’ny hafanana mivaivay.",
+    "13": "Kanefa isika, araka ny tenifikasany, dia miandrandra lanitra vaovao sy tany vaovao, izay itoeran’ny fahamarinana.",
+    "14": "Koa amin’izany, ry malala, satria miandrandra izany zavatra izany ianareo, dia mazotoa mba ho hita tsy manan-tsiny amam-pondro eo anatrehan’ny Tompo amin’ny fihavanana.",
+    "15": "Ary ny fahari-pon’ny Tompontsika dia ekeo ho famonjena, tahaka ny voasoratr’i Paoly, rahalahy malalantsika, taminareo koa araka ny fahendrena nomena azy;",
+    "16": "Tahaka ny ataony ao amin’ny epistiliny rehetra koa, fa milaza izany zavatra izany ao aminy izy; ary amin’ireo dia misy zavatra saro-pantarina, izay aolan’ny olona kely fahalalana sady tsy miorina tsara, tahaka ny anaovany ny teny sasany amin’ny Soratra Masina koa, ka mahatonga fandringanana ho an’ny tenany.",
+    "17": "Koa satria fantatrareo rahateo izany, ry malala, dia tandremo fandrao ho voataonan’ny ratsy fanahy koa ianareo ka ho lavo hiala amin’izay iorenanareo;",
+    "18": "Fa mitomboa amin’ny fahasoavana sy ny fahalalana an’i Jesosy Kristy, Tompo sy Mpamonjintsika. Ho Azy anie ny voninahitra ankehitriny sy mandrakizay. Amena."
+  }
 }

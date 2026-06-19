@@ -1,137 +1,39 @@
 {
+  "book": "2 Korintiana",
   "chapter": 11,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Enga anie ka mba handefitra amiko amin’ny hadalako kely ianareo, ary dia mandefera amiko tokoa ianareo."
-    },
-    {
-      "v": 2,
-      "text": "\"Fa fahasaro-piaro araka an’Andriamanitra no mahasaro-piaro ahy aminareo; fa nataoko ho fofombadin’ny lehilahy iray ianareo, mba hatolotro tahaka ny virijina madio ho an’i Kristy.\""
-    },
-    {
-      "v": 3,
-      "text": "Fa matahotra aho, fandrao ny sainareo ho simba hiala amin’ny fahitsiam-po sy ny fahadiovana amin’i Kristy, tahaka ny namitahan’ny menarana an’i Eva tamin’ny fihendreny."
-    },
-    {
-      "v": 4,
-      "text": "Fa raha misy tonga ka mitory Jesosy hafa izay tsy notorinay, na mandray fanahy hafa ianareo izay tsy noraisinareo, na filazantsara hafa izay tsy nekenareo, hay dia mandefitra tsara amin’izany ianareo!"
-    },
-    {
-      "v": 5,
-      "text": "Fa ataoko fa tsy misy mahalatsaka ahy noho ireo apostoly ambony indrindra."
-    },
-    {
-      "v": 6,
-      "text": "\"Fa na dia olona tsy nampianarina lahateny aza aho, dia tsy mba tahaka izany aho amin’ny fahalalana; fa tamin’ny zavatra rehetra dia efa naseho marimarina taminareo izahay.\""
-    },
-    {
-      "v": 7,
-      "text": "Diso va aho, raha nanetry tena mba hisandratanareo ka nitory maimaimpoana ny filazantsaran’Andriamanitra taminareo?"
-    },
-    {
-      "v": 8,
-      "text": "Namabo ny fiangonana sasany aho ka nandray karama hanompoako anareo."
-    },
-    {
-      "v": 9,
-      "text": "\"Fa raha nitoetra taminareo aho ka tsy nanana, dia tsy mba nahavaky tratra olona aho; fa raha vao tonga avy tany Masedonia ny rahalahy, dia nomeny ahy izay nilaiko; ary tamin’ny zavatra rehetra dia nitandrina tsara izay tsy hahavaky tratra anareo aho sady mbola hitandrina izany ihany.\""
-    },
-    {
-      "v": 10,
-      "text": "Raha ato anatiko koa ny fahamarinan' i Kristy, dia tsy hisy hahafoana izany reharehako izany any amin’ny tany Akaia."
-    },
-    {
-      "v": 11,
-      "text": "Nahoana? Satria tsy tiako va ianareo? Andriamanitra no mahalala."
-    },
-    {
-      "v": 12,
-      "text": "Fa izay ataoko no mbola hataoko ihany, mba hampitsaharako ny famelezan’izay mitady hamely, mba ho hita fa tahaka anay ihany izy amin’izay ireharehany."
-    },
-    {
-      "v": 13,
-      "text": "Fa apostoly sandoka izy ireny, mpiasa mamitaka ka mampiova ny endriny ho tahaka ny Apostolin’i Kristy."
-    },
-    {
-      "v": 14,
-      "text": "Ary tsy mahagaga izany, fa Satana aza mampiova ny endriny ho tahaka ny anjelin’ny mazava."
-    },
-    {
-      "v": 15,
-      "text": "\"Koa tsy dia zavatra lehibe tsy akory, raha ny mpanompony koa no mampiova ny endriny tahaka ny mpanompon’ny fahamarinana; nefa ny farany ho araka ny asany ihany.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Hoy izaho indray: Aza misy mihevitra ahy ho adala; nefa na dia misy manao izany aza, raiso toy ny adala aho mba hireharehako kely koa.\""
-    },
-    {
-      "v": 17,
-      "text": "Izao lazaiko izao dia tsy lazaiko araka ny Tompo, fa toa amin’ny fahadalana amin’izao fitokiana amin’ny fireharehana izao ihany."
-    },
-    {
-      "v": 18,
-      "text": "Satria maro no mirehareha araka ny nofo, dia mba hirehareha koa aho."
-    },
-    {
-      "v": 19,
-      "text": "Fa sitrakareo ny handefitra amin’ny adala, satria hendry ianareo."
-    },
-    {
-      "v": 20,
-      "text": "Fa mandefitra ianareo, raha misy olona manandevo anareo, raha misy mandany anareo, raha misy misambotra anareo, raha misy mirehareha aminareo, raha misy mamely ny tavanareo."
-    },
-    {
-      "v": 21,
-      "text": "Manala-barà-tena aho ka toa manaiky fa nalemy izahay! Fa amin’izay mahasahy ny olona (miteny toy ny adala aho), dia mba sahy koa aho."
-    },
-    {
-      "v": 22,
-      "text": "Hebreo va izy ireo? toy izany koa aho. Isiraelita va izy ireo? Toy izany koa aho. Taranak' i Abrahama va izy ireo? Toy izany koa aho."
-    },
-    {
-      "v": 23,
-      "text": "Mpanompon’i Kristy va izy ireo? (miteny toy ny olona very saina aho) mihoatra noho izy ireo aho: amin’ny fisasarana manan-tombo, amin’ny kapoka be efa izay tsy izy, amin’ny tranomaizina matetika kokoa, amin’ny fahafatesana matetika."
-    },
-    {
-      "v": 24,
-      "text": "Indimy aho no nokapohin’ny Jiosy inefapolo latsaka iray avy."
-    },
-    {
-      "v": 25,
-      "text": "Intelo nokapohina tamin’ny hazo aho, indray maka notoraham-bato, intelo no vaky sambo, indray andro sy indray alina no nitoerako teo amin’ny lalina."
-    },
-    {
-      "v": 26,
-      "text": "Nandeha matetika aho, saiky nahita loza tamin’ny ony, saiky nahita loza tamin’ny mpandroba, saiky nahita loza tamin’ny tompon-tany namako, saiky nahita loza tamin’ny jentilisa, saiky nahita loza tao amin’ny tanàna aho, saiky nahita loza tany an’efitra aho, saiky nahita loza tamin’ny ranomasina aho, saiky nahita loza tamin’ny rahalahy sandoka aho,"
-    },
-    {
-      "v": 27,
-      "text": "Tamin’ny fisasarana sy ny fikelezan’aina, tamin’ny fiaretan-tory matetika, tamin’ny hanoanana sy ny hetaheta, tamin’ny fifadian-kanina matetika, tamin’ny hatsiaka sy ny fitanjahana."
-    },
-    {
-      "v": 28,
-      "text": "Afa-tsy ireo zavatra ivelany ireo, dia mbola misy koa izay mahazo ahy isan' andro, dia ny fiahiana ny fiangonana rehetra."
-    },
-    {
-      "v": 29,
-      "text": "Iza no malemy, ka tsy malemy aho? Iza no tafintohina, ka tsy mirehitra aho?"
-    },
-    {
-      "v": 30,
-      "text": "Raha tsy maintsy mirehareha aho, dia izay momba ny fahalemeko no hataoko rehareha."
-    },
-    {
-      "v": 31,
-      "text": "Andriamanitra, Rain’i Jesosy Tompo, Izay isaorana mandrakizay, mahalala fa tsy mandainga aho."
-    },
-    {
-      "v": 32,
-      "text": "\"Tany Damaskosy ny governora notendren’i Areta mpanjaka dia nampiambina ny tanàna Damaskosy mba hisambotra ahy;\""
-    },
-    {
-      "v": 33,
-      "text": "Fa avy teo amin’ny varavarankely eo amin’ny manda no nampidinana ahy tamin’ny sobiky, ka dia afa-nandositra ny tanany aho."
-    }
-  ]
+  "verses": {
+    "1": "Enga anie ka mba handefitra amiko amin’ny hadalako kely ianareo, ary dia mandefera amiko tokoa ianareo.",
+    "2": "Fa fahasaro-piaro araka an’Andriamanitra no mahasaro-piaro ahy aminareo; fa nataoko ho fofombadin’ny lehilahy iray ianareo, mba hatolotro tahaka ny virijina madio ho an’i Kristy.",
+    "3": "Fa matahotra aho, fandrao ny sainareo ho simba hiala amin’ny fahitsiam-po sy ny fahadiovana amin’i Kristy, tahaka ny namitahan’ny menarana an’i Eva tamin’ny fihendreny.",
+    "4": "Fa raha misy tonga ka mitory Jesosy hafa izay tsy notorinay, na mandray fanahy hafa ianareo izay tsy noraisinareo, na filazantsara hafa izay tsy nekenareo, hay dia mandefitra tsara amin’izany ianareo!",
+    "5": "Fa ataoko fa tsy misy mahalatsaka ahy noho ireo apostoly ambony indrindra.",
+    "6": "Fa na dia olona tsy nampianarina lahateny aza aho, dia tsy mba tahaka izany aho amin’ny fahalalana; fa tamin’ny zavatra rehetra dia efa naseho marimarina taminareo izahay.",
+    "7": "Diso va aho, raha nanetry tena mba hisandratanareo ka nitory maimaimpoana ny filazantsaran’Andriamanitra taminareo?",
+    "8": "Namabo ny fiangonana sasany aho ka nandray karama hanompoako anareo.",
+    "9": "Fa raha nitoetra taminareo aho ka tsy nanana, dia tsy mba nahavaky tratra olona aho; fa raha vao tonga avy tany Masedonia ny rahalahy, dia nomeny ahy izay nilaiko; ary tamin’ny zavatra rehetra dia nitandrina tsara izay tsy hahavaky tratra anareo aho sady mbola hitandrina izany ihany.",
+    "10": "Raha ato anatiko koa ny fahamarinan' i Kristy, dia tsy hisy hahafoana izany reharehako izany any amin’ny tany Akaia.",
+    "11": "Nahoana? Satria tsy tiako va ianareo? Andriamanitra no mahalala.",
+    "12": "Fa izay ataoko no mbola hataoko ihany, mba hampitsaharako ny famelezan’izay mitady hamely, mba ho hita fa tahaka anay ihany izy amin’izay ireharehany.",
+    "13": "Fa apostoly sandoka izy ireny, mpiasa mamitaka ka mampiova ny endriny ho tahaka ny Apostolin’i Kristy.",
+    "14": "Ary tsy mahagaga izany, fa Satana aza mampiova ny endriny ho tahaka ny anjelin’ny mazava.",
+    "15": "Koa tsy dia zavatra lehibe tsy akory, raha ny mpanompony koa no mampiova ny endriny tahaka ny mpanompon’ny fahamarinana; nefa ny farany ho araka ny asany ihany.",
+    "16": "Hoy izaho indray: Aza misy mihevitra ahy ho adala; nefa na dia misy manao izany aza, raiso toy ny adala aho mba hireharehako kely koa.",
+    "17": "Izao lazaiko izao dia tsy lazaiko araka ny Tompo, fa toa amin’ny fahadalana amin’izao fitokiana amin’ny fireharehana izao ihany.",
+    "18": "Satria maro no mirehareha araka ny nofo, dia mba hirehareha koa aho.",
+    "19": "Fa sitrakareo ny handefitra amin’ny adala, satria hendry ianareo.",
+    "20": "Fa mandefitra ianareo, raha misy olona manandevo anareo, raha misy mandany anareo, raha misy misambotra anareo, raha misy mirehareha aminareo, raha misy mamely ny tavanareo.",
+    "21": "Manala-barà-tena aho ka toa manaiky fa nalemy izahay! Fa amin’izay mahasahy ny olona (miteny toy ny adala aho), dia mba sahy koa aho.",
+    "22": "Hebreo va izy ireo? toy izany koa aho. Isiraelita va izy ireo? Toy izany koa aho. Taranak' i Abrahama va izy ireo? Toy izany koa aho.",
+    "23": "Mpanompon’i Kristy va izy ireo? (miteny toy ny olona very saina aho) mihoatra noho izy ireo aho: amin’ny fisasarana manan-tombo, amin’ny kapoka be efa izay tsy izy, amin’ny tranomaizina matetika kokoa, amin’ny fahafatesana matetika.",
+    "24": "Indimy aho no nokapohin’ny Jiosy inefapolo latsaka iray avy.",
+    "25": "Intelo nokapohina tamin’ny hazo aho, indray maka notoraham-bato, intelo no vaky sambo, indray andro sy indray alina no nitoerako teo amin’ny lalina.",
+    "26": "Nandeha matetika aho, saiky nahita loza tamin’ny ony, saiky nahita loza tamin’ny mpandroba, saiky nahita loza tamin’ny tompon-tany namako, saiky nahita loza tamin’ny jentilisa, saiky nahita loza tao amin’ny tanàna aho, saiky nahita loza tany an’efitra aho, saiky nahita loza tamin’ny ranomasina aho, saiky nahita loza tamin’ny rahalahy sandoka aho,",
+    "27": "Tamin’ny fisasarana sy ny fikelezan’aina, tamin’ny fiaretan-tory matetika, tamin’ny hanoanana sy ny hetaheta, tamin’ny fifadian-kanina matetika, tamin’ny hatsiaka sy ny fitanjahana.",
+    "28": "Afa-tsy ireo zavatra ivelany ireo, dia mbola misy koa izay mahazo ahy isan' andro, dia ny fiahiana ny fiangonana rehetra.",
+    "29": "Iza no malemy, ka tsy malemy aho? Iza no tafintohina, ka tsy mirehitra aho?",
+    "30": "Raha tsy maintsy mirehareha aho, dia izay momba ny fahalemeko no hataoko rehareha.",
+    "31": "Andriamanitra, Rain’i Jesosy Tompo, Izay isaorana mandrakizay, mahalala fa tsy mandainga aho.",
+    "32": "Tany Damaskosy ny governora notendren’i Areta mpanjaka dia nampiambina ny tanàna Damaskosy mba hisambotra ahy;",
+    "33": "Fa avy teo amin’ny varavarankely eo amin’ny manda no nampidinana ahy tamin’ny sobiky, ka dia afa-nandositra ny tanany aho."
+  }
 }

@@ -1,49 +1,17 @@
 {
+  "book": "Apokalypsy",
   "chapter": 10,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary hitako fa, indro nisy anjely mahery anankiray koa, nidina avy tany an-danitra sady nitafy rahona; ary ny avana dia teo amin’ny lohany, ary ny tavany dia tahaka ny masoandro, ary ny tongony tahaka ny andry afo.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary nitana boky kely nivelatra teny an-tanany izy; ary napetrany tamin' ny ranomasina ny tongony ankavanana, ary tamin' ny tany ny tongony ankavia;\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary niantso tamin’ny feo mahery izy, tahaka ny fieron’ny liona; ary nony niantso izy, dia nanonona ny feony ny kotroka fito.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary rehefa nanonona ny feony ny kotroka fito, dia efa hanoratra aho, kanjo nahare feo avy tany an-danitra aho nanao hoe: Asio tombo-kase ireo zavatra efa notononin’ny kotroka fito, fa aza soratana."
-    },
-    {
-      "v": 5,
-      "text": "Ary ny anjely, izay efa hitako nitsangana teo ambonin’ny ranomasina sy teo ambonin’ny tany, dia nanangana ny tanany ankavanana ho amin’ny lanitra,"
-    },
-    {
-      "v": 6,
-      "text": "\"Ka nianiana tamin’Izay velona mandrakizay mandrakizay, dia Ilay nahary ny lanitra sy ny ao aminy ary ny tany sy ny ao aminy ary ny ranomasina sy ny ao aminy, fa tsy hisy fotoana intsony;\""
-    },
-    {
-      "v": 7,
-      "text": "Fa amin’ny andro hitsofan’ny anjely fahafito, rehefa hitsoka izy, dia ho tanteraka ny zava-miafina izay an’Andriamanitra, araka ny teny nambarany tamin’ny mpaminany mpanompony."
-    },
-    {
-      "v": 8,
-      "text": "Ary ny feo izay efa reko avy tany an-danitra dia niteny tamiko indray hoe: Mandehana, raiso ilay boky kely mivelatra eny an-tanan’ny anjely mitsangana eo ambonin’ny ranomasina sy eo ambonin’ny tany."
-    },
-    {
-      "v": 9,
-      "text": "\"Dia nankany amin’ny anjely aho ka nanao taminy hoe: Omeo ahy iny boky kely iny. Ary hoy izy tamiko: Raiso ka hano avokoa io; dia hampangidy ny kibonao izy, nefa eo am-bavanao dia ho mamy tahaka ny tantely.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Dia noraisiko ilay boky kely teny an-tanan' ny anjely ka nohaniko avokoa; ary raha mbola teo am-bavako izy, dia mamy tahaka ny tantely, kanjo nony voateliko dia nangidy ny kiboko.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary hoy izy tamiko: Tsy maintsy maminany indray ianao eo anatrehan’ny olona maro sy ny firenena maro, sy ny fiteny maro ary ny mpanjaka maro."
-    }
-  ]
+  "verses": {
+    "1": "Ary hitako fa, indro nisy anjely mahery anankiray koa, nidina avy tany an-danitra sady nitafy rahona; ary ny avana dia teo amin’ny lohany, ary ny tavany dia tahaka ny masoandro, ary ny tongony tahaka ny andry afo.",
+    "2": "Ary nitana boky kely nivelatra teny an-tanany izy; ary napetrany tamin' ny ranomasina ny tongony ankavanana, ary tamin' ny tany ny tongony ankavia;",
+    "3": "Ary niantso tamin’ny feo mahery izy, tahaka ny fieron’ny liona; ary nony niantso izy, dia nanonona ny feony ny kotroka fito.",
+    "4": "Ary rehefa nanonona ny feony ny kotroka fito, dia efa hanoratra aho, kanjo nahare feo avy tany an-danitra aho nanao hoe: Asio tombo-kase ireo zavatra efa notononin’ny kotroka fito, fa aza soratana.",
+    "5": "Ary ny anjely, izay efa hitako nitsangana teo ambonin’ny ranomasina sy teo ambonin’ny tany, dia nanangana ny tanany ankavanana ho amin’ny lanitra,",
+    "6": "Ka nianiana tamin’Izay velona mandrakizay mandrakizay, dia Ilay nahary ny lanitra sy ny ao aminy ary ny tany sy ny ao aminy ary ny ranomasina sy ny ao aminy, fa tsy hisy fotoana intsony;",
+    "7": "Fa amin’ny andro hitsofan’ny anjely fahafito, rehefa hitsoka izy, dia ho tanteraka ny zava-miafina izay an’Andriamanitra, araka ny teny nambarany tamin’ny mpaminany mpanompony.",
+    "8": "Ary ny feo izay efa reko avy tany an-danitra dia niteny tamiko indray hoe: Mandehana, raiso ilay boky kely mivelatra eny an-tanan’ny anjely mitsangana eo ambonin’ny ranomasina sy eo ambonin’ny tany.",
+    "9": "Dia nankany amin’ny anjely aho ka nanao taminy hoe: Omeo ahy iny boky kely iny. Ary hoy izy tamiko: Raiso ka hano avokoa io; dia hampangidy ny kibonao izy, nefa eo am-bavanao dia ho mamy tahaka ny tantely.",
+    "10": "Dia noraisiko ilay boky kely teny an-tanan' ny anjely ka nohaniko avokoa; ary raha mbola teo am-bavako izy, dia mamy tahaka ny tantely, kanjo nony voateliko dia nangidy ny kiboko.",
+    "11": "Ary hoy izy tamiko: Tsy maintsy maminany indray ianao eo anatrehan’ny olona maro sy ny firenena maro, sy ny fiteny maro ary ny mpanjaka maro."
+  }
 }

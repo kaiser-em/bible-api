@@ -1,117 +1,34 @@
 {
+  "book": "Josoa",
   "chapter": 18,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nivory tao Silo ny fiangonan' ny Zanak' Isiraely rehetra ka nanangana ny tranolay fihaonana tao. Ary ny tany dia nampanekena teo anoloany."
-    },
-    {
-      "v": 2,
-      "text": "Ary nisy foko fito tamin' ny Zanak' Isiraely tsy mbola nahazo ny lovany."
-    },
-    {
-      "v": 3,
-      "text": "Dia hoy Josoa tamin' ny Zanak' Isiraely: Mandra-pahoviana ianareo no hiahotrahotra tsy handeha hahazo ny tany izay nomen' i Jehovah Andriamanitry ny razanareo anareo?"
-    },
-    {
-      "v": 4,
-      "text": "Manomeza avy aminareo telo lahy amin' ny isam-poko, dia haniraka azy aho, ka hiainga izy ary hitety ny tany, ka hanoritra izany araka ny lovany, dia hiverina aty amiko."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary hizara izany ho fito toko izy; Joda dia hitoetra any amin' ny taniny ao atsimo, ary ny ankohonan' i Josefa dia hitoetra any amin' ireo taniny ao avaratra.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary soritonareo ho fito toko ny tany ka ento aty amiko ny soritra, mba hanaovako antsapaka ho anareo eto anatrehan' i Jehovah."
-    },
-    {
-      "v": 7,
-      "text": "\"Fa tsy mba manana anjara eo aminareo ny Levita; fa ny fisoronana amin' i Jehovah no lovany; ary Gada sy Robena sy ny antsasaky ny fokon' i Manase dia efa nahazo ny lovany any an-dafy atsinanan' i Jordana izay nomen' i Mosesy, mpanompon' i Jehovah azy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Dia niainga ireo lehilahy ireo ka nandeha; ary Josoa nandidy izay nandeha hanoritra ny tany ka nanao hoe: Mandehana mitety ny tany, ka sorito izany, dia miverena aty amiko, ka eto Silo no hanaovako antsapaka ho anareo eo anatrehan' i Jehovah.\""
-    },
-    {
-      "v": 9,
-      "text": "Dia lasa ireo lehilahy ireo ka nandeha nitety ny tany, dia nanoritra izany tao amin' ny boky ho fito toko araka ny tanàna ary dia tafaverina tany amin' i Josoa tao an-toby tao Silo izy."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary Josoa dia nanao antsapaka ho azy tao Silo teo anatrehan' i Jehovah; ary tao no nizaran' i Josoa ny tany ho an' ny Zanak' Isiraely araka ny fizarany.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary nivoaka araka ny fianakaviany ny anjaran' ny fokon' ny taranak' i Benjamina; ary ny faritry ny taniny tamin' ny anjarany dia teo anelanelan' ny taranak' i Joda sy ny taranak' i Josefa.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary ny faritaniny amin' ny lafiny avaratra dia hatrany Jordana, ary ny faritany dia niakatra hatramin' ny ilan' i Jeriko amin' ny lafiny avaratra, dia niakatra niankandrefana nahazo ny tendrombohitra, ka dia nihatra tamin' ny efitr' i Betavena,"
-    },
-    {
-      "v": 13,
-      "text": "Ary ny faritany dia nandroso hatrany Lozy, hatramin' ny ilany atsinanan' i Lozy, (Betela izany) no mianatsimo, ary ny faritany dia nidina hatrany Atarota-adara ao amin' ny havoana atsimon' i Beti-horona ambany."
-    },
-    {
-      "v": 14,
-      "text": "Ary ny faritany dia niolaka tamin' ny lafiny andrefana ka nanodidina ny sisin-dranomasina niana-tsimo hatramin' ny havoana izay eo anoloan' i Beti-horona eo atsimo, ka dia nihatra any Kiriata-bala, izay (Kiriata-jearima) tanànan' ny taranak' i Joda, izany no lafiny andrefana."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ny lafiny atsimo dia hatramin' ny faran' i Kiriata-jearima; ary ny faritany dia nandroso niankandrefana ka nihatra tamin' ny loharanon' i Neftoa,\""
-    },
-    {
-      "v": 16,
-      "text": "Ary ny faritany dia nidina hatramin' ny faran' ny tendrombohitra, izay tandrifin' ny lohasahan' ny taranak' i Hinoma, eo amin' ny Lohasahan' ny olona goavambe eo avaratra, ka nidina hatramin' ny lohasahan' i Hinoma, hatramin' ny ilany atsimon' ny Jebosita, ka nidina hatrany En-rogela,"
-    },
-    {
-      "v": 17,
-      "text": "Dia nizotra ho any avaratra ka nandroso hatrany En-semesy sy nandroso hatrany Gelilota, izay tandrifin' ny fiakarana Adomima, ka nidina hatramin' ny vaton' i Bohana, zanak' i Robena,"
-    },
-    {
-      "v": 18,
-      "text": "\"Dia nandroso hatramin' ny ilany avaratra tandrifin' i Arabà ka nidina hatrany Arabà;\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ary ny faritany dia nandroso hatramin' ny ilany avaratr' i Beti-hogla, ka dia nihatra tamin' ny helo-drano avaratra amin' ny Ranomasin-tsira, eo amin' ny farany atsimo amin' i Jordana; izany no lafiny atsimo.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary Jordana no faritaniny atsinanana. Izany no lovan' ny taranak' i Benjamina amin' ny faritaniny manodidina araka ny fianakaviany."
-    },
-    {
-      "v": 21,
-      "text": "Ary ny tanànan' ny fokon' ny taranak' i Benjamina araka ny fianakaviany dia Jeriko sy Beti-hogla ary ny lohasahan' i Keziza,"
-    },
-    {
-      "v": 22,
-      "text": "Sy Beti-arbà sy Zemaraima sy Betela,"
-    },
-    {
-      "v": 23,
-      "text": "Sy Avima sy Para sy Ofra,"
-    },
-    {
-      "v": 24,
-      "text": "\"Sy Kefara-hamony sy Ofny sy Geba: tanàna roa ambin' ny folo sy ny zana-bohiny;\""
-    },
-    {
-      "v": 25,
-      "text": "Sy Gibeona sy Rama sy Berota,"
-    },
-    {
-      "v": 26,
-      "text": "Sy Mizpa sy Kefira sy Moza,"
-    },
-    {
-      "v": 27,
-      "text": "Sy Rekema sy Iripela sy Tarala,"
-    },
-    {
-      "v": 28,
-      "text": "Sy Zela sy Elefa sy Jebosa (Jerosalema izany) sy Gibea sy Kiriata: tanàna efatra ambin' ny folo sy ny zana-bohiny. Izany no lovan' ny taranak' i Benjamina araka ny fianakaviany."
-    }
-  ]
+  "verses": {
+    "1": "Ary nivory tao Silo ny fiangonan' ny Zanak' Isiraely rehetra ka nanangana ny tranolay fihaonana tao. Ary ny tany dia nampanekena teo anoloany.",
+    "2": "Ary nisy foko fito tamin' ny Zanak' Isiraely tsy mbola nahazo ny lovany.",
+    "3": "Dia hoy Josoa tamin' ny Zanak' Isiraely: Mandra-pahoviana ianareo no hiahotrahotra tsy handeha hahazo ny tany izay nomen' i Jehovah Andriamanitry ny razanareo anareo?",
+    "4": "Manomeza avy aminareo telo lahy amin' ny isam-poko, dia haniraka azy aho, ka hiainga izy ary hitety ny tany, ka hanoritra izany araka ny lovany, dia hiverina aty amiko.",
+    "5": "Ary hizara izany ho fito toko izy; Joda dia hitoetra any amin' ny taniny ao atsimo, ary ny ankohonan' i Josefa dia hitoetra any amin' ireo taniny ao avaratra.",
+    "6": "Ary soritonareo ho fito toko ny tany ka ento aty amiko ny soritra, mba hanaovako antsapaka ho anareo eto anatrehan' i Jehovah.",
+    "7": "Fa tsy mba manana anjara eo aminareo ny Levita; fa ny fisoronana amin' i Jehovah no lovany; ary Gada sy Robena sy ny antsasaky ny fokon' i Manase dia efa nahazo ny lovany any an-dafy atsinanan' i Jordana izay nomen' i Mosesy, mpanompon' i Jehovah azy.",
+    "8": "Dia niainga ireo lehilahy ireo ka nandeha; ary Josoa nandidy izay nandeha hanoritra ny tany ka nanao hoe: Mandehana mitety ny tany, ka sorito izany, dia miverena aty amiko, ka eto Silo no hanaovako antsapaka ho anareo eo anatrehan' i Jehovah.",
+    "9": "Dia lasa ireo lehilahy ireo ka nandeha nitety ny tany, dia nanoritra izany tao amin' ny boky ho fito toko araka ny tanàna ary dia tafaverina tany amin' i Josoa tao an-toby tao Silo izy.",
+    "10": "Ary Josoa dia nanao antsapaka ho azy tao Silo teo anatrehan' i Jehovah; ary tao no nizaran' i Josoa ny tany ho an' ny Zanak' Isiraely araka ny fizarany.",
+    "11": "Ary nivoaka araka ny fianakaviany ny anjaran' ny fokon' ny taranak' i Benjamina; ary ny faritry ny taniny tamin' ny anjarany dia teo anelanelan' ny taranak' i Joda sy ny taranak' i Josefa.",
+    "12": "Ary ny faritaniny amin' ny lafiny avaratra dia hatrany Jordana, ary ny faritany dia niakatra hatramin' ny ilan' i Jeriko amin' ny lafiny avaratra, dia niakatra niankandrefana nahazo ny tendrombohitra, ka dia nihatra tamin' ny efitr' i Betavena,",
+    "13": "Ary ny faritany dia nandroso hatrany Lozy, hatramin' ny ilany atsinanan' i Lozy, (Betela izany) no mianatsimo, ary ny faritany dia nidina hatrany Atarota-adara ao amin' ny havoana atsimon' i Beti-horona ambany.",
+    "14": "Ary ny faritany dia niolaka tamin' ny lafiny andrefana ka nanodidina ny sisin-dranomasina niana-tsimo hatramin' ny havoana izay eo anoloan' i Beti-horona eo atsimo, ka dia nihatra any Kiriata-bala, izay (Kiriata-jearima) tanànan' ny taranak' i Joda, izany no lafiny andrefana.",
+    "15": "Ary ny lafiny atsimo dia hatramin' ny faran' i Kiriata-jearima; ary ny faritany dia nandroso niankandrefana ka nihatra tamin' ny loharanon' i Neftoa,",
+    "16": "Ary ny faritany dia nidina hatramin' ny faran' ny tendrombohitra, izay tandrifin' ny lohasahan' ny taranak' i Hinoma, eo amin' ny Lohasahan' ny olona goavambe eo avaratra, ka nidina hatramin' ny lohasahan' i Hinoma, hatramin' ny ilany atsimon' ny Jebosita, ka nidina hatrany En-rogela,",
+    "17": "Dia nizotra ho any avaratra ka nandroso hatrany En-semesy sy nandroso hatrany Gelilota, izay tandrifin' ny fiakarana Adomima, ka nidina hatramin' ny vaton' i Bohana, zanak' i Robena,",
+    "18": "Dia nandroso hatramin' ny ilany avaratra tandrifin' i Arabà ka nidina hatrany Arabà;",
+    "19": "Ary ny faritany dia nandroso hatramin' ny ilany avaratr' i Beti-hogla, ka dia nihatra tamin' ny helo-drano avaratra amin' ny Ranomasin-tsira, eo amin' ny farany atsimo amin' i Jordana; izany no lafiny atsimo.",
+    "20": "Ary Jordana no faritaniny atsinanana. Izany no lovan' ny taranak' i Benjamina amin' ny faritaniny manodidina araka ny fianakaviany.",
+    "21": "Ary ny tanànan' ny fokon' ny taranak' i Benjamina araka ny fianakaviany dia Jeriko sy Beti-hogla ary ny lohasahan' i Keziza,",
+    "22": "Sy Beti-arbà sy Zemaraima sy Betela,",
+    "23": "Sy Avima sy Para sy Ofra,",
+    "24": "Sy Kefara-hamony sy Ofny sy Geba: tanàna roa ambin' ny folo sy ny zana-bohiny;",
+    "25": "Sy Gibeona sy Rama sy Berota,",
+    "26": "Sy Mizpa sy Kefira sy Moza,",
+    "27": "Sy Rekema sy Iripela sy Tarala,",
+    "28": "Sy Zela sy Elefa sy Jebosa (Jerosalema izany) sy Gibea sy Kiriata: tanàna efatra ambin' ny folo sy ny zana-bohiny. Izany no lovan' ny taranak' i Benjamina araka ny fianakaviany."
+  }
 }

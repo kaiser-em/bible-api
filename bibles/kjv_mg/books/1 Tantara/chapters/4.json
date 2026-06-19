@@ -1,177 +1,49 @@
 {
+  "book": "1 Tantara",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ny zanakalahin' i Joda dia Fareza sy Hezrona sy Karmy sy Hora ary Sobala."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary Reaia, zanakalahin' i Sobala, niteraka an' i Jahata; ary Jahata niteraka an' i Ahomay sy Lahada. Ireo no fianakavian' ny Zoraita.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary izao no avy amin' ny rain' i Etama: Jezirela sy Jisma ary Jidbasy, ary Hazelelpony no anaran' ny anabaviny,"
-    },
-    {
-      "v": 4,
-      "text": "\"Ary Penoela, rain' i Gedora sy Ezera, rain' i Hosa; ireo no zanak' i Hora, lahimatoan' i Efrata, razamben' ny any Betlehema.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary Asora rain' i Tekoa nampirafy, dia Hela sy Nara."
-    },
-    {
-      "v": 6,
-      "text": "Ary Nara niteraka an' i Ahozama sy Hafera sy Temeny ary Hahastary. Ireo no zanakalahin' i Nara."
-    },
-    {
-      "v": 7,
-      "text": "Ary ny zanakalahin' i Hela dia Zareta sy Jizara ary Etnana."
-    },
-    {
-      "v": 8,
-      "text": "Ary Koza niteraka an' i Anoba sy Zobeba ary ny fianakavian' i Aharela, zanakalahin' i Haroma."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary Jabeza dia nalaza noho ny rahalahiny; ary ny reniny nanao ny anarany hoe Jabeza, fa hoy izy: Ory aho, raha niteraka azy.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary Jabeza niantso an' Andriamanitry ny Isiraely nanao hoe: Enga anie ka hotahianao tokoa aho, ka hohalalahinao ny faritaniko, ary ho amiko ny tananao, ka harovanao amin' ny ratsy aho, mba tsy hampahory ahy izany. Ary dia nomen' Andriamanitra azy ny nangatahiny."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary Keloba, rahalahin' i Soha, niteraka an' i Mehira, rain' i Estona;\""
-    },
-    {
-      "v": 12,
-      "text": "Ary Estona niteraka an' i Betirafa sy Pasea ary Tehina, rain' Ir-nahasa. Ireo dia mponina tao Reka."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ny zanakalahin' i Kenaza dia Otniela sy Seraia; ary ny zanakalahin' i Otniela dia Hatata.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary Meonotahy niteraka an' i Ofra; ary Seraia niteraka an' i Joaba, razamben' ny ao an-dohasahan' ny Karasima, fa mpiasa ireo.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ny zanakalahin' i Kaleba, zanakalahin' i Jefone, dia Iro sy Elaha sy Nama; ary ny zanakalahin' i Elaha dia Kenana.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary ny zanakalahin' i Jehalalila dia Zifa sy Zifaha sy Tiria ary Asarela."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ny zanakalahin' i Ezra dia Jatera sy Mareda sy Efera ary Jalona; ary izy niteraka an' i Miriama sy Samay ary Jisba, razamben' ny any Estemoa.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary Jehodia vadiny niteraka an' i Jareda, razamben' ny any Gedora, sy hebera, razamben' ny any Soko, ary Jakotela, razamben' ny any Zanoa. ireo no zanakalahin' i Bitia, zanakavavin' i Farao, izay novadin' i Mareda."
-    },
-    {
-      "v": 19,
-      "text": "Ary ny zanakalahin' i Hodia vadiny, izay anabavin' i Nahama, dia ny razamben' ny any Keila Garnita sy Estemoa Makatita."
-    },
-    {
-      "v": 20,
-      "text": "Ary ny zanakalahin' i Simona, dia Amnona sy Rina sy Ben-hanana ary Tilona. Ary ny zanakalahin' i Jisy dia Zoheta sy Ben-zoheta."
-    },
-    {
-      "v": 21,
-      "text": "Ary ny zanakalahin' i Sela, zanak' i Joda, dia Era, rain' i Leka sy Lada, rain' i Maresa sy ny fianakavian' ny ankohonan' ireo mpanao hariry madinika ao amin' ny ankohonan' i Asbea,"
-    },
-    {
-      "v": 22,
-      "text": "Ary Jokima sy ny mponina tao Kozeba ary Joasy sy Sarafa, izay samy nanapaka tany Moaba, ary Jasobi-lehema. Ary efa ela izany zavatra izany."
-    },
-    {
-      "v": 23,
-      "text": "\"Ireo no mpanefy vilany sy nonina teo amin' ny voly sy ny fefy manodidina; tany no nitoerany tamin' ny mpanjaka hanao ny asany.\""
-    },
-    {
-      "v": 24,
-      "text": "Ny zanakalahin' i Simeona dia Nemoela sy Jamina sy Jariba sy Zera ary Saoly,"
-    },
-    {
-      "v": 25,
-      "text": "Dia Saloma no zanakalahin' i Saoly, Mibsama no zanakalahin' i Saloma, Misma no zanakalahin' i Mibsama."
-    },
-    {
-      "v": 26,
-      "text": "Ary ny zanakalahin' i Misma dia Hamoela, ary Zakora no zanakalahin'i Hamoela, Simey no zanakalahin' i Zakora."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary Simey nanan-janaka enina ambin' ny folo lahy sy enim-bavy; fa ny rahalahiny tsy nanan-janaka maro, sady tsy nihamaro tahaka ny taranak' i Joda.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary nonina tao Beri-sheba sy Malada sy Hadara-soala izy ireo."
-    },
-    {
-      "v": 29,
-      "text": "Sy tao Bila sy Ezema sy Tolada,"
-    },
-    {
-      "v": 30,
-      "text": "Sy tao Betoela sy Horma sy Ziklaga,"
-    },
-    {
-      "v": 31,
-      "text": "Sy tao Beti-markabota sy Hazora-sosima sy Beti-biry ary Saraima. Ireo no tanàna nonenany mandra-panjakan' i Davida."
-    },
-    {
-      "v": 32,
-      "text": "\"Ary ny zana-bohiny dia Etama sy Aina sy Rimona sy Tokena ary Asana; tanàna dimy ireo,\""
-    },
-    {
-      "v": 33,
-      "text": "Ary ny zana-bohiny rehetra izay manodidina izany tanàna izany hatrany Bala. Ireo no fonenany ary izany no tantaram-pirazanany."
-    },
-    {
-      "v": 34,
-      "text": "Ary Mesobaba sy Jamleka sy Josa, zanak' i Amazia,"
-    },
-    {
-      "v": 35,
-      "text": "Ary Joela sy Jeho, zanak' i Josibia, zanak' i Seraia, zanak' i Asiela,"
-    },
-    {
-      "v": 36,
-      "text": "Ary Elioenay sy Jakoba sy Jesohaia sy Asaia sy Adiela sy Jesimiela sy Benaia,"
-    },
-    {
-      "v": 37,
-      "text": "\"Sy Ziza, zanak' i Sify, zanak' i Alona, zanak' i Jedaia, zanak' i Simry, zanak' i Semaia;\""
-    },
-    {
-      "v": 38,
-      "text": "\"Ireo voalaza anarana ireo dia samy mpifehy amin' ny fianakaviany avy; ary nihamaro indrindra ny ankohonan' ireo rainy.\""
-    },
-    {
-      "v": 39,
-      "text": "Ary nankany amin' ny fidirana ho any Gedora izy, dia hatramin' ny ilany atsinanana amin' ny lohasaha, hitady ahitra ho an' ny ondry aman' osiny."
-    },
-    {
-      "v": 40,
-      "text": "\"Ary nahita ahitra maitso sady tsara izy, ary malalaka ny tany sady nandry fahizay; nefa ny taranak' i Hama no nonina tany taloha.\""
-    },
-    {
-      "v": 41,
-      "text": "\"Ary ireo voasoratra anarana ireo dia tonga tao tamin' ny andron' i Hezekia, mpanjakan' ny Joda, ka namely ny lay sy ny fonenana hitany tao sy nandringana azy rehetra mandraka ankehitriny, dia nonina nisolo azy; fa nisy ahitra ho an' ny ondriny aman' osiny tany.\""
-    },
-    {
-      "v": 42,
-      "text": "Ary nisy tamin' izy ireo, lehilahy dimanjato tamin' ny taranak' i Simeona nankany amin' ny tendrombohitra Seïra fa nanana an' i Peletia sy Nearia sy Refaia ary Oziela, zanakalahin' i Jisy, ho mpifehy azy."
-    },
-    {
-      "v": 43,
-      "text": "Ary namely ny sisa afaka tamin' ny Amalekita izy, ka dia monina ao mandraka androany."
-    }
-  ]
+  "verses": {
+    "1": "Ny zanakalahin' i Joda dia Fareza sy Hezrona sy Karmy sy Hora ary Sobala.",
+    "2": "Ary Reaia, zanakalahin' i Sobala, niteraka an' i Jahata; ary Jahata niteraka an' i Ahomay sy Lahada. Ireo no fianakavian' ny Zoraita.",
+    "3": "Ary izao no avy amin' ny rain' i Etama: Jezirela sy Jisma ary Jidbasy, ary Hazelelpony no anaran' ny anabaviny,",
+    "4": "Ary Penoela, rain' i Gedora sy Ezera, rain' i Hosa; ireo no zanak' i Hora, lahimatoan' i Efrata, razamben' ny any Betlehema.",
+    "5": "Ary Asora rain' i Tekoa nampirafy, dia Hela sy Nara.",
+    "6": "Ary Nara niteraka an' i Ahozama sy Hafera sy Temeny ary Hahastary. Ireo no zanakalahin' i Nara.",
+    "7": "Ary ny zanakalahin' i Hela dia Zareta sy Jizara ary Etnana.",
+    "8": "Ary Koza niteraka an' i Anoba sy Zobeba ary ny fianakavian' i Aharela, zanakalahin' i Haroma.",
+    "9": "Ary Jabeza dia nalaza noho ny rahalahiny; ary ny reniny nanao ny anarany hoe Jabeza, fa hoy izy: Ory aho, raha niteraka azy.",
+    "10": "Ary Jabeza niantso an' Andriamanitry ny Isiraely nanao hoe: Enga anie ka hotahianao tokoa aho, ka hohalalahinao ny faritaniko, ary ho amiko ny tananao, ka harovanao amin' ny ratsy aho, mba tsy hampahory ahy izany. Ary dia nomen' Andriamanitra azy ny nangatahiny.",
+    "11": "Ary Keloba, rahalahin' i Soha, niteraka an' i Mehira, rain' i Estona;",
+    "12": "Ary Estona niteraka an' i Betirafa sy Pasea ary Tehina, rain' Ir-nahasa. Ireo dia mponina tao Reka.",
+    "13": "Ary ny zanakalahin' i Kenaza dia Otniela sy Seraia; ary ny zanakalahin' i Otniela dia Hatata.",
+    "14": "Ary Meonotahy niteraka an' i Ofra; ary Seraia niteraka an' i Joaba, razamben' ny ao an-dohasahan' ny Karasima, fa mpiasa ireo.",
+    "15": "Ary ny zanakalahin' i Kaleba, zanakalahin' i Jefone, dia Iro sy Elaha sy Nama; ary ny zanakalahin' i Elaha dia Kenana.",
+    "16": "Ary ny zanakalahin' i Jehalalila dia Zifa sy Zifaha sy Tiria ary Asarela.",
+    "17": "Ary ny zanakalahin' i Ezra dia Jatera sy Mareda sy Efera ary Jalona; ary izy niteraka an' i Miriama sy Samay ary Jisba, razamben' ny any Estemoa.",
+    "18": "Ary Jehodia vadiny niteraka an' i Jareda, razamben' ny any Gedora, sy hebera, razamben' ny any Soko, ary Jakotela, razamben' ny any Zanoa. ireo no zanakalahin' i Bitia, zanakavavin' i Farao, izay novadin' i Mareda.",
+    "19": "Ary ny zanakalahin' i Hodia vadiny, izay anabavin' i Nahama, dia ny razamben' ny any Keila Garnita sy Estemoa Makatita.",
+    "20": "Ary ny zanakalahin' i Simona, dia Amnona sy Rina sy Ben-hanana ary Tilona. Ary ny zanakalahin' i Jisy dia Zoheta sy Ben-zoheta.",
+    "21": "Ary ny zanakalahin' i Sela, zanak' i Joda, dia Era, rain' i Leka sy Lada, rain' i Maresa sy ny fianakavian' ny ankohonan' ireo mpanao hariry madinika ao amin' ny ankohonan' i Asbea,",
+    "22": "Ary Jokima sy ny mponina tao Kozeba ary Joasy sy Sarafa, izay samy nanapaka tany Moaba, ary Jasobi-lehema. Ary efa ela izany zavatra izany.",
+    "23": "Ireo no mpanefy vilany sy nonina teo amin' ny voly sy ny fefy manodidina; tany no nitoerany tamin' ny mpanjaka hanao ny asany.",
+    "24": "Ny zanakalahin' i Simeona dia Nemoela sy Jamina sy Jariba sy Zera ary Saoly,",
+    "25": "Dia Saloma no zanakalahin' i Saoly, Mibsama no zanakalahin' i Saloma, Misma no zanakalahin' i Mibsama.",
+    "26": "Ary ny zanakalahin' i Misma dia Hamoela, ary Zakora no zanakalahin'i Hamoela, Simey no zanakalahin' i Zakora.",
+    "27": "Ary Simey nanan-janaka enina ambin' ny folo lahy sy enim-bavy; fa ny rahalahiny tsy nanan-janaka maro, sady tsy nihamaro tahaka ny taranak' i Joda.",
+    "28": "Ary nonina tao Beri-sheba sy Malada sy Hadara-soala izy ireo.",
+    "29": "Sy tao Bila sy Ezema sy Tolada,",
+    "30": "Sy tao Betoela sy Horma sy Ziklaga,",
+    "31": "Sy tao Beti-markabota sy Hazora-sosima sy Beti-biry ary Saraima. Ireo no tanàna nonenany mandra-panjakan' i Davida.",
+    "32": "Ary ny zana-bohiny dia Etama sy Aina sy Rimona sy Tokena ary Asana; tanàna dimy ireo,",
+    "33": "Ary ny zana-bohiny rehetra izay manodidina izany tanàna izany hatrany Bala. Ireo no fonenany ary izany no tantaram-pirazanany.",
+    "34": "Ary Mesobaba sy Jamleka sy Josa, zanak' i Amazia,",
+    "35": "Ary Joela sy Jeho, zanak' i Josibia, zanak' i Seraia, zanak' i Asiela,",
+    "36": "Ary Elioenay sy Jakoba sy Jesohaia sy Asaia sy Adiela sy Jesimiela sy Benaia,",
+    "37": "Sy Ziza, zanak' i Sify, zanak' i Alona, zanak' i Jedaia, zanak' i Simry, zanak' i Semaia;",
+    "38": "Ireo voalaza anarana ireo dia samy mpifehy amin' ny fianakaviany avy; ary nihamaro indrindra ny ankohonan' ireo rainy.",
+    "39": "Ary nankany amin' ny fidirana ho any Gedora izy, dia hatramin' ny ilany atsinanana amin' ny lohasaha, hitady ahitra ho an' ny ondry aman' osiny.",
+    "40": "Ary nahita ahitra maitso sady tsara izy, ary malalaka ny tany sady nandry fahizay; nefa ny taranak' i Hama no nonina tany taloha.",
+    "41": "Ary ireo voasoratra anarana ireo dia tonga tao tamin' ny andron' i Hezekia, mpanjakan' ny Joda, ka namely ny lay sy ny fonenana hitany tao sy nandringana azy rehetra mandraka ankehitriny, dia nonina nisolo azy; fa nisy ahitra ho an' ny ondriny aman' osiny tany.",
+    "42": "Ary nisy tamin' izy ireo, lehilahy dimanjato tamin' ny taranak' i Simeona nankany amin' ny tendrombohitra Seïra fa nanana an' i Peletia sy Nearia sy Refaia ary Oziela, zanakalahin' i Jisy, ho mpifehy azy.",
+    "43": "Ary namely ny sisa afaka tamin' ny Amalekita izy, ka dia monina ao mandraka androany."
+  }
 }

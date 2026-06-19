@@ -1,109 +1,32 @@
 {
+  "book": "Isaia",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Fa, indro, Jehovah, Tompon' ny maro, manaisotra amin' i Jerosalema sy Joda ny andry sy tohana rehetra, dia ny mofo sy ny rano, izay tohana rehetra."
-    },
-    {
-      "v": 2,
-      "text": "Ny lehilahy mahery sy ny mpiady, ny mpitsara sy ny mpaminany, ny mpanao fankatovana sy ny loholona,"
-    },
-    {
-      "v": 3,
-      "text": "Ny mpifehy dimampolo sy ny manankaja, ny mpanolo-tsaina sy ny mahay zavatra ary ny mpandaha-teny mahay."
-    },
-    {
-      "v": 4,
-      "text": "Ary ankizy no homeko ho lehibeny ary zazabodo no hanapaka azy."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary hifampahory izy samy iray firenena, dia samy ny namany avy sy ny akaiky azy avy; ny ankizy hirehareha amin' ny anti-panahy, ary ny ambany amin' ny manan-daza.\""
-    },
-    {
-      "v": 6,
-      "text": "Raha misy olona hazonin' ny rahalahiny ao an-tranon-drainy ka ataony hoe: Ianao no manana lamba, koa aoka ho mpanapaka anay, ary aoka ity faharavana ity ho raharahanao,"
-    },
-    {
-      "v": 7,
-      "text": "\"Amin' izany andro izany dia hianiana izy ka hanao hoe: Tsy mety ho dokotera aho, fa ao an-tranoko tsy misy hanina, na lamba; koa aza manao ahy ho mpanapaka ny olona.\""
-    },
-    {
-      "v": 8,
-      "text": "Fa rava Jerosalema, ary lavo Joda, satria ny lelany sy ny asany dia manohitra an' i Jehovah mba hampahatezitra ny mason' ny voninahiny."
-    },
-    {
-      "v": 9,
-      "text": "\"Ny fisehon' ny tarehiny miampanga azy; ary mampiharihary ny fahotany tahaka an' i Sodoma izy ka tsy manafina izany. Loza ho an' ny fanahiny! fa mampidi-doza amin' ny tenany izy.\""
-    },
-    {
-      "v": 10,
-      "text": "Lazaonareo amin' ny marina fa hahita soa izy, fa ny vokatry ny asany no hohaniny."
-    },
-    {
-      "v": 11,
-      "text": "Loza ho an' ny ratsy fanahy! Hiharan' ny ratsy izy, satria ny valin' ny nataony no hanody azy."
-    },
-    {
-      "v": 12,
-      "text": "Ny amin' ny oloko dia zaza no mampahory azy, ary ireo vehivavy no manapaka azy. Ry oloko ô, ny mpitarika anao no mampivily anao sady mandrava ny lalana alehanao."
-    },
-    {
-      "v": 13,
-      "text": "Mitsangana handahatra Jehovah, ary miatrika hitsara ny olona."
-    },
-    {
-      "v": 14,
-      "text": "\"Hitsara ny loholona amin' ny olony sy ny mpanapaka azy Jehovah; fa efa nandevona ny tanimboaloboka ianareo; ao an-tranonareo ny fananan' ny mahantra izay efa nalainareo an-keriny.\""
-    },
-    {
-      "v": 15,
-      "text": "Ahoana no hevitrareo no dia hosihosenareo ny oloko, ary torotoroinareo ny tavan' ny mahantra? hoy Jehovah An-driamanitry ny maro."
-    },
-    {
-      "v": 16,
-      "text": "Ary hoy koa Jehovah: Satria miavonavona ireo zanakavavin' i Ziona ka mandeha mianjonanjona sy manao maso meloka sady kasikasy fandeha ary mampikorintsandrintsana ny fehintongony,"
-    },
-    {
-      "v": 17,
-      "text": "Noho izany dia hataon' ny Tompo feno takopery ny tampon-dohan' ny zanakavavin' i Ziona, ary Jehovah hampiseho ny fitanjahany."
-    },
-    {
-      "v": 18,
-      "text": "Amin' izany andro izany dia hoesorin' i Jehovah ny firavaka rehetra, na ny fehintongony, na ny fehiloha, na ny sarim-bolan-tsinana,"
-    },
-    {
-      "v": 19,
-      "text": "Ny kavina voavola, ny haba, ny fisalobonana makarakara,"
-    },
-    {
-      "v": 20,
-      "text": "Ny satroka, ny haingo amin' ny tongotra, sy ny fehiloha, sy ny fitoeran-dranomanitra ary ny kavin-tsofina,"
-    },
-    {
-      "v": 21,
-      "text": "Ny peratra sy ny kavin' orona,"
-    },
-    {
-      "v": 22,
-      "text": "Ny akanjo fihaingoana miovaova sy ny saly sy ny voaly ary ny poketra,"
-    },
-    {
-      "v": 23,
-      "text": "\"Ny fitaratra fizahana sy ny akanjo somizo, ny satroka tiara ary ny lamba fisaronana;\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary izao no hiseho: ny manitra hosoloana ny maimbo, ary ny fehikibo tsara hosoloana ny mahazaka; ary ny volo voavoatra tsara hosoloana ny solaina; ary ny akanjo miebanebana hosoloana ny lamba fisaonana; ary ny hatsaran-tarehy hosoloana amin' ny tomboka amin' ny vy mahamay.\""
-    },
-    {
-      "v": 25,
-      "text": "Ny lehilahy ao aminao ho lavon-tsabatra, ary ny mahery ao aminao ho faty an' ady."
-    },
-    {
-      "v": 26,
-      "text": "Ka dia hitomany sy hisaona ny vavahadiny ary ho lao ny tanàna ka hanjokaiky."
-    }
-  ]
+  "verses": {
+    "1": "Fa, indro, Jehovah, Tompon' ny maro, manaisotra amin' i Jerosalema sy Joda ny andry sy tohana rehetra, dia ny mofo sy ny rano, izay tohana rehetra.",
+    "2": "Ny lehilahy mahery sy ny mpiady, ny mpitsara sy ny mpaminany, ny mpanao fankatovana sy ny loholona,",
+    "3": "Ny mpifehy dimampolo sy ny manankaja, ny mpanolo-tsaina sy ny mahay zavatra ary ny mpandaha-teny mahay.",
+    "4": "Ary ankizy no homeko ho lehibeny ary zazabodo no hanapaka azy.",
+    "5": "Ary hifampahory izy samy iray firenena, dia samy ny namany avy sy ny akaiky azy avy; ny ankizy hirehareha amin' ny anti-panahy, ary ny ambany amin' ny manan-daza.",
+    "6": "Raha misy olona hazonin' ny rahalahiny ao an-tranon-drainy ka ataony hoe: Ianao no manana lamba, koa aoka ho mpanapaka anay, ary aoka ity faharavana ity ho raharahanao,",
+    "7": "Amin' izany andro izany dia hianiana izy ka hanao hoe: Tsy mety ho dokotera aho, fa ao an-tranoko tsy misy hanina, na lamba; koa aza manao ahy ho mpanapaka ny olona.",
+    "8": "Fa rava Jerosalema, ary lavo Joda, satria ny lelany sy ny asany dia manohitra an' i Jehovah mba hampahatezitra ny mason' ny voninahiny.",
+    "9": "Ny fisehon' ny tarehiny miampanga azy; ary mampiharihary ny fahotany tahaka an' i Sodoma izy ka tsy manafina izany. Loza ho an' ny fanahiny! fa mampidi-doza amin' ny tenany izy.",
+    "10": "Lazaonareo amin' ny marina fa hahita soa izy, fa ny vokatry ny asany no hohaniny.",
+    "11": "Loza ho an' ny ratsy fanahy! Hiharan' ny ratsy izy, satria ny valin' ny nataony no hanody azy.",
+    "12": "Ny amin' ny oloko dia zaza no mampahory azy, ary ireo vehivavy no manapaka azy. Ry oloko ô, ny mpitarika anao no mampivily anao sady mandrava ny lalana alehanao.",
+    "13": "Mitsangana handahatra Jehovah, ary miatrika hitsara ny olona.",
+    "14": "Hitsara ny loholona amin' ny olony sy ny mpanapaka azy Jehovah; fa efa nandevona ny tanimboaloboka ianareo; ao an-tranonareo ny fananan' ny mahantra izay efa nalainareo an-keriny.",
+    "15": "Ahoana no hevitrareo no dia hosihosenareo ny oloko, ary torotoroinareo ny tavan' ny mahantra? hoy Jehovah An-driamanitry ny maro.",
+    "16": "Ary hoy koa Jehovah: Satria miavonavona ireo zanakavavin' i Ziona ka mandeha mianjonanjona sy manao maso meloka sady kasikasy fandeha ary mampikorintsandrintsana ny fehintongony,",
+    "17": "Noho izany dia hataon' ny Tompo feno takopery ny tampon-dohan' ny zanakavavin' i Ziona, ary Jehovah hampiseho ny fitanjahany.",
+    "18": "Amin' izany andro izany dia hoesorin' i Jehovah ny firavaka rehetra, na ny fehintongony, na ny fehiloha, na ny sarim-bolan-tsinana,",
+    "19": "Ny kavina voavola, ny haba, ny fisalobonana makarakara,",
+    "20": "Ny satroka, ny haingo amin' ny tongotra, sy ny fehiloha, sy ny fitoeran-dranomanitra ary ny kavin-tsofina,",
+    "21": "Ny peratra sy ny kavin' orona,",
+    "22": "Ny akanjo fihaingoana miovaova sy ny saly sy ny voaly ary ny poketra,",
+    "23": "Ny fitaratra fizahana sy ny akanjo somizo, ny satroka tiara ary ny lamba fisaronana;",
+    "24": "Ary izao no hiseho: ny manitra hosoloana ny maimbo, ary ny fehikibo tsara hosoloana ny mahazaka; ary ny volo voavoatra tsara hosoloana ny solaina; ary ny akanjo miebanebana hosoloana ny lamba fisaonana; ary ny hatsaran-tarehy hosoloana amin' ny tomboka amin' ny vy mahamay.",
+    "25": "Ny lehilahy ao aminao ho lavon-tsabatra, ary ny mahery ao aminao ho faty an' ady.",
+    "26": "Ka dia hitomany sy hisaona ny vavahadiny ary ho lao ny tanàna ka hanjokaiky."
+  }
 }

@@ -1,101 +1,30 @@
 {
+  "book": "Levitikosy",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary izao no niseho tamin' ny andro fahavalo, Mosesy dia niantso an' i Arona sy ny zanany lahy ary ny loholon' ny Isiraely;\""
-    },
-    {
-      "v": 2,
-      "text": "Dia hoy izy tamin' i Arona: Makà ombilahy kely ho fanatitra noho ny ota sy ondrilahy iray ho fanatitra dorana, izay tsy misy kilema, ka atero eo anatrehan' i Jehovah ireo."
-    },
-    {
-      "v": 3,
-      "text": "Ary hiteny amin' ny Zanak' Isiraely ianao manao hoe: Makà zanak' osilahy iray ho fanatitra noho ny ota sy ombilahy kely iray ary zanak' ondry iray, izay samy iray taona, tsy misy kilema, ho fanatitra dorana."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary omby iray sy ondrilahy iray ho fanati-pihavanana hatao fanatitra eo anatrehan' i Jehovah; ary fanatitra hohanina voaharo diloilo: fa anio no hisehoan' i Jehovah aminareo.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Dia nitondra izay nandidian' i Mosesy azy ho eo anoloan' ny tranolay fihaonana izy; ary ny fiangonana rehetra nanatona ka nijanona teo anatrehan' i Jehovah.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary hoy Mosesy: Izao no zavatra izay nandidian' i Jehovah fa tokony hataonareo: dia hiseho aminareo ny voninahitr' i Jehovah."
-    },
-    {
-      "v": 7,
-      "text": "Ary hoy Mosesy tamin' i Arona: Manatòna ny alitara, dia manatera ny fanatitrao noho ny ota sy ny fanatitrao dorana, ka manaova fanavotana ho an' ny tenanao sy ho an' ny olona, dia manatera ny fanatitry ny olona ka manaova fanavotana ho azy ireo araka izay nandidian' i Jehovah."
-    },
-    {
-      "v": 8,
-      "text": "Dia nankeo amin' ny alitara Arona ka namono ny ombilahy kelin' ny fanatitra noho ny ota izay ho an' ny tenany."
-    },
-    {
-      "v": 9,
-      "text": "Ary nentin' ny zanakalahin' i Arona ho eo aminy ny ra, dia nanoboka ny fanondrony tao amin' ny rà i Arona, ka nataony tamin' ny tandroky ny alitara izany, ary dia naidiny teo am-bodin' ny alitara ny ra:"
-    },
-    {
-      "v": 10,
-      "text": "Fa ny saborany sy ny voany ary ny saron' atin' ny fanatitra noho ny ota, dia nodorany teo ambony alitara, araka ny nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 11,
-      "text": "Ary ny henany sy ny hodiny dia nodorany tamin' ny afo teny ivelan' ny toby."
-    },
-    {
-      "v": 12,
-      "text": "Dia namono ny fanatitra dorana izy, ary ny zanakalahin' i Arona nanolotra azy ny rà izay natopiny manodidina ny lafin' ny alitara."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary natolotr' ireo azy ny fanatitra dorana miaraka amin' ny didiny sy ny lohany; dia nodorany teo ambony alitara izany.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary nanasa ny taovany sy ny tongony izy dia nandoro izany ho fanatitra dorana teo ambonin' ny alitara."
-    },
-    {
-      "v": 15,
-      "text": "Ary nitondra ny fanatitry ny olona izy, ka nalainy ny osilahy izay fanatitra noho ny ota ho an' ny olona, dia novonoiny izany ka nateriny noho ny ota izany tahaka ilay voalohany."
-    },
-    {
-      "v": 16,
-      "text": "Dia nitondra ny fanatitra dorana izy, ka nanatitra izany araka ny fanao."
-    },
-    {
-      "v": 17,
-      "text": "Dia nitondra ny fanatitra hohanina izy, ka nangalany eran' ny tanan' ila, dia nodorany teo ambony alitara izany, ho fanampin' ny fanatitra dorana amin' ny maraina."
-    },
-    {
-      "v": 18,
-      "text": "\"Dia namono ny omby sy ny ondrilahy koa izy ho sorona amin' ny fanati-pihavanana izay ho an' ny olona; ary ny zanakalahin' i Arona nanolotra azy ny ra, izay natopiny manodidina tamin' ny lafin' ny alitara,\""
-    },
-    {
-      "v": 19,
-      "text": "\"Sy ny saboran' ny omby sy ny ondrilahy, ny hofany ary ny safodrorohany, mbamin' ny voany ary ny saron' atiny;\""
-    },
-    {
-      "v": 20,
-      "text": "Ary napetrany teo ambonin' ny tratran' ireo ny saborany, dia nodorany teo ambony alitara ny sabora."
-    },
-    {
-      "v": 21,
-      "text": "Fa ny tratrany sy ny sorony ankavanana kosa dia nahevahevan' i Arona ho fanatitra ahevaheva eo anatrehan' i Jehovah, araka ny nandidian' i Mosesy."
-    },
-    {
-      "v": 22,
-      "text": "Ary nanandratra ny tanany manandrify ny olona Arona, dia nitso-drano azy, ka nidina rehefa avy nanatitra ny fanatitra noho ny ota sy ny fanatitra dorana ary ny fanati-pihavanana."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary niditra tao amin' ny trano-lay fihaonana Mosesy sy Arona, dia nivoaka ka nitso-drano ny olona; ary ny voninahitr' i Jehovah niseho tamin' ny olona rehetra.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary nisy afo nivoaka avy teo anatrehan' i Jehovah ka nandevona ny fanatitra dorana sy ny sabora teo ambony alitara; ary nony hitan' ny olona rehetra izany, dia nihoby izy sady niankohoka.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no niseho tamin' ny andro fahavalo, Mosesy dia niantso an' i Arona sy ny zanany lahy ary ny loholon' ny Isiraely;",
+    "2": "Dia hoy izy tamin' i Arona: Makà ombilahy kely ho fanatitra noho ny ota sy ondrilahy iray ho fanatitra dorana, izay tsy misy kilema, ka atero eo anatrehan' i Jehovah ireo.",
+    "3": "Ary hiteny amin' ny Zanak' Isiraely ianao manao hoe: Makà zanak' osilahy iray ho fanatitra noho ny ota sy ombilahy kely iray ary zanak' ondry iray, izay samy iray taona, tsy misy kilema, ho fanatitra dorana.",
+    "4": "Ary omby iray sy ondrilahy iray ho fanati-pihavanana hatao fanatitra eo anatrehan' i Jehovah; ary fanatitra hohanina voaharo diloilo: fa anio no hisehoan' i Jehovah aminareo.",
+    "5": "Dia nitondra izay nandidian' i Mosesy azy ho eo anoloan' ny tranolay fihaonana izy; ary ny fiangonana rehetra nanatona ka nijanona teo anatrehan' i Jehovah.",
+    "6": "Ary hoy Mosesy: Izao no zavatra izay nandidian' i Jehovah fa tokony hataonareo: dia hiseho aminareo ny voninahitr' i Jehovah.",
+    "7": "Ary hoy Mosesy tamin' i Arona: Manatòna ny alitara, dia manatera ny fanatitrao noho ny ota sy ny fanatitrao dorana, ka manaova fanavotana ho an' ny tenanao sy ho an' ny olona, dia manatera ny fanatitry ny olona ka manaova fanavotana ho azy ireo araka izay nandidian' i Jehovah.",
+    "8": "Dia nankeo amin' ny alitara Arona ka namono ny ombilahy kelin' ny fanatitra noho ny ota izay ho an' ny tenany.",
+    "9": "Ary nentin' ny zanakalahin' i Arona ho eo aminy ny ra, dia nanoboka ny fanondrony tao amin' ny rà i Arona, ka nataony tamin' ny tandroky ny alitara izany, ary dia naidiny teo am-bodin' ny alitara ny ra:",
+    "10": "Fa ny saborany sy ny voany ary ny saron' atin' ny fanatitra noho ny ota, dia nodorany teo ambony alitara, araka ny nandidian' i Jehovah an' i Mosesy.",
+    "11": "Ary ny henany sy ny hodiny dia nodorany tamin' ny afo teny ivelan' ny toby.",
+    "12": "Dia namono ny fanatitra dorana izy, ary ny zanakalahin' i Arona nanolotra azy ny rà izay natopiny manodidina ny lafin' ny alitara.",
+    "13": "Ary natolotr' ireo azy ny fanatitra dorana miaraka amin' ny didiny sy ny lohany; dia nodorany teo ambony alitara izany.",
+    "14": "Ary nanasa ny taovany sy ny tongony izy dia nandoro izany ho fanatitra dorana teo ambonin' ny alitara.",
+    "15": "Ary nitondra ny fanatitry ny olona izy, ka nalainy ny osilahy izay fanatitra noho ny ota ho an' ny olona, dia novonoiny izany ka nateriny noho ny ota izany tahaka ilay voalohany.",
+    "16": "Dia nitondra ny fanatitra dorana izy, ka nanatitra izany araka ny fanao.",
+    "17": "Dia nitondra ny fanatitra hohanina izy, ka nangalany eran' ny tanan' ila, dia nodorany teo ambony alitara izany, ho fanampin' ny fanatitra dorana amin' ny maraina.",
+    "18": "Dia namono ny omby sy ny ondrilahy koa izy ho sorona amin' ny fanati-pihavanana izay ho an' ny olona; ary ny zanakalahin' i Arona nanolotra azy ny ra, izay natopiny manodidina tamin' ny lafin' ny alitara,",
+    "19": "Sy ny saboran' ny omby sy ny ondrilahy, ny hofany ary ny safodrorohany, mbamin' ny voany ary ny saron' atiny;",
+    "20": "Ary napetrany teo ambonin' ny tratran' ireo ny saborany, dia nodorany teo ambony alitara ny sabora.",
+    "21": "Fa ny tratrany sy ny sorony ankavanana kosa dia nahevahevan' i Arona ho fanatitra ahevaheva eo anatrehan' i Jehovah, araka ny nandidian' i Mosesy.",
+    "22": "Ary nanandratra ny tanany manandrify ny olona Arona, dia nitso-drano azy, ka nidina rehefa avy nanatitra ny fanatitra noho ny ota sy ny fanatitra dorana ary ny fanati-pihavanana.",
+    "23": "Ary niditra tao amin' ny trano-lay fihaonana Mosesy sy Arona, dia nivoaka ka nitso-drano ny olona; ary ny voninahitr' i Jehovah niseho tamin' ny olona rehetra.",
+    "24": "Ary nisy afo nivoaka avy teo anatrehan' i Jehovah ka nandevona ny fanatitra dorana sy ny sabora teo ambony alitara; ary nony hitan' ny olona rehetra izany, dia nihoby izy sady niankohoka."
+  }
 }

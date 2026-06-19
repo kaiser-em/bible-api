@@ -1,69 +1,22 @@
 {
+  "book": "Joba",
   "chapter": 35,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary mbola niteny ihany Eliho ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Heverinao fa marina ny nanaovanao hoe: Ny fahamarinako mihoatra noho ny an' Andriamanitra?"
-    },
-    {
-      "v": 3,
-      "text": "Fa hoy ianao: Inona no soa ho anao? ary inona no tombontsoa ho azoko, raha diovina amin' ny fahotako aho?"
-    },
-    {
-      "v": 4,
-      "text": "Izaho no hiteny hamaly anao mbamin' ny namanao."
-    },
-    {
-      "v": 5,
-      "text": "\"Jereo àry ny lanitra ka izahao; ary tsinjovy ny rahona izay avo kokoa noho ianao.\""
-    },
-    {
-      "v": 6,
-      "text": "Raha manota ianao, moa mahefa inona aminy? Ary raha maro ny fahotanao, mampaninona Azy moa izany?"
-    },
-    {
-      "v": 7,
-      "text": "Raha marina ianao, dia inona no omenao Azy? na inona no raisiny avy amin' ny tananao?"
-    },
-    {
-      "v": 8,
-      "text": "\"Ny faharatsianao dia mety mandratra olona tahaka anao; ary ny fahamarinanao dia mety mahasoa ny zanak' olombelona.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Noho ny haben' ny fampahoriana no itarainan' ny ampahoriana; minananana izy noho ny sandrin' ny mahery.\""
-    },
-    {
-      "v": 10,
-      "text": "Nefa tsy misy manao hoe: Aiza Andriamanitra Mpanao ahy, Izay manome hira amin' ny alina:"
-    },
-    {
-      "v": 11,
-      "text": "Izay mampianatra antsika mihoatra noho ny biby ambonin' ny tany, ary manome fahendrena antsika mihoatra noho ny voro-manidina eny amin' ny lanitra?"
-    },
-    {
-      "v": 12,
-      "text": "Mitaraina ireo, fa tsy misy mamaly noho ny fireharehan' ny ratsy fanahy."
-    },
-    {
-      "v": 13,
-      "text": "Tsy hihaino zava-poana tokoa Andriamanitra ary ny Tsitoha tsy handinika izany."
-    },
-    {
-      "v": 14,
-      "text": "Na dia lazainao aza fa tsy hahita Azy ianao, efa mby eo anatrehany ny fitsarana, koa dia matokia Azy ianao."
-    },
-    {
-      "v": 15,
-      "text": "\"Nefa ankehitriny, satria tsy mbola mihatra izany, dia namangy tamin' ny fahatezerany Izy; nefa tsy fantany hatramin' ny farany indrindra izany.\""
-    },
-    {
-      "v": 16,
-      "text": "Koa dia mba miloa-bava foana anefa i Joba ary manao teny maro tsy amim-pahalalana."
-    }
-  ]
+  "verses": {
+    "1": "Ary mbola niteny ihany Eliho ka nanao hoe:",
+    "2": "Heverinao fa marina ny nanaovanao hoe: Ny fahamarinako mihoatra noho ny an' Andriamanitra?",
+    "3": "Fa hoy ianao: Inona no soa ho anao? ary inona no tombontsoa ho azoko, raha diovina amin' ny fahotako aho?",
+    "4": "Izaho no hiteny hamaly anao mbamin' ny namanao.",
+    "5": "Jereo àry ny lanitra ka izahao; ary tsinjovy ny rahona izay avo kokoa noho ianao.",
+    "6": "Raha manota ianao, moa mahefa inona aminy? Ary raha maro ny fahotanao, mampaninona Azy moa izany?",
+    "7": "Raha marina ianao, dia inona no omenao Azy? na inona no raisiny avy amin' ny tananao?",
+    "8": "Ny faharatsianao dia mety mandratra olona tahaka anao; ary ny fahamarinanao dia mety mahasoa ny zanak' olombelona.",
+    "9": "Noho ny haben' ny fampahoriana no itarainan' ny ampahoriana; minananana izy noho ny sandrin' ny mahery.",
+    "10": "Nefa tsy misy manao hoe: Aiza Andriamanitra Mpanao ahy, Izay manome hira amin' ny alina:",
+    "11": "Izay mampianatra antsika mihoatra noho ny biby ambonin' ny tany, ary manome fahendrena antsika mihoatra noho ny voro-manidina eny amin' ny lanitra?",
+    "12": "Mitaraina ireo, fa tsy misy mamaly noho ny fireharehan' ny ratsy fanahy.",
+    "13": "Tsy hihaino zava-poana tokoa Andriamanitra ary ny Tsitoha tsy handinika izany.",
+    "14": "Na dia lazainao aza fa tsy hahita Azy ianao, efa mby eo anatrehany ny fitsarana, koa dia matokia Azy ianao.",
+    "15": "Nefa ankehitriny, satria tsy mbola mihatra izany, dia namangy tamin' ny fahatezerany Izy; nefa tsy fantany hatramin' ny farany indrindra izany.",
+    "16": "Koa dia mba miloa-bava foana anefa i Joba ary manao teny maro tsy amim-pahalalana."
+  }
 }

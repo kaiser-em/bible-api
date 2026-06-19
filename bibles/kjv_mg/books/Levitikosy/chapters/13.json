@@ -1,241 +1,65 @@
 {
+  "book": "Levitikosy",
   "chapter": 13,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy sy Arona ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Raha misy mamontsina eo amin' ny hoditry ny nofon' ny olona, na misy manakom-pery, na misy mifaritra mangirana, ka eo amin' ny hoditry ny nofony tahaka ny habokana izany, dia hoentina eo amin' i Arona mpisorona izy, na eo amin' ny iray amin' ireo zanany lahy mpisorona."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary hozahan' ny mpisorona ny areti-mandoza eo amin' ny hoditry ny nofo; ary raha efa niova ho fotsy ny volo eo amin' ny areti-mandoza, ka efa lalina noho ny hoditry ny nofony no fijery ny areti-mandoza, dia famelin' ny habokana izany; ary hozahan' ny mpisorona izy ka ambarany hoe maloto.\""
-    },
-    {
-      "v": 4,
-      "text": "Raha mihafotsy ny faritra mangirana eo amin' ny hoditry ny nofony, ary tsy lalina noho ny hoditra no fijery azy, ka tsy niova ho fotsy ny volony, dia hatokan' ny mpisorona toerana hafitoana ilay manana ny areti-mandoza."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary hozahan' ny mpisorona izy amin' ny andro fahafito; ary, indro, raha hitany tsy mitombo ny areti-mandoza, ka tsy manitatra eo amin' ny hoditra ny areti-mandoza; dia hatokan' ny mpisorona toerana hafitoana indray izy.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Dia hozahan' ny mpisorona indray izy amin' ny andro fahafito; ary, indro, raha mihamatromatroka ny areti-mandoza, ka tsy manitatra eo amin' ny hoditra ny areti-mandoza; dia hambaran' ny mpisorona ho madio izy; manakom-pery ihany izany, ka hanasa ny fitafiany izy, dia hadio.\""
-    },
-    {
-      "v": 7,
-      "text": "Fa raha manitatra be manenika ny hoditra ny manakom-pery, taorian' ny nizahan' ny mpisorona azy ny amin' ny fahadiovany, dia hozahan' ny mpisorona indray izy."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary raha hitan' ny mpisorona fa indro, manenika ny hoditra ny manakom-pery, dia hambaran' ny mpisorona ho maloto izy; habokana izany.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Raha misy areti-mandozan' ny habokana eo amin' ny olona, dia entina ho eo amin' ny mpisorona izy;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Dia hozahan' ny mpisorona izy; ary indro, raha mihafotsy ny mamontsina eo amin' ny hoditra, ka manova ny volo ho fotsy izany, ary misy nofo mangenahena eo amin' ny mamontsina;\""
-    },
-    {
-      "v": 11,
-      "text": "Habokana ela teo amin' ny hoditry ny nofony izany, dia hambaran' ny mpisorona ho maloto izy, ka tsy hatokana toerana satria efa maloto izy."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary raha mipoitra manenika ny hoditra ny habokana, ary mandrakotra ny hoditra rehetra an' izay manana ny areti-mandoza, hatrany amin' ny lohany ka hatrany amin' ny tongony, na aiza na aiza zahan' ny mpisorona;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Dia handinika ny mpisorona, ka indro, raha mandrakotra ny nofony rehetra ny habokana, dia hambarany ho madio ilay manana ny areti-mandoza; efa niova ho fotsy avokoa izany: madio izy.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Fa raha misy nofo mangenahena miseho eo aminy, dia haloto izy;\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ho hitan' ny mpisorona ny nofo mangenahena ka hambarany ho maloto izy; fa maloto ny nofo mangenahena: habokana izany.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Fa raha miova indray ny nofo mangenahena ka tonga fotsy, dia hankeo amin' ny mpisorona izy;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary hozahan' ny mpisorona izy; ka indro, raha niova ho fotsy ny areti-mandoza, dia hambaran' ny mpisorona ho madio izay manana ny areti-mandoza: madio izy.\""
-    },
-    {
-      "v": 18,
-      "text": "Ny nofo koa, izay nisy vay tamin' ny hoditra ka sitrana,"
-    },
-    {
-      "v": 19,
-      "text": "\"Ary teo amin' ny toeran' ny vay misy mamontsina fotsy, na faritra mangirana fotsy, ary manopy mena dia haseho amin' ny mpisorona izany;\""
-    },
-    {
-      "v": 20,
-      "text": "\"Koa raha zahan' ny mpisorona izany, ka indro, lalina noho ny hoditra no fijeriny azy, ary efa niova ho fotsy ny volony, dia hambaran' ny mpisorona ho maloto izy; areti-mandozan' ny habokana nipoitra avy tamin' ny vay izany.\""
-    },
-    {
-      "v": 21,
-      "text": "Fa raha zahan' ny mpisorona izany, ka indro, tsy misy volo fotsy eo, ary tsy lalina noho ny hoditra izany, fa matromatroka, dia hatokan' ny mpisorona toerana hafitoana izy."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary raha manitatra be manenika ny hoditra izany, dia hambaran' ny mpisorona ho maloto izy; areti-mandoza izany.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Fa raha tsy mitombo ny faritra mangirana, ka tsy manitatra, dia vay mamaivay izany; ary hambaran' ny mpisorona ho madio izy.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary raha misy nofo, ka mamaivay ny hoditra eo aminy, ary ny nofo velona izay mamaivay dia misy faritra fotsy mangirana, manopy mena na fotsy;\""
-    },
-    {
-      "v": 25,
-      "text": "\"Dia hozahan' ny mpisorona izany; ary, indro, niova fotsy ny volo eo amin' ny faritra mangirana, ka lalina noho ny hoditra no fijery izany, dia habokana mipoitra avy amin' ny mamaivay izany; koa dia hambaran' ny mpisorona ho maloto izy: areti-mandozan' ny habokana izany.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Fa raha zahan' ny mpisorona izany, ka indro, tsy misy volo fotsy eo amin' ny faritra mangirana, ary tsy lalina noho ny hoditra hafa izany fa matromatroka, dia hatokan' ny mpisorona toerana hafitoana izy;\""
-    },
-    {
-      "v": 27,
-      "text": "\"Ary hozahan' ny mpisorona izy amin' ny andro fahafito; ary raha manitatra be manenika ny hoditra izany, dia hambaran' ny mpisorona ho maloto izy: areti-mandozan' ny habokana izany.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary raha mitombo ny faritra mangirana ka tsy nanitatra teo amin' ny hoditra fa matromatroka ihany, dia mamontsina eo amin' ny mamaivay izany, ka hambaran' ny mpisorona ho madio izy; fa firehetan' ny mamaivay izany.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Raha misy vehivavy na lehilahy manana areti-mandoza eo amin' ny loha na eo amin' ny somotra;\""
-    },
-    {
-      "v": 30,
-      "text": "\"Dia hozahan' ny mpisorona ny areti-mandoza, ka indro, raha lalina noho ny hoditra no fijery azy, ary misy volo manify tomamotamo eo, dia hambaran' ny mpisorona ho maloto izy; kongonina maina izany, dia habokana eo amin' ny loha, na eo amin' ny somotra izany.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Ary raha zahan' ny mpisorona ny areti-mandozan' ny kongonina, ka indro, tsy lalina noho ny hoditra no fijery azy, ary tsy misy volo mainty eo, dia hatokan' ny mpisorona toerana hafitoana ilay manana areti-mandozan' ny kongonina;\""
-    },
-    {
-      "v": 32,
-      "text": "\"Ary hozahan' ny mpisorona ny areti-mandoza amin' ny andro fahafito, ka indro, raha tsy nanitatra ny kongonina, ary tsy nisy volo tomamotamo eo, ary tsy lalina noho ny hoditra no fijery ny kongonina;\""
-    },
-    {
-      "v": 33,
-      "text": "\"Dia hiharatra izy, fa tsy hoharatany ny hazaka, dia hatokan' ny mpisorona toerana hafitoana indray ilay kongonina;\""
-    },
-    {
-      "v": 34,
-      "text": "Ary hozahan' ny mpisorona ny kongonina amin' ny andro fahafito, ary indro, raha tsy nanitatra teo amin' ny hoditra ny hazaka, ary tsy lalina noho ny hoditra no fijery azy, dia hambaran' ny mpisorona ho madio izy, dia hanasa ny fitafiany izy ka hadio."
-    },
-    {
-      "v": 35,
-      "text": "\"Fa raha nanitatra be teo amin' ny hoditra ny kongonina taorian' ny fahadiovany;\""
-    },
-    {
-      "v": 36,
-      "text": "\"Dia hozahan' ny mpisorona izy, ka indro, raha nanenika ny hoditra ny hazaka, dia tsy hitady ny volo tomamotamo ny mpisorona; maloto izy.\""
-    },
-    {
-      "v": 37,
-      "text": "\"Fa raha tsy mitombo no fijeriny ny hazaka, ka misy volo mainty maniry eo, dia sitrana ny kongonina; madio izy; ary hambaran' ny mpisorona ho madio izy.\""
-    },
-    {
-      "v": 38,
-      "text": "\"Raha misy koa lehilahy na vehivavy manana faritra mangirana eo amin' ny hoditry ny nofony, dia faritra fotsy mangirana;\""
-    },
-    {
-      "v": 39,
-      "text": "\"Dia hozahan' ny mpisorona, ka indro, raha tonga fotsy matroka ny faritra mangirana eo amin' ny hoditry ny nofony, dia faritra mipentimpentina maniry eo amin' ny hoditra izany; madio izy.\""
-    },
-    {
-      "v": 40,
-      "text": "\"Ary ny lehilahy mihintsam-bolon-doha, dia sola; nefa madio ihany izy.\""
-    },
-    {
-      "v": 41,
-      "text": "\"Ary izay mihintsam-bolon-doha eo amin' ny handriny, dia mazavaray; nefa madio ihany izy.\""
-    },
-    {
-      "v": 42,
-      "text": "Ary raha misy fery fotsy manopy mena eo amin' ny loha sola, na eo amin' ny mazavaray, dia habokana mipoitra amin' ny lohany sola, na amin' ny mazavaray izany."
-    },
-    {
-      "v": 43,
-      "text": "\"Dia hozahan' ny mpisorona izany, ka indro, raha fotsy manopy mena ny famontsin' ny fery eo amin' ny lohany sola, na eo amin' ny mazavarainy, tahaka ny fisehon' ny habokana eo amin' ny hoditry ny nofo;\""
-    },
-    {
-      "v": 44,
-      "text": "\"Lehilahy boka izy; maloto izy; hambaran' ny mpisorona ho maloto tokoa izy; eo amin' ny lohany ny areti-mandozany.\""
-    },
-    {
-      "v": 45,
-      "text": "Ary ny boka izay misy ny areti-mandoza, dia hotriariny ny fitafiany, ary hosolainy ny lohany, ka hasiany fanaronana eo amin' ny molony ambony ary hiantso izy hoe: Maloto e, maloto e."
-    },
-    {
-      "v": 46,
-      "text": "\"Ary amin' ny andro izay hitoeran' ny areti-mandoza eo aminy dia haloto izy; maloto izy, ka hitoetra irery; eny ivelan' ny toby no ho fonenany.\""
-    },
-    {
-      "v": 47,
-      "text": "Ary ny fitafiana koa izay misy ny areti-mandozan' ny habokana, na fitafiana volon' ondry, na fitafiana rongony,"
-    },
-    {
-      "v": 48,
-      "text": "\"Na amin' ny lavan-tenona, na amin' ny fahany, na rongony, na volon' ondry; na amin' ny hoditra, na izay zavatra natao tamin' ny hoditra;\""
-    },
-    {
-      "v": 49,
-      "text": "\"Ary raha manopy maitso na manopy mena ny areti-mandoza eo amin' ny fitafiana, na eo amin' ny hoditra, na amin' ny lavan-tenona, na amin' ny fahany, na izay zavatra amin' ny hoditra; areti-mandozan' ny habokana izany ka haseho amin' ny mpisorona.\""
-    },
-    {
-      "v": 50,
-      "text": "Ary hozahan' ny mpisorona ny areti-mandoza ka hatokany toerana hafitoana ny zavatra nisy ny areti-mandoza."
-    },
-    {
-      "v": 51,
-      "text": "\"Ary amin' ny andro fahafito dia hozahany ny areti-mandoza; raha manitatra eo amin' ny fitafiana ny areti-mandoza, na amin' ny lavan-tenona, na amin' ny fahany, na amin' ny hoditra, na eo amin' ny izay zavatra natao tamin' ny hoditra; habokana mandany ilay areti-mandoza; maloto izany.\""
-    },
-    {
-      "v": 52,
-      "text": "\"Dia hodorany izany fitafiana izany, na lavan-tenona na fahany, na volon' ondry na rongony, na izay zavatra natao tamin' ny hoditra izay misy ny areti-mandoza; fa habokana mandany izany, ka hodorana amin' ny afo izany.\""
-    },
-    {
-      "v": 53,
-      "text": "\"Ary raha zahan' ny mpisorona, ka indro, tsy manenika ny fitafiana ny areti-mandoza, na amin' ny lavan-tenona na amin' ny fahany, na amin' ny zavatra natao tamin' ny hoditra;\""
-    },
-    {
-      "v": 54,
-      "text": "\"Dia hodidian' ny mpisorona hanasa izay zavatra misy ny areti-mandoza ireo; ary hatokany toerana hafitoana indray izany.\""
-    },
-    {
-      "v": 55,
-      "text": "\"Dia hozahan' ny mpisorona ny areti-mandoza, rehefa voasasa izany; ary indro, raha tsy niova loko ny areti-mandoza, ka tsy nanitatra ny areti-mandoza, dia maloto izany; hodoranao amin' ny afo izany; mandany anaty izy, na ao anaty izany na miharihary ety ivelany.\""
-    },
-    {
-      "v": 56,
-      "text": "\"Ary raha zahan' ny mpisorona, ka indro, mihamatroka ny areti-mandoza, taorian' ny nanasana izany, dia hoesoriny eo amin' ny fitafiana izany, na eo amin' ny hoditra, na eo amin' ny lavan-tenona na eo amin' ny fahany;\""
-    },
-    {
-      "v": 57,
-      "text": "\"Ary raha mbola miseho eo amin' ny fitafiana izany, na amin' ny lavan-tenona na amin' ny fahany, na amin' izay zavatra natao tamin' ny hoditra; areti-mandoza mihanaka izany; hodoranao amin' ny afo izay misy ny areti-mandoza.\""
-    },
-    {
-      "v": 58,
-      "text": "Ary ny fitafiana, na ny lavan-tenona na ny fahany, na ny zavatra natao tamin' ny hoditra, izay hosasanao, raha niala taminy ny areti-mandoza, dia hosasana fanindroany izany, ka hadio."
-    },
-    {
-      "v": 59,
-      "text": "Ireo no lalàna ny amin' ny areti-mandozan' ny habokana eo amin' ny fitafiana volon' ondry, na rongony, na amin' ny lavan-tenona na ny fahany, na izay zavatra natao tamin' ny hoditra, hanambarana izany ho madio, na hanambarana izany ho maloto."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy sy Arona ka nanao hoe:",
+    "2": "Raha misy mamontsina eo amin' ny hoditry ny nofon' ny olona, na misy manakom-pery, na misy mifaritra mangirana, ka eo amin' ny hoditry ny nofony tahaka ny habokana izany, dia hoentina eo amin' i Arona mpisorona izy, na eo amin' ny iray amin' ireo zanany lahy mpisorona.",
+    "3": "Ary hozahan' ny mpisorona ny areti-mandoza eo amin' ny hoditry ny nofo; ary raha efa niova ho fotsy ny volo eo amin' ny areti-mandoza, ka efa lalina noho ny hoditry ny nofony no fijery ny areti-mandoza, dia famelin' ny habokana izany; ary hozahan' ny mpisorona izy ka ambarany hoe maloto.",
+    "4": "Raha mihafotsy ny faritra mangirana eo amin' ny hoditry ny nofony, ary tsy lalina noho ny hoditra no fijery azy, ka tsy niova ho fotsy ny volony, dia hatokan' ny mpisorona toerana hafitoana ilay manana ny areti-mandoza.",
+    "5": "Ary hozahan' ny mpisorona izy amin' ny andro fahafito; ary, indro, raha hitany tsy mitombo ny areti-mandoza, ka tsy manitatra eo amin' ny hoditra ny areti-mandoza; dia hatokan' ny mpisorona toerana hafitoana indray izy.",
+    "6": "Dia hozahan' ny mpisorona indray izy amin' ny andro fahafito; ary, indro, raha mihamatromatroka ny areti-mandoza, ka tsy manitatra eo amin' ny hoditra ny areti-mandoza; dia hambaran' ny mpisorona ho madio izy; manakom-pery ihany izany, ka hanasa ny fitafiany izy, dia hadio.",
+    "7": "Fa raha manitatra be manenika ny hoditra ny manakom-pery, taorian' ny nizahan' ny mpisorona azy ny amin' ny fahadiovany, dia hozahan' ny mpisorona indray izy.",
+    "8": "Ary raha hitan' ny mpisorona fa indro, manenika ny hoditra ny manakom-pery, dia hambaran' ny mpisorona ho maloto izy; habokana izany.",
+    "9": "Raha misy areti-mandozan' ny habokana eo amin' ny olona, dia entina ho eo amin' ny mpisorona izy;",
+    "10": "Dia hozahan' ny mpisorona izy; ary indro, raha mihafotsy ny mamontsina eo amin' ny hoditra, ka manova ny volo ho fotsy izany, ary misy nofo mangenahena eo amin' ny mamontsina;",
+    "11": "Habokana ela teo amin' ny hoditry ny nofony izany, dia hambaran' ny mpisorona ho maloto izy, ka tsy hatokana toerana satria efa maloto izy.",
+    "12": "Ary raha mipoitra manenika ny hoditra ny habokana, ary mandrakotra ny hoditra rehetra an' izay manana ny areti-mandoza, hatrany amin' ny lohany ka hatrany amin' ny tongony, na aiza na aiza zahan' ny mpisorona;",
+    "13": "Dia handinika ny mpisorona, ka indro, raha mandrakotra ny nofony rehetra ny habokana, dia hambarany ho madio ilay manana ny areti-mandoza; efa niova ho fotsy avokoa izany: madio izy.",
+    "14": "Fa raha misy nofo mangenahena miseho eo aminy, dia haloto izy;",
+    "15": "Ary ho hitan' ny mpisorona ny nofo mangenahena ka hambarany ho maloto izy; fa maloto ny nofo mangenahena: habokana izany.",
+    "16": "Fa raha miova indray ny nofo mangenahena ka tonga fotsy, dia hankeo amin' ny mpisorona izy;",
+    "17": "Ary hozahan' ny mpisorona izy; ka indro, raha niova ho fotsy ny areti-mandoza, dia hambaran' ny mpisorona ho madio izay manana ny areti-mandoza: madio izy.",
+    "18": "Ny nofo koa, izay nisy vay tamin' ny hoditra ka sitrana,",
+    "19": "Ary teo amin' ny toeran' ny vay misy mamontsina fotsy, na faritra mangirana fotsy, ary manopy mena dia haseho amin' ny mpisorona izany;",
+    "20": "Koa raha zahan' ny mpisorona izany, ka indro, lalina noho ny hoditra no fijeriny azy, ary efa niova ho fotsy ny volony, dia hambaran' ny mpisorona ho maloto izy; areti-mandozan' ny habokana nipoitra avy tamin' ny vay izany.",
+    "21": "Fa raha zahan' ny mpisorona izany, ka indro, tsy misy volo fotsy eo, ary tsy lalina noho ny hoditra izany, fa matromatroka, dia hatokan' ny mpisorona toerana hafitoana izy.",
+    "22": "Ary raha manitatra be manenika ny hoditra izany, dia hambaran' ny mpisorona ho maloto izy; areti-mandoza izany.",
+    "23": "Fa raha tsy mitombo ny faritra mangirana, ka tsy manitatra, dia vay mamaivay izany; ary hambaran' ny mpisorona ho madio izy.",
+    "24": "Ary raha misy nofo, ka mamaivay ny hoditra eo aminy, ary ny nofo velona izay mamaivay dia misy faritra fotsy mangirana, manopy mena na fotsy;",
+    "25": "Dia hozahan' ny mpisorona izany; ary, indro, niova fotsy ny volo eo amin' ny faritra mangirana, ka lalina noho ny hoditra no fijery izany, dia habokana mipoitra avy amin' ny mamaivay izany; koa dia hambaran' ny mpisorona ho maloto izy: areti-mandozan' ny habokana izany.",
+    "26": "Fa raha zahan' ny mpisorona izany, ka indro, tsy misy volo fotsy eo amin' ny faritra mangirana, ary tsy lalina noho ny hoditra hafa izany fa matromatroka, dia hatokan' ny mpisorona toerana hafitoana izy;",
+    "27": "Ary hozahan' ny mpisorona izy amin' ny andro fahafito; ary raha manitatra be manenika ny hoditra izany, dia hambaran' ny mpisorona ho maloto izy: areti-mandozan' ny habokana izany.",
+    "28": "Ary raha mitombo ny faritra mangirana ka tsy nanitatra teo amin' ny hoditra fa matromatroka ihany, dia mamontsina eo amin' ny mamaivay izany, ka hambaran' ny mpisorona ho madio izy; fa firehetan' ny mamaivay izany.",
+    "29": "Raha misy vehivavy na lehilahy manana areti-mandoza eo amin' ny loha na eo amin' ny somotra;",
+    "30": "Dia hozahan' ny mpisorona ny areti-mandoza, ka indro, raha lalina noho ny hoditra no fijery azy, ary misy volo manify tomamotamo eo, dia hambaran' ny mpisorona ho maloto izy; kongonina maina izany, dia habokana eo amin' ny loha, na eo amin' ny somotra izany.",
+    "31": "Ary raha zahan' ny mpisorona ny areti-mandozan' ny kongonina, ka indro, tsy lalina noho ny hoditra no fijery azy, ary tsy misy volo mainty eo, dia hatokan' ny mpisorona toerana hafitoana ilay manana areti-mandozan' ny kongonina;",
+    "32": "Ary hozahan' ny mpisorona ny areti-mandoza amin' ny andro fahafito, ka indro, raha tsy nanitatra ny kongonina, ary tsy nisy volo tomamotamo eo, ary tsy lalina noho ny hoditra no fijery ny kongonina;",
+    "33": "Dia hiharatra izy, fa tsy hoharatany ny hazaka, dia hatokan' ny mpisorona toerana hafitoana indray ilay kongonina;",
+    "34": "Ary hozahan' ny mpisorona ny kongonina amin' ny andro fahafito, ary indro, raha tsy nanitatra teo amin' ny hoditra ny hazaka, ary tsy lalina noho ny hoditra no fijery azy, dia hambaran' ny mpisorona ho madio izy, dia hanasa ny fitafiany izy ka hadio.",
+    "35": "Fa raha nanitatra be teo amin' ny hoditra ny kongonina taorian' ny fahadiovany;",
+    "36": "Dia hozahan' ny mpisorona izy, ka indro, raha nanenika ny hoditra ny hazaka, dia tsy hitady ny volo tomamotamo ny mpisorona; maloto izy.",
+    "37": "Fa raha tsy mitombo no fijeriny ny hazaka, ka misy volo mainty maniry eo, dia sitrana ny kongonina; madio izy; ary hambaran' ny mpisorona ho madio izy.",
+    "38": "Raha misy koa lehilahy na vehivavy manana faritra mangirana eo amin' ny hoditry ny nofony, dia faritra fotsy mangirana;",
+    "39": "Dia hozahan' ny mpisorona, ka indro, raha tonga fotsy matroka ny faritra mangirana eo amin' ny hoditry ny nofony, dia faritra mipentimpentina maniry eo amin' ny hoditra izany; madio izy.",
+    "40": "Ary ny lehilahy mihintsam-bolon-doha, dia sola; nefa madio ihany izy.",
+    "41": "Ary izay mihintsam-bolon-doha eo amin' ny handriny, dia mazavaray; nefa madio ihany izy.",
+    "42": "Ary raha misy fery fotsy manopy mena eo amin' ny loha sola, na eo amin' ny mazavaray, dia habokana mipoitra amin' ny lohany sola, na amin' ny mazavaray izany.",
+    "43": "Dia hozahan' ny mpisorona izany, ka indro, raha fotsy manopy mena ny famontsin' ny fery eo amin' ny lohany sola, na eo amin' ny mazavarainy, tahaka ny fisehon' ny habokana eo amin' ny hoditry ny nofo;",
+    "44": "Lehilahy boka izy; maloto izy; hambaran' ny mpisorona ho maloto tokoa izy; eo amin' ny lohany ny areti-mandozany.",
+    "45": "Ary ny boka izay misy ny areti-mandoza, dia hotriariny ny fitafiany, ary hosolainy ny lohany, ka hasiany fanaronana eo amin' ny molony ambony ary hiantso izy hoe: Maloto e, maloto e.",
+    "46": "Ary amin' ny andro izay hitoeran' ny areti-mandoza eo aminy dia haloto izy; maloto izy, ka hitoetra irery; eny ivelan' ny toby no ho fonenany.",
+    "47": "Ary ny fitafiana koa izay misy ny areti-mandozan' ny habokana, na fitafiana volon' ondry, na fitafiana rongony,",
+    "48": "Na amin' ny lavan-tenona, na amin' ny fahany, na rongony, na volon' ondry; na amin' ny hoditra, na izay zavatra natao tamin' ny hoditra;",
+    "49": "Ary raha manopy maitso na manopy mena ny areti-mandoza eo amin' ny fitafiana, na eo amin' ny hoditra, na amin' ny lavan-tenona, na amin' ny fahany, na izay zavatra amin' ny hoditra; areti-mandozan' ny habokana izany ka haseho amin' ny mpisorona.",
+    "50": "Ary hozahan' ny mpisorona ny areti-mandoza ka hatokany toerana hafitoana ny zavatra nisy ny areti-mandoza.",
+    "51": "Ary amin' ny andro fahafito dia hozahany ny areti-mandoza; raha manitatra eo amin' ny fitafiana ny areti-mandoza, na amin' ny lavan-tenona, na amin' ny fahany, na amin' ny hoditra, na eo amin' ny izay zavatra natao tamin' ny hoditra; habokana mandany ilay areti-mandoza; maloto izany.",
+    "52": "Dia hodorany izany fitafiana izany, na lavan-tenona na fahany, na volon' ondry na rongony, na izay zavatra natao tamin' ny hoditra izay misy ny areti-mandoza; fa habokana mandany izany, ka hodorana amin' ny afo izany.",
+    "53": "Ary raha zahan' ny mpisorona, ka indro, tsy manenika ny fitafiana ny areti-mandoza, na amin' ny lavan-tenona na amin' ny fahany, na amin' ny zavatra natao tamin' ny hoditra;",
+    "54": "Dia hodidian' ny mpisorona hanasa izay zavatra misy ny areti-mandoza ireo; ary hatokany toerana hafitoana indray izany.",
+    "55": "Dia hozahan' ny mpisorona ny areti-mandoza, rehefa voasasa izany; ary indro, raha tsy niova loko ny areti-mandoza, ka tsy nanitatra ny areti-mandoza, dia maloto izany; hodoranao amin' ny afo izany; mandany anaty izy, na ao anaty izany na miharihary ety ivelany.",
+    "56": "Ary raha zahan' ny mpisorona, ka indro, mihamatroka ny areti-mandoza, taorian' ny nanasana izany, dia hoesoriny eo amin' ny fitafiana izany, na eo amin' ny hoditra, na eo amin' ny lavan-tenona na eo amin' ny fahany;",
+    "57": "Ary raha mbola miseho eo amin' ny fitafiana izany, na amin' ny lavan-tenona na amin' ny fahany, na amin' izay zavatra natao tamin' ny hoditra; areti-mandoza mihanaka izany; hodoranao amin' ny afo izay misy ny areti-mandoza.",
+    "58": "Ary ny fitafiana, na ny lavan-tenona na ny fahany, na ny zavatra natao tamin' ny hoditra, izay hosasanao, raha niala taminy ny areti-mandoza, dia hosasana fanindroany izany, ka hadio.",
+    "59": "Ireo no lalàna ny amin' ny areti-mandozan' ny habokana eo amin' ny fitafiana volon' ondry, na rongony, na amin' ny lavan-tenona na ny fahany, na izay zavatra natao tamin' ny hoditra, hanambarana izany ho madio, na hanambarana izany ho maloto."
+  }
 }

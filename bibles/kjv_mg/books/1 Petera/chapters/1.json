@@ -1,105 +1,31 @@
 {
+  "book": "1 Petera",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Petera, apostolin’i Jesosy Kristy, mamangy ny mpivahiny izay niely any Ponto, Galatia, Kapadokia, Azia sy Bitinia,"
-    },
-    {
-      "v": 2,
-      "text": "Dia olom-boafidy araka ny fahalalana rahateo izay an’Andriamanitra Ray, amin’ny fanamasinan’ny Fanahy, ho amin’ny fankatoavana sy ny famafazana ny ran’i Jesosy Kristy: Hampitomboina ho anareo anie ny fahasoavana sy ny fiadanana."
-    },
-    {
-      "v": 3,
-      "text": "Isaorana anie Andriamanitra sady Rain’i Jesosy Kristy Tompontsika Izay niteraka antsika indray araka ny haben’ny famindrampony ho amin’ny fanantenana velona tamin’ny nitsanganan' i Jesosy Kristy tamin’ny maty,"
-    },
-    {
-      "v": 4,
-      "text": "Ho amin’ny lova tsy mety simba, tsy misy loto, tsy mety levona, voatahiry any an-danitra ho anareo,"
-    },
-    {
-      "v": 5,
-      "text": "Izay arovan’ny herin’Andriamanitra amin’ny finoana ho amin’ny famonjena efa vonona haseho any am-parany."
-    },
-    {
-      "v": 6,
-      "text": "Izany no iravoravoanareo, na dia ampalahelovina vetivety ankehitriny amin’ny fakampanahy maro samy hafa aza ianareo, raha tsy maintsy hisy izany,"
-    },
-    {
-      "v": 7,
-      "text": "Mba ho hita ho fiderana sy fankalazana ary voninahitra amin’ny fisehoan’i Jesosy Kristy ny fizahan-toetra ny finoanareo izay tsara lavitra noho ny volamena mety simba na dia voazaha toetra tamin’ny afo aza."
-    },
-    {
-      "v": 8,
-      "text": "Izay, na dia mbola tsy hitanareo aza, dia tianareo, ary na dia tsy hitanareo ankehitriny aza, anefa, satria inoanareo, dia iravoravoanareo amin’ny fifaliana tsy hay lazaina sady feno voninahitra,"
-    },
-    {
-      "v": 9,
-      "text": "Mandray ny anton’ny finoanareo, dia ny famonjena ny fanahinareo."
-    },
-    {
-      "v": 10,
-      "text": "\"Ny amin' izany famonjena izany dia notadiavin’ny mpaminany sy nokatsahiny fatratra, dia ireo efa naminany ny fahasoavana ho tonga aminareo;\""
-    },
-    {
-      "v": 11,
-      "text": "Eny, nokatsahiny izay andro na izay toetry ny andro notondroin’ny Fanahin’i Kristy tao anatiny, raha nambarany rahateo ny fijalian’i Kristy sy ny voninahitra manaraka izany."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary naseho tamin’ireo fa tsy ho azy, fa ho antsika no nanompoany tamin’izany zavatra izany, izay voalaza aminareo ankehitriny, tamin’ny tenin’ireo nitory ny filazantsara taminareo amin’ny Fanahy Masina, Izay nirahina avy any an-danitra; izany zavatra izany dia irin’ny anjely hodinihina.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Koa amin’izany sikino ny sainareo, dia mahonòna tena, ka antenao tsara ny fahasoavana izay hoentina ho anareo amin’ny hisehoan’i Jesosy Kristy;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Tahaka ny zanaka manoa, tsy mitondra tena araka ny filànareo fahiny tamin’ny tsy fahalalanareo;\""
-    },
-    {
-      "v": 15,
-      "text": "Fa araka ny fahamasinan’Ilay niantso anareo, dia aoka mba ho masina koa ianareo amin’ny fitondrantena rehetra,"
-    },
-    {
-      "v": 16,
-      "text": "Satria voasoratra hoe: “Aoka ho masina ianareo, satria masina Aho”."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary raha Ilay tsy mizaha tavan’olona, fa mitsara araka ny asan’izy rehetra, no antsoinareo hoe Ray, dia mitondrà tena amin’ny fahatahorana mandritra ny andron’ny fivahinianareo ety;\""
-    },
-    {
-      "v": 18,
-      "text": "Fa fantatrareo fa tsy zavatra mety ho simba, tahaka ny volafotsy sy ny volamena, no nanavotana anareo tamin’ny fitondrantena adala izay azonareo tamin' ny fomba amam-panao nentin-drazana,"
-    },
-    {
-      "v": 19,
-      "text": "\"Fa ny rà soan’i Kristy, toy ny ran’ny zanak’ondry tsy misy kilema ary tsy misy pentimpentina;\""
-    },
-    {
-      "v": 20,
-      "text": "Izay notendrena rahateo talohan’ny nanorenana izao tontolo izao, fa efa naseho tamin’izao andro farany izao ho anareo,"
-    },
-    {
-      "v": 21,
-      "text": "\"Izay mino an’Andriamanitra amin’ny alalany, dia Ilay nanangana Azy tamin’ny maty ka nanome voninahitra Azy; mba hiorenan’ny finoanareo sy ny fanantenanareo amin’Andriamanitra.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Satria efa nodiovinareo ny fanahinareo tamin’ny fankatoavana ny fahamarinana amin' ny alalan' ny Fanahy ho amin’ny fitiavan-drahalahy tsy miangatra, dia mifankatiava fatratra amin’ny fo madio;\""
-    },
-    {
-      "v": 23,
-      "text": "\"Fa efa nateraka indray ianareo, tsy tamin’ny voa mety lò, fa tamin’ny tsy mety lò, dia ny tenin’Andriamanitra izay velona sady maharitra mandrakizay;\""
-    },
-    {
-      "v": 24,
-      "text": "\"Fa ny nofo rehetra dia tahaka ny ahitra, ary izay mety ho voninahiny dia tahaka ny vonin’ny ahitra. Malazo ny ahitra ka mihintsana ny voniny;\""
-    },
-    {
-      "v": 25,
-      "text": "Fa ny tenin’ny Tompo maharitra mandrakizay”. Ary izany no tenin’ny filazantsara izay notorina taminareo."
-    }
-  ]
+  "verses": {
+    "1": "Petera, apostolin’i Jesosy Kristy, mamangy ny mpivahiny izay niely any Ponto, Galatia, Kapadokia, Azia sy Bitinia,",
+    "2": "Dia olom-boafidy araka ny fahalalana rahateo izay an’Andriamanitra Ray, amin’ny fanamasinan’ny Fanahy, ho amin’ny fankatoavana sy ny famafazana ny ran’i Jesosy Kristy: Hampitomboina ho anareo anie ny fahasoavana sy ny fiadanana.",
+    "3": "Isaorana anie Andriamanitra sady Rain’i Jesosy Kristy Tompontsika Izay niteraka antsika indray araka ny haben’ny famindrampony ho amin’ny fanantenana velona tamin’ny nitsanganan' i Jesosy Kristy tamin’ny maty,",
+    "4": "Ho amin’ny lova tsy mety simba, tsy misy loto, tsy mety levona, voatahiry any an-danitra ho anareo,",
+    "5": "Izay arovan’ny herin’Andriamanitra amin’ny finoana ho amin’ny famonjena efa vonona haseho any am-parany.",
+    "6": "Izany no iravoravoanareo, na dia ampalahelovina vetivety ankehitriny amin’ny fakampanahy maro samy hafa aza ianareo, raha tsy maintsy hisy izany,",
+    "7": "Mba ho hita ho fiderana sy fankalazana ary voninahitra amin’ny fisehoan’i Jesosy Kristy ny fizahan-toetra ny finoanareo izay tsara lavitra noho ny volamena mety simba na dia voazaha toetra tamin’ny afo aza.",
+    "8": "Izay, na dia mbola tsy hitanareo aza, dia tianareo, ary na dia tsy hitanareo ankehitriny aza, anefa, satria inoanareo, dia iravoravoanareo amin’ny fifaliana tsy hay lazaina sady feno voninahitra,",
+    "9": "Mandray ny anton’ny finoanareo, dia ny famonjena ny fanahinareo.",
+    "10": "Ny amin' izany famonjena izany dia notadiavin’ny mpaminany sy nokatsahiny fatratra, dia ireo efa naminany ny fahasoavana ho tonga aminareo;",
+    "11": "Eny, nokatsahiny izay andro na izay toetry ny andro notondroin’ny Fanahin’i Kristy tao anatiny, raha nambarany rahateo ny fijalian’i Kristy sy ny voninahitra manaraka izany.",
+    "12": "Ary naseho tamin’ireo fa tsy ho azy, fa ho antsika no nanompoany tamin’izany zavatra izany, izay voalaza aminareo ankehitriny, tamin’ny tenin’ireo nitory ny filazantsara taminareo amin’ny Fanahy Masina, Izay nirahina avy any an-danitra; izany zavatra izany dia irin’ny anjely hodinihina.",
+    "13": "Koa amin’izany sikino ny sainareo, dia mahonòna tena, ka antenao tsara ny fahasoavana izay hoentina ho anareo amin’ny hisehoan’i Jesosy Kristy;",
+    "14": "Tahaka ny zanaka manoa, tsy mitondra tena araka ny filànareo fahiny tamin’ny tsy fahalalanareo;",
+    "15": "Fa araka ny fahamasinan’Ilay niantso anareo, dia aoka mba ho masina koa ianareo amin’ny fitondrantena rehetra,",
+    "16": "Satria voasoratra hoe: “Aoka ho masina ianareo, satria masina Aho”.",
+    "17": "Ary raha Ilay tsy mizaha tavan’olona, fa mitsara araka ny asan’izy rehetra, no antsoinareo hoe Ray, dia mitondrà tena amin’ny fahatahorana mandritra ny andron’ny fivahinianareo ety;",
+    "18": "Fa fantatrareo fa tsy zavatra mety ho simba, tahaka ny volafotsy sy ny volamena, no nanavotana anareo tamin’ny fitondrantena adala izay azonareo tamin' ny fomba amam-panao nentin-drazana,",
+    "19": "Fa ny rà soan’i Kristy, toy ny ran’ny zanak’ondry tsy misy kilema ary tsy misy pentimpentina;",
+    "20": "Izay notendrena rahateo talohan’ny nanorenana izao tontolo izao, fa efa naseho tamin’izao andro farany izao ho anareo,",
+    "21": "Izay mino an’Andriamanitra amin’ny alalany, dia Ilay nanangana Azy tamin’ny maty ka nanome voninahitra Azy; mba hiorenan’ny finoanareo sy ny fanantenanareo amin’Andriamanitra.",
+    "22": "Satria efa nodiovinareo ny fanahinareo tamin’ny fankatoavana ny fahamarinana amin' ny alalan' ny Fanahy ho amin’ny fitiavan-drahalahy tsy miangatra, dia mifankatiava fatratra amin’ny fo madio;",
+    "23": "Fa efa nateraka indray ianareo, tsy tamin’ny voa mety lò, fa tamin’ny tsy mety lò, dia ny tenin’Andriamanitra izay velona sady maharitra mandrakizay;",
+    "24": "Fa ny nofo rehetra dia tahaka ny ahitra, ary izay mety ho voninahiny dia tahaka ny vonin’ny ahitra. Malazo ny ahitra ka mihintsana ny voniny;",
+    "25": "Fa ny tenin’ny Tompo maharitra mandrakizay”. Ary izany no tenin’ny filazantsara izay notorina taminareo."
+  }
 }

@@ -1,73 +1,23 @@
 {
+  "book": "Estera",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Nony fantatr' i Mordekay izay rehetra efa natao, dia nandriatra ny fitafiany izy ka nitafy lamba fisaonana sady nihosin-davenona, dia nankeo afovoan' ny tanàna ka nitaraina sy nidradradradra mafy;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary tonga teo anoloan' ny vavahadin' ny mpanjaka aza izy; nefa tsy nisy nahazo niditra teo amin' ny vavahadin' ny mpanjaka, raha nitafy lamba fisaonana.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary tany amin' ny faritany rehetra izay nalehan' ny baikon' ny mpanjaka sy ny didiny, dia nisy fisaonana lehibe teo amin' ny Jiosy, dia fifadian-kanina sy fitomaniana ary fidradradradrana; sady maro no nandry tamin' ny lamba fisaonana aman-davenona.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary niditra ny ankizivavin' i Estera sy ny tsindranolahiny ka nilaza izany taminy. Dia nalahelo indrindra ny vadin' ny mpanjaka, ka nampanatitra lamba hotafin' i Mordekay izy mba hanesorany ny lamba fisaonana taminy; nefa tsy nety nandray izy.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary Estera niantso an' i Hatàka, anankiray tamin' ny tsindranolahin' ny mpanjaka, izay notendreny hanompo azy ka nampitondra baiko azy ho an' i Mordekay, mba hahafantarany hoe: inona izany ary nahoana no ho izany."
-    },
-    {
-      "v": 6,
-      "text": "\"Dia nivoaka i Hatàka nankany amin' i Mordekay ho eo an-kalalahana eo an-tanàna, dia ilay eo anoloan' ny vavahadin' ny mpanjaka;\""
-    },
-    {
-      "v": 7,
-      "text": "Dia nambaran' i Mordekay taminy izay rehetra efa nanjo azy sy ny isan' ny vola izay nampanantenain' i Hamana haloa ho ao an-trano firaketan' ny mpanjaka noho ny handringanana ny Jiosy."
-    },
-    {
-      "v": 8,
-      "text": "Ary nomeny azy koa ny kopian' ny soratry ny lalàna, izay nantsoina tany Sosana handringanana azy, mba haseho amin' i Estera hampahafantatra azy izany sy hanery azy hiditra ao amin' ny mpanjaka mba hifona aminy sy hangataka eo anatrehany ho an' ny fireneny."
-    },
-    {
-      "v": 9,
-      "text": "Ary tonga i Hatàka ka nanambara ny tenin' i Mordekay tamin' i Estera."
-    },
-    {
-      "v": 10,
-      "text": "Fa Estera niteny tamin' i Hatàka indray ka nibaiko azy hanao amin'i Mordekay hoe:"
-    },
-    {
-      "v": 11,
-      "text": "\"Ny mpanompon' ny mpanjaka rehetra sy ny olona amin' ny faritanin' ny mpanjaka dia samy mahalala fa na iza na iza mankeo amin' ny mpanjaka ho eo an-kianja anatiny, na lehilahy na vehivavy, nefa tsy nantsoina, dia misy lalàna iray ihany hahafaty azy, afa-tsy izay hotondroin' ny mpanjaka amin' ny tehim-bolamena hahavelona azy; ary izaho anefa dia tsy mbola nantsoina hiditra ao amin' ny mpanjaka telopolo andro izay.\""
-    },
-    {
-      "v": 12,
-      "text": "Dia nolazaina tamin' i Mordekay ny tenin' i Estera."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary Mordekay nampitondra valiny ho any amin' i Estera hoe: Aza manao anakampo fa ho afaka mihoatra noho ny Jiosy rehetra ianao, saingy ao an-tranon' ny mpanjaka;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Fa raha hangina mihitsy ianao amin' izao fotoana izao, dia hisy fahafahana sy famonjena hiseho avy amin' ny fitoerana hafa ho an' ny Jiosy; fa ianao sy ny mpianakavin-drainao kosa dia haringana; ary iza no mahalala, fa angamba ho amin' izao fotoana izao no nanandratana anao ho amin' ny fanjakana?\""
-    },
-    {
-      "v": 15,
-      "text": "Dia nampitondra izao valiny izao ho any amin' i Mordekay indray Estera ka nanao hoe:"
-    },
-    {
-      "v": 16,
-      "text": "\"Mandehana ary, vorio ny Jiosy rehetra izay hita ato Sosana, ary mifadia hanina ho ahy, ka aza mihinana na misotro hateloana, na andro na alina; ary izaho sy ny ankizivaviko hifady toy izany koa, ary amin' izany no hidirako ao amin' ny mpanjaka, na dia tsy araka ny lalàna aza; koa raha tàhiny maty aho, dia maty.\""
-    },
-    {
-      "v": 17,
-      "text": "Dia lasa i Mordekay ka nanao araka izay rehetra efa nandidian' i Estera azy."
-    }
-  ]
+  "verses": {
+    "1": "Nony fantatr' i Mordekay izay rehetra efa natao, dia nandriatra ny fitafiany izy ka nitafy lamba fisaonana sady nihosin-davenona, dia nankeo afovoan' ny tanàna ka nitaraina sy nidradradradra mafy;",
+    "2": "Ary tonga teo anoloan' ny vavahadin' ny mpanjaka aza izy; nefa tsy nisy nahazo niditra teo amin' ny vavahadin' ny mpanjaka, raha nitafy lamba fisaonana.",
+    "3": "Ary tany amin' ny faritany rehetra izay nalehan' ny baikon' ny mpanjaka sy ny didiny, dia nisy fisaonana lehibe teo amin' ny Jiosy, dia fifadian-kanina sy fitomaniana ary fidradradradrana; sady maro no nandry tamin' ny lamba fisaonana aman-davenona.",
+    "4": "Ary niditra ny ankizivavin' i Estera sy ny tsindranolahiny ka nilaza izany taminy. Dia nalahelo indrindra ny vadin' ny mpanjaka, ka nampanatitra lamba hotafin' i Mordekay izy mba hanesorany ny lamba fisaonana taminy; nefa tsy nety nandray izy.",
+    "5": "Ary Estera niantso an' i Hatàka, anankiray tamin' ny tsindranolahin' ny mpanjaka, izay notendreny hanompo azy ka nampitondra baiko azy ho an' i Mordekay, mba hahafantarany hoe: inona izany ary nahoana no ho izany.",
+    "6": "Dia nivoaka i Hatàka nankany amin' i Mordekay ho eo an-kalalahana eo an-tanàna, dia ilay eo anoloan' ny vavahadin' ny mpanjaka;",
+    "7": "Dia nambaran' i Mordekay taminy izay rehetra efa nanjo azy sy ny isan' ny vola izay nampanantenain' i Hamana haloa ho ao an-trano firaketan' ny mpanjaka noho ny handringanana ny Jiosy.",
+    "8": "Ary nomeny azy koa ny kopian' ny soratry ny lalàna, izay nantsoina tany Sosana handringanana azy, mba haseho amin' i Estera hampahafantatra azy izany sy hanery azy hiditra ao amin' ny mpanjaka mba hifona aminy sy hangataka eo anatrehany ho an' ny fireneny.",
+    "9": "Ary tonga i Hatàka ka nanambara ny tenin' i Mordekay tamin' i Estera.",
+    "10": "Fa Estera niteny tamin' i Hatàka indray ka nibaiko azy hanao amin'i Mordekay hoe:",
+    "11": "Ny mpanompon' ny mpanjaka rehetra sy ny olona amin' ny faritanin' ny mpanjaka dia samy mahalala fa na iza na iza mankeo amin' ny mpanjaka ho eo an-kianja anatiny, na lehilahy na vehivavy, nefa tsy nantsoina, dia misy lalàna iray ihany hahafaty azy, afa-tsy izay hotondroin' ny mpanjaka amin' ny tehim-bolamena hahavelona azy; ary izaho anefa dia tsy mbola nantsoina hiditra ao amin' ny mpanjaka telopolo andro izay.",
+    "12": "Dia nolazaina tamin' i Mordekay ny tenin' i Estera.",
+    "13": "Ary Mordekay nampitondra valiny ho any amin' i Estera hoe: Aza manao anakampo fa ho afaka mihoatra noho ny Jiosy rehetra ianao, saingy ao an-tranon' ny mpanjaka;",
+    "14": "Fa raha hangina mihitsy ianao amin' izao fotoana izao, dia hisy fahafahana sy famonjena hiseho avy amin' ny fitoerana hafa ho an' ny Jiosy; fa ianao sy ny mpianakavin-drainao kosa dia haringana; ary iza no mahalala, fa angamba ho amin' izao fotoana izao no nanandratana anao ho amin' ny fanjakana?",
+    "15": "Dia nampitondra izao valiny izao ho any amin' i Mordekay indray Estera ka nanao hoe:",
+    "16": "Mandehana ary, vorio ny Jiosy rehetra izay hita ato Sosana, ary mifadia hanina ho ahy, ka aza mihinana na misotro hateloana, na andro na alina; ary izaho sy ny ankizivaviko hifady toy izany koa, ary amin' izany no hidirako ao amin' ny mpanjaka, na dia tsy araka ny lalàna aza; koa raha tàhiny maty aho, dia maty.",
+    "17": "Dia lasa i Mordekay ka nanao araka izay rehetra efa nandidian' i Estera azy."
+  }
 }

@@ -1,137 +1,39 @@
 {
+  "book": "Eksodosy",
   "chapter": 23,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Aza manangan-tsaho foana; aza mifandray tanana amin' ny ratsy fanahy ho vavolombelona tsy marina.\""
-    },
-    {
-      "v": 2,
-      "text": "Aza manaraka ny maro hanao ratsy, ary aza mamaly ny amin' ny adin' ny olona hivily hanaraka ny maro hamadika ny rariny."
-    },
-    {
-      "v": 3,
-      "text": "Aza mandravaka ny tenin' ny mahantra eo amin' ny fandaharan-teniny ianao."
-    },
-    {
-      "v": 4,
-      "text": "Raha hitanao mania ny ombin' ny fahavalonao, na ny borikiny, dia avereno any aminy mihitsy izany."
-    },
-    {
-      "v": 5,
-      "text": "Raha hitanao ny borikin' izay mankahala anao mihonaka eo ambanin' ny entany, ka tsy te-hamonjy azy ianao, aoka hiaraka hamonjy aminy tokoa ianao."
-    },
-    {
-      "v": 6,
-      "text": "Aza mamily ny rariny ho an' ny mahantra eo aminao amin' ny raharahany."
-    },
-    {
-      "v": 7,
-      "text": "\"Manalavira izay teny lainga, ary aza mamono izay tsy manan-tsiny sy izay marina ianao; fa tsy hanamarina ny meloka Aho.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary aza mandray kolikoly, fa ny kolikoly mahajamba ny mason' ny hendry sy mamadika ny tenin' ny marina."
-    },
-    {
-      "v": 9,
-      "text": "Ary aza mampahory vahiny fa ianareo mahalala ny fon' ny vahiny, satria efa mba vahiny tany amin' ny tany Egypta ihany ianareo."
-    },
-    {
-      "v": 10,
-      "text": "Ary enin-taona no hamafazanao amin' ny taninao sy hanangonanao ny vokatra."
-    },
-    {
-      "v": 11,
-      "text": "\"Fa amin' ny taona fahafito kosa dia hatsahatrao tsy hovolena izy, mba hisy hohanin' ny mahantra amin' ny firenenao; ary izay sisan' ireo hohanin' ny biby any an-tsaha. Toy izany koa no hataonao amin' ny tanimboalobokao sy ny taninolivanao.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Henemana no hanaovanao ny raharahanao; fa amin' ny andro fahafito dia hitsahatra ianao, mba hialan' ny ombinao sy ny borikinao sasatra, ary mba hakan' ny zanaky ny mpanompovavinao sy ny vahiny aina.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary tandremo izay rehetra nolazaiko taminareo, ka aza manonona ny anaran' andriamani-kafa akory ianareo; aza avela ho re avy amin' ny vavanao izany.\""
-    },
-    {
-      "v": 14,
-      "text": "Intelo isan-kerintaona no hanaovanao andro firavoravoana ho Ahy."
-    },
-    {
-      "v": 15,
-      "text": "\"Tandremo ny andro firavoravoana fihinanana ny mofo tsy misy lalivay; (hafitoana no hihinananao mofo tsy misy lalivay araka izay nandidiako anao amin' ny fotoana voatendry amin' ny volana Abiba, fa tamin' izany no nivoahanao avy tany Egypta; ka aoka tsy hisy hiseho foana eo anatrehako);\""
-    },
-    {
-      "v": 16,
-      "text": "Ary ny andro firavoravoana amin' ny fijinjana ny voaloham-bokatry ny asanao, izay nafafinao tany an-tsaha, sy ny andro firavoravoana amin' ny fanangonana amin' ny faran' ny taona, raha manangona ny vokatry ny asanao avy any an-tsaha ianao."
-    },
-    {
-      "v": 17,
-      "text": "Intelo isan-taona no hisehoan' ny lehilahy rehetra aminao eo anatrehan' i Jehovah Andriamanitra."
-    },
-    {
-      "v": 18,
-      "text": "\"Aza manatitra ny ràn' izay fanatitra ho Ahy miaraka amin' ny mofo misy lalivay; ary aza avela ho tra-maraina ny saboran' ny fanatitra ho Ahy.\""
-    },
-    {
-      "v": 19,
-      "text": "Ny santatry ny voaloham-bokatry ny taninao dia hoentinao ao an-tranon' i Jehovah Andriamanitra. Aza mahandro zanak' osy amin' ny rononon-dreniny."
-    },
-    {
-      "v": 20,
-      "text": "Indro maniraka anjely eo anoloanao Aho, hiaro anao eny an-dalana sy hitondra anao ho any amin' ny fitoerana izay namboariko."
-    },
-    {
-      "v": 21,
-      "text": "\"Mitandrema eo anatrehany, ka mankatoava ny feony, aza mampahatezitra azy, fa tsy hamela ny fahotanareo Izy ; fa ny anarako no eo aminy.\""
-    },
-    {
-      "v": 22,
-      "text": "Fa raha hankatò ny feony tokoa ianao ka hanao izay rehetra lazaiko, dia ho fahavalon' ny fahavalonao Aho, ary ho rafin' izay rafinao."
-    },
-    {
-      "v": 23,
-      "text": "\"Fa handeha eo alohanao ny Anjeliko ka hitondra anao any amin' ny Amorita sy ny Hetita sy ny Perizita sy ny Kananita sy ny Hivita ary ny Jebosita; ary dia hofongorako ireny.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Aza miankohoka eo anatrehan' ny andriamanitr' ireny ianao, na manompo azy, na manao araka ny ataony ; fa aringano tokoa izy, ary torotoroy tokoa ny sarin-javany.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Fa manompoa an' i Jehovah Andriamanitrareo, dia hitahy ny haninao sy ny ranonao Izy ; ary hoesoriko aminao ny aretina.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Tsy hisy ho afa-jaza na ho momba ao amin' ny taninao; hotanterahiko ny isan' ny andronao.\""
-    },
-    {
-      "v": 27,
-      "text": "Hampandeha ny fahatahorana ahy eo anoloanao Aho ka handringana ny firenena rehetra izay alehanao, ary hampiamboho ny fahavalonao rehetra anao Aho."
-    },
-    {
-      "v": 28,
-      "text": "Ary Izaho no hampandeha fanenitra eo alohanao, izay handroaka ny Hivita sy ny Kananita ary ny Hetita hiala eo alohanao."
-    },
-    {
-      "v": 29,
-      "text": "Tsy handroaka azy ireny eo alohanao amin' ny taona iray Aho fandrao ho tonga lao ny tany, ka hihamaro hamely anao ny biby any an-tsaha."
-    },
-    {
-      "v": 30,
-      "text": "Tsikelikely no handroahako azy hiala eo alohanao mandra-pahamaronao ka handova ny tany."
-    },
-    {
-      "v": 31,
-      "text": "\"Ary hatramin' ny Ranomasina Mena ka hatramin' ny ranomasin' ny Filistina no hataoko faritra ho anao, ary hatramin' ny efitra ka hatramin' ny renirano; fa hanolotra ny mponina amin' ny tany ho eo an-tananao Aho, dia handroaka azy hiala eo anoloanao ianao.\""
-    },
-    {
-      "v": 32,
-      "text": "Aza manao fanekena aminy na amin' ny andriamaniny ianao."
-    },
-    {
-      "v": 33,
-      "text": "\"Tsy honina eo amin' ny taninao ireo, fandrao hampanota anao amiko; fa raha manompo ny andriamaniny ianao, dia ho fandrika aminao tokoa izany.\""
-    }
-  ]
+  "verses": {
+    "1": "Aza manangan-tsaho foana; aza mifandray tanana amin' ny ratsy fanahy ho vavolombelona tsy marina.",
+    "2": "Aza manaraka ny maro hanao ratsy, ary aza mamaly ny amin' ny adin' ny olona hivily hanaraka ny maro hamadika ny rariny.",
+    "3": "Aza mandravaka ny tenin' ny mahantra eo amin' ny fandaharan-teniny ianao.",
+    "4": "Raha hitanao mania ny ombin' ny fahavalonao, na ny borikiny, dia avereno any aminy mihitsy izany.",
+    "5": "Raha hitanao ny borikin' izay mankahala anao mihonaka eo ambanin' ny entany, ka tsy te-hamonjy azy ianao, aoka hiaraka hamonjy aminy tokoa ianao.",
+    "6": "Aza mamily ny rariny ho an' ny mahantra eo aminao amin' ny raharahany.",
+    "7": "Manalavira izay teny lainga, ary aza mamono izay tsy manan-tsiny sy izay marina ianao; fa tsy hanamarina ny meloka Aho.",
+    "8": "Ary aza mandray kolikoly, fa ny kolikoly mahajamba ny mason' ny hendry sy mamadika ny tenin' ny marina.",
+    "9": "Ary aza mampahory vahiny fa ianareo mahalala ny fon' ny vahiny, satria efa mba vahiny tany amin' ny tany Egypta ihany ianareo.",
+    "10": "Ary enin-taona no hamafazanao amin' ny taninao sy hanangonanao ny vokatra.",
+    "11": "Fa amin' ny taona fahafito kosa dia hatsahatrao tsy hovolena izy, mba hisy hohanin' ny mahantra amin' ny firenenao; ary izay sisan' ireo hohanin' ny biby any an-tsaha. Toy izany koa no hataonao amin' ny tanimboalobokao sy ny taninolivanao.",
+    "12": "Henemana no hanaovanao ny raharahanao; fa amin' ny andro fahafito dia hitsahatra ianao, mba hialan' ny ombinao sy ny borikinao sasatra, ary mba hakan' ny zanaky ny mpanompovavinao sy ny vahiny aina.",
+    "13": "Ary tandremo izay rehetra nolazaiko taminareo, ka aza manonona ny anaran' andriamani-kafa akory ianareo; aza avela ho re avy amin' ny vavanao izany.",
+    "14": "Intelo isan-kerintaona no hanaovanao andro firavoravoana ho Ahy.",
+    "15": "Tandremo ny andro firavoravoana fihinanana ny mofo tsy misy lalivay; (hafitoana no hihinananao mofo tsy misy lalivay araka izay nandidiako anao amin' ny fotoana voatendry amin' ny volana Abiba, fa tamin' izany no nivoahanao avy tany Egypta; ka aoka tsy hisy hiseho foana eo anatrehako);",
+    "16": "Ary ny andro firavoravoana amin' ny fijinjana ny voaloham-bokatry ny asanao, izay nafafinao tany an-tsaha, sy ny andro firavoravoana amin' ny fanangonana amin' ny faran' ny taona, raha manangona ny vokatry ny asanao avy any an-tsaha ianao.",
+    "17": "Intelo isan-taona no hisehoan' ny lehilahy rehetra aminao eo anatrehan' i Jehovah Andriamanitra.",
+    "18": "Aza manatitra ny ràn' izay fanatitra ho Ahy miaraka amin' ny mofo misy lalivay; ary aza avela ho tra-maraina ny saboran' ny fanatitra ho Ahy.",
+    "19": "Ny santatry ny voaloham-bokatry ny taninao dia hoentinao ao an-tranon' i Jehovah Andriamanitra. Aza mahandro zanak' osy amin' ny rononon-dreniny.",
+    "20": "Indro maniraka anjely eo anoloanao Aho, hiaro anao eny an-dalana sy hitondra anao ho any amin' ny fitoerana izay namboariko.",
+    "21": "Mitandrema eo anatrehany, ka mankatoava ny feony, aza mampahatezitra azy, fa tsy hamela ny fahotanareo Izy ; fa ny anarako no eo aminy.",
+    "22": "Fa raha hankatò ny feony tokoa ianao ka hanao izay rehetra lazaiko, dia ho fahavalon' ny fahavalonao Aho, ary ho rafin' izay rafinao.",
+    "23": "Fa handeha eo alohanao ny Anjeliko ka hitondra anao any amin' ny Amorita sy ny Hetita sy ny Perizita sy ny Kananita sy ny Hivita ary ny Jebosita; ary dia hofongorako ireny.",
+    "24": "Aza miankohoka eo anatrehan' ny andriamanitr' ireny ianao, na manompo azy, na manao araka ny ataony ; fa aringano tokoa izy, ary torotoroy tokoa ny sarin-javany.",
+    "25": "Fa manompoa an' i Jehovah Andriamanitrareo, dia hitahy ny haninao sy ny ranonao Izy ; ary hoesoriko aminao ny aretina.",
+    "26": "Tsy hisy ho afa-jaza na ho momba ao amin' ny taninao; hotanterahiko ny isan' ny andronao.",
+    "27": "Hampandeha ny fahatahorana ahy eo anoloanao Aho ka handringana ny firenena rehetra izay alehanao, ary hampiamboho ny fahavalonao rehetra anao Aho.",
+    "28": "Ary Izaho no hampandeha fanenitra eo alohanao, izay handroaka ny Hivita sy ny Kananita ary ny Hetita hiala eo alohanao.",
+    "29": "Tsy handroaka azy ireny eo alohanao amin' ny taona iray Aho fandrao ho tonga lao ny tany, ka hihamaro hamely anao ny biby any an-tsaha.",
+    "30": "Tsikelikely no handroahako azy hiala eo alohanao mandra-pahamaronao ka handova ny tany.",
+    "31": "Ary hatramin' ny Ranomasina Mena ka hatramin' ny ranomasin' ny Filistina no hataoko faritra ho anao, ary hatramin' ny efitra ka hatramin' ny renirano; fa hanolotra ny mponina amin' ny tany ho eo an-tananao Aho, dia handroaka azy hiala eo anoloanao ianao.",
+    "32": "Aza manao fanekena aminy na amin' ny andriamaniny ianao.",
+    "33": "Tsy honina eo amin' ny taninao ireo, fandrao hampanota anao amiko; fa raha manompo ny andriamaniny ianao, dia ho fandrika aminao tokoa izany."
+  }
 }

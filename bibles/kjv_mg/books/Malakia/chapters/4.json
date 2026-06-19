@@ -1,29 +1,12 @@
 {
+  "book": "Malakia",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Fa, indro, avy ny andro, mandoro toy ny fatana fandoroana izy; ary ny mpirehareha rehetra, eny ny mpanao ratsy rehetra dia ho vodivary; ka dia handoro azy ny andro izay ho avy, hoy Jehovah, Tompon' ny maro, ka tsy hasiany miangana, na ny fakany na ny sampany.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Fa hiposaka aminareo izay matahotra ny anarako, ny Masoandron' ny fahamarinana, manana fanasitranana eo amin' ny elany; ary hivoaka ianareo ka hifalihavanja toy ny zanak' omby mifahy.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary hohitsahinareo ny ratsy fanahy: fa ho lavenona eo ambanin' ny faladianareo izy amin' ny andro izay hanaovako izany, hoy Jehovah, Tompon' ny maro."
-    },
-    {
-      "v": 4,
-      "text": "Tsarovinareo ny lalàn' i Mosesy mpanompoko izay nandidiako azy tao Horeba ho an' ny Isiraely rehetra, dia ny didy sy ny fitsipika."
-    },
-    {
-      "v": 5,
-      "text": "\"Indro, haniraka an' i Elia mpaminany ho aminareo Aho, dieny tsy mbola tonga ny andron' i Jehovah, ilay lehibe sady mahatahotra;\""
-    },
-    {
-      "v": 6,
-      "text": "Ary izy hampody ny fon' ny ray ho amin' ny zanaka, ary ny fon' ny zanaka ho amin' ny rainy, fandrao ho avy Aho hamely ny tany amin' ny fanozonana."
-    }
-  ]
+  "verses": {
+    "1": "Fa, indro, avy ny andro, mandoro toy ny fatana fandoroana izy; ary ny mpirehareha rehetra, eny ny mpanao ratsy rehetra dia ho vodivary; ka dia handoro azy ny andro izay ho avy, hoy Jehovah, Tompon' ny maro, ka tsy hasiany miangana, na ny fakany na ny sampany.",
+    "2": "Fa hiposaka aminareo izay matahotra ny anarako, ny Masoandron' ny fahamarinana, manana fanasitranana eo amin' ny elany; ary hivoaka ianareo ka hifalihavanja toy ny zanak' omby mifahy.",
+    "3": "Ary hohitsahinareo ny ratsy fanahy: fa ho lavenona eo ambanin' ny faladianareo izy amin' ny andro izay hanaovako izany, hoy Jehovah, Tompon' ny maro.",
+    "4": "Tsarovinareo ny lalàn' i Mosesy mpanompoko izay nandidiako azy tao Horeba ho an' ny Isiraely rehetra, dia ny didy sy ny fitsipika.",
+    "5": "Indro, haniraka an' i Elia mpaminany ho aminareo Aho, dieny tsy mbola tonga ny andron' i Jehovah, ilay lehibe sady mahatahotra;",
+    "6": "Ary izy hampody ny fon' ny ray ho amin' ny zanaka, ary ny fon' ny zanaka ho amin' ny rainy, fandrao ho avy Aho hamely ny tany amin' ny fanozonana."
+  }
 }

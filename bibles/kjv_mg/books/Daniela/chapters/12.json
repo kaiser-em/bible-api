@@ -1,57 +1,19 @@
 {
+  "book": "Daniela",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary amin' izany fotoana izany dia hitsangana Mikaela, andrian-dehibe, izay mitsangana hiaro ny zanaky ny firenenao; ary hisy andro fahoriana, izay tsy nisy tahaka azy hatrizay nisian' ny firenena ka hatramin' izany andro izany; ary amin' izany dia ho afaka ny firenenao, dia izay rehetra hita voasoratra ao amin' ny boky.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary maro amin' izay matory ao amin' ny vovoky ny tany no hifoha: ny sasany ho amin' ny fiainana mandrakizay, ary ny sasany ho amin' ny henatra sy ny latsa mandrakizay."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary izay hendry dia hamirapiratra toy ny famirapiratry ny lanitra; ary izay mamerina ny maro ho amin' ny fahamarinana dia ho tahaka ny kintana mandrakizay doria.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Fa ianao, ry Daniela, dia ahoroninao ny teny, ka asio tombo-kase ny boky, mandra-piavin' ny fotoana farany; maro no hazoto hivezivezy ka hitombo ny fahalalana.\""
-    },
-    {
-      "v": 5,
-      "text": "Dia nijery izaho Daniela, ka, indro, nisy roa hafa koa nitsangana, ny anankiray teto amoron' ny ony, ary ny anankiray kosa teroa an-dafiny."
-    },
-    {
-      "v": 6,
-      "text": "Ary hoy ny anankiray tamin' ilay lehilahy mitafy rongony fotsy, izay teo ambonin' ny rano amin' ny ony: Mandra-pahoviana vao ho tanteraka ny faran' ireo fahagagana ireo?"
-    },
-    {
-      "v": 7,
-      "text": "\"Ary izaho nandre ilay lehilahy mitafy rongony fotsy izay teo ambonin' ny rano amin' ny ony, raha nanandratra ny tanany ankavanana sy ny tanany ankavia ho amin' ny lanitra ka nianiana tamin' Izay velona mandrakizay fa ho fe-potoana iray sy fe-potoana maro ary antsasaky ny fe-potoana; ary rehefa vitany ny fanamontsamontsanana ny herin' ny olo-masina, dia ho tanteraka ireo rehetra ireo.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary nandre izany aho, nefa tsy nahafantatra; dia hoy aho: Tompoko ô, hanao ahoana no hiafaran' ireo zavatra ireo?\""
-    },
-    {
-      "v": 9,
-      "text": "Dia hoy izy: Andeha, ry Daniela, fa efa voahorona ny teny sady voaisy tombo-kase mandra-piavin' ny fotoana farany."
-    },
-    {
-      "v": 10,
-      "text": "\"Maro no hodiovina sy hofotsiana ary hozahan-toetra; fa ny ratsy fanahy kosa mbola hanao ratsy ihany, ary tsy hisy amin' ny ratsy fanahy hahafantatra, fa ny hendry no hahafantatra.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary hatramin' ny andro hampitsaharana ny fanatitra isan' andro sy hampidirana ny fahavetavetana mahatonga fandravana dia hisy andro sivifolo sy roanjato amby arivo."
-    },
-    {
-      "v": 12,
-      "text": "Sambatra izay miandry sy mahatratra ny andro dimy amby telopolo amby telonjato sy arivo."
-    },
-    {
-      "v": 13,
-      "text": "\"Fa mandehana ianao mandra-piavin' ny farany; fa hitsahatra ianao ka hitsangana ho ao amin' ny anjaranao amin' ny andro farany.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary amin' izany fotoana izany dia hitsangana Mikaela, andrian-dehibe, izay mitsangana hiaro ny zanaky ny firenenao; ary hisy andro fahoriana, izay tsy nisy tahaka azy hatrizay nisian' ny firenena ka hatramin' izany andro izany; ary amin' izany dia ho afaka ny firenenao, dia izay rehetra hita voasoratra ao amin' ny boky.",
+    "2": "Ary maro amin' izay matory ao amin' ny vovoky ny tany no hifoha: ny sasany ho amin' ny fiainana mandrakizay, ary ny sasany ho amin' ny henatra sy ny latsa mandrakizay.",
+    "3": "Ary izay hendry dia hamirapiratra toy ny famirapiratry ny lanitra; ary izay mamerina ny maro ho amin' ny fahamarinana dia ho tahaka ny kintana mandrakizay doria.",
+    "4": "Fa ianao, ry Daniela, dia ahoroninao ny teny, ka asio tombo-kase ny boky, mandra-piavin' ny fotoana farany; maro no hazoto hivezivezy ka hitombo ny fahalalana.",
+    "5": "Dia nijery izaho Daniela, ka, indro, nisy roa hafa koa nitsangana, ny anankiray teto amoron' ny ony, ary ny anankiray kosa teroa an-dafiny.",
+    "6": "Ary hoy ny anankiray tamin' ilay lehilahy mitafy rongony fotsy, izay teo ambonin' ny rano amin' ny ony: Mandra-pahoviana vao ho tanteraka ny faran' ireo fahagagana ireo?",
+    "7": "Ary izaho nandre ilay lehilahy mitafy rongony fotsy izay teo ambonin' ny rano amin' ny ony, raha nanandratra ny tanany ankavanana sy ny tanany ankavia ho amin' ny lanitra ka nianiana tamin' Izay velona mandrakizay fa ho fe-potoana iray sy fe-potoana maro ary antsasaky ny fe-potoana; ary rehefa vitany ny fanamontsamontsanana ny herin' ny olo-masina, dia ho tanteraka ireo rehetra ireo.",
+    "8": "Ary nandre izany aho, nefa tsy nahafantatra; dia hoy aho: Tompoko ô, hanao ahoana no hiafaran' ireo zavatra ireo?",
+    "9": "Dia hoy izy: Andeha, ry Daniela, fa efa voahorona ny teny sady voaisy tombo-kase mandra-piavin' ny fotoana farany.",
+    "10": "Maro no hodiovina sy hofotsiana ary hozahan-toetra; fa ny ratsy fanahy kosa mbola hanao ratsy ihany, ary tsy hisy amin' ny ratsy fanahy hahafantatra, fa ny hendry no hahafantatra.",
+    "11": "Ary hatramin' ny andro hampitsaharana ny fanatitra isan' andro sy hampidirana ny fahavetavetana mahatonga fandravana dia hisy andro sivifolo sy roanjato amby arivo.",
+    "12": "Sambatra izay miandry sy mahatratra ny andro dimy amby telopolo amby telonjato sy arivo.",
+    "13": "Fa mandehana ianao mandra-piavin' ny farany; fa hitsahatra ianao ka hitsangana ho ao amin' ny anjaranao amin' ny andro farany."
+  }
 }

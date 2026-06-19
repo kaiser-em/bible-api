@@ -1,137 +1,39 @@
 {
+  "book": "Levitikosy",
   "chapter": 22,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Ary mitenena amin' i Arona sy ny zanany lahy mba hitandremany ny amin' ny tsy hanakaikeny ny zava-masin' ny Zanak' Isiraely sy tsy hanamavoany ny anarako masina amin' izay zavatra hamasinina ho Ahy. Izaho no Jehovah."
-    },
-    {
-      "v": 3,
-      "text": "Lazao aminy hoe: Izay rehetra misy fahalotoana amin' ny zanakareo amin' ny taranakareo mifandimby, nefa manakaiky ny zava-masina izay hamasinin' ny Zanak' Isiraely ho an' i Jehovah, dia hofongorana tsy ho eo anatrehako izany fanahy izany. Izaho no Jehovah."
-    },
-    {
-      "v": 4,
-      "text": "Na iza na iza amin' ny taranak' i Arona no boka, na marary mitsika dia tsy hihinana ny zava-masina mandra-pahadiony. Ary izay rehetra mikasika izay maloto amim-paty, na izay lehilahy nialan' ny azy,"
-    },
-    {
-      "v": 5,
-      "text": "Na izay mikasika biby mandady, na mikasika izay mahaloto, na lehilahy izay nahazo fahalotoana na inona na inona no fahalotoany,"
-    },
-    {
-      "v": 6,
-      "text": "Ny fanahy izay mikasika izany dia haloto mandra-paharivan' ny andro, ka tsy hihinana amin' ny zava-masina, raha tsy manasa ny tenany amin' ny rano."
-    },
-    {
-      "v": 7,
-      "text": "Ary rehefa milentika ny masoandro dia hadio izy, ka aorian' izay vao mahazo mihinana amin' ny zava-masina, satria sakafony izany."
-    },
-    {
-      "v": 8,
-      "text": "\"Izay maty ho azy na izay noviraviraim-biby dia tsy hohaniny, mba tsy hahaloto azy; Izaho no Jehovah.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary aoka hitandrina izay nasaiko tandremana izy, fandrao ho meloka noho izany izy ka ho fatin' ny nanamavoany azy; Izaho Jehovah no manamasina azy.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Tsy hisy olon-kafa hihinana zava-masina; na izay vahinin' ny mpisorona, na ny mpikarama, dia tsy hihinana amin' ny zava-masina.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Fa raha misy olona novidin' ny mpisorona, dia hahazo mihinana amin' izany ihany izy; ary ny ompikeliny hahazo mihinana amin' ny fihinan' ny mpisorona.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary raha misy zanakavavin' ny mpisorona manambady olon-kafa, dia tsy hihinana amin' ny fanatitra avy amin' ny zava-masina izy."
-    },
-    {
-      "v": 13,
-      "text": "\"Fa raha misy zanakavavin' ny mpisorona maty vady, na efa nisaorana, ka tsy manan-janaka, ary mody any an-tranon-drainy izy toy ny fony izy mbola kely, dia mahazo mihinana ny fihinan-drainy ihany izy; fa tsy hisy olon-kafa hihinana izany.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary raha misy olona mihinana tsy nahy amin' ny zava-masina, dia honerany ny zava-masina ka homeny ny mpisorona sady hampiany ny ampahadiminy."
-    },
-    {
-      "v": 15,
-      "text": "\"Tsy hametaveta ny zava-masin' ny Zanak' Isiraely, izay ateriny ho an' i Jehovah izy;\""
-    },
-    {
-      "v": 16,
-      "text": "\"Na hahatonga ota aman-keloka noho ny nihinanany ny zava-masiny; fa Izaho Jehovah no manamasina azy.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 18,
-      "text": "Mitenena amin' i Arona sy ireo zanany lahy ary ny Zanak' Isiraely rehetra ka lazao hoe: Na iza na iza amin' ny Zanak' Isiraely, na amin' ny vahiny eo amin' ny Isiraely, no manolotra ny fanatiny ho fanatitra hanalany voady sy ho fanati-tsitrapo, izay atolony ho an' i Jehovah ho fanatitra dorana,"
-    },
-    {
-      "v": 19,
-      "text": "Dia lahy tsy misy kilema avy amin' ny omby, na avy amin' ny ondry, na avy amin' ny osy, no ateriny an-tsitrapo."
-    },
-    {
-      "v": 20,
-      "text": "\"Fa izay rehetra misy kilema dia tsy aterinao; fa tsy hankasitrahana anareo izany.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Ary izay manolotra fanati-pihavanana ho an' i Jehovah, na ho fanatitra hanalany voady, na ho fanati-tsitrapo, na omby izany, na ondry, na osy, dia izay tanteraka mba hankasitrahana azy; tsy hisy kilema izany.\""
-    },
-    {
-      "v": 22,
-      "text": "Ny jamba, na ny tapaka, na ny kilemaina, na ny ferena, na ny kongonina dia tsy haterinareo ho an' i Jehovah izany, na hataonareo fanatitra amin' ny afo eo ambony alitara ho an' i Jehovah."
-    },
-    {
-      "v": 23,
-      "text": "\"Na omby, na ondry, na osy, izay manana amby na misy tsy ampy momba ny tenany, dia azonao aterina ho fanati-tsitrapo; fa raha hanalam-boady, dia tsy hankasitrahana izany.\""
-    },
-    {
-      "v": 24,
-      "text": "Izay mangana, na voatoro, na tapaka, na voadidy, dia tsy haterinareo ho an' i Jehovah, na hataonareo fanatitra eo amin' ny taninareo,"
-    },
-    {
-      "v": 25,
-      "text": "\"Tsy hanolotra ny mofon' Andriamanitrareo avy amin' izany avy amin' ny tanan' ny vahiny ianareo, satria ny fahasimbany dia eo aminy ary ny kilemany dia eo aminy; tsy mba hankasitrahana anareo izany.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 27,
-      "text": "\"Raha misy omby, na ondry, na osy vao teraka, dia hitoetra amin-dreniny hafitoana izy; fa rehefa hatramin' ny andro fahavalo no ho miakatra, dia hankasitrahana izy, raha atao fanatitra atao amin' ny afo ho an' i Jehovah.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary ny ombivavy, na ny ondrivavy, na ny osivavy, dia tsy hovonoinareo indray andro izy sy ny zanany."
-    },
-    {
-      "v": 29,
-      "text": "Ary raha manolotra fanati-pisaorana ho an' i Jehovah ianareo, dia atero amin' ny sitraponareo izany."
-    },
-    {
-      "v": 30,
-      "text": "Amin' izany andro izany ihany no hihinanana azy, fa aza amelana ho tra-maraina: Izaho no Jehovah."
-    },
-    {
-      "v": 31,
-      "text": "\"Koa tandremo ny didiko, ka ataovy izany; Izaho no Jehovah.\""
-    },
-    {
-      "v": 32,
-      "text": "\"Ary aza manamavo ny anarako masina; fa hohamasinina eo amin' ny Zanak' Isiraely Aho: Izaho no Jehovah, izay manamasina anareo,\""
-    },
-    {
-      "v": 33,
-      "text": "\"Izay nitondra anareo nivoaka avy tany amin' ny tany Egypta, mba ho Andriamanitrareo; Izaho no Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "2": "Ary mitenena amin' i Arona sy ny zanany lahy mba hitandremany ny amin' ny tsy hanakaikeny ny zava-masin' ny Zanak' Isiraely sy tsy hanamavoany ny anarako masina amin' izay zavatra hamasinina ho Ahy. Izaho no Jehovah.",
+    "3": "Lazao aminy hoe: Izay rehetra misy fahalotoana amin' ny zanakareo amin' ny taranakareo mifandimby, nefa manakaiky ny zava-masina izay hamasinin' ny Zanak' Isiraely ho an' i Jehovah, dia hofongorana tsy ho eo anatrehako izany fanahy izany. Izaho no Jehovah.",
+    "4": "Na iza na iza amin' ny taranak' i Arona no boka, na marary mitsika dia tsy hihinana ny zava-masina mandra-pahadiony. Ary izay rehetra mikasika izay maloto amim-paty, na izay lehilahy nialan' ny azy,",
+    "5": "Na izay mikasika biby mandady, na mikasika izay mahaloto, na lehilahy izay nahazo fahalotoana na inona na inona no fahalotoany,",
+    "6": "Ny fanahy izay mikasika izany dia haloto mandra-paharivan' ny andro, ka tsy hihinana amin' ny zava-masina, raha tsy manasa ny tenany amin' ny rano.",
+    "7": "Ary rehefa milentika ny masoandro dia hadio izy, ka aorian' izay vao mahazo mihinana amin' ny zava-masina, satria sakafony izany.",
+    "8": "Izay maty ho azy na izay noviraviraim-biby dia tsy hohaniny, mba tsy hahaloto azy; Izaho no Jehovah.",
+    "9": "Ary aoka hitandrina izay nasaiko tandremana izy, fandrao ho meloka noho izany izy ka ho fatin' ny nanamavoany azy; Izaho Jehovah no manamasina azy.",
+    "10": "Tsy hisy olon-kafa hihinana zava-masina; na izay vahinin' ny mpisorona, na ny mpikarama, dia tsy hihinana amin' ny zava-masina.",
+    "11": "Fa raha misy olona novidin' ny mpisorona, dia hahazo mihinana amin' izany ihany izy; ary ny ompikeliny hahazo mihinana amin' ny fihinan' ny mpisorona.",
+    "12": "Ary raha misy zanakavavin' ny mpisorona manambady olon-kafa, dia tsy hihinana amin' ny fanatitra avy amin' ny zava-masina izy.",
+    "13": "Fa raha misy zanakavavin' ny mpisorona maty vady, na efa nisaorana, ka tsy manan-janaka, ary mody any an-tranon-drainy izy toy ny fony izy mbola kely, dia mahazo mihinana ny fihinan-drainy ihany izy; fa tsy hisy olon-kafa hihinana izany.",
+    "14": "Ary raha misy olona mihinana tsy nahy amin' ny zava-masina, dia honerany ny zava-masina ka homeny ny mpisorona sady hampiany ny ampahadiminy.",
+    "15": "Tsy hametaveta ny zava-masin' ny Zanak' Isiraely, izay ateriny ho an' i Jehovah izy;",
+    "16": "Na hahatonga ota aman-keloka noho ny nihinanany ny zava-masiny; fa Izaho Jehovah no manamasina azy.",
+    "17": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "18": "Mitenena amin' i Arona sy ireo zanany lahy ary ny Zanak' Isiraely rehetra ka lazao hoe: Na iza na iza amin' ny Zanak' Isiraely, na amin' ny vahiny eo amin' ny Isiraely, no manolotra ny fanatiny ho fanatitra hanalany voady sy ho fanati-tsitrapo, izay atolony ho an' i Jehovah ho fanatitra dorana,",
+    "19": "Dia lahy tsy misy kilema avy amin' ny omby, na avy amin' ny ondry, na avy amin' ny osy, no ateriny an-tsitrapo.",
+    "20": "Fa izay rehetra misy kilema dia tsy aterinao; fa tsy hankasitrahana anareo izany.",
+    "21": "Ary izay manolotra fanati-pihavanana ho an' i Jehovah, na ho fanatitra hanalany voady, na ho fanati-tsitrapo, na omby izany, na ondry, na osy, dia izay tanteraka mba hankasitrahana azy; tsy hisy kilema izany.",
+    "22": "Ny jamba, na ny tapaka, na ny kilemaina, na ny ferena, na ny kongonina dia tsy haterinareo ho an' i Jehovah izany, na hataonareo fanatitra amin' ny afo eo ambony alitara ho an' i Jehovah.",
+    "23": "Na omby, na ondry, na osy, izay manana amby na misy tsy ampy momba ny tenany, dia azonao aterina ho fanati-tsitrapo; fa raha hanalam-boady, dia tsy hankasitrahana izany.",
+    "24": "Izay mangana, na voatoro, na tapaka, na voadidy, dia tsy haterinareo ho an' i Jehovah, na hataonareo fanatitra eo amin' ny taninareo,",
+    "25": "Tsy hanolotra ny mofon' Andriamanitrareo avy amin' izany avy amin' ny tanan' ny vahiny ianareo, satria ny fahasimbany dia eo aminy ary ny kilemany dia eo aminy; tsy mba hankasitrahana anareo izany.",
+    "26": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "27": "Raha misy omby, na ondry, na osy vao teraka, dia hitoetra amin-dreniny hafitoana izy; fa rehefa hatramin' ny andro fahavalo no ho miakatra, dia hankasitrahana izy, raha atao fanatitra atao amin' ny afo ho an' i Jehovah.",
+    "28": "Ary ny ombivavy, na ny ondrivavy, na ny osivavy, dia tsy hovonoinareo indray andro izy sy ny zanany.",
+    "29": "Ary raha manolotra fanati-pisaorana ho an' i Jehovah ianareo, dia atero amin' ny sitraponareo izany.",
+    "30": "Amin' izany andro izany ihany no hihinanana azy, fa aza amelana ho tra-maraina: Izaho no Jehovah.",
+    "31": "Koa tandremo ny didiko, ka ataovy izany; Izaho no Jehovah.",
+    "32": "Ary aza manamavo ny anarako masina; fa hohamasinina eo amin' ny Zanak' Isiraely Aho: Izaho no Jehovah, izay manamasina anareo,",
+    "33": "Izay nitondra anareo nivoaka avy tany amin' ny tany Egypta, mba ho Andriamanitrareo; Izaho no Jehovah."
+  }
 }

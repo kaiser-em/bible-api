@@ -1,29 +1,12 @@
 {
+  "book": "Salamo",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Sambatra ny olona izay tsy mandeha eo amin’ny tolo-tsain’ny tsy araka an’Andriamanitra, na mijanona eo amin’ny lalana falehan’ny mpanota, na mipetraka eo amin’ny fipetrahan’ny mpaniratsira."
-    },
-    {
-      "v": 2,
-      "text": "\"Fa ny firavoravoany dia ao amin’ny lalàn’i Jehovah; ny lalàny no saintsaininy andro aman’alina.\""
-    },
-    {
-      "v": 3,
-      "text": "Dia ho tahaka ny hazo ambolena eo amoron’ny rano velona izy, izay mamoa amin’ny fotoany, ny raviny koa tsy mba malazo, ary izay ataony rehetra hambinina avokoa."
-    },
-    {
-      "v": 4,
-      "text": "Fa tsy mba toy izany ny tsy araka an' Andriamanitra, fa ho toy ny akofa aelin’ny rivotra izy."
-    },
-    {
-      "v": 5,
-      "text": "Ary noho izany ny tsy araka an' Andriamanitra dia tsy hahajanona eo amin’ny fitsarana, na ny mpanota eo amin’ny fiangonan’ny marina."
-    },
-    {
-      "v": 6,
-      "text": "Fa fantatr’i Jehovah ny lalan’ny marina, fa ny lalan’ny tsy araka an' Andriamanitra kosa dia mankany amin’ny fahaverezana."
-    }
-  ]
+  "verses": {
+    "1": "Sambatra ny olona izay tsy mandeha eo amin’ny tolo-tsain’ny tsy araka an’Andriamanitra, na mijanona eo amin’ny lalana falehan’ny mpanota, na mipetraka eo amin’ny fipetrahan’ny mpaniratsira.",
+    "2": "Fa ny firavoravoany dia ao amin’ny lalàn’i Jehovah; ny lalàny no saintsaininy andro aman’alina.",
+    "3": "Dia ho tahaka ny hazo ambolena eo amoron’ny rano velona izy, izay mamoa amin’ny fotoany, ny raviny koa tsy mba malazo, ary izay ataony rehetra hambinina avokoa.",
+    "4": "Fa tsy mba toy izany ny tsy araka an' Andriamanitra, fa ho toy ny akofa aelin’ny rivotra izy.",
+    "5": "Ary noho izany ny tsy araka an' Andriamanitra dia tsy hahajanona eo amin’ny fitsarana, na ny mpanota eo amin’ny fiangonan’ny marina.",
+    "6": "Fa fantatr’i Jehovah ny lalan’ny marina, fa ny lalan’ny tsy araka an' Andriamanitra kosa dia mankany amin’ny fahaverezana."
+  }
 }

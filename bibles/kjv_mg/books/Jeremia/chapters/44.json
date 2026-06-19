@@ -1,125 +1,36 @@
 {
+  "book": "Jeremia",
   "chapter": 44,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ny teny izay tonga tamin' i Jeremia ny amin' ny Jiosy rehetra izay nonina tany amin' ny tany Egypta, dia izay nonina tao Migdola sy Tapanesa sy Nofa, ary tany amin' ny tany Patrosa, nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Izao no lazain' i Jehovah, Tompon' ny maro, Andriamanitry ny Isiraely: Ianareo efa nahita ny loza rehetra izay nataoko nihatra tamin' i Jerosalema sy ny tanànan' ny Joda rehetra; ary, indro, efa tany lao ireo ankehitriny, ka tsy misy olona monina intsony ao aminy,\""
-    },
-    {
-      "v": 3,
-      "text": "Noho ny ratsy nataony hampahatezitra Ahy tamin' ny nandehanany handoro ditin-kazo manitra sy hanompo andriamani-kafa izay tsy fantany, na izy, na ianareo, na ny razanareo."
-    },
-    {
-      "v": 4,
-      "text": "Ary naniraka ny mpaminany mpanompoko rehetra taminareo Aho, nifoha maraina koa Aho ka naniraka azy nanao hoe: E, aza manao izao fahavetavetana izay halako izao."
-    },
-    {
-      "v": 5,
-      "text": "Nefa tsy nihaino izy na nanongilana ny sofiny hialany amin' ny haratsiany tsy handoro ditin-kazo manitra ho an' andriamani-kafa."
-    },
-    {
-      "v": 6,
-      "text": "Ka dia naidina ny fahavinirako sy ny fahatezerako, eny, nandoro ny tanànan' ny Joda sy ny teny amin' ny lalamben' i Jerosalema izany, ka dia rava sy lao ireny tahaka ny amin' izao anio izao."
-    },
-    {
-      "v": 7,
-      "text": "Koa ankehitriny, izao no lazain' i Jehovah, Andriamanitry ny maro, dia Andriamanitry ny Isiraely: Ahoana no anaovanareo izao ratsy lehibe singotry ny ainareo izao, haharingana ny lehilahy sy ny vehivavy, ny ankizy madinika sy ny zaza minono ao amin' ny Joda tsy haha-misy miangana anareo,"
-    },
-    {
-      "v": 8,
-      "text": "Noho ny ampahatezeranareo Ahy amin'ny asan' ny tananareo sy amin' ny andoroana ditin-kazo manitra ho an' andriamani-kafa any amin' ny tany Egypta izay alehanareo honenana, mba haharingana anareo ka hahatonga anareo ho fanozonana sy ho fandatsa any amin' ny firenena rehetra ambonin' ny tany"
-    },
-    {
-      "v": 9,
-      "text": "Moa hadinonareo va ny faharatsian' ny razanareo sy ny faharatsian' ny mpanjakan' ny Joda sy ny faharatsian' ny vadiny sy ny faharatsianareo, ary ny faharatsian' ny vadinareo, dia izay nataony tany amin' ny tanin' ny Joda sy teny amin' ny lalamben' iJerosalema?"
-    },
-    {
-      "v": 10,
-      "text": "Tsy mbola nanetry tena izy na dia mandraka androany aza, na natahotra na nandeha araka ny lalàko sy ny didiko, izay napetrako teo anoloanareo sy teo anoloan' ny razanareo."
-    },
-    {
-      "v": 11,
-      "text": "Koa izao no lazain' i Jehovah Tompon' ny maro, Andriamanitry ny Isiraely: Indro, hanandrina anareo Aho hahatonga loza haharingana ny Joda rehetra."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary halaiko ny sisa amin' ny Joda izay nampiatrika ny tavany ho any amin' ny tany Egypta hivahiny any, ka ho lany ritra izy rehetra; sady ho lavo any amin' ny tany Egypta; eny ho ringan' ny sabatra sy ny mosary izy; ho fatin' ny sabatra sy ny mosary izy hatramin' ny kely indrindra ka hatramin' ny lehibe indrindra; ary ho tonga fianianana sy ho figagàna sy fanozonana ary fandatsa izy.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Fa hofaiziko izay monina any amin' ny tany Egypta, toy ny namaizako an' i Jerosalema tamin' ny sabatra sy ny mosary ary ny areti-mandringana;\""
-    },
-    {
-      "v": 14,
-      "text": "Koa ny sisa amin' ny Joda izay lasa nivahiny any Egypta, dia tsy hisy ho afa-mandositra ho tafaverina any amin' ny tanin' ny Joda izay niriny hiverenana mba honenana, afa-tsy izay sendra afa-mandositra ihany."
-    },
-    {
-      "v": 15,
-      "text": "Ary ny lehilahy rehetra, izay nahalala fa ny vadiny efa nandoro ditin-kazo manitra ho an' andriamani-kafa, sy ny vehivavy rehetra izay nitsangana teo, dia vahoaka be dia be, dia ny olona rehetra izay nonina tany amin' ny tany Egypta, tao Patrosa, dia namaly an' i Jeremia hoe:"
-    },
-    {
-      "v": 16,
-      "text": "Raha ny amin' ilay teny voalazanao taminay tamin' ny anaran' i Jehovah, dia tsy hihaino anao izahay."
-    },
-    {
-      "v": 17,
-      "text": "Fa hataonay tokoa ny teny rehetra izay naloaky ny vavanay, dia ny handoro ditin-kazo manitra ho an' ny mpanjakavavin' ny lanitra sy ny hanidina fanatitra aidina ho azy, toy ny efa nataonay sy ny razanay sy ny mpanjakanay ary ny mpanapaka anay tany amin' ny tanànan' ny Joda sy teny amin' ny lalamben' i Jerosalema, fa fahizany dia voky hanina izahay sady finaritra ary tsy nahita loza,"
-    },
-    {
-      "v": 18,
-      "text": "Fa hatrizay nitsaharany tsy nandoro ditin-kazo manitra ho an' ny mpanjakavavin' ny lanitra na nanidina fanatitra aidina ho azy izay, dia saiky tsy nanana na inona na inona akory izahay sady ringan' ny sabatra sy ny mosary."
-    },
-    {
-      "v": 19,
-      "text": "Ary raha nandoro ditin-kazo manitra ho an' ny mpanjakavavin' ny lanitra izahay sy nanidina fanatitra aidina ho azy, moa tsy fantatry ny vadinay va ny nanaovanay mofo ho azy mba hiankohofana aminy sy ny nanidinana ny fanatitra aidina ho azy?"
-    },
-    {
-      "v": 20,
-      "text": "Ary hoy Jeremia tamin' ny olona rehetra, na ny lehilahy na ny vehivavy, dia ny olona rehetra izay efa namaly azy hoe:"
-    },
-    {
-      "v": 21,
-      "text": "Ny nandoroanareo ditin-kazo manitra tany an-tanànan' ny Joda sy tany an-dalamben' i Jerosalema, dia ianareo sy ny razanareo sy ny mpanjakanareo sy ny mpanapaka anareo mbamin' ny vahoaka tany, moa tsy notsarovan' i Jehovah va izany, ary tsy tao an-tsainy va?"
-    },
-    {
-      "v": 22,
-      "text": "\"Ka dia tsy nahalefitra intsony Jehovah noho ny faharatsian' ny nataonareo sy noho ny fahavetavetana izay nataonareo; koa izany no nanaovana ny taninareo ho lao sy ho figagàna ary ho fanozonana, ka tsy misy mponina, tahaka ny amin' izao anio izao.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Noho ny nandoroanareo ditin-kazo manitra sy ny nanotanareo tamin' i Jehovah, fa tsy nankatò ny feon' i Jehovah, na nandeha araka ny lalàny sy ny didiny ary ny teny vavolombelony; dia izany no nahatonga izao loza izao taminareo tahaka ny amin' izao anio izao.\""
-    },
-    {
-      "v": 24,
-      "text": "Ary hoy koa Jeremia tamin' ny olona rehetra sy tamin' ny vehivavy rehetra: Mihainoa ny tenin' iJehovah, ry Joda rehetra izay aty amin' ny tany Egypta:"
-    },
-    {
-      "v": 25,
-      "text": "\"Izao no lazain' i Jehovah Tompon' ny maro, Andriamanitry ny Isiraely, manao hoe: ianareo sy ny vadinareo samy niteny tamin' ny vavanareo sady nanatanteraka tamin' ny tananareo koa, nanao hoe: Hanefa tokoa izay efa nivoadianay izahay ka handoro ditin-kazo manitra ho an' ny mpanjakavavin' ny lanitra sy hanidina fanatitra aidina ho azy; eny, hefainareo tokoa ny voadinareo sady hataonareo tanteraka.\""
-    },
-    {
-      "v": 26,
-      "text": "Koa henoinareo ny tenin' i Jehovah, ry Joda rehetra, izay monina aty amin' ny tany Egypta: Indro Aho efa nianiana tamin' ny anarako lehibe, hoy Jehovah, fa tsy hotononin' ny vavan' ny lehilahy amin' ny Joda eran' ny tany Egypta intsony ny anarako hanao hoe: Raha velona koa Jehovah Tompo."
-    },
-    {
-      "v": 27,
-      "text": "\"Indro, miambina azy Aho, hahatonga loza, fa tsy soa; ary ny lehilahy rehetra amin' ny Joda, izay aty amin' ny tany Egypta, dia ho ringan' ny sabatra sy ny mosary mandra-pahalany ritrany.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Izay vitsy afa-mandositra ny sabatra no hiverina avy any amin' ny tany Egypta ho any amin' ny tanin' ny Joda; ary ny sisa amin' ny Joda rehetra, izay nankany amin' ny tany Egypta hivahiny any, dia hahafantatra izay ho tò teny na izaho na izy.\""
-    },
-    {
-      "v": 29,
-      "text": "Ary izao no ho famantarana ho anareo, hoy Jehovah, fa hofaiziko eto amin' ity tany ity ianareo, mba hahafantaranareo fa ho tò tokoa ny teniko hahatonga loza aminareo."
-    },
-    {
-      "v": 30,
-      "text": "Izao no lazain' i Jehovah: Indro, Farao-hofra, mpanjakan' i Egypta, hatolotro eo an-tanan' ny fahavalony sy eo an-tanan' izay mitady ny ainy, toy ny efa nanolorako an' i Zedekia, mpanjakan' ny Joda, ho eo an-tanan' i Nebokadnezara, mpanjakan' i Babylona, izay fahavalony nitady ny ainy."
-    }
-  ]
+  "verses": {
+    "1": "Ny teny izay tonga tamin' i Jeremia ny amin' ny Jiosy rehetra izay nonina tany amin' ny tany Egypta, dia izay nonina tao Migdola sy Tapanesa sy Nofa, ary tany amin' ny tany Patrosa, nanao hoe:",
+    "2": "Izao no lazain' i Jehovah, Tompon' ny maro, Andriamanitry ny Isiraely: Ianareo efa nahita ny loza rehetra izay nataoko nihatra tamin' i Jerosalema sy ny tanànan' ny Joda rehetra; ary, indro, efa tany lao ireo ankehitriny, ka tsy misy olona monina intsony ao aminy,",
+    "3": "Noho ny ratsy nataony hampahatezitra Ahy tamin' ny nandehanany handoro ditin-kazo manitra sy hanompo andriamani-kafa izay tsy fantany, na izy, na ianareo, na ny razanareo.",
+    "4": "Ary naniraka ny mpaminany mpanompoko rehetra taminareo Aho, nifoha maraina koa Aho ka naniraka azy nanao hoe: E, aza manao izao fahavetavetana izay halako izao.",
+    "5": "Nefa tsy nihaino izy na nanongilana ny sofiny hialany amin' ny haratsiany tsy handoro ditin-kazo manitra ho an' andriamani-kafa.",
+    "6": "Ka dia naidina ny fahavinirako sy ny fahatezerako, eny, nandoro ny tanànan' ny Joda sy ny teny amin' ny lalamben' i Jerosalema izany, ka dia rava sy lao ireny tahaka ny amin' izao anio izao.",
+    "7": "Koa ankehitriny, izao no lazain' i Jehovah, Andriamanitry ny maro, dia Andriamanitry ny Isiraely: Ahoana no anaovanareo izao ratsy lehibe singotry ny ainareo izao, haharingana ny lehilahy sy ny vehivavy, ny ankizy madinika sy ny zaza minono ao amin' ny Joda tsy haha-misy miangana anareo,",
+    "8": "Noho ny ampahatezeranareo Ahy amin'ny asan' ny tananareo sy amin' ny andoroana ditin-kazo manitra ho an' andriamani-kafa any amin' ny tany Egypta izay alehanareo honenana, mba haharingana anareo ka hahatonga anareo ho fanozonana sy ho fandatsa any amin' ny firenena rehetra ambonin' ny tany",
+    "9": "Moa hadinonareo va ny faharatsian' ny razanareo sy ny faharatsian' ny mpanjakan' ny Joda sy ny faharatsian' ny vadiny sy ny faharatsianareo, ary ny faharatsian' ny vadinareo, dia izay nataony tany amin' ny tanin' ny Joda sy teny amin' ny lalamben' iJerosalema?",
+    "10": "Tsy mbola nanetry tena izy na dia mandraka androany aza, na natahotra na nandeha araka ny lalàko sy ny didiko, izay napetrako teo anoloanareo sy teo anoloan' ny razanareo.",
+    "11": "Koa izao no lazain' i Jehovah Tompon' ny maro, Andriamanitry ny Isiraely: Indro, hanandrina anareo Aho hahatonga loza haharingana ny Joda rehetra.",
+    "12": "Ary halaiko ny sisa amin' ny Joda izay nampiatrika ny tavany ho any amin' ny tany Egypta hivahiny any, ka ho lany ritra izy rehetra; sady ho lavo any amin' ny tany Egypta; eny ho ringan' ny sabatra sy ny mosary izy; ho fatin' ny sabatra sy ny mosary izy hatramin' ny kely indrindra ka hatramin' ny lehibe indrindra; ary ho tonga fianianana sy ho figagàna sy fanozonana ary fandatsa izy.",
+    "13": "Fa hofaiziko izay monina any amin' ny tany Egypta, toy ny namaizako an' i Jerosalema tamin' ny sabatra sy ny mosary ary ny areti-mandringana;",
+    "14": "Koa ny sisa amin' ny Joda izay lasa nivahiny any Egypta, dia tsy hisy ho afa-mandositra ho tafaverina any amin' ny tanin' ny Joda izay niriny hiverenana mba honenana, afa-tsy izay sendra afa-mandositra ihany.",
+    "15": "Ary ny lehilahy rehetra, izay nahalala fa ny vadiny efa nandoro ditin-kazo manitra ho an' andriamani-kafa, sy ny vehivavy rehetra izay nitsangana teo, dia vahoaka be dia be, dia ny olona rehetra izay nonina tany amin' ny tany Egypta, tao Patrosa, dia namaly an' i Jeremia hoe:",
+    "16": "Raha ny amin' ilay teny voalazanao taminay tamin' ny anaran' i Jehovah, dia tsy hihaino anao izahay.",
+    "17": "Fa hataonay tokoa ny teny rehetra izay naloaky ny vavanay, dia ny handoro ditin-kazo manitra ho an' ny mpanjakavavin' ny lanitra sy ny hanidina fanatitra aidina ho azy, toy ny efa nataonay sy ny razanay sy ny mpanjakanay ary ny mpanapaka anay tany amin' ny tanànan' ny Joda sy teny amin' ny lalamben' i Jerosalema, fa fahizany dia voky hanina izahay sady finaritra ary tsy nahita loza,",
+    "18": "Fa hatrizay nitsaharany tsy nandoro ditin-kazo manitra ho an' ny mpanjakavavin' ny lanitra na nanidina fanatitra aidina ho azy izay, dia saiky tsy nanana na inona na inona akory izahay sady ringan' ny sabatra sy ny mosary.",
+    "19": "Ary raha nandoro ditin-kazo manitra ho an' ny mpanjakavavin' ny lanitra izahay sy nanidina fanatitra aidina ho azy, moa tsy fantatry ny vadinay va ny nanaovanay mofo ho azy mba hiankohofana aminy sy ny nanidinana ny fanatitra aidina ho azy?",
+    "20": "Ary hoy Jeremia tamin' ny olona rehetra, na ny lehilahy na ny vehivavy, dia ny olona rehetra izay efa namaly azy hoe:",
+    "21": "Ny nandoroanareo ditin-kazo manitra tany an-tanànan' ny Joda sy tany an-dalamben' i Jerosalema, dia ianareo sy ny razanareo sy ny mpanjakanareo sy ny mpanapaka anareo mbamin' ny vahoaka tany, moa tsy notsarovan' i Jehovah va izany, ary tsy tao an-tsainy va?",
+    "22": "Ka dia tsy nahalefitra intsony Jehovah noho ny faharatsian' ny nataonareo sy noho ny fahavetavetana izay nataonareo; koa izany no nanaovana ny taninareo ho lao sy ho figagàna ary ho fanozonana, ka tsy misy mponina, tahaka ny amin' izao anio izao.",
+    "23": "Noho ny nandoroanareo ditin-kazo manitra sy ny nanotanareo tamin' i Jehovah, fa tsy nankatò ny feon' i Jehovah, na nandeha araka ny lalàny sy ny didiny ary ny teny vavolombelony; dia izany no nahatonga izao loza izao taminareo tahaka ny amin' izao anio izao.",
+    "24": "Ary hoy koa Jeremia tamin' ny olona rehetra sy tamin' ny vehivavy rehetra: Mihainoa ny tenin' iJehovah, ry Joda rehetra izay aty amin' ny tany Egypta:",
+    "25": "Izao no lazain' i Jehovah Tompon' ny maro, Andriamanitry ny Isiraely, manao hoe: ianareo sy ny vadinareo samy niteny tamin' ny vavanareo sady nanatanteraka tamin' ny tananareo koa, nanao hoe: Hanefa tokoa izay efa nivoadianay izahay ka handoro ditin-kazo manitra ho an' ny mpanjakavavin' ny lanitra sy hanidina fanatitra aidina ho azy; eny, hefainareo tokoa ny voadinareo sady hataonareo tanteraka.",
+    "26": "Koa henoinareo ny tenin' i Jehovah, ry Joda rehetra, izay monina aty amin' ny tany Egypta: Indro Aho efa nianiana tamin' ny anarako lehibe, hoy Jehovah, fa tsy hotononin' ny vavan' ny lehilahy amin' ny Joda eran' ny tany Egypta intsony ny anarako hanao hoe: Raha velona koa Jehovah Tompo.",
+    "27": "Indro, miambina azy Aho, hahatonga loza, fa tsy soa; ary ny lehilahy rehetra amin' ny Joda, izay aty amin' ny tany Egypta, dia ho ringan' ny sabatra sy ny mosary mandra-pahalany ritrany.",
+    "28": "Izay vitsy afa-mandositra ny sabatra no hiverina avy any amin' ny tany Egypta ho any amin' ny tanin' ny Joda; ary ny sisa amin' ny Joda rehetra, izay nankany amin' ny tany Egypta hivahiny any, dia hahafantatra izay ho tò teny na izaho na izy.",
+    "29": "Ary izao no ho famantarana ho anareo, hoy Jehovah, fa hofaiziko eto amin' ity tany ity ianareo, mba hahafantaranareo fa ho tò tokoa ny teniko hahatonga loza aminareo.",
+    "30": "Izao no lazain' i Jehovah: Indro, Farao-hofra, mpanjakan' i Egypta, hatolotro eo an-tanan' ny fahavalony sy eo an-tanan' izay mitady ny ainy, toy ny efa nanolorako an' i Zedekia, mpanjakan' ny Joda, ho eo an-tanan' i Nebokadnezara, mpanjakan' i Babylona, izay fahavalony nitady ny ainy."
+  }
 }

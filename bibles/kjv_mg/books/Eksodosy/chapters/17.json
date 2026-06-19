@@ -1,69 +1,22 @@
 {
+  "book": "Eksodosy",
   "chapter": 17,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary niala tao an' efitra Sina ny fiangonan' ny Zanak' Isiraely rehetra, araka ny lalany izay nandidian' i Jehovah, ka nitoby tao Refidima; ary tsy nisy rano hosotroin' ny olona.\""
-    },
-    {
-      "v": 2,
-      "text": "Noho izany dia nila ady tamin' i Mosesy ny olona ka nanao hoe: Omeo rano izahay mba hosotroinay. Ary hoy Mosesy taminy: Nahoana no mila ady amiko ianareo? Nahoana no maka fanahy an' i Jehovah ianareo?"
-    },
-    {
-      "v": 3,
-      "text": "\"Ary nangetaheta rano teo ny olona; dia nimonomonona tamin' i Mosesy ny olona ka nanao hoe: Inona izao nitondranao anay niakatra niala tany Egypta izao, hahafatin-ketaheta anay sy ny zanakay ary ny biby fiompinay?\""
-    },
-    {
-      "v": 4,
-      "text": "Ary Mosesy nitaraina tamin' i Jehovah ka nanao hoe: Inona no hataoko amin' ireto olona ireto? fa mila hitora-bato ahy izy."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary hoy Jehovah tamin' i Mosesy: Mandrosoa eo anoloan' ny olona, ary itondray hiaraka aminao ny loholon' ny Isiraely; ary ny tehinao ilay nikapohanao ny renirano, dia ento eny an-tananao ka mandehana.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary indro, hitsangana eo anatrehanao eo ambonin' ny vatolampy any Horeba Aho, dia hikapoka ny vatolampy ianao, ka hisy rano hivoaka avy aminy hosotroin' ny olona. Dia nanao izany Mosesy teo imason' ny loholon' ny Isiraely."
-    },
-    {
-      "v": 7,
-      "text": "Ary ny anaran' izany tany izany dia nataony hoe Masa sy Meriba, noho ny filana adin' ny Zanak' Isiraely sy noho ny nakany fanahy an' i Jehovah hoe: Eto aminay va Jehovah sa tsia?"
-    },
-    {
-      "v": 8,
-      "text": "Dia tonga Amaleka ka niady tamin' ny Isiraely tao Refidima."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary hoy Mosesy tamin' i Josoa: Mifidiana lehilahy ho antsika, dia mivoaha hiady amin' i Amaleka; rahampitso dia hijoro eo an-tampon' ny havoana aho miaraka amin' ny tehin' Andriamanitra ety an-tanako.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary Josoa dia nanao araka izay nandidian' i Mosesy azy ka niady tamin' i Amaleka; ary Mosesy sy arona ary Hora niakatra ho ao an-tampon' ny havoana.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary izao no niseho, rehefa nasandratr' i Mosesy ny tanany, dia nahery ny Isiraely; fa rehefa nampidininy ny tanany, dia nahery amaleka.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Fa navesatra ny tanan' i Mosesy; ka dia naka vato izy ireo, ary nataony teo ambanin' i Mosesy hipetrahany: ary Arona sy Hora dia nanohana ny tanany, ka ny iray tamin' ny anila, ary ny iray tamin' ny anila; ary tsy nihetsika ny tanany mandra-pilentiky ny masoandro.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary Josoa nandresy an' i Amaleka sy ny olony tamin' ny lelan-tsabatra."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary hoy Jehovah tamin' i Mosesy: Soraty izany ho fahatsiarovana eo amin' ny boky, ary averimbereno eo an-tsofin' i Josoa izany; fa hofoanako tanteraka ny fahatsiarovana an' i Amaleka tsy ho eny ambanin' ny lanitra.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary nanorina alitara Mosesy ka nanao ny anarany hoe: Jehovah-nisì."
-    },
-    {
-      "v": 16,
-      "text": "Fa hoy izy: Satria Jehovah nianiana fa Jehovah hanana ady amin' i Amaleka amin' ny taranaka mifandimby."
-    }
-  ]
+  "verses": {
+    "1": "Ary niala tao an' efitra Sina ny fiangonan' ny Zanak' Isiraely rehetra, araka ny lalany izay nandidian' i Jehovah, ka nitoby tao Refidima; ary tsy nisy rano hosotroin' ny olona.",
+    "2": "Noho izany dia nila ady tamin' i Mosesy ny olona ka nanao hoe: Omeo rano izahay mba hosotroinay. Ary hoy Mosesy taminy: Nahoana no mila ady amiko ianareo? Nahoana no maka fanahy an' i Jehovah ianareo?",
+    "3": "Ary nangetaheta rano teo ny olona; dia nimonomonona tamin' i Mosesy ny olona ka nanao hoe: Inona izao nitondranao anay niakatra niala tany Egypta izao, hahafatin-ketaheta anay sy ny zanakay ary ny biby fiompinay?",
+    "4": "Ary Mosesy nitaraina tamin' i Jehovah ka nanao hoe: Inona no hataoko amin' ireto olona ireto? fa mila hitora-bato ahy izy.",
+    "5": "Ary hoy Jehovah tamin' i Mosesy: Mandrosoa eo anoloan' ny olona, ary itondray hiaraka aminao ny loholon' ny Isiraely; ary ny tehinao ilay nikapohanao ny renirano, dia ento eny an-tananao ka mandehana.",
+    "6": "Ary indro, hitsangana eo anatrehanao eo ambonin' ny vatolampy any Horeba Aho, dia hikapoka ny vatolampy ianao, ka hisy rano hivoaka avy aminy hosotroin' ny olona. Dia nanao izany Mosesy teo imason' ny loholon' ny Isiraely.",
+    "7": "Ary ny anaran' izany tany izany dia nataony hoe Masa sy Meriba, noho ny filana adin' ny Zanak' Isiraely sy noho ny nakany fanahy an' i Jehovah hoe: Eto aminay va Jehovah sa tsia?",
+    "8": "Dia tonga Amaleka ka niady tamin' ny Isiraely tao Refidima.",
+    "9": "Ary hoy Mosesy tamin' i Josoa: Mifidiana lehilahy ho antsika, dia mivoaha hiady amin' i Amaleka; rahampitso dia hijoro eo an-tampon' ny havoana aho miaraka amin' ny tehin' Andriamanitra ety an-tanako.",
+    "10": "Ary Josoa dia nanao araka izay nandidian' i Mosesy azy ka niady tamin' i Amaleka; ary Mosesy sy arona ary Hora niakatra ho ao an-tampon' ny havoana.",
+    "11": "Ary izao no niseho, rehefa nasandratr' i Mosesy ny tanany, dia nahery ny Isiraely; fa rehefa nampidininy ny tanany, dia nahery amaleka.",
+    "12": "Fa navesatra ny tanan' i Mosesy; ka dia naka vato izy ireo, ary nataony teo ambanin' i Mosesy hipetrahany: ary Arona sy Hora dia nanohana ny tanany, ka ny iray tamin' ny anila, ary ny iray tamin' ny anila; ary tsy nihetsika ny tanany mandra-pilentiky ny masoandro.",
+    "13": "Ary Josoa nandresy an' i Amaleka sy ny olony tamin' ny lelan-tsabatra.",
+    "14": "Ary hoy Jehovah tamin' i Mosesy: Soraty izany ho fahatsiarovana eo amin' ny boky, ary averimbereno eo an-tsofin' i Josoa izany; fa hofoanako tanteraka ny fahatsiarovana an' i Amaleka tsy ho eny ambanin' ny lanitra.",
+    "15": "Ary nanorina alitara Mosesy ka nanao ny anarany hoe: Jehovah-nisì.",
+    "16": "Fa hoy izy: Satria Jehovah nianiana fa Jehovah hanana ady amin' i Amaleka amin' ny taranaka mifandimby."
+  }
 }

@@ -1,49 +1,17 @@
 {
+  "book": "Isaia",
   "chapter": 50,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Izao no lazain' i Jehovah: aiza izay taratasy fisaoram-bady nisaorako an-dreninareo? Ary iza amin' izay manan-trosa amiko no nivarotako anareo? Indro, noho ny helokareo ihany no nivarotana anareo, ary noho ny fahadisoanareo no nisaorana an-dreninareo."
-    },
-    {
-      "v": 2,
-      "text": "\"Nahoana no tsy nisy olona, fony tonga Aho, ary tsy nisy namaly, fony niantso Aho? Moa fohy tokoa va ny tanako ka tsy mahavonjy, ary moa tsy manan-kery hoenti-manafaka va Aho? Indro, amin' ny teny mafy ataoko no andritako ny ranomasina sy anaovako ny ony ho efitra; ary maimbo ny hazandranony noho ny tsy fisian' ny rano sady matin-ketaheta.\""
-    },
-    {
-      "v": 3,
-      "text": "Tafiako fahamaintisana ny lanitra, ary lamba fisaonana no ataoko fisaronany."
-    },
-    {
-      "v": 4,
-      "text": "\"Jehovah Tompo nanome Ahy ny lelan' ny efa nampianarina, mba hahaizako manao teny tandrifiny ho an' izay reraka; ampandrenesiny isa-maraina isa-maraina, eny ampandrenesiny ny sofiko hihaino tahaka ny efa nampianarina.\""
-    },
-    {
-      "v": 5,
-      "text": "Jehovah Tompo nanokatra ny sofiko, ary Izaho tsy naditra na nihemotra."
-    },
-    {
-      "v": 6,
-      "text": "\"Ny lamosiko natolotro ho amin' ny mpikapoka, ary ny takolako ho amin' izay manongo-baoka; ny tavako tsy nafeniko tamin' ny henatra sy ny rora.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa Jehovah Tompo no hamonjy Ahy, ka dia tsy resin-kenatra Aho; ary efa nohamafisiko ho tahaka ny afovato ny tavako, ka fantatro fa tsy ho menatra Aho.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Akaiky Izay manamarina Ahy; iza no hiady amiko? Andeha hiara-mitsangana isika; iza no manana ady amiko? Aoka izy hanatona Ahy.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Indro, Jehovah Tompo no hamonjy ahy; koa iza no hanameloka ahy? Indro, izy rehetra ho tonga tahaka ny lamba mangarahara, ho lanin' ny kalalao izy.\""
-    },
-    {
-      "v": 10,
-      "text": "Iza aminareo izay matahotra an' i Jehovah ka mankatò ny feon' ny mpanompony, sy mandeha amin' ny maizina no tsy manana fahazavana? Aoka izy hatoky ny anaran' i Jehovah sy hiankina amin' Andriamaniny."
-    },
-    {
-      "v": 11,
-      "text": "He! ianareo rehetra izay mampirehitra afo sy mifehy kilalaon' afo manodidina anareo, mandehana amin' ny fahazavan' ny lelafonareo sy amin' ny zana-tsipìka misy afo, izay narehitrareo. Izao no hanjo anareo avy amin' ny tanako: Handry amin' ny fahoriana ianareo."
-    }
-  ]
+  "verses": {
+    "1": "Izao no lazain' i Jehovah: aiza izay taratasy fisaoram-bady nisaorako an-dreninareo? Ary iza amin' izay manan-trosa amiko no nivarotako anareo? Indro, noho ny helokareo ihany no nivarotana anareo, ary noho ny fahadisoanareo no nisaorana an-dreninareo.",
+    "2": "Nahoana no tsy nisy olona, fony tonga Aho, ary tsy nisy namaly, fony niantso Aho? Moa fohy tokoa va ny tanako ka tsy mahavonjy, ary moa tsy manan-kery hoenti-manafaka va Aho? Indro, amin' ny teny mafy ataoko no andritako ny ranomasina sy anaovako ny ony ho efitra; ary maimbo ny hazandranony noho ny tsy fisian' ny rano sady matin-ketaheta.",
+    "3": "Tafiako fahamaintisana ny lanitra, ary lamba fisaonana no ataoko fisaronany.",
+    "4": "Jehovah Tompo nanome Ahy ny lelan' ny efa nampianarina, mba hahaizako manao teny tandrifiny ho an' izay reraka; ampandrenesiny isa-maraina isa-maraina, eny ampandrenesiny ny sofiko hihaino tahaka ny efa nampianarina.",
+    "5": "Jehovah Tompo nanokatra ny sofiko, ary Izaho tsy naditra na nihemotra.",
+    "6": "Ny lamosiko natolotro ho amin' ny mpikapoka, ary ny takolako ho amin' izay manongo-baoka; ny tavako tsy nafeniko tamin' ny henatra sy ny rora.",
+    "7": "Fa Jehovah Tompo no hamonjy Ahy, ka dia tsy resin-kenatra Aho; ary efa nohamafisiko ho tahaka ny afovato ny tavako, ka fantatro fa tsy ho menatra Aho.",
+    "8": "Akaiky Izay manamarina Ahy; iza no hiady amiko? Andeha hiara-mitsangana isika; iza no manana ady amiko? Aoka izy hanatona Ahy.",
+    "9": "Indro, Jehovah Tompo no hamonjy ahy; koa iza no hanameloka ahy? Indro, izy rehetra ho tonga tahaka ny lamba mangarahara, ho lanin' ny kalalao izy.",
+    "10": "Iza aminareo izay matahotra an' i Jehovah ka mankatò ny feon' ny mpanompony, sy mandeha amin' ny maizina no tsy manana fahazavana? Aoka izy hatoky ny anaran' i Jehovah sy hiankina amin' Andriamaniny.",
+    "11": "He! ianareo rehetra izay mampirehitra afo sy mifehy kilalaon' afo manodidina anareo, mandehana amin' ny fahazavan' ny lelafonareo sy amin' ny zana-tsipìka misy afo, izay narehitrareo. Izao no hanjo anareo avy amin' ny tanako: Handry amin' ny fahoriana ianareo."
+  }
 }

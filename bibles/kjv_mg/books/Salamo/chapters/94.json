@@ -1,97 +1,29 @@
 {
+  "book": "Salamo",
   "chapter": 94,
-  "verses": [
-    {
-      "v": 1,
-      "text": "JEHOVAH Andriamanitra, izay manana ny famaliana ô, Andriamanitra, izay manana ny famaliana ô, misehoa ianao."
-    },
-    {
-      "v": 2,
-      "text": "\"Misandrata Ianao, ry Mpitsara ny tany; mamalia ny mpiavonavona,\""
-    },
-    {
-      "v": 3,
-      "text": "Mandra-pahoviana ny ratsy fanahy, Jehovah ô, mandra-pahoviana no handresy ny ratsy fanahy?"
-    },
-    {
-      "v": 4,
-      "text": "Mandra-pahoviana no hirezadrezatra sy hanambara teny mafy izy ireo? Ary hirehareha ny mpanao heloka rehetra?"
-    },
-    {
-      "v": 5,
-      "text": "Torotoroiny ny olonao, Jehovah ô, ary ampahoriany ny lovanao."
-    },
-    {
-      "v": 6,
-      "text": "Vonoiny ny mpitondratena sy ny vahiny ary matiny ny kamboty."
-    },
-    {
-      "v": 7,
-      "text": "Fa hoy izy: Tsy hijery Jehovah, ary tsy handinika Andriamanitr' i Jakoba."
-    },
-    {
-      "v": 8,
-      "text": "\"Mahalalà ianareo olona ketrina; ary ianareo adala, rahoviana re no mba ho hendry ianareo?\""
-    },
-    {
-      "v": 9,
-      "text": "Ny mpanao ny sofina va tsy handre? Ny Mpanao ny maso va tsy hahita?"
-    },
-    {
-      "v": 10,
-      "text": "Ny Mpanafay ny jentilisa va tsy hanitsy? Ny mpampianatra fahalalana ny olona va tsy hahafantatra?"
-    },
-    {
-      "v": 11,
-      "text": "Mahalala ny hevitry ny olona Jehovah, fa zava-poana izany."
-    },
-    {
-      "v": 12,
-      "text": "Sambatra ny olona izay anarinao, Jehovah ô, sady ampianarinao avy amin' ny lalànao,"
-    },
-    {
-      "v": 13,
-      "text": "Mba homenao fitsaharana amin' ny andro fahoriana izy, mandra-pihady lavaka ho an' ny ratsy fanahy."
-    },
-    {
-      "v": 14,
-      "text": "Fa tsy mba hanary ny olony Jehovah, na hahafoy ny lovany."
-    },
-    {
-      "v": 15,
-      "text": "\"Fa hiverina ho amin' ny fahamarinana ny fitsarana; ary hanaraka izany ny mahitsy fo rehetra.\""
-    },
-    {
-      "v": 16,
-      "text": "Iza no hitsangana ho ahy hanohitra ny mpanao ratsy? Na iza no hitsangana ho ahy hanohitra ny mpanao heloka?"
-    },
-    {
-      "v": 17,
-      "text": "Raha tsy Jehovah no Mpanampy ahy, dia efa saiky nitoetra tao amin' ny mangingina ny fanahiko."
-    },
-    {
-      "v": 18,
-      "text": "Fony aho nanao hoe: Mibolasitra ny tongotro, dia ny famindramponao no nanohana ahy, Jehovah ô."
-    },
-    {
-      "v": 19,
-      "text": "Amin' ny hamaroan' ny eritreritro ato anatiko dia ny fampiononanao no mampiravo ny fanahiko."
-    },
-    {
-      "v": 20,
-      "text": "Hikambana aminao va ny sezafiandrianan' ny ratsy fanahy, izay misaina fampahoriana araka ny lalàna?"
-    },
-    {
-      "v": 21,
-      "text": "Manao andiany hamely ny fanahin' ny marina ireo ka manameloka ny rà marina."
-    },
-    {
-      "v": 22,
-      "text": "\"Fa fiarovana avo ho ahy Jehovah; ary Andriamanitro dia Vatolampy fialofako.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary ampanodiaviny azy ireo ny helony ka haringany noho ny faharatsiany izy; eny, haringan' i Jehovah Andriamanitsika izy.\""
-    }
-  ]
+  "verses": {
+    "1": "JEHOVAH Andriamanitra, izay manana ny famaliana ô, Andriamanitra, izay manana ny famaliana ô, misehoa ianao.",
+    "2": "Misandrata Ianao, ry Mpitsara ny tany; mamalia ny mpiavonavona,",
+    "3": "Mandra-pahoviana ny ratsy fanahy, Jehovah ô, mandra-pahoviana no handresy ny ratsy fanahy?",
+    "4": "Mandra-pahoviana no hirezadrezatra sy hanambara teny mafy izy ireo? Ary hirehareha ny mpanao heloka rehetra?",
+    "5": "Torotoroiny ny olonao, Jehovah ô, ary ampahoriany ny lovanao.",
+    "6": "Vonoiny ny mpitondratena sy ny vahiny ary matiny ny kamboty.",
+    "7": "Fa hoy izy: Tsy hijery Jehovah, ary tsy handinika Andriamanitr' i Jakoba.",
+    "8": "Mahalalà ianareo olona ketrina; ary ianareo adala, rahoviana re no mba ho hendry ianareo?",
+    "9": "Ny mpanao ny sofina va tsy handre? Ny Mpanao ny maso va tsy hahita?",
+    "10": "Ny Mpanafay ny jentilisa va tsy hanitsy? Ny mpampianatra fahalalana ny olona va tsy hahafantatra?",
+    "11": "Mahalala ny hevitry ny olona Jehovah, fa zava-poana izany.",
+    "12": "Sambatra ny olona izay anarinao, Jehovah ô, sady ampianarinao avy amin' ny lalànao,",
+    "13": "Mba homenao fitsaharana amin' ny andro fahoriana izy, mandra-pihady lavaka ho an' ny ratsy fanahy.",
+    "14": "Fa tsy mba hanary ny olony Jehovah, na hahafoy ny lovany.",
+    "15": "Fa hiverina ho amin' ny fahamarinana ny fitsarana; ary hanaraka izany ny mahitsy fo rehetra.",
+    "16": "Iza no hitsangana ho ahy hanohitra ny mpanao ratsy? Na iza no hitsangana ho ahy hanohitra ny mpanao heloka?",
+    "17": "Raha tsy Jehovah no Mpanampy ahy, dia efa saiky nitoetra tao amin' ny mangingina ny fanahiko.",
+    "18": "Fony aho nanao hoe: Mibolasitra ny tongotro, dia ny famindramponao no nanohana ahy, Jehovah ô.",
+    "19": "Amin' ny hamaroan' ny eritreritro ato anatiko dia ny fampiononanao no mampiravo ny fanahiko.",
+    "20": "Hikambana aminao va ny sezafiandrianan' ny ratsy fanahy, izay misaina fampahoriana araka ny lalàna?",
+    "21": "Manao andiany hamely ny fanahin' ny marina ireo ka manameloka ny rà marina.",
+    "22": "Fa fiarovana avo ho ahy Jehovah; ary Andriamanitro dia Vatolampy fialofako.",
+    "23": "Ary ampanodiaviny azy ireo ny helony ka haringany noho ny faharatsiany izy; eny, haringan' i Jehovah Andriamanitsika izy."
+  }
 }

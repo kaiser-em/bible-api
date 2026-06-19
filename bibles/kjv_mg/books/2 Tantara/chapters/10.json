@@ -1,81 +1,25 @@
 {
+  "book": "2 Tantara",
   "chapter": 10,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Rehoboama nankany Sekema, fa tany no efa nalehan' ny Isiraely rehetra hampanjaka azy."
-    },
-    {
-      "v": 2,
-      "text": "Ary izao no niseho, raha nandre izany Jeroboama, zanak' i Nebata, izay efa nandositra nankany Egypta niala teo anatrehan' i Solomona mpanjaka, dia niverina avy tany Egypta izy."
-    },
-    {
-      "v": 3,
-      "text": "Ary naniraka naka azy ny olona. Dia tonga Jeroboama sy ny Isiraely rehetra ka niteny tamin-dRehoboama hoe:"
-    },
-    {
-      "v": 4,
-      "text": "\"Rainao dia nampitondra zioga mavesatra anay; fa inty kosa mby aminao ka mba hamaivano ny fanompoana mafy tamin-drainao sy ny zioga mavesatra izay nataony taminay, dia hanompo anao izahay.\""
-    },
-    {
-      "v": 5,
-      "text": "Fa hoy kosa izy taminy: Rehefa afaka hateloana, dia mankanesa aty amiko indray. Dia lasa ny olona."
-    },
-    {
-      "v": 6,
-      "text": "Ary Rehoboama mpanjaka naka saina tamin' ny zokiolona izay nitoetra teo anatrehan' i Solomona rainy fony fahavelony ka nanao hoe: Ahoana no hevitra omenareo ahy havaly izao vahoaka izao?"
-    },
-    {
-      "v": 7,
-      "text": "Dia hoy ireo taminy: Raha ho malemy fanahy amin' izao vahoaka izao ianao, ka hankasitraka azy sy hanao teny mora aminy, dia ho mpanomponao mandrakizay izy."
-    },
-    {
-      "v": 8,
-      "text": "Nefa nolavin-dRehoboama ny saina nomen' ireo zokiolona azy, dia naka hevitra tamin' ny tovolahy izay indray nihira taminy sady nitoetra teo anatrehany izy."
-    },
-    {
-      "v": 9,
-      "text": "Ary hoy izy tamin' ireo: Ahoana kosa no mba hevitra omenareo havalintsika izao vahoaka izao izay niteny tamiko hoe: Hamaivano ny zioga izay nataon-drainao taminay?"
-    },
-    {
-      "v": 10,
-      "text": "\"Ary ireo tovolahy indray nihira taminy nanao taminy hoe: Izao no lazao amin' ny vahoaka izay niteny taminao hoe : Rainao nampitondra zioga mavesatra anay; fa inty kosa mby aminao, ka mba hamaivano aminay izany; izao no lazao aminy: Ny ankihikeliko dia ho lehibe noho ny valahan' ny raiko;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Koa raha nampitondra zioga mavesatra anareo ny raiko, izaho kosa dia mainka hanampy ny zioga hoentinareo; kotopia no namaizan' ny raiko anareo, fa maingoka fikapohana kosa no hamaizako anareo.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary Jeroboama sy ny vahoaka rehetra dia nankany amin-dRehoboama tamin' ny andro fahatelo, araka ilay nolazain' ny mpanjaka hoe: Mankanesa aty amiko indray amin' ny andro fahatelo."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary nanao teny mafy tamin' ny olona ny mpanjaka; ary nandà ny hevitra nomen' ny zokiolona Rehoboama mpanjaka,\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ka namaly azy ireo araka ny hevitra nomen' ny tovolahy hoe: Nampitondra zioga mavesatra anareo ny raiko, fa izaho kosa mainka hanampy izany; kotopia no namaizan' ny raiko anareo, fa maingoka fikapohana kosa no hamaizako anareo.\""
-    },
-    {
-      "v": 15,
-      "text": "Ka dia tsy nihaino ny olona ny mpanjaka, fa avy tamin' Andriamanitra izany zavatra izany hahatanterahan' i Jehovah ny teniny izay nampilazainy an' i Ahia Silonita tamin' i Jeroboama, zanak' i Nebata."
-    },
-    {
-      "v": 16,
-      "text": "Ary nony hitan' ny Isiraely rehetra fa tsy nihaino azy ny mpanjaka, dia namaly ny mpanjaka ny vahoaka ka nanao hoe: Inona moa no anjaranay amin' i Davida? Tsy manana lova amin' ny zanak' i Jese izahay. Samia mody any an-dainy avy, ry Isiraely e! Ankehitriny tandremo ny taranakao, ry Davida ô. Dia samy nody any an-dainy avy ny Isiraely rehetra."
-    },
-    {
-      "v": 17,
-      "text": "Fa ny Zanak' Isiraely izay nonina tany an-tanànan' ny Joda ihany no nanjakan-dRehoboama."
-    },
-    {
-      "v": 18,
-      "text": "Ary dia naniraka an' i Adorama, izay nanapaka ny amin' ny hetra Rehoboama mpanjaka, nefa ny zanak' Isiraely nitora-bato azy, ka maty izy. Dia niezaka haingana nankeo amin' ny kalesy Rehoboama mpanjaka handositra ho any Jerosalema."
-    },
-    {
-      "v": 19,
-      "text": "Ka dia niodina tamin' ny taranak' i Davida ny Isiraely rehetra mandraka androany."
-    }
-  ]
+  "verses": {
+    "1": "Ary Rehoboama nankany Sekema, fa tany no efa nalehan' ny Isiraely rehetra hampanjaka azy.",
+    "2": "Ary izao no niseho, raha nandre izany Jeroboama, zanak' i Nebata, izay efa nandositra nankany Egypta niala teo anatrehan' i Solomona mpanjaka, dia niverina avy tany Egypta izy.",
+    "3": "Ary naniraka naka azy ny olona. Dia tonga Jeroboama sy ny Isiraely rehetra ka niteny tamin-dRehoboama hoe:",
+    "4": "Rainao dia nampitondra zioga mavesatra anay; fa inty kosa mby aminao ka mba hamaivano ny fanompoana mafy tamin-drainao sy ny zioga mavesatra izay nataony taminay, dia hanompo anao izahay.",
+    "5": "Fa hoy kosa izy taminy: Rehefa afaka hateloana, dia mankanesa aty amiko indray. Dia lasa ny olona.",
+    "6": "Ary Rehoboama mpanjaka naka saina tamin' ny zokiolona izay nitoetra teo anatrehan' i Solomona rainy fony fahavelony ka nanao hoe: Ahoana no hevitra omenareo ahy havaly izao vahoaka izao?",
+    "7": "Dia hoy ireo taminy: Raha ho malemy fanahy amin' izao vahoaka izao ianao, ka hankasitraka azy sy hanao teny mora aminy, dia ho mpanomponao mandrakizay izy.",
+    "8": "Nefa nolavin-dRehoboama ny saina nomen' ireo zokiolona azy, dia naka hevitra tamin' ny tovolahy izay indray nihira taminy sady nitoetra teo anatrehany izy.",
+    "9": "Ary hoy izy tamin' ireo: Ahoana kosa no mba hevitra omenareo havalintsika izao vahoaka izao izay niteny tamiko hoe: Hamaivano ny zioga izay nataon-drainao taminay?",
+    "10": "Ary ireo tovolahy indray nihira taminy nanao taminy hoe: Izao no lazao amin' ny vahoaka izay niteny taminao hoe : Rainao nampitondra zioga mavesatra anay; fa inty kosa mby aminao, ka mba hamaivano aminay izany; izao no lazao aminy: Ny ankihikeliko dia ho lehibe noho ny valahan' ny raiko;",
+    "11": "Koa raha nampitondra zioga mavesatra anareo ny raiko, izaho kosa dia mainka hanampy ny zioga hoentinareo; kotopia no namaizan' ny raiko anareo, fa maingoka fikapohana kosa no hamaizako anareo.",
+    "12": "Ary Jeroboama sy ny vahoaka rehetra dia nankany amin-dRehoboama tamin' ny andro fahatelo, araka ilay nolazain' ny mpanjaka hoe: Mankanesa aty amiko indray amin' ny andro fahatelo.",
+    "13": "Ary nanao teny mafy tamin' ny olona ny mpanjaka; ary nandà ny hevitra nomen' ny zokiolona Rehoboama mpanjaka,",
+    "14": "Ka namaly azy ireo araka ny hevitra nomen' ny tovolahy hoe: Nampitondra zioga mavesatra anareo ny raiko, fa izaho kosa mainka hanampy izany; kotopia no namaizan' ny raiko anareo, fa maingoka fikapohana kosa no hamaizako anareo.",
+    "15": "Ka dia tsy nihaino ny olona ny mpanjaka, fa avy tamin' Andriamanitra izany zavatra izany hahatanterahan' i Jehovah ny teniny izay nampilazainy an' i Ahia Silonita tamin' i Jeroboama, zanak' i Nebata.",
+    "16": "Ary nony hitan' ny Isiraely rehetra fa tsy nihaino azy ny mpanjaka, dia namaly ny mpanjaka ny vahoaka ka nanao hoe: Inona moa no anjaranay amin' i Davida? Tsy manana lova amin' ny zanak' i Jese izahay. Samia mody any an-dainy avy, ry Isiraely e! Ankehitriny tandremo ny taranakao, ry Davida ô. Dia samy nody any an-dainy avy ny Isiraely rehetra.",
+    "17": "Fa ny Zanak' Isiraely izay nonina tany an-tanànan' ny Joda ihany no nanjakan-dRehoboama.",
+    "18": "Ary dia naniraka an' i Adorama, izay nanapaka ny amin' ny hetra Rehoboama mpanjaka, nefa ny zanak' Isiraely nitora-bato azy, ka maty izy. Dia niezaka haingana nankeo amin' ny kalesy Rehoboama mpanjaka handositra ho any Jerosalema.",
+    "19": "Ka dia niodina tamin' ny taranak' i Davida ny Isiraely rehetra mandraka androany."
+  }
 }

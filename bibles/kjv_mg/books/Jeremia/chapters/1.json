@@ -1,81 +1,25 @@
 {
+  "book": "Jeremia",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ny tenin' i Jeremia, zanak' i Hilkia, isan' ny mpisorona tao Anatota, tanin' ny Benjamina,"
-    },
-    {
-      "v": 2,
-      "text": "Izay nanambarana ny tenin' i Jehovah tamin' ny andron' i Josia, zanak' i Amona, mpanjakan' ny Joda, tamin' ny taona fahatelo ambin' ny folo nanjakany."
-    },
-    {
-      "v": 3,
-      "text": "Tonga koa izany tamin' ny andron' i Joiakima, zanak' i Josia, mpanjakan' ny Joda, ka hatramin' ny faran' ny taona fahiraika ambin' ny folo nanjakan' i Zedekia, zanak' i Josia, mpanjakan' ny Joda, dia hatramin' ny namaboana an' i Jerosalema tamin' ny volana fahadimy."
-    },
-    {
-      "v": 4,
-      "text": "Dia tonga tamiko ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 5,
-      "text": "\"Hatry ny fony ianao tsy mbola noforoniko tany an-kibo no efa fantatro; ary hatry ny fony ianao tsy mbola teraka no efa nohamasiniko sy notendreko ho mpaminany ho an' ny firenena maro.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary hoy kosa aho: Indrisy, Jehovah Tompo ô! indro, tsy mahay mandaha-teny aho, fa mbola zaza."
-    },
-    {
-      "v": 7,
-      "text": "\"Fa hoy Jehovah tamiko: Aza manao hoe: Mbola zaza aho; fa handeha amin' izay rehetra hanirahako anao ianao, ary izay rehetra handidiako anao no hambaranao.\""
-    },
-    {
-      "v": 8,
-      "text": "Aza matahotra ny tavany ianao, fa momba anao hamonjy anao Aho, hoy Jehovah."
-    },
-    {
-      "v": 9,
-      "text": "Dia naninjitra ny tanany Jehovah ka nanendry ny vavako, ary hoy Jehovah tamiko: Indro, efa nataoko ao am-bavanao ny teniko,"
-    },
-    {
-      "v": 10,
-      "text": "Indro Aho nanendry anao izao anio izao hanam-pahefana amin' ireo firenena maro sy ireo fanjakana, hanongotra sy hanjera sy handrava sy handrodana ary hanorina sy hamboly."
-    },
-    {
-      "v": 11,
-      "text": "Ary tonga tamiko indray ny tenin' i Jehovah nanao hoe: Ry Jeremia, inona izao hitanao izao? Ary hoy aho: Rantsan-kazo amygdala no hitako."
-    },
-    {
-      "v": 12,
-      "text": "\"Dia hoy Jehovah tamiko: Marina ny ahitanao azy; fa hanafaingana ny teniko aho hanatanterahako izany.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary tonga tamiko fanindroany ny tenin' i Jehovah nanao hoe: Inona izao hitanao izao? Ary hoy aho: Vilany mangotraka no hitako, ary mitongilana mianavaratra ny vavany."
-    },
-    {
-      "v": 14,
-      "text": "Dia hoy Jehovah tamiko: Hiroatra avy any avaratra ny loza hanjo ny mponina rehetra amin' ny tany."
-    },
-    {
-      "v": 15,
-      "text": "\"Fa, indro, hantsoiko ny firenena rehetra amin' ny fanjakana any avaratra, hoy Jehovah; dia ho tonga izy, ka samy hametraka ny sezafiandrianany eo anoloan' ny vavahadin' i Jerosalema avokoa hamelezany ny mandany rehetra manodidina sy ny tanàna rehetra any Joda.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary hifandahatra aminy Aho noho ny haratsiany rehetra, dia ny nahafoizany Ahy sy ny nandoroany ditin-kazo manitra ho an' ny andriamani-kafa ary ny niankohofany teo anatrehan' ny asan' ny tanany."
-    },
-    {
-      "v": 17,
-      "text": "Fa ianao kosa dia misikìna, ary mitsangàna, ka lazao aminy izay rehetra andidiako anao: aza mivadi-po noho ny amin' ny endriny, fandrao hataoko raiki-tahotra eo anatrehany ianao."
-    },
-    {
-      "v": 18,
-      "text": "Indro, Izaho hanao anao ho tanàna mimanda sy andry vy ary manda varahina mba tsy ho leon' ny tany rehetra, na ny mpanjakan' ny Joda, na ny lehibeny, na ny mpisorony, na ny vahoaka eo amin' ny tany."
-    },
-    {
-      "v": 19,
-      "text": "Fa hiady aminao ireny, nefa tsy hahaleo anao, satria momba anao hamonjy anao Aho, hoy Jehovah."
-    }
-  ]
+  "verses": {
+    "1": "Ny tenin' i Jeremia, zanak' i Hilkia, isan' ny mpisorona tao Anatota, tanin' ny Benjamina,",
+    "2": "Izay nanambarana ny tenin' i Jehovah tamin' ny andron' i Josia, zanak' i Amona, mpanjakan' ny Joda, tamin' ny taona fahatelo ambin' ny folo nanjakany.",
+    "3": "Tonga koa izany tamin' ny andron' i Joiakima, zanak' i Josia, mpanjakan' ny Joda, ka hatramin' ny faran' ny taona fahiraika ambin' ny folo nanjakan' i Zedekia, zanak' i Josia, mpanjakan' ny Joda, dia hatramin' ny namaboana an' i Jerosalema tamin' ny volana fahadimy.",
+    "4": "Dia tonga tamiko ny tenin' i Jehovah nanao hoe:",
+    "5": "Hatry ny fony ianao tsy mbola noforoniko tany an-kibo no efa fantatro; ary hatry ny fony ianao tsy mbola teraka no efa nohamasiniko sy notendreko ho mpaminany ho an' ny firenena maro.",
+    "6": "Ary hoy kosa aho: Indrisy, Jehovah Tompo ô! indro, tsy mahay mandaha-teny aho, fa mbola zaza.",
+    "7": "Fa hoy Jehovah tamiko: Aza manao hoe: Mbola zaza aho; fa handeha amin' izay rehetra hanirahako anao ianao, ary izay rehetra handidiako anao no hambaranao.",
+    "8": "Aza matahotra ny tavany ianao, fa momba anao hamonjy anao Aho, hoy Jehovah.",
+    "9": "Dia naninjitra ny tanany Jehovah ka nanendry ny vavako, ary hoy Jehovah tamiko: Indro, efa nataoko ao am-bavanao ny teniko,",
+    "10": "Indro Aho nanendry anao izao anio izao hanam-pahefana amin' ireo firenena maro sy ireo fanjakana, hanongotra sy hanjera sy handrava sy handrodana ary hanorina sy hamboly.",
+    "11": "Ary tonga tamiko indray ny tenin' i Jehovah nanao hoe: Ry Jeremia, inona izao hitanao izao? Ary hoy aho: Rantsan-kazo amygdala no hitako.",
+    "12": "Dia hoy Jehovah tamiko: Marina ny ahitanao azy; fa hanafaingana ny teniko aho hanatanterahako izany.",
+    "13": "Ary tonga tamiko fanindroany ny tenin' i Jehovah nanao hoe: Inona izao hitanao izao? Ary hoy aho: Vilany mangotraka no hitako, ary mitongilana mianavaratra ny vavany.",
+    "14": "Dia hoy Jehovah tamiko: Hiroatra avy any avaratra ny loza hanjo ny mponina rehetra amin' ny tany.",
+    "15": "Fa, indro, hantsoiko ny firenena rehetra amin' ny fanjakana any avaratra, hoy Jehovah; dia ho tonga izy, ka samy hametraka ny sezafiandrianany eo anoloan' ny vavahadin' i Jerosalema avokoa hamelezany ny mandany rehetra manodidina sy ny tanàna rehetra any Joda.",
+    "16": "Ary hifandahatra aminy Aho noho ny haratsiany rehetra, dia ny nahafoizany Ahy sy ny nandoroany ditin-kazo manitra ho an' ny andriamani-kafa ary ny niankohofany teo anatrehan' ny asan' ny tanany.",
+    "17": "Fa ianao kosa dia misikìna, ary mitsangàna, ka lazao aminy izay rehetra andidiako anao: aza mivadi-po noho ny amin' ny endriny, fandrao hataoko raiki-tahotra eo anatrehany ianao.",
+    "18": "Indro, Izaho hanao anao ho tanàna mimanda sy andry vy ary manda varahina mba tsy ho leon' ny tany rehetra, na ny mpanjakan' ny Joda, na ny lehibeny, na ny mpisorony, na ny vahoaka eo amin' ny tany.",
+    "19": "Fa hiady aminao ireny, nefa tsy hahaleo anao, satria momba anao hamonjy anao Aho, hoy Jehovah."
+  }
 }

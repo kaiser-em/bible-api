@@ -1,93 +1,28 @@
 {
+  "book": "Deotornomia",
   "chapter": 18,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ny Levita mpisorona sy ny fokon' i Levy rehetra tsy mba hanana anjara, na lova eo amin' ny Isiraely; ny fanatitra atao amin' ny afo ho an' i Jehovah sy ny anjaran' i Jehovah no ho fihinany.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Fa tsy hanan-dova eo amin' ny rahalahiny izy; Jehovah no lovany, araka izay nolazainy taminy.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary izao no ho anjaran' ny mpisorona avy amin' ny olona, dia avy amin'izay mamono zavatra hatao fanatitra, na omby, na ondry, na osy: dia homeny ho an' ny mpisorona ny sorony sy ny takolany roa ary ny vavoniny;\""
-    },
-    {
-      "v": 4,
-      "text": "Ary ny voaloham-bokatry ny varimbazahanao koa sy ny ranomboalobokao sy ny diloilonao ary ny voalohan' ny volon' ondrinao no homenao azy."
-    },
-    {
-      "v": 5,
-      "text": "Fa izy sy ny taranany no nofidin' i Jehovah Andriamanitrao tamin' ny fokonao rehetra hitsangana hanao ny asa fanompoana mandrakizay amin' ny anaran' i Jehovah."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary raha misy Levita miala ao am-bavahadinao, izay nivahiniany teo amin' ny Isiraely rehetra ka mandeha araka ny fanirian' ny fony ho any amin' ny fitoerana izay hofidin' i Jehovah;\""
-    },
-    {
-      "v": 7,
-      "text": "Dia hanao asa fanompoana amin' ny anaran' i Jehovah Andriamaniny izy, tahaka ny ataon' ny Levita rahalahiny rehetra, izay mitsangana eo anatrehan' i Jehovah."
-    },
-    {
-      "v": 8,
-      "text": "Dia anjara mitovy amin' ny an' ireo ihany no ho fihinany, na dia misy aza izay vidin' ny azony tamin-drainy."
-    },
-    {
-      "v": 9,
-      "text": "Rehefa tonga any amin' ny tany izay omen'i Jehovah Andriamanitrao anao ianao, dia aza mianatra hanao araka ny fahavetavetana ataon' ireo firenena ireo."
-    },
-    {
-      "v": 10,
-      "text": "Aoka tsy hisy eo aminao izay mampandeha ny zanany lahy na ny zanany vavy hamaky ny afo, na mpanao fankatovana, na mpanandro, na mpanao sikidy, na mpanana ody,"
-    },
-    {
-      "v": 11,
-      "text": "Na manao ho masim-bava, na mpanadina amin' ny manao azy ho tsindrin-javatra, na mpanao hatsarana, na mpanontany amin' ny maty."
-    },
-    {
-      "v": 12,
-      "text": "Fa fahavetavetana eo imason' i Jehovah izay rehetra manao izany zavatra izany, ary izany fahavetavetana izany no androahan' i Jehovah Andriamanitrao azy eo alohanao."
-    },
-    {
-      "v": 13,
-      "text": "Aoka ho tanteraka amin' i Jehovah Andriamanitrao ianao."
-    },
-    {
-      "v": 14,
-      "text": "\"Fa ireo firenena izay ho azonao ireo, dia nihaino ny mpanandro sy ny mpanao fankatovana; fa ianao kosa tsy navelan' i Jehovah Andriamanitrao hanao izany.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Mpaminany avy eo aminao, dia avy amin' ny rahalahinao, tahaka ahy, no hatsangan' i Jehovah Andriamanitrao ho anao; izy no hohenoinareo;\""
-    },
-    {
-      "v": 16,
-      "text": "Araka izay rehetra nangatahinao tamin' i Jehovah Andriamanitrao tao Horeba tamin' ny andro nivoriana hoe: Aoka tsy hihaino ny feon' i Jehovah Andriamanitro intsony aho, ary aoka tsy hahita izany afo lehibe izany intsony aho, fandrao maty."
-    },
-    {
-      "v": 17,
-      "text": "Dia hoy Jehovah tamiko: Tsara ny teny izay nolazainy."
-    },
-    {
-      "v": 18,
-      "text": "\"Mpaminany no hatsangako ho azy avy amin' ny rahalahiny, tahaka anao; ka ataoko ao am-bavany ny teniko, ary holazainy aminy izay rehetra andidiako azy.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary izao no hiseho, izay rehetra tsy hihaino ny teniko izay holazainy amin' ny Anarako: Izaho no hanadina izany aminy."
-    },
-    {
-      "v": 20,
-      "text": "Fa ny mpaminany izay sahy hilaza teny amin' ny anarako, nefa tsy nasaiko nolazainy, na izay miteny amin' ny anaran' andriamani-kafa, dia ho faty izany mpaminany izany."
-    },
-    {
-      "v": 21,
-      "text": "Ary raha hoy ianao anakampo: Hataontsika ahoana no fahafantatra ny teny izay tsy nolazain' i Jehovah?"
-    },
-    {
-      "v": 22,
-      "text": "Raha miteny amin' ny anaran' i Jehovah ny mpaminany, ka tsy efa ny zavatra, na tsy tanteraka, dia teny izay tsy nolazain' i Jehovah izany: tamin' ny fahasahisahiana no nilazan' ny mpaminany izany, koa aza matahotra azy."
-    }
-  ]
+  "verses": {
+    "1": "Ny Levita mpisorona sy ny fokon' i Levy rehetra tsy mba hanana anjara, na lova eo amin' ny Isiraely; ny fanatitra atao amin' ny afo ho an' i Jehovah sy ny anjaran' i Jehovah no ho fihinany.",
+    "2": "Fa tsy hanan-dova eo amin' ny rahalahiny izy; Jehovah no lovany, araka izay nolazainy taminy.",
+    "3": "Ary izao no ho anjaran' ny mpisorona avy amin' ny olona, dia avy amin'izay mamono zavatra hatao fanatitra, na omby, na ondry, na osy: dia homeny ho an' ny mpisorona ny sorony sy ny takolany roa ary ny vavoniny;",
+    "4": "Ary ny voaloham-bokatry ny varimbazahanao koa sy ny ranomboalobokao sy ny diloilonao ary ny voalohan' ny volon' ondrinao no homenao azy.",
+    "5": "Fa izy sy ny taranany no nofidin' i Jehovah Andriamanitrao tamin' ny fokonao rehetra hitsangana hanao ny asa fanompoana mandrakizay amin' ny anaran' i Jehovah.",
+    "6": "Ary raha misy Levita miala ao am-bavahadinao, izay nivahiniany teo amin' ny Isiraely rehetra ka mandeha araka ny fanirian' ny fony ho any amin' ny fitoerana izay hofidin' i Jehovah;",
+    "7": "Dia hanao asa fanompoana amin' ny anaran' i Jehovah Andriamaniny izy, tahaka ny ataon' ny Levita rahalahiny rehetra, izay mitsangana eo anatrehan' i Jehovah.",
+    "8": "Dia anjara mitovy amin' ny an' ireo ihany no ho fihinany, na dia misy aza izay vidin' ny azony tamin-drainy.",
+    "9": "Rehefa tonga any amin' ny tany izay omen'i Jehovah Andriamanitrao anao ianao, dia aza mianatra hanao araka ny fahavetavetana ataon' ireo firenena ireo.",
+    "10": "Aoka tsy hisy eo aminao izay mampandeha ny zanany lahy na ny zanany vavy hamaky ny afo, na mpanao fankatovana, na mpanandro, na mpanao sikidy, na mpanana ody,",
+    "11": "Na manao ho masim-bava, na mpanadina amin' ny manao azy ho tsindrin-javatra, na mpanao hatsarana, na mpanontany amin' ny maty.",
+    "12": "Fa fahavetavetana eo imason' i Jehovah izay rehetra manao izany zavatra izany, ary izany fahavetavetana izany no androahan' i Jehovah Andriamanitrao azy eo alohanao.",
+    "13": "Aoka ho tanteraka amin' i Jehovah Andriamanitrao ianao.",
+    "14": "Fa ireo firenena izay ho azonao ireo, dia nihaino ny mpanandro sy ny mpanao fankatovana; fa ianao kosa tsy navelan' i Jehovah Andriamanitrao hanao izany.",
+    "15": "Mpaminany avy eo aminao, dia avy amin' ny rahalahinao, tahaka ahy, no hatsangan' i Jehovah Andriamanitrao ho anao; izy no hohenoinareo;",
+    "16": "Araka izay rehetra nangatahinao tamin' i Jehovah Andriamanitrao tao Horeba tamin' ny andro nivoriana hoe: Aoka tsy hihaino ny feon' i Jehovah Andriamanitro intsony aho, ary aoka tsy hahita izany afo lehibe izany intsony aho, fandrao maty.",
+    "17": "Dia hoy Jehovah tamiko: Tsara ny teny izay nolazainy.",
+    "18": "Mpaminany no hatsangako ho azy avy amin' ny rahalahiny, tahaka anao; ka ataoko ao am-bavany ny teniko, ary holazainy aminy izay rehetra andidiako azy.",
+    "19": "Ary izao no hiseho, izay rehetra tsy hihaino ny teniko izay holazainy amin' ny Anarako: Izaho no hanadina izany aminy.",
+    "20": "Fa ny mpaminany izay sahy hilaza teny amin' ny anarako, nefa tsy nasaiko nolazainy, na izay miteny amin' ny anaran' andriamani-kafa, dia ho faty izany mpaminany izany.",
+    "21": "Ary raha hoy ianao anakampo: Hataontsika ahoana no fahafantatra ny teny izay tsy nolazain' i Jehovah?",
+    "22": "Raha miteny amin' ny anaran' i Jehovah ny mpaminany, ka tsy efa ny zavatra, na tsy tanteraka, dia teny izay tsy nolazain' i Jehovah izany: tamin' ny fahasahisahiana no nilazan' ny mpaminany izany, koa aza matahotra azy."
+  }
 }

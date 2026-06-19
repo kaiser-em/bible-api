@@ -1,133 +1,38 @@
 {
+  "book": "Joela",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Tsofy ao ziona ny anjomara! Ary mampanenoa fanairana ao an-tendrombohitro masina! Aoka hangovitra ny mponina rehetra amin' ny tany; fa avy ny andron' i Jehovah, efa antomotra izany;\""
-    },
-    {
-      "v": 2,
-      "text": "Dia andro maizina sy manjombona, andro mandrahona sy maizim-pito, toy ny maraina miely manerana ny tendrombohitra, dia firenena lehibe sy matanjaka, ka tsy nisy tahaka azy hatrizay hatrizay, sady tsy hisy tahaka azy intsony any aoriany hatramin' ny taonan' ny taranaka maro."
-    },
-    {
-      "v": 3,
-      "text": "\"Eo alohany misy afo mandevona, ary any aoriany misy lelafo mandoro; tahaka ny saha Edena ny tany eo alohany, fa ny ao aoriany kosa dia tahaka ny efitra foana, eny, tsy misy afaka handositra azy.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Mitarehin-tsoavaly ny tarehiny; ary tahaka ny firiotry ny mpitaingin-tsoavaly ny firiotrany.\""
-    },
-    {
-      "v": 5,
-      "text": "Tahaka ny figorodon' ny kalesy any an-tampon' ny tendrombohitra no figorodon' ny fitsambikimbikiny, sy tahaka ny fipororotry ny lelafo eny amin' ny hain-tanety, ary tahaka ny firenena mahery voalamina hiady."
-    },
-    {
-      "v": 6,
-      "text": "\"Eo anoloany dia raiki-tahotra indrindra ny firenena; ny tarehy rehetra mivaloarika;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Hitsarapaka tahaka ny lehilahy mahery izy ary hananika ny manda tahaka ny mpiady, samy handroso amin' izay hitsiny ka tsy vaky laharana;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Tsy hifanosika izy; fa samy handroso amin' izay hitsiny; na dia lavo eo amin' ny sabatra aza izy dia tsy ho voaratra.\""
-    },
-    {
-      "v": 9,
-      "text": "Hifamoivoy eran' ny tanàna izy, hihazakazaka eny amin' ny manda izy, hananika ny trano izy, hiditra ao am-baravarankely toy ny mpangalatra izy."
-    },
-    {
-      "v": 10,
-      "text": "\"Eo anoloany dia hihorohoro ny tany, ary hihozongozona ny lanitra; ny masoandro sy ny volana ho tonga maizina, ary ny kintana tsy hamirapiratra.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary Jehovah hanonona ny feony eo anoloan' ny miaramilany; fa lehibe indrindra ny tobiny, ary mahery izay manatanteraka ny teniny; fa lehibe sy mahatahotra indrindra ny andron' i Jehovah, ka iza no mahatanty izany?\""
-    },
-    {
-      "v": 12,
-      "text": "Koa noho izany, ankehitriny, hoy Jehovah, miverena amiko amin' ny fonareo rehetra ary amin' ny fifadian-kanina sy ny fitomaniana, ary amin' ny fisaonana."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ny fonareo no triatriaro, fa aza ny fitafianareo, ary miverena amin' i Jehovah Andriamanitrareo; fa mamindra fo sy miantra izy, mahari-po sady be famindrampo ary manenina ny amin' ny loza,\""
-    },
-    {
-      "v": 14,
-      "text": "\"Iza no mahalala na mba hiverina ka hanenina ihany Izy, ary hamela fitahiana aoriany; dia fanatitra hohanina sy fanatitra aidina ho an' i Jehovah Andriamanitrareo?\""
-    },
-    {
-      "v": 15,
-      "text": "\"Tsofy ao Ziona ny anjomara, ka manamasìna fifadian-kanina, miantsoa fivoriana masina;\""
-    },
-    {
-      "v": 16,
-      "text": "\"Angony ny vahoaka, manamasìna ny fiangonana, vorio ny loholona, angony ny ankizy madinika mbamin' ny zaza minono; aoka ny mpampakatra hiala ao an' efitranony, ary aoka ny ampakarina hiala ao an' efitra fandriany.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Eo anelanelan' ny lavarangana fidirana sy ny alitara no aoka hitomanian' ny mpisorona mpanao asa fanompoana ho an' i Jehovah, ka hanao hoe: Iantrao ny olonao Jehovah ô, ary aza atolotra ho latsa ny lovanao, ka hotapahin' ny jentilisa; nahoana no hataony any amin' ny firenena hoe: Aiza ny Andriamaniny?\""
-    },
-    {
-      "v": 18,
-      "text": "Ary Jehovah dia ho saro-piaro ny taniny sady hiantra ny olony."
-    },
-    {
-      "v": 19,
-      "text": "\"Eny, Jehovah hamaly ka hanao amin' ny olony hoe: Indro, hanatitra varimbazaha sy divay sy diloilo ho anareo Aho, ka dia ho vokin' izany ianareo; ary tsy havelako ho latsa eny amin' ny jentilisa intsony ianareo;\""
-    },
-    {
-      "v": 20,
-      "text": "\"Fa ilay tafika avy any avaratra dia hampanalaviriko anareo, ka horoahiko ho amin' ny tany karankaina sy mariry; ny loha-lalany ho any amin' ny ranomasina atsinanana ary ny vodi-lalany ho any amin' ny ranomasina andrefana; ary ny hamaimboany hiakatra, ary ny fofon-dratsiny hisondrotra; fa efa nanao zava-dehibe izy.\""
-    },
-    {
-      "v": 21,
-      "text": "Aza matahotra, ry tany, miravoravoa sy mifalia, fa hanao zava-dehibe Jehovah."
-    },
-    {
-      "v": 22,
-      "text": "Aza matahotra, ry biby any an-tsaha, fa mihamaitso ny kijana any an' efitra, mamoa ny hazo, ary vokatra ny hazo aviavy sy ny voaloboka."
-    },
-    {
-      "v": 23,
-      "text": "Ary ianareo, ry zanak' i Ziona mifalia sy miravoravoa amin' i Jehovah  Andriamanitrareo, fa nanome anareo ny loha-orana onony Izy, dia handatsaka ranonorana ho anareo Izy, dia ny loha-orana sy ny fara-orana amin' ny volana voalohany."
-    },
-    {
-      "v": 24,
-      "text": "Dia ho feno varimbazaha ny famoloana ary hihoatra ny vata fanantazana ny divay sy ny diloilo."
-    },
-    {
-      "v": 25,
-      "text": "Ary honerako ho anareo ny taona nohanin' ny valala, dia ny koraika sy sy ny sompanga ary ny kijeja, izay miaramilako betsaka nalefako hamely anareo."
-    },
-    {
-      "v": 26,
-      "text": "\"Ary hihinana be dia be ianareo ka ho voky, dia hidera ny anaran' i Jehovah Andriamanitrareo izay nanao zava-mahagaga taminareo; ary tsy ho menatra mandrakizay ny oloko.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Dia ho fantatrareo fa ao afovoan' ny Isiraely Aho, ary Izaho no Jehovah Andriamanitrareo, fa tsy misy hafa; ary tsy ho menatra mandrakizay ny oloko.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary izao no hiseho rehefa afaka izany, handatsaka ny Fanahiko amin' ny nofo rehetra Aho; dia haminany ny zanakalahinareo sy ny zanakavavinareo, ny lahiantitrareo hanonofy, ny zatovonareo hahita fahitana,\""
-    },
-    {
-      "v": 29,
-      "text": "Ary ny mpanompolahy sy mpanompovavy koa dia handatsahako ny Fanahiko amin' izany andro izany."
-    },
-    {
-      "v": 30,
-      "text": "Ary hanisy fahagagana eny amin' ny lanitra sy ety amin' ny tany Aho, dia rà sy afo ary andrin-tsetroka."
-    },
-    {
-      "v": 31,
-      "text": "Ny masoandro hampodina ho haizina, ary ny volana ho ra, alohan' ny hahatongavan' ny andron' i Jehovah, izay sady lehibe no mahatsiravina."
-    },
-    {
-      "v": 32,
-      "text": "\"Ary izao no hiseho, na iza na iza no hiantso ny anaran' i Jehovah dia ho afaka; fa ao an-tendrombohitra Ziona sy any Jerosalema dia hisy fanafahana, araka izay efa nolazain' i Jehovah, ary amin' izay sisa hantsoin' i Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "Tsofy ao ziona ny anjomara! Ary mampanenoa fanairana ao an-tendrombohitro masina! Aoka hangovitra ny mponina rehetra amin' ny tany; fa avy ny andron' i Jehovah, efa antomotra izany;",
+    "2": "Dia andro maizina sy manjombona, andro mandrahona sy maizim-pito, toy ny maraina miely manerana ny tendrombohitra, dia firenena lehibe sy matanjaka, ka tsy nisy tahaka azy hatrizay hatrizay, sady tsy hisy tahaka azy intsony any aoriany hatramin' ny taonan' ny taranaka maro.",
+    "3": "Eo alohany misy afo mandevona, ary any aoriany misy lelafo mandoro; tahaka ny saha Edena ny tany eo alohany, fa ny ao aoriany kosa dia tahaka ny efitra foana, eny, tsy misy afaka handositra azy.",
+    "4": "Mitarehin-tsoavaly ny tarehiny; ary tahaka ny firiotry ny mpitaingin-tsoavaly ny firiotrany.",
+    "5": "Tahaka ny figorodon' ny kalesy any an-tampon' ny tendrombohitra no figorodon' ny fitsambikimbikiny, sy tahaka ny fipororotry ny lelafo eny amin' ny hain-tanety, ary tahaka ny firenena mahery voalamina hiady.",
+    "6": "Eo anoloany dia raiki-tahotra indrindra ny firenena; ny tarehy rehetra mivaloarika;",
+    "7": "Hitsarapaka tahaka ny lehilahy mahery izy ary hananika ny manda tahaka ny mpiady, samy handroso amin' izay hitsiny ka tsy vaky laharana;",
+    "8": "Tsy hifanosika izy; fa samy handroso amin' izay hitsiny; na dia lavo eo amin' ny sabatra aza izy dia tsy ho voaratra.",
+    "9": "Hifamoivoy eran' ny tanàna izy, hihazakazaka eny amin' ny manda izy, hananika ny trano izy, hiditra ao am-baravarankely toy ny mpangalatra izy.",
+    "10": "Eo anoloany dia hihorohoro ny tany, ary hihozongozona ny lanitra; ny masoandro sy ny volana ho tonga maizina, ary ny kintana tsy hamirapiratra.",
+    "11": "Ary Jehovah hanonona ny feony eo anoloan' ny miaramilany; fa lehibe indrindra ny tobiny, ary mahery izay manatanteraka ny teniny; fa lehibe sy mahatahotra indrindra ny andron' i Jehovah, ka iza no mahatanty izany?",
+    "12": "Koa noho izany, ankehitriny, hoy Jehovah, miverena amiko amin' ny fonareo rehetra ary amin' ny fifadian-kanina sy ny fitomaniana, ary amin' ny fisaonana.",
+    "13": "Ary ny fonareo no triatriaro, fa aza ny fitafianareo, ary miverena amin' i Jehovah Andriamanitrareo; fa mamindra fo sy miantra izy, mahari-po sady be famindrampo ary manenina ny amin' ny loza,",
+    "14": "Iza no mahalala na mba hiverina ka hanenina ihany Izy, ary hamela fitahiana aoriany; dia fanatitra hohanina sy fanatitra aidina ho an' i Jehovah Andriamanitrareo?",
+    "15": "Tsofy ao Ziona ny anjomara, ka manamasìna fifadian-kanina, miantsoa fivoriana masina;",
+    "16": "Angony ny vahoaka, manamasìna ny fiangonana, vorio ny loholona, angony ny ankizy madinika mbamin' ny zaza minono; aoka ny mpampakatra hiala ao an' efitranony, ary aoka ny ampakarina hiala ao an' efitra fandriany.",
+    "17": "Eo anelanelan' ny lavarangana fidirana sy ny alitara no aoka hitomanian' ny mpisorona mpanao asa fanompoana ho an' i Jehovah, ka hanao hoe: Iantrao ny olonao Jehovah ô, ary aza atolotra ho latsa ny lovanao, ka hotapahin' ny jentilisa; nahoana no hataony any amin' ny firenena hoe: Aiza ny Andriamaniny?",
+    "18": "Ary Jehovah dia ho saro-piaro ny taniny sady hiantra ny olony.",
+    "19": "Eny, Jehovah hamaly ka hanao amin' ny olony hoe: Indro, hanatitra varimbazaha sy divay sy diloilo ho anareo Aho, ka dia ho vokin' izany ianareo; ary tsy havelako ho latsa eny amin' ny jentilisa intsony ianareo;",
+    "20": "Fa ilay tafika avy any avaratra dia hampanalaviriko anareo, ka horoahiko ho amin' ny tany karankaina sy mariry; ny loha-lalany ho any amin' ny ranomasina atsinanana ary ny vodi-lalany ho any amin' ny ranomasina andrefana; ary ny hamaimboany hiakatra, ary ny fofon-dratsiny hisondrotra; fa efa nanao zava-dehibe izy.",
+    "21": "Aza matahotra, ry tany, miravoravoa sy mifalia, fa hanao zava-dehibe Jehovah.",
+    "22": "Aza matahotra, ry biby any an-tsaha, fa mihamaitso ny kijana any an' efitra, mamoa ny hazo, ary vokatra ny hazo aviavy sy ny voaloboka.",
+    "23": "Ary ianareo, ry zanak' i Ziona mifalia sy miravoravoa amin' i Jehovah  Andriamanitrareo, fa nanome anareo ny loha-orana onony Izy, dia handatsaka ranonorana ho anareo Izy, dia ny loha-orana sy ny fara-orana amin' ny volana voalohany.",
+    "24": "Dia ho feno varimbazaha ny famoloana ary hihoatra ny vata fanantazana ny divay sy ny diloilo.",
+    "25": "Ary honerako ho anareo ny taona nohanin' ny valala, dia ny koraika sy sy ny sompanga ary ny kijeja, izay miaramilako betsaka nalefako hamely anareo.",
+    "26": "Ary hihinana be dia be ianareo ka ho voky, dia hidera ny anaran' i Jehovah Andriamanitrareo izay nanao zava-mahagaga taminareo; ary tsy ho menatra mandrakizay ny oloko.",
+    "27": "Dia ho fantatrareo fa ao afovoan' ny Isiraely Aho, ary Izaho no Jehovah Andriamanitrareo, fa tsy misy hafa; ary tsy ho menatra mandrakizay ny oloko.",
+    "28": "Ary izao no hiseho rehefa afaka izany, handatsaka ny Fanahiko amin' ny nofo rehetra Aho; dia haminany ny zanakalahinareo sy ny zanakavavinareo, ny lahiantitrareo hanonofy, ny zatovonareo hahita fahitana,",
+    "29": "Ary ny mpanompolahy sy mpanompovavy koa dia handatsahako ny Fanahiko amin' izany andro izany.",
+    "30": "Ary hanisy fahagagana eny amin' ny lanitra sy ety amin' ny tany Aho, dia rà sy afo ary andrin-tsetroka.",
+    "31": "Ny masoandro hampodina ho haizina, ary ny volana ho ra, alohan' ny hahatongavan' ny andron' i Jehovah, izay sady lehibe no mahatsiravina.",
+    "32": "Ary izao no hiseho, na iza na iza no hiantso ny anaran' i Jehovah dia ho afaka; fa ao an-tendrombohitra Ziona sy any Jerosalema dia hisy fanafahana, araka izay efa nolazain' i Jehovah, ary amin' izay sisa hantsoin' i Jehovah."
+  }
 }

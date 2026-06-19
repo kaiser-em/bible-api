@@ -1,129 +1,37 @@
 {
+  "book": "Ezekiela",
   "chapter": 34,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary tonga tamiko ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Ry zanak' olona, maminania ny hamelezana ny mpiandry ny Isiraely, eny, maminania, ka ataovy aminy hoe: izao no lazain' i Jehovah Andriamanitra: Lozan' ny mpiandry ondrin' ny Isiraely izay mamahan-tena! Moa tsy ny ondry va no tokony handrasan' ny mpiandry?"
-    },
-    {
-      "v": 3,
-      "text": "\"Ny taviny dia haninareo, ary ny volony itafianareo, ny nafahy vonoinareo; nefa ny ondry tsy mba andrasanareo.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Tsy nanatanjaka ny marofy ianareo, na nanasitrana ny marary, na nanamatra ny folaka, na nampody ny noroahina, na nikatsaka ny very; fa tamin-kery sy ny halozana no nanapahanareo azy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Dia niely izy, satria tsy misy mpiandry; ary rehefa niely izy, dia tonga rembin' ny biby rehetra any an-tsaha.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Nirenireny teny an-tendrombohitra sy teny amin' ny havoana andrandraina rehetra ny ondriko; eny, any amin' ny tany rehetra no nielezan' ny ondriko ary tsy nisy nitady na nikatsaka azy.\""
-    },
-    {
-      "v": 7,
-      "text": "Koa mihainoa ny tenin' i Jehovah ianareo, ry mpiandry ondry:"
-    },
-    {
-      "v": 8,
-      "text": "Raha velona koa Aho, hoy Jehovah Andriamanitra, noho ny nahababoan' ny ondriko sy ny nahatongavan' ny ondriko ho rembin' ny biby rehetra any an-tsaha, satria tsy nisy mpiandry azy, fa tsy nitady ny ondriko ny mpiandriko fa ny namahan-tena kosa no nataony ka tsy namahana ny ondriko,"
-    },
-    {
-      "v": 9,
-      "text": "Dia mihainoa ny tenin' i Jehovah ianareo, ry mpiandry ondry."
-    },
-    {
-      "v": 10,
-      "text": "\"Izao no lazain' i Jehovah Andriamanitra: Indro, avy hamely ny mpiandry ondry Aho, dia hampamoahiko ny amin' ny ondriko izy ka hoesoriko tsy hiandry ny ondry intsony; dia tsy hamahan-tena intsony ny mpiandry ondry fa hovonjeko eo amin' ny vavany ny ondriko mba tsy ho azony hohanina intsony.\""
-    },
-    {
-      "v": 11,
-      "text": "Fa izao no lazain' i Jehovah Andriamanitra: Indro, Izaho, eny, Izaho no hiahy ny ondriko sy handinidinika azy."
-    },
-    {
-      "v": 12,
-      "text": "Toy ny fandinidiniky ny mpiandry ny ondriny amin' izay andro hahatrarany ny ondriny izay efa niely, dia toy izany no handinidinihako ny ondriko sy hamonjeko azy avy any amin' izay rehetra efa nielezany tamin' ny andro mandrahona sy maizim-pito."
-    },
-    {
-      "v": 13,
-      "text": "Ary hoentiko mivoaka avy any amin' ny firenena izy ka hangoniko avy any amin' ny tany samy hafa, dia hoentiko ho any amin' ny taniny izy sy handrasako eny an-tendrombohitry ny Isiraely sy eny amoron-drano ary eny amin' izay tsara honenana rehetra eran' ny tany."
-    },
-    {
-      "v": 14,
-      "text": "\"Eny amin' ny tany tsara ho fiandrasana no hiandrasako azy, ary eny an-tendrombohitra avon' ny Isiraely no ho tany hiandrasana azy; ao no handriany amin' ny tany tsara, ary eny amin' ny fiandrasana tsara ahitra no hihinanany, dia any an-tendrombohitry ny Isiraely.\""
-    },
-    {
-      "v": 15,
-      "text": "Izaho no hiandry ny ondriko, ary Izaho no hampandry azy, hoy Jehovah Andriamanitra."
-    },
-    {
-      "v": 16,
-      "text": "\"Ny very hotadiaviko, ny voaroaka hampodiko, ny folaka hohamarako, ny marary hohatanjahiko; fa ny matavy sy ny matanjaka kosa dia haringako ka handrasako amin' ny fitsarana.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary ny aminareo, ry ondriko, izao no lazain' i Jehovah Andriamanitra: Indro, hotsaraiko ny adin' ny ondry aman' osy, dia ny ady ataon' ny ondrilahy sy ny osilahy namany aminy."
-    },
-    {
-      "v": 18,
-      "text": "Moa ataonareo ho zavatra kely va ny nandanianareo ny ahitra tsara, no dia nohosihosen' ny tongotrareo ny ahitra sisa, ary ny efa nisotroanareo ny rano madio, no dia nolotoin' ny tongotrareo ny sisa?"
-    },
-    {
-      "v": 19,
-      "text": "Ary ny amin' ny ondriko, moa izay voahosihosin' ny tongotrareo va no hohaniny ary izay voaloton' ny tongotrareo va no hosotroiny?"
-    },
-    {
-      "v": 20,
-      "text": "Koa izao no lazain' i Jehovah Andriamanitra aminy: Indro, Izaho, eny, Izaho no hitsara ny adin' ny ondry matavy amin' ny ondry mahia."
-    },
-    {
-      "v": 21,
-      "text": "\"Satria ny tehezanareo sy ny sorokareo no entinareo manosika ny marary rehetra, ary ny tandrokareo no entinareo manoto azy mandra-pandronjinareo azy ho any ivelany;\""
-    },
-    {
-      "v": 22,
-      "text": "Dia hovonjeko ny ondriko ary tsy ho babo intsony izy, ary hotsaraiko ny adin' ny ondry amin' ny namany."
-    },
-    {
-      "v": 23,
-      "text": "Ary hanangana Mpiandry iray ho azy Aho, Izy no hiandry azy, dia Davida Mpanompoko, ka Izy no hitondra azy sy ho Mpiandry azy."
-    },
-    {
-      "v": 24,
-      "text": "Ary Izaho Jehovah no ho Andriamaniny ary Davida Mpanompoko no ho Mpanapaka ao aminy. Izaho Jehovah no niteny izany."
-    },
-    {
-      "v": 25,
-      "text": "Ary hanao fanekem-pihavanana aminy Aho ka hampiala ny biby masiaka tsy ho eo amin' ny tany intsony, dia handry fahizay any an' efitra izy sady hatory any anaty ala."
-    },
-    {
-      "v": 26,
-      "text": "Ary izy sy ny manodidina ny havoanako dia hataoko fitahiana, ary hampilatsaka ranonorana amin' ny fotoany Aho, dia ho ranonoram-pitahiana izany."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary hamoa ny hazo any an-tsaha, sady hahavokatra ny tany, ary handry fahizay amin' ny taniny izy; ka dia ho fantany fa Izaho no Jehovah raha hotapahiko ny ziogany, ary hovonjeko amin' ny tanan' izay nampanompo azy izy.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary tsy ho babon' ny jentilisa intsony izy na ho rembin' ny biby eo amin' ny tany, fa handry fahizay izy ka tsy hisy hampitahotra azy."
-    },
-    {
-      "v": 29,
-      "text": "\"Ary hampaniry voly ho laza ho azy Aho, ka tsy ho ritran' ny mosary amin' ny tany intsony izy, na hitondra ny latsan' ny jentilisa intsony;\""
-    },
-    {
-      "v": 30,
-      "text": "Ka dia ho fantany fa Izaho, Jehovah Andriamaniny, no momba azy, ary izy, taranak' Isiraely, no oloko, hoy Jehovah Andriamanitra."
-    },
-    {
-      "v": 31,
-      "text": "Ary ny aminareo ondriko, ondry fiandriko, olona ianareo, ary Izaho no Andriamanitrareo, hoy Jehovah Andriamanitra."
-    }
-  ]
+  "verses": {
+    "1": "Ary tonga tamiko ny tenin' i Jehovah nanao hoe:",
+    "2": "Ry zanak' olona, maminania ny hamelezana ny mpiandry ny Isiraely, eny, maminania, ka ataovy aminy hoe: izao no lazain' i Jehovah Andriamanitra: Lozan' ny mpiandry ondrin' ny Isiraely izay mamahan-tena! Moa tsy ny ondry va no tokony handrasan' ny mpiandry?",
+    "3": "Ny taviny dia haninareo, ary ny volony itafianareo, ny nafahy vonoinareo; nefa ny ondry tsy mba andrasanareo.",
+    "4": "Tsy nanatanjaka ny marofy ianareo, na nanasitrana ny marary, na nanamatra ny folaka, na nampody ny noroahina, na nikatsaka ny very; fa tamin-kery sy ny halozana no nanapahanareo azy.",
+    "5": "Dia niely izy, satria tsy misy mpiandry; ary rehefa niely izy, dia tonga rembin' ny biby rehetra any an-tsaha.",
+    "6": "Nirenireny teny an-tendrombohitra sy teny amin' ny havoana andrandraina rehetra ny ondriko; eny, any amin' ny tany rehetra no nielezan' ny ondriko ary tsy nisy nitady na nikatsaka azy.",
+    "7": "Koa mihainoa ny tenin' i Jehovah ianareo, ry mpiandry ondry:",
+    "8": "Raha velona koa Aho, hoy Jehovah Andriamanitra, noho ny nahababoan' ny ondriko sy ny nahatongavan' ny ondriko ho rembin' ny biby rehetra any an-tsaha, satria tsy nisy mpiandry azy, fa tsy nitady ny ondriko ny mpiandriko fa ny namahan-tena kosa no nataony ka tsy namahana ny ondriko,",
+    "9": "Dia mihainoa ny tenin' i Jehovah ianareo, ry mpiandry ondry.",
+    "10": "Izao no lazain' i Jehovah Andriamanitra: Indro, avy hamely ny mpiandry ondry Aho, dia hampamoahiko ny amin' ny ondriko izy ka hoesoriko tsy hiandry ny ondry intsony; dia tsy hamahan-tena intsony ny mpiandry ondry fa hovonjeko eo amin' ny vavany ny ondriko mba tsy ho azony hohanina intsony.",
+    "11": "Fa izao no lazain' i Jehovah Andriamanitra: Indro, Izaho, eny, Izaho no hiahy ny ondriko sy handinidinika azy.",
+    "12": "Toy ny fandinidiniky ny mpiandry ny ondriny amin' izay andro hahatrarany ny ondriny izay efa niely, dia toy izany no handinidinihako ny ondriko sy hamonjeko azy avy any amin' izay rehetra efa nielezany tamin' ny andro mandrahona sy maizim-pito.",
+    "13": "Ary hoentiko mivoaka avy any amin' ny firenena izy ka hangoniko avy any amin' ny tany samy hafa, dia hoentiko ho any amin' ny taniny izy sy handrasako eny an-tendrombohitry ny Isiraely sy eny amoron-drano ary eny amin' izay tsara honenana rehetra eran' ny tany.",
+    "14": "Eny amin' ny tany tsara ho fiandrasana no hiandrasako azy, ary eny an-tendrombohitra avon' ny Isiraely no ho tany hiandrasana azy; ao no handriany amin' ny tany tsara, ary eny amin' ny fiandrasana tsara ahitra no hihinanany, dia any an-tendrombohitry ny Isiraely.",
+    "15": "Izaho no hiandry ny ondriko, ary Izaho no hampandry azy, hoy Jehovah Andriamanitra.",
+    "16": "Ny very hotadiaviko, ny voaroaka hampodiko, ny folaka hohamarako, ny marary hohatanjahiko; fa ny matavy sy ny matanjaka kosa dia haringako ka handrasako amin' ny fitsarana.",
+    "17": "Ary ny aminareo, ry ondriko, izao no lazain' i Jehovah Andriamanitra: Indro, hotsaraiko ny adin' ny ondry aman' osy, dia ny ady ataon' ny ondrilahy sy ny osilahy namany aminy.",
+    "18": "Moa ataonareo ho zavatra kely va ny nandanianareo ny ahitra tsara, no dia nohosihosen' ny tongotrareo ny ahitra sisa, ary ny efa nisotroanareo ny rano madio, no dia nolotoin' ny tongotrareo ny sisa?",
+    "19": "Ary ny amin' ny ondriko, moa izay voahosihosin' ny tongotrareo va no hohaniny ary izay voaloton' ny tongotrareo va no hosotroiny?",
+    "20": "Koa izao no lazain' i Jehovah Andriamanitra aminy: Indro, Izaho, eny, Izaho no hitsara ny adin' ny ondry matavy amin' ny ondry mahia.",
+    "21": "Satria ny tehezanareo sy ny sorokareo no entinareo manosika ny marary rehetra, ary ny tandrokareo no entinareo manoto azy mandra-pandronjinareo azy ho any ivelany;",
+    "22": "Dia hovonjeko ny ondriko ary tsy ho babo intsony izy, ary hotsaraiko ny adin' ny ondry amin' ny namany.",
+    "23": "Ary hanangana Mpiandry iray ho azy Aho, Izy no hiandry azy, dia Davida Mpanompoko, ka Izy no hitondra azy sy ho Mpiandry azy.",
+    "24": "Ary Izaho Jehovah no ho Andriamaniny ary Davida Mpanompoko no ho Mpanapaka ao aminy. Izaho Jehovah no niteny izany.",
+    "25": "Ary hanao fanekem-pihavanana aminy Aho ka hampiala ny biby masiaka tsy ho eo amin' ny tany intsony, dia handry fahizay any an' efitra izy sady hatory any anaty ala.",
+    "26": "Ary izy sy ny manodidina ny havoanako dia hataoko fitahiana, ary hampilatsaka ranonorana amin' ny fotoany Aho, dia ho ranonoram-pitahiana izany.",
+    "27": "Ary hamoa ny hazo any an-tsaha, sady hahavokatra ny tany, ary handry fahizay amin' ny taniny izy; ka dia ho fantany fa Izaho no Jehovah raha hotapahiko ny ziogany, ary hovonjeko amin' ny tanan' izay nampanompo azy izy.",
+    "28": "Ary tsy ho babon' ny jentilisa intsony izy na ho rembin' ny biby eo amin' ny tany, fa handry fahizay izy ka tsy hisy hampitahotra azy.",
+    "29": "Ary hampaniry voly ho laza ho azy Aho, ka tsy ho ritran' ny mosary amin' ny tany intsony izy, na hitondra ny latsan' ny jentilisa intsony;",
+    "30": "Ka dia ho fantany fa Izaho, Jehovah Andriamaniny, no momba azy, ary izy, taranak' Isiraely, no oloko, hoy Jehovah Andriamanitra.",
+    "31": "Ary ny aminareo ondriko, ondry fiandriko, olona ianareo, ary Izaho no Andriamanitrareo, hoy Jehovah Andriamanitra."
+  }
 }

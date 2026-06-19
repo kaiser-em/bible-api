@@ -1,109 +1,32 @@
 {
+  "book": "Joba",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Rehefa afaka izany, dia niloa-bava Joba ka nanozona ny androny;\""
-    },
-    {
-      "v": 2,
-      "text": "Dia niteny Joba ka nanao hoe:"
-    },
-    {
-      "v": 3,
-      "text": "Foàna anie ny andro nahaterahako sy ny alina izay nanao hoe: Misy zazalahy vao torontoronina !"
-    },
-    {
-      "v": 4,
-      "text": "\"Aoka izany andro izany ho fahamaizinana, ary aoka tsy hitady azy Andriamanitra any ambony; ary aoka tsy hisy mazava hamirapiratra aminy;\""
-    },
-    {
-      "v": 5,
-      "text": "\"Aoka ny haizina sy ny aloky ny fahafatesana handoto azy; aoka ny rahona hitatao eo amboniny; aoka ny hamaintisan' ny andro hampahatoran-kovitra azy.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary ny amin' izany alina izany, dia aoka ny haizim-pito hisambotra azy; aoka tsy hakambana amin' ny andron' ny taona izy, ary tsy ho tonga amin' ny isan' ny volana;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Indro, aoka ho manirery izany alina izany; aoka tsy hisy feo fifaliana ho tonga ao.\""
-    },
-    {
-      "v": 8,
-      "text": "Aoka hanozona azy ny mpanozona andro, izay vonona hamoha ny alahelony."
-    },
-    {
-      "v": 9,
-      "text": "\"Aoka ho maizina ny kintan' ny marainany; aoka hiandry ny mazava izy, nefa tsy hisy, ary aoka tsy ho faly mahita ny hodimason' ny maraina izy;\""
-    },
-    {
-      "v": 10,
-      "text": "Satria tsy nanidy ny varavaran' ny kibon' ny reniko izy, na nanafina fahoriana tamin' ny masoko."
-    },
-    {
-      "v": 11,
-      "text": "Nahoana re aho no tsy maty hatrany am-bohoka ê, ary nanolotra ny fanahy fony vao nivoaka avy tany an-kibo ê?"
-    },
-    {
-      "v": 12,
-      "text": "Nahoana no nisy lohalika niandry ahy? Ary nahoana no nisy nono hinonoako?"
-    },
-    {
-      "v": 13,
-      "text": "Fa raha tsy izany, dia efa nandry aho toy izay ka niadana, eny, natory aho ka afa-tsasatra,"
-    },
-    {
-      "v": 14,
-      "text": "Teo amin' ny mpanjaka sy ny mpanolo-tsaina avy amin' ny tany, izay namboatra toerana efa rava ho azy."
-    },
-    {
-      "v": 15,
-      "text": "\"Na teo amin' ny andriandahy izay manana volamena sady mameno volafotsy ny tranony;\""
-    },
-    {
-      "v": 16,
-      "text": "Na efa tsy ary toy ny zaza tsy tonga volana aho ka nafenina, dia toy ny zaza izay tsy nahita ny mazava akory."
-    },
-    {
-      "v": 17,
-      "text": "\"Any no itsaharan' ny ratsy fanahy amin' ny fanakorontanana, ary any ny reraka no afa-tsasatra;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Miara-mitsahatra any avokoa ny mpifatotra; tsy mandre ny feon' ny mpampahory izy.\""
-    },
-    {
-      "v": 19,
-      "text": "Samy any ny kely sy ny lehibe, ary ny mpanompo dia afaka amin' ny tompony."
-    },
-    {
-      "v": 20,
-      "text": "\"Nahoana no fahazavana no mba omena izay anaty fahoriana, ary fiainana no ho an' izay latsaka amin' ny fangidiana ;\""
-    },
-    {
-      "v": 21,
-      "text": "\"Izay miandry fahafatesana, nefa tsy avy izany, sady mitady azy mihoatra noho ny fitady tahiry nafenina;\""
-    },
-    {
-      "v": 22,
-      "text": "Izay faly indrindra sady ravoravo, raha mahita ny fasana,"
-    },
-    {
-      "v": 23,
-      "text": "Nahoana no mazava no omena ny olona izay miafina ny lalany sady voafefin' Andriamanitra manodidina?"
-    },
-    {
-      "v": 24,
-      "text": "\"Fa mialoha ny haniko ny fitolokoako, ary migororoana toy ny rano ny fidradradradrako;\""
-    },
-    {
-      "v": 25,
-      "text": "Fa ny zavatra izay natahorako indrindra no mahazo ahy, ary izay nampahatahotra ahy no manjo ahy."
-    },
-    {
-      "v": 26,
-      "text": "Tsy mbola nahita fiadanana, na fitsaharana, na fakana aina akory aho, dia tonga ny tebiteby."
-    }
-  ]
+  "verses": {
+    "1": "Rehefa afaka izany, dia niloa-bava Joba ka nanozona ny androny;",
+    "2": "Dia niteny Joba ka nanao hoe:",
+    "3": "Foàna anie ny andro nahaterahako sy ny alina izay nanao hoe: Misy zazalahy vao torontoronina !",
+    "4": "Aoka izany andro izany ho fahamaizinana, ary aoka tsy hitady azy Andriamanitra any ambony; ary aoka tsy hisy mazava hamirapiratra aminy;",
+    "5": "Aoka ny haizina sy ny aloky ny fahafatesana handoto azy; aoka ny rahona hitatao eo amboniny; aoka ny hamaintisan' ny andro hampahatoran-kovitra azy.",
+    "6": "Ary ny amin' izany alina izany, dia aoka ny haizim-pito hisambotra azy; aoka tsy hakambana amin' ny andron' ny taona izy, ary tsy ho tonga amin' ny isan' ny volana;",
+    "7": "Indro, aoka ho manirery izany alina izany; aoka tsy hisy feo fifaliana ho tonga ao.",
+    "8": "Aoka hanozona azy ny mpanozona andro, izay vonona hamoha ny alahelony.",
+    "9": "Aoka ho maizina ny kintan' ny marainany; aoka hiandry ny mazava izy, nefa tsy hisy, ary aoka tsy ho faly mahita ny hodimason' ny maraina izy;",
+    "10": "Satria tsy nanidy ny varavaran' ny kibon' ny reniko izy, na nanafina fahoriana tamin' ny masoko.",
+    "11": "Nahoana re aho no tsy maty hatrany am-bohoka ê, ary nanolotra ny fanahy fony vao nivoaka avy tany an-kibo ê?",
+    "12": "Nahoana no nisy lohalika niandry ahy? Ary nahoana no nisy nono hinonoako?",
+    "13": "Fa raha tsy izany, dia efa nandry aho toy izay ka niadana, eny, natory aho ka afa-tsasatra,",
+    "14": "Teo amin' ny mpanjaka sy ny mpanolo-tsaina avy amin' ny tany, izay namboatra toerana efa rava ho azy.",
+    "15": "Na teo amin' ny andriandahy izay manana volamena sady mameno volafotsy ny tranony;",
+    "16": "Na efa tsy ary toy ny zaza tsy tonga volana aho ka nafenina, dia toy ny zaza izay tsy nahita ny mazava akory.",
+    "17": "Any no itsaharan' ny ratsy fanahy amin' ny fanakorontanana, ary any ny reraka no afa-tsasatra;",
+    "18": "Miara-mitsahatra any avokoa ny mpifatotra; tsy mandre ny feon' ny mpampahory izy.",
+    "19": "Samy any ny kely sy ny lehibe, ary ny mpanompo dia afaka amin' ny tompony.",
+    "20": "Nahoana no fahazavana no mba omena izay anaty fahoriana, ary fiainana no ho an' izay latsaka amin' ny fangidiana ;",
+    "21": "Izay miandry fahafatesana, nefa tsy avy izany, sady mitady azy mihoatra noho ny fitady tahiry nafenina;",
+    "22": "Izay faly indrindra sady ravoravo, raha mahita ny fasana,",
+    "23": "Nahoana no mazava no omena ny olona izay miafina ny lalany sady voafefin' Andriamanitra manodidina?",
+    "24": "Fa mialoha ny haniko ny fitolokoako, ary migororoana toy ny rano ny fidradradradrako;",
+    "25": "Fa ny zavatra izay natahorako indrindra no mahazo ahy, ary izay nampahatahotra ahy no manjo ahy.",
+    "26": "Tsy mbola nahita fiadanana, na fitsaharana, na fakana aina akory aho, dia tonga ny tebiteby."
+  }
 }

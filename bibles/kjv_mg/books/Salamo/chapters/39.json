@@ -1,57 +1,19 @@
 {
+  "book": "Salamo",
   "chapter": 39,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira. Ho an' i Jedotona. Salamo nataon' i Davida.]  HOY aho: Hitandrina ny lalako aho ka tsy hanota amin' ny lelako; hasiako fehim-bava ny vavako, raha mbola eo anatrehako ny ratsy fanahy.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Nangina mihitsy aho, namihim-bava aho ka tsy nilaza na dia ny tsara aza; dia nihetsika ny alaheloko.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Nafana ny foko tato anatiko; raha nieritreritra aho, dia nisy afo nirehitra, ka niteny amin' ny lelako aho.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Jehovah ô, ampahafantaro ny farako aho sy izay ohatry ny androko; aoka ho fantatro fa olon-kandalo aho.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Indro, efa nataonao vodivoam-pelatanana ny androko; ary ny taonako toy ny tsinontsinona eo anatrehanao; zava-poana ihany tokoa ny olona rehetra, na dia ny matanjaka indrindra aza. [Sela.]\""
-    },
-    {
-      "v": 6,
-      "text": "\"Aloka tokoa no fandehandehanan' ny olona; zava-poana tokoa ny itabatabany; mihary harena izy nefa tsy fantany izay ho tompon' izany.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary ankehitriny, inona no andrasako, Tompo ô? Ianao no antenaiko."
-    },
-    {
-      "v": 8,
-      "text": "\"Manafaha ahy amin' ny fahadisoako rehetra; aza manao ahy ho fanakòran' ny adala.\""
-    },
-    {
-      "v": 9,
-      "text": "Nangina aho ka tsy niloa-bava, fa Ianao no nanao izao."
-    },
-    {
-      "v": 10,
-      "text": "\"Esory ny famelezanao ahy; levona aho azon' ny famelin' ny tananao.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Anatra noho ny fahadisoana no ananaranao ny olona, ka manimba ny hatsaran-tarehiny tahaka ny kalalao Ianao; zava-poana tokoa ny olona rehetra. [Sela.]\""
-    },
-    {
-      "v": 12,
-      "text": "\"Mandrenesa ny fivavako, Jehovah ô; ary mihainoa ny fitarainako; aza mangina amin' ny ranomasoko; fa vahiny aminao aho sy mpivahiny tahaka ny razako rehetra.\""
-    },
-    {
-      "v": 13,
-      "text": "E! iantrao aho, dia hahazo hery indray, dieny tsy mbola lasa aho ka tsy ho eto intsony."
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Ho an' i Jedotona. Salamo nataon' i Davida.]  HOY aho: Hitandrina ny lalako aho ka tsy hanota amin' ny lelako; hasiako fehim-bava ny vavako, raha mbola eo anatrehako ny ratsy fanahy.",
+    "2": "Nangina mihitsy aho, namihim-bava aho ka tsy nilaza na dia ny tsara aza; dia nihetsika ny alaheloko.",
+    "3": "Nafana ny foko tato anatiko; raha nieritreritra aho, dia nisy afo nirehitra, ka niteny amin' ny lelako aho.",
+    "4": "Jehovah ô, ampahafantaro ny farako aho sy izay ohatry ny androko; aoka ho fantatro fa olon-kandalo aho.",
+    "5": "Indro, efa nataonao vodivoam-pelatanana ny androko; ary ny taonako toy ny tsinontsinona eo anatrehanao; zava-poana ihany tokoa ny olona rehetra, na dia ny matanjaka indrindra aza. [Sela.]",
+    "6": "Aloka tokoa no fandehandehanan' ny olona; zava-poana tokoa ny itabatabany; mihary harena izy nefa tsy fantany izay ho tompon' izany.",
+    "7": "Ary ankehitriny, inona no andrasako, Tompo ô? Ianao no antenaiko.",
+    "8": "Manafaha ahy amin' ny fahadisoako rehetra; aza manao ahy ho fanakòran' ny adala.",
+    "9": "Nangina aho ka tsy niloa-bava, fa Ianao no nanao izao.",
+    "10": "Esory ny famelezanao ahy; levona aho azon' ny famelin' ny tananao.",
+    "11": "Anatra noho ny fahadisoana no ananaranao ny olona, ka manimba ny hatsaran-tarehiny tahaka ny kalalao Ianao; zava-poana tokoa ny olona rehetra. [Sela.]",
+    "12": "Mandrenesa ny fivavako, Jehovah ô; ary mihainoa ny fitarainako; aza mangina amin' ny ranomasoko; fa vahiny aminao aho sy mpivahiny tahaka ny razako rehetra.",
+    "13": "E! iantrao aho, dia hahazo hery indray, dieny tsy mbola lasa aho ka tsy ho eto intsony."
+  }
 }

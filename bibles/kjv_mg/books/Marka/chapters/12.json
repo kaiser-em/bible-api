@@ -1,181 +1,50 @@
 {
+  "book": "Marka",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ARY nanomboka niteny taminy Izy ka nanao fanoharana hoe: Nisy lehilahy iray namboly tanimboaloboka ka namefy azy sy nihady famiazana ary nanao tilikambo ka nahofany tamin’ny mpiasa tany izany, dia lasa nankany an-tany lavitra izy."
-    },
-    {
-      "v": 2,
-      "text": "Ary nony tonga ny fotoana, dia naniraka mpanompo anankiray izy hankany amin’ny mpiasa tany handray amin’ny vokatry ny tanimboaloboka."
-    },
-    {
-      "v": 3,
-      "text": "Fa ireo nisambotra ilay mpanompo sady nikapoka azy ka nampiala azy maina."
-    },
-    {
-      "v": 4,
-      "text": "Ary naniraka mpanompo anankiray koa ho any aminy indray izy, ka notorahany vato io, dia noratrainy ny lohany, ka nalany baràka."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary naniraka anankiray koa izy, fa io kosa indray dia novonoiny ho faty; ary maro koa no nirahiny, fa ny sasany nokapohiny, ary ny sasany novonoiny ho faty.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary mbola nanana anankiray izy, dia ny zanany lahy malalany, dia naniraka farany azy koa hankany aminy izy ka nanao hoe: Hanaja ny zanako izy."
-    },
-    {
-      "v": 7,
-      "text": "\"Fa nifampiresaka ireo mpiasa tany ireo hoe: Ny mpandova ity; andeha hovonointsika izy, dia ho antsika ny lova.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary nisambotra azy izy, dia nahafaty azy sy namoaka azy teo ivelan’ny tanimboaloboka."
-    },
-    {
-      "v": 9,
-      "text": "Koa ahoana no hataon’ny tompon’ny tanimboaloboka amin’izany? Ho avy izy, dia handringana ny mpiasa tany, ka homeny olon-kafa ny tanimboaloboka."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary tsy mbola novakinareo va izao Soratra Masina izao: “Ny vato izay nolavin’ny mpanao trano, dia izy no efa natao fehizoro;\""
-    },
-    {
-      "v": 11,
-      "text": "Avy tamin’i Jehovah izao, ka mahagaga eo imasontsika?”"
-    },
-    {
-      "v": 12,
-      "text": "\"Ary nitady hisambotra Azy izy ireo, nefa natahotra ny vahoaka, satria fantany fa izy ireo no nolazainy tamin’izany fanoharana izany; dia nandao an’i Jesosy ny olona ka lasa.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary nirahiny hankeo amin’i Jesosy ny sasany avy tamin’ny Fariseo sy ny Herodiana hamandrika Azy amin’ny teniny."
-    },
-    {
-      "v": 14,
-      "text": "Ary rehefa tonga teo ireo, dia nanao taminy hoe: Mpampianatra ô, fantatray fa marina Ianao, ka tsy manahy olona, satria tsy mizaha tavan’olona, fa mampianatra ny lalan’Andriamanitra marina. Mety va ny mandoa vola hetra ho an’i Kaisara, sa tsia?"
-    },
-    {
-      "v": 15,
-      "text": "Handoa va izahay, sa tsy handoa? Fa nahalala ny fihatsarambelatsihiny Izy, ka dia nanao taminy hoe: Nahoana no maka fanahy Ahy ianareo? Itondray denaria ety amiko hizahako azy."
-    },
-    {
-      "v": 16,
-      "text": "Dia nitondrany Izy. Ary hoy Izy taminy: An’iza io sary sy soratra io? Ary hoy izy ireo taminy: An’i Kaisara."
-    },
-    {
-      "v": 17,
-      "text": "Dia hoy Jesosy taminy: Aloavy ho an’i Kaisara izay an’i Kaisara, ary ho an’Andriamanitra izay an’Andriamanitra. Dia gaga taminy ireo."
-    },
-    {
-      "v": 18,
-      "text": "Ary nanatona ny Sadoseo, izay milaza fa tsy misy fitsanganan' ny maty, dia nanontany Azy ka nanao hoe:"
-    },
-    {
-      "v": 19,
-      "text": "Mpampianatra ô, Mosesy nanoratra ho antsika hoe: Raha misy manan-drahalahy maty momba, ka mbola velona ny vadin' ny maty, dia aoka ny rahalahiny hampakatra azy hiteraka hamelo-maso ny rahalahiny."
-    },
-    {
-      "v": 20,
-      "text": "\"Koa nisy fito mirahalahy; ary ny zokiny nampaka-bady, dia maty momba.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Ary ny faharoa nampakatra an-dravehivavy, dia maty momba koa; ary ny fahatelo dia toy izany ihany koa.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary izy fito mirahalahy nanambady azy nefa samy maty momba avokoa; koa faran' izy rehetra dia maty koa ravehivavy.\""
-    },
-    {
-      "v": 23,
-      "text": "Koa amin' ny fitsanganan' ny maty, rehefa hitsangana indray ireo, ho vadin' iza moa ravehivavy? satria efa samy nanambady azy avokoa izy fito mirahalahy."
-    },
-    {
-      "v": 24,
-      "text": "Ary namaly Jesosy ka nanao taminy hoe: Tsy izao tsy fahafantaranareo ny Soratra Masina na ny herin' Andriamanitra izao va no mahadiso hevitra anareo?"
-    },
-    {
-      "v": 25,
-      "text": "\"Satria amin' ny fitsanganana amin' ny maty dia tsy hisy hampaka-bady na havoaka hampakarina; fa tahaka ny anjely any an-danitra.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary ny amin' ny maty, izay hatsangana, tsy mbola novakinareo va ny ao amin' ny bokin' i Mosesy, eo amin' ilay teny milaza ny Voaroy, dia ny nanaovan' Andriamanitra taminy hoe: “Izaho no Andriamanitr' i Abrahama sy Andriamanitr' Isaka ary Andriamanitr' i Jakoba?”"
-    },
-    {
-      "v": 27,
-      "text": "\"Tsy Andriamanitry ny maty Izy, fa Andriamanitry ny velona; koa diso indrindra ianareo.\""
-    },
-    {
-      "v": 28,
-      "text": "Dia nanatona an' i Jesosy ny anankiray tamin' ny mpanoradalàna, izay efa nahare ny niadiany hevitra tamin' ny Sadoseo ka nahalala fa namaly azy tsara Izy, dia nanontany Azy hoe: Ny didy manao ahoana no voalohany amin' izy rehetra?"
-    },
-    {
-      "v": 29,
-      "text": "\"Ary namaly azy Jesosy hoe: ny voalohany amin’ny didy rehetra dia: “Mihainoa, ry Isiraely; Jehovah Andriamanitsika dia Jehovah iray ihany;\""
-    },
-    {
-      "v": 30,
-      "text": "Koa tiava an' i Jehovah Andriamanitrao amin' ny fonao rehetra sy ny fanahinao rehetra sy ny sainao rehetra ary ny herinao rehetra”."
-    },
-    {
-      "v": 31,
-      "text": "Ary ny faharoa izay tahaka izany ihany dia izao: “Tiava ny namanao tahaka ny tenanao”. Tsy misy didy hafa lehibe noho ireo."
-    },
-    {
-      "v": 32,
-      "text": "Ary hoy ilay mpanoradalàna taminy: Mpampianatra ô! tsara izany, marina ny filazanao fa Iray ihany Andriamanitra, ary tsy misy afa-tsy Izy."
-    },
-    {
-      "v": 33,
-      "text": "Ary ny ho tia Azy amin’ny fo rehetra sy ny saina rehetra sy ny fanahy rehetra sy ny hery rehetra ary ny ho tia ny namana tahaka ny tena, dia mihoatra lavitra noho ny fanatitra dorana sy ny fanatitra hafa rehetra."
-    },
-    {
-      "v": 34,
-      "text": "Ary raha hitan' i Jesosy fa namaly tamim-pahendrena izy, dia hoy Izy taminy: Tsy lavitra ny fanjakan’Andriamanitra ianao. Ary tsy nisy sahy nanontany Azy intsony."
-    },
-    {
-      "v": 35,
-      "text": "Ary Jesosy raha nampianatra teo amin' ny tempoly dia namaly ka nanao hoe: Ahoana no lazain’ny mpanoradalàna fa Kristy no zanak’i Davida?"
-    },
-    {
-      "v": 36,
-      "text": "Kanefa ny tenan’i Davida dia nampilazain’ny Fanahy Masina hoe: Jehovah nilaza tamin’ny Tompoko hoe: Mipetraha eo an-tanako ankavanana ambara-panaoko ny fahavalonao ho fitoeran-tongotrao."
-    },
-    {
-      "v": 37,
-      "text": "Ny tenan' i Davida manao Azy hoe “Tompo,” koa ahoana no maha-Zanany Azy? Ary ny sarababem-bahoaka nihaino Azy tamin' ny hafaliana."
-    },
-    {
-      "v": 38,
-      "text": "Ary hoy Izy tamin' ny foto-pampianarany: Mitandrema ny amin' ny mpanoradalàna, izay mazoto mandehandeha miakanjo akanjo lava sy te-hoarahabain' ny olona eny an-tsena,"
-    },
-    {
-      "v": 39,
-      "text": "Ary tia ny fipetrahana aloha ao amin' ny synagoga sy ny fitoerana aloha ao amin' ny fanasana,"
-    },
-    {
-      "v": 40,
-      "text": "\"Ary mandany ny tranon' ny mpitondratena ka manao vavaka lavareny mba ho fisehosehoana; ireo no handray fanamelohana mafimafy kokoa.\""
-    },
-    {
-      "v": 41,
-      "text": "\"Ary raha nipetraka tandrifin' ny fandatsahan-drakitra Jesosy, dia nijery ny fandatsaky ny vahoaka vola tao Izy; ary maro ny mpanankarena nandatsaka be tao.\""
-    },
-    {
-      "v": 42,
-      "text": "Fa nisy mpitondratena mahantra anankiray kosa tonga teo, ka nandatsaka farantsakely roa an-kevitry ny variroaventy avy."
-    },
-    {
-      "v": 43,
-      "text": "Ary Jesosy niantso ny mpianany hanatona Azy ka nanao taminy hoe: Lazaiko marina aminareo fa io mpitondratena mahantra io no efa nandatsaka be noho izay rehetra nandatsaka tao amin' ny fandatsahan-drakitra."
-    },
-    {
-      "v": 44,
-      "text": "\"Fa ireo rehetra ireo, dia tamin' ny haben' ny fananany no nandatsahany tao; fa izy kosa, tamin' ny fahantrany no nandatsahany tao izay rehetra nananany, dia ny fivelomany rehetra.\""
-    }
-  ]
+  "verses": {
+    "1": "ARY nanomboka niteny taminy Izy ka nanao fanoharana hoe: Nisy lehilahy iray namboly tanimboaloboka ka namefy azy sy nihady famiazana ary nanao tilikambo ka nahofany tamin’ny mpiasa tany izany, dia lasa nankany an-tany lavitra izy.",
+    "2": "Ary nony tonga ny fotoana, dia naniraka mpanompo anankiray izy hankany amin’ny mpiasa tany handray amin’ny vokatry ny tanimboaloboka.",
+    "3": "Fa ireo nisambotra ilay mpanompo sady nikapoka azy ka nampiala azy maina.",
+    "4": "Ary naniraka mpanompo anankiray koa ho any aminy indray izy, ka notorahany vato io, dia noratrainy ny lohany, ka nalany baràka.",
+    "5": "Ary naniraka anankiray koa izy, fa io kosa indray dia novonoiny ho faty; ary maro koa no nirahiny, fa ny sasany nokapohiny, ary ny sasany novonoiny ho faty.",
+    "6": "Ary mbola nanana anankiray izy, dia ny zanany lahy malalany, dia naniraka farany azy koa hankany aminy izy ka nanao hoe: Hanaja ny zanako izy.",
+    "7": "Fa nifampiresaka ireo mpiasa tany ireo hoe: Ny mpandova ity; andeha hovonointsika izy, dia ho antsika ny lova.",
+    "8": "Ary nisambotra azy izy, dia nahafaty azy sy namoaka azy teo ivelan’ny tanimboaloboka.",
+    "9": "Koa ahoana no hataon’ny tompon’ny tanimboaloboka amin’izany? Ho avy izy, dia handringana ny mpiasa tany, ka homeny olon-kafa ny tanimboaloboka.",
+    "10": "Ary tsy mbola novakinareo va izao Soratra Masina izao: “Ny vato izay nolavin’ny mpanao trano, dia izy no efa natao fehizoro;",
+    "11": "Avy tamin’i Jehovah izao, ka mahagaga eo imasontsika?”",
+    "12": "Ary nitady hisambotra Azy izy ireo, nefa natahotra ny vahoaka, satria fantany fa izy ireo no nolazainy tamin’izany fanoharana izany; dia nandao an’i Jesosy ny olona ka lasa.",
+    "13": "Ary nirahiny hankeo amin’i Jesosy ny sasany avy tamin’ny Fariseo sy ny Herodiana hamandrika Azy amin’ny teniny.",
+    "14": "Ary rehefa tonga teo ireo, dia nanao taminy hoe: Mpampianatra ô, fantatray fa marina Ianao, ka tsy manahy olona, satria tsy mizaha tavan’olona, fa mampianatra ny lalan’Andriamanitra marina. Mety va ny mandoa vola hetra ho an’i Kaisara, sa tsia?",
+    "15": "Handoa va izahay, sa tsy handoa? Fa nahalala ny fihatsarambelatsihiny Izy, ka dia nanao taminy hoe: Nahoana no maka fanahy Ahy ianareo? Itondray denaria ety amiko hizahako azy.",
+    "16": "Dia nitondrany Izy. Ary hoy Izy taminy: An’iza io sary sy soratra io? Ary hoy izy ireo taminy: An’i Kaisara.",
+    "17": "Dia hoy Jesosy taminy: Aloavy ho an’i Kaisara izay an’i Kaisara, ary ho an’Andriamanitra izay an’Andriamanitra. Dia gaga taminy ireo.",
+    "18": "Ary nanatona ny Sadoseo, izay milaza fa tsy misy fitsanganan' ny maty, dia nanontany Azy ka nanao hoe:",
+    "19": "Mpampianatra ô, Mosesy nanoratra ho antsika hoe: Raha misy manan-drahalahy maty momba, ka mbola velona ny vadin' ny maty, dia aoka ny rahalahiny hampakatra azy hiteraka hamelo-maso ny rahalahiny.",
+    "20": "Koa nisy fito mirahalahy; ary ny zokiny nampaka-bady, dia maty momba.",
+    "21": "Ary ny faharoa nampakatra an-dravehivavy, dia maty momba koa; ary ny fahatelo dia toy izany ihany koa.",
+    "22": "Ary izy fito mirahalahy nanambady azy nefa samy maty momba avokoa; koa faran' izy rehetra dia maty koa ravehivavy.",
+    "23": "Koa amin' ny fitsanganan' ny maty, rehefa hitsangana indray ireo, ho vadin' iza moa ravehivavy? satria efa samy nanambady azy avokoa izy fito mirahalahy.",
+    "24": "Ary namaly Jesosy ka nanao taminy hoe: Tsy izao tsy fahafantaranareo ny Soratra Masina na ny herin' Andriamanitra izao va no mahadiso hevitra anareo?",
+    "25": "Satria amin' ny fitsanganana amin' ny maty dia tsy hisy hampaka-bady na havoaka hampakarina; fa tahaka ny anjely any an-danitra.",
+    "26": "Ary ny amin' ny maty, izay hatsangana, tsy mbola novakinareo va ny ao amin' ny bokin' i Mosesy, eo amin' ilay teny milaza ny Voaroy, dia ny nanaovan' Andriamanitra taminy hoe: “Izaho no Andriamanitr' i Abrahama sy Andriamanitr' Isaka ary Andriamanitr' i Jakoba?”",
+    "27": "Tsy Andriamanitry ny maty Izy, fa Andriamanitry ny velona; koa diso indrindra ianareo.",
+    "28": "Dia nanatona an' i Jesosy ny anankiray tamin' ny mpanoradalàna, izay efa nahare ny niadiany hevitra tamin' ny Sadoseo ka nahalala fa namaly azy tsara Izy, dia nanontany Azy hoe: Ny didy manao ahoana no voalohany amin' izy rehetra?",
+    "29": "Ary namaly azy Jesosy hoe: ny voalohany amin’ny didy rehetra dia: “Mihainoa, ry Isiraely; Jehovah Andriamanitsika dia Jehovah iray ihany;",
+    "30": "Koa tiava an' i Jehovah Andriamanitrao amin' ny fonao rehetra sy ny fanahinao rehetra sy ny sainao rehetra ary ny herinao rehetra”.",
+    "31": "Ary ny faharoa izay tahaka izany ihany dia izao: “Tiava ny namanao tahaka ny tenanao”. Tsy misy didy hafa lehibe noho ireo.",
+    "32": "Ary hoy ilay mpanoradalàna taminy: Mpampianatra ô! tsara izany, marina ny filazanao fa Iray ihany Andriamanitra, ary tsy misy afa-tsy Izy.",
+    "33": "Ary ny ho tia Azy amin’ny fo rehetra sy ny saina rehetra sy ny fanahy rehetra sy ny hery rehetra ary ny ho tia ny namana tahaka ny tena, dia mihoatra lavitra noho ny fanatitra dorana sy ny fanatitra hafa rehetra.",
+    "34": "Ary raha hitan' i Jesosy fa namaly tamim-pahendrena izy, dia hoy Izy taminy: Tsy lavitra ny fanjakan’Andriamanitra ianao. Ary tsy nisy sahy nanontany Azy intsony.",
+    "35": "Ary Jesosy raha nampianatra teo amin' ny tempoly dia namaly ka nanao hoe: Ahoana no lazain’ny mpanoradalàna fa Kristy no zanak’i Davida?",
+    "36": "Kanefa ny tenan’i Davida dia nampilazain’ny Fanahy Masina hoe: Jehovah nilaza tamin’ny Tompoko hoe: Mipetraha eo an-tanako ankavanana ambara-panaoko ny fahavalonao ho fitoeran-tongotrao.",
+    "37": "Ny tenan' i Davida manao Azy hoe “Tompo,” koa ahoana no maha-Zanany Azy? Ary ny sarababem-bahoaka nihaino Azy tamin' ny hafaliana.",
+    "38": "Ary hoy Izy tamin' ny foto-pampianarany: Mitandrema ny amin' ny mpanoradalàna, izay mazoto mandehandeha miakanjo akanjo lava sy te-hoarahabain' ny olona eny an-tsena,",
+    "39": "Ary tia ny fipetrahana aloha ao amin' ny synagoga sy ny fitoerana aloha ao amin' ny fanasana,",
+    "40": "Ary mandany ny tranon' ny mpitondratena ka manao vavaka lavareny mba ho fisehosehoana; ireo no handray fanamelohana mafimafy kokoa.",
+    "41": "Ary raha nipetraka tandrifin' ny fandatsahan-drakitra Jesosy, dia nijery ny fandatsaky ny vahoaka vola tao Izy; ary maro ny mpanankarena nandatsaka be tao.",
+    "42": "Fa nisy mpitondratena mahantra anankiray kosa tonga teo, ka nandatsaka farantsakely roa an-kevitry ny variroaventy avy.",
+    "43": "Ary Jesosy niantso ny mpianany hanatona Azy ka nanao taminy hoe: Lazaiko marina aminareo fa io mpitondratena mahantra io no efa nandatsaka be noho izay rehetra nandatsaka tao amin' ny fandatsahan-drakitra.",
+    "44": "Fa ireo rehetra ireo, dia tamin' ny haben' ny fananany no nandatsahany tao; fa izy kosa, tamin' ny fahantrany no nandatsahany tao izay rehetra nananany, dia ny fivelomany rehetra."
+  }
 }

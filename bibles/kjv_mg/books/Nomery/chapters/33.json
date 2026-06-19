@@ -1,229 +1,62 @@
 {
+  "book": "Nomery",
   "chapter": 33,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izao no nandehanan' ny Zanak' Isiraely, izay nentin' i Mosesy sy Arona nivoaka avy tany amin' ny tany Egypta araka ny antokony."
-    },
-    {
-      "v": 2,
-      "text": "\"Dia nosoratan' i Mosesy ny nialany araka ny nandehanany, araka ny didin' i Jehovah; ary izao no nandehanany araka ny nialany:\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary niala tao Ramesesa izy tamin' ny volana voalohany, dia tamin' ny andro fahadimy ambin' ny folo tamin' ny volana voalohany; nony ampitson' ny Paska no nivoahan' ny Zanak' Isiraely tamin' ny tanàna avo teo imason' ny Egytiana rehetra.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Fa ny Egyptiana mbola nandevina ny matoa rehetra izay efa novonoin' i Jehovah teo aminy; ary ny andriamaniny koa dia notsarain' i Jehovah.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary nony niala tao Ramesesa ny Zanak' Isiraely dia nitoby tao Sokota."
-    },
-    {
-      "v": 6,
-      "text": "Ary nony niala tao Sokota izy, dia nitoby tao Etama, izay teo an-tsisin' ny efitra."
-    },
-    {
-      "v": 7,
-      "text": "Ary nony niala tao Etama izy, dia nivily nankao Pi-hahirota, izay tandrifin' i Bala-zefona, ka nitoby tandrifin' i Migdola."
-    },
-    {
-      "v": 8,
-      "text": "Ary nony niala tandrifin' i Pi-hahirota izy, dia nandeha nita teo afovoan' ny ranomasina mena ho any an' efitra, dia nandeha lalan-kateloana tany an' efitra Etama izy ka nitoby tao Mara."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary nony niala tao Mara izy, dia nankany Elima; ary tao Elima dia nisy loharano roa ambin' ny folo sy hazo palma fitopolo, dia nitoby teo izy.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary nony niala tao Elima izy, dia nitoby tao amoron' ny Ranomasina Mena."
-    },
-    {
-      "v": 11,
-      "text": "Ary nony niala tao amoron' ny Ranomasina Mena izy dia nitoby tao an' efitra Sina."
-    },
-    {
-      "v": 12,
-      "text": "Ary nony niala tao an' efitra Sina izy, dia nitoby tao Dopka."
-    },
-    {
-      "v": 13,
-      "text": "Ary nony niala tao Dopka izy, dia nitoby tao Alosy."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary nony niala tao Alosy izy, dia nitoby tao Refidima; ary tsy nisy rano tao hosotroin' ny olona.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary nony niala tao Refidima izy, dia nitoby tany an' efitr' i Sinay;\""
-    },
-    {
-      "v": 16,
-      "text": "Ary nony niala tao an' efitr' i Sinay izy, dia nitoby tao Kibrota-hatava."
-    },
-    {
-      "v": 17,
-      "text": "Ary nony niala tao Kibrota-hatava izy, dia nitoby tao Hazerota."
-    },
-    {
-      "v": 18,
-      "text": "Ary nony niala tao Hazerota izy, dia nitoby tao Ritma."
-    },
-    {
-      "v": 19,
-      "text": "Ary nony niala tao Ritma izy, dia nitoby tao Rimona-pareza."
-    },
-    {
-      "v": 20,
-      "text": "Ary nony niala tao Rimona-pareza izy, dia nitoby tao Libna."
-    },
-    {
-      "v": 21,
-      "text": "Ary nony niala tao Libna izy, dia nitoby tao Risa."
-    },
-    {
-      "v": 22,
-      "text": "Ary nony niala tao Risa izy, dia nitoby tao Kehelata."
-    },
-    {
-      "v": 23,
-      "text": "Ary nony niala tao Kehelata izy, dia nitoby tao an-tendrombohitra Sapera."
-    },
-    {
-      "v": 24,
-      "text": "Ary nony niala tao an-tendrombohitra Sapera izy, dia nitoby tao Harada."
-    },
-    {
-      "v": 25,
-      "text": "Ary nony niala tao Harada izy, dia nitoby tao Makelota."
-    },
-    {
-      "v": 26,
-      "text": "Ary nony niala tao Makelota izy, dia nitoby tao Tahata."
-    },
-    {
-      "v": 27,
-      "text": "Ary nony niala tao Tahata izy, dia nitoby tao Tera."
-    },
-    {
-      "v": 28,
-      "text": "Ary nony niala tao Tera izy, dia nitoby tao Mitka."
-    },
-    {
-      "v": 29,
-      "text": "Ary nony niala tao Mitka izy, dia nitoby tao Hasmona."
-    },
-    {
-      "v": 30,
-      "text": "Ary nony niala tao Hasmona izy, dia nitoby tao Moserota."
-    },
-    {
-      "v": 31,
-      "text": "Ary nony niala tao Moserota izy, dia nitoby tao Bene-jakana."
-    },
-    {
-      "v": 32,
-      "text": "Ary nony niala tao Bene-jakana izy, dia nitoby tao Hora-hagidgada"
-    },
-    {
-      "v": 33,
-      "text": "Ary nony niala tao Hora-hagidgada izy, dia nitoby tao Jotbata."
-    },
-    {
-      "v": 34,
-      "text": "Ary nony niala tao Jotbata izy, dia nitoby tao Abrona."
-    },
-    {
-      "v": 35,
-      "text": "Ary nony niala tao Abrona izy, dia nitoby tao Ezion-gebera."
-    },
-    {
-      "v": 36,
-      "text": "\"Ary nony niala tao Ezion-gebera izy, dia nitoby tao an' efitra Zina; Kadesy izany.\""
-    },
-    {
-      "v": 37,
-      "text": "Ary nony niala tao Kadesy izy, dia nitoby tao an-tendrombohitra Hora, tao an-tsisin' ny tany Edoma."
-    },
-    {
-      "v": 38,
-      "text": "Ary Arona mpisorona niakatra tao an-tendrombohitra Hora, araka ny didin' i Jehovah, dia maty tao izy tamin' ny fahefapolo taona taorian' ny nivoahan' ny Zanak' Isiraely avy tany amin' ny tany Egypta, tamin' ny andro voalohany tamin' ny volana fahadimy."
-    },
-    {
-      "v": 39,
-      "text": "Ary efa telo amby roapolo amby zato taona Arona, raha maty tao an-tendrombohitra Hora izy."
-    },
-    {
-      "v": 40,
-      "text": "Ary ren' i Arada mpanjaka, ilay Kananita izay nonina teo amin' ny tany atsimo amin' ny tany Kanana, ny fahatongavan' ny Zanak' Isiraely."
-    },
-    {
-      "v": 41,
-      "text": "Ary nony niala tao an-tendrombohitra Hora izy, dia nitoby tao Zalmona."
-    },
-    {
-      "v": 42,
-      "text": "Ary nony niala tao Zalmona izy, dia nitoby tao Ponona."
-    },
-    {
-      "v": 43,
-      "text": "Ary nony niala tao Ponona izy, dia nitoby tao Obota."
-    },
-    {
-      "v": 44,
-      "text": "Ary nony niala tao Obota izy, dia nitoby tao Ie-abarima tao amin' ny faritanin' i Moaba."
-    },
-    {
-      "v": 45,
-      "text": "Ary nony niala tao Ie izy, dia nitoby tao Dibon-gada."
-    },
-    {
-      "v": 46,
-      "text": "Ary nony niala tao Dibon-gada izy, dia nitoby tao Almon-diblataima."
-    },
-    {
-      "v": 47,
-      "text": "Ary nony niala tao Almon-diblataima izy, dia nitoby tao amin' ny tendrombohitra Abarima, tandrifin' i Nebo."
-    },
-    {
-      "v": 48,
-      "text": "Ary nony niala tamin' ny tendrombohitra Abarima izy, dia nitoby tao amin' ny lemak' i Moaba, teo amoron' i Jordana tandrifin' i Jeriko."
-    },
-    {
-      "v": 49,
-      "text": "Ary nitoby teo amoron' i Jordana izy hatrany Beti-jesimota ka hatrany Abela-Sitima tao amin' ny lemak' i Moaba."
-    },
-    {
-      "v": 50,
-      "text": "Ary Jehovah niteny tamin' i Mosesy teo amin' ny lemak' i Moaba, teo amoron' i Jordana tandrifin' i Jeriko, ka nanao hoe:"
-    },
-    {
-      "v": 51,
-      "text": "Mitenena amin' ny zanak' Isiraely ka lazao aminy hoe: Rehefa tafita an' i Jordana ka tonga any amin' ny tany Kanana ianareo,"
-    },
-    {
-      "v": 52,
-      "text": "\"Dia horoahinareo eo anoloanareo ny mponina rehetra amin' ny tany, ary horavanareo ny sariny rehetra, ary horavanareo ny sarin-javany an' idina rehetra, ary hosimbanareo ny fitoerana avony rehetra;\""
-    },
-    {
-      "v": 53,
-      "text": "Dia halainareo amin' ny mponina ny tany, ka hitoetra eo ianareo, fa ianareo no nomeko ny tany ho fanananareo."
-    },
-    {
-      "v": 54,
-      "text": "\"Ary antsapaka no hizaranareo ny tany araka ny fianakavianareo; ary ny maro isa homenareo lova bebe kokoa, ary ny vitsy isa homenareo lova kelikely kokoa; samy eo amin' ny toerana ivoahan' ny antsapaka ho azy no ho lovany; araka ny fokon' ny razanareo no handovanareo.\""
-    },
-    {
-      "v": 55,
-      "text": "Fa raha tsy horoahinareo eo alohanareo ny mponina amin' ny tany, dia izao no hiseho, izay havelanareo eo aminy dia ho lay amin' ny masonareo sy ho tsilo amin' ny tehezanareo, ka hanelingelina anareo amin' ny tany izay honenanareo."
-    },
-    {
-      "v": 56,
-      "text": "Ary koa, izao no hiseho, hataoko aminareo izay nokasaiko hatao aminy."
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no nandehanan' ny Zanak' Isiraely, izay nentin' i Mosesy sy Arona nivoaka avy tany amin' ny tany Egypta araka ny antokony.",
+    "2": "Dia nosoratan' i Mosesy ny nialany araka ny nandehanany, araka ny didin' i Jehovah; ary izao no nandehanany araka ny nialany:",
+    "3": "Ary niala tao Ramesesa izy tamin' ny volana voalohany, dia tamin' ny andro fahadimy ambin' ny folo tamin' ny volana voalohany; nony ampitson' ny Paska no nivoahan' ny Zanak' Isiraely tamin' ny tanàna avo teo imason' ny Egytiana rehetra.",
+    "4": "Fa ny Egyptiana mbola nandevina ny matoa rehetra izay efa novonoin' i Jehovah teo aminy; ary ny andriamaniny koa dia notsarain' i Jehovah.",
+    "5": "Ary nony niala tao Ramesesa ny Zanak' Isiraely dia nitoby tao Sokota.",
+    "6": "Ary nony niala tao Sokota izy, dia nitoby tao Etama, izay teo an-tsisin' ny efitra.",
+    "7": "Ary nony niala tao Etama izy, dia nivily nankao Pi-hahirota, izay tandrifin' i Bala-zefona, ka nitoby tandrifin' i Migdola.",
+    "8": "Ary nony niala tandrifin' i Pi-hahirota izy, dia nandeha nita teo afovoan' ny ranomasina mena ho any an' efitra, dia nandeha lalan-kateloana tany an' efitra Etama izy ka nitoby tao Mara.",
+    "9": "Ary nony niala tao Mara izy, dia nankany Elima; ary tao Elima dia nisy loharano roa ambin' ny folo sy hazo palma fitopolo, dia nitoby teo izy.",
+    "10": "Ary nony niala tao Elima izy, dia nitoby tao amoron' ny Ranomasina Mena.",
+    "11": "Ary nony niala tao amoron' ny Ranomasina Mena izy dia nitoby tao an' efitra Sina.",
+    "12": "Ary nony niala tao an' efitra Sina izy, dia nitoby tao Dopka.",
+    "13": "Ary nony niala tao Dopka izy, dia nitoby tao Alosy.",
+    "14": "Ary nony niala tao Alosy izy, dia nitoby tao Refidima; ary tsy nisy rano tao hosotroin' ny olona.",
+    "15": "Ary nony niala tao Refidima izy, dia nitoby tany an' efitr' i Sinay;",
+    "16": "Ary nony niala tao an' efitr' i Sinay izy, dia nitoby tao Kibrota-hatava.",
+    "17": "Ary nony niala tao Kibrota-hatava izy, dia nitoby tao Hazerota.",
+    "18": "Ary nony niala tao Hazerota izy, dia nitoby tao Ritma.",
+    "19": "Ary nony niala tao Ritma izy, dia nitoby tao Rimona-pareza.",
+    "20": "Ary nony niala tao Rimona-pareza izy, dia nitoby tao Libna.",
+    "21": "Ary nony niala tao Libna izy, dia nitoby tao Risa.",
+    "22": "Ary nony niala tao Risa izy, dia nitoby tao Kehelata.",
+    "23": "Ary nony niala tao Kehelata izy, dia nitoby tao an-tendrombohitra Sapera.",
+    "24": "Ary nony niala tao an-tendrombohitra Sapera izy, dia nitoby tao Harada.",
+    "25": "Ary nony niala tao Harada izy, dia nitoby tao Makelota.",
+    "26": "Ary nony niala tao Makelota izy, dia nitoby tao Tahata.",
+    "27": "Ary nony niala tao Tahata izy, dia nitoby tao Tera.",
+    "28": "Ary nony niala tao Tera izy, dia nitoby tao Mitka.",
+    "29": "Ary nony niala tao Mitka izy, dia nitoby tao Hasmona.",
+    "30": "Ary nony niala tao Hasmona izy, dia nitoby tao Moserota.",
+    "31": "Ary nony niala tao Moserota izy, dia nitoby tao Bene-jakana.",
+    "32": "Ary nony niala tao Bene-jakana izy, dia nitoby tao Hora-hagidgada",
+    "33": "Ary nony niala tao Hora-hagidgada izy, dia nitoby tao Jotbata.",
+    "34": "Ary nony niala tao Jotbata izy, dia nitoby tao Abrona.",
+    "35": "Ary nony niala tao Abrona izy, dia nitoby tao Ezion-gebera.",
+    "36": "Ary nony niala tao Ezion-gebera izy, dia nitoby tao an' efitra Zina; Kadesy izany.",
+    "37": "Ary nony niala tao Kadesy izy, dia nitoby tao an-tendrombohitra Hora, tao an-tsisin' ny tany Edoma.",
+    "38": "Ary Arona mpisorona niakatra tao an-tendrombohitra Hora, araka ny didin' i Jehovah, dia maty tao izy tamin' ny fahefapolo taona taorian' ny nivoahan' ny Zanak' Isiraely avy tany amin' ny tany Egypta, tamin' ny andro voalohany tamin' ny volana fahadimy.",
+    "39": "Ary efa telo amby roapolo amby zato taona Arona, raha maty tao an-tendrombohitra Hora izy.",
+    "40": "Ary ren' i Arada mpanjaka, ilay Kananita izay nonina teo amin' ny tany atsimo amin' ny tany Kanana, ny fahatongavan' ny Zanak' Isiraely.",
+    "41": "Ary nony niala tao an-tendrombohitra Hora izy, dia nitoby tao Zalmona.",
+    "42": "Ary nony niala tao Zalmona izy, dia nitoby tao Ponona.",
+    "43": "Ary nony niala tao Ponona izy, dia nitoby tao Obota.",
+    "44": "Ary nony niala tao Obota izy, dia nitoby tao Ie-abarima tao amin' ny faritanin' i Moaba.",
+    "45": "Ary nony niala tao Ie izy, dia nitoby tao Dibon-gada.",
+    "46": "Ary nony niala tao Dibon-gada izy, dia nitoby tao Almon-diblataima.",
+    "47": "Ary nony niala tao Almon-diblataima izy, dia nitoby tao amin' ny tendrombohitra Abarima, tandrifin' i Nebo.",
+    "48": "Ary nony niala tamin' ny tendrombohitra Abarima izy, dia nitoby tao amin' ny lemak' i Moaba, teo amoron' i Jordana tandrifin' i Jeriko.",
+    "49": "Ary nitoby teo amoron' i Jordana izy hatrany Beti-jesimota ka hatrany Abela-Sitima tao amin' ny lemak' i Moaba.",
+    "50": "Ary Jehovah niteny tamin' i Mosesy teo amin' ny lemak' i Moaba, teo amoron' i Jordana tandrifin' i Jeriko, ka nanao hoe:",
+    "51": "Mitenena amin' ny zanak' Isiraely ka lazao aminy hoe: Rehefa tafita an' i Jordana ka tonga any amin' ny tany Kanana ianareo,",
+    "52": "Dia horoahinareo eo anoloanareo ny mponina rehetra amin' ny tany, ary horavanareo ny sariny rehetra, ary horavanareo ny sarin-javany an' idina rehetra, ary hosimbanareo ny fitoerana avony rehetra;",
+    "53": "Dia halainareo amin' ny mponina ny tany, ka hitoetra eo ianareo, fa ianareo no nomeko ny tany ho fanananareo.",
+    "54": "Ary antsapaka no hizaranareo ny tany araka ny fianakavianareo; ary ny maro isa homenareo lova bebe kokoa, ary ny vitsy isa homenareo lova kelikely kokoa; samy eo amin' ny toerana ivoahan' ny antsapaka ho azy no ho lovany; araka ny fokon' ny razanareo no handovanareo.",
+    "55": "Fa raha tsy horoahinareo eo alohanareo ny mponina amin' ny tany, dia izao no hiseho, izay havelanareo eo aminy dia ho lay amin' ny masonareo sy ho tsilo amin' ny tehezanareo, ka hanelingelina anareo amin' ny tany izay honenanareo.",
+    "56": "Ary koa, izao no hiseho, hataoko aminareo izay nokasaiko hatao aminy."
+  }
 }

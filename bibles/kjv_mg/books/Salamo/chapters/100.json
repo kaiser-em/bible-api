@@ -1,25 +1,11 @@
 {
+  "book": "Salamo",
   "chapter": 100,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[SAlamo fiderana.] MIHOBIA ho an' i Jehovah, ry tany rehetra."
-    },
-    {
-      "v": 2,
-      "text": "\"Manompoa an' i Jehovah amin' ny fifaliana; mankanesa eo anatrehany amin' ny fihirana.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Aoka ho fantatrareo fa Jehovah no Andriamanitra; Izy no nanao antsika fa tsy isika; olony isika sady ondry fiandriny.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Midira eo amin' ny vavahadiny amin' ny fisaorana, ary eo an-kianjany amin' ny fiderana; misaora Azy, mankalazà ny anarany,\""
-    },
-    {
-      "v": 5,
-      "text": "\"Fa tsara Jehovah; mandrakizay ny famindrampony; ary maharitra amin' ny taranaka rehetra ny fahamarinany.\""
-    }
-  ]
+  "verses": {
+    "1": "[SAlamo fiderana.] MIHOBIA ho an' i Jehovah, ry tany rehetra.",
+    "2": "Manompoa an' i Jehovah amin' ny fifaliana; mankanesa eo anatrehany amin' ny fihirana.",
+    "3": "Aoka ho fantatrareo fa Jehovah no Andriamanitra; Izy no nanao antsika fa tsy isika; olony isika sady ondry fiandriny.",
+    "4": "Midira eo amin' ny vavahadiny amin' ny fisaorana, ary eo an-kianjany amin' ny fiderana; misaora Azy, mankalazà ny anarany,",
+    "5": "Fa tsara Jehovah; mandrakizay ny famindrampony; ary maharitra amin' ny taranaka rehetra ny fahamarinany."
+  }
 }

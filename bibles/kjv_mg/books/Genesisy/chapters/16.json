@@ -1,69 +1,22 @@
 {
+  "book": "Genesisy",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary Saray, vadin' i Abrama, tsy mba niteraka; ary nanana mpanompovavy Egyptiana iray izy, Hagara no anarany.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary hoy Saray tamin' i Abrama: Indro, ankehitriny, efa tsy nanome zanaka ahy Jehovah; masìna ianao, mivadia amin' ny mpanompovaviko; angamba hahazo zaza avy aminy aho.Dia nohenoin' i Abrama ny feon' i Saray.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary rehefa nonina folo taona teo amin' ny tany Kanana Abrama, dia nalain' i Saray, vadin' i Abrama, i Hagara Egyptiana mpanompovaviny, ka nomeny an' i Abrama vadiny mba hovadìny."
-    },
-    {
-      "v": 4,
-      "text": "\"Dia nivady tamin' i Hagara izy, ka nanana anaka ravehivavy; ary rehefa hitany fa efa manana anaka izy dia nataony toy ny tsinontsinona teo imasony ny tompovaviny.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary hoy Saray tamin' i Abrama: Hanody anao anie ny fahadisoako; fa efa nomeko ho andefimandrinao ny mpanompovaviko, ary nony hitany fa efa nanana anaka izy, dia nataony tsinontsinona teo imasony aho; Jehovah anie hitsara ahy sy ianao.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary hoy Abrama tamin' i Saray: Indro eo an-tananao ny mpanompovavinao; ataovy aminy araka izay sitrakao.Ary raha nampahorian' i Saray i Hagara, dia nandositra ny tavany izy.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary nahita azy teo anilan' ny loharano anankiray tany an'efitra Ilay Anjelin' i Jehovah, dia teo anilan' ilay loharano eo amin' ny lalana mankany Sora."
-    },
-    {
-      "v": 8,
-      "text": "Ary hoy Izy: Ry Hagara, mpanompovavin' i Saray, avy taiza ianao? ary hankaiza? Ary hoy izy: mandositra ny tavan' i Saray tompovaviko aho."
-    },
-    {
-      "v": 9,
-      "text": "Ary hoy ilay anjelin' i Jehovah taminy: Miverena any amin' ny tompovavinao, ka milefera amin' izay ataon' ny tanany."
-    },
-    {
-      "v": 10,
-      "text": "Ary hoy ilay anjelin' i Jehovah taminy: Hataoko maro indrindra ny taranakao, ka tsy ho azo isaina izy noho ny hamaroany."
-    },
-    {
-      "v": 11,
-      "text": "Ary hoy indray Ilay Anjelin' i Jehovah taminy: Indro, manan' anaka ianao ka hiteraka zazalahy ary ny anarany hataonao hoe Isimaela, satria efa nihaino ny fahorianao Jehovah."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary izy ho lehilahy mahery setra; ny tanany hamely ny olona rehetra, ary ny tanan' ny olona rehetra kosa hamely azy; ary honina eo anatrehan' ny rahalahiny rehetra izy.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ny anaran' i Jehovah izay niteny taminy dia nataony hoe: Ianao no Andriamanitra mahita ahy; fa hoy izy: Tsy efa hitako teto koa va Ilay mahita ahy?\""
-    },
-    {
-      "v": 14,
-      "text": "\"Izany no nanaovana ny lavaka fantsakana hoe: Bera-lahai-roy; indro, eo anelanelan' i Kadesy sy Bareda izany.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary niteraka zanakalahy tamin' i Abrama i Hagara, ary ny anaran' ny zanany lahy izay naterak' i Hagara dia nataon' i Abrama hoe Isimaela."
-    },
-    {
-      "v": 16,
-      "text": "Ary efa enina amby valopolo taona Abrama, raha niteraka an' Isimaela tamin' i Abrama i Hagara."
-    }
-  ]
+  "verses": {
+    "1": "Ary Saray, vadin' i Abrama, tsy mba niteraka; ary nanana mpanompovavy Egyptiana iray izy, Hagara no anarany.",
+    "2": "Ary hoy Saray tamin' i Abrama: Indro, ankehitriny, efa tsy nanome zanaka ahy Jehovah; masìna ianao, mivadia amin' ny mpanompovaviko; angamba hahazo zaza avy aminy aho.Dia nohenoin' i Abrama ny feon' i Saray.",
+    "3": "Ary rehefa nonina folo taona teo amin' ny tany Kanana Abrama, dia nalain' i Saray, vadin' i Abrama, i Hagara Egyptiana mpanompovaviny, ka nomeny an' i Abrama vadiny mba hovadìny.",
+    "4": "Dia nivady tamin' i Hagara izy, ka nanana anaka ravehivavy; ary rehefa hitany fa efa manana anaka izy dia nataony toy ny tsinontsinona teo imasony ny tompovaviny.",
+    "5": "Ary hoy Saray tamin' i Abrama: Hanody anao anie ny fahadisoako; fa efa nomeko ho andefimandrinao ny mpanompovaviko, ary nony hitany fa efa nanana anaka izy, dia nataony tsinontsinona teo imasony aho; Jehovah anie hitsara ahy sy ianao.",
+    "6": "Ary hoy Abrama tamin' i Saray: Indro eo an-tananao ny mpanompovavinao; ataovy aminy araka izay sitrakao.Ary raha nampahorian' i Saray i Hagara, dia nandositra ny tavany izy.",
+    "7": "Ary nahita azy teo anilan' ny loharano anankiray tany an'efitra Ilay Anjelin' i Jehovah, dia teo anilan' ilay loharano eo amin' ny lalana mankany Sora.",
+    "8": "Ary hoy Izy: Ry Hagara, mpanompovavin' i Saray, avy taiza ianao? ary hankaiza? Ary hoy izy: mandositra ny tavan' i Saray tompovaviko aho.",
+    "9": "Ary hoy ilay anjelin' i Jehovah taminy: Miverena any amin' ny tompovavinao, ka milefera amin' izay ataon' ny tanany.",
+    "10": "Ary hoy ilay anjelin' i Jehovah taminy: Hataoko maro indrindra ny taranakao, ka tsy ho azo isaina izy noho ny hamaroany.",
+    "11": "Ary hoy indray Ilay Anjelin' i Jehovah taminy: Indro, manan' anaka ianao ka hiteraka zazalahy ary ny anarany hataonao hoe Isimaela, satria efa nihaino ny fahorianao Jehovah.",
+    "12": "Ary izy ho lehilahy mahery setra; ny tanany hamely ny olona rehetra, ary ny tanan' ny olona rehetra kosa hamely azy; ary honina eo anatrehan' ny rahalahiny rehetra izy.",
+    "13": "Ary ny anaran' i Jehovah izay niteny taminy dia nataony hoe: Ianao no Andriamanitra mahita ahy; fa hoy izy: Tsy efa hitako teto koa va Ilay mahita ahy?",
+    "14": "Izany no nanaovana ny lavaka fantsakana hoe: Bera-lahai-roy; indro, eo anelanelan' i Kadesy sy Bareda izany.",
+    "15": "Ary niteraka zanakalahy tamin' i Abrama i Hagara, ary ny anaran' ny zanany lahy izay naterak' i Hagara dia nataon' i Abrama hoe Isimaela.",
+    "16": "Ary efa enina amby valopolo taona Abrama, raha niteraka an' Isimaela tamin' i Abrama i Hagara."
+  }
 }

@@ -1,85 +1,26 @@
 {
+  "book": "Salamo",
   "chapter": 66,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira. Hira na Salamo.]  MIHOBIA ho an' Andriamanitra, ry tany rehetra;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Mankalazà ny voninahitry ny anarany; omeo voninahitra Izy ho fiderana Azy.\""
-    },
-    {
-      "v": 3,
-      "text": "Lazao amin' Andriamanitra hoe: Endrey, mahatahotra Ianao amin' ny asanao! Ny fahalehibeazan' ny herinao no hikoizan' ny fahavalonao Anao."
-    },
-    {
-      "v": 4,
-      "text": "\"Ny tany rehetra hiankohoka eo anatrehanao ka hankalaza Anao; eny, hankalaza ny anaranao Izy.[Sela.]\""
-    },
-    {
-      "v": 5,
-      "text": "Avia, ka jereo ny asan' Andriamanitra: mahatahotra Izy amin' ny zavatra ataony amin' ny zanak' olombelona."
-    },
-    {
-      "v": 6,
-      "text": "\"Efa nampody ny ranomasina ho tany maina Izy; nandeha an-tongotra nita ny ony tondraka ny olona; tao no nifaliantsika tamin' Andriamanitra.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Manjaka mandrakizay amin' ny heriny Izy, ary ny masony mandinika ny firenen-tsamy hafa; aoka tsy hanandra-tena ny mpiodina.[Sela.]\""
-    },
-    {
-      "v": 8,
-      "text": "\"Misaora an' Andriamanitsika, ry firenena; ary asandrato ny feo fiderana Azy,\""
-    },
-    {
-      "v": 9,
-      "text": "Izay mitazona ny fanahintsika ho velona ka tsy mamela ny tongotsika hangozohozo."
-    },
-    {
-      "v": 10,
-      "text": "\"Fa efa nizaha toetra anay Ianao, Andriamanitra ô; efa nanadio anay Ianao, tahaka ny fanadio volafotsy.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Efa nampiditra anay tamin' ny fandrika Ianao; efa nanisy enta-mavesatra teo am-balahanay Ianao.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Efa nampandeha ny olona hanitsaka ny lohanay Ianao; nandeha namaky ny afo sy ny rano izahay; nefa nitondra anay nivoaka ho amin' ny toerana mahavokatra Ianao.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Hiditra ao an-tranonao mitondra fanatitra dorana aho; hoefaiko aminao ny voadiko,\""
-    },
-    {
-      "v": 14,
-      "text": "Izay notononin' ny molotro sy naloaky ny vavako, fony aho azom-pahoriana,"
-    },
-    {
-      "v": 15,
-      "text": "\"Hateriko aminao ho fanatitra dorana ny matavy mbamin' ny setroky ny ondrilahy; hanatitra omby sy osilahy aho. [Sela.]\""
-    },
-    {
-      "v": 16,
-      "text": "Avia, mihainoa ianareo rehetra izay matahotra an'Andriamanitra, fa holazaiko izay nataony ho an' ny fanahiko."
-    },
-    {
-      "v": 17,
-      "text": "\"Izy no nantsoin' ny vavako; ary ny lelako no nanandratako Azy.\""
-    },
-    {
-      "v": 18,
-      "text": "Raha mankasitraka ota ao am-poko aho, dia tsy hihaino ahy ny Tompo."
-    },
-    {
-      "v": 19,
-      "text": "\"Kanefa efa nihaino tokoa Andriamanitra; efa nihaino ny feon' ny fivavako Izy.\""
-    },
-    {
-      "v": 20,
-      "text": "Isaorana anie Andriamanitra, izay tsy nandà ny fivavako, na nanaisotra ny famindrampony tamiko."
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Hira na Salamo.]  MIHOBIA ho an' Andriamanitra, ry tany rehetra;",
+    "2": "Mankalazà ny voninahitry ny anarany; omeo voninahitra Izy ho fiderana Azy.",
+    "3": "Lazao amin' Andriamanitra hoe: Endrey, mahatahotra Ianao amin' ny asanao! Ny fahalehibeazan' ny herinao no hikoizan' ny fahavalonao Anao.",
+    "4": "Ny tany rehetra hiankohoka eo anatrehanao ka hankalaza Anao; eny, hankalaza ny anaranao Izy.[Sela.]",
+    "5": "Avia, ka jereo ny asan' Andriamanitra: mahatahotra Izy amin' ny zavatra ataony amin' ny zanak' olombelona.",
+    "6": "Efa nampody ny ranomasina ho tany maina Izy; nandeha an-tongotra nita ny ony tondraka ny olona; tao no nifaliantsika tamin' Andriamanitra.",
+    "7": "Manjaka mandrakizay amin' ny heriny Izy, ary ny masony mandinika ny firenen-tsamy hafa; aoka tsy hanandra-tena ny mpiodina.[Sela.]",
+    "8": "Misaora an' Andriamanitsika, ry firenena; ary asandrato ny feo fiderana Azy,",
+    "9": "Izay mitazona ny fanahintsika ho velona ka tsy mamela ny tongotsika hangozohozo.",
+    "10": "Fa efa nizaha toetra anay Ianao, Andriamanitra ô; efa nanadio anay Ianao, tahaka ny fanadio volafotsy.",
+    "11": "Efa nampiditra anay tamin' ny fandrika Ianao; efa nanisy enta-mavesatra teo am-balahanay Ianao.",
+    "12": "Efa nampandeha ny olona hanitsaka ny lohanay Ianao; nandeha namaky ny afo sy ny rano izahay; nefa nitondra anay nivoaka ho amin' ny toerana mahavokatra Ianao.",
+    "13": "Hiditra ao an-tranonao mitondra fanatitra dorana aho; hoefaiko aminao ny voadiko,",
+    "14": "Izay notononin' ny molotro sy naloaky ny vavako, fony aho azom-pahoriana,",
+    "15": "Hateriko aminao ho fanatitra dorana ny matavy mbamin' ny setroky ny ondrilahy; hanatitra omby sy osilahy aho. [Sela.]",
+    "16": "Avia, mihainoa ianareo rehetra izay matahotra an'Andriamanitra, fa holazaiko izay nataony ho an' ny fanahiko.",
+    "17": "Izy no nantsoin' ny vavako; ary ny lelako no nanandratako Azy.",
+    "18": "Raha mankasitraka ota ao am-poko aho, dia tsy hihaino ahy ny Tompo.",
+    "19": "Kanefa efa nihaino tokoa Andriamanitra; efa nihaino ny feon' ny fivavako Izy.",
+    "20": "Isaorana anie Andriamanitra, izay tsy nandà ny fivavako, na nanaisotra ny famindrampony tamiko."
+  }
 }

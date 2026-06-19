@@ -1,101 +1,30 @@
 {
+  "book": "Ezra",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nony ren' ny fahavalon' ny Joda sy ny Benjamina fa ny zanaky ny fahababoana dia efa nanao tempoly ho an' i Jehovah Andriamanitry ny Isiraely,"
-    },
-    {
-      "v": 2,
-      "text": "Dia nanatona an' i Zerobabela sy ny lohan' ny fianakaviana izy ka nanao taminy hoe: Aoka mba hiaraka aminareo izahay, fa mitady an' Andriamanitrareo tahaka anareo ihany koa izahay, ary ho Azy no namonoanay zavatra hatao fanatitra hatramin' ny andron' i Esara-hadona, mpanjakan' i Asyria, izay efa nampakatra anay ho aty."
-    },
-    {
-      "v": 3,
-      "text": "\"Fa Zerobabela sy Jesoa mbamin' ny namany lohan' ny fianakaviana tamin' ny Isiraely namaly azy hoe: Tsy misy raharaha hikambananareo aminay amin' ny hanaovana trano ho an' Andriamanitray; fa izahay no hanao trano ho an' i Jehovah andriamanitry ny Isiraely, araka izay efa nandidian' ny mpanjaka Kyrosy, mpanjakan' i Persia anay.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary ny tompon-tany nampiraviravy tanana ny olon' ny Joda sy nanelingelina azy teo am-panorenana,"
-    },
-    {
-      "v": 5,
-      "text": "Sady nanamby olona hanome hevitra hanohitra azy hahafoana ny heviny hatramin' ny andro nanjakan' i Kyrosy tany Persia ka hatramin' ny nanjakan' i Dariosy, mpanjakan' i Persia."
-    },
-    {
-      "v": 6,
-      "text": "Ary tamin' ny fanjakan' i Ahasoerosy, tamin' ny fiandohan' ny fanjakany, dia nanoratra ho any aminy ireo hiampanga ny mponin' i Joda sy Jerosalema."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary tamin' ny andron' i Artaksersesy no nanoratan' i Bislama sy Mitredata sy Tabela mbamin' ny namany sisa ho any amin' i Artaksersesy, mpanjakan' i Persia; ary ny soratra tamin' ny taratasy dia nataony tarehin-tsoratra syriana sady nadika tamin' ny teny Syriana.\""
-    },
-    {
-      "v": 8,
-      "text": "Rehoma mpanolo-tsaina sy Simsay mpanoratra dia nanoratra taratasy ho any amin' i Artaksersesy mpanjaka hanoherana an' i Jerosalema, izay toy izao:"
-    },
-    {
-      "v": 9,
-      "text": "Rehoma mpanolo-tsaina sy Simsay, mpanoratra ary ny namany sisa, dia ny Dinaita, ny Afarsatkita, ny Tarpelita, ny Afarsaita, ny arkevita, ny Babyloniana, ny Sosanita, ny Dehavita sy ny Elamita,"
-    },
-    {
-      "v": 10,
-      "text": "Mbamin' ny firenena sisa izay nentin' i Asnapara lehibe sady malaza ho babo, ka namponeniny tany an-tanàna Samaria sy tany amin' ny tany sasany ety an-dafin' ny ony ety, tamin' izany fotoana izany:"
-    },
-    {
-      "v": 11,
-      "text": "Izao no kopian' ny taratasy nampitondrainy ho any amin' i Artaksersesy mpanjaka: Ny lehilahy mpanomponao ety an-dafin' ny ony ety amin' izao fotoana izao..."
-    },
-    {
-      "v": 12,
-      "text": "Aoka ho fantatry ny mpanjaka fa ny Jiosy, izay niakatra avy tany aminao hankaty aminay, dia efa tonga any Jerosalema ka manamboatra ilay tanàna mpikomy sady ratsy ka mahavita ny mandany izy izao ary manamboatra ny fanorenany koa."
-    },
-    {
-      "v": 13,
-      "text": "\"Koa aoka ankehitriny ho fantatry ny mpanjaka, fa raha hatao io tanàna io, ka hatsangana indray ny mandany, dia tsy hety handoa hetra, na haba, na sara izy; ka dia hahatonga fatiantoka amin' ny vola miditra ho an' ny mpanjaka izany.\""
-    },
-    {
-      "v": 14,
-      "text": "Koa satria mahazo ny fivelomanay avy amin' ny lapan' ny mpanjaka izahay, ary tsy mety aminay ny mijery ny fahafaham-baràkan' ny mpanjaka, dia naniraka hampahafantatra ny mpanjaka izany izahay,"
-    },
-    {
-      "v": 15,
-      "text": "\"Mba hizahana ny boky firaketan' ny razanao, dia ho hitanao eo amin' ny boky firaketana ary ho fantatrao fa io tanàna io dia tanàna mpikomy ka nampidi-doza ny mpanjaka sy ny faritany maro, sady efa nisy fikomiana tao hatrizay ela izay; koa izany no naharava io tanàna io.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary milaza marimarina amin' ny mpanjaka izahay fa raha haorina indray io tanàna io, ka voatsangana ny mandany, dia tsy hanana anjara amin' ny ety an-dafin' ny ony ety intsony ianao."
-    },
-    {
-      "v": 17,
-      "text": "Dia nalefan' ny mpanjaka ny valiny ho any amin-dRehoma mpanolo-tsaina sy Simsay mpanoratra mbamin' ny namany sisa izay nonina tany Samaria sy tany amin' ny tanàna sasany an-dafin' ny ony hoe: Fiadanana, amin' ny fotoana..."
-    },
-    {
-      "v": 18,
-      "text": "Ny taratasy izay nalefanareo ho aty aminay dia efa voavaky mazava tsara teo anatrehako."
-    },
-    {
-      "v": 19,
-      "text": "Ary nandidy aho, ka nasaiko nozahana dia hita fa nikomy tamin' ny mpanjaka maro hatrizay ela izay io tanàna io, ary nisy fikomiana sy fiodinana natao tao."
-    },
-    {
-      "v": 20,
-      "text": "Ary efa nisy mpanjaka mahery izay nanjaka tany Jerosalema nanapaka ny tany rehetra any an-dafin' ny ony ka nandoavana hetra sy haba ary sara."
-    },
-    {
-      "v": 21,
-      "text": "Koa dia manaova didy hampitsahatra ireo olona ireo, mba tsy hamboarina io tanàna io, mandra-panolotra didy hafa avy aty amiko."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary tandremo ankehitriny, fandrao misy tsy vitanareo izany; fa nahoana no havela handroso ny ratsy hampidi-doza ny mpanjaka?\""
-    },
-    {
-      "v": 23,
-      "text": "Ary rehefa voavaky teo anatrehan-dRehoma mpanolo-tsaina sy Simsay mpanoratra mbamin' ny namany ny taratasin' i Artaksersesy mpanjaka, dia niakatra faingana tany Jerosalema ho any amin' ny Jiosy izy ka nampitsahatra azy an-keriny sy tamin' ny fahefana."
-    },
-    {
-      "v": 24,
-      "text": "Dia nitsahatra ny fanaovana ny tranon' Andriamanitra izay tany Jerosalema. Dia nitsahatra izany hatramin' ny taona faharoa nanjakan' i Dariosy, mpanjakan' i Persia."
-    }
-  ]
+  "verses": {
+    "1": "Ary nony ren' ny fahavalon' ny Joda sy ny Benjamina fa ny zanaky ny fahababoana dia efa nanao tempoly ho an' i Jehovah Andriamanitry ny Isiraely,",
+    "2": "Dia nanatona an' i Zerobabela sy ny lohan' ny fianakaviana izy ka nanao taminy hoe: Aoka mba hiaraka aminareo izahay, fa mitady an' Andriamanitrareo tahaka anareo ihany koa izahay, ary ho Azy no namonoanay zavatra hatao fanatitra hatramin' ny andron' i Esara-hadona, mpanjakan' i Asyria, izay efa nampakatra anay ho aty.",
+    "3": "Fa Zerobabela sy Jesoa mbamin' ny namany lohan' ny fianakaviana tamin' ny Isiraely namaly azy hoe: Tsy misy raharaha hikambananareo aminay amin' ny hanaovana trano ho an' Andriamanitray; fa izahay no hanao trano ho an' i Jehovah andriamanitry ny Isiraely, araka izay efa nandidian' ny mpanjaka Kyrosy, mpanjakan' i Persia anay.",
+    "4": "Ary ny tompon-tany nampiraviravy tanana ny olon' ny Joda sy nanelingelina azy teo am-panorenana,",
+    "5": "Sady nanamby olona hanome hevitra hanohitra azy hahafoana ny heviny hatramin' ny andro nanjakan' i Kyrosy tany Persia ka hatramin' ny nanjakan' i Dariosy, mpanjakan' i Persia.",
+    "6": "Ary tamin' ny fanjakan' i Ahasoerosy, tamin' ny fiandohan' ny fanjakany, dia nanoratra ho any aminy ireo hiampanga ny mponin' i Joda sy Jerosalema.",
+    "7": "Ary tamin' ny andron' i Artaksersesy no nanoratan' i Bislama sy Mitredata sy Tabela mbamin' ny namany sisa ho any amin' i Artaksersesy, mpanjakan' i Persia; ary ny soratra tamin' ny taratasy dia nataony tarehin-tsoratra syriana sady nadika tamin' ny teny Syriana.",
+    "8": "Rehoma mpanolo-tsaina sy Simsay mpanoratra dia nanoratra taratasy ho any amin' i Artaksersesy mpanjaka hanoherana an' i Jerosalema, izay toy izao:",
+    "9": "Rehoma mpanolo-tsaina sy Simsay, mpanoratra ary ny namany sisa, dia ny Dinaita, ny Afarsatkita, ny Tarpelita, ny Afarsaita, ny arkevita, ny Babyloniana, ny Sosanita, ny Dehavita sy ny Elamita,",
+    "10": "Mbamin' ny firenena sisa izay nentin' i Asnapara lehibe sady malaza ho babo, ka namponeniny tany an-tanàna Samaria sy tany amin' ny tany sasany ety an-dafin' ny ony ety, tamin' izany fotoana izany:",
+    "11": "Izao no kopian' ny taratasy nampitondrainy ho any amin' i Artaksersesy mpanjaka: Ny lehilahy mpanomponao ety an-dafin' ny ony ety amin' izao fotoana izao...",
+    "12": "Aoka ho fantatry ny mpanjaka fa ny Jiosy, izay niakatra avy tany aminao hankaty aminay, dia efa tonga any Jerosalema ka manamboatra ilay tanàna mpikomy sady ratsy ka mahavita ny mandany izy izao ary manamboatra ny fanorenany koa.",
+    "13": "Koa aoka ankehitriny ho fantatry ny mpanjaka, fa raha hatao io tanàna io, ka hatsangana indray ny mandany, dia tsy hety handoa hetra, na haba, na sara izy; ka dia hahatonga fatiantoka amin' ny vola miditra ho an' ny mpanjaka izany.",
+    "14": "Koa satria mahazo ny fivelomanay avy amin' ny lapan' ny mpanjaka izahay, ary tsy mety aminay ny mijery ny fahafaham-baràkan' ny mpanjaka, dia naniraka hampahafantatra ny mpanjaka izany izahay,",
+    "15": "Mba hizahana ny boky firaketan' ny razanao, dia ho hitanao eo amin' ny boky firaketana ary ho fantatrao fa io tanàna io dia tanàna mpikomy ka nampidi-doza ny mpanjaka sy ny faritany maro, sady efa nisy fikomiana tao hatrizay ela izay; koa izany no naharava io tanàna io.",
+    "16": "Ary milaza marimarina amin' ny mpanjaka izahay fa raha haorina indray io tanàna io, ka voatsangana ny mandany, dia tsy hanana anjara amin' ny ety an-dafin' ny ony ety intsony ianao.",
+    "17": "Dia nalefan' ny mpanjaka ny valiny ho any amin-dRehoma mpanolo-tsaina sy Simsay mpanoratra mbamin' ny namany sisa izay nonina tany Samaria sy tany amin' ny tanàna sasany an-dafin' ny ony hoe: Fiadanana, amin' ny fotoana...",
+    "18": "Ny taratasy izay nalefanareo ho aty aminay dia efa voavaky mazava tsara teo anatrehako.",
+    "19": "Ary nandidy aho, ka nasaiko nozahana dia hita fa nikomy tamin' ny mpanjaka maro hatrizay ela izay io tanàna io, ary nisy fikomiana sy fiodinana natao tao.",
+    "20": "Ary efa nisy mpanjaka mahery izay nanjaka tany Jerosalema nanapaka ny tany rehetra any an-dafin' ny ony ka nandoavana hetra sy haba ary sara.",
+    "21": "Koa dia manaova didy hampitsahatra ireo olona ireo, mba tsy hamboarina io tanàna io, mandra-panolotra didy hafa avy aty amiko.",
+    "22": "Ary tandremo ankehitriny, fandrao misy tsy vitanareo izany; fa nahoana no havela handroso ny ratsy hampidi-doza ny mpanjaka?",
+    "23": "Ary rehefa voavaky teo anatrehan-dRehoma mpanolo-tsaina sy Simsay mpanoratra mbamin' ny namany ny taratasin' i Artaksersesy mpanjaka, dia niakatra faingana tany Jerosalema ho any amin' ny Jiosy izy ka nampitsahatra azy an-keriny sy tamin' ny fahefana.",
+    "24": "Dia nitsahatra ny fanaovana ny tranon' Andriamanitra izay tany Jerosalema. Dia nitsahatra izany hatramin' ny taona faharoa nanjakan' i Dariosy, mpanjakan' i Persia."
+  }
 }

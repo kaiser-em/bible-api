@@ -1,73 +1,23 @@
 {
+  "book": "Jakoba",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Avy aiza ny ady, ary avy aiza ny fifandirana eo aminareo? Tsy izao va no iaviany, dia ny filànareo izay miady ao anatin’ny momba ny tenanareo?"
-    },
-    {
-      "v": 2,
-      "text": "\"Mila ianareo nefa tsy manana ihany; mamono sy maniry ianareo, nefa tsy mahazo ihany; mifamely sy miady ianareo; nefa tsy manana ianareo, satria tsy mangataka.\""
-    },
-    {
-      "v": 3,
-      "text": "Mangataka ianareo, nefa tsy mahazo ihany, satria diso fangataka, mba holaninareo amin’ny filànareo."
-    },
-    {
-      "v": 4,
-      "text": "Ry lehilahy sy vehivavy mpijangajanga, tsy fantatrareo va fa fandrafiana an’Andriamanitra ny fisakaizana amin’izao tontolo izao? Koa na iza na iza te ho sakaizan’izao tontolo izao dia fahavalon’Andriamanitra izy."
-    },
-    {
-      "v": 5,
-      "text": "Ary heverinareo va fa miteny foana ny Soratra Masina, ny fanahy izay mitoetra ato anatintsika va dia mitaona hialona?"
-    },
-    {
-      "v": 6,
-      "text": "Nefa manome fahasoavana bebe kokoa Izy. Ka hoy Izy: Manohitra ny mpiavonavona Andriamanitra, fa manome fahasoavana ho an’ny manetry tena."
-    },
-    {
-      "v": 7,
-      "text": "Noho izany, maneke an’Andriamanitra ianareo. Manohera ny devoly, dia handositra anareo izy."
-    },
-    {
-      "v": 8,
-      "text": "\"Manatòna an’Andriamanitra, dia hanatona anareo Izy. Diovy ny tananareo, ry mpanota; ary ataovy madio ny fonareo, ry mpiroa saina.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Oria, sy mitomania, ary midradradradrà; aoka hody fisaonana ny fihomehezanareo, ary hody fanjoretana ny fifalianareo.\""
-    },
-    {
-      "v": 10,
-      "text": "Manetre tena eo anatrehan’ny Tompo, dia hanandratra anareo Izy."
-    },
-    {
-      "v": 11,
-      "text": "\"Aza mifanaratsy, ry rahalahy. Izay manaratsy rahalahy, ka mitsara ny rahalahiny dia manaratsy ny lalàna sy mitsara ny lalàna; fa raha mitsara ny lalàna ianao, dia tsy mpanatanteraka ny lalàna fa mpitsara.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Iray ihany no Mpanome lalàna, dia Ilay mahavonjy sy mahavery; fa iza moa ianao no mitsara ny hafa?\""
-    },
-    {
-      "v": 13,
-      "text": "\"He! ianareo izay manao hoe: Anio na ampitso dia hankany Ananona izahay ary hitoetra any herintaona ka hividy sy hivarotra ary hahazo tombom-barotra;\""
-    },
-    {
-      "v": 14,
-      "text": "Kanefa tsy mahalala ny ho ampitso ianareo. Inona moa ny ainareo? Fa zavona ihany ianareo, izay miseho vetivety, dia levona."
-    },
-    {
-      "v": 15,
-      "text": "Fa aleo manao izao: Raha sitrapon’ny Tompo, ka velona izahay, dia hataonay izao na izany."
-    },
-    {
-      "v": 16,
-      "text": "Fa izao dia mirehareha amin’ny fahasahiana ianareo: ratsy ny fireharehana rehetra toy izany."
-    },
-    {
-      "v": 17,
-      "text": "Koa izay mahalala hanao soa, nefa tsy manao, dia ota ho azy izany."
-    }
-  ]
+  "verses": {
+    "1": "Avy aiza ny ady, ary avy aiza ny fifandirana eo aminareo? Tsy izao va no iaviany, dia ny filànareo izay miady ao anatin’ny momba ny tenanareo?",
+    "2": "Mila ianareo nefa tsy manana ihany; mamono sy maniry ianareo, nefa tsy mahazo ihany; mifamely sy miady ianareo; nefa tsy manana ianareo, satria tsy mangataka.",
+    "3": "Mangataka ianareo, nefa tsy mahazo ihany, satria diso fangataka, mba holaninareo amin’ny filànareo.",
+    "4": "Ry lehilahy sy vehivavy mpijangajanga, tsy fantatrareo va fa fandrafiana an’Andriamanitra ny fisakaizana amin’izao tontolo izao? Koa na iza na iza te ho sakaizan’izao tontolo izao dia fahavalon’Andriamanitra izy.",
+    "5": "Ary heverinareo va fa miteny foana ny Soratra Masina, ny fanahy izay mitoetra ato anatintsika va dia mitaona hialona?",
+    "6": "Nefa manome fahasoavana bebe kokoa Izy. Ka hoy Izy: Manohitra ny mpiavonavona Andriamanitra, fa manome fahasoavana ho an’ny manetry tena.",
+    "7": "Noho izany, maneke an’Andriamanitra ianareo. Manohera ny devoly, dia handositra anareo izy.",
+    "8": "Manatòna an’Andriamanitra, dia hanatona anareo Izy. Diovy ny tananareo, ry mpanota; ary ataovy madio ny fonareo, ry mpiroa saina.",
+    "9": "Oria, sy mitomania, ary midradradradrà; aoka hody fisaonana ny fihomehezanareo, ary hody fanjoretana ny fifalianareo.",
+    "10": "Manetre tena eo anatrehan’ny Tompo, dia hanandratra anareo Izy.",
+    "11": "Aza mifanaratsy, ry rahalahy. Izay manaratsy rahalahy, ka mitsara ny rahalahiny dia manaratsy ny lalàna sy mitsara ny lalàna; fa raha mitsara ny lalàna ianao, dia tsy mpanatanteraka ny lalàna fa mpitsara.",
+    "12": "Iray ihany no Mpanome lalàna, dia Ilay mahavonjy sy mahavery; fa iza moa ianao no mitsara ny hafa?",
+    "13": "He! ianareo izay manao hoe: Anio na ampitso dia hankany Ananona izahay ary hitoetra any herintaona ka hividy sy hivarotra ary hahazo tombom-barotra;",
+    "14": "Kanefa tsy mahalala ny ho ampitso ianareo. Inona moa ny ainareo? Fa zavona ihany ianareo, izay miseho vetivety, dia levona.",
+    "15": "Fa aleo manao izao: Raha sitrapon’ny Tompo, ka velona izahay, dia hataonay izao na izany.",
+    "16": "Fa izao dia mirehareha amin’ny fahasahiana ianareo: ratsy ny fireharehana rehetra toy izany.",
+    "17": "Koa izay mahalala hanao soa, nefa tsy manao, dia ota ho azy izany."
+  }
 }

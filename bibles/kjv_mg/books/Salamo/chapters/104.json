@@ -1,145 +1,41 @@
 {
+  "book": "Salamo",
   "chapter": 104,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"MISAORA an' i Jehovah, ry fanahiko. Jehovah Andriamanitro ô, lehibe indrindra Ianao; haja sy voninahitra no fitafianao,\""
-    },
-    {
-      "v": 2,
-      "text": "Mitafy ny mazava tahaka ny lamba Ianao ary mamelatra ny lanitra tahaka ny lay,"
-    },
-    {
-      "v": 3,
-      "text": "Ary mamelatra ny rairain-drihan' ny tranony amin' ny rano sady manao ny rahona matevina ho kalesiny ka mandeha amin' ny elatry ny rivotra,"
-    },
-    {
-      "v": 4,
-      "text": "Manao ny rivotra ho irany ary ny lelafo ho mpanompony."
-    },
-    {
-      "v": 5,
-      "text": "Mametraka ny fanorenan' ny tany Izy, mba tsy hohetsehina mandrakizay izany."
-    },
-    {
-      "v": 6,
-      "text": "\"Ny rano lalina no nasaronao azy tahaka ny lamba; nandifotra ny tendrombohitra ny rano.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Noho ny teny mafy nataonao dia nandositra ireny; noho ny feon' ny kotrokao dia nirifatra ireny.\""
-    },
-    {
-      "v": 8,
-      "text": "Ny tendrombohitra no niakarany ary ny lohasaha no nidinany ho any amin' ny toerana izay namboarinao hitoerany."
-    },
-    {
-      "v": 9,
-      "text": "Efa nasianao fetra tsy hihoarany izy mba tsy hiverina hanarona ny tany."
-    },
-    {
-      "v": 10,
-      "text": "\"Mampandeha loharano eny amin' ny lohasaha Izy; eny anelanelan' ny havoana no alehan' ireny,\""
-    },
-    {
-      "v": 11,
-      "text": "Ka isotroan' ny biby rehetra any an-tsaha, sy analan' ny boriky dia ny hetahetany."
-    },
-    {
-      "v": 12,
-      "text": "Eo amboniny no itoeran' ny voro-manidina eny amin' ny habakabaka, ary eo amin' ny rantsan-kazo no anenoany."
-    },
-    {
-      "v": 13,
-      "text": "\"Manondra-drano ny havoana avy amin' ny tranony ambony Izy; ny vokatry ny asanao no mahavoky ny tany.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Mampaniry ahitra ho an' ny biby fiompy Izy sy anana hahasoa ny olona; mba ahazoany mamoaka hanina avy amin' ny tany ;\""
-    },
-    {
-      "v": 15,
-      "text": "Ary divay izay mampifaly ny fon' ny olona sy diloilo izay mampinendonendo ny tavany ary mofo hanohanana ny fon' ny olona."
-    },
-    {
-      "v": 16,
-      "text": "\"Vonton-drano ny hazon' i Jehovah, dia ny sederan' i Libanona, izay namboleny;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Izay anaovan' ny voronkely ny akaniny; ary ny vano, dia ao amin' ny kypreso no anaovany ny akaniny.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ny havoana avo dia fialofana ho an' ny osy dia; ny harambato ho an' ny hyraka.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Nanao ny volana ho fizaran-taona Izy; ny masoandro mahalala ny filentehany.\""
-    },
-    {
-      "v": 20,
-      "text": "Mahatonga ny haizina Ianao dia tonga ny alina, ka mivezivezy ny biby rehetra any an' ala."
-    },
-    {
-      "v": 21,
-      "text": "Mierona maniry ny tohany ny liona tanora, ka mitady ny haniny avy amin' Andriamanitra."
-    },
-    {
-      "v": 22,
-      "text": "Miposaka ny masoandro, dia miangona izy ireny ka miverina, ary mamitsaka any an-davany."
-    },
-    {
-      "v": 23,
-      "text": "Mivoaka ho any amin' ny asany ny olona sy ho any amin' ny taozavany."
-    },
-    {
-      "v": 24,
-      "text": "\"Endrey ny hamaroan' ny asanao, Jehovah ô! Fahendrena no nanaovanao azy rehetra; heniky ny harenao ny tany.\""
-    },
-    {
-      "v": 25,
-      "text": "Indro ny ranomasina dia lehibe sady malalaka, ao no misy zava-mihetsiketsika sy mandady tsy tambo isaina, na ny biby kely, na ny biby lehibe."
-    },
-    {
-      "v": 26,
-      "text": "Any no alehan' ny sambo, sy ny leviatana izay noforoninao hilalao ao."
-    },
-    {
-      "v": 27,
-      "text": "Miandry Anao ireo rehetra ireo, mba homenao ny haniny amin' ny fotoany."
-    },
-    {
-      "v": 28,
-      "text": "\"Izay omenao azy ireo dia angoniny; manokatra ny tananao Ianao, dia voky soa izy.\""
-    },
-    {
-      "v": 29,
-      "text": "Manafina ny tavanao Ianao, dia ory ireo, alànao ny fofonainy, dia maty izy, ka mody any amin' ny vovoka nanalana azy."
-    },
-    {
-      "v": 30,
-      "text": "Maniraka ny fanahinao Ianao, dia àry izy, ary manavao ny tarehin' ny tany Ianao."
-    },
-    {
-      "v": 31,
-      "text": "\"Haharitra mandrakizay ny voninahitr' i Jehovah; hifaly amin' ny asany Jehovah!\""
-    },
-    {
-      "v": 32,
-      "text": "\"Jereny ny tany, dia mihorohoro; Tendren' ny tanany ny havoana, dia midonaka.\""
-    },
-    {
-      "v": 33,
-      "text": "\"Hihira ho an' i Jehovah aho, raha mbola velona koa; hihira fiderana ho an' Andriamanitro aho, raha mbola miaina.\""
-    },
-    {
-      "v": 34,
-      "text": "\"Ho mamy anie ny fisainako Azy; hifaly amin' i Jehovah aho.\""
-    },
-    {
-      "v": 35,
-      "text": "Aoka ho lany ringana tsy ho ety an-tany ny mpanota, ary aoka tsy hisy intsony ny ratsy fanahy. Misaora an' i Jehovah, ry fanahiko. Miderà an' i Jehovah."
-    }
-  ]
+  "verses": {
+    "1": "MISAORA an' i Jehovah, ry fanahiko. Jehovah Andriamanitro ô, lehibe indrindra Ianao; haja sy voninahitra no fitafianao,",
+    "2": "Mitafy ny mazava tahaka ny lamba Ianao ary mamelatra ny lanitra tahaka ny lay,",
+    "3": "Ary mamelatra ny rairain-drihan' ny tranony amin' ny rano sady manao ny rahona matevina ho kalesiny ka mandeha amin' ny elatry ny rivotra,",
+    "4": "Manao ny rivotra ho irany ary ny lelafo ho mpanompony.",
+    "5": "Mametraka ny fanorenan' ny tany Izy, mba tsy hohetsehina mandrakizay izany.",
+    "6": "Ny rano lalina no nasaronao azy tahaka ny lamba; nandifotra ny tendrombohitra ny rano.",
+    "7": "Noho ny teny mafy nataonao dia nandositra ireny; noho ny feon' ny kotrokao dia nirifatra ireny.",
+    "8": "Ny tendrombohitra no niakarany ary ny lohasaha no nidinany ho any amin' ny toerana izay namboarinao hitoerany.",
+    "9": "Efa nasianao fetra tsy hihoarany izy mba tsy hiverina hanarona ny tany.",
+    "10": "Mampandeha loharano eny amin' ny lohasaha Izy; eny anelanelan' ny havoana no alehan' ireny,",
+    "11": "Ka isotroan' ny biby rehetra any an-tsaha, sy analan' ny boriky dia ny hetahetany.",
+    "12": "Eo amboniny no itoeran' ny voro-manidina eny amin' ny habakabaka, ary eo amin' ny rantsan-kazo no anenoany.",
+    "13": "Manondra-drano ny havoana avy amin' ny tranony ambony Izy; ny vokatry ny asanao no mahavoky ny tany.",
+    "14": "Mampaniry ahitra ho an' ny biby fiompy Izy sy anana hahasoa ny olona; mba ahazoany mamoaka hanina avy amin' ny tany ;",
+    "15": "Ary divay izay mampifaly ny fon' ny olona sy diloilo izay mampinendonendo ny tavany ary mofo hanohanana ny fon' ny olona.",
+    "16": "Vonton-drano ny hazon' i Jehovah, dia ny sederan' i Libanona, izay namboleny;",
+    "17": "Izay anaovan' ny voronkely ny akaniny; ary ny vano, dia ao amin' ny kypreso no anaovany ny akaniny.",
+    "18": "Ny havoana avo dia fialofana ho an' ny osy dia; ny harambato ho an' ny hyraka.",
+    "19": "Nanao ny volana ho fizaran-taona Izy; ny masoandro mahalala ny filentehany.",
+    "20": "Mahatonga ny haizina Ianao dia tonga ny alina, ka mivezivezy ny biby rehetra any an' ala.",
+    "21": "Mierona maniry ny tohany ny liona tanora, ka mitady ny haniny avy amin' Andriamanitra.",
+    "22": "Miposaka ny masoandro, dia miangona izy ireny ka miverina, ary mamitsaka any an-davany.",
+    "23": "Mivoaka ho any amin' ny asany ny olona sy ho any amin' ny taozavany.",
+    "24": "Endrey ny hamaroan' ny asanao, Jehovah ô! Fahendrena no nanaovanao azy rehetra; heniky ny harenao ny tany.",
+    "25": "Indro ny ranomasina dia lehibe sady malalaka, ao no misy zava-mihetsiketsika sy mandady tsy tambo isaina, na ny biby kely, na ny biby lehibe.",
+    "26": "Any no alehan' ny sambo, sy ny leviatana izay noforoninao hilalao ao.",
+    "27": "Miandry Anao ireo rehetra ireo, mba homenao ny haniny amin' ny fotoany.",
+    "28": "Izay omenao azy ireo dia angoniny; manokatra ny tananao Ianao, dia voky soa izy.",
+    "29": "Manafina ny tavanao Ianao, dia ory ireo, alànao ny fofonainy, dia maty izy, ka mody any amin' ny vovoka nanalana azy.",
+    "30": "Maniraka ny fanahinao Ianao, dia àry izy, ary manavao ny tarehin' ny tany Ianao.",
+    "31": "Haharitra mandrakizay ny voninahitr' i Jehovah; hifaly amin' ny asany Jehovah!",
+    "32": "Jereny ny tany, dia mihorohoro; Tendren' ny tanany ny havoana, dia midonaka.",
+    "33": "Hihira ho an' i Jehovah aho, raha mbola velona koa; hihira fiderana ho an' Andriamanitro aho, raha mbola miaina.",
+    "34": "Ho mamy anie ny fisainako Azy; hifaly amin' i Jehovah aho.",
+    "35": "Aoka ho lany ringana tsy ho ety an-tany ny mpanota, ary aoka tsy hisy intsony ny ratsy fanahy. Misaora an' i Jehovah, ry fanahiko. Miderà an' i Jehovah."
+  }
 }

@@ -1,129 +1,37 @@
 {
+  "book": "1 Korintiana",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary ny amin’ny fanomezam-panahy, ry rahalahy, dia tsy tiako tsy ho fantatrareo."
-    },
-    {
-      "v": 2,
-      "text": "Fantatrareo fa fony Jentilisa ianareo, dia nentina tany amin’ireny sampy moana ireny araka izay nitaomana anareo."
-    },
-    {
-      "v": 3,
-      "text": "\"Koa mampahafantatra anareo aho fa tsy misy olona ampitenenin’ny Fanahin’Andriamanitra ka manao hoe: Voaozona Jesosy; ary tsy misy afaka hilaza fa Jesosy no Tompo, raha tsy amin’ny Fanahy Masina.\""
-    },
-    {
-      "v": 4,
-      "text": "Koa zarazaraina ho samihafa ny fanomezana, nefa ny Fanahy dia iray ihany."
-    },
-    {
-      "v": 5,
-      "text": "Ary zarazaraina ho samihafa ny fanompoana, nefa ny Tompo dia iray ihany."
-    },
-    {
-      "v": 6,
-      "text": "Ary zarazaraina ho samihafa ny asa, nefa Andriamanitra dia iray ihany, Izay miasa ny zavatra rehetra amin’ny olona rehetra."
-    },
-    {
-      "v": 7,
-      "text": "Fa izy rehetra dia samy nomena ny fisehoan’ny Fanahy hahasoa."
-    },
-    {
-      "v": 8,
-      "text": "Fa ny anankiray nomen’ny Fanahy teny fahendrena, ary ny anankiray teny fahalalana, avy amin’izany Fanahy izany ihany,"
-    },
-    {
-      "v": 9,
-      "text": "Ary ny anankiray finoana, avy amin’izany Fanahy izany ihany, ary ny anankiray fanomezana ho enti-manasitrana avy amin’izany Fanahy iray izany ihany,"
-    },
-    {
-      "v": 10,
-      "text": "Ary ny anankiray ny manao fahagagana, ary ny anankiray ny maminany, ary ny anankiray ny manavaka fanahy samihafa, ary ny anankiray ny miteny amin’ny fiteny tsy fantatra samihafa, ary ny anankiray ny mandika fiteny tsy fantatra."
-    },
-    {
-      "v": 11,
-      "text": "Ireo rehetra ireo dia asan’ny Fanahy iray ihany, zarazaraina ho azy rehetra avy araka ny sitrapony."
-    },
-    {
-      "v": 12,
-      "text": "Fa tahaka ny tena iray ihany, anefa maro ny momba ny tena, ary ireo rehetra momba ny tena ireo, na dia maro aza, dia tena iray ihany, dia tahaka izany koa Kristy."
-    },
-    {
-      "v": 13,
-      "text": "\"Fa Fanahy iray ihany no nanaovam-batisa antsika rehetra ho tena iray, na Jiosy isika na Jentilisa, na andevo na olona afaka; ary isika rehetra dia efa nampisotroina ny Fanahy iray.\""
-    },
-    {
-      "v": 14,
-      "text": "Nefa ny momba ny tena tsy iray, fa maro."
-    },
-    {
-      "v": 15,
-      "text": "Raha ny tongotra hanao hoe: Satria tsy tanana aho, dia tsy mba momba ny tena, amin’izany dia tsy momba ny tena va izy?"
-    },
-    {
-      "v": 16,
-      "text": "Ary raha ny sofina hanao hoe: Satria tsy maso aho, dia tsy momba ny tena, koa amin’izany dia tsy momba ny tena va izy?"
-    },
-    {
-      "v": 17,
-      "text": "Raha maso avokoa ny tena rehetra, aiza àry izay fandrenesana? Raha fandrenesana avokoa, aiza àry izay fanamboloana?"
-    },
-    {
-      "v": 18,
-      "text": "Fa Andriamanitra efa nametraka izay rehetra momba ny tena, samy ho eo amin’ny tena araka ny sitrapony."
-    },
-    {
-      "v": 19,
-      "text": "Ary raha izay rehetra momba ny tena no tonga iray monja, aiza intsony izay tena?"
-    },
-    {
-      "v": 20,
-      "text": "Fa maro ny momba ny tena, nefa ny tena dia iray ihany."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary ny maso tsy mahazo manao amin’ny tanana hoe: Tsy mila anao aho; ary koa ny loha tsy mahazo manao amin’ny tongotra hoe: Tsy mila anareo aho.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Tsia, fa mainka ilaintsika aza ny momba ny tena izay toa malemilemy kokoa noho ny sasany;\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary ny momba ny tena izay ataontsika ho kely voninahitra kokoa dia tafiantsika voninahitra bebe kokoa; ary izay tsy misy haja amin’ny momba ny tenantsika no hajaintsika kokoa;\""
-    },
-    {
-      "v": 24,
-      "text": "Fa tsy mila izany ny efa misy haja rahateo amin’ny momba ny tenantsika. Fa tamin’ny nanamboaran’Andriamanitra ny tena, dia izay kely voninahitra no nomeny voninahitra bebe kokoa,"
-    },
-    {
-      "v": 25,
-      "text": "Mba tsy hisy fisarahana eo amin’ny tena, fa mba hifampiahy ny momba ny tena rehetra."
-    },
-    {
-      "v": 26,
-      "text": "\"Ary raha mijaly ny anankiray amin’ny momba ny tena, dia miara-mijaly avokoa izay rehetra momba ny tena; fa raha omem-boninahitra kosa ny anankiray amin’ny momba ny tena, dia miara-mifaly avokoa izay rehetra momba ny tena.\""
-    },
-    {
-      "v": 27,
-      "text": "Ary ianareo no tenan’i Kristy, ka samy momba ny tena avokoa araka ny anjarany ianareo."
-    },
-    {
-      "v": 28,
-      "text": "Ary Andriamanitra efa nanendry ny sasany ao amin’ny fiangonana, voalohany apostoly, faharoa mpaminany, fahatelo mpampianatra, manaraka izany ny fahagagana, ny fanomezana hoenti-mahasitrana, ny fanampiana, ny fitondrana, ny fiteny samihafa tsy fantatra."
-    },
-    {
-      "v": 29,
-      "text": "Apostoly va izy rehetra? Mpaminany va izy rehetra? Mpampianatra va izy rehetra? Manao fahagagana va izy rehetra?"
-    },
-    {
-      "v": 30,
-      "text": "Manana ny fanomezana hoenti-mahasitrana va izy rehetra? Miteny amin’ny fiteny tsy fantatra va izy rehetra? Mandika teny va izy rehetra?"
-    },
-    {
-      "v": 31,
-      "text": "\"Nefa maniria fatratra ny fanomezana tsara indrindra; ka dia ny lalana tsara indrindra no hatoroko anareo:\""
-    }
-  ]
+  "verses": {
+    "1": "Ary ny amin’ny fanomezam-panahy, ry rahalahy, dia tsy tiako tsy ho fantatrareo.",
+    "2": "Fantatrareo fa fony Jentilisa ianareo, dia nentina tany amin’ireny sampy moana ireny araka izay nitaomana anareo.",
+    "3": "Koa mampahafantatra anareo aho fa tsy misy olona ampitenenin’ny Fanahin’Andriamanitra ka manao hoe: Voaozona Jesosy; ary tsy misy afaka hilaza fa Jesosy no Tompo, raha tsy amin’ny Fanahy Masina.",
+    "4": "Koa zarazaraina ho samihafa ny fanomezana, nefa ny Fanahy dia iray ihany.",
+    "5": "Ary zarazaraina ho samihafa ny fanompoana, nefa ny Tompo dia iray ihany.",
+    "6": "Ary zarazaraina ho samihafa ny asa, nefa Andriamanitra dia iray ihany, Izay miasa ny zavatra rehetra amin’ny olona rehetra.",
+    "7": "Fa izy rehetra dia samy nomena ny fisehoan’ny Fanahy hahasoa.",
+    "8": "Fa ny anankiray nomen’ny Fanahy teny fahendrena, ary ny anankiray teny fahalalana, avy amin’izany Fanahy izany ihany,",
+    "9": "Ary ny anankiray finoana, avy amin’izany Fanahy izany ihany, ary ny anankiray fanomezana ho enti-manasitrana avy amin’izany Fanahy iray izany ihany,",
+    "10": "Ary ny anankiray ny manao fahagagana, ary ny anankiray ny maminany, ary ny anankiray ny manavaka fanahy samihafa, ary ny anankiray ny miteny amin’ny fiteny tsy fantatra samihafa, ary ny anankiray ny mandika fiteny tsy fantatra.",
+    "11": "Ireo rehetra ireo dia asan’ny Fanahy iray ihany, zarazaraina ho azy rehetra avy araka ny sitrapony.",
+    "12": "Fa tahaka ny tena iray ihany, anefa maro ny momba ny tena, ary ireo rehetra momba ny tena ireo, na dia maro aza, dia tena iray ihany, dia tahaka izany koa Kristy.",
+    "13": "Fa Fanahy iray ihany no nanaovam-batisa antsika rehetra ho tena iray, na Jiosy isika na Jentilisa, na andevo na olona afaka; ary isika rehetra dia efa nampisotroina ny Fanahy iray.",
+    "14": "Nefa ny momba ny tena tsy iray, fa maro.",
+    "15": "Raha ny tongotra hanao hoe: Satria tsy tanana aho, dia tsy mba momba ny tena, amin’izany dia tsy momba ny tena va izy?",
+    "16": "Ary raha ny sofina hanao hoe: Satria tsy maso aho, dia tsy momba ny tena, koa amin’izany dia tsy momba ny tena va izy?",
+    "17": "Raha maso avokoa ny tena rehetra, aiza àry izay fandrenesana? Raha fandrenesana avokoa, aiza àry izay fanamboloana?",
+    "18": "Fa Andriamanitra efa nametraka izay rehetra momba ny tena, samy ho eo amin’ny tena araka ny sitrapony.",
+    "19": "Ary raha izay rehetra momba ny tena no tonga iray monja, aiza intsony izay tena?",
+    "20": "Fa maro ny momba ny tena, nefa ny tena dia iray ihany.",
+    "21": "Ary ny maso tsy mahazo manao amin’ny tanana hoe: Tsy mila anao aho; ary koa ny loha tsy mahazo manao amin’ny tongotra hoe: Tsy mila anareo aho.",
+    "22": "Tsia, fa mainka ilaintsika aza ny momba ny tena izay toa malemilemy kokoa noho ny sasany;",
+    "23": "Ary ny momba ny tena izay ataontsika ho kely voninahitra kokoa dia tafiantsika voninahitra bebe kokoa; ary izay tsy misy haja amin’ny momba ny tenantsika no hajaintsika kokoa;",
+    "24": "Fa tsy mila izany ny efa misy haja rahateo amin’ny momba ny tenantsika. Fa tamin’ny nanamboaran’Andriamanitra ny tena, dia izay kely voninahitra no nomeny voninahitra bebe kokoa,",
+    "25": "Mba tsy hisy fisarahana eo amin’ny tena, fa mba hifampiahy ny momba ny tena rehetra.",
+    "26": "Ary raha mijaly ny anankiray amin’ny momba ny tena, dia miara-mijaly avokoa izay rehetra momba ny tena; fa raha omem-boninahitra kosa ny anankiray amin’ny momba ny tena, dia miara-mifaly avokoa izay rehetra momba ny tena.",
+    "27": "Ary ianareo no tenan’i Kristy, ka samy momba ny tena avokoa araka ny anjarany ianareo.",
+    "28": "Ary Andriamanitra efa nanendry ny sasany ao amin’ny fiangonana, voalohany apostoly, faharoa mpaminany, fahatelo mpampianatra, manaraka izany ny fahagagana, ny fanomezana hoenti-mahasitrana, ny fanampiana, ny fitondrana, ny fiteny samihafa tsy fantatra.",
+    "29": "Apostoly va izy rehetra? Mpaminany va izy rehetra? Mpampianatra va izy rehetra? Manao fahagagana va izy rehetra?",
+    "30": "Manana ny fanomezana hoenti-mahasitrana va izy rehetra? Miteny amin’ny fiteny tsy fantatra va izy rehetra? Mandika teny va izy rehetra?",
+    "31": "Nefa maniria fatratra ny fanomezana tsara indrindra; ka dia ny lalana tsara indrindra no hatoroko anareo:"
+  }
 }

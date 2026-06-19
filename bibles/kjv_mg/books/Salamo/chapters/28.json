@@ -1,41 +1,15 @@
 {
+  "book": "Salamo",
   "chapter": 28,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Salamo nataon' i Davida.]  IANAO no antsoiko, Jehovah ô, ry vatolampiko; aza mangina amiko, fandrao raha mangina amiko Ianao dia ho tahaka izay midina any an-davaka aho.\""
-    },
-    {
-      "v": 2,
-      "text": "Mihainoa ny feon' ny fifonako, raha mitaraina aminao aho, raha manandratra ny tanako ho amin' ny teninao masina izay velona sy miasa aho."
-    },
-    {
-      "v": 3,
-      "text": "Aza atao indray manakipaka amin' ny ratsy fanahy sy ny mpanao heloka aho, izay milaza fihavanana amin' ny namany, kanjo ratsy ny ao am-pony."
-    },
-    {
-      "v": 4,
-      "text": "\"Manomeza azy araka ny asany sy araka ny faharatsian' ny ataony; manomeza azy araka ny asan' ny tanany; valio izy araka izay iendrehany.\""
-    },
-    {
-      "v": 5,
-      "text": "Satria tsy mihevitra ny asan' i Jehovah na ny ataon' ny tanany izy, dia horavany izy fa tsy haoriny."
-    },
-    {
-      "v": 6,
-      "text": "Isaorana anie Jehovah, satria efa nihaino ny feon' ny fifonako Izy."
-    },
-    {
-      "v": 7,
-      "text": "\"Jehovah no heriko sy ampingako; Izy no nitokian' ny foko, ka voavonjy aho; noho izany, dia mifaly tokoa ny foko, ka ny hirako no hiderako azy.\""
-    },
-    {
-      "v": 8,
-      "text": "Jehovah no heriny, ary Izy no hery hamonjena ny voahosony."
-    },
-    {
-      "v": 9,
-      "text": "\"Vonjeo ny olonao, ary tahio ny lovanao; fahano koa izy, ka asandrato mandrakizay.\""
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida.]  IANAO no antsoiko, Jehovah ô, ry vatolampiko; aza mangina amiko, fandrao raha mangina amiko Ianao dia ho tahaka izay midina any an-davaka aho.",
+    "2": "Mihainoa ny feon' ny fifonako, raha mitaraina aminao aho, raha manandratra ny tanako ho amin' ny teninao masina izay velona sy miasa aho.",
+    "3": "Aza atao indray manakipaka amin' ny ratsy fanahy sy ny mpanao heloka aho, izay milaza fihavanana amin' ny namany, kanjo ratsy ny ao am-pony.",
+    "4": "Manomeza azy araka ny asany sy araka ny faharatsian' ny ataony; manomeza azy araka ny asan' ny tanany; valio izy araka izay iendrehany.",
+    "5": "Satria tsy mihevitra ny asan' i Jehovah na ny ataon' ny tanany izy, dia horavany izy fa tsy haoriny.",
+    "6": "Isaorana anie Jehovah, satria efa nihaino ny feon' ny fifonako Izy.",
+    "7": "Jehovah no heriko sy ampingako; Izy no nitokian' ny foko, ka voavonjy aho; noho izany, dia mifaly tokoa ny foko, ka ny hirako no hiderako azy.",
+    "8": "Jehovah no heriny, ary Izy no hery hamonjena ny voahosony.",
+    "9": "Vonjeo ny olonao, ary tahio ny lovanao; fahano koa izy, ka asandrato mandrakizay."
+  }
 }

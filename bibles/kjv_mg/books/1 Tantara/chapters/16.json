@@ -1,177 +1,49 @@
 {
+  "book": "1 Tantara",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary nampiditra ny fiaran' Andriamanitra ny olona ka nametraka azy teo afovoan' ny lay izay naorin' i Davida ho azy; ary nanao fanatitra dorana sy fanati-pihavanana teo anatrehan' Andriamanitra izy.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary nony voatitr' i Davida ny fanatitra dorana sy ny fanati-pihavanana dia nitsodrano ny olona tamin' ny anaran' i Jehovah izy."
-    },
-    {
-      "v": 3,
-      "text": "Dia nizara mofo iray avy sy hena iray didy ary divay iray tavoara ho an' ny Isiraely rehetra na lahy na vavy izy."
-    },
-    {
-      "v": 4,
-      "text": "Ary nanendry ny sasany tamin' ny Levita Davida hanao ny asa fanompoana eo anoloan' ny fiaran' i Jehovah mba hankalaza sy hisaotra ary hidera an' i Jehovah, Andriamanitry ny Isiraely."
-    },
-    {
-      "v": 5,
-      "text": "\"Asafa no lohany, ary Zakaria no manarakaraka, dia Jeiela sy Semiramota sy Jehiela sy Matitia sy Eliaba sy Benaia sy Obed-edoma ary Jeiela no nitendry ny valiha sy ny harpa; fa asafa no nampaneno ny kipantsona;\""
-    },
-    {
-      "v": 6,
-      "text": "Benaia sy Jahaziela mpisorona kosa no mpitsoka ny trompetra mandrakariva eo anoloan' ny fiaran' ny faneken' Andriamanitra."
-    },
-    {
-      "v": 7,
-      "text": "Tamin' izay andro izay no voalohany nanoloran' i Davida izao salamo izao ho eo an-tanan' i Asafa sy ny rahalahiny hisaorana an' i Jehovah."
-    },
-    {
-      "v": 8,
-      "text": "\"Miderà an' i Jehovah, miantsoa ny anarany; ampahafantaro ny firenena ny asany.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Mihirà ho Azy; mihirà salamo ho Azy, lazao ny asany mahagaga rehetra.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ataovy ho reharehanareo ny anarany masina; aoka hifaly ny fon' izay mitady an' i Jehovah.\""
-    },
-    {
-      "v": 11,
-      "text": "Mitadiava an' i Jehovah sy ny heriny, katsaho mandrakariva ny tavany."
-    },
-    {
-      "v": 12,
-      "text": "Mahatsiarova ny asa mahagaga izay nataony, dia ny fahagagany sy ny fitsaran' ny vavany."
-    },
-    {
-      "v": 13,
-      "text": "Ry taranak' Isiraely mpanompony, ianareo taranak' i Jakoba olom-boafidiny."
-    },
-    {
-      "v": 14,
-      "text": "\"Izy no Jehovah Andriamanitsika; manerana ny tany rehetra ny fitsarany.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Tsarovy mandrakariva ny fanekeny, dia ny teny voadidiny ho an' ny taranaka arivo mandimby;\""
-    },
-    {
-      "v": 16,
-      "text": "Dia ilay fanekena nataony tamin' i Abrahama sy ny fianianany tamin' Isaka."
-    },
-    {
-      "v": 17,
-      "text": "Izay naorina ho lalàna ho an' i Jakoba sy ho fanekena mandrakizay ho an' Isiraely,"
-    },
-    {
-      "v": 18,
-      "text": "Manao hoe: Homeko anao ny tany Kanana ho anjara lovanao."
-    },
-    {
-      "v": 19,
-      "text": "Fa fony mbola olom-bitsy ianareo, eny, vitsy sady vahiny tao,"
-    },
-    {
-      "v": 20,
-      "text": "\"Ary raha nifindrafindra avy tamin' ny firenena iray ho amin' ny firenena iray sy avy tamin' ny fanjakana iray ho amin' ny firenen-kafa;\""
-    },
-    {
-      "v": 21,
-      "text": "\"Dia tsy nisy navelany hanisy ratsy azy; eny nananatra mpanjaka izy noho ny amin' ireo,\""
-    },
-    {
-      "v": 22,
-      "text": "Manao hoe: Aza manendry ny voahosotro, ary aza manisy ratsy ny mpaminaniko."
-    },
-    {
-      "v": 23,
-      "text": "\"Mihirà ho an' i Jehovah, ry tany rehetra; lazao isan' andro isan' andro ny famonjeny.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ambarao any amin' ny jentilisa ny voninahiny; ary any amin' ny firenena rehetra ny asany mahagaga.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Fa lehibe Jehovah ka mendrika hoderaina indrindra; sady mahatahotra ambonin' ny andriamanitra rehetra koa izy.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Fa ny andriamanitra rehetra an' ny firenena dia sampy; fa Jehovah no nanao ny lanitra.\""
-    },
-    {
-      "v": 27,
-      "text": "Famirapiratana sy voninahitra no eo anatrehany, hery sy hafaliana no ao amin' ny fitoerany."
-    },
-    {
-      "v": 28,
-      "text": "Manomeza ho an' i Jehovah, ry fianakaviana amin' ny firenena, manomeza voninahitra sy hery ho an' i Jehovah."
-    },
-    {
-      "v": 29,
-      "text": "\"Manomeza ho an' i Jehovah ny voninahitra sahaza ny anarany; mitondrà fanatitra, ka mankanesa eo anatrehany; miankohofa eo anatrehan' i Jehovah amin' ny hatsaran' ny fahamasinana.\""
-    },
-    {
-      "v": 30,
-      "text": "\"Matahora eo anatrehany, ry tany rehetra; izao rehetra izao koa ho voaorina ka tsy hihetsika.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Aoka ho faly ny lanitra ary ho ravo ny tany; ary aoka holazaina any amin' ny firenena hoe: Jehovah no manjaka.\""
-    },
-    {
-      "v": 32,
-      "text": "\"Aoka hirondrohona ny ranomasina sy izay rehetra ao aminy; aoka ho faly ny saha sy izay rehetra ao aminy.\""
-    },
-    {
-      "v": 33,
-      "text": "Dia hihoby eo anatrehan' i Jehovah ny hazo an' ala, fa avy hitsara ny tany Izy."
-    },
-    {
-      "v": 34,
-      "text": "Misaora an' i Jehovah, fa tsara Izy, fa mandrakizay ny famindrampony."
-    },
-    {
-      "v": 35,
-      "text": "Ary manaova hoe: Vonjeo izahay, ry Andriamanitry ny famonjena anay ô, ary angony izahay, ka vonjeo tsy ho azon' ny jentilisa, mba hisaoranay ny anaranao masina, ka ho reharehanay ny fiderana Anao."
-    },
-    {
-      "v": 36,
-      "text": "Isaorana mandrakizay mandrakizay anie Jehovah, Andriamanitry ny Isiraely. Ary ny olona rehetra nanao hoe: Amena sady nidera an' i Jehovah."
-    },
-    {
-      "v": 37,
-      "text": "\"Koa Asafa sy ny rahalahiny dia navelan' i Davida teo anoloan' ny fiaran' ny faneken' i Jehovah hanao ny asa fanompoana eo mandrakariva araka ny raharaha tokony hatao isan' andro;\""
-    },
-    {
-      "v": 38,
-      "text": "Ary Obed-edoma sy ny rahalahiny valo amby enimpolo sy Obed-edoma zanak' i Jedotana koa ary Hosa ho mpiandry varavarana."
-    },
-    {
-      "v": 39,
-      "text": "Ary Zadoka mpisorona sy ireo mpisorona rahalahiny dia navelany teo anoloan' ny tabernakelin' i Jehovah teo amin' ny fitoerana avo any Gibeona,"
-    },
-    {
-      "v": 40,
-      "text": "Hanolotra fanatitra dorana ho an' i Jehovah marain-tsy hariva eo amin' ny alitara fandoroana ny fanatitra dorana mandrakariva, ary hanao araka izay rehetra voasoratra ao amin' ny lalàn' i Jehovah, izay nandidiany ny Isiraely."
-    },
-    {
-      "v": 41,
-      "text": "Ary niaraka tamin' ireo Hemana sy Jedotona ary ny sisa izay voafidy ka voatonona anarana hisaotra an' i Jehovah, satria maharitra mandrakizay ny famindrampony."
-    },
-    {
-      "v": 42,
-      "text": "Ary niaraka tamin' ireo Hemana sy Jedotona mbamin' ny trompetra sy ny kipantsona ho an' izay tokony hampaneno azy, sy ny zava-manenon' Andriamanitra. Ary ny zanak' i Jedotona no mpiandry varavarana."
-    },
-    {
-      "v": 43,
-      "text": "Ary dia samy nody tany an-tranony avy ny olona rehetra, ary Davida kosa niverina hitsodrano ny ankohonany."
-    }
-  ]
+  "verses": {
+    "1": "Ary nampiditra ny fiaran' Andriamanitra ny olona ka nametraka azy teo afovoan' ny lay izay naorin' i Davida ho azy; ary nanao fanatitra dorana sy fanati-pihavanana teo anatrehan' Andriamanitra izy.",
+    "2": "Ary nony voatitr' i Davida ny fanatitra dorana sy ny fanati-pihavanana dia nitsodrano ny olona tamin' ny anaran' i Jehovah izy.",
+    "3": "Dia nizara mofo iray avy sy hena iray didy ary divay iray tavoara ho an' ny Isiraely rehetra na lahy na vavy izy.",
+    "4": "Ary nanendry ny sasany tamin' ny Levita Davida hanao ny asa fanompoana eo anoloan' ny fiaran' i Jehovah mba hankalaza sy hisaotra ary hidera an' i Jehovah, Andriamanitry ny Isiraely.",
+    "5": "Asafa no lohany, ary Zakaria no manarakaraka, dia Jeiela sy Semiramota sy Jehiela sy Matitia sy Eliaba sy Benaia sy Obed-edoma ary Jeiela no nitendry ny valiha sy ny harpa; fa asafa no nampaneno ny kipantsona;",
+    "6": "Benaia sy Jahaziela mpisorona kosa no mpitsoka ny trompetra mandrakariva eo anoloan' ny fiaran' ny faneken' Andriamanitra.",
+    "7": "Tamin' izay andro izay no voalohany nanoloran' i Davida izao salamo izao ho eo an-tanan' i Asafa sy ny rahalahiny hisaorana an' i Jehovah.",
+    "8": "Miderà an' i Jehovah, miantsoa ny anarany; ampahafantaro ny firenena ny asany.",
+    "9": "Mihirà ho Azy; mihirà salamo ho Azy, lazao ny asany mahagaga rehetra.",
+    "10": "Ataovy ho reharehanareo ny anarany masina; aoka hifaly ny fon' izay mitady an' i Jehovah.",
+    "11": "Mitadiava an' i Jehovah sy ny heriny, katsaho mandrakariva ny tavany.",
+    "12": "Mahatsiarova ny asa mahagaga izay nataony, dia ny fahagagany sy ny fitsaran' ny vavany.",
+    "13": "Ry taranak' Isiraely mpanompony, ianareo taranak' i Jakoba olom-boafidiny.",
+    "14": "Izy no Jehovah Andriamanitsika; manerana ny tany rehetra ny fitsarany.",
+    "15": "Tsarovy mandrakariva ny fanekeny, dia ny teny voadidiny ho an' ny taranaka arivo mandimby;",
+    "16": "Dia ilay fanekena nataony tamin' i Abrahama sy ny fianianany tamin' Isaka.",
+    "17": "Izay naorina ho lalàna ho an' i Jakoba sy ho fanekena mandrakizay ho an' Isiraely,",
+    "18": "Manao hoe: Homeko anao ny tany Kanana ho anjara lovanao.",
+    "19": "Fa fony mbola olom-bitsy ianareo, eny, vitsy sady vahiny tao,",
+    "20": "Ary raha nifindrafindra avy tamin' ny firenena iray ho amin' ny firenena iray sy avy tamin' ny fanjakana iray ho amin' ny firenen-kafa;",
+    "21": "Dia tsy nisy navelany hanisy ratsy azy; eny nananatra mpanjaka izy noho ny amin' ireo,",
+    "22": "Manao hoe: Aza manendry ny voahosotro, ary aza manisy ratsy ny mpaminaniko.",
+    "23": "Mihirà ho an' i Jehovah, ry tany rehetra; lazao isan' andro isan' andro ny famonjeny.",
+    "24": "Ambarao any amin' ny jentilisa ny voninahiny; ary any amin' ny firenena rehetra ny asany mahagaga.",
+    "25": "Fa lehibe Jehovah ka mendrika hoderaina indrindra; sady mahatahotra ambonin' ny andriamanitra rehetra koa izy.",
+    "26": "Fa ny andriamanitra rehetra an' ny firenena dia sampy; fa Jehovah no nanao ny lanitra.",
+    "27": "Famirapiratana sy voninahitra no eo anatrehany, hery sy hafaliana no ao amin' ny fitoerany.",
+    "28": "Manomeza ho an' i Jehovah, ry fianakaviana amin' ny firenena, manomeza voninahitra sy hery ho an' i Jehovah.",
+    "29": "Manomeza ho an' i Jehovah ny voninahitra sahaza ny anarany; mitondrà fanatitra, ka mankanesa eo anatrehany; miankohofa eo anatrehan' i Jehovah amin' ny hatsaran' ny fahamasinana.",
+    "30": "Matahora eo anatrehany, ry tany rehetra; izao rehetra izao koa ho voaorina ka tsy hihetsika.",
+    "31": "Aoka ho faly ny lanitra ary ho ravo ny tany; ary aoka holazaina any amin' ny firenena hoe: Jehovah no manjaka.",
+    "32": "Aoka hirondrohona ny ranomasina sy izay rehetra ao aminy; aoka ho faly ny saha sy izay rehetra ao aminy.",
+    "33": "Dia hihoby eo anatrehan' i Jehovah ny hazo an' ala, fa avy hitsara ny tany Izy.",
+    "34": "Misaora an' i Jehovah, fa tsara Izy, fa mandrakizay ny famindrampony.",
+    "35": "Ary manaova hoe: Vonjeo izahay, ry Andriamanitry ny famonjena anay ô, ary angony izahay, ka vonjeo tsy ho azon' ny jentilisa, mba hisaoranay ny anaranao masina, ka ho reharehanay ny fiderana Anao.",
+    "36": "Isaorana mandrakizay mandrakizay anie Jehovah, Andriamanitry ny Isiraely. Ary ny olona rehetra nanao hoe: Amena sady nidera an' i Jehovah.",
+    "37": "Koa Asafa sy ny rahalahiny dia navelan' i Davida teo anoloan' ny fiaran' ny faneken' i Jehovah hanao ny asa fanompoana eo mandrakariva araka ny raharaha tokony hatao isan' andro;",
+    "38": "Ary Obed-edoma sy ny rahalahiny valo amby enimpolo sy Obed-edoma zanak' i Jedotana koa ary Hosa ho mpiandry varavarana.",
+    "39": "Ary Zadoka mpisorona sy ireo mpisorona rahalahiny dia navelany teo anoloan' ny tabernakelin' i Jehovah teo amin' ny fitoerana avo any Gibeona,",
+    "40": "Hanolotra fanatitra dorana ho an' i Jehovah marain-tsy hariva eo amin' ny alitara fandoroana ny fanatitra dorana mandrakariva, ary hanao araka izay rehetra voasoratra ao amin' ny lalàn' i Jehovah, izay nandidiany ny Isiraely.",
+    "41": "Ary niaraka tamin' ireo Hemana sy Jedotona ary ny sisa izay voafidy ka voatonona anarana hisaotra an' i Jehovah, satria maharitra mandrakizay ny famindrampony.",
+    "42": "Ary niaraka tamin' ireo Hemana sy Jedotona mbamin' ny trompetra sy ny kipantsona ho an' izay tokony hampaneno azy, sy ny zava-manenon' Andriamanitra. Ary ny zanak' i Jedotona no mpiandry varavarana.",
+    "43": "Ary dia samy nody tany an-tranony avy ny olona rehetra, ary Davida kosa niverina hitsodrano ny ankohonany."
+  }
 }

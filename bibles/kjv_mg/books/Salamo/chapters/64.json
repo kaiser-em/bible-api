@@ -1,45 +1,16 @@
 {
+  "book": "Salamo",
   "chapter": 64,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira. Salamo nataon' i Davida.]  HENOY ny feoko, Andriamanitra ô, ao amin' ny fivavahako; arovy ny aiko amin' ny tahotra ny fahavalo.\""
-    },
-    {
-      "v": 2,
-      "text": "Afeno aho tsy ho azon' ny tolo-tsaina miafin' ny ratsy fanahy sy ny fitabataban' ny mpanao heloka,"
-    },
-    {
-      "v": 3,
-      "text": "\"Izay mandranitra ny lelany ho tahaka ny sabatra, ka mikendry handefa ny zana-tsipìkany, dia teny mangidy;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Mba hitifitra mangingina ny mahitsy; mitifitra azy tampoka izy ka tsy matahotra.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Fikiriny ny hevi-dratsiny; mifampitaona hanao fandri-totofana izy ka manao hoe: iza no hahita izany?\""
-    },
-    {
-      "v": 6,
-      "text": "\"Mikaroka faharatsiana izy; manatanteraka ny fikarohany fatratra izy: ny fisainana anatin' ny tsirairay avy amin' izy ireo sy ny fony dia samy lalina.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Nefa, hitifitra azy amin' ny zana-tsipìka Andriamanitra; tampoka no hahavoazany.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ho voasingotry ny lelany ihany izy ka ho potraka; handositra izay rehetra mahita azy.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary hatahotra ny olona rehetra ka hanambara ny asan' Andriamanitra sady handinika tsara ny ataony."
-    },
-    {
-      "v": 10,
-      "text": "\"Hifaly amin' i Jehovah ny marina ka hatoky Azy; ary hifaly tena ny mahitsy fo rehetra.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Salamo nataon' i Davida.]  HENOY ny feoko, Andriamanitra ô, ao amin' ny fivavahako; arovy ny aiko amin' ny tahotra ny fahavalo.",
+    "2": "Afeno aho tsy ho azon' ny tolo-tsaina miafin' ny ratsy fanahy sy ny fitabataban' ny mpanao heloka,",
+    "3": "Izay mandranitra ny lelany ho tahaka ny sabatra, ka mikendry handefa ny zana-tsipìkany, dia teny mangidy;",
+    "4": "Mba hitifitra mangingina ny mahitsy; mitifitra azy tampoka izy ka tsy matahotra.",
+    "5": "Fikiriny ny hevi-dratsiny; mifampitaona hanao fandri-totofana izy ka manao hoe: iza no hahita izany?",
+    "6": "Mikaroka faharatsiana izy; manatanteraka ny fikarohany fatratra izy: ny fisainana anatin' ny tsirairay avy amin' izy ireo sy ny fony dia samy lalina.",
+    "7": "Nefa, hitifitra azy amin' ny zana-tsipìka Andriamanitra; tampoka no hahavoazany.",
+    "8": "Ho voasingotry ny lelany ihany izy ka ho potraka; handositra izay rehetra mahita azy.",
+    "9": "Ary hatahotra ny olona rehetra ka hanambara ny asan' Andriamanitra sady handinika tsara ny ataony.",
+    "10": "Hifaly amin' i Jehovah ny marina ka hatoky Azy; ary hifaly tena ny mahitsy fo rehetra."
+  }
 }

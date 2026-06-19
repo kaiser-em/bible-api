@@ -1,133 +1,38 @@
 {
+  "book": "Lioka",
   "chapter": 15,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary ny mpamory hetra rehetra sy ny mpanota nanatona hihaino an' i Jesosy."
-    },
-    {
-      "v": 2,
-      "text": "Dia nimonomonona ny Fariseo sy ny mpanoradalàna ka nanao hoe: Ity lehilahy ity mandray ny mpanota ka miara-mihinana aminy."
-    },
-    {
-      "v": 3,
-      "text": "Ary nanao izao fanoharana izao taminy Izy hoe:"
-    },
-    {
-      "v": 4,
-      "text": "Iza moa no olona aminareo, izay manana ondry zato, ka very ny anankiray, no tsy mandao ny sivy amby sivifolo any an' efitra, ka mandeha hitady ilay very mandra-pahitany azy?"
-    },
-    {
-      "v": 5,
-      "text": "\"Ary rehefa hitany iny, dia ataony eo an-tsorony, ka dia faly izy;\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary rehefa tonga ao an-trano izy dia mamory ny sakaizany sy ny namany ka manao aminy hoe: Avia hiara-mifaly amiko; fa efa hitako ilay ondriko very.\""
-    },
-    {
-      "v": 7,
-      "text": "Lazaiko aminareo fa hisy fifaliana toy izany any an-danitra ny amin' ny mpanota iray izay mibebaka noho ny amin' ny olona marina sivy amby sivifolo, izay tsy misy tokony hibebahany."
-    },
-    {
-      "v": 8,
-      "text": "Ary iza moa no vehivavy manana farantsakely folo, ka very ny anankiray, no tsy mampirehitra jiro ka mifafa trano sy mitady fatratra mandra-pahitany azy?"
-    },
-    {
-      "v": 9,
-      "text": "\"Ary raha hitany iny, dia miantso sy mamory ny vehivavy sakaizany sy ny namany izy ka manao hoe: Avia hiara-mifaly amiko; fa efa hitako ny farantsakely izay veriko.\""
-    },
-    {
-      "v": 10,
-      "text": "Lazaiko aminareo fa misy fifaliana toy izany eo anatrehan' ny anjelin' Andriamanitra ny amin' ny mpanota iray izay mibebaka."
-    },
-    {
-      "v": 11,
-      "text": "Ary hoy Jesosy: Nisy lehilahy anankiray nanana zanaka mirahalahy."
-    },
-    {
-      "v": 12,
-      "text": "Ary hoy ilay zandriny tamin-drainy: Raiko! omeo ahy ny anjara-fananana tokony ho ahy. Dia nozarainy tamin' izy mirahalahy ny fananany."
-    },
-    {
-      "v": 13,
-      "text": "Ary nony afaka andro vitsivitsy, dia nangonin' ilay zandriny ny fananany rehetra ka lasa nankany an-tany lavitra izy, dia nandany ny fananany tamin' ny fiveloman-dratsy tany."
-    },
-    {
-      "v": 14,
-      "text": "Ary rehefa laniny avokoa ny fananany rehetra, dia nisy mosary mafy tamin' izany tany izany, ka tonga nahantra izy."
-    },
-    {
-      "v": 15,
-      "text": "Dia nandeha izy ka niankina tamin' ny tompon-tany anankiray tamin' izany tany izany, ary dia nirahiny tany an-tsahany hiandry kisoa."
-    },
-    {
-      "v": 16,
-      "text": "Ary satriny hameno ny kibony tamin' ny hodin-javatra fihinan' ny kisoa, fa tsy nisy nanome azy."
-    },
-    {
-      "v": 17,
-      "text": "Ary raha nody ny sainy, dia hoy izy: Indrisy! maro ny olona karamain' ny raiko manan-kanina be dia be, fa izaho kosa maty mosary eto!"
-    },
-    {
-      "v": 18,
-      "text": "Hiainga aho, dia hody any amin' ny raiko ka hanao aminy hoe: Raiko ô, efa nanota tamin' ny lanitra sy teo anatrehanao aho,"
-    },
-    {
-      "v": 19,
-      "text": "Ka tsy mendrika hatao hoe zanakao intsony, fa ataovy tahaka ny anankiray amin' ny mpanompo karamainao aho."
-    },
-    {
-      "v": 20,
-      "text": "Dia niainga izy, ka nankany amin-drainy. Fa raha mbola lavitra izy, dia tazan-drainy, ary onena azy izy ka nihazakazaka, dia namihina ny vozony sady nanoroka azy."
-    },
-    {
-      "v": 21,
-      "text": "Ary ilay zanany nanao taminy hoe: Raiko ô, efa nanota tamin' ny lanitra sy teo anatrehanao aho ka tsy mendrika hatao hoe zanakao intsony."
-    },
-    {
-      "v": 22,
-      "text": "\"Fa ny rainy kosa nanao tamin' ny mpanompony hoe: Alao haingana ny akanjo tsara indrindra ka ampiakanjoy azy; ary asio peratra ny tanany sy kapa ny tongony;\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary ento aty ny zanak' omby nafahy, ka vonoy; ary aoka isika hihinana sy hifaly;\""
-    },
-    {
-      "v": 24,
-      "text": "Fa ity zanako ity efa maty, fa velona indray, ary efa very, fa hita indray. Dia nanomboka nifaly izy."
-    },
-    {
-      "v": 25,
-      "text": "\"Fa tany an-tsaha ny zanany lahimatoa; ary nony nody izy ka mby teo akaiky ny trano, dia nandre zava-maneno sy dihy.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary niantso anankiray tamin' ny mpanompony izy ka nanontany azy izay anton' izany zavatra izany."
-    },
-    {
-      "v": 27,
-      "text": "Ary hoy ilay mpanompony taminy: Tonga ny rahalahinao, ka namono ny zanak' omby nafahy ny rainao, satria efa tafaverina soa aman-tsara ato aminy izy."
-    },
-    {
-      "v": 28,
-      "text": "\"Dia tezitra izy ka tsy nety niditra; ary nivoaka rainy ka nampandroso azy.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Fa namaly izy ka nanao tamin-drainy hoe: Indro, taona maro aho no efa nanompo anao ka tsy mbola nandika ny didinao na dia indray mandeha aza; nefa tsy mbola nomenao na dia zanak' osy iray aza aho mba hifaliako amin' ny sakaizako;\""
-    },
-    {
-      "v": 30,
-      "text": "Fa raha vao tonga kosa io zanakao io, izay efa nandany ny fanananao tamin' ny vehivavy janga, dia namono ho azy ny zanak' omby nafahy ianao."
-    },
-    {
-      "v": 31,
-      "text": "Ary hoy rainy taminy: Anaka, ianao eto amiko mandrakariva, ary anao avokoa izay rehetra ananako."
-    },
-    {
-      "v": 32,
-      "text": "\"Fa mety ny mifaly sy miravoravo; fa ity rahalahinao ity efa maty, fa velona indray, ary efa very fa hita indray.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary ny mpamory hetra rehetra sy ny mpanota nanatona hihaino an' i Jesosy.",
+    "2": "Dia nimonomonona ny Fariseo sy ny mpanoradalàna ka nanao hoe: Ity lehilahy ity mandray ny mpanota ka miara-mihinana aminy.",
+    "3": "Ary nanao izao fanoharana izao taminy Izy hoe:",
+    "4": "Iza moa no olona aminareo, izay manana ondry zato, ka very ny anankiray, no tsy mandao ny sivy amby sivifolo any an' efitra, ka mandeha hitady ilay very mandra-pahitany azy?",
+    "5": "Ary rehefa hitany iny, dia ataony eo an-tsorony, ka dia faly izy;",
+    "6": "Ary rehefa tonga ao an-trano izy dia mamory ny sakaizany sy ny namany ka manao aminy hoe: Avia hiara-mifaly amiko; fa efa hitako ilay ondriko very.",
+    "7": "Lazaiko aminareo fa hisy fifaliana toy izany any an-danitra ny amin' ny mpanota iray izay mibebaka noho ny amin' ny olona marina sivy amby sivifolo, izay tsy misy tokony hibebahany.",
+    "8": "Ary iza moa no vehivavy manana farantsakely folo, ka very ny anankiray, no tsy mampirehitra jiro ka mifafa trano sy mitady fatratra mandra-pahitany azy?",
+    "9": "Ary raha hitany iny, dia miantso sy mamory ny vehivavy sakaizany sy ny namany izy ka manao hoe: Avia hiara-mifaly amiko; fa efa hitako ny farantsakely izay veriko.",
+    "10": "Lazaiko aminareo fa misy fifaliana toy izany eo anatrehan' ny anjelin' Andriamanitra ny amin' ny mpanota iray izay mibebaka.",
+    "11": "Ary hoy Jesosy: Nisy lehilahy anankiray nanana zanaka mirahalahy.",
+    "12": "Ary hoy ilay zandriny tamin-drainy: Raiko! omeo ahy ny anjara-fananana tokony ho ahy. Dia nozarainy tamin' izy mirahalahy ny fananany.",
+    "13": "Ary nony afaka andro vitsivitsy, dia nangonin' ilay zandriny ny fananany rehetra ka lasa nankany an-tany lavitra izy, dia nandany ny fananany tamin' ny fiveloman-dratsy tany.",
+    "14": "Ary rehefa laniny avokoa ny fananany rehetra, dia nisy mosary mafy tamin' izany tany izany, ka tonga nahantra izy.",
+    "15": "Dia nandeha izy ka niankina tamin' ny tompon-tany anankiray tamin' izany tany izany, ary dia nirahiny tany an-tsahany hiandry kisoa.",
+    "16": "Ary satriny hameno ny kibony tamin' ny hodin-javatra fihinan' ny kisoa, fa tsy nisy nanome azy.",
+    "17": "Ary raha nody ny sainy, dia hoy izy: Indrisy! maro ny olona karamain' ny raiko manan-kanina be dia be, fa izaho kosa maty mosary eto!",
+    "18": "Hiainga aho, dia hody any amin' ny raiko ka hanao aminy hoe: Raiko ô, efa nanota tamin' ny lanitra sy teo anatrehanao aho,",
+    "19": "Ka tsy mendrika hatao hoe zanakao intsony, fa ataovy tahaka ny anankiray amin' ny mpanompo karamainao aho.",
+    "20": "Dia niainga izy, ka nankany amin-drainy. Fa raha mbola lavitra izy, dia tazan-drainy, ary onena azy izy ka nihazakazaka, dia namihina ny vozony sady nanoroka azy.",
+    "21": "Ary ilay zanany nanao taminy hoe: Raiko ô, efa nanota tamin' ny lanitra sy teo anatrehanao aho ka tsy mendrika hatao hoe zanakao intsony.",
+    "22": "Fa ny rainy kosa nanao tamin' ny mpanompony hoe: Alao haingana ny akanjo tsara indrindra ka ampiakanjoy azy; ary asio peratra ny tanany sy kapa ny tongony;",
+    "23": "Ary ento aty ny zanak' omby nafahy, ka vonoy; ary aoka isika hihinana sy hifaly;",
+    "24": "Fa ity zanako ity efa maty, fa velona indray, ary efa very, fa hita indray. Dia nanomboka nifaly izy.",
+    "25": "Fa tany an-tsaha ny zanany lahimatoa; ary nony nody izy ka mby teo akaiky ny trano, dia nandre zava-maneno sy dihy.",
+    "26": "Ary niantso anankiray tamin' ny mpanompony izy ka nanontany azy izay anton' izany zavatra izany.",
+    "27": "Ary hoy ilay mpanompony taminy: Tonga ny rahalahinao, ka namono ny zanak' omby nafahy ny rainao, satria efa tafaverina soa aman-tsara ato aminy izy.",
+    "28": "Dia tezitra izy ka tsy nety niditra; ary nivoaka rainy ka nampandroso azy.",
+    "29": "Fa namaly izy ka nanao tamin-drainy hoe: Indro, taona maro aho no efa nanompo anao ka tsy mbola nandika ny didinao na dia indray mandeha aza; nefa tsy mbola nomenao na dia zanak' osy iray aza aho mba hifaliako amin' ny sakaizako;",
+    "30": "Fa raha vao tonga kosa io zanakao io, izay efa nandany ny fanananao tamin' ny vehivavy janga, dia namono ho azy ny zanak' omby nafahy ianao.",
+    "31": "Ary hoy rainy taminy: Anaka, ianao eto amiko mandrakariva, ary anao avokoa izay rehetra ananako.",
+    "32": "Fa mety ny mifaly sy miravoravo; fa ity rahalahinao ity efa maty, fa velona indray, ary efa very fa hita indray."
+  }
 }

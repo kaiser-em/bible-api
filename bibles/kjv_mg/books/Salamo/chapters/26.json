@@ -1,53 +1,18 @@
 {
+  "book": "Salamo",
   "chapter": 26,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Salamo nataon' i Davida.]  TSARAO aho, Jehovah ô, fa nandeha tamin' ny tsy fananako tsiny aho; Jehovah koa no nitokiako, ka tsy hibolisatra aho.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Diniho aho, Jehovah ô, ka fantaro; izahao toetra ny voako sy ny foko.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Fa ny indrafonao no teo anoloan' ny masoko; ary nandeha tamin' ny fahamarinanao aho.\""
-    },
-    {
-      "v": 4,
-      "text": "Tsy mba niara-nipetraka tamin' ny olom-poana aho, na hiara-mandeha amin' ny olom-petsy."
-    },
-    {
-      "v": 5,
-      "text": "\"Halako ny fiangonan' ny mpanao ratsy; ary tsy hiara-mipetraka amin' ny ratsy fanahy aho.\""
-    },
-    {
-      "v": 6,
-      "text": "Hanasa ny tanako noho ny fahamarinako aho, ka hanodidina ny alitaranao aho, Jehovah ô,"
-    },
-    {
-      "v": 7,
-      "text": "Mba hanambara amin' ny feo fiderana ka hilaza ny asanao mahagaga rehetra."
-    },
-    {
-      "v": 8,
-      "text": "Jehovah ô, tiako ny trano itoeranao, dia ny toerana onenan' ny voninahitrao."
-    },
-    {
-      "v": 9,
-      "text": "Aza manangona ny fanahiko hiara-maty amin' ny mpanota, na ny aiko amin' ny mpandatsa-dra,"
-    },
-    {
-      "v": 10,
-      "text": "Izay misy fitaka eny an-tanany, ary feno kolikoly ny tanany ankavanana."
-    },
-    {
-      "v": 11,
-      "text": "\"Fa izaho kosa dia handeha amin' ny tsy fananako tsiny; avoty aho ary mamindrà fo amiko.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ny tongotro mijoro eo amin' ny tany marina; eo am-piangonana no isaorako an' i Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida.]  TSARAO aho, Jehovah ô, fa nandeha tamin' ny tsy fananako tsiny aho; Jehovah koa no nitokiako, ka tsy hibolisatra aho.",
+    "2": "Diniho aho, Jehovah ô, ka fantaro; izahao toetra ny voako sy ny foko.",
+    "3": "Fa ny indrafonao no teo anoloan' ny masoko; ary nandeha tamin' ny fahamarinanao aho.",
+    "4": "Tsy mba niara-nipetraka tamin' ny olom-poana aho, na hiara-mandeha amin' ny olom-petsy.",
+    "5": "Halako ny fiangonan' ny mpanao ratsy; ary tsy hiara-mipetraka amin' ny ratsy fanahy aho.",
+    "6": "Hanasa ny tanako noho ny fahamarinako aho, ka hanodidina ny alitaranao aho, Jehovah ô,",
+    "7": "Mba hanambara amin' ny feo fiderana ka hilaza ny asanao mahagaga rehetra.",
+    "8": "Jehovah ô, tiako ny trano itoeranao, dia ny toerana onenan' ny voninahitrao.",
+    "9": "Aza manangona ny fanahiko hiara-maty amin' ny mpanota, na ny aiko amin' ny mpandatsa-dra,",
+    "10": "Izay misy fitaka eny an-tanany, ary feno kolikoly ny tanany ankavanana.",
+    "11": "Fa izaho kosa dia handeha amin' ny tsy fananako tsiny; avoty aho ary mamindrà fo amiko.",
+    "12": "Ny tongotro mijoro eo amin' ny tany marina; eo am-piangonana no isaorako an' i Jehovah."
+  }
 }

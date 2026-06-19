@@ -1,277 +1,74 @@
 {
+  "book": "Deotornomia",
   "chapter": 28,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary izao no hiseho, raha hihaino tsara ny feon' i Jehovah Andriamanitrao ianao, ka mitandrina sy manaraka ny didiny rehetra izay andidiako anao anio, dia hasandratr' i Jehovah Andriamanitrao ho ambonin' ny firenena rehetra amin' ny tany ianao;\""
-    },
-    {
-      "v": 2,
-      "text": "Ary ho tonga aminao sy hahatratra anao izao fitahiana rehetra izao, raha hihaino ny feon' i Jehovah Andriamanitrao ianao:"
-    },
-    {
-      "v": 3,
-      "text": "Hotahiana ianao ao an-tanàna, ary hotahiana ianao any an-tsaha."
-    },
-    {
-      "v": 4,
-      "text": "Hotahiana ny ateraky ny kibonao sy ny vokatry ny taninao ary ny ateraky ny biby fiompinao, ny ateraky ny ombinao sy ny andian' ondrinao."
-    },
-    {
-      "v": 5,
-      "text": "Hotahiana ny haronao sy ny trano fitahirizanao."
-    },
-    {
-      "v": 6,
-      "text": "\"Hotahiana ianao raha miditra; ary hotahiana ianao, raha mivoaka.\""
-    },
-    {
-      "v": 7,
-      "text": "Hatolotr' i Jehovah ho resy eo anoloanao ny fahavalonao, izay mitsangana hiady aminao, ka lalana iray no hivoahany hanatona anao, fa lalana fito kosa no handosirany hiala eo anoloanao."
-    },
-    {
-      "v": 8,
-      "text": "Handidy ny fitahiany ho aminao Jehovah amin' ny fitahirizam-bokatrao sy izay rehetra ataon' ny tananao, ka hitahy anao Izy any amin' ny tany izay omen' i Jehovah Andriamanitrao anao."
-    },
-    {
-      "v": 9,
-      "text": "Hanangana anao ho firenena masina ho Azy Jehovah, araka izay nianianany taminao, raha hitandrina ny didin' i Jehovah Andriamanitrao ianao ka mandeha amin' ny lalany."
-    },
-    {
-      "v": 10,
-      "text": "\"Dia ho hitan' ny firenena rehetra ambonin' ny tany fa antsoina amin' ny anaran' i Jehovah ianao; dia hatahotra anao izy.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary hataon' i Jehovah maro ny fanananao, dia ny ateraky ny kibonao sy ny ateraky ny biby fiompinao ary ny vokatry ny taninao any amin' ny tany izay nianianan' i Jehovah tamin' ny razanao homena anao."
-    },
-    {
-      "v": 12,
-      "text": "\"Hovohan' i Jehovah ho anao ny lanitra, tranony fitahirizan-tsoa, handatsahany ranonorana amin' ny taninao amin' ny fotoany sy hitahiany ny asan' ny tananao rehetra; ary hampisambotra ny firenena maro ianao, fa ianao kosa tsy hisambotra.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Dia hataon' i Jehovah ho lohany ianao fa tsy ho rambony; ary ho ambony hatrany ianao, fa tsy ho ambany, raha mihaino ny didin' i Jehovah Andriamanitrao, izay andidiako anao anio, ka mitandrina hanatanteraka izany.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary aza miala amin' ny teny rehetra izay andidiako anao anio, na ho amin' ny ankavanana, na ho amin' ny ankavia, hanaraka andriamani-kafa ka hanompo azy."
-    },
-    {
-      "v": 15,
-      "text": "Fa izao no hiseho, raha tsy hihaino ny feon' i Jehovah Andriamanitrao kosa ianao, ka tsy mitandrina hanatanteraka ny didiny rehetra sy ny lalàny, izay andidiako anao anio, dia ho tonga aminao sy hahatratra anao izao fanozonana rehetra izao:"
-    },
-    {
-      "v": 16,
-      "text": "Hozonina ianao ao an-tanàna, ary hozonina ianao any an-tsaha."
-    },
-    {
-      "v": 17,
-      "text": "Hozonina ny haronao sy ny trano fitahirizanao."
-    },
-    {
-      "v": 18,
-      "text": "Hozonina ny ateraky ny kibonao sy ny vokatry ny taninao ary ny ateraky ny ombinao sy ny andian' ondrinao."
-    },
-    {
-      "v": 19,
-      "text": "\"Hozonina ianao raha miditra; ary hozonina ianao raha mivoaka.\""
-    },
-    {
-      "v": 20,
-      "text": "Hampandehanin' i Jehovah aminao ny ozona, ny fahasorenana ary ny tsiny amin' izay rehetra ataon' ny tananao, mandra-paharinganao sy mandra-pahalaninao faingana noho ny faharatsian' ny nataonao tamin' ny nahafoizanao Ahy."
-    },
-    {
-      "v": 21,
-      "text": "Hampiraiketin' i Jehovah aminao ny areti-mandringana, mandra-pandaniny anao tsy ho eo amin' ny tany izay alehanao ka ho azonao."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary areti-mahasahozanina sy tazo sy fahamaizana sy hafanana mangotraka sy sabatra ary voa maty fotsy sy lomotra amin' ny voan-javatra no hamelezan' i Jehovah anao; dia hanenjika anao ireny mandra-pahalany ritranao.\""
-    },
-    {
-      "v": 23,
-      "text": "Ary ho varahina ny lanitra eo ambonin' ny lohanao ary ho vy ny tany eo ambaninao."
-    },
-    {
-      "v": 24,
-      "text": "\"Hataon' i Jehovah ho vovoka sy jofo ny ranonorana amin' ny taninao; avy any an-danitra no hidinan' izany aminao mandra-paharinganao.\""
-    },
-    {
-      "v": 25,
-      "text": "Avelan' i Jehovah hasian' ny fahavalonao ianao, ka lalana iray no hivoahanao hiady aminy, fa lalana fito kosa no handosiranao hiala eo anoloany, dia hifindrafindra amin' ny fanjakana rehetra eto an-tany ianao."
-    },
-    {
-      "v": 26,
-      "text": "Ary ny fatinao hohanin' ny voro-manidina rehetra eny amin' ny habakabaka sy ny biby dia amin' ny tany, ka tsy hisy hanaitaitra azy."
-    },
-    {
-      "v": 27,
-      "text": "\"Hamelezan' i Jehovah anao ny vain' i Egypta sy ny kitso sy ny hatina ary ny hidihidy izay tsy azom-panafana;\""
-    },
-    {
-      "v": 28,
-      "text": "Ary hamelezan' i Jehovah anao ny fahadalana sy ny fahajambana ary ny fahatalanjonan' ny fo."
-    },
-    {
-      "v": 29,
-      "text": "Dia hitsapatsapa ianao amin' ny mitataovovonana tahaka ny fitsapatsapan' ny jamba ao amin' ny haizim-pito ka tsy hambinina amin' ny lalanao ianao, dia hampahoriana sy hobaboina mandrakariva ianao ka tsy hisy hamonjy anao."
-    },
-    {
-      "v": 30,
-      "text": "\"Hifofo vady ianao, fa olon-kafa no handry aminy; hanao trano ianao, fa tsy hitoetra ao; hamboly tanimboaloboka ianao, fa tsy hihinana ny vokatra.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Ny ombinao hovonoina eo imasonao fa tsy hihinana ny henany ianao. Ny borikinao halaina an-keriny eo anatrehanao ka tsy haverina aminao; ny ondrinao homena ny fahavalonao ka tsy hanan-kamonjy ireny ianao.\""
-    },
-    {
-      "v": 32,
-      "text": "Ny zanakao lahy sy ny zanakao vavy dia homena ho an' ny firenena hafa, ary hijery ny masonao ka ho pahina manontolo andro noho ny alahelonao azy, nefa tsy hahefa na inona na inona ny tananao."
-    },
-    {
-      "v": 33,
-      "text": "\"Ny vokatry ny taninao sy izay rehetra efa nisasaranao dia hohanin' ny firenena izay tsy fantatrao; ary hanaovan' ny sasany an-keriny sy hotorotoroiny mandrakariva ianao.\""
-    },
-    {
-      "v": 34,
-      "text": "Dia ho very saina ianao noho ny zavatra izay ho hitan' ny masonao."
-    },
-    {
-      "v": 35,
-      "text": "Hamelezan' i Jehovah anao ny vay ratsy, izay tsy azom-panafana, dia amin' ny lohalikao sy ny tongotrao, hatramin' ny faladianao ka hatramin' ny tampon-dohanao."
-    },
-    {
-      "v": 36,
-      "text": "\"Hoentin' i Jehovah ho any amin' ny firenena izay tsy fantatrao, na ny razanao ianao sy ny mpanjakanao, izay hatsanganao hanjaka aminao; ary any no hanompoanao andriamani-kafa, dia vato aman-kazo.\""
-    },
-    {
-      "v": 37,
-      "text": "Dia ho figagana sy ho ohabolana ary ho ambentinteny ianao any amin' ny firenena rehetra izay hitondran' i Jehovah anao."
-    },
-    {
-      "v": 38,
-      "text": "Voan-javatra betsaka no ho entinao hambolena any an-tsaha, fa kely kosa no hangoninao, satria ho lanin' ny valala ireny."
-    },
-    {
-      "v": 39,
-      "text": "Hamboly tanimboaloboka ianao ka hiasa azy, nefa tsy hisotro divay na hioty voaloboka ianao, satria ho lanin' ny fositra ireny."
-    },
-    {
-      "v": 40,
-      "text": "\"Hanana hazo oliva amin' ny taninao rehetra ianao, nefa tsy hihosotra diloilo; fa hihintsana ny olivanao.\""
-    },
-    {
-      "v": 41,
-      "text": "Hiteraka zazalahy sy zazavavy ianao nefa tsy hifaly amin' ireny ianao, fa ho lasan-ko babo izy."
-    },
-    {
-      "v": 42,
-      "text": "Ny hazonao sy ny vokatry ny taninao rehetra dia ho lanin' ny valala."
-    },
-    {
-      "v": 43,
-      "text": "Ny vahiny eo aminao hisandratra ho ambony dia ambony noho ianao, fa ianao kosa hietry ho ambany dia ambany."
-    },
-    {
-      "v": 44,
-      "text": "\"Izy hampisambotra anao fa ianao kosa tsy hampisambotra azy; izy ho lohany fa ianao kosa ho rambony.\""
-    },
-    {
-      "v": 45,
-      "text": "\"Ary koa ho tonga aminao ireo ozona rehetra ireo ka hanenjika anao sy hahatratra anao mandra-paharinganao, satria tsy nihaino ny feon' i Jehovah Andriamanitrao ianao, hitandremanao ny didiny sy ny lalàny, izay nandidiany anao;\""
-    },
-    {
-      "v": 46,
-      "text": "Ary ho famantarana sy ho fahagagana aminao sy ny taranakao mandrakizay ireny,"
-    },
-    {
-      "v": 47,
-      "text": "Satria tsy nanompo an' i Jehovah Andriamanitrao tamin' ny fifaliana sy ny faharavoam-po ianao noho ny fahabetsahan' ny zavatra rehetra."
-    },
-    {
-      "v": 48,
-      "text": "\"Ary amin' ny fahanoanana sy ny hetaheta sy ny fitanjahana ary ny tsy fananana na inona na inona no hanompoanao ny fahavalonao izay hampandehanin' i Jehovah hiady aminao; dia hanisy zioga vy amin' ny vozonao ireny mandra-pandringany anao.\""
-    },
-    {
-      "v": 49,
-      "text": "Hoentin' i Jehovah hiady aminao izay firenena avy lavitra, dia ny avy amin' ny faran' ny tany, tahaka ny fanidin' ny voromahery ny fiaviny, sady firenena izay tsy ho fantatrao ny fiteniny,"
-    },
-    {
-      "v": 50,
-      "text": "Firenena masiaka endrika, izay tsy hanaja ny antitra, na hiantra ny tanora:"
-    },
-    {
-      "v": 51,
-      "text": "\"Dia hohaniny ny ateraky ny ombinao sy ny vokatry ny taninao mandra-paharinganao; ka tsy hisy avelany ho anao koa na varimbazaha, na divay, na diloilo, na ny ateraky ny ombinao, na ny andian' ondrinao mandra-pandringany anao.\""
-    },
-    {
-      "v": 52,
-      "text": "\"Dia hataony fahirano eny am-bavahadinao rehetra ianao mandra-pandravany ny mandanao avo sy mafy, izay itokianao manerana ny taninao rehetra; ary hataony fahirano ianao eny am-bavahadinao rehetra manerana ny taninao rehetra, izay nomen' i Jehovah Andriamanitrao anao.\""
-    },
-    {
-      "v": 53,
-      "text": "\"Ary eo amin' ny fahirano sy ny fanerena izay hampahorian' ny fahavalonao anao, dia ny ateraky ny kibonao no hohaninao, dia ny nofon' ny zanakao lahy sy ny zanakao vavy, izay nomen' i Jehovah anao;\""
-    },
-    {
-      "v": 54,
-      "text": "\"Koa ny lehilahy malemilemy sy mihantahanta indrindra eo aminao dia ho ratsy fijery ny rahalahiny sy ny vadiny andefimandry ary ny zanany sisa izay navelany;\""
-    },
-    {
-      "v": 55,
-      "text": "Ka tsy hisy amin' ireo hanomezany ny nofon' ny zanany izay haniny fandrao tsy hisy ho azy amin' ny fahirano sy ny fanerena, izay hampahorian' ny fahavalonao anao any am-bavahadinao rehetra."
-    },
-    {
-      "v": 56,
-      "text": "Ny vehivavy malemilemy sy mihantahanta eo aminao, izay tsy mbola nanandrana nandia tany noho ny fihantahantany sy ny fahalemileminy, dia ho ratsy fijery ny vadiny andefimandry sy ny zanany lahy ary ny zanany vavy,"
-    },
-    {
-      "v": 57,
-      "text": "\"Noho ny ahitra izay mivoaka avy aminy sy ny zanany vao teraka; fa hihinana izany mangingina izy noho ny tsy fisian-javatra amin' ny fahirano sy ny fanerena, izay hampahorian' ny fahavalonao anao any am-bavahadinao.\""
-    },
-    {
-      "v": 58,
-      "text": "\"Raha tsy hotandremanao ny hanaraka ny teny rehetra amin' ity lalàna ity, izay voasoratra eto amin' ity boky ity, hatahoranao izao anarana ankalazaina sy mahatahotra izao hoe: Jehovah Andriamanitrao ;\""
-    },
-    {
-      "v": 59,
-      "text": "Dia hataon' i Jehovah mahagaga ny loza hataony aminao sy ny loza amin' ny taranakao, dia fahoriana mafy sady maharitra ela, ary aretina mafy sady maharitra ela."
-    },
-    {
-      "v": 60,
-      "text": "Ary koa haveriny aminao ny aretin' i Egypta rehetra, izay natahoranao, ka hiraikitra aminao ireny."
-    },
-    {
-      "v": 61,
-      "text": "Ary ny aretina rehetra sy ny loza rehetra koa izay tsy voasoratra amin' ny bokin' ity lalàna ity, dia hoentin' i Jehovah aminao mandra-paharinganao."
-    },
-    {
-      "v": 62,
-      "text": "Ary olona vitsy no ho sisa aminareo hisolo izao fahamaroanareo toy ny kintana eny amin' ny lanitra izao, satria tsy nankatò ny feon' i Jehovah Andriamanitrao ianao."
-    },
-    {
-      "v": 63,
-      "text": "\"Ary izao no hiseho, araka izay nifalian' i Jehovah taminareo hahasoa sy hahamaro anareo, dia araka izany koa no hifalian' i Jehovah handringana sy handrava anareo; dia hofongorana ianareo tsy ho eo amin' ny tany izay alehanao ho azonao.\""
-    },
-    {
-      "v": 64,
-      "text": "\"Dia haelin' i Jehovah any amin' ny firenena rehetra hatramin' ny faran' ny tany ianao; ary any no hanompoanao andriamani-kafa vato aman-kazo, izay tsy fantatrao, na ny razanao.\""
-    },
-    {
-      "v": 65,
-      "text": "\"Ary any amin' ireo firenena ireo dia tsy hisy hiainanao, na hitsaharan' ny faladianao; fa any no hanomezan' i Jehovah anao fo miemponempona sy maso pahina ary fahorian-tsaina;\""
-    },
-    {
-      "v": 66,
-      "text": "\"Ary ny ainao hihevingevina amim-pisalasalana eo anatrehanao; dia hatahotra andro aman' alina ianao ka tsy hanana antoka ny amin' ny fiainanao.\""
-    },
-    {
-      "v": 67,
-      "text": "Nony maraina ny andro, dia hanao hoe ianao: Malakia hariva! ary nony hariva ny andro, dia hanao hoe ianao: Malakia maraina! noho ny tahotry ny fonao izay hatahoranao sy noho ny zavatra izay ho hitan' ny masonao."
-    },
-    {
-      "v": 68,
-      "text": "\"Ary ianao hoentin' i Jehovah an-tsambo hiverina any Egypta indray amin' ilay lalana efa nolazaiko taminao hoe: tsy hahita izany intsony ianao; dia hivaro-tena ho andevolahy sy ho andevovavy any amin' ny fahavalonareo ianareo, nefa tsy hisy hividy anareo.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no hiseho, raha hihaino tsara ny feon' i Jehovah Andriamanitrao ianao, ka mitandrina sy manaraka ny didiny rehetra izay andidiako anao anio, dia hasandratr' i Jehovah Andriamanitrao ho ambonin' ny firenena rehetra amin' ny tany ianao;",
+    "2": "Ary ho tonga aminao sy hahatratra anao izao fitahiana rehetra izao, raha hihaino ny feon' i Jehovah Andriamanitrao ianao:",
+    "3": "Hotahiana ianao ao an-tanàna, ary hotahiana ianao any an-tsaha.",
+    "4": "Hotahiana ny ateraky ny kibonao sy ny vokatry ny taninao ary ny ateraky ny biby fiompinao, ny ateraky ny ombinao sy ny andian' ondrinao.",
+    "5": "Hotahiana ny haronao sy ny trano fitahirizanao.",
+    "6": "Hotahiana ianao raha miditra; ary hotahiana ianao, raha mivoaka.",
+    "7": "Hatolotr' i Jehovah ho resy eo anoloanao ny fahavalonao, izay mitsangana hiady aminao, ka lalana iray no hivoahany hanatona anao, fa lalana fito kosa no handosirany hiala eo anoloanao.",
+    "8": "Handidy ny fitahiany ho aminao Jehovah amin' ny fitahirizam-bokatrao sy izay rehetra ataon' ny tananao, ka hitahy anao Izy any amin' ny tany izay omen' i Jehovah Andriamanitrao anao.",
+    "9": "Hanangana anao ho firenena masina ho Azy Jehovah, araka izay nianianany taminao, raha hitandrina ny didin' i Jehovah Andriamanitrao ianao ka mandeha amin' ny lalany.",
+    "10": "Dia ho hitan' ny firenena rehetra ambonin' ny tany fa antsoina amin' ny anaran' i Jehovah ianao; dia hatahotra anao izy.",
+    "11": "Ary hataon' i Jehovah maro ny fanananao, dia ny ateraky ny kibonao sy ny ateraky ny biby fiompinao ary ny vokatry ny taninao any amin' ny tany izay nianianan' i Jehovah tamin' ny razanao homena anao.",
+    "12": "Hovohan' i Jehovah ho anao ny lanitra, tranony fitahirizan-tsoa, handatsahany ranonorana amin' ny taninao amin' ny fotoany sy hitahiany ny asan' ny tananao rehetra; ary hampisambotra ny firenena maro ianao, fa ianao kosa tsy hisambotra.",
+    "13": "Dia hataon' i Jehovah ho lohany ianao fa tsy ho rambony; ary ho ambony hatrany ianao, fa tsy ho ambany, raha mihaino ny didin' i Jehovah Andriamanitrao, izay andidiako anao anio, ka mitandrina hanatanteraka izany.",
+    "14": "Ary aza miala amin' ny teny rehetra izay andidiako anao anio, na ho amin' ny ankavanana, na ho amin' ny ankavia, hanaraka andriamani-kafa ka hanompo azy.",
+    "15": "Fa izao no hiseho, raha tsy hihaino ny feon' i Jehovah Andriamanitrao kosa ianao, ka tsy mitandrina hanatanteraka ny didiny rehetra sy ny lalàny, izay andidiako anao anio, dia ho tonga aminao sy hahatratra anao izao fanozonana rehetra izao:",
+    "16": "Hozonina ianao ao an-tanàna, ary hozonina ianao any an-tsaha.",
+    "17": "Hozonina ny haronao sy ny trano fitahirizanao.",
+    "18": "Hozonina ny ateraky ny kibonao sy ny vokatry ny taninao ary ny ateraky ny ombinao sy ny andian' ondrinao.",
+    "19": "Hozonina ianao raha miditra; ary hozonina ianao raha mivoaka.",
+    "20": "Hampandehanin' i Jehovah aminao ny ozona, ny fahasorenana ary ny tsiny amin' izay rehetra ataon' ny tananao, mandra-paharinganao sy mandra-pahalaninao faingana noho ny faharatsian' ny nataonao tamin' ny nahafoizanao Ahy.",
+    "21": "Hampiraiketin' i Jehovah aminao ny areti-mandringana, mandra-pandaniny anao tsy ho eo amin' ny tany izay alehanao ka ho azonao.",
+    "22": "Ary areti-mahasahozanina sy tazo sy fahamaizana sy hafanana mangotraka sy sabatra ary voa maty fotsy sy lomotra amin' ny voan-javatra no hamelezan' i Jehovah anao; dia hanenjika anao ireny mandra-pahalany ritranao.",
+    "23": "Ary ho varahina ny lanitra eo ambonin' ny lohanao ary ho vy ny tany eo ambaninao.",
+    "24": "Hataon' i Jehovah ho vovoka sy jofo ny ranonorana amin' ny taninao; avy any an-danitra no hidinan' izany aminao mandra-paharinganao.",
+    "25": "Avelan' i Jehovah hasian' ny fahavalonao ianao, ka lalana iray no hivoahanao hiady aminy, fa lalana fito kosa no handosiranao hiala eo anoloany, dia hifindrafindra amin' ny fanjakana rehetra eto an-tany ianao.",
+    "26": "Ary ny fatinao hohanin' ny voro-manidina rehetra eny amin' ny habakabaka sy ny biby dia amin' ny tany, ka tsy hisy hanaitaitra azy.",
+    "27": "Hamelezan' i Jehovah anao ny vain' i Egypta sy ny kitso sy ny hatina ary ny hidihidy izay tsy azom-panafana;",
+    "28": "Ary hamelezan' i Jehovah anao ny fahadalana sy ny fahajambana ary ny fahatalanjonan' ny fo.",
+    "29": "Dia hitsapatsapa ianao amin' ny mitataovovonana tahaka ny fitsapatsapan' ny jamba ao amin' ny haizim-pito ka tsy hambinina amin' ny lalanao ianao, dia hampahoriana sy hobaboina mandrakariva ianao ka tsy hisy hamonjy anao.",
+    "30": "Hifofo vady ianao, fa olon-kafa no handry aminy; hanao trano ianao, fa tsy hitoetra ao; hamboly tanimboaloboka ianao, fa tsy hihinana ny vokatra.",
+    "31": "Ny ombinao hovonoina eo imasonao fa tsy hihinana ny henany ianao. Ny borikinao halaina an-keriny eo anatrehanao ka tsy haverina aminao; ny ondrinao homena ny fahavalonao ka tsy hanan-kamonjy ireny ianao.",
+    "32": "Ny zanakao lahy sy ny zanakao vavy dia homena ho an' ny firenena hafa, ary hijery ny masonao ka ho pahina manontolo andro noho ny alahelonao azy, nefa tsy hahefa na inona na inona ny tananao.",
+    "33": "Ny vokatry ny taninao sy izay rehetra efa nisasaranao dia hohanin' ny firenena izay tsy fantatrao; ary hanaovan' ny sasany an-keriny sy hotorotoroiny mandrakariva ianao.",
+    "34": "Dia ho very saina ianao noho ny zavatra izay ho hitan' ny masonao.",
+    "35": "Hamelezan' i Jehovah anao ny vay ratsy, izay tsy azom-panafana, dia amin' ny lohalikao sy ny tongotrao, hatramin' ny faladianao ka hatramin' ny tampon-dohanao.",
+    "36": "Hoentin' i Jehovah ho any amin' ny firenena izay tsy fantatrao, na ny razanao ianao sy ny mpanjakanao, izay hatsanganao hanjaka aminao; ary any no hanompoanao andriamani-kafa, dia vato aman-kazo.",
+    "37": "Dia ho figagana sy ho ohabolana ary ho ambentinteny ianao any amin' ny firenena rehetra izay hitondran' i Jehovah anao.",
+    "38": "Voan-javatra betsaka no ho entinao hambolena any an-tsaha, fa kely kosa no hangoninao, satria ho lanin' ny valala ireny.",
+    "39": "Hamboly tanimboaloboka ianao ka hiasa azy, nefa tsy hisotro divay na hioty voaloboka ianao, satria ho lanin' ny fositra ireny.",
+    "40": "Hanana hazo oliva amin' ny taninao rehetra ianao, nefa tsy hihosotra diloilo; fa hihintsana ny olivanao.",
+    "41": "Hiteraka zazalahy sy zazavavy ianao nefa tsy hifaly amin' ireny ianao, fa ho lasan-ko babo izy.",
+    "42": "Ny hazonao sy ny vokatry ny taninao rehetra dia ho lanin' ny valala.",
+    "43": "Ny vahiny eo aminao hisandratra ho ambony dia ambony noho ianao, fa ianao kosa hietry ho ambany dia ambany.",
+    "44": "Izy hampisambotra anao fa ianao kosa tsy hampisambotra azy; izy ho lohany fa ianao kosa ho rambony.",
+    "45": "Ary koa ho tonga aminao ireo ozona rehetra ireo ka hanenjika anao sy hahatratra anao mandra-paharinganao, satria tsy nihaino ny feon' i Jehovah Andriamanitrao ianao, hitandremanao ny didiny sy ny lalàny, izay nandidiany anao;",
+    "46": "Ary ho famantarana sy ho fahagagana aminao sy ny taranakao mandrakizay ireny,",
+    "47": "Satria tsy nanompo an' i Jehovah Andriamanitrao tamin' ny fifaliana sy ny faharavoam-po ianao noho ny fahabetsahan' ny zavatra rehetra.",
+    "48": "Ary amin' ny fahanoanana sy ny hetaheta sy ny fitanjahana ary ny tsy fananana na inona na inona no hanompoanao ny fahavalonao izay hampandehanin' i Jehovah hiady aminao; dia hanisy zioga vy amin' ny vozonao ireny mandra-pandringany anao.",
+    "49": "Hoentin' i Jehovah hiady aminao izay firenena avy lavitra, dia ny avy amin' ny faran' ny tany, tahaka ny fanidin' ny voromahery ny fiaviny, sady firenena izay tsy ho fantatrao ny fiteniny,",
+    "50": "Firenena masiaka endrika, izay tsy hanaja ny antitra, na hiantra ny tanora:",
+    "51": "Dia hohaniny ny ateraky ny ombinao sy ny vokatry ny taninao mandra-paharinganao; ka tsy hisy avelany ho anao koa na varimbazaha, na divay, na diloilo, na ny ateraky ny ombinao, na ny andian' ondrinao mandra-pandringany anao.",
+    "52": "Dia hataony fahirano eny am-bavahadinao rehetra ianao mandra-pandravany ny mandanao avo sy mafy, izay itokianao manerana ny taninao rehetra; ary hataony fahirano ianao eny am-bavahadinao rehetra manerana ny taninao rehetra, izay nomen' i Jehovah Andriamanitrao anao.",
+    "53": "Ary eo amin' ny fahirano sy ny fanerena izay hampahorian' ny fahavalonao anao, dia ny ateraky ny kibonao no hohaninao, dia ny nofon' ny zanakao lahy sy ny zanakao vavy, izay nomen' i Jehovah anao;",
+    "54": "Koa ny lehilahy malemilemy sy mihantahanta indrindra eo aminao dia ho ratsy fijery ny rahalahiny sy ny vadiny andefimandry ary ny zanany sisa izay navelany;",
+    "55": "Ka tsy hisy amin' ireo hanomezany ny nofon' ny zanany izay haniny fandrao tsy hisy ho azy amin' ny fahirano sy ny fanerena, izay hampahorian' ny fahavalonao anao any am-bavahadinao rehetra.",
+    "56": "Ny vehivavy malemilemy sy mihantahanta eo aminao, izay tsy mbola nanandrana nandia tany noho ny fihantahantany sy ny fahalemileminy, dia ho ratsy fijery ny vadiny andefimandry sy ny zanany lahy ary ny zanany vavy,",
+    "57": "Noho ny ahitra izay mivoaka avy aminy sy ny zanany vao teraka; fa hihinana izany mangingina izy noho ny tsy fisian-javatra amin' ny fahirano sy ny fanerena, izay hampahorian' ny fahavalonao anao any am-bavahadinao.",
+    "58": "Raha tsy hotandremanao ny hanaraka ny teny rehetra amin' ity lalàna ity, izay voasoratra eto amin' ity boky ity, hatahoranao izao anarana ankalazaina sy mahatahotra izao hoe: Jehovah Andriamanitrao ;",
+    "59": "Dia hataon' i Jehovah mahagaga ny loza hataony aminao sy ny loza amin' ny taranakao, dia fahoriana mafy sady maharitra ela, ary aretina mafy sady maharitra ela.",
+    "60": "Ary koa haveriny aminao ny aretin' i Egypta rehetra, izay natahoranao, ka hiraikitra aminao ireny.",
+    "61": "Ary ny aretina rehetra sy ny loza rehetra koa izay tsy voasoratra amin' ny bokin' ity lalàna ity, dia hoentin' i Jehovah aminao mandra-paharinganao.",
+    "62": "Ary olona vitsy no ho sisa aminareo hisolo izao fahamaroanareo toy ny kintana eny amin' ny lanitra izao, satria tsy nankatò ny feon' i Jehovah Andriamanitrao ianao.",
+    "63": "Ary izao no hiseho, araka izay nifalian' i Jehovah taminareo hahasoa sy hahamaro anareo, dia araka izany koa no hifalian' i Jehovah handringana sy handrava anareo; dia hofongorana ianareo tsy ho eo amin' ny tany izay alehanao ho azonao.",
+    "64": "Dia haelin' i Jehovah any amin' ny firenena rehetra hatramin' ny faran' ny tany ianao; ary any no hanompoanao andriamani-kafa vato aman-kazo, izay tsy fantatrao, na ny razanao.",
+    "65": "Ary any amin' ireo firenena ireo dia tsy hisy hiainanao, na hitsaharan' ny faladianao; fa any no hanomezan' i Jehovah anao fo miemponempona sy maso pahina ary fahorian-tsaina;",
+    "66": "Ary ny ainao hihevingevina amim-pisalasalana eo anatrehanao; dia hatahotra andro aman' alina ianao ka tsy hanana antoka ny amin' ny fiainanao.",
+    "67": "Nony maraina ny andro, dia hanao hoe ianao: Malakia hariva! ary nony hariva ny andro, dia hanao hoe ianao: Malakia maraina! noho ny tahotry ny fonao izay hatahoranao sy noho ny zavatra izay ho hitan' ny masonao.",
+    "68": "Ary ianao hoentin' i Jehovah an-tsambo hiverina any Egypta indray amin' ilay lalana efa nolazaiko taminao hoe: tsy hahita izany intsony ianao; dia hivaro-tena ho andevolahy sy ho andevovavy any amin' ny fahavalonareo ianareo, nefa tsy hisy hividy anareo."
+  }
 }

@@ -1,93 +1,28 @@
 {
+  "book": "Mpitoriteny",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Misy fotoanany ny zavatra rehetra, ary misy fotoanany ny raharaha rehetra aty ambanin' ny lanitra:"
-    },
-    {
-      "v": 2,
-      "text": "\"Ao ny fotoana ahaterahana ary ao ny fotoana ahafatesana; ao ny fotoana ambolena, ary ao ny fotoana anongotana ny nambolena.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ao ny fotoana amonoana, ary ao ny fotoana anasitranana; ao ny fotoana andravana, ary ao ny fotoana ananganana;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ao ny fotoana itomaniana, ary ao ny fotoana ihomehezana; ao ny fotoana isaonana, ary ao ny fotoana andihizana;\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ao ny fotoana anariam-bato, ary ao ny fotoana anangonam-bato; ao ny fotoana anohonana, ary ao ny fotoana hifadiana tsy hanohona;\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ao ny fotoana ahazoana, ary ao ny fotoana ahaverezana; ao ny fotoana itehirizana, ary ao ny fotoana anariana;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ao ny fotoana andriarana, ary ao ny fotoana anjairana; ao ny fotoana anginana, ary ao ny fotoana itenenana;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ao ny fotoana itiavana, ary ao ny fotoana ankahalana; ao ny fotoana iadiana, ary ao ny fotoana ihavanana;\""
-    },
-    {
-      "v": 9,
-      "text": "Inona no soa azon' ny miasa amin' izay isasarany?"
-    },
-    {
-      "v": 10,
-      "text": "Efa hitako ny asa mahareraka izay nomen' Andriamanitra ny zanak' olombelona hisasarany."
-    },
-    {
-      "v": 11,
-      "text": "Ny zavatra rehetra samy nataony ho mendrika amin' ny fotoany avy: ary koa ny mandrakizay dia efa napetrany tao am-pon' ireo mba tsy hisy olombelona hahafantatra ny asa ataon' Andriamanitra hatramin' ny fiandohana ka hatramin' ny fiafarana."
-    },
-    {
-      "v": 12,
-      "text": "Fantatro fa tsy misy tsara amin' ny olombelona afa-tsy ny mifaly sy ny manao ny tsara amin' ny fiainany."
-    },
-    {
-      "v": 13,
-      "text": "Ary koa, raha mihinana sy misotro ary mifaly amin' ny vokatsoan' ny fisasarany rehetra ny olombelona, dia fanomezan' Andriamanitra izany."
-    },
-    {
-      "v": 14,
-      "text": "\"Fantatro fa izay rehetra ataon' Andriamanitra dia haharitra mandrakizay; tsy azo ampiana ary tsy azo analana izany; ka dia ataon' Andriamanitra matahotra eo imasony ny olona.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Izay efa nisy no misy ankehitriny; ary izay mbola hisy dia efa nisy; ary mbola takian' Andriamanitra indray izay efa lasa.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary izao koa no efa hitako aty ambany masoandro: ny fitoeran' ny fitsarana, dia nisy faharatsiana tao; ary ny fitoeran' ny fahamarinana, dia nisy heloka tao.\""
-    },
-    {
-      "v": 17,
-      "text": "Hoy aho anakampo: Samy hotsarain' Andriamanitra ny marina sy ny meloka, fa misy fotoana ho an' ny raharaha rehetra sy ny asa rehetra."
-    },
-    {
-      "v": 18,
-      "text": "Hoy aho anakampo: noho ny amin' ny zanak' olombelona izany, mba hizahan' Andriamanitra toetra azy, ka ho hitany fa raha ny tenany ihany, dia biby izy."
-    },
-    {
-      "v": 19,
-      "text": "\"Fa izay manjo ny zanak' olombelona dia manjo ny biby; zavatra iray no mitranga amin' izy ireo: fa tahaka ny ahafatesan' ny iray no ahafatesan' ny iray koa; eny, iray ihany ny fofonain' izy rehetra; koa tsy misy ihoaran' ny olona amin' ny biby; fa zava-poana ny zava-drehetra.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Samy mankany amin' ny toerana iray izy rehetra; avy tamin' ny vovoka izy rehetra, ary hiverina ho amin' ny vovoka indray izy rehetra.\""
-    },
-    {
-      "v": 21,
-      "text": "Iza no mahalala ny fofonain' olombelona, moa ve izy miakatra any ambony? ary ny fofonain' ny biby, moa ve izy midina amin' ny tany?"
-    },
-    {
-      "v": 22,
-      "text": "\"Dia hitako fa tsy misy tsara noho ny ifalian' ny olona amin' ny asany, satria izany no anjarany; fa iza no hampahalala azy izay ho avy any aoriany?\""
-    }
-  ]
+  "verses": {
+    "1": "Misy fotoanany ny zavatra rehetra, ary misy fotoanany ny raharaha rehetra aty ambanin' ny lanitra:",
+    "2": "Ao ny fotoana ahaterahana ary ao ny fotoana ahafatesana; ao ny fotoana ambolena, ary ao ny fotoana anongotana ny nambolena.",
+    "3": "Ao ny fotoana amonoana, ary ao ny fotoana anasitranana; ao ny fotoana andravana, ary ao ny fotoana ananganana;",
+    "4": "Ao ny fotoana itomaniana, ary ao ny fotoana ihomehezana; ao ny fotoana isaonana, ary ao ny fotoana andihizana;",
+    "5": "Ao ny fotoana anariam-bato, ary ao ny fotoana anangonam-bato; ao ny fotoana anohonana, ary ao ny fotoana hifadiana tsy hanohona;",
+    "6": "Ao ny fotoana ahazoana, ary ao ny fotoana ahaverezana; ao ny fotoana itehirizana, ary ao ny fotoana anariana;",
+    "7": "Ao ny fotoana andriarana, ary ao ny fotoana anjairana; ao ny fotoana anginana, ary ao ny fotoana itenenana;",
+    "8": "Ao ny fotoana itiavana, ary ao ny fotoana ankahalana; ao ny fotoana iadiana, ary ao ny fotoana ihavanana;",
+    "9": "Inona no soa azon' ny miasa amin' izay isasarany?",
+    "10": "Efa hitako ny asa mahareraka izay nomen' Andriamanitra ny zanak' olombelona hisasarany.",
+    "11": "Ny zavatra rehetra samy nataony ho mendrika amin' ny fotoany avy: ary koa ny mandrakizay dia efa napetrany tao am-pon' ireo mba tsy hisy olombelona hahafantatra ny asa ataon' Andriamanitra hatramin' ny fiandohana ka hatramin' ny fiafarana.",
+    "12": "Fantatro fa tsy misy tsara amin' ny olombelona afa-tsy ny mifaly sy ny manao ny tsara amin' ny fiainany.",
+    "13": "Ary koa, raha mihinana sy misotro ary mifaly amin' ny vokatsoan' ny fisasarany rehetra ny olombelona, dia fanomezan' Andriamanitra izany.",
+    "14": "Fantatro fa izay rehetra ataon' Andriamanitra dia haharitra mandrakizay; tsy azo ampiana ary tsy azo analana izany; ka dia ataon' Andriamanitra matahotra eo imasony ny olona.",
+    "15": "Izay efa nisy no misy ankehitriny; ary izay mbola hisy dia efa nisy; ary mbola takian' Andriamanitra indray izay efa lasa.",
+    "16": "Ary izao koa no efa hitako aty ambany masoandro: ny fitoeran' ny fitsarana, dia nisy faharatsiana tao; ary ny fitoeran' ny fahamarinana, dia nisy heloka tao.",
+    "17": "Hoy aho anakampo: Samy hotsarain' Andriamanitra ny marina sy ny meloka, fa misy fotoana ho an' ny raharaha rehetra sy ny asa rehetra.",
+    "18": "Hoy aho anakampo: noho ny amin' ny zanak' olombelona izany, mba hizahan' Andriamanitra toetra azy, ka ho hitany fa raha ny tenany ihany, dia biby izy.",
+    "19": "Fa izay manjo ny zanak' olombelona dia manjo ny biby; zavatra iray no mitranga amin' izy ireo: fa tahaka ny ahafatesan' ny iray no ahafatesan' ny iray koa; eny, iray ihany ny fofonain' izy rehetra; koa tsy misy ihoaran' ny olona amin' ny biby; fa zava-poana ny zava-drehetra.",
+    "20": "Samy mankany amin' ny toerana iray izy rehetra; avy tamin' ny vovoka izy rehetra, ary hiverina ho amin' ny vovoka indray izy rehetra.",
+    "21": "Iza no mahalala ny fofonain' olombelona, moa ve izy miakatra any ambony? ary ny fofonain' ny biby, moa ve izy midina amin' ny tany?",
+    "22": "Dia hitako fa tsy misy tsara noho ny ifalian' ny olona amin' ny asany, satria izany no anjarany; fa iza no hampahalala azy izay ho avy any aoriany?"
+  }
 }

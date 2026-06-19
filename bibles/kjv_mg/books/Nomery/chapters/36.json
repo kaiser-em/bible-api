@@ -1,57 +1,19 @@
 {
+  "book": "Nomery",
   "chapter": 36,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia nanatona ny lehiben' ny lohan' ny fianakaviana avy amin' ny taranak' i Gileada, zanakalahin' i Makira, zanakalahin' i Manase, avy amin' ny fianakavian' ny taranak' i Josefa, ka niteny teo anatrehan' i Mosesy sy teo anatrehan' ny mpanapaka, lohan' ny fianakaviana tamin' ny Zanak' Isiraely,"
-    },
-    {
-      "v": 2,
-      "text": "\"Ka nanao hoe: Jehovah efa nandidy ny tompoko hanome ny tany ho lovany amin' ny antsapaka ho an' ny Zanak' Isiraely; ary efa nodidian' i Jehovah ny tompoko hanome ny lovan' i Zelofada rahalahinay ho an' ny zanany vavy.\""
-    },
-    {
-      "v": 3,
-      "text": "Koa raha manambady ny zanakalahin' ny foko sasany amin' ny Zanak' Isiraely ireo, dia hoesorina amin' ny razanay ny lovanay, ka hanampy ny lovan' ny foko izay hatoniny, dia hoesorina amin' ny lovanay izay azonay tamin' ny an-tsapaka izany."
-    },
-    {
-      "v": 4,
-      "text": "Ary raha tonga ny Jobilin' ny Zanak' Isiraely, ny lovany dia hanampy ny an' ny foko izay hatoniny ary dia hoesorina amin' ny lovan' ny fokon' ny razanay ny lovany."
-    },
-    {
-      "v": 5,
-      "text": "Ary Mosesy nandidy ny Zanak' Isiraely araka ny tenin' i Jehovah ka nanao hoe: Marina ny tenin' ny fokon' ny taranak' i Josefa."
-    },
-    {
-      "v": 6,
-      "text": "Izao no zavatra izay andidian' i Jehovah ny amin' ny zanakavavin' i Zelofada manao hoe: Aoka izy hanambady izay heveriny ho tsara, nefa ny ao amin' ny ankohonan' ny fokon' ny rainy ihany no hovadiny."
-    },
-    {
-      "v": 7,
-      "text": "\"Dia tsy hifindra maso ny lovan' ny Zanak' Isiraely; fa samy ho eo amin' ny lovan' ny fokon' ny razany no hipetrahan' ny Zanak' Isiraely.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary ny zazavavy rehetra izay mandova zara-tany eo amin' ny fokon' ny Zanak' Isiraely dia hanambady ny anankiray amin' ny ankohonan' ny fokon' ny rainy, mba hifalian' ny Zanak' Isiraely rehetra amin' ny lovan' ny razany avy."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary ny lovan' ny foko iray dia tsy hifindra ho amin' ny foko iray; fa samy hitazona ny lovany ho azy avy ny fokon' ny Zanak' Isiraely rehetra.\""
-    },
-    {
-      "v": 10,
-      "text": "Araka izay nandidian' i Jehovah an' i Mosesy no nataon' ny zanakavavin' i Zelofada,"
-    },
-    {
-      "v": 11,
-      "text": "Ka Mahala sy Tirza sy Hogla sy Milka ary Noa, zanakavavin' i Zelofada dia nanambady ny zanaky ny rahalahindrainy."
-    },
-    {
-      "v": 12,
-      "text": "Ary izay avy tamin' ny ankohonan' ny taranak' i Manase, zanakalahin' i Josefa, no novadin' ireo, ka ny lovany nitoetra tao amin' ny fokon' ny ankohonan' ny rainy."
-    },
-    {
-      "v": 13,
-      "text": "Ireo no didy sy ny fitsipika izay nandidian' i Jehovah ka nampitondrainy an' i Mosesy ho an' ny Zanak' Isiraely teo amin' ny lemak' i Moaba amoron' i Jordana, akaikin' i Jeriko."
-    }
-  ]
+  "verses": {
+    "1": "Dia nanatona ny lehiben' ny lohan' ny fianakaviana avy amin' ny taranak' i Gileada, zanakalahin' i Makira, zanakalahin' i Manase, avy amin' ny fianakavian' ny taranak' i Josefa, ka niteny teo anatrehan' i Mosesy sy teo anatrehan' ny mpanapaka, lohan' ny fianakaviana tamin' ny Zanak' Isiraely,",
+    "2": "Ka nanao hoe: Jehovah efa nandidy ny tompoko hanome ny tany ho lovany amin' ny antsapaka ho an' ny Zanak' Isiraely; ary efa nodidian' i Jehovah ny tompoko hanome ny lovan' i Zelofada rahalahinay ho an' ny zanany vavy.",
+    "3": "Koa raha manambady ny zanakalahin' ny foko sasany amin' ny Zanak' Isiraely ireo, dia hoesorina amin' ny razanay ny lovanay, ka hanampy ny lovan' ny foko izay hatoniny, dia hoesorina amin' ny lovanay izay azonay tamin' ny an-tsapaka izany.",
+    "4": "Ary raha tonga ny Jobilin' ny Zanak' Isiraely, ny lovany dia hanampy ny an' ny foko izay hatoniny ary dia hoesorina amin' ny lovan' ny fokon' ny razanay ny lovany.",
+    "5": "Ary Mosesy nandidy ny Zanak' Isiraely araka ny tenin' i Jehovah ka nanao hoe: Marina ny tenin' ny fokon' ny taranak' i Josefa.",
+    "6": "Izao no zavatra izay andidian' i Jehovah ny amin' ny zanakavavin' i Zelofada manao hoe: Aoka izy hanambady izay heveriny ho tsara, nefa ny ao amin' ny ankohonan' ny fokon' ny rainy ihany no hovadiny.",
+    "7": "Dia tsy hifindra maso ny lovan' ny Zanak' Isiraely; fa samy ho eo amin' ny lovan' ny fokon' ny razany no hipetrahan' ny Zanak' Isiraely.",
+    "8": "Ary ny zazavavy rehetra izay mandova zara-tany eo amin' ny fokon' ny Zanak' Isiraely dia hanambady ny anankiray amin' ny ankohonan' ny fokon' ny rainy, mba hifalian' ny Zanak' Isiraely rehetra amin' ny lovan' ny razany avy.",
+    "9": "Ary ny lovan' ny foko iray dia tsy hifindra ho amin' ny foko iray; fa samy hitazona ny lovany ho azy avy ny fokon' ny Zanak' Isiraely rehetra.",
+    "10": "Araka izay nandidian' i Jehovah an' i Mosesy no nataon' ny zanakavavin' i Zelofada,",
+    "11": "Ka Mahala sy Tirza sy Hogla sy Milka ary Noa, zanakavavin' i Zelofada dia nanambady ny zanaky ny rahalahindrainy.",
+    "12": "Ary izay avy tamin' ny ankohonan' ny taranak' i Manase, zanakalahin' i Josefa, no novadin' ireo, ka ny lovany nitoetra tao amin' ny fokon' ny ankohonan' ny rainy.",
+    "13": "Ireo no didy sy ny fitsipika izay nandidian' i Jehovah ka nampitondrainy an' i Mosesy ho an' ny Zanak' Isiraely teo amin' ny lemak' i Moaba amoron' i Jordana, akaikin' i Jeriko."
+  }
 }

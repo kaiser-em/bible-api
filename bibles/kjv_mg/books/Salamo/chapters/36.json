@@ -1,53 +1,18 @@
 {
+  "book": "Salamo",
   "chapter": 36,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Ho an' ny mpiventy hira. Salamo nataon' i Davida, mpanompon' i Jehovah.]  Ny fandikan-dalànan' ny ratsy fanahy dia milaza ato am-poko fa tsy misy fahatahorana an' Andriamanitra eo imasony."
-    },
-    {
-      "v": 2,
-      "text": "Fa miarahaba tena eo imasony izy, mandra-pahita ny helony ka hankahalana azy."
-    },
-    {
-      "v": 3,
-      "text": "\"Ny tenin' ny vavany dia heloka sy fitaka; nitsahatra tsy ho hendry sy tsy hanao soa izy.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Faharatsiana no saintsaininy eo am-pandriany; mitsangana eo amin' ny lalana tsy tsara izy; tsy mba mankahala ny ratsy izy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Jehovah ô, mipaka amin' ny lanitra ny famindramponao; mihatra amin' ny rahona ny fahamarinanao.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ny fahamarinanao dia tahaka ny tendrombohitra lehibe; ny fitsaranao dia toy ny lalina indrindra; ny olona sy ny biby dia tahirizinao, Jehovah ô!\""
-    },
-    {
-      "v": 7,
-      "text": "Endrey ny hatsaran' ny indrafonao, Andriamanitra ô! Koa mametraka ny fitokisany eo ambany aloky ny elatrao ny zanak' olombelona."
-    },
-    {
-      "v": 8,
-      "text": "\"Ho voky ny matavy ao an-tranonao izy; ary ny ony fampifalianao no hampisotroanao azy.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Fa ao aminao no misy loharanon' aina; ny fahazavanao no hahitanay fahazavana.\""
-    },
-    {
-      "v": 10,
-      "text": "Ampahareto amin' izay mahalala anao ny indrafonao, ary ny fahamarinanao amin' ny mahitsy fo."
-    },
-    {
-      "v": 11,
-      "text": "Aoka tsy hanitsaka ahy ny tongotry ny mpiavonavona, na hampandositra ahy ny tanan' ny ratsy fanahy."
-    },
-    {
-      "v": 12,
-      "text": "\"Indreo fa efa lavo ny mpanao ratsy; naripaka izy ireo ka tsy ho afa-miarina.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Salamo nataon' i Davida, mpanompon' i Jehovah.]  Ny fandikan-dalànan' ny ratsy fanahy dia milaza ato am-poko fa tsy misy fahatahorana an' Andriamanitra eo imasony.",
+    "2": "Fa miarahaba tena eo imasony izy, mandra-pahita ny helony ka hankahalana azy.",
+    "3": "Ny tenin' ny vavany dia heloka sy fitaka; nitsahatra tsy ho hendry sy tsy hanao soa izy.",
+    "4": "Faharatsiana no saintsaininy eo am-pandriany; mitsangana eo amin' ny lalana tsy tsara izy; tsy mba mankahala ny ratsy izy.",
+    "5": "Jehovah ô, mipaka amin' ny lanitra ny famindramponao; mihatra amin' ny rahona ny fahamarinanao.",
+    "6": "Ny fahamarinanao dia tahaka ny tendrombohitra lehibe; ny fitsaranao dia toy ny lalina indrindra; ny olona sy ny biby dia tahirizinao, Jehovah ô!",
+    "7": "Endrey ny hatsaran' ny indrafonao, Andriamanitra ô! Koa mametraka ny fitokisany eo ambany aloky ny elatrao ny zanak' olombelona.",
+    "8": "Ho voky ny matavy ao an-tranonao izy; ary ny ony fampifalianao no hampisotroanao azy.",
+    "9": "Fa ao aminao no misy loharanon' aina; ny fahazavanao no hahitanay fahazavana.",
+    "10": "Ampahareto amin' izay mahalala anao ny indrafonao, ary ny fahamarinanao amin' ny mahitsy fo.",
+    "11": "Aoka tsy hanitsaka ahy ny tongotry ny mpiavonavona, na hampandositra ahy ny tanan' ny ratsy fanahy.",
+    "12": "Indreo fa efa lavo ny mpanao ratsy; naripaka izy ireo ka tsy ho afa-miarina."
+  }
 }

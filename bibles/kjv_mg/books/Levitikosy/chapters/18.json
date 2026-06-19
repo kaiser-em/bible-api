@@ -1,125 +1,36 @@
 {
+  "book": "Levitikosy",
   "chapter": 18,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Mitenena amin' ny Zanak' Isiraely ka lazao aminy hoe: Izaho no Jehovah Andriamanitrareo."
-    },
-    {
-      "v": 3,
-      "text": "\"Aza manao araka ny fanaon' ny tany Egypta, izay nonenanareo; ary aza manao araka ny fanaon' ny tany Kanana, izay ampidirako anareo, ary aza manaraka ny didiny.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ny fitsipiko no harahinareo, ary ny didiko no hotandremanareo, hanarahanareo izany; Izaho no Jehovah Andriamanitrareo.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Koa hotandremanareo ny didiko sy ny fitsipiko; fa raha manao izany ny olona dia ho velona amin' izany izy; Izaho no Jehovah.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Tsy hisy aminareo hila izay havany akaiky handry aminy, hahitany ny fitanjahany; Izaho no Jehovah.\""
-    },
-    {
-      "v": 7,
-      "text": "Aza mandry amin' izay nandrian' ny rainao na izay nandrian' ny reninao, aza mandry aminy, fa reninao izy, aza mandry aminy."
-    },
-    {
-      "v": 8,
-      "text": "\"Aza mandry amin' ny renikelinao; fa nandrian' ny rainao izy;\""
-    },
-    {
-      "v": 9,
-      "text": "\"Aza mandry amin' ny anabavinao, zanakavavin' ny rainao, na zanakavavin' ny reninao, na teraka tao an-trano, na teraka tany ivelany; aza mandry aminy.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Aza mandry amin' ny zanakavavin' ny zanakao lahy, na ny zanakavavin' ny zanakao vavy; fa avy aminao no niavian' izy roa.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Aza mandry amin' ny zanakavavin' ny renikelinao, izay teraky ny rainao; fa anabavinao izy; aza mandry aminy.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Aza mandry amin' ny anabavin-drainao;fa havan-drainao akaiky izy.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Aza mandry amin' ny rahavavin-dreninao; fa havan-dreninao akaiky izy.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Aza mandry amin' izay nandrian' ny rahalahin-drainao; aza mila ny vadiny, fa vadin' ny rahalahin-drainao izy.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Aza mandry amin' ny vinantovavinao; fa vadin' ny zanakao lahy izy, koa aza mandry aminy.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Aza mandry amin' ny vadin' ny rahalahinao; fa nandrian' ny rahalahinao izy.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Aza mandry amin' ny vehivavy sy ny zanany vavy; aza maka ny zanakavavin' ny zanany lahy, na ny zanakavavin' ny zanany vavy, handry aminy; havany akaiky ireo: faharatsiana izany.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary aza mampakatra vehivavy ho rafin' ny rahavaviny izay mbola velona, hanorisory azy, ka hahita ny fitanjahany."
-    },
-    {
-      "v": 19,
-      "text": "Ary koa aza mila vehivavy mararin' ny fadimbolana handry aminy, raha mbola mitokana noho ny fahalotoany izy."
-    },
-    {
-      "v": 20,
-      "text": "Ary koa aza mandry amin' ny vadin' ny namanao handoto ny tenanao aminy."
-    },
-    {
-      "v": 21,
-      "text": "Ary aza misy ampandehaninao hamaky ny afo ho an' i Moloka ny zanakao, ka hanamavo ny anaran' Andriamanitrao: Izaho no Jehovah."
-    },
-    {
-      "v": 22,
-      "text": "\"Aza mandry amin' ny lehilahy tahaka ny fandry amin' ny vehivavy; fahavetavetana izany.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary aza mandry amin' ny biby handoto ny tenanao aminy; ary aoka tsy hisy vehivavy hety handrian' ny biby; fa fifangaroharoana izany.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Aza mandoto ny tenanareo amin' izany zavatra izany akory; fa izany rehetra izany no nandotoan' ny firenena ny tenany, izay efa horoahiko eo anoloanareo.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary efa maloto ny tany, ka dia hamaly azy noho ny helony Aho, ary haloan' ny tany ny mponina eo."
-    },
-    {
-      "v": 26,
-      "text": "Noho izany, hitandrina ny didiko sy ny fitsipiko ianareo, ka aza misy manao izany fahavetavetana izany ianareo, na ny tompon-tany, na ny vahiny izay mivahiny eo aminareo."
-    },
-    {
-      "v": 27,
-      "text": "(Fa izany fahavetavetana rehetra izany no nataon' ny tompon-tany izay talohanareo, ka dia naloto ny tany),"
-    },
-    {
-      "v": 28,
-      "text": "Mba tsy handoavan' ny tany anareo koa raha mandoto azy ianareo, tahaka ny nandoavany ny firenena izay talohanareo."
-    },
-    {
-      "v": 29,
-      "text": "Fa izay rehetra manao, na dia iray aza amin' izany fahavetavetana izany, dia ny fanahy izay manao izany no hofongorana tsy ho eo amin' ny fireneny."
-    },
-    {
-      "v": 30,
-      "text": "\"Koa tandremonareo ny fitsipiko, mba tsy hisy hataonareo izany fanao vetaveta izany, izay natao teo alohanareo, ka aza mandoto ny tenanareo amin' izany; Izaho no Jehovah Andriamanitrareo.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "2": "Mitenena amin' ny Zanak' Isiraely ka lazao aminy hoe: Izaho no Jehovah Andriamanitrareo.",
+    "3": "Aza manao araka ny fanaon' ny tany Egypta, izay nonenanareo; ary aza manao araka ny fanaon' ny tany Kanana, izay ampidirako anareo, ary aza manaraka ny didiny.",
+    "4": "Ny fitsipiko no harahinareo, ary ny didiko no hotandremanareo, hanarahanareo izany; Izaho no Jehovah Andriamanitrareo.",
+    "5": "Koa hotandremanareo ny didiko sy ny fitsipiko; fa raha manao izany ny olona dia ho velona amin' izany izy; Izaho no Jehovah.",
+    "6": "Tsy hisy aminareo hila izay havany akaiky handry aminy, hahitany ny fitanjahany; Izaho no Jehovah.",
+    "7": "Aza mandry amin' izay nandrian' ny rainao na izay nandrian' ny reninao, aza mandry aminy, fa reninao izy, aza mandry aminy.",
+    "8": "Aza mandry amin' ny renikelinao; fa nandrian' ny rainao izy;",
+    "9": "Aza mandry amin' ny anabavinao, zanakavavin' ny rainao, na zanakavavin' ny reninao, na teraka tao an-trano, na teraka tany ivelany; aza mandry aminy.",
+    "10": "Aza mandry amin' ny zanakavavin' ny zanakao lahy, na ny zanakavavin' ny zanakao vavy; fa avy aminao no niavian' izy roa.",
+    "11": "Aza mandry amin' ny zanakavavin' ny renikelinao, izay teraky ny rainao; fa anabavinao izy; aza mandry aminy.",
+    "12": "Aza mandry amin' ny anabavin-drainao;fa havan-drainao akaiky izy.",
+    "13": "Aza mandry amin' ny rahavavin-dreninao; fa havan-dreninao akaiky izy.",
+    "14": "Aza mandry amin' izay nandrian' ny rahalahin-drainao; aza mila ny vadiny, fa vadin' ny rahalahin-drainao izy.",
+    "15": "Aza mandry amin' ny vinantovavinao; fa vadin' ny zanakao lahy izy, koa aza mandry aminy.",
+    "16": "Aza mandry amin' ny vadin' ny rahalahinao; fa nandrian' ny rahalahinao izy.",
+    "17": "Aza mandry amin' ny vehivavy sy ny zanany vavy; aza maka ny zanakavavin' ny zanany lahy, na ny zanakavavin' ny zanany vavy, handry aminy; havany akaiky ireo: faharatsiana izany.",
+    "18": "Ary aza mampakatra vehivavy ho rafin' ny rahavaviny izay mbola velona, hanorisory azy, ka hahita ny fitanjahany.",
+    "19": "Ary koa aza mila vehivavy mararin' ny fadimbolana handry aminy, raha mbola mitokana noho ny fahalotoany izy.",
+    "20": "Ary koa aza mandry amin' ny vadin' ny namanao handoto ny tenanao aminy.",
+    "21": "Ary aza misy ampandehaninao hamaky ny afo ho an' i Moloka ny zanakao, ka hanamavo ny anaran' Andriamanitrao: Izaho no Jehovah.",
+    "22": "Aza mandry amin' ny lehilahy tahaka ny fandry amin' ny vehivavy; fahavetavetana izany.",
+    "23": "Ary aza mandry amin' ny biby handoto ny tenanao aminy; ary aoka tsy hisy vehivavy hety handrian' ny biby; fa fifangaroharoana izany.",
+    "24": "Aza mandoto ny tenanareo amin' izany zavatra izany akory; fa izany rehetra izany no nandotoan' ny firenena ny tenany, izay efa horoahiko eo anoloanareo.",
+    "25": "Ary efa maloto ny tany, ka dia hamaly azy noho ny helony Aho, ary haloan' ny tany ny mponina eo.",
+    "26": "Noho izany, hitandrina ny didiko sy ny fitsipiko ianareo, ka aza misy manao izany fahavetavetana izany ianareo, na ny tompon-tany, na ny vahiny izay mivahiny eo aminareo.",
+    "27": "(Fa izany fahavetavetana rehetra izany no nataon' ny tompon-tany izay talohanareo, ka dia naloto ny tany),",
+    "28": "Mba tsy handoavan' ny tany anareo koa raha mandoto azy ianareo, tahaka ny nandoavany ny firenena izay talohanareo.",
+    "29": "Fa izay rehetra manao, na dia iray aza amin' izany fahavetavetana izany, dia ny fanahy izay manao izany no hofongorana tsy ho eo amin' ny fireneny.",
+    "30": "Koa tandremonareo ny fitsipiko, mba tsy hisy hataonareo izany fanao vetaveta izany, izay natao teo alohanareo, ka aza mandoto ny tenanareo amin' izany; Izaho no Jehovah Andriamanitrareo."
+  }
 }

@@ -1,113 +1,33 @@
 {
+  "book": "Jakoba",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Jakoba, mpanompon’Andriamanitra sy Jesosy Kristy Tompo, mamangy ny foko roa ambin’ny folo monina any am-pielezana."
-    },
-    {
-      "v": 2,
-      "text": "Ry rahalahiko, ataovy ho fifaliana avokoa, raha iharan' ny fakam-panahy samihafa ianareo,"
-    },
-    {
-      "v": 3,
-      "text": "Satria fantatrareo fa ny fizahan-toetra ny finoanareo dia mahatonga faharetana."
-    },
-    {
-      "v": 4,
-      "text": "Fa aoka ny faharetana hisy asa tanteraka, mba ho tanteraka sy feno ianareo, ka tsy hisy tsy ampy na inona na inona."
-    },
-    {
-      "v": 5,
-      "text": "Raha misy ianareo tsy ampy fahendrena, aoka izy hangataka amin’Andriamanitra, Izay manome malalaka ho an' ny olona rehetra sady tsy mandatsa, ary dia homena azy izany."
-    },
-    {
-      "v": 6,
-      "text": "Nefa aoka hangataka amin’ny finoana izy ka tsy hiahanahana akory, fa izay miahanahana dia toy ny alon-dranomasina entin’ny rivotra ka atopatopany."
-    },
-    {
-      "v": 7,
-      "text": "Fa aoka tsy hanampo handray zavatra amin’ny Tompo izany olona izany:"
-    },
-    {
-      "v": 8,
-      "text": "\"Ny olona miroaroa saina dia miovaova amin’ny alehany rehetra;\""
-    },
-    {
-      "v": 9,
-      "text": "\"Aoka ny rahalahy izay ambany hanao ny fisandratany ho reharehany;\""
-    },
-    {
-      "v": 10,
-      "text": "Fa ny manan-karena kosa ny fietreny, satria ho levona tahaka ny vonin’ny ahitra izy."
-    },
-    {
-      "v": 11,
-      "text": "\"Fa miposaka ny masoandro mbamin’ny hainandro mahamay, dia mampahalazo ny ahitra ka mihintsana ny voniny, ary levona ny hatsaran-tarehiny; dia toy izany koa ny ho fahalazon’ny mpanankarena amin’ny alehany.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Sambatra izay olona maharitra fakampanahy; fa rehefa voazaha toetra izy, dia handray ny satroboninahitry ny fiainana, izay nampanantenain’ny Tompo homena izay tia Azy.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Raha misy alaim-panahy, aoka izy tsy hanao hoe: Andriamanitra no maka fanahy ahy; fa Andriamanitra tsy azon’ny ratsy alaim-panahy, sady tsy mba maka fanahy olona Izy;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Fa samy alaim-panahy ny olona, raha tarihin’ny filàny sy angoleny izy;\""
-    },
-    {
-      "v": 15,
-      "text": "\"Koa ny filàna, rehefa torontoronina, dia miteraka ota; ary ny ota, rehefa tanteraka, dia miteraka fahafatesana.\""
-    },
-    {
-      "v": 16,
-      "text": "Aza manao fahadisoana, ry rahalahy malalako."
-    },
-    {
-      "v": 17,
-      "text": "Ny fanomezan-tsoa rehetra sy ny fanomezana tanteraka rehetra dia avy any ambony ka midina avy amin’ny Rain’ny fanazavana, Izay tsy misy fiovaovana na aloky ny fihodinana."
-    },
-    {
-      "v": 18,
-      "text": "Tamin’ny sitrapony no niterahany antsika tamin’ny teny fahamarinana, mba ho santatry ny zavatra noforoniny isika."
-    },
-    {
-      "v": 19,
-      "text": "\"Noho izany, ry rahalahy malalako, aoka ny olona rehetra halady hihaino, ho malai-miteny, ho malain-ko tezitra;\""
-    },
-    {
-      "v": 20,
-      "text": "Fa ny fahatezeran' ny olona tsy ahefana izay marina eo imason’Andriamanitra."
-    },
-    {
-      "v": 21,
-      "text": "Koa ario ny fahalotoana rehetra sy ny ditra mihoapampana, ary ekeo amin’ny fahalemem-panahy ny teny nambolena, izay mahavonjy ny fanahinareo."
-    },
-    {
-      "v": 22,
-      "text": "Fa aoka ho mpanatanteraka ny teny ianareo, fa aza mpihaino fotsiny ihany ka mamitaka ny tenanareo."
-    },
-    {
-      "v": 23,
-      "text": "\"Fa raha misy mpihaino ny teny, nefa tsy mpanatanteraka, dia toy ny olona mizaha ny tarehiny eo amin’ny fitaratra izy;\""
-    },
-    {
-      "v": 24,
-      "text": "Fa mijery ny tenany izy, dia lasa, ary miaraka amin’izay dia hadinony ny tarehiny."
-    },
-    {
-      "v": 25,
-      "text": "Fa izay mandinika ny lalàna tanteraka dia ny lalàn’ny fahafahana, ka maharitra amin’izany, raha tsy mpihaino mpanadino, fa mpanao ny asa, dia ho sambatra amin’ny asany izany olona izany."
-    },
-    {
-      "v": 26,
-      "text": "Raha misy manao azy ho mpivavaka, nefa tsy mamehy ny vavany, fa mamitaka ny fony, dia zava-poana ny fivavahan’izany olona izany."
-    },
-    {
-      "v": 27,
-      "text": "Izao no fivavahana madio sady tsy misy loto eo anatrehan’Andriamanitra sady Ray: ny mamangy ny kamboty sy ny mpitondratena amin’ny fahoriany, sy ny miaro ny tena tsy hisy pentimpentina avy amin’izao tontolo izao."
-    }
-  ]
+  "verses": {
+    "1": "Jakoba, mpanompon’Andriamanitra sy Jesosy Kristy Tompo, mamangy ny foko roa ambin’ny folo monina any am-pielezana.",
+    "2": "Ry rahalahiko, ataovy ho fifaliana avokoa, raha iharan' ny fakam-panahy samihafa ianareo,",
+    "3": "Satria fantatrareo fa ny fizahan-toetra ny finoanareo dia mahatonga faharetana.",
+    "4": "Fa aoka ny faharetana hisy asa tanteraka, mba ho tanteraka sy feno ianareo, ka tsy hisy tsy ampy na inona na inona.",
+    "5": "Raha misy ianareo tsy ampy fahendrena, aoka izy hangataka amin’Andriamanitra, Izay manome malalaka ho an' ny olona rehetra sady tsy mandatsa, ary dia homena azy izany.",
+    "6": "Nefa aoka hangataka amin’ny finoana izy ka tsy hiahanahana akory, fa izay miahanahana dia toy ny alon-dranomasina entin’ny rivotra ka atopatopany.",
+    "7": "Fa aoka tsy hanampo handray zavatra amin’ny Tompo izany olona izany:",
+    "8": "Ny olona miroaroa saina dia miovaova amin’ny alehany rehetra;",
+    "9": "Aoka ny rahalahy izay ambany hanao ny fisandratany ho reharehany;",
+    "10": "Fa ny manan-karena kosa ny fietreny, satria ho levona tahaka ny vonin’ny ahitra izy.",
+    "11": "Fa miposaka ny masoandro mbamin’ny hainandro mahamay, dia mampahalazo ny ahitra ka mihintsana ny voniny, ary levona ny hatsaran-tarehiny; dia toy izany koa ny ho fahalazon’ny mpanankarena amin’ny alehany.",
+    "12": "Sambatra izay olona maharitra fakampanahy; fa rehefa voazaha toetra izy, dia handray ny satroboninahitry ny fiainana, izay nampanantenain’ny Tompo homena izay tia Azy.",
+    "13": "Raha misy alaim-panahy, aoka izy tsy hanao hoe: Andriamanitra no maka fanahy ahy; fa Andriamanitra tsy azon’ny ratsy alaim-panahy, sady tsy mba maka fanahy olona Izy;",
+    "14": "Fa samy alaim-panahy ny olona, raha tarihin’ny filàny sy angoleny izy;",
+    "15": "Koa ny filàna, rehefa torontoronina, dia miteraka ota; ary ny ota, rehefa tanteraka, dia miteraka fahafatesana.",
+    "16": "Aza manao fahadisoana, ry rahalahy malalako.",
+    "17": "Ny fanomezan-tsoa rehetra sy ny fanomezana tanteraka rehetra dia avy any ambony ka midina avy amin’ny Rain’ny fanazavana, Izay tsy misy fiovaovana na aloky ny fihodinana.",
+    "18": "Tamin’ny sitrapony no niterahany antsika tamin’ny teny fahamarinana, mba ho santatry ny zavatra noforoniny isika.",
+    "19": "Noho izany, ry rahalahy malalako, aoka ny olona rehetra halady hihaino, ho malai-miteny, ho malain-ko tezitra;",
+    "20": "Fa ny fahatezeran' ny olona tsy ahefana izay marina eo imason’Andriamanitra.",
+    "21": "Koa ario ny fahalotoana rehetra sy ny ditra mihoapampana, ary ekeo amin’ny fahalemem-panahy ny teny nambolena, izay mahavonjy ny fanahinareo.",
+    "22": "Fa aoka ho mpanatanteraka ny teny ianareo, fa aza mpihaino fotsiny ihany ka mamitaka ny tenanareo.",
+    "23": "Fa raha misy mpihaino ny teny, nefa tsy mpanatanteraka, dia toy ny olona mizaha ny tarehiny eo amin’ny fitaratra izy;",
+    "24": "Fa mijery ny tenany izy, dia lasa, ary miaraka amin’izay dia hadinony ny tarehiny.",
+    "25": "Fa izay mandinika ny lalàna tanteraka dia ny lalàn’ny fahafahana, ka maharitra amin’izany, raha tsy mpihaino mpanadino, fa mpanao ny asa, dia ho sambatra amin’ny asany izany olona izany.",
+    "26": "Raha misy manao azy ho mpivavaka, nefa tsy mamehy ny vavany, fa mamitaka ny fony, dia zava-poana ny fivavahan’izany olona izany.",
+    "27": "Izao no fivavahana madio sady tsy misy loto eo anatrehan’Andriamanitra sady Ray: ny mamangy ny kamboty sy ny mpitondratena amin’ny fahoriany, sy ny miaro ny tena tsy hisy pentimpentina avy amin’izao tontolo izao."
+  }
 }

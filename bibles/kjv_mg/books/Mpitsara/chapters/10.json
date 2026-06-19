@@ -1,77 +1,24 @@
 {
+  "book": "Mpitsara",
   "chapter": 10,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary taorian' i Abimeleka dia nitsangana hiaro ny Isiraely i Tola, zanak' i Poa, zanak' i Dodo, lehilahy avy amin' ny Isakara, nonina tao Samira any amin' ny tendrombohitr' i Efraima."
-    },
-    {
-      "v": 2,
-      "text": "Ary nitsara ny Isiraely telo amby roapolo taona izy, dia maty ka nalevina tao Samira."
-    },
-    {
-      "v": 3,
-      "text": "Ary nitsangana nandimby azy Jaïra Gileadita ka nitsara ny Isiraely roa amby roapolo taona."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary nanana zanakalahy telopolo izay nitaingina zana-boriky telopolo izy, ary izy ireo nanana tanàna telopolo any amin' ny tany Gileada; ary atao hoe Havota-jaïra mandraka androany ireo.\""
-    },
-    {
-      "v": 5,
-      "text": "Dia maty Jaïra ka nalevina tany Kamona."
-    },
-    {
-      "v": 6,
-      "text": "Ary ny Zanak' Isiraely dia nanao izay ratsy teo imason' i Jehovah indray ka nanompo ireo Bala sy Astarta sy ny andriamanitr' i Syria sy ny andriamanitr' i Sidona sy ny andriamanitr' i Moaba sy ny andriamanitry ny taranak' i Amona ary ny andriamanitry ny Filistina, dia nahafoy an' i Jehovah izy ka tsy nanompo Azy."
-    },
-    {
-      "v": 7,
-      "text": "Dia nirehitra tamin' ny Isiraely ny fahatezeran' i Jehovah, ka nivarotra azy ho eo an-tanan' ny Filistina sy ho eo an-tanan' ny taranak' i Amona Izy."
-    },
-    {
-      "v": 8,
-      "text": "Ary tamin' izany taona izany, ireo dia nampahory sy nanorotoro ny Zanak' Isiraely valo ambin' ny folo taona, dia ny Zanak' Isiraely rehetra izay tany an-dafin' i Jordana tany amin' ny tanin' ny Amorita, izay any Gileada."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary nita an' i Jordana ny taranak' i Amona mba hiady koa amin'ny Joda sy ny Benjamina ary ny taranak' i Efraima; ka dia ory indrindra ny Isiraely.\""
-    },
-    {
-      "v": 10,
-      "text": "Dia nitaraina tamin' ny Jehovah ny Zanak' Isiraely ka nanao hoe: Efa nanota taminao izahay, satria sady efa nahafoy an' Andriamanitray no nanompo ireo Bala koa."
-    },
-    {
-      "v": 11,
-      "text": "Ary hoy Jehovah tamin' ny Zanak' Isiraely: Moa tsy efa nanafaka anareo tamin' ny Egyptiana sy ny Amorita sy ny taranak' i Amona ary ny Filistina va Aho?"
-    },
-    {
-      "v": 12,
-      "text": "Ary nampahory anareo koa ny Sidoniana sy ny Amalekita ary ny Maonita, dia nitaraina tamiko ianareo, ka nafahako tamin' ny tanany."
-    },
-    {
-      "v": 13,
-      "text": "\"Nefa ianareo nahafoy Ahy ka nanompo andriamani-kafa; koa izany kosa no tsy hanafahako anareo intsony.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Mandehana, ka mitarainà amin' ireo andriamanitra efa nofidinareo; aoka ireo no hanafaka anareo amin' ny andron' ny fahorianareo.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary hoy ny Zanak' Isiraely tamin' i Jehovah: Efa nanota izahay; ataovy aminay izay heverinao ho tsara; kanefa mifona aminao izahay, afaho ihany izahay anio.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Dia nanary ireo andriamani-kafa teo aminy izy ka nanompo an' i Jehovah; dia tsy nahatsindry ny fanahiny Jehovah noho ny fahorian' ny Isiraely.\""
-    },
-    {
-      "v": 17,
-      "text": "Dia niara-nivory ny taranak' i Amona ka nitoby tany Gileada. Ary niara-nivory kosa ny Zanak' Isiraely ka nitoby tany Mizpa."
-    },
-    {
-      "v": 18,
-      "text": "Dia nifampiresaka ny olona sy ireo andrianan' i Gileada hoe: Iza no lehilahy handeha voalohany hiady amin' ny taranak' i Amona? Izy no ho lohany amin' ny mponina rehetra any Gileada."
-    }
-  ]
+  "verses": {
+    "1": "Ary taorian' i Abimeleka dia nitsangana hiaro ny Isiraely i Tola, zanak' i Poa, zanak' i Dodo, lehilahy avy amin' ny Isakara, nonina tao Samira any amin' ny tendrombohitr' i Efraima.",
+    "2": "Ary nitsara ny Isiraely telo amby roapolo taona izy, dia maty ka nalevina tao Samira.",
+    "3": "Ary nitsangana nandimby azy Jaïra Gileadita ka nitsara ny Isiraely roa amby roapolo taona.",
+    "4": "Ary nanana zanakalahy telopolo izay nitaingina zana-boriky telopolo izy, ary izy ireo nanana tanàna telopolo any amin' ny tany Gileada; ary atao hoe Havota-jaïra mandraka androany ireo.",
+    "5": "Dia maty Jaïra ka nalevina tany Kamona.",
+    "6": "Ary ny Zanak' Isiraely dia nanao izay ratsy teo imason' i Jehovah indray ka nanompo ireo Bala sy Astarta sy ny andriamanitr' i Syria sy ny andriamanitr' i Sidona sy ny andriamanitr' i Moaba sy ny andriamanitry ny taranak' i Amona ary ny andriamanitry ny Filistina, dia nahafoy an' i Jehovah izy ka tsy nanompo Azy.",
+    "7": "Dia nirehitra tamin' ny Isiraely ny fahatezeran' i Jehovah, ka nivarotra azy ho eo an-tanan' ny Filistina sy ho eo an-tanan' ny taranak' i Amona Izy.",
+    "8": "Ary tamin' izany taona izany, ireo dia nampahory sy nanorotoro ny Zanak' Isiraely valo ambin' ny folo taona, dia ny Zanak' Isiraely rehetra izay tany an-dafin' i Jordana tany amin' ny tanin' ny Amorita, izay any Gileada.",
+    "9": "Ary nita an' i Jordana ny taranak' i Amona mba hiady koa amin'ny Joda sy ny Benjamina ary ny taranak' i Efraima; ka dia ory indrindra ny Isiraely.",
+    "10": "Dia nitaraina tamin' ny Jehovah ny Zanak' Isiraely ka nanao hoe: Efa nanota taminao izahay, satria sady efa nahafoy an' Andriamanitray no nanompo ireo Bala koa.",
+    "11": "Ary hoy Jehovah tamin' ny Zanak' Isiraely: Moa tsy efa nanafaka anareo tamin' ny Egyptiana sy ny Amorita sy ny taranak' i Amona ary ny Filistina va Aho?",
+    "12": "Ary nampahory anareo koa ny Sidoniana sy ny Amalekita ary ny Maonita, dia nitaraina tamiko ianareo, ka nafahako tamin' ny tanany.",
+    "13": "Nefa ianareo nahafoy Ahy ka nanompo andriamani-kafa; koa izany kosa no tsy hanafahako anareo intsony.",
+    "14": "Mandehana, ka mitarainà amin' ireo andriamanitra efa nofidinareo; aoka ireo no hanafaka anareo amin' ny andron' ny fahorianareo.",
+    "15": "Ary hoy ny Zanak' Isiraely tamin' i Jehovah: Efa nanota izahay; ataovy aminay izay heverinao ho tsara; kanefa mifona aminao izahay, afaho ihany izahay anio.",
+    "16": "Dia nanary ireo andriamani-kafa teo aminy izy ka nanompo an' i Jehovah; dia tsy nahatsindry ny fanahiny Jehovah noho ny fahorian' ny Isiraely.",
+    "17": "Dia niara-nivory ny taranak' i Amona ka nitoby tany Gileada. Ary niara-nivory kosa ny Zanak' Isiraely ka nitoby tany Mizpa.",
+    "18": "Dia nifampiresaka ny olona sy ireo andrianan' i Gileada hoe: Iza no lehilahy handeha voalohany hiady amin' ny taranak' i Amona? Izy no ho lohany amin' ny mponina rehetra any Gileada."
+  }
 }

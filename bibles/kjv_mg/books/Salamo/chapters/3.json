@@ -1,37 +1,14 @@
 {
+  "book": "Salamo",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Salamo nataon' i Davida, fony izy nandositra an' i Absaloma zanany.]   Jehovah ô, akory izato hamaroan’ny mampahory ahy! Maro no mitsangana hanohitra ahy."
-    },
-    {
-      "v": 2,
-      "text": "Maro no milaza amin’ny fanahiko hoe: Tsy manam-pamonjena amin’Andriamanitra izy. [Sela.]"
-    },
-    {
-      "v": 3,
-      "text": "Kanjo, Ianao, Jehovah ô, no ampinga manodidina ahy, voninahitro sy mpanandratra ny lohako."
-    },
-    {
-      "v": 4,
-      "text": "Amin’ny feoko no iantsoako an’i Jehovah, ary any an-kavoanany masina no mihaino ahy Izy. [Sela.]"
-    },
-    {
-      "v": 5,
-      "text": "Nandry aho ka natory, nifoha aho, satria Jehovah no nanohana ahy."
-    },
-    {
-      "v": 6,
-      "text": "Tsy hatahotra olona alinalina aho, izay milahatra manodidina hamely ahy."
-    },
-    {
-      "v": 7,
-      "text": "\"Mitsangàna, Jehovah ô; vonjeo aho, Andriamanitro ô;fa efa namely ny takolaky ny fahavaloko rehetra Ianao; ny nifin’ny ratsy fanahy novakivakinao.\""
-    },
-    {
-      "v": 8,
-      "text": "\"An’i Jehovah ny famonjena; ny fitahianao dia amin’ny olonao.[Sela.]\""
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida, fony izy nandositra an' i Absaloma zanany.]   Jehovah ô, akory izato hamaroan’ny mampahory ahy! Maro no mitsangana hanohitra ahy.",
+    "2": "Maro no milaza amin’ny fanahiko hoe: Tsy manam-pamonjena amin’Andriamanitra izy. [Sela.]",
+    "3": "Kanjo, Ianao, Jehovah ô, no ampinga manodidina ahy, voninahitro sy mpanandratra ny lohako.",
+    "4": "Amin’ny feoko no iantsoako an’i Jehovah, ary any an-kavoanany masina no mihaino ahy Izy. [Sela.]",
+    "5": "Nandry aho ka natory, nifoha aho, satria Jehovah no nanohana ahy.",
+    "6": "Tsy hatahotra olona alinalina aho, izay milahatra manodidina hamely ahy.",
+    "7": "Mitsangàna, Jehovah ô; vonjeo aho, Andriamanitro ô;fa efa namely ny takolaky ny fahavaloko rehetra Ianao; ny nifin’ny ratsy fanahy novakivakinao.",
+    "8": "An’i Jehovah ny famonjena; ny fitahianao dia amin’ny olonao.[Sela.]"
+  }
 }

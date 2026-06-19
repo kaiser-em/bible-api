@@ -1,133 +1,38 @@
 {
+  "book": "Isaia",
   "chapter": 14,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Fa Jehovah hamindra fo amin' i Jakoba ary mbola hifidy ny Isiraely indray ka hamponina azy ao amin' ny taniny; ary ny vahiny hikambana aminy, ary hifikitra amin' ny taranak' i Jakoba izy.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Dia haka azy ny firenena ka hanatitra azy hody; ary ny taranak' Isiraely hanana azy ho mpanompolahiny sy mpanompovaviny ao amin' ny tanin' i Jehovah; dia ho tonga mpamabo izay namabo azy izy, ary hanapaka izay nampahory azy.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary izao no hiseho, amin' ny andro hanomezan' i Jehovah fitsaharana anao ho afaka amin' ny fahoriana sy ny tahotra ary ny fanompoana mafy izay nampanompoana anao,"
-    },
-    {
-      "v": 4,
-      "text": "Dia hataonao izao oha-teny izao ny amin' ny mpanjakan' i Babylona ka lazao hoe: Hia! mitsahatra ilay mpampahory! eny, tsy ao intsony ilay tanàna volamena!"
-    },
-    {
-      "v": 5,
-      "text": "Jehovah efa nanapatapaka ny tehin' ny ratsy fanahy sy ny tehin' ny mpanapaka."
-    },
-    {
-      "v": 6,
-      "text": "Izay namely ny olona tamin' ny fahatezerana miaraka amin' ny famelezana mitohy, izay nanapaka ny firenena tamin' ny fahatezerana, dia enjehina kosa sady tsy misy manakantsakana."
-    },
-    {
-      "v": 7,
-      "text": "\"Miadana ka mandry fahizay ny tany rehetra; velominy ao ny hoby,\""
-    },
-    {
-      "v": 8,
-      "text": "Eny, ny hazo kypreso sy ny sedera any Libanona hifaly anao hoe: Hatrizay niambohoanao izay dia tsy nisy mpikapa niakatra taty aminay."
-    },
-    {
-      "v": 9,
-      "text": "\"Taitra ny helo any ambany noho ny aminao mba hitsena anao amin' ny fiavianao; mamoha ny maty hitsena anao izy, dia ny lehibe rehetra tambonin' ny tany; ningainy hiala tamin' ny sezafiandrianany ny mpanjakan' ny firenena rehetra.\""
-    },
-    {
-      "v": 10,
-      "text": "Samy hiteny aminao izy rehetra hoe: Hay ianao koa mba efa osa tahaka anay? Efa tonga tahaka anay ianao?"
-    },
-    {
-      "v": 11,
-      "text": "\"Efa navarina ho any amin' ny fasana ny tabihanao mbamin' ny tabataban' ny valihanao; kankana no ilafihanao, ary olitra no mandrakotra anao.\""
-    },
-    {
-      "v": 12,
-      "text": "Endrey! latsaka avy any an-danitra, ianao, ry Losifera, zanaky ny maraina! Voakapa hianjera amin' ny tany ianao, ry ilay nandripaka ny firenena!"
-    },
-    {
-      "v": 13,
-      "text": "\"Fa efa nanao anakampo ianao hoe: Any an-danitra no hiakarako, ary any ambonin' ny kintan' Andriamanitra no hanandratako ny sezafiandrianako; dia hipetraka eo an-tendrombohitra fivoriana any am-parany avaratra aho;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Hiakatra ho any ambonin' ny havoanan' ny rahona aho ka ho tahaka ny Avo Indrindra;\""
-    },
-    {
-      "v": 15,
-      "text": "Kanjo hampidinina hatrany amin' ny helo ho any am-para-vodi-lavaka ianao."
-    },
-    {
-      "v": 16,
-      "text": "Izay mahita anao dia hibanjina anao sy hihevitra anao hoe: Moa io va ilay lehilahy nampihorohoro ny tany? sy nampihozongozona ny fanjakana,"
-    },
-    {
-      "v": 17,
-      "text": "Ary nanao izao tontolo izao ho efitra sy nandrava ny tanànany ary tsy namoha ny tranony handefa ny mpifatotra hody?"
-    },
-    {
-      "v": 18,
-      "text": "Ny mpanjaka rehetra amin' ny firenena, dia izy rehetra no samy mandry amin' ny voninahitra avokoa, ary samy ao an-tranony avy."
-    },
-    {
-      "v": 19,
-      "text": "\"Fa ianao kosa dia nariana niala lavitra ny fasanao, tahaka ny rantsana ratsy, sady tahaka ny fitafian' ireo voavono, dia izay voatrabaky ny sabatra, ka midina ho any amin' ny vato any an-davaka; tahaka ny faty hitsakitsahin' ny tongotra.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Tsy halevina tahaka ireny ianao, satria efa nanimba ny taninao sady efa namono ny olonao; tsy hotononina mandrakizay ny taranaky ny mpanao ratsy.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Manomàna famonoana hamelezana ny zanany noho ny helok' ireo razany; mba tsy hitsangana izy, na hanana ny tany, na hameno izao tontolo izao amin' ny tanàna.\""
-    },
-    {
-      "v": 22,
-      "text": "Fa hitsangana hamely azy Aho, hoy Jehovah, Tompon' ny maro, ary hofoanako ny anaran' i Babylona sy izay sisa ao mbamin' ny zanany sy ny zana-kavany, hoy Jehovah."
-    },
-    {
-      "v": 23,
-      "text": "Ary hataoko fonenan' ny sokina sy fihandronan' ny rano izy, ary hofafako kifafa fandringanana izy, hoy Jehovah, Tompon' ny maro."
-    },
-    {
-      "v": 24,
-      "text": "Jehovah, Tompon' ny maro, efa nianiana hoe: Araka izay noheveriko tokoa no hiseho, ary araka izay nokasaiko no hitranga."
-    },
-    {
-      "v": 25,
-      "text": "\"Dia ny hanorotoro ny Asyriana ao amin' ny taniko ary ny hanitsakitsaka azy eny an-tendrombohitro; ny zioga fitòndrany dia hiala amin' ireo, ary ny entany hiala amin' ny sorony.\""
-    },
-    {
-      "v": 26,
-      "text": "Izany no fikasana ny amin' ny tany rehetra, ary izany no tanana ahinjitra amin' ny firenena rehetra."
-    },
-    {
-      "v": 27,
-      "text": "Fa Jehovah Tompon' ny maro no efa nikasa, ka iza indray no hahafoana izany? Ary ny tanany dia voahinjitra, ka iza no hampihemotra izany?"
-    },
-    {
-      "v": 28,
-      "text": "Tamin' ny taona nahafatesan' i Ahaza mpanjaka no nisy izao faminaniana loza hanjo izao:"
-    },
-    {
-      "v": 29,
-      "text": "\"Aza mifaly ianao, ry Palestina manontolo, satria tapaka ny tsorakazon' izay namely anao; fa avy ao amin' ny bibilava no hiavian' ny menarana, ary ny aterany ho tonga menaran' afo manidina.\""
-    },
-    {
-      "v": 30,
-      "text": "\"Ary ny matoan' ny mahantra hihinana ary ny olon-tsahirana handry fahizay; fa hataoko maty mosary ny fakanao, ary izay sisa aminao haringany.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Midradradradrà, ry vavahady, ary mitarainà, ry tanàna; ianao, ry Palestina manontolo, dia rava; fa hisy setroka ho tonga avy any avaratra, ary tsy hisy hiala amin' ny fotoany voatendry.\""
-    },
-    {
-      "v": 32,
-      "text": "Ary inona moa no valiny hoentin' ny iraky ny firenena? izao: Jehovah efa nanorina an' i Ziona, ary ao no hialofan' izay mahantra amin' ny olony."
-    }
-  ]
+  "verses": {
+    "1": "Fa Jehovah hamindra fo amin' i Jakoba ary mbola hifidy ny Isiraely indray ka hamponina azy ao amin' ny taniny; ary ny vahiny hikambana aminy, ary hifikitra amin' ny taranak' i Jakoba izy.",
+    "2": "Dia haka azy ny firenena ka hanatitra azy hody; ary ny taranak' Isiraely hanana azy ho mpanompolahiny sy mpanompovaviny ao amin' ny tanin' i Jehovah; dia ho tonga mpamabo izay namabo azy izy, ary hanapaka izay nampahory azy.",
+    "3": "Ary izao no hiseho, amin' ny andro hanomezan' i Jehovah fitsaharana anao ho afaka amin' ny fahoriana sy ny tahotra ary ny fanompoana mafy izay nampanompoana anao,",
+    "4": "Dia hataonao izao oha-teny izao ny amin' ny mpanjakan' i Babylona ka lazao hoe: Hia! mitsahatra ilay mpampahory! eny, tsy ao intsony ilay tanàna volamena!",
+    "5": "Jehovah efa nanapatapaka ny tehin' ny ratsy fanahy sy ny tehin' ny mpanapaka.",
+    "6": "Izay namely ny olona tamin' ny fahatezerana miaraka amin' ny famelezana mitohy, izay nanapaka ny firenena tamin' ny fahatezerana, dia enjehina kosa sady tsy misy manakantsakana.",
+    "7": "Miadana ka mandry fahizay ny tany rehetra; velominy ao ny hoby,",
+    "8": "Eny, ny hazo kypreso sy ny sedera any Libanona hifaly anao hoe: Hatrizay niambohoanao izay dia tsy nisy mpikapa niakatra taty aminay.",
+    "9": "Taitra ny helo any ambany noho ny aminao mba hitsena anao amin' ny fiavianao; mamoha ny maty hitsena anao izy, dia ny lehibe rehetra tambonin' ny tany; ningainy hiala tamin' ny sezafiandrianany ny mpanjakan' ny firenena rehetra.",
+    "10": "Samy hiteny aminao izy rehetra hoe: Hay ianao koa mba efa osa tahaka anay? Efa tonga tahaka anay ianao?",
+    "11": "Efa navarina ho any amin' ny fasana ny tabihanao mbamin' ny tabataban' ny valihanao; kankana no ilafihanao, ary olitra no mandrakotra anao.",
+    "12": "Endrey! latsaka avy any an-danitra, ianao, ry Losifera, zanaky ny maraina! Voakapa hianjera amin' ny tany ianao, ry ilay nandripaka ny firenena!",
+    "13": "Fa efa nanao anakampo ianao hoe: Any an-danitra no hiakarako, ary any ambonin' ny kintan' Andriamanitra no hanandratako ny sezafiandrianako; dia hipetraka eo an-tendrombohitra fivoriana any am-parany avaratra aho;",
+    "14": "Hiakatra ho any ambonin' ny havoanan' ny rahona aho ka ho tahaka ny Avo Indrindra;",
+    "15": "Kanjo hampidinina hatrany amin' ny helo ho any am-para-vodi-lavaka ianao.",
+    "16": "Izay mahita anao dia hibanjina anao sy hihevitra anao hoe: Moa io va ilay lehilahy nampihorohoro ny tany? sy nampihozongozona ny fanjakana,",
+    "17": "Ary nanao izao tontolo izao ho efitra sy nandrava ny tanànany ary tsy namoha ny tranony handefa ny mpifatotra hody?",
+    "18": "Ny mpanjaka rehetra amin' ny firenena, dia izy rehetra no samy mandry amin' ny voninahitra avokoa, ary samy ao an-tranony avy.",
+    "19": "Fa ianao kosa dia nariana niala lavitra ny fasanao, tahaka ny rantsana ratsy, sady tahaka ny fitafian' ireo voavono, dia izay voatrabaky ny sabatra, ka midina ho any amin' ny vato any an-davaka; tahaka ny faty hitsakitsahin' ny tongotra.",
+    "20": "Tsy halevina tahaka ireny ianao, satria efa nanimba ny taninao sady efa namono ny olonao; tsy hotononina mandrakizay ny taranaky ny mpanao ratsy.",
+    "21": "Manomàna famonoana hamelezana ny zanany noho ny helok' ireo razany; mba tsy hitsangana izy, na hanana ny tany, na hameno izao tontolo izao amin' ny tanàna.",
+    "22": "Fa hitsangana hamely azy Aho, hoy Jehovah, Tompon' ny maro, ary hofoanako ny anaran' i Babylona sy izay sisa ao mbamin' ny zanany sy ny zana-kavany, hoy Jehovah.",
+    "23": "Ary hataoko fonenan' ny sokina sy fihandronan' ny rano izy, ary hofafako kifafa fandringanana izy, hoy Jehovah, Tompon' ny maro.",
+    "24": "Jehovah, Tompon' ny maro, efa nianiana hoe: Araka izay noheveriko tokoa no hiseho, ary araka izay nokasaiko no hitranga.",
+    "25": "Dia ny hanorotoro ny Asyriana ao amin' ny taniko ary ny hanitsakitsaka azy eny an-tendrombohitro; ny zioga fitòndrany dia hiala amin' ireo, ary ny entany hiala amin' ny sorony.",
+    "26": "Izany no fikasana ny amin' ny tany rehetra, ary izany no tanana ahinjitra amin' ny firenena rehetra.",
+    "27": "Fa Jehovah Tompon' ny maro no efa nikasa, ka iza indray no hahafoana izany? Ary ny tanany dia voahinjitra, ka iza no hampihemotra izany?",
+    "28": "Tamin' ny taona nahafatesan' i Ahaza mpanjaka no nisy izao faminaniana loza hanjo izao:",
+    "29": "Aza mifaly ianao, ry Palestina manontolo, satria tapaka ny tsorakazon' izay namely anao; fa avy ao amin' ny bibilava no hiavian' ny menarana, ary ny aterany ho tonga menaran' afo manidina.",
+    "30": "Ary ny matoan' ny mahantra hihinana ary ny olon-tsahirana handry fahizay; fa hataoko maty mosary ny fakanao, ary izay sisa aminao haringany.",
+    "31": "Midradradradrà, ry vavahady, ary mitarainà, ry tanàna; ianao, ry Palestina manontolo, dia rava; fa hisy setroka ho tonga avy any avaratra, ary tsy hisy hiala amin' ny fotoany voatendry.",
+    "32": "Ary inona moa no valiny hoentin' ny iraky ny firenena? izao: Jehovah efa nanorina an' i Ziona, ary ao no hialofan' izay mahantra amin' ny olony."
+  }
 }

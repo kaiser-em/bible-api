@@ -1,49 +1,17 @@
 {
+  "book": "Isaia",
   "chapter": 61,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ny Fanahin' i Jehovah Tompo no ato amiko, satria Jehovah efa nanosotra Ahy hitory teny soa mahafaly amin' ny mpandefitra, efa naniraka Ahy hamehy ny torotoro fo Izy, ary hitory fanafahana amin' ny babo, sy famohana ny tranomaizina amin' izay voafatotra."
-    },
-    {
-      "v": 2,
-      "text": "\"Hitory ny taona ankasitranan' i Jehovah sy andro famalian' Andriamanitsika, hampionona ny malahelo rehetra;\""
-    },
-    {
-      "v": 3,
-      "text": "Hanolotra ho an' ny malahelo ao Ziona, hanome azy fahatsaran-tarehy ho solon' ny lavenona sy diloilo fifaliana ho solon' ny falahelovana ary fitafiana fiderana ho solon' ny fanahy reradreraka, mba hiantsoana azy hoe: Hazon'  ny fahamarinana, nambolen' i Jehovah, mba homem-boninahitra izy."
-    },
-    {
-      "v": 4,
-      "text": "Koa hatsangany ny efa rava hatry ny fony fahagola, ary hamboariny ny efa lao hatramin' ny fahiny, dia hohavaozina indray ny tanàna rava, izay efa lao hatramin' ny taranaka lasa ela."
-    },
-    {
-      "v": 5,
-      "text": "Ary ny vahiny honina ao ka hiandry ny ondry aman' osinareo, ary ny zanaky ny vahiny ho mpiasa tany sy ho mpamboatra tanimboaloboka ho anareo,"
-    },
-    {
-      "v": 6,
-      "text": "\"Fa ianareo kosa no hotononina hoe: mpisoron' i Jehovah; mpanao asa fanompoan' Andriamanitsika no hiantsoana anareo; hohaninareo ny haren' ny jentilisa, ary ho reharehanareo ny voninahiny.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ny henatrareo hosoloana avo roa heny, ary ny tondromaso hosoloana hoby amin' ny anjara-lovany; ary noho izany dia hahazo indroa heny ao amin' ny taniny izy, fifaliana mandrakizay no ho azy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Fa Izaho Jehovah dia tia rariny; halako ny fandrobana atao fanatitra dorana; homeko ny valin' asany amin' ny fahamarinana izy, ary fanekena mandrakizay no hataoko aminy.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary ny taranany ho fantatra any amin' ny jentilisa, ary ny terany any amin' ny firenena; izay rehetra mahita azy dia hahafantatra azy fa taranaka notahian' i Jehovah izy.\""
-    },
-    {
-      "v": 10,
-      "text": "Hifaly dia hifaly amin' i Jehovah aho, ny fanahiko ho ravoravo amin' Andriamanitro, fa notafiany fitafiana famonjena sy nampiakanjoiny akanjo fahamarinana aho, toy ny mpampakatra manao ny fanamiana, ary toy ny ampakarina miravaka ny firavany."
-    },
-    {
-      "v": 11,
-      "text": "Fa tahaka ny tany mampitsimoka izay ao aminy, ary tahaka ny tanimboly mampaniry izay nafafy tao aminy, dia toy izany no hampisehoan' i Jehovah Tompo fahamarinana sy fiderana eo anatrehan' ny firenena rehetra."
-    }
-  ]
+  "verses": {
+    "1": "Ny Fanahin' i Jehovah Tompo no ato amiko, satria Jehovah efa nanosotra Ahy hitory teny soa mahafaly amin' ny mpandefitra, efa naniraka Ahy hamehy ny torotoro fo Izy, ary hitory fanafahana amin' ny babo, sy famohana ny tranomaizina amin' izay voafatotra.",
+    "2": "Hitory ny taona ankasitranan' i Jehovah sy andro famalian' Andriamanitsika, hampionona ny malahelo rehetra;",
+    "3": "Hanolotra ho an' ny malahelo ao Ziona, hanome azy fahatsaran-tarehy ho solon' ny lavenona sy diloilo fifaliana ho solon' ny falahelovana ary fitafiana fiderana ho solon' ny fanahy reradreraka, mba hiantsoana azy hoe: Hazon'  ny fahamarinana, nambolen' i Jehovah, mba homem-boninahitra izy.",
+    "4": "Koa hatsangany ny efa rava hatry ny fony fahagola, ary hamboariny ny efa lao hatramin' ny fahiny, dia hohavaozina indray ny tanàna rava, izay efa lao hatramin' ny taranaka lasa ela.",
+    "5": "Ary ny vahiny honina ao ka hiandry ny ondry aman' osinareo, ary ny zanaky ny vahiny ho mpiasa tany sy ho mpamboatra tanimboaloboka ho anareo,",
+    "6": "Fa ianareo kosa no hotononina hoe: mpisoron' i Jehovah; mpanao asa fanompoan' Andriamanitsika no hiantsoana anareo; hohaninareo ny haren' ny jentilisa, ary ho reharehanareo ny voninahiny.",
+    "7": "Ny henatrareo hosoloana avo roa heny, ary ny tondromaso hosoloana hoby amin' ny anjara-lovany; ary noho izany dia hahazo indroa heny ao amin' ny taniny izy, fifaliana mandrakizay no ho azy.",
+    "8": "Fa Izaho Jehovah dia tia rariny; halako ny fandrobana atao fanatitra dorana; homeko ny valin' asany amin' ny fahamarinana izy, ary fanekena mandrakizay no hataoko aminy.",
+    "9": "Ary ny taranany ho fantatra any amin' ny jentilisa, ary ny terany any amin' ny firenena; izay rehetra mahita azy dia hahafantatra azy fa taranaka notahian' i Jehovah izy.",
+    "10": "Hifaly dia hifaly amin' i Jehovah aho, ny fanahiko ho ravoravo amin' Andriamanitro, fa notafiany fitafiana famonjena sy nampiakanjoiny akanjo fahamarinana aho, toy ny mpampakatra manao ny fanamiana, ary toy ny ampakarina miravaka ny firavany.",
+    "11": "Fa tahaka ny tany mampitsimoka izay ao aminy, ary tahaka ny tanimboly mampaniry izay nafafy tao aminy, dia toy izany no hampisehoan' i Jehovah Tompo fahamarinana sy fiderana eo anatrehan' ny firenena rehetra."
+  }
 }

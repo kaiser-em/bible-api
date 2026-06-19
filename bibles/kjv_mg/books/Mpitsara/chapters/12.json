@@ -1,65 +1,21 @@
 {
+  "book": "Mpitsara",
   "chapter": 12,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nivory ny lehilahy amin' ny Efraima, dia nandeha nianavaratra ka nanao tamin' i Jefta hoe: Nahoana no nandeha niady tamin' ny taranak' i Amona ianao ka tsy mba niantso anay hiaraka aminao? Hodoranay amin' ny afo ianao sy ny tranonao."
-    },
-    {
-      "v": 2,
-      "text": "Fa hoy Jefta taminy: Izaho sy ny oloko efa nanana ady mafy tamin' ny taranak' i Amona, ary raha niantso anareo aho, dia tsy namonjy ahy tamin' ny tanany ianareo."
-    },
-    {
-      "v": 3,
-      "text": "Ary rehefa hitako fa tsy namonjy ahy ianareo, dia nanao ny aiko tsy ho zavatra aho ka nandeha niady tamin' ny taranak' i Amona, ary natolotr' i Jehovah teo an-tanako izy, koa nahoana ianareo no miakatra aty amiko anio hiady amiko?"
-    },
-    {
-      "v": 4,
-      "text": "\"Ary Jefta dia namory ny lehilahy rehetra amin' ny Gileada ka niady tamin' ny Efraima; ary dia namely ny Efraima ny lehilahy amin' ny Gileada, satria hoy ireo: Ianareo Gileadita dia mpandositra avy amin' ny Efraima eo amin' ny taranak' i Efraima sy Manase.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Dia novonjen' ny Gileada ny fitàna any Jordana mankany amin' ny Efraima; ary nony niteny ny mpandositra avy amin' ny Efraima nanao hoe: Aoka mba hita aho; dia hoy ny lehilahy amin' ny Gileada taminy: Efraimita va ianao? ary raha hoy izy: Tsia,\""
-    },
-    {
-      "v": 6,
-      "text": "\"Dia hoy izy ireo taminy: Tonòny ary ny hoe Shiboleta, fa hoy kosa izy Siboleta, satria tsy nahay nanonona izany marina izy. Dia nisambotra azy ireo ka namono azy teo amin' ny fitàna ao Jordana; ary nahafatesana roa arivo sy efatra alina ny Efraimita tamin' izany andro izany.\""
-    },
-    {
-      "v": 7,
-      "text": "Dia nitsara ny Isiraely enin-taona Jefta. Ary maty Jefta Gileadita ka nalevina tao amin' ny tanàna anankiray any Gileada."
-    },
-    {
-      "v": 8,
-      "text": "Ary Ibzana, avy any Betlehema, no nitsara ny Isiraely nandimby an' i Jefta."
-    },
-    {
-      "v": 9,
-      "text": "Ary nanana zanakalahy telopolo sy zanakavavy telopolo izy, izay nampanambadiny tany ivelany, ary zazavavy telopolo kosa no nampidiriny ho an' ny zanany lahy. Ary nitsara ny Isiraely fito taona izy."
-    },
-    {
-      "v": 10,
-      "text": "Dia maty Ibzana ka nalevina tany Betlehema."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary Elona Zebolonita no nitsara nandimby azy; ary nitsara ny Isiraely folo taona izy.\""
-    },
-    {
-      "v": 12,
-      "text": "Dia maty Elona Zebolonita ka nalevina tany Aialona ao amin' ny tanin' ny Zebolona."
-    },
-    {
-      "v": 13,
-      "text": "Ary Abdona, zanak' i Elela, avy any Piratona, no nitsara ny Isiraely nandimby azy."
-    },
-    {
-      "v": 14,
-      "text": "Ary nanana zanakalahy efapolo sy zafy telopolo izay nitaingina zana-boriky fitopolo izy ary nitsara ny Isiraely valo taona."
-    },
-    {
-      "v": 15,
-      "text": "Ary maty Abdona, zanak' i Elela, avy any Piratona, ka nalevina tany Piratona any amin' ny tanin' ny Efraima any amin' ny tendrombohitry ny Amalekita."
-    }
-  ]
+  "verses": {
+    "1": "Ary nivory ny lehilahy amin' ny Efraima, dia nandeha nianavaratra ka nanao tamin' i Jefta hoe: Nahoana no nandeha niady tamin' ny taranak' i Amona ianao ka tsy mba niantso anay hiaraka aminao? Hodoranay amin' ny afo ianao sy ny tranonao.",
+    "2": "Fa hoy Jefta taminy: Izaho sy ny oloko efa nanana ady mafy tamin' ny taranak' i Amona, ary raha niantso anareo aho, dia tsy namonjy ahy tamin' ny tanany ianareo.",
+    "3": "Ary rehefa hitako fa tsy namonjy ahy ianareo, dia nanao ny aiko tsy ho zavatra aho ka nandeha niady tamin' ny taranak' i Amona, ary natolotr' i Jehovah teo an-tanako izy, koa nahoana ianareo no miakatra aty amiko anio hiady amiko?",
+    "4": "Ary Jefta dia namory ny lehilahy rehetra amin' ny Gileada ka niady tamin' ny Efraima; ary dia namely ny Efraima ny lehilahy amin' ny Gileada, satria hoy ireo: Ianareo Gileadita dia mpandositra avy amin' ny Efraima eo amin' ny taranak' i Efraima sy Manase.",
+    "5": "Dia novonjen' ny Gileada ny fitàna any Jordana mankany amin' ny Efraima; ary nony niteny ny mpandositra avy amin' ny Efraima nanao hoe: Aoka mba hita aho; dia hoy ny lehilahy amin' ny Gileada taminy: Efraimita va ianao? ary raha hoy izy: Tsia,",
+    "6": "Dia hoy izy ireo taminy: Tonòny ary ny hoe Shiboleta, fa hoy kosa izy Siboleta, satria tsy nahay nanonona izany marina izy. Dia nisambotra azy ireo ka namono azy teo amin' ny fitàna ao Jordana; ary nahafatesana roa arivo sy efatra alina ny Efraimita tamin' izany andro izany.",
+    "7": "Dia nitsara ny Isiraely enin-taona Jefta. Ary maty Jefta Gileadita ka nalevina tao amin' ny tanàna anankiray any Gileada.",
+    "8": "Ary Ibzana, avy any Betlehema, no nitsara ny Isiraely nandimby an' i Jefta.",
+    "9": "Ary nanana zanakalahy telopolo sy zanakavavy telopolo izy, izay nampanambadiny tany ivelany, ary zazavavy telopolo kosa no nampidiriny ho an' ny zanany lahy. Ary nitsara ny Isiraely fito taona izy.",
+    "10": "Dia maty Ibzana ka nalevina tany Betlehema.",
+    "11": "Ary Elona Zebolonita no nitsara nandimby azy; ary nitsara ny Isiraely folo taona izy.",
+    "12": "Dia maty Elona Zebolonita ka nalevina tany Aialona ao amin' ny tanin' ny Zebolona.",
+    "13": "Ary Abdona, zanak' i Elela, avy any Piratona, no nitsara ny Isiraely nandimby azy.",
+    "14": "Ary nanana zanakalahy efapolo sy zafy telopolo izay nitaingina zana-boriky fitopolo izy ary nitsara ny Isiraely valo taona.",
+    "15": "Ary maty Abdona, zanak' i Elela, avy any Piratona, ka nalevina tany Piratona any amin' ny tanin' ny Efraima any amin' ny tendrombohitry ny Amalekita."
+  }
 }

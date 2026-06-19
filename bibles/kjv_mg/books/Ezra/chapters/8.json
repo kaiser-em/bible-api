@@ -1,149 +1,42 @@
 {
+  "book": "Ezra",
   "chapter": 8,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izao no lohan' ny fianakaviany sy ny filazana ny firazanan' ny olona izay niara-niakatra tamiko avy tany Babylona tamin' ny nanjakan' i Artaksersesy mpanjaka:"
-    },
-    {
-      "v": 2,
-      "text": "\"Gersoma, avy tamin' ny taranak' i Finehasa; Daniela, avy tamin' ny taranak' Itamara; Hatosy avy tamin' ny taranak' Davida;\""
-    },
-    {
-      "v": 3,
-      "text": "\"Zakaria avy tamin' ny taranak' i Sekania, avy tamin' ny zanak' i Parosy, mbamin' ny namany dimampolo amby zato lahy voasoratra araka ny firazanany;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Elihoenay zanak' i Zerahia, avy tamin' ny taranak' i Pahata-moaba, mbamin' ny namany roanjato lahy;\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ny zanak' i Jahaziela, avy tamin' ny taranak' i Sekania, mbamin' ny namany telonjato lahy;\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ebeda, zanak' i Jonatana, avy tamin' ny taranak' i Adina mbamin' ny namany dimampolo lahy;\""
-    },
-    {
-      "v": 7,
-      "text": "\"Jesaia, zanak' i Atalia avy tamin' ny taranak' i Elama mbamin' ny namany fitopolo lahy;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Zebadia, zanak' i Mikaela avy tamin' ny taranak' i Sefatia mbamin' ny namany valopolo lahy;\""
-    },
-    {
-      "v": 9,
-      "text": "\"Obadia, zanak' i Jehiela avy tamin' ny taranak' i Joaba mbamin' ny namany valo ambin' ny folo amby roanjato lahy;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ny zanak' i Josifia avy tamin' ny taranak' i Selomita mbamin' ny namany enimpolo amby zato lahy;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Zakaria, zanak' i Bebay avy tamin' ny taranak' i Bebay mbamin' ny namany valo amby roapolo lahy;\""
-    },
-    {
-      "v": 12,
-      "text": "\"Johanana, zanak' i Hakatana avy tamin' ny taranak' i Azgada mbamin' ny namany folo amby zato lahy;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ny avy tamin' ny taranak' i Adonikama, zandriny taoriana ireo, ary izao no anarany: Elifeleta sy Jeiela sy Semaia mbamin' ny namany enimpolo lahy;\""
-    },
-    {
-      "v": 14,
-      "text": "Otahy sy Zaboda, avy tamin' ny taranak' i Bigvay mbamin' ny namany fitopolo lahy."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary novoriko teo amoron' ny ony mankany Ahava izy, ka nilasy teo hateloana izahay; ary nony nandinika ny olona sy ny mpisorona aho, dia nahita fa tsy nisy taranak' i Levy teo na dia iray akory aza.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ka dia nampanalaiko i Eliezera sy Ariela sy Semaia sy Elnatana sy Jasiba sy Elnatana sy Natana sy Zakaria sy Mesolama, loholona ireo; ary Joariba sy Elnatana, lehilahy manam-pahalalana.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary nampitondraiko didy ho any amin' Ido loholona, any amin' ny toerana Kasifia ireo, ka nambarako azy izay teny tokony holazainy amin' Ido sy ny Netinima rahalahiny any amin' ny toerana Kasifia, mba hoentiny any aminay izay mpanao asa fanompoana ho ao an-tranon' Andriamanitray."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary araka ny soa nataon' ny tanan' Andriamanitray taminay no nitondrany lehilahy manam-pahalalana avy tamin' ny taranak' i Maly, zanak' i Levy, zanak' Isiraely sy Serebia sy ny zanany mbamin' ny rahalahiny, valo ambin' ny folo lahy;\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ary Hasabia sy Jesaia, avy tamin' ny taranak' i Merary, mbamin' ny rahalahiny ary ny zanany roapolo lahy;\""
-    },
-    {
-      "v": 20,
-      "text": "\"Ary tamin' ny Netinima izay notendren' i Davida sy ny mpanapaka hanompo ny Levita, dia roapolo amby roanjato lahy; notononina anarana avokoa ireo.\""
-    },
-    {
-      "v": 21,
-      "text": "Là, près du fleuve d`Ahava, je publiai un jeûne d`humiliation devant notre Dieu, afin d`implorer de lui un heureux voyage pour nous, pour nos enfants, et pour tout ce qui nous appartenait."
-    },
-    {
-      "v": 22,
-      "text": "\"Fa nahamenatra ahy ny hangataka antokona miaramila sy mpitaingin-tsoavaly amin' ny mpanjaka hanampy anay hiady amin' ny fahavalo eny an-dalana, satria efa niteny tamin' ny mpanjaka izahay ka nanao hoe: Ny tanan' Andriamanitray mahasoa izay rehetra mitady Azy; fa ny heriny sy ny fahatezerany kosa mamely izay rehetra mahafoy azy.\""
-    },
-    {
-      "v": 23,
-      "text": "Koa nifady hanina izahay ka niangavy mafy izany tamin' Andriamanitray, dia nihaino anay Izy."
-    },
-    {
-      "v": 24,
-      "text": "Ary nanokana roa ambin' ny folo lahy tamin' ny lohan' ny mpisorona aho, dia Serebia sy Hasabia ary folo tamin' ny rahalahiny ho namany,"
-    },
-    {
-      "v": 25,
-      "text": "Ary nolanjaiko ny volafotsy sy ny volamena ho azy ireo mbamin' ny fanaka, dia ny fanatitra ho ao an-tranon' Andriamanitray izay efa natolotry ny mpanjaka sy ireo mpanolo-tsainy sy ireo mpanapaka ary ny Isiraely rehetra izay vory teo."
-    },
-    {
-      "v": 26,
-      "text": "Eny, nolanjaiko hatolotra azy ny talenta volafotsy dimampolo amby eninjato sy fanaka volafotsy, lanjan' ny talenta zato, ary talenta volamena zato,"
-    },
-    {
-      "v": 27,
-      "text": "Sy lovia volamena famafazana roapolo, lanjan' ny darika arivo ary fanaka varahina roa manganohano, sarobidy toy ny volamena."
-    },
-    {
-      "v": 28,
-      "text": "\"Ary hoy aho taminy: ianareo dia masina ho an' i Jehovah, sady masina koa ny fanaka ; ary ny volafotsy sy ny volamena dia fanati-tsitrapo ho an' i Jehovah, Andriamanitry ny razanareo.\""
-    },
-    {
-      "v": 29,
-      "text": "Koa miambena ianareo, ka tandremo ireny mandra-pandanjanareo azy indray eo anatrehan' ny lohan' ny mpisorona sy ny Levita ary ny lohan' ny fianakaviana amin' ny Isiraely any Jerosalema, dia amin' ny efitrano ao an-tranon' i Jehovah."
-    },
-    {
-      "v": 30,
-      "text": "Dia noraisin' ny mpisorona sy ny Levita ny lanjan' ny volafotsy sy ny volamena ary ny fanaka mba hoentina any Jerosalema ho ao an-tranon' Andriamanitray."
-    },
-    {
-      "v": 31,
-      "text": "Dia niala teo amin' ny ony Ahava izahay tamin' ny andro faharoa ambin' ny folo tamin' ny volana voalohany mba hankany Jerosalema ary ny tanan' Andriamanitray dia taminay, ary Izy no nanafaka anay tamin' ny tanan' ny fahavalo sy ny mpanotrika teny an-dalana."
-    },
-    {
-      "v": 32,
-      "text": "Ary tonga tany Jerosalema izahay, dia nitoetra tao hateloana."
-    },
-    {
-      "v": 33,
-      "text": "\"Ary tamin' ny andro fahefatra no nandanjana ny volafotsy sy ny volamena ary ny fanaka ho eo an-tanan' i Meremota, zanak' i Oria mpisorona, tao an-tranon' Andriamanitray; ary teo aminy koa Eleazara, zanak' i Finehasa; ary teo amin' izy roa lahy koa Jozabada, zanak' i Jesoa sy Noadia, zanak' i Binoy; Levita izy roa lahy ireo;\""
-    },
-    {
-      "v": 34,
-      "text": "\"An' isany sy an-danjany izany rehetra izany; ary voasoratra tamin' izany andro izany ny lanjany rehetra.\""
-    },
-    {
-      "v": 35,
-      "text": "\"Ary ny zanak' ireo izay nentina ho babo ka nentina avy tamin' ny fahababoana, dia nanolotra fanatitra dorana ho an' Andriamanitry ny Isiraely, dia vantotr' ombilahy roa ambin' ny folo ho an' ny Isiraely rehetra, sy ondrilahy enina amby sivifolo sy zanak' ondry fito amby fitopolo ary osilahy roa ambin' ny folo ho fanatitra noho ny ota; fanatitra dorana ho an' i Jehovah ireo rehetra ireo.\""
-    },
-    {
-      "v": 36,
-      "text": "\"Ary ny didin' ny mpanjaka dia natolony tamin' ny solo-mpanjaka sy ny mpanapaka tamin' ny ety an-dafin' ny ony ety; ary izy ireo nampandroso ny olona sy ny tranon' Andriamanitra.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no lohan' ny fianakaviany sy ny filazana ny firazanan' ny olona izay niara-niakatra tamiko avy tany Babylona tamin' ny nanjakan' i Artaksersesy mpanjaka:",
+    "2": "Gersoma, avy tamin' ny taranak' i Finehasa; Daniela, avy tamin' ny taranak' Itamara; Hatosy avy tamin' ny taranak' Davida;",
+    "3": "Zakaria avy tamin' ny taranak' i Sekania, avy tamin' ny zanak' i Parosy, mbamin' ny namany dimampolo amby zato lahy voasoratra araka ny firazanany;",
+    "4": "Elihoenay zanak' i Zerahia, avy tamin' ny taranak' i Pahata-moaba, mbamin' ny namany roanjato lahy;",
+    "5": "Ny zanak' i Jahaziela, avy tamin' ny taranak' i Sekania, mbamin' ny namany telonjato lahy;",
+    "6": "Ebeda, zanak' i Jonatana, avy tamin' ny taranak' i Adina mbamin' ny namany dimampolo lahy;",
+    "7": "Jesaia, zanak' i Atalia avy tamin' ny taranak' i Elama mbamin' ny namany fitopolo lahy;",
+    "8": "Zebadia, zanak' i Mikaela avy tamin' ny taranak' i Sefatia mbamin' ny namany valopolo lahy;",
+    "9": "Obadia, zanak' i Jehiela avy tamin' ny taranak' i Joaba mbamin' ny namany valo ambin' ny folo amby roanjato lahy;",
+    "10": "Ny zanak' i Josifia avy tamin' ny taranak' i Selomita mbamin' ny namany enimpolo amby zato lahy;",
+    "11": "Zakaria, zanak' i Bebay avy tamin' ny taranak' i Bebay mbamin' ny namany valo amby roapolo lahy;",
+    "12": "Johanana, zanak' i Hakatana avy tamin' ny taranak' i Azgada mbamin' ny namany folo amby zato lahy;",
+    "13": "Ary ny avy tamin' ny taranak' i Adonikama, zandriny taoriana ireo, ary izao no anarany: Elifeleta sy Jeiela sy Semaia mbamin' ny namany enimpolo lahy;",
+    "14": "Otahy sy Zaboda, avy tamin' ny taranak' i Bigvay mbamin' ny namany fitopolo lahy.",
+    "15": "Ary novoriko teo amoron' ny ony mankany Ahava izy, ka nilasy teo hateloana izahay; ary nony nandinika ny olona sy ny mpisorona aho, dia nahita fa tsy nisy taranak' i Levy teo na dia iray akory aza.",
+    "16": "Ka dia nampanalaiko i Eliezera sy Ariela sy Semaia sy Elnatana sy Jasiba sy Elnatana sy Natana sy Zakaria sy Mesolama, loholona ireo; ary Joariba sy Elnatana, lehilahy manam-pahalalana.",
+    "17": "Ary nampitondraiko didy ho any amin' Ido loholona, any amin' ny toerana Kasifia ireo, ka nambarako azy izay teny tokony holazainy amin' Ido sy ny Netinima rahalahiny any amin' ny toerana Kasifia, mba hoentiny any aminay izay mpanao asa fanompoana ho ao an-tranon' Andriamanitray.",
+    "18": "Ary araka ny soa nataon' ny tanan' Andriamanitray taminay no nitondrany lehilahy manam-pahalalana avy tamin' ny taranak' i Maly, zanak' i Levy, zanak' Isiraely sy Serebia sy ny zanany mbamin' ny rahalahiny, valo ambin' ny folo lahy;",
+    "19": "Ary Hasabia sy Jesaia, avy tamin' ny taranak' i Merary, mbamin' ny rahalahiny ary ny zanany roapolo lahy;",
+    "20": "Ary tamin' ny Netinima izay notendren' i Davida sy ny mpanapaka hanompo ny Levita, dia roapolo amby roanjato lahy; notononina anarana avokoa ireo.",
+    "21": "Là, près du fleuve d`Ahava, je publiai un jeûne d`humiliation devant notre Dieu, afin d`implorer de lui un heureux voyage pour nous, pour nos enfants, et pour tout ce qui nous appartenait.",
+    "22": "Fa nahamenatra ahy ny hangataka antokona miaramila sy mpitaingin-tsoavaly amin' ny mpanjaka hanampy anay hiady amin' ny fahavalo eny an-dalana, satria efa niteny tamin' ny mpanjaka izahay ka nanao hoe: Ny tanan' Andriamanitray mahasoa izay rehetra mitady Azy; fa ny heriny sy ny fahatezerany kosa mamely izay rehetra mahafoy azy.",
+    "23": "Koa nifady hanina izahay ka niangavy mafy izany tamin' Andriamanitray, dia nihaino anay Izy.",
+    "24": "Ary nanokana roa ambin' ny folo lahy tamin' ny lohan' ny mpisorona aho, dia Serebia sy Hasabia ary folo tamin' ny rahalahiny ho namany,",
+    "25": "Ary nolanjaiko ny volafotsy sy ny volamena ho azy ireo mbamin' ny fanaka, dia ny fanatitra ho ao an-tranon' Andriamanitray izay efa natolotry ny mpanjaka sy ireo mpanolo-tsainy sy ireo mpanapaka ary ny Isiraely rehetra izay vory teo.",
+    "26": "Eny, nolanjaiko hatolotra azy ny talenta volafotsy dimampolo amby eninjato sy fanaka volafotsy, lanjan' ny talenta zato, ary talenta volamena zato,",
+    "27": "Sy lovia volamena famafazana roapolo, lanjan' ny darika arivo ary fanaka varahina roa manganohano, sarobidy toy ny volamena.",
+    "28": "Ary hoy aho taminy: ianareo dia masina ho an' i Jehovah, sady masina koa ny fanaka ; ary ny volafotsy sy ny volamena dia fanati-tsitrapo ho an' i Jehovah, Andriamanitry ny razanareo.",
+    "29": "Koa miambena ianareo, ka tandremo ireny mandra-pandanjanareo azy indray eo anatrehan' ny lohan' ny mpisorona sy ny Levita ary ny lohan' ny fianakaviana amin' ny Isiraely any Jerosalema, dia amin' ny efitrano ao an-tranon' i Jehovah.",
+    "30": "Dia noraisin' ny mpisorona sy ny Levita ny lanjan' ny volafotsy sy ny volamena ary ny fanaka mba hoentina any Jerosalema ho ao an-tranon' Andriamanitray.",
+    "31": "Dia niala teo amin' ny ony Ahava izahay tamin' ny andro faharoa ambin' ny folo tamin' ny volana voalohany mba hankany Jerosalema ary ny tanan' Andriamanitray dia taminay, ary Izy no nanafaka anay tamin' ny tanan' ny fahavalo sy ny mpanotrika teny an-dalana.",
+    "32": "Ary tonga tany Jerosalema izahay, dia nitoetra tao hateloana.",
+    "33": "Ary tamin' ny andro fahefatra no nandanjana ny volafotsy sy ny volamena ary ny fanaka ho eo an-tanan' i Meremota, zanak' i Oria mpisorona, tao an-tranon' Andriamanitray; ary teo aminy koa Eleazara, zanak' i Finehasa; ary teo amin' izy roa lahy koa Jozabada, zanak' i Jesoa sy Noadia, zanak' i Binoy; Levita izy roa lahy ireo;",
+    "34": "An' isany sy an-danjany izany rehetra izany; ary voasoratra tamin' izany andro izany ny lanjany rehetra.",
+    "35": "Ary ny zanak' ireo izay nentina ho babo ka nentina avy tamin' ny fahababoana, dia nanolotra fanatitra dorana ho an' Andriamanitry ny Isiraely, dia vantotr' ombilahy roa ambin' ny folo ho an' ny Isiraely rehetra, sy ondrilahy enina amby sivifolo sy zanak' ondry fito amby fitopolo ary osilahy roa ambin' ny folo ho fanatitra noho ny ota; fanatitra dorana ho an' i Jehovah ireo rehetra ireo.",
+    "36": "Ary ny didin' ny mpanjaka dia natolony tamin' ny solo-mpanjaka sy ny mpanapaka tamin' ny ety an-dafin' ny ony ety; ary izy ireo nampandroso ny olona sy ny tranon' Andriamanitra."
+  }
 }

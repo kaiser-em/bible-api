@@ -1,81 +1,25 @@
 {
+  "book": "2 Tantara",
   "chapter": 17,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Josafata, zanak' i Asa no nanjaka nandimby azy, ary nitombo hery hiaro tena tamin' ny Isiraely izy."
-    },
-    {
-      "v": 2,
-      "text": "Ary namponina miaramila tamin' ny tanàna mimanda rehetra eran' i Joda izy sady nametraka miaramila tany amin' ny tany Joda sy tany amin' izay tanànan' ny Efraima efa azon' i Asa rainy."
-    },
-    {
-      "v": 3,
-      "text": "Ary Jehovah nomba an' i Josafata satria nandeha tamin' ny lalana voalohany nalehan' i Davida rainy izy, fa tsy mba nitady ireo Bala."
-    },
-    {
-      "v": 4,
-      "text": "Fa Jehovah, Andriamanitry ny rainy, kosa no notadiaviny, ary araka ny didiny no nalehany, fa tsy mba araka ny fanaon' ny Isiraely."
-    },
-    {
-      "v": 5,
-      "text": "\"Koa dia nampitoerin' i Jehovah teo an-tanany ny fanjakana; ary ny Joda rehetra nitondra fanomezana ho an' i Josafata, ka dia nanana harena sy voninahitra be izy.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary ny fony nihanatoky tamin' ny lalan' i Jehovah, dia noravany tsy ho eo amin' ny Joda ny fitoerana avo sy ny Aseraha."
-    },
-    {
-      "v": 7,
-      "text": "Ary tamin' ny taona fahatelo nanjakany dia naniraka ny mpanapaka koa izy, dia Benaila sy Obadia sy Zakaria sy Netanela ary Mikaia, hampianatra tany amin' ny tanànan' ny Joda."
-    },
-    {
-      "v": 8,
-      "text": "Ary nisy Levita koa niaraka tamin' ireo dia Semaia sy Netania sy Zebadia sy Asahela sy Semiramota sy Jonatana sy Adonia sy Tobia ary Tob-adonia, Levita, mbamin' i Elisama sy Jorama mpisorona."
-    },
-    {
-      "v": 9,
-      "text": "Ary nampianatra tany Joda izy ireo, ka nentiny ny bokin' ny lalàn' i Jehovah, dia nitety ny tanànan' ny Joda rehetra izy ka nampianatra ny olona."
-    },
-    {
-      "v": 10,
-      "text": "Ary ny tahotra an' i Jehovah nahazo ny fanjakana rehetra tamin' ny tany manodidina an' i Joda, ka dia tsy nisy niady tamin' i Josafata ireo."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary koa ny Filistina sasany nitondra fanomezana sy volafotsy ho hetra ho an' i Josafata ; ary ny arabo dia nitondra ho azy ondry aman' osy, dia ondrilahy fitonjato amby fito arivo sy osilahy fitonjato amby fito arivo.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary Josafata nihanahery indrindra ka nanao lapan' andriana sy tanàna fitahirizana tany Joda."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary nanana raharaha betsaka tao an-tanànan' i Joda izy; ary ny miaramila sy ny lehilahy matanjaka sady be herim-po dia tao Jerosalema.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary izao no isan' izy ireo araka ny ankohonan' ny rainy avy: ireo mpifehy arivo tamin' ny Joda dia Adna komandy, ary ny miaraka aminy dia lehilahy matanjaka sy be herim-po telo hetsy;\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ny manarakaraka azy dia Johanana komandy ary ny miaraka aminy dia valo alina amby roa hetsy;\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary manarakaraka azy dia Amasia, zanak' i Zikry, izay nanolotena an-tsitrapo ho an' i Jehovah; ary ny miaraka aminy dia lehilahy matanjaka sy be herim-po roa hetsy.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary tamin' ny Benjamina dia Eliada, lehilahy matanjaka sy be herim-po, ary ny miaraka aminy dia lehilahy roa hetsy mpiady mitondra tsipìka sy ampinga."
-    },
-    {
-      "v": 18,
-      "text": "Ary nanarakaraka azy dia Jozabada, ary ny miaraka aminy dia lehilahy valo alina amby iray hetsy voaomana hiady."
-    },
-    {
-      "v": 19,
-      "text": "Ireo no mpitoetra tamin' ny mpanjaka, afa-tsy izay nampitoerin' ny mpanjaka tany amin' ny tanàna mimanda eran' ny Joda rehetra."
-    }
-  ]
+  "verses": {
+    "1": "Ary Josafata, zanak' i Asa no nanjaka nandimby azy, ary nitombo hery hiaro tena tamin' ny Isiraely izy.",
+    "2": "Ary namponina miaramila tamin' ny tanàna mimanda rehetra eran' i Joda izy sady nametraka miaramila tany amin' ny tany Joda sy tany amin' izay tanànan' ny Efraima efa azon' i Asa rainy.",
+    "3": "Ary Jehovah nomba an' i Josafata satria nandeha tamin' ny lalana voalohany nalehan' i Davida rainy izy, fa tsy mba nitady ireo Bala.",
+    "4": "Fa Jehovah, Andriamanitry ny rainy, kosa no notadiaviny, ary araka ny didiny no nalehany, fa tsy mba araka ny fanaon' ny Isiraely.",
+    "5": "Koa dia nampitoerin' i Jehovah teo an-tanany ny fanjakana; ary ny Joda rehetra nitondra fanomezana ho an' i Josafata, ka dia nanana harena sy voninahitra be izy.",
+    "6": "Ary ny fony nihanatoky tamin' ny lalan' i Jehovah, dia noravany tsy ho eo amin' ny Joda ny fitoerana avo sy ny Aseraha.",
+    "7": "Ary tamin' ny taona fahatelo nanjakany dia naniraka ny mpanapaka koa izy, dia Benaila sy Obadia sy Zakaria sy Netanela ary Mikaia, hampianatra tany amin' ny tanànan' ny Joda.",
+    "8": "Ary nisy Levita koa niaraka tamin' ireo dia Semaia sy Netania sy Zebadia sy Asahela sy Semiramota sy Jonatana sy Adonia sy Tobia ary Tob-adonia, Levita, mbamin' i Elisama sy Jorama mpisorona.",
+    "9": "Ary nampianatra tany Joda izy ireo, ka nentiny ny bokin' ny lalàn' i Jehovah, dia nitety ny tanànan' ny Joda rehetra izy ka nampianatra ny olona.",
+    "10": "Ary ny tahotra an' i Jehovah nahazo ny fanjakana rehetra tamin' ny tany manodidina an' i Joda, ka dia tsy nisy niady tamin' i Josafata ireo.",
+    "11": "Ary koa ny Filistina sasany nitondra fanomezana sy volafotsy ho hetra ho an' i Josafata ; ary ny arabo dia nitondra ho azy ondry aman' osy, dia ondrilahy fitonjato amby fito arivo sy osilahy fitonjato amby fito arivo.",
+    "12": "Ary Josafata nihanahery indrindra ka nanao lapan' andriana sy tanàna fitahirizana tany Joda.",
+    "13": "Ary nanana raharaha betsaka tao an-tanànan' i Joda izy; ary ny miaramila sy ny lehilahy matanjaka sady be herim-po dia tao Jerosalema.",
+    "14": "Ary izao no isan' izy ireo araka ny ankohonan' ny rainy avy: ireo mpifehy arivo tamin' ny Joda dia Adna komandy, ary ny miaraka aminy dia lehilahy matanjaka sy be herim-po telo hetsy;",
+    "15": "Ary ny manarakaraka azy dia Johanana komandy ary ny miaraka aminy dia valo alina amby roa hetsy;",
+    "16": "Ary manarakaraka azy dia Amasia, zanak' i Zikry, izay nanolotena an-tsitrapo ho an' i Jehovah; ary ny miaraka aminy dia lehilahy matanjaka sy be herim-po roa hetsy.",
+    "17": "Ary tamin' ny Benjamina dia Eliada, lehilahy matanjaka sy be herim-po, ary ny miaraka aminy dia lehilahy roa hetsy mpiady mitondra tsipìka sy ampinga.",
+    "18": "Ary nanarakaraka azy dia Jozabada, ary ny miaraka aminy dia lehilahy valo alina amby iray hetsy voaomana hiady.",
+    "19": "Ireo no mpitoetra tamin' ny mpanjaka, afa-tsy izay nampitoerin' ny mpanjaka tany amin' ny tanàna mimanda eran' ny Joda rehetra."
+  }
 }

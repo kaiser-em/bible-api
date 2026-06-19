@@ -1,129 +1,37 @@
 {
+  "book": "Mpitsara",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Koa ireto no firenena navelan' i Jehovah hoentiny mizaha toetra ny Isiraely amin' ny alalany, dia izay Isiraely rehetra tsy mba nahalala ny ady rehetra tany Kanana,"
-    },
-    {
-      "v": 2,
-      "text": "Mba ho fantatry ny taranaky ny Zanak' Isiraely izany amin' ny fampianarany azy hiady, indrindra fa izay tsy mbola nahalala izany akory teo aloha:"
-    },
-    {
-      "v": 3,
-      "text": "Dia ireo andriana dimy tamin' ny Filistina sy ny Kananita rehetra sy ny Sidoniana ary ny Hivita, izay nonina tany an-tendrombohitra Libanona, hatrao akaikin' i Bala-hermona ka hatramin' ny fidirana mankany Hamata."
-    },
-    {
-      "v": 4,
-      "text": "Ary nentina nizaha toetra ny Isiraely ireo mba hahalalana na hihaino ny didin' i Jehovah, izay nasainy nandidian' i Mosesy ny razany izy, na tsia."
-    },
-    {
-      "v": 5,
-      "text": "Ary ny Zanak' Isiraely nonina teo amin' ny Kananita sy ny Hetita sy ny Amorita sy ny Perizita sy ny Hivita ary ny Jebosita."
-    },
-    {
-      "v": 6,
-      "text": "Ary naka ny zanakavavin' ireny ho vadiny izy sady nanome ny zanany vavy ho vadin' ny zanakalahin' ireny ka nanompo ny andriamaniny."
-    },
-    {
-      "v": 7,
-      "text": "Ary nanao izay ratsy teo imason' i Jehovah ny Zanak' Isiraely ka nanadino an' i Jehovah Andriamaniny ary nanompo ireo Bala sy Aseraha."
-    },
-    {
-      "v": 8,
-      "text": "\"Dia nirehitra tamin' ny Isiraely ny fahatezeran' i Jehovah, ka nivarotra azy ho eo an-tanan' i Kosan-risataima, mpanjakan' i Mesopotamia Izy; dia nanompo an' i Kosan-risataima valo taona ny Zanak' Isiraely.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary rehefa nitaraina tamin' i Jehovah ny Zanak' Isiraely, dia nanangana mpanafaka ho an' ny Zanak' Isiraely Jehovah, izay nanafaka azy ireo, dia Otniela, zanak' i Kenaza, zandrin' i Kaleba."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary ny Fanahin' i Jehovah no tao aminy, dia nitsara ny Isiraely izy sady nivoaka niady; ary Kosan-risataima, mpanjakan' i Mesopotamia dia natolotr' i Jehovah teo an-tanany; ary nahery ny tanany ka namely an' i Kosan-risataima.\""
-    },
-    {
-      "v": 11,
-      "text": "Dia nandry efapolo taona ny tany. Ary maty Otniela, zanak' i Kenaza."
-    },
-    {
-      "v": 12,
-      "text": "Fa nanao izay ratsy teo imason' i Jehovah indray ny Zanak' Isiraely, ary Jehovah nampahery an' i Eglona, mpanjakan' i Moaba, hiady amin' ny Isiraely, satria nanao izay ratsy teo imason' i Jehovah izy."
-    },
-    {
-      "v": 13,
-      "text": "Dia nampiangona ny taranak' i Amona sy Amaleka ho any aminy izy, ary nandeha izy ireo ka namely ny Isiraely, dia nahafaka ny tanàna be palma."
-    },
-    {
-      "v": 14,
-      "text": "Dia nanompo an' i Eglona, mpanjakan' i Moaba valo ambin' ny folo taona ny Zanak' Isiraely."
-    },
-    {
-      "v": 15,
-      "text": "\"Fa rehefa nitaraina tamin' i Jehovah ny Zanak' Isiraely, dia nanangana mpanafaka ho azy Jehovah, dia Ehoda, zanak' i Gera, Benjamita, lehilahy kavia; dia nampitondra azy fanomezana ho an' i Eglona, mpanjakan' i Moaba ny Zanak' Isiraely.\""
-    },
-    {
-      "v": 16,
-      "text": "Fa nanao lefom-pohy izay roa lela Ehoda, hakiho ny halavany, dia nataony tao amin' ny fehikibony ambanin' ny akanjo fiadiany izany, teny am-balahany ankavanana."
-    },
-    {
-      "v": 17,
-      "text": "\"Dia nitondra ny fanomezana ho an' i Eglona, mpanjakan' i Moaba, izy; ary lehilahy matavibe Eglona.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary rehefa vitany ny fanolorana ny fanomezana, dia nampodiny ny olona izay nitondra izany."
-    },
-    {
-      "v": 19,
-      "text": "\"Fa nony tonga teo amin' ny fihadiam-bato izay any Gilgala kosa izy, dia niverina ka nanao hoe: Misy teny holazaiko mangingina aminao, ry mpanjaka; dia hoy ny mpanjaka: Aoka hisy fahanginana; ary izay rehetra nitsangana teo anilany dia niala teo aminy.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary Ehoda nanatona azy, raha nipetraka irery tao an' efitra fihatsiatsiahana amin' ny fahavaratra izy. Dia hoy Ehoda: Misy hafatra avy amin' Andriamanitra ho anao. Dia nitsangana niala tamin' ny fitoerany Eglona."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary naninjitra ny tanany ankavia Ehoda ka nandray ilay lefom-pohy teny am-balahany ankavanana, dia natsatony tamin' ny kibon' i Eglona izany;\""
-    },
-    {
-      "v": 22,
-      "text": "Ary difotra mbamin' ny zarany, dia voasaron' ny taviny ny lefom-pohy ka dia tsy afa-nanatsoaka ny lefom-pohy tamin' ny kibony izy, dia nibororoaka ny maloto."
-    },
-    {
-      "v": 23,
-      "text": "Dia nivoaka teo amin' ny lavarangana Ehoda ka nandrindrina ny varavaran' ny trano ary nanidy azy tao."
-    },
-    {
-      "v": 24,
-      "text": "\"Ary rehefa nivoaka izy, dia tonga teo ny mpanompon' i Eglona; ary raha hitany fa, indro, voahidy ny varavaran' ny efitra fihatsiatsiahana dia hoy ireo: Miavela tokoa ao an-trano fihatsiatsiahana izy.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Dia niandry mandra-pahaveri-heviny izy ireo, nefa, indro, tsy namoha ny varavaran' ny efitrano fihatsiatsiahana izy, koa naka fanalahidy izy ireo ka namoha azy; ary, indro, maty niampatra tamin' ny tany ny tompony.\""
-    },
-    {
-      "v": 26,
-      "text": "Fa Ehoda efa nandositra, raha mbola nitaredretra izy ireo, ka efa nihoatra ny fihadiam-bato, dia nandositra ho any Seirata."
-    },
-    {
-      "v": 27,
-      "text": "Ary izao no niseho, rehefa tonga izy, dia nitsoka anjomara tany an-tendrombohitr' i Efraima, dia nidina nanaraka azy avy any an-tendrombohitra ny Zanak' Isiraely, ary izy no nitarika azy."
-    },
-    {
-      "v": 28,
-      "text": "Ary hoy izy taminy: Manaraha ahy, fa efa natolotr' i Jehovah eo an-tananareo ny Moabita fahavalonareo. Dia nidina nanaraka azy ny olona, ka azony ny fitàna any Jordana hankany Moaba, ary tsy nisy navelany hita na dia iray akory aza."
-    },
-    {
-      "v": 29,
-      "text": "\"Dia namono ny Moabita tokony ho iray alin-dahy tamin' izany fotoana izany izy, dia olona matanjaka sy be herim-po izy rehetra; ary tsy nisy afa-nandositra na dia iray akory aza.\""
-    },
-    {
-      "v": 30,
-      "text": "Dia resin' ny tanan' ny Isiraely ny Moabita tamin' izany andro izany. Ary nandry valopolo taona ny tany."
-    },
-    {
-      "v": 31,
-      "text": "\"Ary nanarakaraka azy Samgara, zanak' i Anata, izay namono ny Filistina eninjato lahy tamin' ny fanindronan' omby; dia nanafaka ny Isiraely koa izy.\""
-    }
-  ]
+  "verses": {
+    "1": "Koa ireto no firenena navelan' i Jehovah hoentiny mizaha toetra ny Isiraely amin' ny alalany, dia izay Isiraely rehetra tsy mba nahalala ny ady rehetra tany Kanana,",
+    "2": "Mba ho fantatry ny taranaky ny Zanak' Isiraely izany amin' ny fampianarany azy hiady, indrindra fa izay tsy mbola nahalala izany akory teo aloha:",
+    "3": "Dia ireo andriana dimy tamin' ny Filistina sy ny Kananita rehetra sy ny Sidoniana ary ny Hivita, izay nonina tany an-tendrombohitra Libanona, hatrao akaikin' i Bala-hermona ka hatramin' ny fidirana mankany Hamata.",
+    "4": "Ary nentina nizaha toetra ny Isiraely ireo mba hahalalana na hihaino ny didin' i Jehovah, izay nasainy nandidian' i Mosesy ny razany izy, na tsia.",
+    "5": "Ary ny Zanak' Isiraely nonina teo amin' ny Kananita sy ny Hetita sy ny Amorita sy ny Perizita sy ny Hivita ary ny Jebosita.",
+    "6": "Ary naka ny zanakavavin' ireny ho vadiny izy sady nanome ny zanany vavy ho vadin' ny zanakalahin' ireny ka nanompo ny andriamaniny.",
+    "7": "Ary nanao izay ratsy teo imason' i Jehovah ny Zanak' Isiraely ka nanadino an' i Jehovah Andriamaniny ary nanompo ireo Bala sy Aseraha.",
+    "8": "Dia nirehitra tamin' ny Isiraely ny fahatezeran' i Jehovah, ka nivarotra azy ho eo an-tanan' i Kosan-risataima, mpanjakan' i Mesopotamia Izy; dia nanompo an' i Kosan-risataima valo taona ny Zanak' Isiraely.",
+    "9": "Ary rehefa nitaraina tamin' i Jehovah ny Zanak' Isiraely, dia nanangana mpanafaka ho an' ny Zanak' Isiraely Jehovah, izay nanafaka azy ireo, dia Otniela, zanak' i Kenaza, zandrin' i Kaleba.",
+    "10": "Ary ny Fanahin' i Jehovah no tao aminy, dia nitsara ny Isiraely izy sady nivoaka niady; ary Kosan-risataima, mpanjakan' i Mesopotamia dia natolotr' i Jehovah teo an-tanany; ary nahery ny tanany ka namely an' i Kosan-risataima.",
+    "11": "Dia nandry efapolo taona ny tany. Ary maty Otniela, zanak' i Kenaza.",
+    "12": "Fa nanao izay ratsy teo imason' i Jehovah indray ny Zanak' Isiraely, ary Jehovah nampahery an' i Eglona, mpanjakan' i Moaba, hiady amin' ny Isiraely, satria nanao izay ratsy teo imason' i Jehovah izy.",
+    "13": "Dia nampiangona ny taranak' i Amona sy Amaleka ho any aminy izy, ary nandeha izy ireo ka namely ny Isiraely, dia nahafaka ny tanàna be palma.",
+    "14": "Dia nanompo an' i Eglona, mpanjakan' i Moaba valo ambin' ny folo taona ny Zanak' Isiraely.",
+    "15": "Fa rehefa nitaraina tamin' i Jehovah ny Zanak' Isiraely, dia nanangana mpanafaka ho azy Jehovah, dia Ehoda, zanak' i Gera, Benjamita, lehilahy kavia; dia nampitondra azy fanomezana ho an' i Eglona, mpanjakan' i Moaba ny Zanak' Isiraely.",
+    "16": "Fa nanao lefom-pohy izay roa lela Ehoda, hakiho ny halavany, dia nataony tao amin' ny fehikibony ambanin' ny akanjo fiadiany izany, teny am-balahany ankavanana.",
+    "17": "Dia nitondra ny fanomezana ho an' i Eglona, mpanjakan' i Moaba, izy; ary lehilahy matavibe Eglona.",
+    "18": "Ary rehefa vitany ny fanolorana ny fanomezana, dia nampodiny ny olona izay nitondra izany.",
+    "19": "Fa nony tonga teo amin' ny fihadiam-bato izay any Gilgala kosa izy, dia niverina ka nanao hoe: Misy teny holazaiko mangingina aminao, ry mpanjaka; dia hoy ny mpanjaka: Aoka hisy fahanginana; ary izay rehetra nitsangana teo anilany dia niala teo aminy.",
+    "20": "Ary Ehoda nanatona azy, raha nipetraka irery tao an' efitra fihatsiatsiahana amin' ny fahavaratra izy. Dia hoy Ehoda: Misy hafatra avy amin' Andriamanitra ho anao. Dia nitsangana niala tamin' ny fitoerany Eglona.",
+    "21": "Ary naninjitra ny tanany ankavia Ehoda ka nandray ilay lefom-pohy teny am-balahany ankavanana, dia natsatony tamin' ny kibon' i Eglona izany;",
+    "22": "Ary difotra mbamin' ny zarany, dia voasaron' ny taviny ny lefom-pohy ka dia tsy afa-nanatsoaka ny lefom-pohy tamin' ny kibony izy, dia nibororoaka ny maloto.",
+    "23": "Dia nivoaka teo amin' ny lavarangana Ehoda ka nandrindrina ny varavaran' ny trano ary nanidy azy tao.",
+    "24": "Ary rehefa nivoaka izy, dia tonga teo ny mpanompon' i Eglona; ary raha hitany fa, indro, voahidy ny varavaran' ny efitra fihatsiatsiahana dia hoy ireo: Miavela tokoa ao an-trano fihatsiatsiahana izy.",
+    "25": "Dia niandry mandra-pahaveri-heviny izy ireo, nefa, indro, tsy namoha ny varavaran' ny efitrano fihatsiatsiahana izy, koa naka fanalahidy izy ireo ka namoha azy; ary, indro, maty niampatra tamin' ny tany ny tompony.",
+    "26": "Fa Ehoda efa nandositra, raha mbola nitaredretra izy ireo, ka efa nihoatra ny fihadiam-bato, dia nandositra ho any Seirata.",
+    "27": "Ary izao no niseho, rehefa tonga izy, dia nitsoka anjomara tany an-tendrombohitr' i Efraima, dia nidina nanaraka azy avy any an-tendrombohitra ny Zanak' Isiraely, ary izy no nitarika azy.",
+    "28": "Ary hoy izy taminy: Manaraha ahy, fa efa natolotr' i Jehovah eo an-tananareo ny Moabita fahavalonareo. Dia nidina nanaraka azy ny olona, ka azony ny fitàna any Jordana hankany Moaba, ary tsy nisy navelany hita na dia iray akory aza.",
+    "29": "Dia namono ny Moabita tokony ho iray alin-dahy tamin' izany fotoana izany izy, dia olona matanjaka sy be herim-po izy rehetra; ary tsy nisy afa-nandositra na dia iray akory aza.",
+    "30": "Dia resin' ny tanan' ny Isiraely ny Moabita tamin' izany andro izany. Ary nandry valopolo taona ny tany.",
+    "31": "Ary nanarakaraka azy Samgara, zanak' i Anata, izay namono ny Filistina eninjato lahy tamin' ny fanindronan' omby; dia nanafaka ny Isiraely koa izy."
+  }
 }

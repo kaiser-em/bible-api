@@ -1,237 +1,64 @@
 {
+  "book": "1 Samoela",
   "chapter": 17,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary ny Filistina namory ny miaramilany hiady, ka tafavory tao Soko any Joda izy ary nitoby teo anelanelan' i Soko sy Azeka, dia tao Efesadamima."
-    },
-    {
-      "v": 2,
-      "text": "Ary Saoly sy ny lehilahy amin' ny Isiraely dia tafavory ka nitoby teo amin' ny lohasaha Elaha ary nilahatra hiady amin' ny Filistina."
-    },
-    {
-      "v": 3,
-      "text": "Ary ny Filistina dia teo am-pita teo amin' ny tendrombohitra iray, ary ny Isiraely kosa teo am-pita teo amin' ny tendrombohitra iray, ary lohasaha no elanelany."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary nisy olo-mahery iray mpihantsy ady nivoaka avy teny amin' ny tobin' ny Filistina, Goliata avy any Gata no anarany; enina hakiho sy irain-jehy no halavany.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary nisatroka fiarovan-doha varahina izy, ary niakanjo fiarovan-tratra, ka ny lanjan' ny akanjony varahina dia dimy arivo sekely."
-    },
-    {
-      "v": 6,
-      "text": "Ary nanao fiarovan-dranjo varahina tamin' ny tongony izy ary ampinga varahina teo an-damosiny."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary ny haben' ny zaran-defony dia tahaka ny vodi-tenon' ny mpanenona ary ny lela-lefony dia vy lanjan-tsekely eninjato; ary nisy nitondra ampinga lehibe nandeha teo alohany.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary nijanona izy, dia niantso ny miaramilan' ny Isiraely ka nanao taminy hoe: Nahoana ianareo no mivoaka hilahatra hiady? Tsy Filistina va aho, ary ianareo kosa mpanompon' i Saoly? Mifidiana lehilahy iray ianareo, ary aoka izy hidina ety amiko."
-    },
-    {
-      "v": 9,
-      "text": "\"Raha tàhiny maharesy ahy izy ka mahafaty ahy, dia ho mpanomponareo izahay; fa raha resiko kosa izy ka matiko, dia ho mpanomponay ianareo ka hanompo anay.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary hoy ilay Filistina: Izaho efa nihaika ny miaramilan' ny Isiraely androany; omeo lehilahy iray aho hiady amiko.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary raha ren' i Saoly sy ny Isiraely rehetra izany tenin' ilay Filistina izany, dia nivadi-po izy ka raiki-tahotra indrindra."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary Davida dia zanak' ilay Efratita, izay avy any Betlehema-joda atao hoe Jese, izay nanana zanaka valo mirahalahy; ary Jese dia efa zokiolona sy anti-panahy tamin' ny andron' i Saoly;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ny zokiny telo lahy tamin' i zanak' i Jese lasa nanaraka an' i Saoly nankany an-tafika; ary ny anaran' ny zanany telo lahy lasa nankany an-tafika dia Eliaba, lahimatoa, sy Abinadaba, lahiaivo, ary Sama no fahatelo;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary Davida no faralahy; ary izy telo lahy zokiny lasa nanaraka an' i Saoly;\""
-    },
-    {
-      "v": 15,
-      "text": "Fa Davida kosa nivoivoy avy tany amin' i Saoly hiandry ny ondrin-drainy tany Betlehema."
-    },
-    {
-      "v": 16,
-      "text": "Ary ilay Filistina nanatona marain-tsy hariva ka niseho efapolo andro."
-    },
-    {
-      "v": 17,
-      "text": "Ary hoy Jese tamin' i Davida zanany: Ento ity lango eran' ny efaha ity sy ireto mofo folo ireto ho an' ny rahalahinao, ka dia mihazakazaha ho any an-toby ho any amin' ny rahalahinao."
-    },
-    {
-      "v": 18,
-      "text": "Ary ento ho an' ny mpifehy arivony ireto fromazy didiny folo ireto, dia izahao na tsara ihany ny rahalahinao, na manao ahoana, ary itondray izay hahafantarako ny toeny aho."
-    },
-    {
-      "v": 19,
-      "text": "Ary Saoly sy izy telo lahy mbamin' ny lehilahy rehetra amin' ny Isiraely dia teo amin' ny lohasaha Elaha niady tamin' ny Filistina."
-    },
-    {
-      "v": 20,
-      "text": "\"Dia nifoha maraina koa Davida ka namela ny ondriny tamin' ny mpiandry, dia naka ny entana izy ka lasa nandeha araka ny nandidian' i Jese azy; ary tonga teo amin' ny sehatra-sarety izy; ary ny antokon' ny miaramila izay efa hivoaka hilahatra dia nanakora hiady tamin' izay.\""
-    },
-    {
-      "v": 21,
-      "text": "Fa ny Isiraely sy ny Filistina efa nilahatra hiady ka nifanatrika ny miaramila."
-    },
-    {
-      "v": 22,
-      "text": "Ary Davida namela ny entany teo an-tanan' ny mpiambina entana, dia nihazakazaka nankeny amin' ny tafika, ary tonga ka niarahaba ny rahalahiny."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary raha mbola niresaka taminy izy, indro, tamy niakatra avy teo amin' ny laharan' ny miaramilan' ny Filistina ilay olo-mahery mpihantsy ady, lehilahy Filistina avy any Gata, Goliata no anarany; ary niteny tahaka ny teo aloha ihany izy, ka ren' i Davida.\""
-    },
-    {
-      "v": 24,
-      "text": "Ary ny lehilahy rehetra amin' ny Isiraely, raha nahita io lehilahy io, dia nandositra azy, fa natahotra indrindra izy."
-    },
-    {
-      "v": 25,
-      "text": "\"Ary hoy ny lehilahy amin' ny Isiraely: efa hitanareo va io lehilahy miakatra io? Hihaika ny Isiraely tokoa no iakarany; koa izay lehilahy mahafaty io dia hataon' ny mpanjaka manankarem-bevava, ary homeny koa ny zanany vavy ho vadiny, sady tsy hampandoavin-ketra amin' ny Isiraely ny tarana-drainy.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary hoy Davida tamin' ny olona teo anilany: ahoana sy ahoana ange no hatao amin' izay lehilahy mahafaty io Filistina io ka mahafa-tondromaso ny Isiraely? Fa zinona moa io Filistina tsy mifora io, no dia hihaika ny miaramilan' Andriamanitra velona?"
-    },
-    {
-      "v": 27,
-      "text": "Ary ny olona namaly hoe: Izany ka izany no hatao amin' izay lehilahy mahafaty azy."
-    },
-    {
-      "v": 28,
-      "text": "Ary Eliaba zokiny nandre azy niteny tamin' ny olona, dia nirehitra tamin' i Davida ny fahatezerany, ka hoy izy: Nahoana ianao no midina ety? Ary amin' iza moa no namelanao ireny ondry vitsy ireny any an' efitra? Fantatro ny avonavonao sy ny faharatsian' ny fonao, fa hizaha ny ady no idinanao ety."
-    },
-    {
-      "v": 29,
-      "text": "Ary hoy Davida: Moa maninona aho izao? Moa tsy misy antony va?"
-    },
-    {
-      "v": 30,
-      "text": "\"Ary niala teo aminy hankany amin' ny sasany koa izy ka niteny tahaka ny teo; ary ny olona namaly azy tahaka ny teo ihany indray.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Ary nony ren' ny olona ny teny izay nataon' i Davida, dia nambarany tamin' i Saoly; ka dia naniraka naka azy izy.\""
-    },
-    {
-      "v": 32,
-      "text": "\"Ary hoy Davida tamin' i Saoly: Aoka tsy hisy ho ketraka amin' ilehio ny fon' ny olona; fa ny mpanomponao handeha hiady amin' io Filistina io.\""
-    },
-    {
-      "v": 33,
-      "text": "Fa hoy Saoly tamin' i Davida: Tsy tohanao ny handeha hiady amin' io Filistina io, satria mbola tanora ihany ianao, fa izy efa mpiady hatramin' ny fahatanorany."
-    },
-    {
-      "v": 34,
-      "text": "\"Fa hoy Davida tamin' i Saoly: Ny mpanomponao niandry ny ondrin-drainy, ary nisy liona sy bera tonga tao ka naka zanak' ondry teo amin' ny ondry;\""
-    },
-    {
-      "v": 35,
-      "text": "\"Dia nanenjika azy aho ka namely azy, ary nanafaka ny zanak' ondry teny am-bavany; ary nony handramatra ahy izy, dia nohazoniko tamin' ny somony, ary nasiako ka matiko.\""
-    },
-    {
-      "v": 36,
-      "text": "\"Ny liona sy ny bera samy efa novonoin' ny mpanomponao; ary io Filistina tsy mifora io dia ho tahaka ny anankiray amin' ireny, satria nihaika ny miaramilan' Andriamanitra velona izy.\""
-    },
-    {
-      "v": 37,
-      "text": "Ary hoy koa Davida: Jehovah, Izay nanafaka ahy tamin' ny tanan' ny liona sy ny tanan' ny bera, Izy no hanafaka ahy amin' ny tanan' io Filistina io. Dia hoy Saoly tamin' i Davida: Mandehana, ary homba anao anie Jehovah."
-    },
-    {
-      "v": 38,
-      "text": "Ary Saoly nampiakanjo an' i Davida ny akanjo fiadiany ary nanisy fiarovan-doha varahina tamin' ny lohany sy nampiakanjo azy akanjo fiarovan-tratra."
-    },
-    {
-      "v": 39,
-      "text": "\"Ary Davida namehy ny sabany tamin' ny akanjo fiadiany, dia nanandrana nandeha; fa tsy mbola nahazatra azy izany, ka hoy izy tamin' ny Saoly: Tsy afa-mandeha amin ireto aho, fa tsy mbola nahazatra ahy; ary dia nesorin' i Davida izany.\""
-    },
-    {
-      "v": 40,
-      "text": "\"Dia nitondra ny tehiny teny an-tanany izy sady nifidy vato kilonjy dimy tao amin' ny lohasahan-driaka, ka nataony tao anatin' ny kitapo fitondran' ny mpiandry ondry, izay teny aminy, ary ny antsamotady koa teny an-tanany; dia nanatona ilay Filistina izy.\""
-    },
-    {
-      "v": 41,
-      "text": "Ary ilay Filistina nandroso nanatona an' i Davida, sady teo alohany ilay lehilahy mitondra ny ampinga lehibe."
-    },
-    {
-      "v": 42,
-      "text": "Ary nony nijerijery ilay Filistina ka nahita an' i Davida, dia nianjonanjona taminy, fa mbola tanora izy sady mena tendron-tava no tsara tarehy."
-    },
-    {
-      "v": 43,
-      "text": "Ary hoy ilay Filistina tamin' i Davida: Alika angaha aho, no hatonin' ialahy amin' ny tehina? Ary nanozona an' i Davida tamin' ireo andriamaniny ilay Filistina."
-    },
-    {
-      "v": 44,
-      "text": "Ary hoy ilay Filistina tamin' i Davida: Avia ety amiko, dia homeko ny voro-manidina eny amin' ny habakabaka sy ny biby any an-tsaha ny nofon' ialahy."
-    },
-    {
-      "v": 45,
-      "text": "\"Fa hoy kosa Davida tamin' ilay Filistina: Ianao manatona ahy amin' ny sabatra sy ny lefona ary ny ampinga; fa izaho kosa manatona anao amin' ny anaran' i Jehovah, Tompon' ny maro, Andriamanitry ny miaramilan' ny Isiraely, Izay efa nohaikainao.\""
-    },
-    {
-      "v": 46,
-      "text": "Anio no hanoloran' i Jehovah anao amin' ny tanako, ary hamely anao aho ka hanapaka ny lohanao, dia homeko ny voro-manidina eny amin' ny habakabaka sy ny biby dia ety ambonin' ny tany ny fatin' ny miaramilan' ny Filistina anio, mba ho fantatry ny tany rehetra fa manana Andriamanitra tokoa ny Isiraely."
-    },
-    {
-      "v": 47,
-      "text": "\"Ary ho fantatr' izao fiangonana rehetra izao fa tsy sabatra sy lefona no amonjen' i Jehovah; fa an' i Jehovah ny ady, ary hanolotra anareo ho eo an-tananay Izy.\""
-    },
-    {
-      "v": 48,
-      "text": "Ary izao no niseho, nony niainga ilay Filistina ka nanatona hitsena an' i Davida, dia nandroso faingana Davida ka nihazakazaka ho eo amin' ny laharan' ny tafika hitsena ilay Filistina."
-    },
-    {
-      "v": 49,
-      "text": "Ary natsofok' i Davida tao an-kitapo ny tanany, ka naka vato tao izy, dia nalefany tamin' ny an-tsamotady ny vato ka nahavoa ilay Filistina tamin' ny handriny, ary nilentika tamin' ny handriny ny vato, dia potraka niankohoka tamin' ny tany izy."
-    },
-    {
-      "v": 50,
-      "text": "Toy izany no nandresen' i Davida ilay Filistina tamin' ny an-tsamotady sy ny vato, fa namely ilay Filistina izy ka nahafaty azy, nefa tsy nisy sabatra teny an-tanan' i Davida."
-    },
-    {
-      "v": 51,
-      "text": "Dia nihazakazaka Davida ka nitsangana teo ambonin' ilay Filistina, dia nalainy ny sabatr' ilehio ka notsoahany tamin' ny tranony, dia namonoany azy sy nanapahany ny lohany. Ary nony hitan' ny Filistina fa maty ilay lehilahy maheriny mpihantsy ady, dia vaky nandositra izy."
-    },
-    {
-      "v": 52,
-      "text": "\"Ary ny lehilahy tamin' ny Isiraely sy ny Joda dia nitsangana ka nanakora sy nanenjika ny Filistina hatrany an-dohasaha sy ny vavahadin' i Ekrona; ary izay voa tamin' ny Filistina dia niampatrampatra teny amin' ny lalana mankany Saraima ary hatrany Gata ka hatrany Ekrona.\""
-    },
-    {
-      "v": 53,
-      "text": "Ary ny Zanak' Isiraely niverina avy nanenjika mafy ny Filistina dia namabo ny lainy."
-    },
-    {
-      "v": 54,
-      "text": "\"Ary ny lohan' ilay Filistina dia nalain' i Davida ka nentiny tany Jerosalema; fa ny fiadiany napetrany tao amin' ny lainy.\""
-    },
-    {
-      "v": 55,
-      "text": "Ary nony nahita an' i Davida nandeha hiady tamin' ny Filistina i Saoly, dia hoy izy tamin' i Abnera, komandin' ny miaramila: Ry Abnera, zanak' iza moa iny zatovo iny? Ary hoy Abnera: Raha velona koa ny ainao, ry mpanjaka, tsy fantatro velively."
-    },
-    {
-      "v": 56,
-      "text": "Ary hoy ny mpanjaka: Anontanionao na zanak' iza na zanak' iza iny zatovo iny."
-    },
-    {
-      "v": 57,
-      "text": "Ary nony niverina avy namono ilay Filistina i Davida, dia nalain' i Abnera izy ka nentiny teo anatrehan' i Saoly, ary mbola teny an-tanany ihany ny lohan' ilay Filistina."
-    },
-    {
-      "v": 58,
-      "text": "Dia hoy Saoly taminy: Zanak' iza moa ianao, ry zatovolahy? Ary Davida namaly hoe: Ilay zanak' i Jese Betlehemita mpanomponao aho."
-    }
-  ]
+  "verses": {
+    "1": "Ary ny Filistina namory ny miaramilany hiady, ka tafavory tao Soko any Joda izy ary nitoby teo anelanelan' i Soko sy Azeka, dia tao Efesadamima.",
+    "2": "Ary Saoly sy ny lehilahy amin' ny Isiraely dia tafavory ka nitoby teo amin' ny lohasaha Elaha ary nilahatra hiady amin' ny Filistina.",
+    "3": "Ary ny Filistina dia teo am-pita teo amin' ny tendrombohitra iray, ary ny Isiraely kosa teo am-pita teo amin' ny tendrombohitra iray, ary lohasaha no elanelany.",
+    "4": "Ary nisy olo-mahery iray mpihantsy ady nivoaka avy teny amin' ny tobin' ny Filistina, Goliata avy any Gata no anarany; enina hakiho sy irain-jehy no halavany.",
+    "5": "Ary nisatroka fiarovan-doha varahina izy, ary niakanjo fiarovan-tratra, ka ny lanjan' ny akanjony varahina dia dimy arivo sekely.",
+    "6": "Ary nanao fiarovan-dranjo varahina tamin' ny tongony izy ary ampinga varahina teo an-damosiny.",
+    "7": "Ary ny haben' ny zaran-defony dia tahaka ny vodi-tenon' ny mpanenona ary ny lela-lefony dia vy lanjan-tsekely eninjato; ary nisy nitondra ampinga lehibe nandeha teo alohany.",
+    "8": "Ary nijanona izy, dia niantso ny miaramilan' ny Isiraely ka nanao taminy hoe: Nahoana ianareo no mivoaka hilahatra hiady? Tsy Filistina va aho, ary ianareo kosa mpanompon' i Saoly? Mifidiana lehilahy iray ianareo, ary aoka izy hidina ety amiko.",
+    "9": "Raha tàhiny maharesy ahy izy ka mahafaty ahy, dia ho mpanomponareo izahay; fa raha resiko kosa izy ka matiko, dia ho mpanomponay ianareo ka hanompo anay.",
+    "10": "Ary hoy ilay Filistina: Izaho efa nihaika ny miaramilan' ny Isiraely androany; omeo lehilahy iray aho hiady amiko.",
+    "11": "Ary raha ren' i Saoly sy ny Isiraely rehetra izany tenin' ilay Filistina izany, dia nivadi-po izy ka raiki-tahotra indrindra.",
+    "12": "Ary Davida dia zanak' ilay Efratita, izay avy any Betlehema-joda atao hoe Jese, izay nanana zanaka valo mirahalahy; ary Jese dia efa zokiolona sy anti-panahy tamin' ny andron' i Saoly;",
+    "13": "Ary ny zokiny telo lahy tamin' i zanak' i Jese lasa nanaraka an' i Saoly nankany an-tafika; ary ny anaran' ny zanany telo lahy lasa nankany an-tafika dia Eliaba, lahimatoa, sy Abinadaba, lahiaivo, ary Sama no fahatelo;",
+    "14": "Ary Davida no faralahy; ary izy telo lahy zokiny lasa nanaraka an' i Saoly;",
+    "15": "Fa Davida kosa nivoivoy avy tany amin' i Saoly hiandry ny ondrin-drainy tany Betlehema.",
+    "16": "Ary ilay Filistina nanatona marain-tsy hariva ka niseho efapolo andro.",
+    "17": "Ary hoy Jese tamin' i Davida zanany: Ento ity lango eran' ny efaha ity sy ireto mofo folo ireto ho an' ny rahalahinao, ka dia mihazakazaha ho any an-toby ho any amin' ny rahalahinao.",
+    "18": "Ary ento ho an' ny mpifehy arivony ireto fromazy didiny folo ireto, dia izahao na tsara ihany ny rahalahinao, na manao ahoana, ary itondray izay hahafantarako ny toeny aho.",
+    "19": "Ary Saoly sy izy telo lahy mbamin' ny lehilahy rehetra amin' ny Isiraely dia teo amin' ny lohasaha Elaha niady tamin' ny Filistina.",
+    "20": "Dia nifoha maraina koa Davida ka namela ny ondriny tamin' ny mpiandry, dia naka ny entana izy ka lasa nandeha araka ny nandidian' i Jese azy; ary tonga teo amin' ny sehatra-sarety izy; ary ny antokon' ny miaramila izay efa hivoaka hilahatra dia nanakora hiady tamin' izay.",
+    "21": "Fa ny Isiraely sy ny Filistina efa nilahatra hiady ka nifanatrika ny miaramila.",
+    "22": "Ary Davida namela ny entany teo an-tanan' ny mpiambina entana, dia nihazakazaka nankeny amin' ny tafika, ary tonga ka niarahaba ny rahalahiny.",
+    "23": "Ary raha mbola niresaka taminy izy, indro, tamy niakatra avy teo amin' ny laharan' ny miaramilan' ny Filistina ilay olo-mahery mpihantsy ady, lehilahy Filistina avy any Gata, Goliata no anarany; ary niteny tahaka ny teo aloha ihany izy, ka ren' i Davida.",
+    "24": "Ary ny lehilahy rehetra amin' ny Isiraely, raha nahita io lehilahy io, dia nandositra azy, fa natahotra indrindra izy.",
+    "25": "Ary hoy ny lehilahy amin' ny Isiraely: efa hitanareo va io lehilahy miakatra io? Hihaika ny Isiraely tokoa no iakarany; koa izay lehilahy mahafaty io dia hataon' ny mpanjaka manankarem-bevava, ary homeny koa ny zanany vavy ho vadiny, sady tsy hampandoavin-ketra amin' ny Isiraely ny tarana-drainy.",
+    "26": "Ary hoy Davida tamin' ny olona teo anilany: ahoana sy ahoana ange no hatao amin' izay lehilahy mahafaty io Filistina io ka mahafa-tondromaso ny Isiraely? Fa zinona moa io Filistina tsy mifora io, no dia hihaika ny miaramilan' Andriamanitra velona?",
+    "27": "Ary ny olona namaly hoe: Izany ka izany no hatao amin' izay lehilahy mahafaty azy.",
+    "28": "Ary Eliaba zokiny nandre azy niteny tamin' ny olona, dia nirehitra tamin' i Davida ny fahatezerany, ka hoy izy: Nahoana ianao no midina ety? Ary amin' iza moa no namelanao ireny ondry vitsy ireny any an' efitra? Fantatro ny avonavonao sy ny faharatsian' ny fonao, fa hizaha ny ady no idinanao ety.",
+    "29": "Ary hoy Davida: Moa maninona aho izao? Moa tsy misy antony va?",
+    "30": "Ary niala teo aminy hankany amin' ny sasany koa izy ka niteny tahaka ny teo; ary ny olona namaly azy tahaka ny teo ihany indray.",
+    "31": "Ary nony ren' ny olona ny teny izay nataon' i Davida, dia nambarany tamin' i Saoly; ka dia naniraka naka azy izy.",
+    "32": "Ary hoy Davida tamin' i Saoly: Aoka tsy hisy ho ketraka amin' ilehio ny fon' ny olona; fa ny mpanomponao handeha hiady amin' io Filistina io.",
+    "33": "Fa hoy Saoly tamin' i Davida: Tsy tohanao ny handeha hiady amin' io Filistina io, satria mbola tanora ihany ianao, fa izy efa mpiady hatramin' ny fahatanorany.",
+    "34": "Fa hoy Davida tamin' i Saoly: Ny mpanomponao niandry ny ondrin-drainy, ary nisy liona sy bera tonga tao ka naka zanak' ondry teo amin' ny ondry;",
+    "35": "Dia nanenjika azy aho ka namely azy, ary nanafaka ny zanak' ondry teny am-bavany; ary nony handramatra ahy izy, dia nohazoniko tamin' ny somony, ary nasiako ka matiko.",
+    "36": "Ny liona sy ny bera samy efa novonoin' ny mpanomponao; ary io Filistina tsy mifora io dia ho tahaka ny anankiray amin' ireny, satria nihaika ny miaramilan' Andriamanitra velona izy.",
+    "37": "Ary hoy koa Davida: Jehovah, Izay nanafaka ahy tamin' ny tanan' ny liona sy ny tanan' ny bera, Izy no hanafaka ahy amin' ny tanan' io Filistina io. Dia hoy Saoly tamin' i Davida: Mandehana, ary homba anao anie Jehovah.",
+    "38": "Ary Saoly nampiakanjo an' i Davida ny akanjo fiadiany ary nanisy fiarovan-doha varahina tamin' ny lohany sy nampiakanjo azy akanjo fiarovan-tratra.",
+    "39": "Ary Davida namehy ny sabany tamin' ny akanjo fiadiany, dia nanandrana nandeha; fa tsy mbola nahazatra azy izany, ka hoy izy tamin' ny Saoly: Tsy afa-mandeha amin ireto aho, fa tsy mbola nahazatra ahy; ary dia nesorin' i Davida izany.",
+    "40": "Dia nitondra ny tehiny teny an-tanany izy sady nifidy vato kilonjy dimy tao amin' ny lohasahan-driaka, ka nataony tao anatin' ny kitapo fitondran' ny mpiandry ondry, izay teny aminy, ary ny antsamotady koa teny an-tanany; dia nanatona ilay Filistina izy.",
+    "41": "Ary ilay Filistina nandroso nanatona an' i Davida, sady teo alohany ilay lehilahy mitondra ny ampinga lehibe.",
+    "42": "Ary nony nijerijery ilay Filistina ka nahita an' i Davida, dia nianjonanjona taminy, fa mbola tanora izy sady mena tendron-tava no tsara tarehy.",
+    "43": "Ary hoy ilay Filistina tamin' i Davida: Alika angaha aho, no hatonin' ialahy amin' ny tehina? Ary nanozona an' i Davida tamin' ireo andriamaniny ilay Filistina.",
+    "44": "Ary hoy ilay Filistina tamin' i Davida: Avia ety amiko, dia homeko ny voro-manidina eny amin' ny habakabaka sy ny biby any an-tsaha ny nofon' ialahy.",
+    "45": "Fa hoy kosa Davida tamin' ilay Filistina: Ianao manatona ahy amin' ny sabatra sy ny lefona ary ny ampinga; fa izaho kosa manatona anao amin' ny anaran' i Jehovah, Tompon' ny maro, Andriamanitry ny miaramilan' ny Isiraely, Izay efa nohaikainao.",
+    "46": "Anio no hanoloran' i Jehovah anao amin' ny tanako, ary hamely anao aho ka hanapaka ny lohanao, dia homeko ny voro-manidina eny amin' ny habakabaka sy ny biby dia ety ambonin' ny tany ny fatin' ny miaramilan' ny Filistina anio, mba ho fantatry ny tany rehetra fa manana Andriamanitra tokoa ny Isiraely.",
+    "47": "Ary ho fantatr' izao fiangonana rehetra izao fa tsy sabatra sy lefona no amonjen' i Jehovah; fa an' i Jehovah ny ady, ary hanolotra anareo ho eo an-tananay Izy.",
+    "48": "Ary izao no niseho, nony niainga ilay Filistina ka nanatona hitsena an' i Davida, dia nandroso faingana Davida ka nihazakazaka ho eo amin' ny laharan' ny tafika hitsena ilay Filistina.",
+    "49": "Ary natsofok' i Davida tao an-kitapo ny tanany, ka naka vato tao izy, dia nalefany tamin' ny an-tsamotady ny vato ka nahavoa ilay Filistina tamin' ny handriny, ary nilentika tamin' ny handriny ny vato, dia potraka niankohoka tamin' ny tany izy.",
+    "50": "Toy izany no nandresen' i Davida ilay Filistina tamin' ny an-tsamotady sy ny vato, fa namely ilay Filistina izy ka nahafaty azy, nefa tsy nisy sabatra teny an-tanan' i Davida.",
+    "51": "Dia nihazakazaka Davida ka nitsangana teo ambonin' ilay Filistina, dia nalainy ny sabatr' ilehio ka notsoahany tamin' ny tranony, dia namonoany azy sy nanapahany ny lohany. Ary nony hitan' ny Filistina fa maty ilay lehilahy maheriny mpihantsy ady, dia vaky nandositra izy.",
+    "52": "Ary ny lehilahy tamin' ny Isiraely sy ny Joda dia nitsangana ka nanakora sy nanenjika ny Filistina hatrany an-dohasaha sy ny vavahadin' i Ekrona; ary izay voa tamin' ny Filistina dia niampatrampatra teny amin' ny lalana mankany Saraima ary hatrany Gata ka hatrany Ekrona.",
+    "53": "Ary ny Zanak' Isiraely niverina avy nanenjika mafy ny Filistina dia namabo ny lainy.",
+    "54": "Ary ny lohan' ilay Filistina dia nalain' i Davida ka nentiny tany Jerosalema; fa ny fiadiany napetrany tao amin' ny lainy.",
+    "55": "Ary nony nahita an' i Davida nandeha hiady tamin' ny Filistina i Saoly, dia hoy izy tamin' i Abnera, komandin' ny miaramila: Ry Abnera, zanak' iza moa iny zatovo iny? Ary hoy Abnera: Raha velona koa ny ainao, ry mpanjaka, tsy fantatro velively.",
+    "56": "Ary hoy ny mpanjaka: Anontanionao na zanak' iza na zanak' iza iny zatovo iny.",
+    "57": "Ary nony niverina avy namono ilay Filistina i Davida, dia nalain' i Abnera izy ka nentiny teo anatrehan' i Saoly, ary mbola teny an-tanany ihany ny lohan' ilay Filistina.",
+    "58": "Dia hoy Saoly taminy: Zanak' iza moa ianao, ry zatovolahy? Ary Davida namaly hoe: Ilay zanak' i Jese Betlehemita mpanomponao aho."
+  }
 }

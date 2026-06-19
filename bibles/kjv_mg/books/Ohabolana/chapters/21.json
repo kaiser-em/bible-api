@@ -1,129 +1,37 @@
 {
+  "book": "Ohabolana",
   "chapter": 21,
-  "verses": [
-    {
-      "v": 1,
-      "text": "TOY ny rano velona eo an-tanan' i Jehovah ny fon' ny mpanjaka, ka tarihiny amin' izay tiany."
-    },
-    {
-      "v": 2,
-      "text": "\"Ataon' ny olona ho marina avokoa ny lalana rehetra alehany; fa Jehovah ihany no Mpandanja ny fo.\""
-    },
-    {
-      "v": 3,
-      "text": "Ny manao ny marina sy ny rariny no sitrak' i Jehovah mihoatra noho ny fanatitra."
-    },
-    {
-      "v": 4,
-      "text": "Ny fiandranandran' ny maso, ny fiavonavon' ny fo ary ny asan' ny ratsy fanahy dia ota."
-    },
-    {
-      "v": 5,
-      "text": "\"Ny hevitry ny mazoto dia mampanankarena tokoa; fa ny maimaika rehetra dia hahantra ihany.\""
-    },
-    {
-      "v": 6,
-      "text": "Ny fahazoan-karena amin' ny lela mandainga dia zava-poana mihelina ho an' izay mitady fahafatesana."
-    },
-    {
-      "v": 7,
-      "text": "\"Ny fandroban' ny ratsy fanahy hamongotra azy; satria mandà tsy hanao ny rariny izy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ny lalan' ny olona dia miolakolaka sy mivily; fa mahitsy kosa ny asan' ny madio.\""
-    },
-    {
-      "v": 9,
-      "text": "Aleo mitoetra eo an-joron' ny tampon-trano, toy izay hitoetra miaraka amin' ny vehivavy tia ady ao an-trano malalaka."
-    },
-    {
-      "v": 10,
-      "text": "Ny fanahin' ny ratsy fanahy maniry ny ratsy, ary tsy mahita fitia aminy ny namany."
-    },
-    {
-      "v": 11,
-      "text": "\"Raha ampijalina ny mpaniratsira, dia ho hendry ny kely saina; ary raha toroan-kevitra ny hendry, dia handray fahalalana izy.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ny olo-marina mandinika amim-pahendrena ny tranon' ny ratsy fanahy; fa ny ratsy fanahy azeran' Andriamanitra noho ny faharatsiany.\""
-    },
-    {
-      "v": 13,
-      "text": "Izay manentsin-tadìny amin' ny fitarainan' ny mahantra, dia mba hitaraina kosa izy fa tsy hohenoina."
-    },
-    {
-      "v": 14,
-      "text": "Ny fanomezana ao amin'ny mangingina mampionona ny fahatezerana, ary ny kolikoly omena dia mampitsahatra ny fahavinirana mafy."
-    },
-    {
-      "v": 15,
-      "text": "\"Fifalian' ny marina ny hanao araka ny rariny; fa ny fandringanana kosa no ho an' izay mpanao heloka.\""
-    },
-    {
-      "v": 16,
-      "text": "Ny olona izay mivily miala amin' ny lalan' ny fahalalana dia hitoetra ao amin' ny fivorian' ny maty."
-    },
-    {
-      "v": 17,
-      "text": "\"Izay tia fanaranam-po dia hahantra; izay tia divay sy diloilo dia tsy mba hanankarena.\""
-    },
-    {
-      "v": 18,
-      "text": "Ny ratsy fanahy dia ho avotry ny marina, ary ny mpandika lalàna ho solon' ny mahitsy."
-    },
-    {
-      "v": 19,
-      "text": "Aleo mitoetra any an' efitra, toy izay amin' ny vehivavy tia ady sy foizina."
-    },
-    {
-      "v": 20,
-      "text": "\"Harena mahafinaritra sy diloilo no ao amin' ny tranon' ny hendry; fa ny adala mandany azy.\""
-    },
-    {
-      "v": 21,
-      "text": "Izay fatra-panaraka fahamarinana sy famindrampo dia mahita fiainana sy fahamarinana ary voninahitra."
-    },
-    {
-      "v": 22,
-      "text": "Mananika ny vohitry ny mahery ny hendry ka mandrodana ny fiarovana mafy izay itokiany."
-    },
-    {
-      "v": 23,
-      "text": "Izay miambina ny vavany sy ny lelany dia miaro ny fanahiny tsy ho azom-pahoriana."
-    },
-    {
-      "v": 24,
-      "text": "Izay mirehareha sy miavonavona no atao hoe mpaniratsira, dia izay olona fatra-piavonavona."
-    },
-    {
-      "v": 25,
-      "text": "\"Ny fanirian' ny kamo hahafaty azy, satria ny tanany tsy mety miasa tsinona;\""
-    },
-    {
-      "v": 26,
-      "text": "\"Maniry fatratra mandritra ny andro izy; fa ny marina kosa manome ka tsy mba mahihitra.\""
-    },
-    {
-      "v": 27,
-      "text": "Ny fanatitry ny ratsy fanahy dia fahavetavetana, ka maika moa fa raha amin' ny sain-dratsy no itondrany azy?"
-    },
-    {
-      "v": 28,
-      "text": "\"Ho ringana ny vavolombelona mandainga; fa izay mihaino dia hiteny mandrakariva.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Mampiseho ny fahasahisahiany amin' ny tarehiny ny ratsy fanahy; fa ny marina kosa mihevitra ny alehany.\""
-    },
-    {
-      "v": 30,
-      "text": "Tsy misy fahendrena, na fahalalana, na fisainana mahaleo an' i Jehovah."
-    },
-    {
-      "v": 31,
-      "text": "\"voaomana ho amin' ny andro iadiana ny soavaly; fa ny fiarovana dia avy amin' i Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "TOY ny rano velona eo an-tanan' i Jehovah ny fon' ny mpanjaka, ka tarihiny amin' izay tiany.",
+    "2": "Ataon' ny olona ho marina avokoa ny lalana rehetra alehany; fa Jehovah ihany no Mpandanja ny fo.",
+    "3": "Ny manao ny marina sy ny rariny no sitrak' i Jehovah mihoatra noho ny fanatitra.",
+    "4": "Ny fiandranandran' ny maso, ny fiavonavon' ny fo ary ny asan' ny ratsy fanahy dia ota.",
+    "5": "Ny hevitry ny mazoto dia mampanankarena tokoa; fa ny maimaika rehetra dia hahantra ihany.",
+    "6": "Ny fahazoan-karena amin' ny lela mandainga dia zava-poana mihelina ho an' izay mitady fahafatesana.",
+    "7": "Ny fandroban' ny ratsy fanahy hamongotra azy; satria mandà tsy hanao ny rariny izy.",
+    "8": "Ny lalan' ny olona dia miolakolaka sy mivily; fa mahitsy kosa ny asan' ny madio.",
+    "9": "Aleo mitoetra eo an-joron' ny tampon-trano, toy izay hitoetra miaraka amin' ny vehivavy tia ady ao an-trano malalaka.",
+    "10": "Ny fanahin' ny ratsy fanahy maniry ny ratsy, ary tsy mahita fitia aminy ny namany.",
+    "11": "Raha ampijalina ny mpaniratsira, dia ho hendry ny kely saina; ary raha toroan-kevitra ny hendry, dia handray fahalalana izy.",
+    "12": "Ny olo-marina mandinika amim-pahendrena ny tranon' ny ratsy fanahy; fa ny ratsy fanahy azeran' Andriamanitra noho ny faharatsiany.",
+    "13": "Izay manentsin-tadìny amin' ny fitarainan' ny mahantra, dia mba hitaraina kosa izy fa tsy hohenoina.",
+    "14": "Ny fanomezana ao amin'ny mangingina mampionona ny fahatezerana, ary ny kolikoly omena dia mampitsahatra ny fahavinirana mafy.",
+    "15": "Fifalian' ny marina ny hanao araka ny rariny; fa ny fandringanana kosa no ho an' izay mpanao heloka.",
+    "16": "Ny olona izay mivily miala amin' ny lalan' ny fahalalana dia hitoetra ao amin' ny fivorian' ny maty.",
+    "17": "Izay tia fanaranam-po dia hahantra; izay tia divay sy diloilo dia tsy mba hanankarena.",
+    "18": "Ny ratsy fanahy dia ho avotry ny marina, ary ny mpandika lalàna ho solon' ny mahitsy.",
+    "19": "Aleo mitoetra any an' efitra, toy izay amin' ny vehivavy tia ady sy foizina.",
+    "20": "Harena mahafinaritra sy diloilo no ao amin' ny tranon' ny hendry; fa ny adala mandany azy.",
+    "21": "Izay fatra-panaraka fahamarinana sy famindrampo dia mahita fiainana sy fahamarinana ary voninahitra.",
+    "22": "Mananika ny vohitry ny mahery ny hendry ka mandrodana ny fiarovana mafy izay itokiany.",
+    "23": "Izay miambina ny vavany sy ny lelany dia miaro ny fanahiny tsy ho azom-pahoriana.",
+    "24": "Izay mirehareha sy miavonavona no atao hoe mpaniratsira, dia izay olona fatra-piavonavona.",
+    "25": "Ny fanirian' ny kamo hahafaty azy, satria ny tanany tsy mety miasa tsinona;",
+    "26": "Maniry fatratra mandritra ny andro izy; fa ny marina kosa manome ka tsy mba mahihitra.",
+    "27": "Ny fanatitry ny ratsy fanahy dia fahavetavetana, ka maika moa fa raha amin' ny sain-dratsy no itondrany azy?",
+    "28": "Ho ringana ny vavolombelona mandainga; fa izay mihaino dia hiteny mandrakariva.",
+    "29": "Mampiseho ny fahasahisahiany amin' ny tarehiny ny ratsy fanahy; fa ny marina kosa mihevitra ny alehany.",
+    "30": "Tsy misy fahendrena, na fahalalana, na fisainana mahaleo an' i Jehovah.",
+    "31": "voaomana ho amin' ny andro iadiana ny soavaly; fa ny fiarovana dia avy amin' i Jehovah."
+  }
 }

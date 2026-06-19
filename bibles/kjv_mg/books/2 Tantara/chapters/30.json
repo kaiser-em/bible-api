@@ -1,113 +1,33 @@
 {
+  "book": "2 Tantara",
   "chapter": 30,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Hezekia naniraka tany amin' ny Isiraely sy ny Joda rehetra ka nanoratra taratasy ho amin' ny Efraima sy ny Manase koa mba hankanesany any an-tranon' i Jehovah any Jerosalema hitandrina ny Paska ho an' i Jehovah, Andriamanitry ny Isiraely."
-    },
-    {
-      "v": 2,
-      "text": "Fa ny mpanjaka sy ny mpanapaka mbamin' ny fiangonana rehetra tany Jerosalema dia niara-nihevitra ny amin' ny hitandremana ny Paska amin' ny volana faharoa."
-    },
-    {
-      "v": 3,
-      "text": "Fa tsy nahatandrina azy tamin' ny fotoana izy, satria ny mpisorona tsy mbola nanamasina ny tenany loatra, ary ny olona koa tsy mbola vory tany Jerosalema."
-    },
-    {
-      "v": 4,
-      "text": "Ary sitraky ny mpanjaka sy ny fiangonana rehetra izany."
-    },
-    {
-      "v": 5,
-      "text": "\"Dia nandidy handefa teny eran' ny Isiraely rehetra hatrany Beri-sheba ka hatrany Dana izy mba hankanesan' ny olona hitandrina ny Paska ho an' i Jehovah, Andriamanitry ny Isiraely, any Jerosalema; fa efa ela ireo no tsy nitandrina izany araka ny voasoratra.\""
-    },
-    {
-      "v": 6,
-      "text": "Dia lasa ny tsimandoa nitondra ny taratasy avy tamin' ny mpanjaka sy ny mpanapaka hitety ny Isiraely sy ny Joda rehetra ka nilaza araka ny didin' ny mpanjaka hoe: Ry Zanak' Isiraely ô, miverena indray amin' i Jehovah, Andriamanitr' i Abrahama sy Isaka ary Isiraely, mba hiverenany ho amin' ny sisa aminareo izay tsy azon' ny tanan' ireo mpanjakan' i Asyria."
-    },
-    {
-      "v": 7,
-      "text": "Ary aza manahaka ny rainareo sy ny rahalahinareo izay nivadika tamin' i Jehovah Andriamanitry ny razany, ka dia natolony ho amin' ny faharavana araka izao hitanareo izao."
-    },
-    {
-      "v": 8,
-      "text": "\"Koa aza manamafy ny hatokareo toy ny nataon' ny razanareo, fa atolory an' i Jehovah ny tenanareo, ka midira ao amin' ny fitoerany masina, izay nohamasininy ho mandrakizay; ary manompoa an' i Jehovah Andriamanitrareo, mba hiala aminareo ny fahatezerany mirehitra.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Fa raha miverina indray amin' i Jehovah ianareo, dia hahazo famindrampo eo anatrehan' izay nitondra azy ho babo ny rahalahinareo sy ny zanakareo, ka dia ho tafaverina amin' ity tany ity izy; fa miantra sy mamindra fo Jehovah Andriamanitrareo ary tsy hiamboho anareo Izy, raha miverina aminy ianareo.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary ny tsimandoa nitety ny tanàna hatrany amin' ny tanin' ny Efraima sy ny Manase ka hatrany amin' ny Zebolona; fa nihomehezan' ny olona sy novazivaziny foana izy.\""
-    },
-    {
-      "v": 11,
-      "text": "Kanefa kosa ny sasany tamin' ny Asera sy ny Manase ary ny Zebolona dia nisy ihany nanetry tena ka tonga tany Jerosalema."
-    },
-    {
-      "v": 12,
-      "text": "Ary ny tanan' Andriamanitra dia napetrany tamin'ny Joda koa mba hanome azy fo iray hankatò ny didin' ny mpanjaka sy ny mpanapaka noho ny tenin' i Jehovah."
-    },
-    {
-      "v": 13,
-      "text": "Ary tamin' ny volana faharoa dia nisy olona maro nivory tany Jerosalema hitandrina ny andro firavoravoana fihinanana ny mofo tsy misy lalivay, dia fiangonan-dehibe izany."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary nitsangana ireo, ka nandrava ireo alitara tany Jerosalema; ary ny alitara rehetra fandoroana ditin-kazo manitra dia noravany koa ka nariany tany amin' ny sakelidranon' i Kidrona.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Dia namono ny Paska izy tamin' ny andro fahefatra ambin' ny folo tamin' ny volana faharoa; ary menatra ny mpisorona sy ny Levita ka nanamasina ny tenany sy nampiditra ny fanatitra dorana ho ao an-tranon' i Jehovah.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary nitsangana teo amin' ny fitoerany tahaka ny fanao izy, araka ny lalàn' i Mosesy, lehilahin' Andriamanitra; ary ny mpisorona nanopy ny rà izay noraisiny avy teny an-tanan' ny Levita.\""
-    },
-    {
-      "v": 17,
-      "text": "Fa nisy maro tao amin' ny fiangonana izay tsy mba nanamasina ny tenany, ka dia ny Levita no nampamonoina ny Paska hisolo izay rehetra tsy madio mba hanamasina azy ho an' i Jehovah."
-    },
-    {
-      "v": 18,
-      "text": "Fa nisy olona betsaka, dia maro avy tamin' ny Efraima sy ny Manase sy ny Isakara ary ny Zebolona, no tsy mba nanadio ny tenany, kanefa nihinana ny Paska ihany izy, fa tsy araka izay voasoratra. Fa Hezekia nivavaka ho an' ireny ka nanao hoe: Jehovah tsara ô, mamelà"
-    },
-    {
-      "v": 19,
-      "text": "Izay rehetra efa nampiomana ny fony hitady an' Andriamanitra, dia Jehovah, Andriamanitry ny razany, na dia tsy madio araka ny fahadiovan' ny fitoerana masina aza izy."
-    },
-    {
-      "v": 20,
-      "text": "Ary Jehovah nihaino an' i Hezekia ka nahasitrana ny olona."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary ny Zanak' Isiraely izay tany Jerosalema dia nitandrina hafitoana ny andro firavoravoana fihinanana ny mofo tsy misy lalivay tamin' ny fifaliana lehibe; ary ny Levita sy ny mpisorona nidera an' i Jehovah isan' andro isan' andro, ary nihira ho an' i Jehovah niaraka tamin' ny zava-maneno mafy faneno.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary Hezekia dia nankasitraka ny Levita rehetra izay nampianatra ny fahalalana tsara an' i Jehovah; ary nihinana nandritra ny firavoravoana hafitoana izy sady nanatitra fanati-pihavanana no nanao fiaikena tamin' i Jehovah Andriamanitry ny razany.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary ny fiangonana rehetra niara-nihevitra ny amin' ny hitandremana hafitoana indray; ka dia mbola nitandrina hafitoana koa tamin' ny hafaliana izy.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Fa Hezekia, mpanjakan' ny Joda, nanome vantotr' ombilahy arivo sy ondry aman' osy fito arivo ho an' ny fiangonana; ary ny mpanapaka koa nanome vantotr' ombilahy arivo sy ondry aman' osy iray alina ho an' ny fiangonana; ary maro ny mpisorona no nanamasina ny tenany.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary faly ny fiangonana, dia ny Joda rehetra sy ny mpisorona sy ny Levita sy izay rehetra tafangona avy tamin' ny Isiraely mbamin' ny vahiny izay avy amin' ny tany Isiraely ary izay nonina tany Joda."
-    },
-    {
-      "v": 26,
-      "text": "\"Koa nisy fifaliana lehibe tany Jerosalema; fa hatramin' ny andron' i Solomona, zanak' i Davida, mpanjakan' ny Isiraely, dia tsy mbola nisy tahaka izany tany Jerosalema.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Dia nitsangana ny Levita mpisorona ka nitsodrano ny olona; ary nohenoin' Andriamanitra ny feony, ka niakatra ho any an-danitra, fonenany masina, ny fivavany.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary Hezekia naniraka tany amin' ny Isiraely sy ny Joda rehetra ka nanoratra taratasy ho amin' ny Efraima sy ny Manase koa mba hankanesany any an-tranon' i Jehovah any Jerosalema hitandrina ny Paska ho an' i Jehovah, Andriamanitry ny Isiraely.",
+    "2": "Fa ny mpanjaka sy ny mpanapaka mbamin' ny fiangonana rehetra tany Jerosalema dia niara-nihevitra ny amin' ny hitandremana ny Paska amin' ny volana faharoa.",
+    "3": "Fa tsy nahatandrina azy tamin' ny fotoana izy, satria ny mpisorona tsy mbola nanamasina ny tenany loatra, ary ny olona koa tsy mbola vory tany Jerosalema.",
+    "4": "Ary sitraky ny mpanjaka sy ny fiangonana rehetra izany.",
+    "5": "Dia nandidy handefa teny eran' ny Isiraely rehetra hatrany Beri-sheba ka hatrany Dana izy mba hankanesan' ny olona hitandrina ny Paska ho an' i Jehovah, Andriamanitry ny Isiraely, any Jerosalema; fa efa ela ireo no tsy nitandrina izany araka ny voasoratra.",
+    "6": "Dia lasa ny tsimandoa nitondra ny taratasy avy tamin' ny mpanjaka sy ny mpanapaka hitety ny Isiraely sy ny Joda rehetra ka nilaza araka ny didin' ny mpanjaka hoe: Ry Zanak' Isiraely ô, miverena indray amin' i Jehovah, Andriamanitr' i Abrahama sy Isaka ary Isiraely, mba hiverenany ho amin' ny sisa aminareo izay tsy azon' ny tanan' ireo mpanjakan' i Asyria.",
+    "7": "Ary aza manahaka ny rainareo sy ny rahalahinareo izay nivadika tamin' i Jehovah Andriamanitry ny razany, ka dia natolony ho amin' ny faharavana araka izao hitanareo izao.",
+    "8": "Koa aza manamafy ny hatokareo toy ny nataon' ny razanareo, fa atolory an' i Jehovah ny tenanareo, ka midira ao amin' ny fitoerany masina, izay nohamasininy ho mandrakizay; ary manompoa an' i Jehovah Andriamanitrareo, mba hiala aminareo ny fahatezerany mirehitra.",
+    "9": "Fa raha miverina indray amin' i Jehovah ianareo, dia hahazo famindrampo eo anatrehan' izay nitondra azy ho babo ny rahalahinareo sy ny zanakareo, ka dia ho tafaverina amin' ity tany ity izy; fa miantra sy mamindra fo Jehovah Andriamanitrareo ary tsy hiamboho anareo Izy, raha miverina aminy ianareo.",
+    "10": "Ary ny tsimandoa nitety ny tanàna hatrany amin' ny tanin' ny Efraima sy ny Manase ka hatrany amin' ny Zebolona; fa nihomehezan' ny olona sy novazivaziny foana izy.",
+    "11": "Kanefa kosa ny sasany tamin' ny Asera sy ny Manase ary ny Zebolona dia nisy ihany nanetry tena ka tonga tany Jerosalema.",
+    "12": "Ary ny tanan' Andriamanitra dia napetrany tamin'ny Joda koa mba hanome azy fo iray hankatò ny didin' ny mpanjaka sy ny mpanapaka noho ny tenin' i Jehovah.",
+    "13": "Ary tamin' ny volana faharoa dia nisy olona maro nivory tany Jerosalema hitandrina ny andro firavoravoana fihinanana ny mofo tsy misy lalivay, dia fiangonan-dehibe izany.",
+    "14": "Ary nitsangana ireo, ka nandrava ireo alitara tany Jerosalema; ary ny alitara rehetra fandoroana ditin-kazo manitra dia noravany koa ka nariany tany amin' ny sakelidranon' i Kidrona.",
+    "15": "Dia namono ny Paska izy tamin' ny andro fahefatra ambin' ny folo tamin' ny volana faharoa; ary menatra ny mpisorona sy ny Levita ka nanamasina ny tenany sy nampiditra ny fanatitra dorana ho ao an-tranon' i Jehovah.",
+    "16": "Ary nitsangana teo amin' ny fitoerany tahaka ny fanao izy, araka ny lalàn' i Mosesy, lehilahin' Andriamanitra; ary ny mpisorona nanopy ny rà izay noraisiny avy teny an-tanan' ny Levita.",
+    "17": "Fa nisy maro tao amin' ny fiangonana izay tsy mba nanamasina ny tenany, ka dia ny Levita no nampamonoina ny Paska hisolo izay rehetra tsy madio mba hanamasina azy ho an' i Jehovah.",
+    "18": "Fa nisy olona betsaka, dia maro avy tamin' ny Efraima sy ny Manase sy ny Isakara ary ny Zebolona, no tsy mba nanadio ny tenany, kanefa nihinana ny Paska ihany izy, fa tsy araka izay voasoratra. Fa Hezekia nivavaka ho an' ireny ka nanao hoe: Jehovah tsara ô, mamelà",
+    "19": "Izay rehetra efa nampiomana ny fony hitady an' Andriamanitra, dia Jehovah, Andriamanitry ny razany, na dia tsy madio araka ny fahadiovan' ny fitoerana masina aza izy.",
+    "20": "Ary Jehovah nihaino an' i Hezekia ka nahasitrana ny olona.",
+    "21": "Ary ny Zanak' Isiraely izay tany Jerosalema dia nitandrina hafitoana ny andro firavoravoana fihinanana ny mofo tsy misy lalivay tamin' ny fifaliana lehibe; ary ny Levita sy ny mpisorona nidera an' i Jehovah isan' andro isan' andro, ary nihira ho an' i Jehovah niaraka tamin' ny zava-maneno mafy faneno.",
+    "22": "Ary Hezekia dia nankasitraka ny Levita rehetra izay nampianatra ny fahalalana tsara an' i Jehovah; ary nihinana nandritra ny firavoravoana hafitoana izy sady nanatitra fanati-pihavanana no nanao fiaikena tamin' i Jehovah Andriamanitry ny razany.",
+    "23": "Ary ny fiangonana rehetra niara-nihevitra ny amin' ny hitandremana hafitoana indray; ka dia mbola nitandrina hafitoana koa tamin' ny hafaliana izy.",
+    "24": "Fa Hezekia, mpanjakan' ny Joda, nanome vantotr' ombilahy arivo sy ondry aman' osy fito arivo ho an' ny fiangonana; ary ny mpanapaka koa nanome vantotr' ombilahy arivo sy ondry aman' osy iray alina ho an' ny fiangonana; ary maro ny mpisorona no nanamasina ny tenany.",
+    "25": "Ary faly ny fiangonana, dia ny Joda rehetra sy ny mpisorona sy ny Levita sy izay rehetra tafangona avy tamin' ny Isiraely mbamin' ny vahiny izay avy amin' ny tany Isiraely ary izay nonina tany Joda.",
+    "26": "Koa nisy fifaliana lehibe tany Jerosalema; fa hatramin' ny andron' i Solomona, zanak' i Davida, mpanjakan' ny Isiraely, dia tsy mbola nisy tahaka izany tany Jerosalema.",
+    "27": "Dia nitsangana ny Levita mpisorona ka nitsodrano ny olona; ary nohenoin' Andriamanitra ny feony, ka niakatra ho any an-danitra, fonenany masina, ny fivavany."
+  }
 }

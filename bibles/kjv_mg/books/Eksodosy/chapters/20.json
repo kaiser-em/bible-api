@@ -1,109 +1,32 @@
 {
+  "book": "Eksodosy",
   "chapter": 20,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia nilaza izao teny rehetra izao Andriamanitra ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Izaho no Jehovah Andriamanitrao, Izay nitondra anao nivoaka avy tany amin' ny tany Egypta, avy tamin' ny trano nahandevozana."
-    },
-    {
-      "v": 3,
-      "text": "\"Aza manana andriamani-kafa eo anatrehako;\""
-    },
-    {
-      "v": 4,
-      "text": "Aza manao sarin-javatra voasokitra ho anao, na ny mety ho endriky ny zavatra izay eny amin' ny lanitra ambony, na izay ety amin' ny tany ambany, na izay any amin' ny rano ambanin' ny tany."
-    },
-    {
-      "v": 5,
-      "text": "\"Aza miankohoka aminy ianao, na manompo azy; fa Izaho Jehovah Andriamanitrao dia Andriamanitra saro-piaro, ka mamaly ny heloky ny ray amin' ny zanaka ka hatramin' ny zafiafy sy ny zafindohalik' izay mankahala Ahy.\""
-    },
-    {
-      "v": 6,
-      "text": "Fa maneho famindrampo amin' ny an' arivony maro izay tia Ahy ka mitandrina ny didiko."
-    },
-    {
-      "v": 7,
-      "text": "\"Aza manonona foana ny anaran' i Jehovah Andriamanitrao; fa tsy hataon' i Jehovah ho tsy meloka izay manonona foana ny anarany.\""
-    },
-    {
-      "v": 8,
-      "text": "Mahatsiarova ny andro sabata hanamasina azy."
-    },
-    {
-      "v": 9,
-      "text": "Henemana no hiasanao sy hanaovanao ny raharahanao rehetra:"
-    },
-    {
-      "v": 10,
-      "text": "\"Fa sabatan' i Jehovah Andriamanitrao ny andro fahafito; koa aza manao raharaha akory ianao amin' izany, na ianao, na ny zanakao lahy, na ny zanakao vavy, na ny mpanompolahinao, na ny mpanompovavinao, na ny biby fiompinao, na ny vahininao izay tafiditra eo am-bavahadinao.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Fa henemana no nanaovan' i Jehovah ny lanitra sy ny tany sy ny ranomasina mbamin' izay rehetra ao aminy, dia nitsahatra Izy tamin' ny andro fahafito; izany no nitahian' i Jehovah ny andro sabata sy nanamasinany azy.\""
-    },
-    {
-      "v": 12,
-      "text": "Manajà ny rainao sy ny reninao mba ho lava andro ianao eo amin' ny tany izay omen' i Jehovah Andriamanitrao anao."
-    },
-    {
-      "v": 13,
-      "text": "Aza mamono olona."
-    },
-    {
-      "v": 14,
-      "text": "Aza mijangajanga."
-    },
-    {
-      "v": 15,
-      "text": "Aza mangalatra."
-    },
-    {
-      "v": 16,
-      "text": "Aza milaza vavolombelona tsy marina hamelezana ny namanao."
-    },
-    {
-      "v": 17,
-      "text": "\"Aza mitsiriritra haka ny tranon' ny namanao; aza mitsiriritra haka ny vadin' ny namanao, na ny mpanompolahiny, na ny mpanompovaviny, na ny ombiny, na ny borikiny, na izay mety ho an' ny namanao akory aza.\""
-    },
-    {
-      "v": 18,
-      "text": "\" Ary ny olona rehetra nahita ny kotroka sy ny tselatra sy ny feon' ny anjomara ary ny tendrombohitra nidona-tsetroka; ary nony nahita izany ny olona, dia nifindra ka nijanona teny lavitra eny.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Dia hoy izy ireo tamin' i Mosesy: Mitenena aminay ianao, dia hihaino izahay; fa aza Andriamanitra no avela hiteny aminay, fandrao maty izahay.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Dia hoy Mosesy tamin' ny olona: Aza matahotra; fa tonga Andriamanitra mba hizaha toetra anareo, ary mba ho eo anatrehan' ny tavanareo ny fahatahorana Azy, mba tsy hanotanareo.\""
-    },
-    {
-      "v": 21,
-      "text": "Dia nijanona teny lavitra eny ny olona fa Mosesy kosa nanakaiky ny haizim-pito izay nisy an' Andriamanitra."
-    },
-    {
-      "v": 22,
-      "text": "Ary hoy Jehovah tamin' i Mosesy: Izao no holazainao amin' ny Zanak' isiraely: Efa nahita ianareo fa avy tany an-danitra no nitenenako taminareo."
-    },
-    {
-      "v": 23,
-      "text": "Aza manao andriamanitra volafotsy miaraka amiko, ary aza manao andriamanitra volamena ho anareo."
-    },
-    {
-      "v": 24,
-      "text": "\" Alitara tany no hataonao ho Ahy, ka haterinao eo amboniny ny fanatitra doranao sy ny fanati-pihavananao, ny ondry sy ny ombinao; eo amin' ny fitoerana rehetra izay ampahatsiarovako ny anarako no hanatonako anao sy hitahiako anao.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary raha alitara vato no hataonao ho Ahy, dia aza ny vato voapaika no hanorenanao azy, fa raha manainga ny fiasànao ho aminy ianao, dia handoto azy."
-    },
-    {
-      "v": 26,
-      "text": "Aza miakatra amin' ny ambaratongan-tohatra ho eo amin' ny alitarako ianao mba tsy ho hita eo ny fitanjahanao."
-    }
-  ]
+  "verses": {
+    "1": "Dia nilaza izao teny rehetra izao Andriamanitra ka nanao hoe:",
+    "2": "Izaho no Jehovah Andriamanitrao, Izay nitondra anao nivoaka avy tany amin' ny tany Egypta, avy tamin' ny trano nahandevozana.",
+    "3": "Aza manana andriamani-kafa eo anatrehako;",
+    "4": "Aza manao sarin-javatra voasokitra ho anao, na ny mety ho endriky ny zavatra izay eny amin' ny lanitra ambony, na izay ety amin' ny tany ambany, na izay any amin' ny rano ambanin' ny tany.",
+    "5": "Aza miankohoka aminy ianao, na manompo azy; fa Izaho Jehovah Andriamanitrao dia Andriamanitra saro-piaro, ka mamaly ny heloky ny ray amin' ny zanaka ka hatramin' ny zafiafy sy ny zafindohalik' izay mankahala Ahy.",
+    "6": "Fa maneho famindrampo amin' ny an' arivony maro izay tia Ahy ka mitandrina ny didiko.",
+    "7": "Aza manonona foana ny anaran' i Jehovah Andriamanitrao; fa tsy hataon' i Jehovah ho tsy meloka izay manonona foana ny anarany.",
+    "8": "Mahatsiarova ny andro sabata hanamasina azy.",
+    "9": "Henemana no hiasanao sy hanaovanao ny raharahanao rehetra:",
+    "10": "Fa sabatan' i Jehovah Andriamanitrao ny andro fahafito; koa aza manao raharaha akory ianao amin' izany, na ianao, na ny zanakao lahy, na ny zanakao vavy, na ny mpanompolahinao, na ny mpanompovavinao, na ny biby fiompinao, na ny vahininao izay tafiditra eo am-bavahadinao.",
+    "11": "Fa henemana no nanaovan' i Jehovah ny lanitra sy ny tany sy ny ranomasina mbamin' izay rehetra ao aminy, dia nitsahatra Izy tamin' ny andro fahafito; izany no nitahian' i Jehovah ny andro sabata sy nanamasinany azy.",
+    "12": "Manajà ny rainao sy ny reninao mba ho lava andro ianao eo amin' ny tany izay omen' i Jehovah Andriamanitrao anao.",
+    "13": "Aza mamono olona.",
+    "14": "Aza mijangajanga.",
+    "15": "Aza mangalatra.",
+    "16": "Aza milaza vavolombelona tsy marina hamelezana ny namanao.",
+    "17": "Aza mitsiriritra haka ny tranon' ny namanao; aza mitsiriritra haka ny vadin' ny namanao, na ny mpanompolahiny, na ny mpanompovaviny, na ny ombiny, na ny borikiny, na izay mety ho an' ny namanao akory aza.",
+    "18": " Ary ny olona rehetra nahita ny kotroka sy ny tselatra sy ny feon' ny anjomara ary ny tendrombohitra nidona-tsetroka; ary nony nahita izany ny olona, dia nifindra ka nijanona teny lavitra eny.",
+    "19": "Dia hoy izy ireo tamin' i Mosesy: Mitenena aminay ianao, dia hihaino izahay; fa aza Andriamanitra no avela hiteny aminay, fandrao maty izahay.",
+    "20": "Dia hoy Mosesy tamin' ny olona: Aza matahotra; fa tonga Andriamanitra mba hizaha toetra anareo, ary mba ho eo anatrehan' ny tavanareo ny fahatahorana Azy, mba tsy hanotanareo.",
+    "21": "Dia nijanona teny lavitra eny ny olona fa Mosesy kosa nanakaiky ny haizim-pito izay nisy an' Andriamanitra.",
+    "22": "Ary hoy Jehovah tamin' i Mosesy: Izao no holazainao amin' ny Zanak' isiraely: Efa nahita ianareo fa avy tany an-danitra no nitenenako taminareo.",
+    "23": "Aza manao andriamanitra volafotsy miaraka amiko, ary aza manao andriamanitra volamena ho anareo.",
+    "24": " Alitara tany no hataonao ho Ahy, ka haterinao eo amboniny ny fanatitra doranao sy ny fanati-pihavananao, ny ondry sy ny ombinao; eo amin' ny fitoerana rehetra izay ampahatsiarovako ny anarako no hanatonako anao sy hitahiako anao.",
+    "25": "Ary raha alitara vato no hataonao ho Ahy, dia aza ny vato voapaika no hanorenanao azy, fa raha manainga ny fiasànao ho aminy ianao, dia handoto azy.",
+    "26": "Aza miakatra amin' ny ambaratongan-tohatra ho eo amin' ny alitarako ianao mba tsy ho hita eo ny fitanjahanao."
+  }
 }

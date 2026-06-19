@@ -1,45 +1,16 @@
 {
+  "book": "Isaia",
   "chapter": 35,
-  "verses": [
-    {
-      "v": 1,
-      "text": "HO ravoravo ny efitra sy ny tany karankaina, ary ny tani-hay hifaly sy hamony tahaka ny raozy."
-    },
-    {
-      "v": 2,
-      "text": "\"Hamony be dia be izy, eny hifaly sy hihira izy; ny voninahitr' i Libanona dia homena azy, mbamin' ny hatsaran-tarehin' i Karmela sy Sarôna, hahita ny voninahitr' i Jehovah izy sy ny famirapiratan' Andriamanitsika.\""
-    },
-    {
-      "v": 3,
-      "text": "Ampaherezonareo ny tanana miraviravy, ary atanjaho ny lohalika malemy."
-    },
-    {
-      "v": 4,
-      "text": "Lazao amin' izay matahotra ao am-po hoe: Mahereza, aza matahotra: Indro, Andriamanitrareo ho avy mitondra famaliana, dia ny famalian' Andriamanitra, eny, Izy tokoa no ho avy ka hamonjy anareo."
-    },
-    {
-      "v": 5,
-      "text": "Dia hampahiratina ny mason' ny jamba, ary hampahaladìna ny sofin' ny marenina."
-    },
-    {
-      "v": 6,
-      "text": "\"Dia hitsambikina tahaka ny diera ny mandringa, ary hihira ny lelan' ny moana; fa hiboiboika any an' efitra ny rano, ary hisy renirano any amin' ny tany karankaina,\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ny tany maina ho tonga farihy, ary ny tany mangentana ho loharano miboiboika; ny fonenana izay amitsahan' ny dragona dia haniry ahitra mbamin' ny volotara sy zozoro.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary hisy lalambe any, sy lalana, izay atao hoe: Ny Lalan' ny fahamasinana; tsy mba handia izany ny tsy madio, fa ho an' ireto izany: izay mandeha amin' ny lalana, na dia ny adala aza, dia tsy ho diso any.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Tsy hisy liona any, sady tsy hiakaran' ny biby masiaka, tsy ho hita ao ireny; fa ny navotana no handia azy.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary ny navotan' i Jehovah hiverina ka hankany Ziona amin' ny hira, ary ny fifaliana mandrakizay no ho eny an-dohany; hahazo fifaliana sy faharavoravoana izy, ka dia handositra ny alahelo sy ny fisentoana.\""
-    }
-  ]
+  "verses": {
+    "1": "HO ravoravo ny efitra sy ny tany karankaina, ary ny tani-hay hifaly sy hamony tahaka ny raozy.",
+    "2": "Hamony be dia be izy, eny hifaly sy hihira izy; ny voninahitr' i Libanona dia homena azy, mbamin' ny hatsaran-tarehin' i Karmela sy Sarôna, hahita ny voninahitr' i Jehovah izy sy ny famirapiratan' Andriamanitsika.",
+    "3": "Ampaherezonareo ny tanana miraviravy, ary atanjaho ny lohalika malemy.",
+    "4": "Lazao amin' izay matahotra ao am-po hoe: Mahereza, aza matahotra: Indro, Andriamanitrareo ho avy mitondra famaliana, dia ny famalian' Andriamanitra, eny, Izy tokoa no ho avy ka hamonjy anareo.",
+    "5": "Dia hampahiratina ny mason' ny jamba, ary hampahaladìna ny sofin' ny marenina.",
+    "6": "Dia hitsambikina tahaka ny diera ny mandringa, ary hihira ny lelan' ny moana; fa hiboiboika any an' efitra ny rano, ary hisy renirano any amin' ny tany karankaina,",
+    "7": "Ny tany maina ho tonga farihy, ary ny tany mangentana ho loharano miboiboika; ny fonenana izay amitsahan' ny dragona dia haniry ahitra mbamin' ny volotara sy zozoro.",
+    "8": "Ary hisy lalambe any, sy lalana, izay atao hoe: Ny Lalan' ny fahamasinana; tsy mba handia izany ny tsy madio, fa ho an' ireto izany: izay mandeha amin' ny lalana, na dia ny adala aza, dia tsy ho diso any.",
+    "9": "Tsy hisy liona any, sady tsy hiakaran' ny biby masiaka, tsy ho hita ao ireny; fa ny navotana no handia azy.",
+    "10": "Ary ny navotan' i Jehovah hiverina ka hankany Ziona amin' ny hira, ary ny fifaliana mandrakizay no ho eny an-dohany; hahazo fifaliana sy faharavoravoana izy, ka dia handositra ny alahelo sy ny fisentoana."
+  }
 }

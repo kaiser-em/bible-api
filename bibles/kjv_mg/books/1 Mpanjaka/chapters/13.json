@@ -1,141 +1,40 @@
 {
+  "book": "1 Mpanjaka",
   "chapter": 13,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary, indro, nisy lehilahin' Andriamanitra avy tany Joda tonga tany Betela noho ny tenin' i Jehovah; ary nitsangana teo anilan' ny alitara Jeroboama handoro ditin-kazo manitra.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary ilay lehilahin' Andriamanitra niantso ny alitara araka ny tenin'i Jehovah ka nanao hoe: Ry alitara ô, ry alitara ô! izao no lazain' i Jehovah: Indro, hisy zaza hateraka ho an' ny taranak' i Davida, Josia no ho anarany; ary hovonoiny ka hateriny eo amboninao ny mpisorona amin' ny fitoerana avo izay mandoro ditin-kazo manitra eo amboninao, ary taolan' olona no hodorana eo amboninao.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary naneho famantarana androtrizay izy nanao hoe: Izao no famantarana izay nolazain' i Jehovah: Indro, hitresaka ny alitara, ka hikorotsaka ny lavenona eo amboniny."
-    },
-    {
-      "v": 4,
-      "text": "Ary izao no niseho, nony ren' i Jeroboama mpanjaka ny tenin' ny lehilahin' Andriamanitra izay niantso ny alitara tao Betela, dia naninjitra ny tanany niala tamin' ny alitara izy ka nanao hoe: Hazòny ilehio. Dia maina ny tanany izay nahinjiny nanondro azy ka tsy azony noketrahina intsony."
-    },
-    {
-      "v": 5,
-      "text": "Dia nitresaka koa ny alitara, ka nikorotsaka ny lavenona teo amboniny, araka ny famantarana izay nomen' ilay lehilahin' Andriamanitra araka ny tenin' i Jehovah."
-    },
-    {
-      "v": 6,
-      "text": "Ary ny mpanjaka namaly ka niteny tamin' ilay lehilahin' Andriamanitra nanao hoe: Ifòny amin' i Jehovah Andriamanitrao aho izao, ka mivavaha ho ahy, mba ho azoko ketrahina indray ny tanako. Ary ilay lehilahin' Andriamanitra dia nifona tamin' i Jehovah, ka dia azon' ny mpanjaka noketrahina indray ny tanany ka tonga tahaka ny teo aloha."
-    },
-    {
-      "v": 7,
-      "text": "Ary hoy ny mpanjaka tamin' ilay lehilahin' Andriamanitra: Andeha hiaraka amiko ho any an-trano ianao mba hanao ody am-bavafo kely, dia homeko fanomezana ianao."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa hoy ilay lehilahin' Andriamanitra tamin' ny mpanjaka: Na dia homenao ahy aza ny antsasaky ny ao an-tranonao, tsy hiditra any miaraka aminao aho, na hihinan-kanina na hisotro rano amin' ity toerana ity;\""
-    },
-    {
-      "v": 9,
-      "text": "Fa izao no tenin' i Jehovah nandrara ahy hoe: Aza mihinan-kanina, na misotro rano, na miverina amin' izay lalana efa nalehanao."
-    },
-    {
-      "v": 10,
-      "text": "Dia nandeha tamin' ny lalana hafa izy fa tsy niverina tamin' ilay nalehany ho any Betela."
-    },
-    {
-      "v": 11,
-      "text": "\"Fa nisy mpaminany antitra anankiray tao Betela; ary tonga ny zanany ka nilaza taminy ny asa rehetra nataon' ilay lehilahin' Andriamanitra androtriny tao Betela; ary nolazain' ireo tamin-drainy koa ny teny izay nolazain-dralehilahy tamin' ny mpanjaka.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary hoy rainy tamin' izy ireo: Aiza no lalana nalehany? Fa ny zanany efa nahita ny lalana nalehan' ilay lehilahin' Andriamanitra izay tonga avy tany Joda."
-    },
-    {
-      "v": 13,
-      "text": "Ary hoy izy tamin' ny zanany: Asio lasely ny boriky hitaingenako. Dia nasiany lasely ny boriky hitaingenany, ka dia nitaingenany."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary dia nanaraka ilay lehilahin' Andriamanitra izy ka nahita azy nipetraka teo ambany hazo oaka; ary hoy izy taminy: Ianao moa ilay lehilahin' Andriamanitra avy tany Joda? Dia hoy izy : Izaho no izy.\""
-    },
-    {
-      "v": 15,
-      "text": "Dia hoy izy taminy: Andeha hiaraka amiko ho any an-tranoko mba hihinan-kanina."
-    },
-    {
-      "v": 16,
-      "text": "\"Fa hoy kosa izy: Tsy mahazo miverina hiaraka aminao aho na hiditra any an-tranonao miaraka aminao, ary tsy hihinan-kanina na hisotro rano miaraka aminao amin' ity toerana ity aho;\""
-    },
-    {
-      "v": 17,
-      "text": "Satria tonga tamiko ny tenin' i Jehovah hoe: Aza mihinan-kanina, na misotro rano any, ary aza miverina amin' ny lalana efa nalehanao."
-    },
-    {
-      "v": 18,
-      "text": "\"Fa hoy kosa izy taminy: Izaho koa mba mpaminany tahaka anao ihany; ary nisy anjely nilaza tamiko araka ny tenin' i Jehovah nanao hoe: Ento miverina hiaraka aminao ho any an-tranonao izy hihinan-kanina sy hisotro rano. Nefa nandainga taminy izy.\""
-    },
-    {
-      "v": 19,
-      "text": "Dia niverina niaraka taminy izy ka nihinan-kanina sy nisotro rano tao an-tranony."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary izao no niseho, raha mbola nipetraka teo amin' ny latabatra izy roa lahy, dia tonga tamin' ilay mpaminany nitondra azy niverina ny tenin' i Jehovah;\""
-    },
-    {
-      "v": 21,
-      "text": "Ary niteny mafy tamin' ilay lehilahin' Andriamanitra avy tany Joda izy nanao hoe: Izao no lazain' i Jehovah: Satria tsy nankatò ny tenin' i Jehovah ianao ka tsy nitandrina ny didy izay nandidian' i Jehovah Andriamanitrao anao,"
-    },
-    {
-      "v": 22,
-      "text": "\"Fa niverina ka nihinan-kanina sy nisotro rano tany amin' ny tany izay nolazain' i Jehovah taminao hoe: aza mihinan-kanina na misotro rano; dia tsy ho tonga any am-pasan-drazanao ny fatinao.\""
-    },
-    {
-      "v": 23,
-      "text": "Ary izao no niseho, rehefa avy nihinana sy avy nisotro izy, dia nasiany lasely ny boriky hitaingenan' ilay mpaminany naveriny."
-    },
-    {
-      "v": 24,
-      "text": "\"Ary nony nandeha izy, dia nisy liona nifanena taminy teny an-dalana ka nahafaty azy; ary ny fatiny dia niampatra teo an-dalana, ary ny boriky nijanona teo anilany, ary ny liona koa nijanona teo anilan' ny faty.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary, indreo, nisy olona nandalo ka nahita ny faty niampatra teo an-dalana sy ny liona nijanona teo anilan' ny faty, dia lasa nandeha ireo ka nilaza izany tany an-tanàna izay nitoeran' ilay mpaminany antitra."
-    },
-    {
-      "v": 26,
-      "text": "\"Ary nony nandre izany ilay mpaminany izay namerina azy tany an-dalana, dia hoy izy: Ilay lehilahin' Andriamanitra tsy nankatò ny tenin' i Jehovah izay; izany no nanoloran' i Jehovah azy tamin' ny liona, izay namiravira azy sy namono azy araka ny tenin' i Jehovah, izay efa nolazainy taminy.\""
-    },
-    {
-      "v": 27,
-      "text": "Ary niteny tamin' ny zanany lahy izy hoe: Asio lasely ny boriky hitaingenako. Dia nasiany lasely izany."
-    },
-    {
-      "v": 28,
-      "text": "\"Ary nandeha izy dia nahita ny fatin-dralehilahy niampatra teo an-dalana, ary ny boriky sy ny liona samy nijanona teo anilan' ny faty; nefa ny liona tsy nihinana ny faty, na namiravira ny boriky.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Ary nobetain' ilay mpaminany ny fatin' ilay lehilahin' Andriamanitra ka nasampiny tamin' ny boriky, dia nentiny niverina; ary tonga tao an-tanàna ilay mpaminany antitra mba hisaona sy handevina azy.\""
-    },
-    {
-      "v": 30,
-      "text": "Ary ny fatin-dralehilahy dia naleviny tao am-pasany, ary nitomany azy ny olona hoe: Indrisy, ry rahalahiko!"
-    },
-    {
-      "v": 31,
-      "text": "\"Ary izao no niseho, rehefa voalevina ralehilahy, dia hoy izy tamin' ny zanany: Rehefa maty aho, dia mba aleveno ao amin' ny fasana izay ilevenan' ilay lehilahin' Andriamanitra, ka ataovy eo anilan' ny taolany ny taolako;\""
-    },
-    {
-      "v": 32,
-      "text": "Fa tsy maintsy ho tanteraka ilay teny nantsoiny noho ny tenin' i Jehovah nilaza ny loza ho tonga amin' ny alitara ao Betela sy amin' ny trano rehetra eny amin' ny fitoerana avo izay any an-tanànan' i Samaria."
-    },
-    {
-      "v": 33,
-      "text": "\"Taorian' izany zavatra izany, dia tsy mbola niala tamin' ny lalan-dratsiny ihany Jeroboama fa mbola naka tamin' ny olona ambany indrindra tamin' ny vahoaka ho mpisorona amin' ny fitoerana avo; koa na iza na iza tia izany dia natokany, ary dia tonga mpisorona amin' ny fitoerana avo.\""
-    },
-    {
-      "v": 34,
-      "text": "Ary tonga fahotana tamin' ny taranak' i Jeroboama izany zavatra izany ka namongorana azy sy nandringanana azy tsy ho eto ambonin' ny tany."
-    }
-  ]
+  "verses": {
+    "1": "Ary, indro, nisy lehilahin' Andriamanitra avy tany Joda tonga tany Betela noho ny tenin' i Jehovah; ary nitsangana teo anilan' ny alitara Jeroboama handoro ditin-kazo manitra.",
+    "2": "Ary ilay lehilahin' Andriamanitra niantso ny alitara araka ny tenin'i Jehovah ka nanao hoe: Ry alitara ô, ry alitara ô! izao no lazain' i Jehovah: Indro, hisy zaza hateraka ho an' ny taranak' i Davida, Josia no ho anarany; ary hovonoiny ka hateriny eo amboninao ny mpisorona amin' ny fitoerana avo izay mandoro ditin-kazo manitra eo amboninao, ary taolan' olona no hodorana eo amboninao.",
+    "3": "Ary naneho famantarana androtrizay izy nanao hoe: Izao no famantarana izay nolazain' i Jehovah: Indro, hitresaka ny alitara, ka hikorotsaka ny lavenona eo amboniny.",
+    "4": "Ary izao no niseho, nony ren' i Jeroboama mpanjaka ny tenin' ny lehilahin' Andriamanitra izay niantso ny alitara tao Betela, dia naninjitra ny tanany niala tamin' ny alitara izy ka nanao hoe: Hazòny ilehio. Dia maina ny tanany izay nahinjiny nanondro azy ka tsy azony noketrahina intsony.",
+    "5": "Dia nitresaka koa ny alitara, ka nikorotsaka ny lavenona teo amboniny, araka ny famantarana izay nomen' ilay lehilahin' Andriamanitra araka ny tenin' i Jehovah.",
+    "6": "Ary ny mpanjaka namaly ka niteny tamin' ilay lehilahin' Andriamanitra nanao hoe: Ifòny amin' i Jehovah Andriamanitrao aho izao, ka mivavaha ho ahy, mba ho azoko ketrahina indray ny tanako. Ary ilay lehilahin' Andriamanitra dia nifona tamin' i Jehovah, ka dia azon' ny mpanjaka noketrahina indray ny tanany ka tonga tahaka ny teo aloha.",
+    "7": "Ary hoy ny mpanjaka tamin' ilay lehilahin' Andriamanitra: Andeha hiaraka amiko ho any an-trano ianao mba hanao ody am-bavafo kely, dia homeko fanomezana ianao.",
+    "8": "Fa hoy ilay lehilahin' Andriamanitra tamin' ny mpanjaka: Na dia homenao ahy aza ny antsasaky ny ao an-tranonao, tsy hiditra any miaraka aminao aho, na hihinan-kanina na hisotro rano amin' ity toerana ity;",
+    "9": "Fa izao no tenin' i Jehovah nandrara ahy hoe: Aza mihinan-kanina, na misotro rano, na miverina amin' izay lalana efa nalehanao.",
+    "10": "Dia nandeha tamin' ny lalana hafa izy fa tsy niverina tamin' ilay nalehany ho any Betela.",
+    "11": "Fa nisy mpaminany antitra anankiray tao Betela; ary tonga ny zanany ka nilaza taminy ny asa rehetra nataon' ilay lehilahin' Andriamanitra androtriny tao Betela; ary nolazain' ireo tamin-drainy koa ny teny izay nolazain-dralehilahy tamin' ny mpanjaka.",
+    "12": "Ary hoy rainy tamin' izy ireo: Aiza no lalana nalehany? Fa ny zanany efa nahita ny lalana nalehan' ilay lehilahin' Andriamanitra izay tonga avy tany Joda.",
+    "13": "Ary hoy izy tamin' ny zanany: Asio lasely ny boriky hitaingenako. Dia nasiany lasely ny boriky hitaingenany, ka dia nitaingenany.",
+    "14": "Ary dia nanaraka ilay lehilahin' Andriamanitra izy ka nahita azy nipetraka teo ambany hazo oaka; ary hoy izy taminy: Ianao moa ilay lehilahin' Andriamanitra avy tany Joda? Dia hoy izy : Izaho no izy.",
+    "15": "Dia hoy izy taminy: Andeha hiaraka amiko ho any an-tranoko mba hihinan-kanina.",
+    "16": "Fa hoy kosa izy: Tsy mahazo miverina hiaraka aminao aho na hiditra any an-tranonao miaraka aminao, ary tsy hihinan-kanina na hisotro rano miaraka aminao amin' ity toerana ity aho;",
+    "17": "Satria tonga tamiko ny tenin' i Jehovah hoe: Aza mihinan-kanina, na misotro rano any, ary aza miverina amin' ny lalana efa nalehanao.",
+    "18": "Fa hoy kosa izy taminy: Izaho koa mba mpaminany tahaka anao ihany; ary nisy anjely nilaza tamiko araka ny tenin' i Jehovah nanao hoe: Ento miverina hiaraka aminao ho any an-tranonao izy hihinan-kanina sy hisotro rano. Nefa nandainga taminy izy.",
+    "19": "Dia niverina niaraka taminy izy ka nihinan-kanina sy nisotro rano tao an-tranony.",
+    "20": "Ary izao no niseho, raha mbola nipetraka teo amin' ny latabatra izy roa lahy, dia tonga tamin' ilay mpaminany nitondra azy niverina ny tenin' i Jehovah;",
+    "21": "Ary niteny mafy tamin' ilay lehilahin' Andriamanitra avy tany Joda izy nanao hoe: Izao no lazain' i Jehovah: Satria tsy nankatò ny tenin' i Jehovah ianao ka tsy nitandrina ny didy izay nandidian' i Jehovah Andriamanitrao anao,",
+    "22": "Fa niverina ka nihinan-kanina sy nisotro rano tany amin' ny tany izay nolazain' i Jehovah taminao hoe: aza mihinan-kanina na misotro rano; dia tsy ho tonga any am-pasan-drazanao ny fatinao.",
+    "23": "Ary izao no niseho, rehefa avy nihinana sy avy nisotro izy, dia nasiany lasely ny boriky hitaingenan' ilay mpaminany naveriny.",
+    "24": "Ary nony nandeha izy, dia nisy liona nifanena taminy teny an-dalana ka nahafaty azy; ary ny fatiny dia niampatra teo an-dalana, ary ny boriky nijanona teo anilany, ary ny liona koa nijanona teo anilan' ny faty.",
+    "25": "Ary, indreo, nisy olona nandalo ka nahita ny faty niampatra teo an-dalana sy ny liona nijanona teo anilan' ny faty, dia lasa nandeha ireo ka nilaza izany tany an-tanàna izay nitoeran' ilay mpaminany antitra.",
+    "26": "Ary nony nandre izany ilay mpaminany izay namerina azy tany an-dalana, dia hoy izy: Ilay lehilahin' Andriamanitra tsy nankatò ny tenin' i Jehovah izay; izany no nanoloran' i Jehovah azy tamin' ny liona, izay namiravira azy sy namono azy araka ny tenin' i Jehovah, izay efa nolazainy taminy.",
+    "27": "Ary niteny tamin' ny zanany lahy izy hoe: Asio lasely ny boriky hitaingenako. Dia nasiany lasely izany.",
+    "28": "Ary nandeha izy dia nahita ny fatin-dralehilahy niampatra teo an-dalana, ary ny boriky sy ny liona samy nijanona teo anilan' ny faty; nefa ny liona tsy nihinana ny faty, na namiravira ny boriky.",
+    "29": "Ary nobetain' ilay mpaminany ny fatin' ilay lehilahin' Andriamanitra ka nasampiny tamin' ny boriky, dia nentiny niverina; ary tonga tao an-tanàna ilay mpaminany antitra mba hisaona sy handevina azy.",
+    "30": "Ary ny fatin-dralehilahy dia naleviny tao am-pasany, ary nitomany azy ny olona hoe: Indrisy, ry rahalahiko!",
+    "31": "Ary izao no niseho, rehefa voalevina ralehilahy, dia hoy izy tamin' ny zanany: Rehefa maty aho, dia mba aleveno ao amin' ny fasana izay ilevenan' ilay lehilahin' Andriamanitra, ka ataovy eo anilan' ny taolany ny taolako;",
+    "32": "Fa tsy maintsy ho tanteraka ilay teny nantsoiny noho ny tenin' i Jehovah nilaza ny loza ho tonga amin' ny alitara ao Betela sy amin' ny trano rehetra eny amin' ny fitoerana avo izay any an-tanànan' i Samaria.",
+    "33": "Taorian' izany zavatra izany, dia tsy mbola niala tamin' ny lalan-dratsiny ihany Jeroboama fa mbola naka tamin' ny olona ambany indrindra tamin' ny vahoaka ho mpisorona amin' ny fitoerana avo; koa na iza na iza tia izany dia natokany, ary dia tonga mpisorona amin' ny fitoerana avo.",
+    "34": "Ary tonga fahotana tamin' ny taranak' i Jeroboama izany zavatra izany ka namongorana azy sy nandringanana azy tsy ho eto ambonin' ny tany."
+  }
 }

@@ -1,77 +1,24 @@
 {
+  "book": "2 Korintiana",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izahay mpiara-miasa aminy dia miangavy anareo koa mba tsy handraisanareo foana ny fahasoavan’Andriamanitra."
-    },
-    {
-      "v": 2,
-      "text": "\"(Fa hoy Izy: tamin’ny fotoana ankasitrahana no nihainoako anao, ary tamin’ny andro famonjena no namonjeko anao; indro, ankehitriny no fotoana ankasitrahana; indro ankehitriny no andro famonjena).\""
-    },
-    {
-      "v": 3,
-      "text": "\"Fa tsy manao izay mahatafintohina izahay na amin’inona na amin’inona, mba tsy homen-tsiny ny fanompoana;\""
-    },
-    {
-      "v": 4,
-      "text": "Fa amin’ny zavatra rehetra dia mampiseho ny tenanay ho mpanompon’Andriamanitra izahay, dia amin’ny faharetana be, amin’ny fahoriana, amin’ny fahaterena, amin’ny fahantrana,"
-    },
-    {
-      "v": 5,
-      "text": "Amin’ny kapoka, amin’ny fanaovana am-ponja, amin’ny tabataba, amin’ny fisasarana, amin’ny fiaretan-tory, amin’ny fifadian-kanina,"
-    },
-    {
-      "v": 6,
-      "text": "Amin’ny fahadiovana, amin’ny fahalalana, amin’ny fahari-po, amin’ny fahamoram-panahy, amin’ny Fanahy Masina, amin’ny fitiavana tsy mihatsaravelatsihy,"
-    },
-    {
-      "v": 7,
-      "text": "Amin’ny teny fahamarinana, amin’ny herin’Andriamanitra, amin’ny fiadian’ny fahamarinana na amin’ny ankavanana na amin’ny ankavia,"
-    },
-    {
-      "v": 8,
-      "text": "\"Amin’ny voninahitra sy ny fahafaham-baràka, amin’ny laza ratsy sy ny laza soa; tahaka ny mpamitaka, kanefa marina ihany;\""
-    },
-    {
-      "v": 9,
-      "text": "\"Tahaka ny tsy fantatra, nefa fantatra tsara ihany; tahaka ny efa ho faty, nefa, indro, velona ihany; tahaka ny faizina, nefa tsy maty;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Tahaka ny ampalahelovina, nefa faly mandrakariva; tahaka ny mahantra, nefa mampanan-karena ny maro; tahaka ny tsy manana na inona na inona, nefa manana ny zavatra rehetra.\""
-    },
-    {
-      "v": 11,
-      "text": "Ry Korintiana, ny vavanay misokatra aminareo, ny fonay malalaka."
-    },
-    {
-      "v": 12,
-      "text": "Tsy tery aminay ianareo, fa tery ao am-ponareo ihany."
-    },
-    {
-      "v": 13,
-      "text": "Ary mba ho valiny toraka izany (miteny toy ny amin’ny zanako aho) dia mba mihalalaha koa ianareo."
-    },
-    {
-      "v": 14,
-      "text": "Aza mety hasiana zioga tsy antonona anareo hikambanana amin’ny tsy mino. Fa inona no iraisan’ny fahamarinana sy ny tsy fahamarinana? ary inona no iombonan' ny mazava sy ny maizina?"
-    },
-    {
-      "v": 15,
-      "text": "Ary inona no ifanarahan’i Kristy sy Beliala? Ary inona no iraisan’ny anjaran’ny mino sy ny tsy mino?"
-    },
-    {
-      "v": 16,
-      "text": "\"Ary inona no ikambanan’ny tempolin’Andriamanitra amin’ny sampy? Fa isika no tempolin’Andriamanitra velona, araka ny nataon’Andriamanitra hoe: “Honina eo aminy Aho sy handeha eo aminy; ary ho Andriamaniny Aho, ary izy ho oloko”\""
-    },
-    {
-      "v": 17,
-      "text": "\"“Koa mivoaha eo aminy ianareo, ka misaraha aminy, hoy Jehovah, ary aza manendry izay zavatra tsy madio; ary Izaho dia handray anareo.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary ho Rainareo Aho, ary ianareo ho zanako lahy sy ho zanako vavy, hoy Jehovah  Tsitoha”."
-    }
-  ]
+  "verses": {
+    "1": "Ary izahay mpiara-miasa aminy dia miangavy anareo koa mba tsy handraisanareo foana ny fahasoavan’Andriamanitra.",
+    "2": "(Fa hoy Izy: tamin’ny fotoana ankasitrahana no nihainoako anao, ary tamin’ny andro famonjena no namonjeko anao; indro, ankehitriny no fotoana ankasitrahana; indro ankehitriny no andro famonjena).",
+    "3": "Fa tsy manao izay mahatafintohina izahay na amin’inona na amin’inona, mba tsy homen-tsiny ny fanompoana;",
+    "4": "Fa amin’ny zavatra rehetra dia mampiseho ny tenanay ho mpanompon’Andriamanitra izahay, dia amin’ny faharetana be, amin’ny fahoriana, amin’ny fahaterena, amin’ny fahantrana,",
+    "5": "Amin’ny kapoka, amin’ny fanaovana am-ponja, amin’ny tabataba, amin’ny fisasarana, amin’ny fiaretan-tory, amin’ny fifadian-kanina,",
+    "6": "Amin’ny fahadiovana, amin’ny fahalalana, amin’ny fahari-po, amin’ny fahamoram-panahy, amin’ny Fanahy Masina, amin’ny fitiavana tsy mihatsaravelatsihy,",
+    "7": "Amin’ny teny fahamarinana, amin’ny herin’Andriamanitra, amin’ny fiadian’ny fahamarinana na amin’ny ankavanana na amin’ny ankavia,",
+    "8": "Amin’ny voninahitra sy ny fahafaham-baràka, amin’ny laza ratsy sy ny laza soa; tahaka ny mpamitaka, kanefa marina ihany;",
+    "9": "Tahaka ny tsy fantatra, nefa fantatra tsara ihany; tahaka ny efa ho faty, nefa, indro, velona ihany; tahaka ny faizina, nefa tsy maty;",
+    "10": "Tahaka ny ampalahelovina, nefa faly mandrakariva; tahaka ny mahantra, nefa mampanan-karena ny maro; tahaka ny tsy manana na inona na inona, nefa manana ny zavatra rehetra.",
+    "11": "Ry Korintiana, ny vavanay misokatra aminareo, ny fonay malalaka.",
+    "12": "Tsy tery aminay ianareo, fa tery ao am-ponareo ihany.",
+    "13": "Ary mba ho valiny toraka izany (miteny toy ny amin’ny zanako aho) dia mba mihalalaha koa ianareo.",
+    "14": "Aza mety hasiana zioga tsy antonona anareo hikambanana amin’ny tsy mino. Fa inona no iraisan’ny fahamarinana sy ny tsy fahamarinana? ary inona no iombonan' ny mazava sy ny maizina?",
+    "15": "Ary inona no ifanarahan’i Kristy sy Beliala? Ary inona no iraisan’ny anjaran’ny mino sy ny tsy mino?",
+    "16": "Ary inona no ikambanan’ny tempolin’Andriamanitra amin’ny sampy? Fa isika no tempolin’Andriamanitra velona, araka ny nataon’Andriamanitra hoe: “Honina eo aminy Aho sy handeha eo aminy; ary ho Andriamaniny Aho, ary izy ho oloko”",
+    "17": "“Koa mivoaha eo aminy ianareo, ka misaraha aminy, hoy Jehovah, ary aza manendry izay zavatra tsy madio; ary Izaho dia handray anareo.",
+    "18": "Ary ho Rainareo Aho, ary ianareo ho zanako lahy sy ho zanako vavy, hoy Jehovah  Tsitoha”."
+  }
 }

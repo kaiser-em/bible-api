@@ -1,41 +1,15 @@
 {
+  "book": "Salamo",
   "chapter": 98,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Salamo.]  Mihirà fihiram-baovao ho an' i Jehovah; fa efa nanao zava-mahagaga Izy; ny tanany ankavanana sy ny sandriny masina no nahazoany fandresena.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Efa nampahafantatra ny famonjeny Jehovah; teo anatrehan' ny jentilisa no nanehoany miharihary ny fahamarinany.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Efa nahatsiaro ny famindrampony sy ny fahamarinany tamin' ny taranak' Isiraely Izy; efa nahita ny famonjen' Andriamanitsika ny vazan-tany rehetra.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Mihobia ho an' i Jehovah, ry tany rehetra; velomy ny hoby ary mifalia ka mihirà fiderana.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Mihirà ho an' i Jehovah amin' ny harpa; amin' ny harpa sy ny feon' ny salamo.\""
-    },
-    {
-      "v": 6,
-      "text": "Mihobia eo anatrehan' i Jehovah Mpanjaka amin' ny trompetra sy ny fitsofana ny anjomara."
-    },
-    {
-      "v": 7,
-      "text": "\"Aoka hirohondrohona ny ranomasina sy izay rehetra ao aminy; izao tontolo izao sy ny mponina eo aminy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Aoka hiteha-tanana ny riaka; aoka hiara-mihoby aminy koa ny havoana\""
-    },
-    {
-      "v": 9,
-      "text": "\"Eo anatrehan' i Jehovah; fa avy hitsara ny tany Izy; hitsara izao tontolo izao amin' ny fahamarinana Izy, ary ny olona amin' ny fahitsiana.\""
-    }
-  ]
+  "verses": {
+    "1": "[Salamo.]  Mihirà fihiram-baovao ho an' i Jehovah; fa efa nanao zava-mahagaga Izy; ny tanany ankavanana sy ny sandriny masina no nahazoany fandresena.",
+    "2": "Efa nampahafantatra ny famonjeny Jehovah; teo anatrehan' ny jentilisa no nanehoany miharihary ny fahamarinany.",
+    "3": "Efa nahatsiaro ny famindrampony sy ny fahamarinany tamin' ny taranak' Isiraely Izy; efa nahita ny famonjen' Andriamanitsika ny vazan-tany rehetra.",
+    "4": "Mihobia ho an' i Jehovah, ry tany rehetra; velomy ny hoby ary mifalia ka mihirà fiderana.",
+    "5": "Mihirà ho an' i Jehovah amin' ny harpa; amin' ny harpa sy ny feon' ny salamo.",
+    "6": "Mihobia eo anatrehan' i Jehovah Mpanjaka amin' ny trompetra sy ny fitsofana ny anjomara.",
+    "7": "Aoka hirohondrohona ny ranomasina sy izay rehetra ao aminy; izao tontolo izao sy ny mponina eo aminy.",
+    "8": "Aoka hiteha-tanana ny riaka; aoka hiara-mihoby aminy koa ny havoana",
+    "9": "Eo anatrehan' i Jehovah; fa avy hitsara ny tany Izy; hitsara izao tontolo izao amin' ny fahamarinana Izy, ary ny olona amin' ny fahitsiana."
+  }
 }

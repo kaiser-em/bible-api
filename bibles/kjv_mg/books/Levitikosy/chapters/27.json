@@ -1,141 +1,40 @@
 {
+  "book": "Levitikosy",
   "chapter": 27,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Mitenena amin' ny Zanak' Isiraely ka lazao aminy hoe: Raha misy olona manao voady manokana, dia ho an' i Jehovah izy araka izay hataonao tombany."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary ny hataonao tomban' ny lehilahy hatramin' ny roapolo taona ka hatramin' ny enimpolo taona dia sekely volafotsy dimampolo araka ny sekelin' ny fitoerana masina;\""
-    },
-    {
-      "v": 4,
-      "text": "Fa raha vehivavy dia sekely telopolo kosa no hataonao tombany."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary raha hatramin' ny dimy taona ka hatramin' ny roapolo taona, dia sekely roapolo no hataonao tomban' ny lehilahy; ary raha vehivavy, dia sekely folo kosa.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary raha hatramin' ny iray volana ka hatramin' ny dimy taona, dia sekely volafotsy dimy no hataonao tomban' ny zazalahy; ary sekely volafotsy telo kosa no hataonao tomban' ny zazavavy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary raha hatramin' ny enimpolo taona no ho miakatra izy, raha lehilahy, dia ho sekely dimy ambin' ny folo no hataonao tombany; ary raha vehivavy, dia sekely folo kosa.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary raha mihamahantra kosa izy ka tsy mahaloa izay ataonao ho tombany, dia hiseho eo anatrehan' ny mpisorona izy, ka ny mpisorona no hanombana azy; araka ny takatry ny ananan' ilay nivoady no hanombanan' ny mpisorona azy.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary raha biby izay fanao fanatitra ho an' i Jehovah, dia ho masina ho an' i Jehovah izay rehetra omena amin' izany."
-    },
-    {
-      "v": 10,
-      "text": "\"Tsy hanova na hanakalo izany izy, na ny tsara ho solon' ny ratsy, na ny ratsy ho solon' ny tsara; ary raha biby no ho takalozany biby dia samy ho masina izy sy ny takalony.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Fa raha biby maloto izay tsy fanao fanatitra ho an' i Jehovah kosa izany, dia hoentina eo anatrehan' ny mpisorona ilay biby;\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary ny mpisorona hanombana azy, na tsara, na ratsy; koa araka izay ataon' ny mpisorona ho tombany no izy.\""
-    },
-    {
-      "v": 13,
-      "text": "Fa raha te-hanavotra azy ny tompony, dia hampiany ny ampahadiminy izay nataonao tombany."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary raha misy olona manamasina ny tranony ho an' i Jehovah, dia hotombanan' ny mpisorona ny trano, na tsara, na ratsy; koa araka izay ataon' ny mpisorona ho tombany no izy.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary raha tian' ny tompony havotana ny tranony izay nohamasininy, dia hampiany ny ampahadiminy ny vola nataonao tombany, dia ho azy ny trano."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary raha misy olona manamasina ho an' i Jehovah ny sasany amin' ny zara-taniny, dia hotombananao izy araka ny voan-javatra famafy eo; ny voambary hordea iray homera hotombananao sekely volafotsy dimampolo.\""
-    },
-    {
-      "v": 17,
-      "text": "Raha misy manamasina ny taniny, raha vao afaka ny taona Jobily, dia araka izay ataonao ho tombany no izy."
-    },
-    {
-      "v": 18,
-      "text": "Fa raha misy manamasina ny taniny aorian' ny Jobily, dia holazain' ny mpisorona aminy ny vola araka ny taona sisa, dia hatramin' ny taona jobily, ary hahena araka izany no hanaovanao ny tombany."
-    },
-    {
-      "v": 19,
-      "text": "Ary raha tian' ilay nanamasina azy havotana ny taniny, dia hampiany ny ampahadiminy ny vola nataonao tombany, ka dia tapaka ho azy."
-    },
-    {
-      "v": 20,
-      "text": "Ary raha tsy hanavotra ny tany izy, na efa nivarotra azy tamin' olon-kafa, dia tsy ho azo avotana intsony izany."
-    },
-    {
-      "v": 21,
-      "text": "\"Fa raha afaka amin' ny jobily ny tany dia ho masina ho an' i Jehovah tahaka ny saha voatokana izany; ny mpisorona no ho tompony.\""
-    },
-    {
-      "v": 22,
-      "text": "Ary raha misy manamasina ho an' i Jehovah ny tany novidiny, izay tsy amin' ny zara-taniny,"
-    },
-    {
-      "v": 23,
-      "text": "\"Dia holazain' ny mpisorona aminy ny ankeviny izay ataonao ho tombany, dia hatramin' ny taona jobily; dia handoa izay nataonao ho tombany amin' izany andro izany izy ho zava-masina ho an' i Jehovah.\""
-    },
-    {
-      "v": 24,
-      "text": "Amin' ny taona jobily no hodian' ny tany amin' izay nividianana azy, dia ho an' izay tompon-dova izany."
-    },
-    {
-      "v": 25,
-      "text": "\"Ary ny tombany rehetra izay ataonao dia ho sekely araka ny fitoerana masina; ho gera roapolo ny sekely iray.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Fa ny voalohan-teraky ny biby, dia izay voalohan-teraka ho an' i Jehovah, tsy hisy olona hanamasina izany, na omby, na ondry; an' i Jehovah izany.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Fa raha ny biby maloto kosa, dia havotany araka izay ataonao tombany, ary hampiany ny ampahadiminy; fa raha tsy havotana izy, dia hamidy araka izay nataonao ho tombany.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Kanefa ny zavatra rehetra izay atokan' ny olona ho an' i Jehovah amin' izay ananany, na olona, na biby, na tany amin' izay ananany, dia tsy azo hamidy, na havotana ; ny zavatra rehetra atokana dia masina indrindra ho an' i Jehovah.\""
-    },
-    {
-      "v": 29,
-      "text": "Ny olona voatokana, izay natokana, dia tsy havotana, fa hatao maty tokoa."
-    },
-    {
-      "v": 30,
-      "text": "\"Ary ny ampahafolon' ny tany, na ny ampahafolon' ny vokatry ny tany, na ny an' ny voankazo dia an' i Jehovah; masina ho an' i Jehovah izany.\""
-    },
-    {
-      "v": 31,
-      "text": "Ary raha misy te-hanavotra ny ampahafolon' izay azy rehetra, dia hampiany ny ampahadiminy izany."
-    },
-    {
-      "v": 32,
-      "text": "Ary ny amin' ny ampahafolon' ny omby, na ny ondry, na ny osy, dia ny ampahafolon' izay rehetra mandalo eo ambanin' ny tehin' ny mpiandry, dia ho masina ho an' i Jehovah."
-    },
-    {
-      "v": 33,
-      "text": "\"Tsy hizaha ny tsara na ny ratsy izy, ary tsy hanakalo azy; ary raha misy takalozany izany, dia samy ho masina izy sy ny takalony ka tsy havotana.\""
-    },
-    {
-      "v": 34,
-      "text": "Ireo no didy izay nandidian' i Jehovah an' i Mosesy ho amin' ny Zanak' Isiraely teo an-tendrombohitra Sinay."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "2": "Mitenena amin' ny Zanak' Isiraely ka lazao aminy hoe: Raha misy olona manao voady manokana, dia ho an' i Jehovah izy araka izay hataonao tombany.",
+    "3": "Ary ny hataonao tomban' ny lehilahy hatramin' ny roapolo taona ka hatramin' ny enimpolo taona dia sekely volafotsy dimampolo araka ny sekelin' ny fitoerana masina;",
+    "4": "Fa raha vehivavy dia sekely telopolo kosa no hataonao tombany.",
+    "5": "Ary raha hatramin' ny dimy taona ka hatramin' ny roapolo taona, dia sekely roapolo no hataonao tomban' ny lehilahy; ary raha vehivavy, dia sekely folo kosa.",
+    "6": "Ary raha hatramin' ny iray volana ka hatramin' ny dimy taona, dia sekely volafotsy dimy no hataonao tomban' ny zazalahy; ary sekely volafotsy telo kosa no hataonao tomban' ny zazavavy.",
+    "7": "Ary raha hatramin' ny enimpolo taona no ho miakatra izy, raha lehilahy, dia ho sekely dimy ambin' ny folo no hataonao tombany; ary raha vehivavy, dia sekely folo kosa.",
+    "8": "Ary raha mihamahantra kosa izy ka tsy mahaloa izay ataonao ho tombany, dia hiseho eo anatrehan' ny mpisorona izy, ka ny mpisorona no hanombana azy; araka ny takatry ny ananan' ilay nivoady no hanombanan' ny mpisorona azy.",
+    "9": "Ary raha biby izay fanao fanatitra ho an' i Jehovah, dia ho masina ho an' i Jehovah izay rehetra omena amin' izany.",
+    "10": "Tsy hanova na hanakalo izany izy, na ny tsara ho solon' ny ratsy, na ny ratsy ho solon' ny tsara; ary raha biby no ho takalozany biby dia samy ho masina izy sy ny takalony.",
+    "11": "Fa raha biby maloto izay tsy fanao fanatitra ho an' i Jehovah kosa izany, dia hoentina eo anatrehan' ny mpisorona ilay biby;",
+    "12": "Ary ny mpisorona hanombana azy, na tsara, na ratsy; koa araka izay ataon' ny mpisorona ho tombany no izy.",
+    "13": "Fa raha te-hanavotra azy ny tompony, dia hampiany ny ampahadiminy izay nataonao tombany.",
+    "14": "Ary raha misy olona manamasina ny tranony ho an' i Jehovah, dia hotombanan' ny mpisorona ny trano, na tsara, na ratsy; koa araka izay ataon' ny mpisorona ho tombany no izy.",
+    "15": "Ary raha tian' ny tompony havotana ny tranony izay nohamasininy, dia hampiany ny ampahadiminy ny vola nataonao tombany, dia ho azy ny trano.",
+    "16": "Ary raha misy olona manamasina ho an' i Jehovah ny sasany amin' ny zara-taniny, dia hotombananao izy araka ny voan-javatra famafy eo; ny voambary hordea iray homera hotombananao sekely volafotsy dimampolo.",
+    "17": "Raha misy manamasina ny taniny, raha vao afaka ny taona Jobily, dia araka izay ataonao ho tombany no izy.",
+    "18": "Fa raha misy manamasina ny taniny aorian' ny Jobily, dia holazain' ny mpisorona aminy ny vola araka ny taona sisa, dia hatramin' ny taona jobily, ary hahena araka izany no hanaovanao ny tombany.",
+    "19": "Ary raha tian' ilay nanamasina azy havotana ny taniny, dia hampiany ny ampahadiminy ny vola nataonao tombany, ka dia tapaka ho azy.",
+    "20": "Ary raha tsy hanavotra ny tany izy, na efa nivarotra azy tamin' olon-kafa, dia tsy ho azo avotana intsony izany.",
+    "21": "Fa raha afaka amin' ny jobily ny tany dia ho masina ho an' i Jehovah tahaka ny saha voatokana izany; ny mpisorona no ho tompony.",
+    "22": "Ary raha misy manamasina ho an' i Jehovah ny tany novidiny, izay tsy amin' ny zara-taniny,",
+    "23": "Dia holazain' ny mpisorona aminy ny ankeviny izay ataonao ho tombany, dia hatramin' ny taona jobily; dia handoa izay nataonao ho tombany amin' izany andro izany izy ho zava-masina ho an' i Jehovah.",
+    "24": "Amin' ny taona jobily no hodian' ny tany amin' izay nividianana azy, dia ho an' izay tompon-dova izany.",
+    "25": "Ary ny tombany rehetra izay ataonao dia ho sekely araka ny fitoerana masina; ho gera roapolo ny sekely iray.",
+    "26": "Fa ny voalohan-teraky ny biby, dia izay voalohan-teraka ho an' i Jehovah, tsy hisy olona hanamasina izany, na omby, na ondry; an' i Jehovah izany.",
+    "27": "Fa raha ny biby maloto kosa, dia havotany araka izay ataonao tombany, ary hampiany ny ampahadiminy; fa raha tsy havotana izy, dia hamidy araka izay nataonao ho tombany.",
+    "28": "Kanefa ny zavatra rehetra izay atokan' ny olona ho an' i Jehovah amin' izay ananany, na olona, na biby, na tany amin' izay ananany, dia tsy azo hamidy, na havotana ; ny zavatra rehetra atokana dia masina indrindra ho an' i Jehovah.",
+    "29": "Ny olona voatokana, izay natokana, dia tsy havotana, fa hatao maty tokoa.",
+    "30": "Ary ny ampahafolon' ny tany, na ny ampahafolon' ny vokatry ny tany, na ny an' ny voankazo dia an' i Jehovah; masina ho an' i Jehovah izany.",
+    "31": "Ary raha misy te-hanavotra ny ampahafolon' izay azy rehetra, dia hampiany ny ampahadiminy izany.",
+    "32": "Ary ny amin' ny ampahafolon' ny omby, na ny ondry, na ny osy, dia ny ampahafolon' izay rehetra mandalo eo ambanin' ny tehin' ny mpiandry, dia ho masina ho an' i Jehovah.",
+    "33": "Tsy hizaha ny tsara na ny ratsy izy, ary tsy hanakalo azy; ary raha misy takalozany izany, dia samy ho masina izy sy ny takalony ka tsy havotana.",
+    "34": "Ireo no didy izay nandidian' i Jehovah an' i Mosesy ho amin' ny Zanak' Isiraely teo an-tendrombohitra Sinay."
+  }
 }

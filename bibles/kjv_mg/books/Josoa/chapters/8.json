@@ -1,145 +1,41 @@
 {
+  "book": "Josoa",
   "chapter": 8,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Dia hoy Jehovah tamin' i Josoa: Aza matahotra na mivadi-po ianao, ento miaraka aminao ny vahoaka mpanafika rehetra, ka miaingà, iakaro i Ay; indro, efa natolotro eo an-tananao ny mpanjakan' i Ay mbamin' ny vahoakany sy ny tanànany ary ny taniny.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Dia tahaka ny nataonao tamin' i Jeriko sy ny mpanjakany no hataonao koa amin' i Ay sy ny mpanjakany; nefa ny zavatra babo rehetra sy ny biby fiompy dia alainareo ho babo ho anareo ihany; asio otrika eo ankoatra ny tanàna.\""
-    },
-    {
-      "v": 3,
-      "text": "Dia niainga i Josoa sy ny mpanafika rehetra hiakatra an' i Ay, ary nifidy lehilahy mahery sy be herim-po telo alina Josoa ka nandefa ireo tamin' ny alina."
-    },
-    {
-      "v": 4,
-      "text": "Dia nandidy azy ireo izy ka nanao hoe: Indro, ianareo hanotrika eo ivohon' ny tanàna hamely azy, ka aza manalavitra azy loatra, fa miomàna ianareo rehetra."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary izaho sy ny vahoaka rehetra izay miaraka amiko kosa dia hanatona ny tanàna; ary izao no hiseho, rehefa mivoaka hamely anay tahaka ny tamin' ny voalohany ny olona, dia handositra eo anoloany izahay,\""
-    },
-    {
-      "v": 6,
-      "text": "\"(Fa hivoaka hanenjika anay izy) mandra-pitarikay azy hiala avy ao an-tanàna; fa izy hanao hoe: mandositra eo anoloantsika tahaka ny teo aloha izy ireo, dia hanao tari-dositra eo anoloany izahay.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary dia hiroatra avy ao amin' ny fanotrehana kosa ianareo, ka ho azonareo ny tanàna; fa hatolotr' i Jehovah Andriamanitrareo eo an-tananareo izy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary izao no hisy, rehefa afaka ny tanàna, dia doroy amin' ny afo; araka ny didin' i Jehovah no hataonareo; indro, efa nandidy anareo aho.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Dia nampandehanin' i Josoa izy ireo, ary nandeha hanotrika ka nitoetra teo andrefan' i Ay, teo anelanelan' i Betela sy Ay; fa Josoa kosa nitoetra teo amin' ny vahoaka ihany tamin' izany alina izany.\""
-    },
-    {
-      "v": 10,
-      "text": "Dia nifoha maraina koa i Josoa ka nanisa ny vahoaka, dia niakatra teo alohan' ny vahoaka hankany Ay izy sy ny loholon' ny Isiraely."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary ny vahoaka rehetra mpanafika, izay niaraka tamin' i Josoa, dia niakatra ka nanakaiky sy nanandrify ny tanàna; ary nitoby teo avaratr' i Ay izy ireo, ka ny lohasaha no teo anelanelan' izy ireo sy Ay.\""
-    },
-    {
-      "v": 12,
-      "text": "Dia naka olona tokony ho dimy arivo lahy izy ka nampanotrika azy teo anelanelan' i Betela sy Ay, andrefan' ny tanàna."
-    },
-    {
-      "v": 13,
-      "text": "Ary rehefa voalahatry ny vahoaka ny toby rehetra izay teo avaratry ny tanàna sy ny otrika teo andrefan' ny tanàna, dia nandeha nankeo amin' ny lohasaha i Josoa tamin' izany alina izany."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary izao no niseho, rehefa hitan' ny mpanjakan' i Ay izany, dia niolomay sy nifoha maraina koa ireo sy ny olona tao an-tanàna ka nivoaka faingana hiady tamin' ny Isiraely, tamin' ny fotoana nifamotoanany tandrifin' ny tany lemaka, dia ny mpanjaka sy ny vahoakany; fa tsy fantany ho nisy otrika hamely azy tao ankoatra ny tanàna.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary Josoa sy ny Isiraely rehetra nody resy teo anoloany ka nanao tari-dositra tamin' ny lalana mankany an' efitra."
-    },
-    {
-      "v": 16,
-      "text": "Dia nifampiantso hanenjika azy ny vahoaka rehetra izay tao Ay, ary nanenjika an' i Josoa izy, ka dia voatarika ho tafavoaka ny tanàna."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary tsy nisy lehilahy sisa na tao Ay, na tao Betela, izay tsy nivoaka nanenjika ny Isiraely; ary nilaozany mbola nivoha ny vavahady, ka lasa nanenjika ny Isiraely izy ireo.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary hoy Jehovah tamin' i Josoa: Atondroy an' i Ay ny lefona izay eny an-tananao; fa hatolotro eo an-tananao izany. Dia natondron' i Josoa ny tanàna ny lefona izay teny an-tanany.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Dia niroatra faingana ny otrika avy tao amin' ny nitoerany ka nihazakazaka, raha vao natondrony ny tanany; dia niditra tao an-tanàna izy ireo ka nahafaka azy ary nandoro azy faingana tamin' ny afo.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Ary raha niherika teo ivohony ny lehilahy tao Ay, dia hitany fa, indro, ny setroky ny tanàna niakatra ho any an-danitra, sady tsy nanan-kery handosirana izy ireo, na ho aty, na ho ery; fa ny Isiraely izay nanao tari-dositra tany an' efitra dia nifotitra hamely ny mpanenjika kosa.\""
-    },
-    {
-      "v": 21,
-      "text": "Fa rehefa hitan' i Josoa sy ny Isiraely fa efa azon' ny otrika ny tanàna, ka niakatra ny setroky ny tanàna, dia nifotitra izy ka namely ny mponina tao Ay."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary nivoaka hamely azy ireo avy tao an-tanàna, ka dia latsaka teo afovoan' ny Isiraely ny olona, fa ny Isiraely sasany teo an-daniny iray, ary ny sasany teo an-daniny iray koa; dia nifandafaran' ny Isiraely teo izy ireo, ka tsy nasiany niangana na afa-nandositra, na dia iray akory aza.\""
-    },
-    {
-      "v": 23,
-      "text": "Ary ny mpanjakan' i Ay nataony sambo-belona ka nentiny teo amin' i Josoa."
-    },
-    {
-      "v": 24,
-      "text": "Ary izao no niseho, rehefa namono ny mponina rehetra tao Ay tany an-tsaha ny Isiraely, dia tany amin' ny efitra nanenjehany azy, ka lavo tamin' ny lelan-tsabatra avokoa izy rehetra mandra-pahalany ritrany, dia niverina tany Ay ny Isiraely rehetra ka namely azy tamin' ny lelan-tsabatra."
-    },
-    {
-      "v": 25,
-      "text": "Ary izao no zava-nisy, izay rehetra maty tamin' izany andro izany, na lehilahy na vehivavy, dia roa arivo amby iray alina, dia ny mponina rehetra tao Ay."
-    },
-    {
-      "v": 26,
-      "text": "Fa Josoa tsy nampihemotra ny tanany izay nanondro tamin' ny lefona mandra-pandringana tanteraka ny mponina rehetra tao Ay."
-    },
-    {
-      "v": 27,
-      "text": "Nefa ny biby fiompy mbamin' ny zavatra rehetra azo babo tao amin' izany tanàna izany dia nalain' ny Isiraely ho babony ihany araka ny tenin' i Jehovah izay nandidiany an' i Josoa."
-    },
-    {
-      "v": 28,
-      "text": "Ary Ay dia nodoran' i Josoa ka nataony ho tanàna aolo mandrakizay sy lao mandraka androany."
-    },
-    {
-      "v": 29,
-      "text": "\"Ary ny mpanjakan' i Ay nahantony tamin' ny hazo mandra-paharivan' ny andro; ary raha vao maty ny masoandro, dia nandidy i Josoa ny hanesorana ny fatiny tamin' ny hazo ka nariany teo anoloan' ny vavahadin' ny tanàna ary teo no nananganany antontam-bato avo izay ao mandraka androany.\""
-    },
-    {
-      "v": 30,
-      "text": "Ary tamin' izany Josoa dia nanorina alitara tao an-tendrombohitra Ebala ho an' i Jehovah, Andriamanitry ny Isiraely,"
-    },
-    {
-      "v": 31,
-      "text": "\"Araka izay nandidian' i Mosesy, mpanompon' i Jehovah, ny Zanak' Isiraely, dia araka ny voasoratra eo amin' ny bokin' ny lalàn' i Mosesy, dia alitara vato tsy voavoatra, izay tsy nopehim-by; ary dia nanolotra fanatitra dorana teo amboniny ho an' i Jehovah izy sady nanao fanatitra ho fanati-pihavanana.\""
-    },
-    {
-      "v": 32,
-      "text": "Dia nosoratany teo amin' ny vato ny dikan' ny lalàn' i Mosesy, izay efa nosoratany teo anatrehan' ny Zanak' Isiraely."
-    },
-    {
-      "v": 33,
-      "text": "\"Ary ny Isiraely rehetra sy ny loholony sy ny mpifehy azy ary ny mpitsara azy dia nitsangana teo an-daniny roa tamin' ny fiara, teo anatrehan' ny Levita mpisorona, izay nitondra ny fiaran' ny faneken' i Jehovah, na vahiny na izay tera-tany teo aminy; ny antsasany nanandrify ny tendrombohitra Gerizima, ary ny an-tsasany nanandrify ny tendrombohitra Ebala, araka izay efa nandidian' i Mosesy, mpanompon' i Jehovah fahiny, mba hitsofany rano ny olon' ny Isiraely.\""
-    },
-    {
-      "v": 34,
-      "text": "Ary rehefa afaka izany, dia namaky ny tenin' ny lalàna rehetra izy, dia ny fitahiana sy ny fanozonana, araka izay rehetra voasoratra eo amin' ny bokin' ny lalàna."
-    },
-    {
-      "v": 35,
-      "text": "Tsy nisy teny tamin' izay rehetra nandidian' i Mosesy, izay tsy novakin' i Josoa teo anatrehan' ny fiangonan' ny Isiraely rehetra, mbamin' ny vehivavy sy ny ankizy madinika ary ny vahiny izay nifampiresaka taminy."
-    }
-  ]
+  "verses": {
+    "1": "Dia hoy Jehovah tamin' i Josoa: Aza matahotra na mivadi-po ianao, ento miaraka aminao ny vahoaka mpanafika rehetra, ka miaingà, iakaro i Ay; indro, efa natolotro eo an-tananao ny mpanjakan' i Ay mbamin' ny vahoakany sy ny tanànany ary ny taniny.",
+    "2": "Dia tahaka ny nataonao tamin' i Jeriko sy ny mpanjakany no hataonao koa amin' i Ay sy ny mpanjakany; nefa ny zavatra babo rehetra sy ny biby fiompy dia alainareo ho babo ho anareo ihany; asio otrika eo ankoatra ny tanàna.",
+    "3": "Dia niainga i Josoa sy ny mpanafika rehetra hiakatra an' i Ay, ary nifidy lehilahy mahery sy be herim-po telo alina Josoa ka nandefa ireo tamin' ny alina.",
+    "4": "Dia nandidy azy ireo izy ka nanao hoe: Indro, ianareo hanotrika eo ivohon' ny tanàna hamely azy, ka aza manalavitra azy loatra, fa miomàna ianareo rehetra.",
+    "5": "Ary izaho sy ny vahoaka rehetra izay miaraka amiko kosa dia hanatona ny tanàna; ary izao no hiseho, rehefa mivoaka hamely anay tahaka ny tamin' ny voalohany ny olona, dia handositra eo anoloany izahay,",
+    "6": "(Fa hivoaka hanenjika anay izy) mandra-pitarikay azy hiala avy ao an-tanàna; fa izy hanao hoe: mandositra eo anoloantsika tahaka ny teo aloha izy ireo, dia hanao tari-dositra eo anoloany izahay.",
+    "7": "Ary dia hiroatra avy ao amin' ny fanotrehana kosa ianareo, ka ho azonareo ny tanàna; fa hatolotr' i Jehovah Andriamanitrareo eo an-tananareo izy.",
+    "8": "Ary izao no hisy, rehefa afaka ny tanàna, dia doroy amin' ny afo; araka ny didin' i Jehovah no hataonareo; indro, efa nandidy anareo aho.",
+    "9": "Dia nampandehanin' i Josoa izy ireo, ary nandeha hanotrika ka nitoetra teo andrefan' i Ay, teo anelanelan' i Betela sy Ay; fa Josoa kosa nitoetra teo amin' ny vahoaka ihany tamin' izany alina izany.",
+    "10": "Dia nifoha maraina koa i Josoa ka nanisa ny vahoaka, dia niakatra teo alohan' ny vahoaka hankany Ay izy sy ny loholon' ny Isiraely.",
+    "11": "Ary ny vahoaka rehetra mpanafika, izay niaraka tamin' i Josoa, dia niakatra ka nanakaiky sy nanandrify ny tanàna; ary nitoby teo avaratr' i Ay izy ireo, ka ny lohasaha no teo anelanelan' izy ireo sy Ay.",
+    "12": "Dia naka olona tokony ho dimy arivo lahy izy ka nampanotrika azy teo anelanelan' i Betela sy Ay, andrefan' ny tanàna.",
+    "13": "Ary rehefa voalahatry ny vahoaka ny toby rehetra izay teo avaratry ny tanàna sy ny otrika teo andrefan' ny tanàna, dia nandeha nankeo amin' ny lohasaha i Josoa tamin' izany alina izany.",
+    "14": "Ary izao no niseho, rehefa hitan' ny mpanjakan' i Ay izany, dia niolomay sy nifoha maraina koa ireo sy ny olona tao an-tanàna ka nivoaka faingana hiady tamin' ny Isiraely, tamin' ny fotoana nifamotoanany tandrifin' ny tany lemaka, dia ny mpanjaka sy ny vahoakany; fa tsy fantany ho nisy otrika hamely azy tao ankoatra ny tanàna.",
+    "15": "Ary Josoa sy ny Isiraely rehetra nody resy teo anoloany ka nanao tari-dositra tamin' ny lalana mankany an' efitra.",
+    "16": "Dia nifampiantso hanenjika azy ny vahoaka rehetra izay tao Ay, ary nanenjika an' i Josoa izy, ka dia voatarika ho tafavoaka ny tanàna.",
+    "17": "Ary tsy nisy lehilahy sisa na tao Ay, na tao Betela, izay tsy nivoaka nanenjika ny Isiraely; ary nilaozany mbola nivoha ny vavahady, ka lasa nanenjika ny Isiraely izy ireo.",
+    "18": "Ary hoy Jehovah tamin' i Josoa: Atondroy an' i Ay ny lefona izay eny an-tananao; fa hatolotro eo an-tananao izany. Dia natondron' i Josoa ny tanàna ny lefona izay teny an-tanany.",
+    "19": "Dia niroatra faingana ny otrika avy tao amin' ny nitoerany ka nihazakazaka, raha vao natondrony ny tanany; dia niditra tao an-tanàna izy ireo ka nahafaka azy ary nandoro azy faingana tamin' ny afo.",
+    "20": "Ary raha niherika teo ivohony ny lehilahy tao Ay, dia hitany fa, indro, ny setroky ny tanàna niakatra ho any an-danitra, sady tsy nanan-kery handosirana izy ireo, na ho aty, na ho ery; fa ny Isiraely izay nanao tari-dositra tany an' efitra dia nifotitra hamely ny mpanenjika kosa.",
+    "21": "Fa rehefa hitan' i Josoa sy ny Isiraely fa efa azon' ny otrika ny tanàna, ka niakatra ny setroky ny tanàna, dia nifotitra izy ka namely ny mponina tao Ay.",
+    "22": "Ary nivoaka hamely azy ireo avy tao an-tanàna, ka dia latsaka teo afovoan' ny Isiraely ny olona, fa ny Isiraely sasany teo an-daniny iray, ary ny sasany teo an-daniny iray koa; dia nifandafaran' ny Isiraely teo izy ireo, ka tsy nasiany niangana na afa-nandositra, na dia iray akory aza.",
+    "23": "Ary ny mpanjakan' i Ay nataony sambo-belona ka nentiny teo amin' i Josoa.",
+    "24": "Ary izao no niseho, rehefa namono ny mponina rehetra tao Ay tany an-tsaha ny Isiraely, dia tany amin' ny efitra nanenjehany azy, ka lavo tamin' ny lelan-tsabatra avokoa izy rehetra mandra-pahalany ritrany, dia niverina tany Ay ny Isiraely rehetra ka namely azy tamin' ny lelan-tsabatra.",
+    "25": "Ary izao no zava-nisy, izay rehetra maty tamin' izany andro izany, na lehilahy na vehivavy, dia roa arivo amby iray alina, dia ny mponina rehetra tao Ay.",
+    "26": "Fa Josoa tsy nampihemotra ny tanany izay nanondro tamin' ny lefona mandra-pandringana tanteraka ny mponina rehetra tao Ay.",
+    "27": "Nefa ny biby fiompy mbamin' ny zavatra rehetra azo babo tao amin' izany tanàna izany dia nalain' ny Isiraely ho babony ihany araka ny tenin' i Jehovah izay nandidiany an' i Josoa.",
+    "28": "Ary Ay dia nodoran' i Josoa ka nataony ho tanàna aolo mandrakizay sy lao mandraka androany.",
+    "29": "Ary ny mpanjakan' i Ay nahantony tamin' ny hazo mandra-paharivan' ny andro; ary raha vao maty ny masoandro, dia nandidy i Josoa ny hanesorana ny fatiny tamin' ny hazo ka nariany teo anoloan' ny vavahadin' ny tanàna ary teo no nananganany antontam-bato avo izay ao mandraka androany.",
+    "30": "Ary tamin' izany Josoa dia nanorina alitara tao an-tendrombohitra Ebala ho an' i Jehovah, Andriamanitry ny Isiraely,",
+    "31": "Araka izay nandidian' i Mosesy, mpanompon' i Jehovah, ny Zanak' Isiraely, dia araka ny voasoratra eo amin' ny bokin' ny lalàn' i Mosesy, dia alitara vato tsy voavoatra, izay tsy nopehim-by; ary dia nanolotra fanatitra dorana teo amboniny ho an' i Jehovah izy sady nanao fanatitra ho fanati-pihavanana.",
+    "32": "Dia nosoratany teo amin' ny vato ny dikan' ny lalàn' i Mosesy, izay efa nosoratany teo anatrehan' ny Zanak' Isiraely.",
+    "33": "Ary ny Isiraely rehetra sy ny loholony sy ny mpifehy azy ary ny mpitsara azy dia nitsangana teo an-daniny roa tamin' ny fiara, teo anatrehan' ny Levita mpisorona, izay nitondra ny fiaran' ny faneken' i Jehovah, na vahiny na izay tera-tany teo aminy; ny antsasany nanandrify ny tendrombohitra Gerizima, ary ny an-tsasany nanandrify ny tendrombohitra Ebala, araka izay efa nandidian' i Mosesy, mpanompon' i Jehovah fahiny, mba hitsofany rano ny olon' ny Isiraely.",
+    "34": "Ary rehefa afaka izany, dia namaky ny tenin' ny lalàna rehetra izy, dia ny fitahiana sy ny fanozonana, araka izay rehetra voasoratra eo amin' ny bokin' ny lalàna.",
+    "35": "Tsy nisy teny tamin' izay rehetra nandidian' i Mosesy, izay tsy novakin' i Josoa teo anatrehan' ny fiangonan' ny Isiraely rehetra, mbamin' ny vehivavy sy ny ankizy madinika ary ny vahiny izay nifampiresaka taminy."
+  }
 }

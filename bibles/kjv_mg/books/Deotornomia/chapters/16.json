@@ -1,93 +1,28 @@
 {
+  "book": "Deotornomia",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tandremo ny volana Abiba, ka tandremo ny Paskan' i Jehovah Andriamanitrao, fa tamin' ny volana Abiba no nitondran' i Jehovah Andriamanitrao anao nivoaka avy tany Egypta tamin' ny alina."
-    },
-    {
-      "v": 2,
-      "text": "Ary vonoy ny Paskan' i Jehovah Andriamanitrao, dia avy amin' ny ondry aman' osy sy ombinao, eo amin' ny toerana izay hofidin' i Jehovah hampitoerana ny Anarany."
-    },
-    {
-      "v": 3,
-      "text": "\"Aza ny mofo misy lalivay no haninao aminy; hafitoana no hihinananao mofo tsy misy lalivay dia mofom-pahoriana, fa tamin' ny fahamaikana no nivoahanao avy tany amin' ny tany Egypta mba ho-tsarovanao amin' ny andro rehetra iainanao ny andro izay nivoahanao avy tany amin' ny tany Egypta.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary aoka tsy hisy mofo misy lalivay ho hita eo aminao eo anatin' ny faritaninao rehetra hafitoana; ary aoka tsy hisy hitoetra miloaka alina ny henan' ny fanatitra izay novonoinao tamin' ny harivan' ny andro voalohany.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Tsy hisy azonao hamonoana ny Paska ny ao am-bavahadinao izay omen' i Jehovah Andriamanitrao anao;\""
-    },
-    {
-      "v": 6,
-      "text": "Fa eo amin' ny toerana izay hofidin' i Jehovah Andriamanitrao hampitoerany ny anarany no hamonoanao azy rehefa hariva tokony ho maty masoandro, dia tahaka ilay nivoahanao tany Egypta."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary atsatsiho amin' ny afo izy, ka hano eo amin' ny toerana izay hofidin' i Jehovah Andriamanitrao; ary miverena nony maraina ka modia any amin' ny lainao.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Henemana no hihinananao mofo tsy misy lalivay; fa ny andro fahafito dia fivoriana masina ho an' i Jehovah Andriamanitrao, ka tsy hanao raharaha ianao amin' izany.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Herinandro fito no hisainao ho anao; hatramin' ny fiandohan' ny fotoana fijinjana varimbazaha no hanombohanao manisa ny herinandro fito.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary mitandrema ny andro firavoravoana momba ny herinandro ho an' i Jehovah Andriamanitrao amin' ny fanaterana fanati-tsitrapo avy amin' ny tananao ho an' i Jehovah Andriamanitrao, araka izay nitahian' i Jehovah Andriamanitrao anao;\""
-    },
-    {
-      "v": 11,
-      "text": "Ary mifalia eo anatrehan' i Jehovah Andriamanitrao ianao, dia ianao sy ny zanakao lahy sy ny zanakao vavy, ary ny mpanomponao lahy sy ny mpanomponao vavy, ary ny Levita izay eo am-bavahadinao mbamin' ny vahiny sy ny kamboty ary ny mpitondratena izay eo aminao, dia eo amin' ny toerana izay hofidin' i Jehovah Andriamanitrao hampitoerana ny anarany."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary tsarovy fa andevo tany amin' ny tany Egypta ianao; koa tandremo sy araho ireo didy ireo.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Tandremo hafitoana ny andro firavoravoana momba ny tabernakely, rehefa avy nangoninao ny avy amin' ny varimbazahanao sy ny diloilonao;\""
-    },
-    {
-      "v": 14,
-      "text": "Ary mifalia amin' ny andro firavoravoanao ianao, dia ianao sy ny zanakao lahy sy ny zanakao vavy sy ny mpanomponao lahy sy ny mpanomponao vavy ary ny Levita mbamin' ny vahiny sy ny kamboty ary ny mpitondratena izay ao am-bavahadinao."
-    },
-    {
-      "v": 15,
-      "text": "Hafitoana no hitandremanao andro firavoravoana lehibe ho an' i Jehovah Andriamanitrao eo amin' ny toerana izay hofidin' i Jehovah, satria hitahy anao Jehovah Andriamanitrao amin' ny vokatrao rehetra sy ny asan' ny tananao rehetra, ka dia hifaly tokoa ianao."
-    },
-    {
-      "v": 16,
-      "text": "Intelo isan-taona ny lehilahy rehetra aminao no hiseho eo anatrehan' i Jehovah Andriamanitrao eo amin' ny tany izay hofidiny, dia amin' ny andro firavoravoana fihinanana mofo tsy misy lalivay sy ny andro firavoravoana momba ny herinandro, ary ny andro firavoravoana momba ny tabernakely. Ary aoka tsy hiseho eo anatrehan' i Jehovah tsy mitondra na inona na inona ireo."
-    },
-    {
-      "v": 17,
-      "text": "Fa aoka samy hanome izay zakany avy, araka ny fitahian' i Jehovah Andriamanitrao, izay nomeny anao."
-    },
-    {
-      "v": 18,
-      "text": "Mifidiana mpitsara sy mpifehy ho anao ao am-bavahadinao rehetra izay omen' i Jehovah Andriamanitrao anao, manerana ny fokonao rehetra, dia hitsara ny olona amin' ny fitsarana marina ireo."
-    },
-    {
-      "v": 19,
-      "text": "\"Aza manao fitsarana miangatra, aza mizaha tavan' olona, ary aza mandray kolikoly; fa ny kolikoly mahajamba ny mason' ny hendry ary mamadika ny tenin' ny marina.\""
-    },
-    {
-      "v": 20,
-      "text": "Ny marina dia ny marina no harahinao, mba ho velona ianao ka handova ny tany izay omen' i Jehovah Andriamanitrao anao."
-    },
-    {
-      "v": 21,
-      "text": "Aza manangana hazo ho Aseraha ho anao eo anilan' ny alitaran' i Jehovah Andriamanitrao, izay hataonao ho anao."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary aza manao tsangambaton-tsampy ho anao; fa halan' i Jehovah Andriamanitrao ny manao izany.\""
-    }
-  ]
+  "verses": {
+    "1": "Tandremo ny volana Abiba, ka tandremo ny Paskan' i Jehovah Andriamanitrao, fa tamin' ny volana Abiba no nitondran' i Jehovah Andriamanitrao anao nivoaka avy tany Egypta tamin' ny alina.",
+    "2": "Ary vonoy ny Paskan' i Jehovah Andriamanitrao, dia avy amin' ny ondry aman' osy sy ombinao, eo amin' ny toerana izay hofidin' i Jehovah hampitoerana ny Anarany.",
+    "3": "Aza ny mofo misy lalivay no haninao aminy; hafitoana no hihinananao mofo tsy misy lalivay dia mofom-pahoriana, fa tamin' ny fahamaikana no nivoahanao avy tany amin' ny tany Egypta mba ho-tsarovanao amin' ny andro rehetra iainanao ny andro izay nivoahanao avy tany amin' ny tany Egypta.",
+    "4": "Ary aoka tsy hisy mofo misy lalivay ho hita eo aminao eo anatin' ny faritaninao rehetra hafitoana; ary aoka tsy hisy hitoetra miloaka alina ny henan' ny fanatitra izay novonoinao tamin' ny harivan' ny andro voalohany.",
+    "5": "Tsy hisy azonao hamonoana ny Paska ny ao am-bavahadinao izay omen' i Jehovah Andriamanitrao anao;",
+    "6": "Fa eo amin' ny toerana izay hofidin' i Jehovah Andriamanitrao hampitoerany ny anarany no hamonoanao azy rehefa hariva tokony ho maty masoandro, dia tahaka ilay nivoahanao tany Egypta.",
+    "7": "Ary atsatsiho amin' ny afo izy, ka hano eo amin' ny toerana izay hofidin' i Jehovah Andriamanitrao; ary miverena nony maraina ka modia any amin' ny lainao.",
+    "8": "Henemana no hihinananao mofo tsy misy lalivay; fa ny andro fahafito dia fivoriana masina ho an' i Jehovah Andriamanitrao, ka tsy hanao raharaha ianao amin' izany.",
+    "9": "Herinandro fito no hisainao ho anao; hatramin' ny fiandohan' ny fotoana fijinjana varimbazaha no hanombohanao manisa ny herinandro fito.",
+    "10": "Ary mitandrema ny andro firavoravoana momba ny herinandro ho an' i Jehovah Andriamanitrao amin' ny fanaterana fanati-tsitrapo avy amin' ny tananao ho an' i Jehovah Andriamanitrao, araka izay nitahian' i Jehovah Andriamanitrao anao;",
+    "11": "Ary mifalia eo anatrehan' i Jehovah Andriamanitrao ianao, dia ianao sy ny zanakao lahy sy ny zanakao vavy, ary ny mpanomponao lahy sy ny mpanomponao vavy, ary ny Levita izay eo am-bavahadinao mbamin' ny vahiny sy ny kamboty ary ny mpitondratena izay eo aminao, dia eo amin' ny toerana izay hofidin' i Jehovah Andriamanitrao hampitoerana ny anarany.",
+    "12": "Ary tsarovy fa andevo tany amin' ny tany Egypta ianao; koa tandremo sy araho ireo didy ireo.",
+    "13": "Tandremo hafitoana ny andro firavoravoana momba ny tabernakely, rehefa avy nangoninao ny avy amin' ny varimbazahanao sy ny diloilonao;",
+    "14": "Ary mifalia amin' ny andro firavoravoanao ianao, dia ianao sy ny zanakao lahy sy ny zanakao vavy sy ny mpanomponao lahy sy ny mpanomponao vavy ary ny Levita mbamin' ny vahiny sy ny kamboty ary ny mpitondratena izay ao am-bavahadinao.",
+    "15": "Hafitoana no hitandremanao andro firavoravoana lehibe ho an' i Jehovah Andriamanitrao eo amin' ny toerana izay hofidin' i Jehovah, satria hitahy anao Jehovah Andriamanitrao amin' ny vokatrao rehetra sy ny asan' ny tananao rehetra, ka dia hifaly tokoa ianao.",
+    "16": "Intelo isan-taona ny lehilahy rehetra aminao no hiseho eo anatrehan' i Jehovah Andriamanitrao eo amin' ny tany izay hofidiny, dia amin' ny andro firavoravoana fihinanana mofo tsy misy lalivay sy ny andro firavoravoana momba ny herinandro, ary ny andro firavoravoana momba ny tabernakely. Ary aoka tsy hiseho eo anatrehan' i Jehovah tsy mitondra na inona na inona ireo.",
+    "17": "Fa aoka samy hanome izay zakany avy, araka ny fitahian' i Jehovah Andriamanitrao, izay nomeny anao.",
+    "18": "Mifidiana mpitsara sy mpifehy ho anao ao am-bavahadinao rehetra izay omen' i Jehovah Andriamanitrao anao, manerana ny fokonao rehetra, dia hitsara ny olona amin' ny fitsarana marina ireo.",
+    "19": "Aza manao fitsarana miangatra, aza mizaha tavan' olona, ary aza mandray kolikoly; fa ny kolikoly mahajamba ny mason' ny hendry ary mamadika ny tenin' ny marina.",
+    "20": "Ny marina dia ny marina no harahinao, mba ho velona ianao ka handova ny tany izay omen' i Jehovah Andriamanitrao anao.",
+    "21": "Aza manangana hazo ho Aseraha ho anao eo anilan' ny alitaran' i Jehovah Andriamanitrao, izay hataonao ho anao.",
+    "22": "Ary aza manao tsangambaton-tsampy ho anao; fa halan' i Jehovah Andriamanitrao ny manao izany."
+  }
 }

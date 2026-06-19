@@ -1,29 +1,12 @@
 {
+  "book": "Isaia",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary amin' izany andro izany dia hisy vehivavy fito hihazona lehilahy iray ka hanao hoe: Ny haninay ihany no hohaninay, ary ny lambanay ihany no hotafianay; fa izao ihany no angatahinay: Aoka hotononina amin' ny anaranao izahay, ka afaho tondromaso.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Amin' izany andro izany ny rantsan' i Jehovah dia ho tsara tarehy sy be voninahitra, ary ny vokatry ny tany dia ho soa indrindra sy kanto ho an' ireo izay afaka amin' ny Isiraely;\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary izao no hiseho, izay sisa any Ziona sy izay mbola mitoetra any Jerosalema dia hatao hoe: masina, dia izay rehetra voasoratra ho isan' ny velona any Jerosalema;\""
-    },
-    {
-      "v": 4,
-      "text": "Rehefa ho voasasan' ny Tompo ho afaka amin' ny fahalotoany ireo zanakavavin' i Ziona, ary rehefa ho voadion' ny fanahy fitsarana sy ny fanahy fandoroana Jerosalema ho afaka amin' ny ràn' olona nalatsany."
-    },
-    {
-      "v": 5,
-      "text": "Ary Jehovah dia hamorona rahona sy setroka raha antoandro ary fahazavan' ny afo midedadeda nony alina ho eny ambonin' ny fitoerana rehetra any an-tendrombohitra Ziona sy ho eny ambonin' ny fivoriana rehetra, ary eny ambonin' ny voninahitra rehetra dia hisy fiarovana,"
-    },
-    {
-      "v": 6,
-      "text": "Ka hisy tranolay ho fialokalofana amin' ny hainandro raha antoandro ary ho fialofana amin' ny tafiodrivotra sy ny ranonorana."
-    }
-  ]
+  "verses": {
+    "1": "Ary amin' izany andro izany dia hisy vehivavy fito hihazona lehilahy iray ka hanao hoe: Ny haninay ihany no hohaninay, ary ny lambanay ihany no hotafianay; fa izao ihany no angatahinay: Aoka hotononina amin' ny anaranao izahay, ka afaho tondromaso.",
+    "2": "Amin' izany andro izany ny rantsan' i Jehovah dia ho tsara tarehy sy be voninahitra, ary ny vokatry ny tany dia ho soa indrindra sy kanto ho an' ireo izay afaka amin' ny Isiraely;",
+    "3": "Ary izao no hiseho, izay sisa any Ziona sy izay mbola mitoetra any Jerosalema dia hatao hoe: masina, dia izay rehetra voasoratra ho isan' ny velona any Jerosalema;",
+    "4": "Rehefa ho voasasan' ny Tompo ho afaka amin' ny fahalotoany ireo zanakavavin' i Ziona, ary rehefa ho voadion' ny fanahy fitsarana sy ny fanahy fandoroana Jerosalema ho afaka amin' ny ràn' olona nalatsany.",
+    "5": "Ary Jehovah dia hamorona rahona sy setroka raha antoandro ary fahazavan' ny afo midedadeda nony alina ho eny ambonin' ny fitoerana rehetra any an-tendrombohitra Ziona sy ho eny ambonin' ny fivoriana rehetra, ary eny ambonin' ny voninahitra rehetra dia hisy fiarovana,",
+    "6": "Ka hisy tranolay ho fialokalofana amin' ny hainandro raha antoandro ary ho fialofana amin' ny tafiodrivotra sy ny ranonorana."
+  }
 }

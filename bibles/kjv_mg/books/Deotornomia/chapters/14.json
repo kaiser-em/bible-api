@@ -1,121 +1,35 @@
 {
+  "book": "Deotornomia",
   "chapter": 14,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Zanak' i Jehovah Andriamanitrareo ianareo; koa aza mitetika ny tenanareo, na manaratra ny elanelan' ny masonareo noho ny maty.\""
-    },
-    {
-      "v": 2,
-      "text": "Fa firenena masina ho an' i Jehovah Andriamanitrao ianao, ary nifidy anao Jehovah ho firenena manokana ho azy mihoatra noho ny firenena rehetra ambonin' ny tany."
-    },
-    {
-      "v": 3,
-      "text": "Aza mihinana izay zava-betaveta."
-    },
-    {
-      "v": 4,
-      "text": "Izao no biby izay ho fihinanareo: ny omby sy ny ondry sy ny osy,"
-    },
-    {
-      "v": 5,
-      "text": "Ny diera sy ny gazela, ny ombimanga, ny osy dia, ny pygarga, ny antilopa ary ny ropikapra:"
-    },
-    {
-      "v": 6,
-      "text": "Izay biby rehetra mivaky kitro, ka misaraka tsara ny kitrony sady mandinika, no ho fihinanareo."
-    },
-    {
-      "v": 7,
-      "text": "\"Nefa amin' izay mandinika, na mivaky kitro dia izao ihany kosa no tsy ho fihinanareo: ny rameva sy ny rabitro ary ny hyraka, satria mandinika ihany izy, fa tsy mivaky kitro; maloto aminareo izy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary ny kisoa koa, satria mivaky kitro izy, fa tsy mandinika, maloto aminareo izy; ny henan' ireny tsy ho fihinanareo, ary ny fatiny tsy hokasihinareo.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Amin' izay rehetra ao anatin' ny rano dia izao no ho fihinanareo: izay rehetra misy vombony sy kirany no ho fihinanareo;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Fa izay rehetra tsy misy vombony sy kirany kosa dia tsy ho fihinanareo; maloto aminareo izy.\""
-    },
-    {
-      "v": 11,
-      "text": "Ny vorona madio rehetra no ho fihinanareo."
-    },
-    {
-      "v": 12,
-      "text": "Nefa ireto kosa no tsy ho fihinanareo: ny voromahery, ny osifiragy sy ny osipray,"
-    },
-    {
-      "v": 13,
-      "text": "Ary ny papango sy ny papango mainty sy ny voltora isan-karazany,"
-    },
-    {
-      "v": 14,
-      "text": "Ary ny goaika rehetra samy araka ny karazany avy,"
-    },
-    {
-      "v": 15,
-      "text": "Ary ny vorondolo, ny tararaka, ny vorondriaka sy ny voromahery araka ny karazany avy,"
-    },
-    {
-      "v": 16,
-      "text": "Ny vorondolo madinika sy ny vorondolo vaventy ary ny vano,"
-    },
-    {
-      "v": 17,
-      "text": "Ary ny pelikana, sy ny sama ary ny manarana,"
-    },
-    {
-      "v": 18,
-      "text": "Ary ny vano sy ny vanobe samy araka ny karazany avy, ny takidara sy ny manavy."
-    },
-    {
-      "v": 19,
-      "text": "Ary ny zava-mandady rehetra izay manidina dia haloto aminareo ka tsy ho fihinanareo."
-    },
-    {
-      "v": 20,
-      "text": "Fa ny vorona madio rehetra dia ho fihinanareo."
-    },
-    {
-      "v": 21,
-      "text": "\"Aza homana izay maty ho azy, fa omeo ho an' ny vahiny izay ao am-bavahadinao izany mba hohaniny, na amidio amin' ny olona hafa firenena izany; fa firenena masina ho an' i Jehovah Andriamanitrao ianao; aza mahandro zanak' osy amin' ny rononon-dreniny.\""
-    },
-    {
-      "v": 22,
-      "text": "Aloavy tsara ny ampahafolon' ny voanareo izay vokatry ny saha isan-taona."
-    },
-    {
-      "v": 23,
-      "text": "Dia aoka ho eo anatrehan' i Jehovah Andriamanitrao eo amin' ny fitoerana izay hofidiny hampitoerana ny anarany no hihinananao ny ampahafolon' ny varimbazahanao sy ny ranomboalobokao sy ny diloilonao ary ny voalohan-teraky ny ombinao sy ny ondry aman' osinao, mba hianaranao hatahotra an' i Jehovah Andriamanitrao mandrakizay."
-    },
-    {
-      "v": 24,
-      "text": "Fa raha lavitra loatra aminao ny lalana ka tsy mahatondra izany zavatra izany ianao, na raha lavitra loatra aminao ny toerana izay hofidin' i Jehovah Andriamanitrao hampitoerana ny anarany rehefa notahin' i Jehovah Andriamanitrao ianao,"
-    },
-    {
-      "v": 25,
-      "text": "\"Dia havadikao ho vola izany, ary hofonosinao ny vola ka hoentinao eo an-tananao hankany amin' ny toerana izay hofidin' i Jehovah Andriamanitrao;\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ary ny vola dia ividiano izay rehetra tian' ny fanahinao, na omby, na ondry, na divay, na toaka, na izay rehetra tian' ny fanahinao; ary eo anatrehan' i Jehovah Andriamanitrao no hihinananao izany sy hifalianao mbamin' ny ankohonanao,\""
-    },
-    {
-      "v": 27,
-      "text": "\"Ary ny Levita izay ao am-bavahadinao dia aza afoinao; fa tsy manana anjara na lova eo aminao izy.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Amin' ny faran' ny isan-telo taona, dia alao ny ampahafolon' ny vokatrao rehetra amin' izany taona izany ka ataovy ao am-bavahadinao;\""
-    },
-    {
-      "v": 29,
-      "text": "Ary ho avy ny Levita (satria tsy mba manana anjara, na lova eo aminao izy) sy ny vahiny sy ny kamboty ary ny mpitondratena izay eo am-bavahadinao, dia hihinana izy ka ho voky, mba hotahian' i Jehovah Andriamanitrao ianao amin' ny asan' ny tananao rehetra izay ataonao."
-    }
-  ]
+  "verses": {
+    "1": "Zanak' i Jehovah Andriamanitrareo ianareo; koa aza mitetika ny tenanareo, na manaratra ny elanelan' ny masonareo noho ny maty.",
+    "2": "Fa firenena masina ho an' i Jehovah Andriamanitrao ianao, ary nifidy anao Jehovah ho firenena manokana ho azy mihoatra noho ny firenena rehetra ambonin' ny tany.",
+    "3": "Aza mihinana izay zava-betaveta.",
+    "4": "Izao no biby izay ho fihinanareo: ny omby sy ny ondry sy ny osy,",
+    "5": "Ny diera sy ny gazela, ny ombimanga, ny osy dia, ny pygarga, ny antilopa ary ny ropikapra:",
+    "6": "Izay biby rehetra mivaky kitro, ka misaraka tsara ny kitrony sady mandinika, no ho fihinanareo.",
+    "7": "Nefa amin' izay mandinika, na mivaky kitro dia izao ihany kosa no tsy ho fihinanareo: ny rameva sy ny rabitro ary ny hyraka, satria mandinika ihany izy, fa tsy mivaky kitro; maloto aminareo izy.",
+    "8": "Ary ny kisoa koa, satria mivaky kitro izy, fa tsy mandinika, maloto aminareo izy; ny henan' ireny tsy ho fihinanareo, ary ny fatiny tsy hokasihinareo.",
+    "9": "Amin' izay rehetra ao anatin' ny rano dia izao no ho fihinanareo: izay rehetra misy vombony sy kirany no ho fihinanareo;",
+    "10": "Fa izay rehetra tsy misy vombony sy kirany kosa dia tsy ho fihinanareo; maloto aminareo izy.",
+    "11": "Ny vorona madio rehetra no ho fihinanareo.",
+    "12": "Nefa ireto kosa no tsy ho fihinanareo: ny voromahery, ny osifiragy sy ny osipray,",
+    "13": "Ary ny papango sy ny papango mainty sy ny voltora isan-karazany,",
+    "14": "Ary ny goaika rehetra samy araka ny karazany avy,",
+    "15": "Ary ny vorondolo, ny tararaka, ny vorondriaka sy ny voromahery araka ny karazany avy,",
+    "16": "Ny vorondolo madinika sy ny vorondolo vaventy ary ny vano,",
+    "17": "Ary ny pelikana, sy ny sama ary ny manarana,",
+    "18": "Ary ny vano sy ny vanobe samy araka ny karazany avy, ny takidara sy ny manavy.",
+    "19": "Ary ny zava-mandady rehetra izay manidina dia haloto aminareo ka tsy ho fihinanareo.",
+    "20": "Fa ny vorona madio rehetra dia ho fihinanareo.",
+    "21": "Aza homana izay maty ho azy, fa omeo ho an' ny vahiny izay ao am-bavahadinao izany mba hohaniny, na amidio amin' ny olona hafa firenena izany; fa firenena masina ho an' i Jehovah Andriamanitrao ianao; aza mahandro zanak' osy amin' ny rononon-dreniny.",
+    "22": "Aloavy tsara ny ampahafolon' ny voanareo izay vokatry ny saha isan-taona.",
+    "23": "Dia aoka ho eo anatrehan' i Jehovah Andriamanitrao eo amin' ny fitoerana izay hofidiny hampitoerana ny anarany no hihinananao ny ampahafolon' ny varimbazahanao sy ny ranomboalobokao sy ny diloilonao ary ny voalohan-teraky ny ombinao sy ny ondry aman' osinao, mba hianaranao hatahotra an' i Jehovah Andriamanitrao mandrakizay.",
+    "24": "Fa raha lavitra loatra aminao ny lalana ka tsy mahatondra izany zavatra izany ianao, na raha lavitra loatra aminao ny toerana izay hofidin' i Jehovah Andriamanitrao hampitoerana ny anarany rehefa notahin' i Jehovah Andriamanitrao ianao,",
+    "25": "Dia havadikao ho vola izany, ary hofonosinao ny vola ka hoentinao eo an-tananao hankany amin' ny toerana izay hofidin' i Jehovah Andriamanitrao;",
+    "26": "Ary ny vola dia ividiano izay rehetra tian' ny fanahinao, na omby, na ondry, na divay, na toaka, na izay rehetra tian' ny fanahinao; ary eo anatrehan' i Jehovah Andriamanitrao no hihinananao izany sy hifalianao mbamin' ny ankohonanao,",
+    "27": "Ary ny Levita izay ao am-bavahadinao dia aza afoinao; fa tsy manana anjara na lova eo aminao izy.",
+    "28": "Amin' ny faran' ny isan-telo taona, dia alao ny ampahafolon' ny vokatrao rehetra amin' izany taona izany ka ataovy ao am-bavahadinao;",
+    "29": "Ary ho avy ny Levita (satria tsy mba manana anjara, na lova eo aminao izy) sy ny vahiny sy ny kamboty ary ny mpitondratena izay eo am-bavahadinao, dia hihinana izy ka ho voky, mba hotahian' i Jehovah Andriamanitrao ianao amin' ny asan' ny tananao rehetra izay ataonao."
+  }
 }

@@ -1,61 +1,20 @@
 {
+  "book": "Ezekiela",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary tonga tamiko ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Ry zanak'olona, manandrifia ny tendrombohitry ny Isiraely ary maminania ny hamelezana azy,"
-    },
-    {
-      "v": 3,
-      "text": "\"Ka ataovy hoe: Ry tendrombohitry ny Isiraely ô, mihainoa ny tenin' i Jehovah Andriamanitra: Izao no lazain' i Jehovah Andriamanitra amin' ny tendrombohitra sy ny havoana, sy ny ony sy ny lohasaha; Indro, Izaho, eny Izaho no hahatonga sabatra hamely anareo ary horavako ny fitoerana avonareo.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary hokoroina ny alitaranareo, ary hopotehina ny sarin-javatrareo; ary hataoko mitsitra eo anoloan' ny sampinareo ny fatinareo;\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary ny fatin' ny Zanak' Isiraely hataoko eo anoloan' ny sampiny; ary ny taolanareo dia haeliko eny manodidina ny alitaranareo eny.\""
-    },
-    {
-      "v": 6,
-      "text": "Amin' ny fonenanareo rehetra dia ho lao ny tanàna, ary ho rava ny fitoerana avo, mba ho rava sy lao ny alitaranareo, ka hotapatapahina sy hofoanana ny sampinareo ary hokapaina ny sarin-javatrareo ka dia holevonina ny asanareo."
-    },
-    {
-      "v": 7,
-      "text": "Ary ny faty hiampatrampatra eo aminareo ka dia ho fantatrareo fa Izaho no Jehovah."
-    },
-    {
-      "v": 8,
-      "text": "Nefa hamelako hisy sisa ihany ianareo, fa hisy sasany ho afaka amin' ny sabatra any amin' ny firenena, rehefa voaely ho any amin' ny tany samy hafa ianareo."
-    },
-    {
-      "v": 9,
-      "text": "Ary izay afaka aminareo dia hahatsiaro Ahy any amin' ny firenena izay hitondrana azy ho babo, satria torotoro Aho noho ny fony mijangajanga izay efa niala tamiko sy ny masony izay mijangajanga manaraka ny sampiny ary haharikoriko azy ny tenany noho ny ratsy izay efa nataony, dia ny fahavetavetany rehetra."
-    },
-    {
-      "v": 10,
-      "text": "Ka dia ho fantany fa Izaho no Jehovah, ary tsy foana ny nilazako fa hahatonga izany loza izany aminy Aho."
-    },
-    {
-      "v": 11,
-      "text": "Izao no lazain' i Jehovah Tompo: Mameleza amin' ny tananao ianao, ary mitotoa amin' ny tongotrao, ka manaova hoe: Indrisy! ny fahavetavetana ratsy rehetra ataon' ny taranak' Isiraely, fa ho lavon' ny sabatra sy ny mosary ary ny areti-mandringana izy!"
-    },
-    {
-      "v": 12,
-      "text": "\"Ny lavitra ho fatin' ny areti-mandringana, ny akaiky ho lavon' ny sabatra, ary izay sisa sy izay voafahirano dia ho faty mosary; ka dia hotanterahiko aminy ny fahatezerako.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Dia ho fantatrareo fa Izaho no Jehovah, rehefa miampatrampatra eny amin' ny sampiny manodidina ny alitarany ny voavono ao aminy, eny amin' ny havoana andrandraina rehetra, eny an-tampon' ny tendrombohitra rehetra, sy eny ambanin' ny hazo maitso rehetra ary eny ambanin' ny oaka misandrahaka rehetra, dia eny amin' izay efa nanaterany hanitra ankasitrahana tamin' ny sampiny rehetra;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Dia hahinjitro aminy ny tanako ary ny tany any amin' ny fonenany rehetra dia hataoko lao sy foana mihoatra noho ny efitr' i Dibla; ka dia ho fantany fa Izaho no Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary tonga tamiko ny tenin' i Jehovah nanao hoe:",
+    "2": "Ry zanak'olona, manandrifia ny tendrombohitry ny Isiraely ary maminania ny hamelezana azy,",
+    "3": "Ka ataovy hoe: Ry tendrombohitry ny Isiraely ô, mihainoa ny tenin' i Jehovah Andriamanitra: Izao no lazain' i Jehovah Andriamanitra amin' ny tendrombohitra sy ny havoana, sy ny ony sy ny lohasaha; Indro, Izaho, eny Izaho no hahatonga sabatra hamely anareo ary horavako ny fitoerana avonareo.",
+    "4": "Ary hokoroina ny alitaranareo, ary hopotehina ny sarin-javatrareo; ary hataoko mitsitra eo anoloan' ny sampinareo ny fatinareo;",
+    "5": "Ary ny fatin' ny Zanak' Isiraely hataoko eo anoloan' ny sampiny; ary ny taolanareo dia haeliko eny manodidina ny alitaranareo eny.",
+    "6": "Amin' ny fonenanareo rehetra dia ho lao ny tanàna, ary ho rava ny fitoerana avo, mba ho rava sy lao ny alitaranareo, ka hotapatapahina sy hofoanana ny sampinareo ary hokapaina ny sarin-javatrareo ka dia holevonina ny asanareo.",
+    "7": "Ary ny faty hiampatrampatra eo aminareo ka dia ho fantatrareo fa Izaho no Jehovah.",
+    "8": "Nefa hamelako hisy sisa ihany ianareo, fa hisy sasany ho afaka amin' ny sabatra any amin' ny firenena, rehefa voaely ho any amin' ny tany samy hafa ianareo.",
+    "9": "Ary izay afaka aminareo dia hahatsiaro Ahy any amin' ny firenena izay hitondrana azy ho babo, satria torotoro Aho noho ny fony mijangajanga izay efa niala tamiko sy ny masony izay mijangajanga manaraka ny sampiny ary haharikoriko azy ny tenany noho ny ratsy izay efa nataony, dia ny fahavetavetany rehetra.",
+    "10": "Ka dia ho fantany fa Izaho no Jehovah, ary tsy foana ny nilazako fa hahatonga izany loza izany aminy Aho.",
+    "11": "Izao no lazain' i Jehovah Tompo: Mameleza amin' ny tananao ianao, ary mitotoa amin' ny tongotrao, ka manaova hoe: Indrisy! ny fahavetavetana ratsy rehetra ataon' ny taranak' Isiraely, fa ho lavon' ny sabatra sy ny mosary ary ny areti-mandringana izy!",
+    "12": "Ny lavitra ho fatin' ny areti-mandringana, ny akaiky ho lavon' ny sabatra, ary izay sisa sy izay voafahirano dia ho faty mosary; ka dia hotanterahiko aminy ny fahatezerako.",
+    "13": "Dia ho fantatrareo fa Izaho no Jehovah, rehefa miampatrampatra eny amin' ny sampiny manodidina ny alitarany ny voavono ao aminy, eny amin' ny havoana andrandraina rehetra, eny an-tampon' ny tendrombohitra rehetra, sy eny ambanin' ny hazo maitso rehetra ary eny ambanin' ny oaka misandrahaka rehetra, dia eny amin' izay efa nanaterany hanitra ankasitrahana tamin' ny sampiny rehetra;",
+    "14": "Dia hahinjitro aminy ny tanako ary ny tany any amin' ny fonenany rehetra dia hataoko lao sy foana mihoatra noho ny efitr' i Dibla; ka dia ho fantany fa Izaho no Jehovah."
+  }
 }

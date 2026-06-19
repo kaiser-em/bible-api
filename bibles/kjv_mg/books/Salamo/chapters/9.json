@@ -1,85 +1,26 @@
 {
+  "book": "Salamo",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira. Al-moth-laben. Salamo nataon' i Davida.]  HIDERA Anao amin' ny foko rehetra aho Jehovah ô; hanambara ny fahagaganao rehetra aho.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ho faly sy ho ravoravo aminao aho; hankalaza ny anaranao aho, ry Avo Indrindra ô,\""
-    },
-    {
-      "v": 3,
-      "text": "Rehefa lasa nihodina ny fahavaloko dia ho lavo sy ho ringana eo anatrehanao izy ireo."
-    },
-    {
-      "v": 4,
-      "text": "\"Fa efa nitsara ahy Ianao ka nanome ahy ny rariny; mipetraka eo amin' ny sezafiandrianana Ianao ka mitsara marina.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Efa nanarinao mafy ny jentilisa, efa naringanao ny ratsy fanahy; ny anarany efa nokosehinao ho faty mandrakizay.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ry fahavalo, tanteraka ho mandrakizay ny fandravana; ary ny tanàna efa noravanao, dia very ny fahatsiarovana azy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Kanefa Jehovah haharitra mandrakizay; efa nanomana ny sezafiandrianany hitsarana Izy.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary hitsara izao tontolo izao amin' ny fahamarinana Izy, hitsara ny olona amin' ny fahitsiana Izy."
-    },
-    {
-      "v": 9,
-      "text": "\"Koa Jehovah dia ho fialofana ho an' ny ampahoriana, fialofana amin' ny andro fahoriana;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary hitoky aminao izay mahalala ny anaranao; fa tsy foinao izay mitady Anao Jehovah ô,\""
-    },
-    {
-      "v": 11,
-      "text": "\"Mihirà fiderana ho an' i Jehovah, izay mitoetra any Ziona; ambarao amin' ny olona ny asany.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Rehefa manadin-drà Izy dia mahatsiaro ireo; tsy manadino ny fitarainan' ny manetry tena Izy.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Mamindrà fo amiko, Jehovah ô; mitsinjova ny fahoriako izay iaretako avy amin' ireo mankahala ahy, ry Mpanandratra ahy ho afaka amin' ny vavahadin' ny fahafatesana;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Mba holazaiko avokoa ny fiderana anao rehetra eo am-bavahadin' ny zanakavavin' i Ziona; hifaly amin' ny famonjenao aho.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ny jentilisa efa latsaka tamin' ny lavaka izay nohadiny; ny fandrika harato izay nafeniny efa nahazo ny tongony.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Jehovah dia fantatra amin' ny fitsarana ataony; voafandrika amin' ny asan' ny tanany ihany ny ratsy fanahy.[Higaiona;Sela.]\""
-    },
-    {
-      "v": 17,
-      "text": "Haverina any amin' ny helo ny ratsy fanahy, sy ny firenena rehetra manadino an' Andriamanitra."
-    },
-    {
-      "v": 18,
-      "text": "\"Fa tsy ho mandrakizay no hanadinoana ny olon-tsahirana; ary tsy ho very mandrakizay ny fanantenan' ny mahantra.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Mitsangàna, Jehovah ô, aoka tsy hahery ny olona; aoka hotsaraina eo anatrehanao ny jentilisa.\""
-    },
-    {
-      "v": 20,
-      "text": "Asio fampahatahorana izy, Jehovah ô, mba ho fantatry ny firenena fa olona ihany izy.[Sela.]"
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Al-moth-laben. Salamo nataon' i Davida.]  HIDERA Anao amin' ny foko rehetra aho Jehovah ô; hanambara ny fahagaganao rehetra aho.",
+    "2": "Ho faly sy ho ravoravo aminao aho; hankalaza ny anaranao aho, ry Avo Indrindra ô,",
+    "3": "Rehefa lasa nihodina ny fahavaloko dia ho lavo sy ho ringana eo anatrehanao izy ireo.",
+    "4": "Fa efa nitsara ahy Ianao ka nanome ahy ny rariny; mipetraka eo amin' ny sezafiandrianana Ianao ka mitsara marina.",
+    "5": "Efa nanarinao mafy ny jentilisa, efa naringanao ny ratsy fanahy; ny anarany efa nokosehinao ho faty mandrakizay.",
+    "6": "Ry fahavalo, tanteraka ho mandrakizay ny fandravana; ary ny tanàna efa noravanao, dia very ny fahatsiarovana azy.",
+    "7": "Kanefa Jehovah haharitra mandrakizay; efa nanomana ny sezafiandrianany hitsarana Izy.",
+    "8": "Ary hitsara izao tontolo izao amin' ny fahamarinana Izy, hitsara ny olona amin' ny fahitsiana Izy.",
+    "9": "Koa Jehovah dia ho fialofana ho an' ny ampahoriana, fialofana amin' ny andro fahoriana;",
+    "10": "Ary hitoky aminao izay mahalala ny anaranao; fa tsy foinao izay mitady Anao Jehovah ô,",
+    "11": "Mihirà fiderana ho an' i Jehovah, izay mitoetra any Ziona; ambarao amin' ny olona ny asany.",
+    "12": "Rehefa manadin-drà Izy dia mahatsiaro ireo; tsy manadino ny fitarainan' ny manetry tena Izy.",
+    "13": "Mamindrà fo amiko, Jehovah ô; mitsinjova ny fahoriako izay iaretako avy amin' ireo mankahala ahy, ry Mpanandratra ahy ho afaka amin' ny vavahadin' ny fahafatesana;",
+    "14": "Mba holazaiko avokoa ny fiderana anao rehetra eo am-bavahadin' ny zanakavavin' i Ziona; hifaly amin' ny famonjenao aho.",
+    "15": "Ny jentilisa efa latsaka tamin' ny lavaka izay nohadiny; ny fandrika harato izay nafeniny efa nahazo ny tongony.",
+    "16": "Jehovah dia fantatra amin' ny fitsarana ataony; voafandrika amin' ny asan' ny tanany ihany ny ratsy fanahy.[Higaiona;Sela.]",
+    "17": "Haverina any amin' ny helo ny ratsy fanahy, sy ny firenena rehetra manadino an' Andriamanitra.",
+    "18": "Fa tsy ho mandrakizay no hanadinoana ny olon-tsahirana; ary tsy ho very mandrakizay ny fanantenan' ny mahantra.",
+    "19": "Mitsangàna, Jehovah ô, aoka tsy hahery ny olona; aoka hotsaraina eo anatrehanao ny jentilisa.",
+    "20": "Asio fampahatahorana izy, Jehovah ô, mba ho fantatry ny firenena fa olona ihany izy.[Sela.]"
+  }
 }

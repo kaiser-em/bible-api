@@ -1,93 +1,28 @@
 {
+  "book": "Joba",
   "chapter": 32,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nitsahatra tsy namaly intsony izy telo lahy ireo, satria nanamarin-tena Joba."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary nirehitra kosa ny fahatezeran' i Eliho, zanak' i Barakela, Bozita avy amin' ny fokon' i Rama; tamin' i Joba no nirehetan' ny fahatezerany, satria nanao ny tenany ho marina noho Andriamanitra izy.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary tamin' ny sakaizany telo lahy koa no nirehetan' ny fahatezerany, satria tsy nahita teny havaliny izy ireo, kanefa nanameloka an' i Joba."
-    },
-    {
-      "v": 4,
-      "text": "Ary Eliho dia niandry mandra-pitenin' i Joba, satria ireo dia ela niainana kokoa noho izy."
-    },
-    {
-      "v": 5,
-      "text": "Ary rehefa hitan' i Eliho fa tsy nanan-kavaly izy telo lahy ireo dia nirehitra ny fahatezerany,"
-    },
-    {
-      "v": 6,
-      "text": "Ka dia niteny Eliho, zanak' i Barakela, Bozita ka nanao hoe: Mbola tanora aho fa ianareo no antitra kokoa, ka dia natahotra aho ary tsy sahy nampiseho anareo ny hevitro."
-    },
-    {
-      "v": 7,
-      "text": "Hoy aho: Ny andro no tokony hiteny ary ny hamaroan' ny taona no tokony hampianatra fahendrena."
-    },
-    {
-      "v": 8,
-      "text": "Kanefa misy fanahy ao anatin' ny zanak' olombelona ary ny aingam-panahin' ny Tsitoha no manome azy fahalalana."
-    },
-    {
-      "v": 9,
-      "text": "\"Tsy dia hendry mandrakariva akory ny olo-malaza; na mahalala ny rariny ny be taona.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary noho izany dia hoy aho: Henoy aho, dia hambarako koa ny hevitro."
-    },
-    {
-      "v": 11,
-      "text": "Indro, niandry ny teninareo aho, ary nanongilana ny sofiko tamin' ny hevitrareo mandra-pandinikareo izay holazaina."
-    },
-    {
-      "v": 12,
-      "text": "\"Eny, nihaino dia nihaino anareo aho, ary indro, tsy nisy naharesy lahatra an' i Joba ianareo, na nahavaly ny teniny akory;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Fandrao ianareo hanao hoe: Hitanay ny fahendrena; Andriamanitra no mandavo azy fa tsy olona.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Tsy nandaha-teny hamely ahy anefa izy; ary tsy araka ny teninareo no hamaliako azy.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Very hevitra tery izy ireo, ka tsy namaly intsony; efa nitsaha-niteny izy ireo.\""
-    },
-    {
-      "v": 16,
-      "text": "Rehefa niandry aho (ka tsy niteny izy ireo, fa nangina, sady tsy namaly intsony),"
-    },
-    {
-      "v": 17,
-      "text": "Dia hoy aho: Hamaly kosa amin' ny anjarako aho, haneho ny hevitro koa aho."
-    },
-    {
-      "v": 18,
-      "text": "\"Fa feno teny ny foko; manery ahy ny fanahy ato anatiko.\""
-    },
-    {
-      "v": 19,
-      "text": "Endrey! ny ato anatiko dia efa tahaka ny divay izay tsy misy hiainana, efa ho triatra tahaka ny siny hoditra vaovao izy."
-    },
-    {
-      "v": 20,
-      "text": "\"Hiteny aho mba hisy hiainako tsara; hiloa-bava aho ka hamaly.\""
-    },
-    {
-      "v": 21,
-      "text": "Masìna ianareo, aoka tsy hizaha tavan' olona aho, ary aoka tsy handrobo olona."
-    },
-    {
-      "v": 22,
-      "text": "\"Fa tsy mahay manao teny mandrobo aho; fa raha izany dia alain' ny mpanao ahy faingana aho.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary nitsahatra tsy namaly intsony izy telo lahy ireo, satria nanamarin-tena Joba.",
+    "2": "Ary nirehitra kosa ny fahatezeran' i Eliho, zanak' i Barakela, Bozita avy amin' ny fokon' i Rama; tamin' i Joba no nirehetan' ny fahatezerany, satria nanao ny tenany ho marina noho Andriamanitra izy.",
+    "3": "Ary tamin' ny sakaizany telo lahy koa no nirehetan' ny fahatezerany, satria tsy nahita teny havaliny izy ireo, kanefa nanameloka an' i Joba.",
+    "4": "Ary Eliho dia niandry mandra-pitenin' i Joba, satria ireo dia ela niainana kokoa noho izy.",
+    "5": "Ary rehefa hitan' i Eliho fa tsy nanan-kavaly izy telo lahy ireo dia nirehitra ny fahatezerany,",
+    "6": "Ka dia niteny Eliho, zanak' i Barakela, Bozita ka nanao hoe: Mbola tanora aho fa ianareo no antitra kokoa, ka dia natahotra aho ary tsy sahy nampiseho anareo ny hevitro.",
+    "7": "Hoy aho: Ny andro no tokony hiteny ary ny hamaroan' ny taona no tokony hampianatra fahendrena.",
+    "8": "Kanefa misy fanahy ao anatin' ny zanak' olombelona ary ny aingam-panahin' ny Tsitoha no manome azy fahalalana.",
+    "9": "Tsy dia hendry mandrakariva akory ny olo-malaza; na mahalala ny rariny ny be taona.",
+    "10": "Ary noho izany dia hoy aho: Henoy aho, dia hambarako koa ny hevitro.",
+    "11": "Indro, niandry ny teninareo aho, ary nanongilana ny sofiko tamin' ny hevitrareo mandra-pandinikareo izay holazaina.",
+    "12": "Eny, nihaino dia nihaino anareo aho, ary indro, tsy nisy naharesy lahatra an' i Joba ianareo, na nahavaly ny teniny akory;",
+    "13": "Fandrao ianareo hanao hoe: Hitanay ny fahendrena; Andriamanitra no mandavo azy fa tsy olona.",
+    "14": "Tsy nandaha-teny hamely ahy anefa izy; ary tsy araka ny teninareo no hamaliako azy.",
+    "15": "Very hevitra tery izy ireo, ka tsy namaly intsony; efa nitsaha-niteny izy ireo.",
+    "16": "Rehefa niandry aho (ka tsy niteny izy ireo, fa nangina, sady tsy namaly intsony),",
+    "17": "Dia hoy aho: Hamaly kosa amin' ny anjarako aho, haneho ny hevitro koa aho.",
+    "18": "Fa feno teny ny foko; manery ahy ny fanahy ato anatiko.",
+    "19": "Endrey! ny ato anatiko dia efa tahaka ny divay izay tsy misy hiainana, efa ho triatra tahaka ny siny hoditra vaovao izy.",
+    "20": "Hiteny aho mba hisy hiainako tsara; hiloa-bava aho ka hamaly.",
+    "21": "Masìna ianareo, aoka tsy hizaha tavan' olona aho, ary aoka tsy handrobo olona.",
+    "22": "Fa tsy mahay manao teny mandrobo aho; fa raha izany dia alain' ny mpanao ahy faingana aho."
+  }
 }

@@ -1,85 +1,26 @@
 {
+  "book": "Habakoka",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Hitsangana eo ambonin' ny fitazanako aho ary hijoro eo ambonin' ny manda, hiandry hahitako izay holazainy amiko sy izay havaliko rehefa anarina aho."
-    },
-    {
-      "v": 2,
-      "text": "Dia namaly ahy Jehovah ka nanao hoe: soraty ny fahitana, ka ataovy mazava tsara eo amin' ny latabatra, mba ho afa-mihazakazaka izay mamaky izany."
-    },
-    {
-      "v": 3,
-      "text": "\"Fa ny fahitana dia mbola ho amin' ny fotoan' andro, ary hilaza ny farany izy ka tsy handainga; na dia mitaredretra aza izy, dia andraso ihany, fa ho avy tokoa izy ka tsy hitaredretra.\""
-    },
-    {
-      "v": 4,
-      "text": "Indro, feno avonavona ny fanahiny, fa tsy mahitsy ao anatiny, fa ny marina ho velon' ny finoany."
-    },
-    {
-      "v": 5,
-      "text": "Ary koa satria niodina noho ny divay izy, dia mpiavonavona izy ka tsy mba mahatoetra an-trano, izay mampahalalaka ny faniriany tahaka ny helo sy toy ny fahafatesana tsy mety voky, fa manangona ny firenena rehetra ho ao aminy sy mamory ny olona rehetra ho ao aminy."
-    },
-    {
-      "v": 6,
-      "text": "Tsy hanao oha-teny hamelezana azy va ireto rehetra ireto? Tsy hanao eso-teny sy fitenenana hanoherana azy va izy ka hanao hoe: lozan' izay mahery mampitombo ny tsy azy! Mandrapahoviana? ry ilay mamesa-tena amin' ny tanimanga matevina."
-    },
-    {
-      "v": 7,
-      "text": "Tsy hitsangana tampoka va izay hanaikitra anao, ary tsy hifoha va izay hanaitaitra anao, ka ho babony ianao?"
-    },
-    {
-      "v": 8,
-      "text": "Satria efa namabo firenena maro ianao, ka dia mba hobaboin' ny sisa rehetra amin' ny firenena kosa, noho ny ràn' ny olona sy ny fandozana natao tamin' ny tany, dia tamin' ny tanàna sy ny mponina rehetra ao aminy."
-    },
-    {
-      "v": 9,
-      "text": "Lozan' izay fatra-pila amin' ny fiereman-dratsy ho an' ny taranany, hanaovany ny akaniny any amin' ny avo, mba hahafahany amin' ny herin' ny ratsy!"
-    },
-    {
-      "v": 10,
-      "text": "Efa namoron-tsaina hahatonga henatra ho an' ny taranakao ianao, tamin' ny fandringanana firenena maro ary efa nanota tamin' ny fanahinao ianao."
-    },
-    {
-      "v": 11,
-      "text": "Fa hitaraina ny vato ao amin' ny rindrina, ary ny sakamandimby ao amin' ny trano no hamaly azy."
-    },
-    {
-      "v": 12,
-      "text": "Lozan' izay manao vohitra amin' ny fandatsahan-drà sy manorina tanàna amin' ny heloka!"
-    },
-    {
-      "v": 13,
-      "text": "Indro, tsy avy amin' i Jehovah Tompon' ny maro va no hiasan' ny olona ho an' ny afo, sy hisasaran' ny firenena ho an' ny zava-poana?"
-    },
-    {
-      "v": 14,
-      "text": "Fa ny tany ho feno ny fahalalana ny voninahitr' i Jehovah, toy ny fanaron' ny rano ny fanambanin' ny ranomasina."
-    },
-    {
-      "v": 15,
-      "text": "\"Lozan' izay mampisotro ny namany ka mametraka ny tavoahanginao eo aminy, sady mampahamamo azy koa, mba hijerenao ny fitanjahany;\""
-    },
-    {
-      "v": 16,
-      "text": "\"Efa feno henatra ianao, fa tsy voninahitra; mba sotroy koa, ka mitanjaha; hatolotra anao ny kapoaka eny an-tanana ankavanan' i Jehovah, ary fahamenarana no ho amin' ny voninahitrao.\""
-    },
-    {
-      "v": 17,
-      "text": "Fa hanody anao ny loza natao tamin' i Libanona sy ny fandringanana mahatahotra namelezana ny biby, noho ny ràn' ny olona sy ny loza natao tamin' ny tany, dia tamin' ny tanàna sy ny mponina rehetra ao aminy."
-    },
-    {
-      "v": 18,
-      "text": "Mahasoa inona ny sarin-javatra voasokitra, no misokitra azy ny mpanao azy? Na ny sarin-javatra an' idina sy ny mpampianatra lainga, no matoky azy izay namorona azy tamin' ny nanaovany sampy moana?"
-    },
-    {
-      "v": 19,
-      "text": "Lozan' izay manao amin' ny hazo hoe: mifohaza! Ary amin' ny vato moana hoe: mitsangàna! Hampianatra va ireo? He, voapetaka takela-bolamena sy volafotsy ihany izy, sady tsy misy fofon' aina akory ao anatiny."
-    },
-    {
-      "v": 20,
-      "text": "\"Jehovah dia ao amin' ny tempoliny masina; aoka ny tany rehetra hangina eo anatrehany!\""
-    }
-  ]
+  "verses": {
+    "1": "Hitsangana eo ambonin' ny fitazanako aho ary hijoro eo ambonin' ny manda, hiandry hahitako izay holazainy amiko sy izay havaliko rehefa anarina aho.",
+    "2": "Dia namaly ahy Jehovah ka nanao hoe: soraty ny fahitana, ka ataovy mazava tsara eo amin' ny latabatra, mba ho afa-mihazakazaka izay mamaky izany.",
+    "3": "Fa ny fahitana dia mbola ho amin' ny fotoan' andro, ary hilaza ny farany izy ka tsy handainga; na dia mitaredretra aza izy, dia andraso ihany, fa ho avy tokoa izy ka tsy hitaredretra.",
+    "4": "Indro, feno avonavona ny fanahiny, fa tsy mahitsy ao anatiny, fa ny marina ho velon' ny finoany.",
+    "5": "Ary koa satria niodina noho ny divay izy, dia mpiavonavona izy ka tsy mba mahatoetra an-trano, izay mampahalalaka ny faniriany tahaka ny helo sy toy ny fahafatesana tsy mety voky, fa manangona ny firenena rehetra ho ao aminy sy mamory ny olona rehetra ho ao aminy.",
+    "6": "Tsy hanao oha-teny hamelezana azy va ireto rehetra ireto? Tsy hanao eso-teny sy fitenenana hanoherana azy va izy ka hanao hoe: lozan' izay mahery mampitombo ny tsy azy! Mandrapahoviana? ry ilay mamesa-tena amin' ny tanimanga matevina.",
+    "7": "Tsy hitsangana tampoka va izay hanaikitra anao, ary tsy hifoha va izay hanaitaitra anao, ka ho babony ianao?",
+    "8": "Satria efa namabo firenena maro ianao, ka dia mba hobaboin' ny sisa rehetra amin' ny firenena kosa, noho ny ràn' ny olona sy ny fandozana natao tamin' ny tany, dia tamin' ny tanàna sy ny mponina rehetra ao aminy.",
+    "9": "Lozan' izay fatra-pila amin' ny fiereman-dratsy ho an' ny taranany, hanaovany ny akaniny any amin' ny avo, mba hahafahany amin' ny herin' ny ratsy!",
+    "10": "Efa namoron-tsaina hahatonga henatra ho an' ny taranakao ianao, tamin' ny fandringanana firenena maro ary efa nanota tamin' ny fanahinao ianao.",
+    "11": "Fa hitaraina ny vato ao amin' ny rindrina, ary ny sakamandimby ao amin' ny trano no hamaly azy.",
+    "12": "Lozan' izay manao vohitra amin' ny fandatsahan-drà sy manorina tanàna amin' ny heloka!",
+    "13": "Indro, tsy avy amin' i Jehovah Tompon' ny maro va no hiasan' ny olona ho an' ny afo, sy hisasaran' ny firenena ho an' ny zava-poana?",
+    "14": "Fa ny tany ho feno ny fahalalana ny voninahitr' i Jehovah, toy ny fanaron' ny rano ny fanambanin' ny ranomasina.",
+    "15": "Lozan' izay mampisotro ny namany ka mametraka ny tavoahanginao eo aminy, sady mampahamamo azy koa, mba hijerenao ny fitanjahany;",
+    "16": "Efa feno henatra ianao, fa tsy voninahitra; mba sotroy koa, ka mitanjaha; hatolotra anao ny kapoaka eny an-tanana ankavanan' i Jehovah, ary fahamenarana no ho amin' ny voninahitrao.",
+    "17": "Fa hanody anao ny loza natao tamin' i Libanona sy ny fandringanana mahatahotra namelezana ny biby, noho ny ràn' ny olona sy ny loza natao tamin' ny tany, dia tamin' ny tanàna sy ny mponina rehetra ao aminy.",
+    "18": "Mahasoa inona ny sarin-javatra voasokitra, no misokitra azy ny mpanao azy? Na ny sarin-javatra an' idina sy ny mpampianatra lainga, no matoky azy izay namorona azy tamin' ny nanaovany sampy moana?",
+    "19": "Lozan' izay manao amin' ny hazo hoe: mifohaza! Ary amin' ny vato moana hoe: mitsangàna! Hampianatra va ireo? He, voapetaka takela-bolamena sy volafotsy ihany izy, sady tsy misy fofon' aina akory ao anatiny.",
+    "20": "Jehovah dia ao amin' ny tempoliny masina; aoka ny tany rehetra hangina eo anatrehany!"
+  }
 }

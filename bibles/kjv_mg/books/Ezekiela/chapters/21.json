@@ -1,133 +1,38 @@
 {
+  "book": "Ezekiela",
   "chapter": 21,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia tonga tamiko ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Ry zanak' olona, manandrifia an' i Jerosalema, ary mitenena manandrify ny fitoerana masina, ka maminania ny amin' ny hamelezana ny tanin' ny Isiraely."
-    },
-    {
-      "v": 3,
-      "text": "Ary ataovy amin' ny tanin' ny Isiraely hoe: Izao no lazain' i Jehovah: Indro, Izaho mamely anao, ary hotsoahako amin' ny tranony ny sabatro, ka haringako ny marina sy ny meloka eo aminao."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary noho ny handringanako ny marina sy ny meloka eo aminao dia izany no hitsoahan' ny sabatro amin' ny tranony hamely ny nofo rehetra hatrany atsimo ka hatrany avaratra;\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ka dia ho fantatry ny nofo rehetra fa izaho Jehovah no nanatsoaka ny sabatro tamin' ny tranony; tsy hiditra intsony izy.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary ianao, ry zanak' olona, midridridridria toy ny tapa-balahana, eny, midridridridria amin' ny fangidiana eo imasony."
-    },
-    {
-      "v": 7,
-      "text": "Ary izao no hisy, raha izy manao aminao hoe: Nahoana ianao no midridridridry? Dia valio hoe: Noho ny teny efa re fa ho avy izany. Ho kivy ny fo rehetra, ary hiraviravy ny tanana rehetra, ary hivarahontsana ny fanahy rehetra, sady hanjary ho toy ny rano ny lohalika rehetra, eny, ho avy izany ka ho tanteraka, hoy Jehovah Andriamanitra."
-    },
-    {
-      "v": 8,
-      "text": "Dia tonga tamiko indray ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 9,
-      "text": "Ry zanak' olona, maminania ka ataovy hoe: Izao no lazain' i Jehovah: Injao, sabatra, sabatra voaranitra sady voafotsy koa."
-    },
-    {
-      "v": 10,
-      "text": "\"Voaranitra hahafaty be izy; voafotsy hanelatselatra izy; tokony hifaly va isika amin' izany? Ny tsorakazon' ny zanako no vingavingainy, toy ny hazo rehetra.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary nomena hofotsiana izy mba horaisin-tanana; voaranitra io sabatra io sady voafotsy, mba hatolotra eo an-tanan' ny mpamono.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Mitomania sy midradradradrà ry zanak' olona fa hihatra amin' ny oloko izany, ho amin' ny lehibe rehetra amin' ny Isiraely; tahotra noho ny sabatra no hahazo ny oloko, koa misafoa sirana ianao.\""
-    },
-    {
-      "v": 13,
-      "text": "Fa fizahan-toetra izany, ka manao ahoana, raha ilay tehim-panjakana aza no vingavingain' ny sabatra? Ho tonga tsinontsinona izy, hoy Jehovah Tompo."
-    },
-    {
-      "v": 14,
-      "text": "\"Koa ianao, ry zanak' olona, dia maminania, ka mitehafa tanana ary aoka hamely roa heny ny sabatra amin' ny fahatelony, dia ny sabatry ny voavono; eny ny sabatry ny lehibe izay voavono ka miditra ao amin' ny efitranony manokana.\""
-    },
-    {
-      "v": 15,
-      "text": "Nahebihebiko teny amin' ny vavahadiny rehetra ny lohan-tsabatra, mba hahakivy ny fony sy hampitombo ny faharavany.Indrisy natao manelatselatra izy sady voaranitra hamono."
-    },
-    {
-      "v": 16,
-      "text": "Mandehana amin' ny lalana iray na ny ankilany, na amin' ny ankavanana na amin' ny ankavia, na aiza na aiza tandrifinao."
-    },
-    {
-      "v": 17,
-      "text": "\"Hiteha-tanana koa Aho ary hiala fo; Izaho Jehovah no nilaza izany.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary tonga tamiko indray ny tenin' i Jehovah hoe:"
-    },
-    {
-      "v": 19,
-      "text": "\"Ianao koa ry zanak' olona, manaova lalana roa ho anao hiavian' ny sabatry ny mpanjakan' i Babylona; ary amin' ny tany iray no hiavian' izy roa, ary mifidiana toerana, eo an-doha-lalana mankany amin' ny tanàna no ifidiano izany.\""
-    },
-    {
-      "v": 20,
-      "text": "Manaova lalana hiavian' ny sabatra ho any Raban' ny taranak' i Amona sy ho any Joda ao Jerosalema mimanda."
-    },
-    {
-      "v": 21,
-      "text": "\"Fa ny mpanjakan' i Babylona mijanona eo amin' ny sampanan-dalana, dia eo an-dohan' ny lalana roa mba hanao sikidy; dia mampanjelanjelatra ny zana-tsipìkany izy ary manontany amin' ny terafima sy mizaha amin' ny atin-kena.\""
-    },
-    {
-      "v": 22,
-      "text": "Mby eo an-tanany ankavanana ny sikidy ho an' i Jerosalema, mba hanendry kapiteny, hisoka-bava amin' ny famonoana, hanandram-peo amin' ny akoran' ady, hametraka lohondry vy fandravana eo akaikin' ny vavahady, hanandratra tovon-tany sy hanao fiarovana."
-    },
-    {
-      "v": 23,
-      "text": "Nefa tahaka ny sikidy lainga izany eo imason' ireny, dia ireo izay efa nianiana mafy, nefa Izy no hampahatsiaro ny heloka mba hisamborana azy."
-    },
-    {
-      "v": 24,
-      "text": "Koa izao no lazain' i Jehovah Tompo: Noho ny nampahatsiarovanareo ny helokareo tamin' ny nampiharihariana ny fahadisoanareo mba hampisehoana ny fahotanareo tamin' izay rehetra nataonareo, noho ny nahatsiarovana anareo, hoy aho, dia hosamborin-tanana ianareo."
-    },
-    {
-      "v": 25,
-      "text": "Ary ianao ry ilay ratsy fanahy, hamavoina, dia ny mpanjakan' ny Isiraely, izay tapitr' andro amin' ny fotoana hifaranan' ny heloka,"
-    },
-    {
-      "v": 26,
-      "text": "Izao no lazain' i Jehovah Andriamanitra: Esory ny diadema ary alao ny satroboninahitra, tsy hitovy izany: Hasandrato ny iva, ary haetreo ny avo."
-    },
-    {
-      "v": 27,
-      "text": "Havadiko, havadiko, havadiko izany: fa izany koa aza dia tsy mba haharitra mandra-pahatongan' izay tena tompony tokoa, ka homeko azy izany."
-    },
-    {
-      "v": 28,
-      "text": "\"Ary ianao, ry zanak' olona, dia maminania, ka ataovy hoe: Izao no lazain' i Jehovah Andriamanitra ny amin' ny taranak' i Amona sy ny latsa ataony, dia ataovy hoe: Indro sabatra! Dia sabatra voatsoaka! voafotsy hamono, handringana noho ny fanjelanjelany;\""
-    },
-    {
-      "v": 29,
-      "text": "Raha mahita zava-poana ho anao izy sy maminany lainga aminao, hametrahany anao ao amin' ny vozon' ny ratsy fanahy voavono, izay tapitr' andro amin' ny fotoana izay hifaranan' ny helony."
-    },
-    {
-      "v": 30,
-      "text": "Hampiverenako any amin' ny tranony va izany? Any amin' ny tany namoronana anao, dia any amin' ny tany nahaterahanao no hitsarako anao."
-    },
-    {
-      "v": 31,
-      "text": "Ary haidiko aminao ny fahavinirako, ny afon' ny fahatezerako no hotsofiko aminao, ka hatolotro eo an-tanan' ny olon-dozabe sy kinga handringana ianao."
-    },
-    {
-      "v": 32,
-      "text": "\"Dia ho kitain' ny afo ianao; ho eny amin' ny tany ny ranao; tsy hotsaroana intsony ianao; fa Izaho Jehovah no niteny izany.\""
-    }
-  ]
+  "verses": {
+    "1": "Dia tonga tamiko ny tenin' i Jehovah nanao hoe:",
+    "2": "Ry zanak' olona, manandrifia an' i Jerosalema, ary mitenena manandrify ny fitoerana masina, ka maminania ny amin' ny hamelezana ny tanin' ny Isiraely.",
+    "3": "Ary ataovy amin' ny tanin' ny Isiraely hoe: Izao no lazain' i Jehovah: Indro, Izaho mamely anao, ary hotsoahako amin' ny tranony ny sabatro, ka haringako ny marina sy ny meloka eo aminao.",
+    "4": "Ary noho ny handringanako ny marina sy ny meloka eo aminao dia izany no hitsoahan' ny sabatro amin' ny tranony hamely ny nofo rehetra hatrany atsimo ka hatrany avaratra;",
+    "5": "Ka dia ho fantatry ny nofo rehetra fa izaho Jehovah no nanatsoaka ny sabatro tamin' ny tranony; tsy hiditra intsony izy.",
+    "6": "Ary ianao, ry zanak' olona, midridridridria toy ny tapa-balahana, eny, midridridridria amin' ny fangidiana eo imasony.",
+    "7": "Ary izao no hisy, raha izy manao aminao hoe: Nahoana ianao no midridridridry? Dia valio hoe: Noho ny teny efa re fa ho avy izany. Ho kivy ny fo rehetra, ary hiraviravy ny tanana rehetra, ary hivarahontsana ny fanahy rehetra, sady hanjary ho toy ny rano ny lohalika rehetra, eny, ho avy izany ka ho tanteraka, hoy Jehovah Andriamanitra.",
+    "8": "Dia tonga tamiko indray ny tenin' i Jehovah nanao hoe:",
+    "9": "Ry zanak' olona, maminania ka ataovy hoe: Izao no lazain' i Jehovah: Injao, sabatra, sabatra voaranitra sady voafotsy koa.",
+    "10": "Voaranitra hahafaty be izy; voafotsy hanelatselatra izy; tokony hifaly va isika amin' izany? Ny tsorakazon' ny zanako no vingavingainy, toy ny hazo rehetra.",
+    "11": "Ary nomena hofotsiana izy mba horaisin-tanana; voaranitra io sabatra io sady voafotsy, mba hatolotra eo an-tanan' ny mpamono.",
+    "12": "Mitomania sy midradradradrà ry zanak' olona fa hihatra amin' ny oloko izany, ho amin' ny lehibe rehetra amin' ny Isiraely; tahotra noho ny sabatra no hahazo ny oloko, koa misafoa sirana ianao.",
+    "13": "Fa fizahan-toetra izany, ka manao ahoana, raha ilay tehim-panjakana aza no vingavingain' ny sabatra? Ho tonga tsinontsinona izy, hoy Jehovah Tompo.",
+    "14": "Koa ianao, ry zanak' olona, dia maminania, ka mitehafa tanana ary aoka hamely roa heny ny sabatra amin' ny fahatelony, dia ny sabatry ny voavono; eny ny sabatry ny lehibe izay voavono ka miditra ao amin' ny efitranony manokana.",
+    "15": "Nahebihebiko teny amin' ny vavahadiny rehetra ny lohan-tsabatra, mba hahakivy ny fony sy hampitombo ny faharavany.Indrisy natao manelatselatra izy sady voaranitra hamono.",
+    "16": "Mandehana amin' ny lalana iray na ny ankilany, na amin' ny ankavanana na amin' ny ankavia, na aiza na aiza tandrifinao.",
+    "17": "Hiteha-tanana koa Aho ary hiala fo; Izaho Jehovah no nilaza izany.",
+    "18": "Ary tonga tamiko indray ny tenin' i Jehovah hoe:",
+    "19": "Ianao koa ry zanak' olona, manaova lalana roa ho anao hiavian' ny sabatry ny mpanjakan' i Babylona; ary amin' ny tany iray no hiavian' izy roa, ary mifidiana toerana, eo an-doha-lalana mankany amin' ny tanàna no ifidiano izany.",
+    "20": "Manaova lalana hiavian' ny sabatra ho any Raban' ny taranak' i Amona sy ho any Joda ao Jerosalema mimanda.",
+    "21": "Fa ny mpanjakan' i Babylona mijanona eo amin' ny sampanan-dalana, dia eo an-dohan' ny lalana roa mba hanao sikidy; dia mampanjelanjelatra ny zana-tsipìkany izy ary manontany amin' ny terafima sy mizaha amin' ny atin-kena.",
+    "22": "Mby eo an-tanany ankavanana ny sikidy ho an' i Jerosalema, mba hanendry kapiteny, hisoka-bava amin' ny famonoana, hanandram-peo amin' ny akoran' ady, hametraka lohondry vy fandravana eo akaikin' ny vavahady, hanandratra tovon-tany sy hanao fiarovana.",
+    "23": "Nefa tahaka ny sikidy lainga izany eo imason' ireny, dia ireo izay efa nianiana mafy, nefa Izy no hampahatsiaro ny heloka mba hisamborana azy.",
+    "24": "Koa izao no lazain' i Jehovah Tompo: Noho ny nampahatsiarovanareo ny helokareo tamin' ny nampiharihariana ny fahadisoanareo mba hampisehoana ny fahotanareo tamin' izay rehetra nataonareo, noho ny nahatsiarovana anareo, hoy aho, dia hosamborin-tanana ianareo.",
+    "25": "Ary ianao ry ilay ratsy fanahy, hamavoina, dia ny mpanjakan' ny Isiraely, izay tapitr' andro amin' ny fotoana hifaranan' ny heloka,",
+    "26": "Izao no lazain' i Jehovah Andriamanitra: Esory ny diadema ary alao ny satroboninahitra, tsy hitovy izany: Hasandrato ny iva, ary haetreo ny avo.",
+    "27": "Havadiko, havadiko, havadiko izany: fa izany koa aza dia tsy mba haharitra mandra-pahatongan' izay tena tompony tokoa, ka homeko azy izany.",
+    "28": "Ary ianao, ry zanak' olona, dia maminania, ka ataovy hoe: Izao no lazain' i Jehovah Andriamanitra ny amin' ny taranak' i Amona sy ny latsa ataony, dia ataovy hoe: Indro sabatra! Dia sabatra voatsoaka! voafotsy hamono, handringana noho ny fanjelanjelany;",
+    "29": "Raha mahita zava-poana ho anao izy sy maminany lainga aminao, hametrahany anao ao amin' ny vozon' ny ratsy fanahy voavono, izay tapitr' andro amin' ny fotoana izay hifaranan' ny helony.",
+    "30": "Hampiverenako any amin' ny tranony va izany? Any amin' ny tany namoronana anao, dia any amin' ny tany nahaterahanao no hitsarako anao.",
+    "31": "Ary haidiko aminao ny fahavinirako, ny afon' ny fahatezerako no hotsofiko aminao, ka hatolotro eo an-tanan' ny olon-dozabe sy kinga handringana ianao.",
+    "32": "Dia ho kitain' ny afo ianao; ho eny amin' ny tany ny ranao; tsy hotsaroana intsony ianao; fa Izaho Jehovah no niteny izany."
+  }
 }

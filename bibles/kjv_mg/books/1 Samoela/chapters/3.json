@@ -1,89 +1,27 @@
 {
+  "book": "1 Samoela",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Samoela zaza nanao asa fanompoana ho an' i Jehovah teo anatrehan' i Ely. Ary sarobidy ny tenin' i Jehovah tamin' izany andro izany, fa tsy nisy fahitana niseho loatra."
-    },
-    {
-      "v": 2,
-      "text": "Ary izao no niseho tamin' izany andro izany, raha nandry tao amin' ny fandriany Ely, efa pahina ny masony ka tsy nahita izy."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary tsy mbola maty ny jiron' Andriamanitra tao an-tranon' i Jehovah, izay nisy ny fiaran' Andriamanitra, ary Samoela efa nandry hatory;\""
-    },
-    {
-      "v": 4,
-      "text": "Dia niantso an' i Samoela Jehovah, ary namaly izy hoe: Inty aho."
-    },
-    {
-      "v": 5,
-      "text": "Dia nihazakazaka nankeo amin' i Ely izy ka nanao hoe: Inty aho, fa niantso ahy ianao. Fa hoy Ely: Tsy niantso aho, andeha mandry indray. Dia lasa nandry izy."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary Jehovah mbola niantso an' i Samoela indray. Dia nifoha Samoela ka nankao amin' i Ely ary nanao hoe: Inty aho, fa niantso ahy tokoa ianao. Fa namaly izy hoe: Tsy niantso aho, anaka; andeha mandry indray.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary Samoela tsy mbola nahalala an' i Jehovah, sady tsy mbola nanehoana ny tenin' i Jehovah izy."
-    },
-    {
-      "v": 8,
-      "text": "Ary Jehovah niantso an' i Samoela indray fanintelony. Dia nifoha izy ka nankao amin' i Ely ka nanao hoe: Inty aho, fa niantso ahy tokoa ianao. Dia fantatr' i Ely fa Jehovah no niantso ny zaza."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary hoy Ely tamin' i Samoela: Andeha mandry ihany; ary raha tàhiny miantso anao Izy, dia lazao hoe: Mitenena, Jehovah ô, fa mihaino ny mpanomponao. Dia lasa Samoela nandry teo amin' ny fitoerany.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary avy Jehovah, dia nitsangana ka niantso toy ny teo aloha ihany hoe: Ry Samoela! ry Samoela! Dia namaly Samoela hoe: Mitenena, fa mihaino ny mpanomponao."
-    },
-    {
-      "v": 11,
-      "text": "Ary hoy Jehovah tamin' i Samoela: Indro, hanao zavatra eo amin' ny Isiraely Aho, ka izay rehetra mandre izany, dia hangintsingintsina ny sofiny roa."
-    },
-    {
-      "v": 12,
-      "text": "\"Amin' izany andro izany dia hotanterahiko amin' i Ely izay zavatra rehetra voalazako ny amin' ny ankohonany; rehefa manomboka Aho, dia hamarana ihany koa.\""
-    },
-    {
-      "v": 13,
-      "text": "Fa efa nambarako taminy fa hotsaraiko mandrakizay ny taranany noho ny heloka izay fantany, satria ny zanany nahatonga ozona ho an' ny tenany, nefa tsy nosakanany."
-    },
-    {
-      "v": 14,
-      "text": "Koa izany no nianianako tamin' ny ankohonan' i Ely fa tsy hisy sorona na fanatitra hahafaka ny helony mandrakizay."
-    },
-    {
-      "v": 15,
-      "text": "Ary nandry Samoela mandra-pahamarainan' ny andro, dia namoha ny varavaran' ny tranon' i Jehovah. Ary natahotra i Samoela ny hilaza ny fahitana tamin' i Ely."
-    },
-    {
-      "v": 16,
-      "text": "Fa Ely niantso an' i Samoela ka nanao hoe: Ry Samoela, zanako! Dia hoy izy: Inty aho."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary hoy izy: Inona no zavatra nolazain' i Jehovah taminao? Masìna ianao, aza afeninao ahy; hataon' Andriamanitra aminao anie izany, eny, mihoatra noho izany aza, raha misy afeninao ahy ny zavatra rehetra nolazainy taminao.\""
-    },
-    {
-      "v": 18,
-      "text": "Dia nambaran' i Samoela azy avokoa ny zavatra rehetra, ka tsy nisy nafeniny azy. Dia hoy Ely: Izy no Jehovah, aoka Izy hanao izay sitraky ny fony."
-    },
-    {
-      "v": 19,
-      "text": "Ary nitombo Samoela, sady nomba azy Jehovah, ka tsy nisy navelany ho raraka an-tany ny teniny."
-    },
-    {
-      "v": 20,
-      "text": "Ary ny Isiraely rehetra hatrany Dana ka hatrany Beri-sheba dia nahalala fa efa voamarina ho mpaminanin' i Jehovah tokoa Samoela."
-    },
-    {
-      "v": 21,
-      "text": "\"Dia niseho tao Silo indray Jehovah; fa niseho tamin' i Samoela tao Silo Jehovah tamin' ny tenin' i Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary Samoela zaza nanao asa fanompoana ho an' i Jehovah teo anatrehan' i Ely. Ary sarobidy ny tenin' i Jehovah tamin' izany andro izany, fa tsy nisy fahitana niseho loatra.",
+    "2": "Ary izao no niseho tamin' izany andro izany, raha nandry tao amin' ny fandriany Ely, efa pahina ny masony ka tsy nahita izy.",
+    "3": "Ary tsy mbola maty ny jiron' Andriamanitra tao an-tranon' i Jehovah, izay nisy ny fiaran' Andriamanitra, ary Samoela efa nandry hatory;",
+    "4": "Dia niantso an' i Samoela Jehovah, ary namaly izy hoe: Inty aho.",
+    "5": "Dia nihazakazaka nankeo amin' i Ely izy ka nanao hoe: Inty aho, fa niantso ahy ianao. Fa hoy Ely: Tsy niantso aho, andeha mandry indray. Dia lasa nandry izy.",
+    "6": "Ary Jehovah mbola niantso an' i Samoela indray. Dia nifoha Samoela ka nankao amin' i Ely ary nanao hoe: Inty aho, fa niantso ahy tokoa ianao. Fa namaly izy hoe: Tsy niantso aho, anaka; andeha mandry indray.",
+    "7": "Ary Samoela tsy mbola nahalala an' i Jehovah, sady tsy mbola nanehoana ny tenin' i Jehovah izy.",
+    "8": "Ary Jehovah niantso an' i Samoela indray fanintelony. Dia nifoha izy ka nankao amin' i Ely ka nanao hoe: Inty aho, fa niantso ahy tokoa ianao. Dia fantatr' i Ely fa Jehovah no niantso ny zaza.",
+    "9": "Ary hoy Ely tamin' i Samoela: Andeha mandry ihany; ary raha tàhiny miantso anao Izy, dia lazao hoe: Mitenena, Jehovah ô, fa mihaino ny mpanomponao. Dia lasa Samoela nandry teo amin' ny fitoerany.",
+    "10": "Ary avy Jehovah, dia nitsangana ka niantso toy ny teo aloha ihany hoe: Ry Samoela! ry Samoela! Dia namaly Samoela hoe: Mitenena, fa mihaino ny mpanomponao.",
+    "11": "Ary hoy Jehovah tamin' i Samoela: Indro, hanao zavatra eo amin' ny Isiraely Aho, ka izay rehetra mandre izany, dia hangintsingintsina ny sofiny roa.",
+    "12": "Amin' izany andro izany dia hotanterahiko amin' i Ely izay zavatra rehetra voalazako ny amin' ny ankohonany; rehefa manomboka Aho, dia hamarana ihany koa.",
+    "13": "Fa efa nambarako taminy fa hotsaraiko mandrakizay ny taranany noho ny heloka izay fantany, satria ny zanany nahatonga ozona ho an' ny tenany, nefa tsy nosakanany.",
+    "14": "Koa izany no nianianako tamin' ny ankohonan' i Ely fa tsy hisy sorona na fanatitra hahafaka ny helony mandrakizay.",
+    "15": "Ary nandry Samoela mandra-pahamarainan' ny andro, dia namoha ny varavaran' ny tranon' i Jehovah. Ary natahotra i Samoela ny hilaza ny fahitana tamin' i Ely.",
+    "16": "Fa Ely niantso an' i Samoela ka nanao hoe: Ry Samoela, zanako! Dia hoy izy: Inty aho.",
+    "17": "Ary hoy izy: Inona no zavatra nolazain' i Jehovah taminao? Masìna ianao, aza afeninao ahy; hataon' Andriamanitra aminao anie izany, eny, mihoatra noho izany aza, raha misy afeninao ahy ny zavatra rehetra nolazainy taminao.",
+    "18": "Dia nambaran' i Samoela azy avokoa ny zavatra rehetra, ka tsy nisy nafeniny azy. Dia hoy Ely: Izy no Jehovah, aoka Izy hanao izay sitraky ny fony.",
+    "19": "Ary nitombo Samoela, sady nomba azy Jehovah, ka tsy nisy navelany ho raraka an-tany ny teniny.",
+    "20": "Ary ny Isiraely rehetra hatrany Dana ka hatrany Beri-sheba dia nahalala fa efa voamarina ho mpaminanin' i Jehovah tokoa Samoela.",
+    "21": "Dia niseho tao Silo indray Jehovah; fa niseho tamin' i Samoela tao Silo Jehovah tamin' ny tenin' i Jehovah."
+  }
 }

@@ -1,113 +1,33 @@
 {
+  "book": "1 Korintiana",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tsy apostoly va aho? Tsy olona afaka va aho? Tsy efa nahita an’i Jesosy Tompontsika va aho? Tsy asako ao amin’ny Tompo va ianareo?"
-    },
-    {
-      "v": 2,
-      "text": "\"Raha tsy apostoly ho an’ny sasany aza aho, dia apostoly ho anareo tokoa; fa ianareo no tombo-kase maha-apostoly ahy ao amin’ny Tompo.\""
-    },
-    {
-      "v": 3,
-      "text": "Izany no avaliko ireo izay manadina ahy."
-    },
-    {
-      "v": 4,
-      "text": "Moa tsy mahazo mihinana sy misotro va izahay?"
-    },
-    {
-      "v": 5,
-      "text": "Moa tsy mahazo mitondra vady izay isan’ny anabavy va izahay, tahaka ny apostoly hafa, sy ny rahalahin’ny Tompo, ary Kefasy?"
-    },
-    {
-      "v": 6,
-      "text": "Sa izaho ihany sy Barnabasy no tsy mahazo mitsahatra tsy miasa?"
-    },
-    {
-      "v": 7,
-      "text": "Iza no mandeha miantafika ka mianto-tena? Iza no mamboly tanimboaloboka ka tsy mihinana ny vokatra? Ary iza no miandry ondry aman’osy ka tsy mihinana avy amin’ny rononony?"
-    },
-    {
-      "v": 8,
-      "text": "Moa araka ny fihevitry ny olona va no itenenako izany, sa ny lalàna mba milaza izany koa?"
-    },
-    {
-      "v": 9,
-      "text": "Fa voasoratra eo amin’ny lalàn’i Mosesy hoe: “Aza manakombona ny vavan’ny omby mively varimbazaha. Ny omby va no ahin’Andriamanitra?"
-    },
-    {
-      "v": 10,
-      "text": "\"Sa noho izahay no nanaovana izany teny izany? Tsy isalasalana fa noho izahay no nanoratana izany; koa izay miasa tany dia tokony hiasa amin’ny fanantenana, ary izay mively varimbazaha amin’ny fanantenana dia tokony ho mpiombona amin’ny fanantenany.\""
-    },
-    {
-      "v": 11,
-      "text": "Raha namafy izay zava-panahy ho anareo izahay, dia zavatra lehibe va raha mijinja izay anananareo araka ny nofo kosa izahay?"
-    },
-    {
-      "v": 12,
-      "text": "Raha ny hafa aza manana izany fahefana izany aminareo, tsy mainka va fa izahay? Kanefa tsy nanampatra izany fahefana izany izahay, fa mihafy amin’ny zavatra rehetra, fandrao hisakana ny filazantsaran’i Kristy."
-    },
-    {
-      "v": 13,
-      "text": "Tsy fantatrareo va fa izay manompo amin’ny zavatra masina dia mihinana ny zavatry ny tempoly, ary izay manompo eo amin’ny alitara dia miombona eo amin’ny alitara?"
-    },
-    {
-      "v": 14,
-      "text": "Toy izany koa no nandidian’ny Tompo, fa izay mitory filazantsara dia hahazo fivelomana amin’ny filazantsara."
-    },
-    {
-      "v": 15,
-      "text": "\"Nefa tsy nahavatra izany zavatra izany na dia kely akory aza aho; ary tsy manoratra izany aho mba hanaovana izany amiko; fa aleoko maty toy izay hisy hahafoana ny reharehako.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Fa na dia mitory ny filazantsara aza aho, dia tsy misy ho reharehako, satria tsy maintsy manao izany; eny, loza ho ahy, raha tsy mitory ny filazantsara aho!\""
-    },
-    {
-      "v": 17,
-      "text": "\"Fa raha ny sitrapoko no anaovako izany, dia mahazo valim-pitia aho; fa raha tsy ny sitrapoko kosa, dia natolotra ahy ho andraikitro ny filazantsara.\""
-    },
-    {
-      "v": 18,
-      "text": "Inona àry no valim-pitia azoko? Dia izao: raha mitory ny filazantsara aho, dia tsy asiako fandoavam-bola ny filazantsara, mba tsy hanampatra ny fahefako amin’ny filazantsara aho."
-    },
-    {
-      "v": 19,
-      "text": "Fa na dia afaka amin’ny olona rehetra aza aho, dia mbola nataoko ho mpanompon’ny olona rehetra ihany ny tenako mba hahazoako maromaro kokoa."
-    },
-    {
-      "v": 20,
-      "text": "\"Tamin’ny Jiosy, dia tonga toy ny Jiosy aho, mba hahazoako ny Jiosy; tamin’izay ambanin’ny lalàna, dia tonga toy izay ambanin’ny lalàna aho, mba hahazoako izay ambanin’ny lalàna;\""
-    },
-    {
-      "v": 21,
-      "text": "Tamin’izay tsy manana lalàna, dia toy izay tsy manana lalàna aho (kanefa tsy mba olona tsy manana lalàna amin’Andriamanitra aho, fa ambanin’ny lalàn’i Kristy), mba ahazoako mamonjy izay tsy manana lalàna."
-    },
-    {
-      "v": 22,
-      "text": "\"Tamin’ny malemy dia tonga malemy aho, mba hahazoako ny malemy; efa tonga zavatra rehetra aho amin’ny olona rehetra, mba hamonjeko ny sasany na manao ahoana na manao ahoana.\""
-    },
-    {
-      "v": 23,
-      "text": "Ary izany rehetra izany dia ataoko noho ny filazantsara mba ho tonga mpiombona aminareo aho."
-    },
-    {
-      "v": 24,
-      "text": "Tsy fantatrareo va fa izay mihazakazaka eo amin’ny tany fihazakazahana dia samy mihazakazaka avokoa, nefa ny iray ihany no mahazo ny loka? Mihazakazaha toy izany mba hahazoanareo."
-    },
-    {
-      "v": 25,
-      "text": "Ary ny olona rehetra izay miezaka hahazo, dia mahonon-tena amin’ny zavatra rehetra. Kanefa ireny dia mitady satroboninahitra mety ho lò, fa isika ny tsy mety ho lò."
-    },
-    {
-      "v": 26,
-      "text": "\"Raha izaho àry, dia mihazakazaka, nefa tsy toy ny manao kitoatoa; ary mamely totohondry aho, nefa tsy toy ny mamely rivotra;\""
-    },
-    {
-      "v": 27,
-      "text": "Fa asiako mafy ny tenako ho mangana ka andevoziko, fandrao, na dia efa nitory tamin’ny sasany aza aho, dia holavina kosa ny tenako."
-    }
-  ]
+  "verses": {
+    "1": "Tsy apostoly va aho? Tsy olona afaka va aho? Tsy efa nahita an’i Jesosy Tompontsika va aho? Tsy asako ao amin’ny Tompo va ianareo?",
+    "2": "Raha tsy apostoly ho an’ny sasany aza aho, dia apostoly ho anareo tokoa; fa ianareo no tombo-kase maha-apostoly ahy ao amin’ny Tompo.",
+    "3": "Izany no avaliko ireo izay manadina ahy.",
+    "4": "Moa tsy mahazo mihinana sy misotro va izahay?",
+    "5": "Moa tsy mahazo mitondra vady izay isan’ny anabavy va izahay, tahaka ny apostoly hafa, sy ny rahalahin’ny Tompo, ary Kefasy?",
+    "6": "Sa izaho ihany sy Barnabasy no tsy mahazo mitsahatra tsy miasa?",
+    "7": "Iza no mandeha miantafika ka mianto-tena? Iza no mamboly tanimboaloboka ka tsy mihinana ny vokatra? Ary iza no miandry ondry aman’osy ka tsy mihinana avy amin’ny rononony?",
+    "8": "Moa araka ny fihevitry ny olona va no itenenako izany, sa ny lalàna mba milaza izany koa?",
+    "9": "Fa voasoratra eo amin’ny lalàn’i Mosesy hoe: “Aza manakombona ny vavan’ny omby mively varimbazaha. Ny omby va no ahin’Andriamanitra?",
+    "10": "Sa noho izahay no nanaovana izany teny izany? Tsy isalasalana fa noho izahay no nanoratana izany; koa izay miasa tany dia tokony hiasa amin’ny fanantenana, ary izay mively varimbazaha amin’ny fanantenana dia tokony ho mpiombona amin’ny fanantenany.",
+    "11": "Raha namafy izay zava-panahy ho anareo izahay, dia zavatra lehibe va raha mijinja izay anananareo araka ny nofo kosa izahay?",
+    "12": "Raha ny hafa aza manana izany fahefana izany aminareo, tsy mainka va fa izahay? Kanefa tsy nanampatra izany fahefana izany izahay, fa mihafy amin’ny zavatra rehetra, fandrao hisakana ny filazantsaran’i Kristy.",
+    "13": "Tsy fantatrareo va fa izay manompo amin’ny zavatra masina dia mihinana ny zavatry ny tempoly, ary izay manompo eo amin’ny alitara dia miombona eo amin’ny alitara?",
+    "14": "Toy izany koa no nandidian’ny Tompo, fa izay mitory filazantsara dia hahazo fivelomana amin’ny filazantsara.",
+    "15": "Nefa tsy nahavatra izany zavatra izany na dia kely akory aza aho; ary tsy manoratra izany aho mba hanaovana izany amiko; fa aleoko maty toy izay hisy hahafoana ny reharehako.",
+    "16": "Fa na dia mitory ny filazantsara aza aho, dia tsy misy ho reharehako, satria tsy maintsy manao izany; eny, loza ho ahy, raha tsy mitory ny filazantsara aho!",
+    "17": "Fa raha ny sitrapoko no anaovako izany, dia mahazo valim-pitia aho; fa raha tsy ny sitrapoko kosa, dia natolotra ahy ho andraikitro ny filazantsara.",
+    "18": "Inona àry no valim-pitia azoko? Dia izao: raha mitory ny filazantsara aho, dia tsy asiako fandoavam-bola ny filazantsara, mba tsy hanampatra ny fahefako amin’ny filazantsara aho.",
+    "19": "Fa na dia afaka amin’ny olona rehetra aza aho, dia mbola nataoko ho mpanompon’ny olona rehetra ihany ny tenako mba hahazoako maromaro kokoa.",
+    "20": "Tamin’ny Jiosy, dia tonga toy ny Jiosy aho, mba hahazoako ny Jiosy; tamin’izay ambanin’ny lalàna, dia tonga toy izay ambanin’ny lalàna aho, mba hahazoako izay ambanin’ny lalàna;",
+    "21": "Tamin’izay tsy manana lalàna, dia toy izay tsy manana lalàna aho (kanefa tsy mba olona tsy manana lalàna amin’Andriamanitra aho, fa ambanin’ny lalàn’i Kristy), mba ahazoako mamonjy izay tsy manana lalàna.",
+    "22": "Tamin’ny malemy dia tonga malemy aho, mba hahazoako ny malemy; efa tonga zavatra rehetra aho amin’ny olona rehetra, mba hamonjeko ny sasany na manao ahoana na manao ahoana.",
+    "23": "Ary izany rehetra izany dia ataoko noho ny filazantsara mba ho tonga mpiombona aminareo aho.",
+    "24": "Tsy fantatrareo va fa izay mihazakazaka eo amin’ny tany fihazakazahana dia samy mihazakazaka avokoa, nefa ny iray ihany no mahazo ny loka? Mihazakazaha toy izany mba hahazoanareo.",
+    "25": "Ary ny olona rehetra izay miezaka hahazo, dia mahonon-tena amin’ny zavatra rehetra. Kanefa ireny dia mitady satroboninahitra mety ho lò, fa isika ny tsy mety ho lò.",
+    "26": "Raha izaho àry, dia mihazakazaka, nefa tsy toy ny manao kitoatoa; ary mamely totohondry aho, nefa tsy toy ny mamely rivotra;",
+    "27": "Fa asiako mafy ny tenako ho mangana ka andevoziko, fandrao, na dia efa nitory tamin’ny sasany aza aho, dia holavina kosa ny tenako."
+  }
 }

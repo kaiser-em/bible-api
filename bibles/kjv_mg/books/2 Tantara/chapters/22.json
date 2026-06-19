@@ -1,53 +1,18 @@
 {
+  "book": "2 Tantara",
   "chapter": 22,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary ny mponina tany Jerosalema nampanjaka an' i Ahazia, faralahin' i Jehorama, handimby azy; fa ny zokiny rehetra efa matin' ny mpitoha ady izay nanaraka ny Arabo hatrany an-toby avokoa. Koa Ahazia, zanak' i Jehorama, mpanjakan' ny Joda, no nanjaka.\""
-    },
-    {
-      "v": 2,
-      "text": "Roa amby efapolo taona Ahazia fony izy vao nanjaka, ary herintaona no nanjakany tany Jerosalema. Ary ny anaran-dreniny dia Atalia, zanak' i Omry."
-    },
-    {
-      "v": 3,
-      "text": "\"Nandeha tamin' ny lalan' ny taranak' i Ahaba koa izy; fa ny reniny no nanome saina azy hanao ratsy.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ka dia nanao izay ratsy eo imason' i Jehovah toy ny taranak' i Ahaba izy; fa ireny no mpanome saina azy taorian' ny nahafatesan' ny rainy ho amin' ny fandringanana azy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary ny saina nomen' ireo azy no narahiny, ka niara-nandeha tamin' i Jorama, zanak' i Ahaba, mpanjakan' ny Isiraely izy hiady tamin' i Hazaela, mpanjakan' i Syria, tao Ramota-gileada; ary ny Syriana nahavoa an' i Jorama.\""
-    },
-    {
-      "v": 6,
-      "text": "Dia niverina mba hotsaboina tao Jezirela izy amin' ny feriny tamin' ny nahavoazana azy tao Rama, fony izy niady tamin' i Hazaela, mpanjakan' i Syria. Ary Azaria, zanak' i Jehorama mpanjakan' ny Joda, nidina mba hamangy an' i Jorama, zanak' i Ahaba tao Jezirela, satria narary izy."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary avy tamin' Andriamanitra ny loza nanjo an' i Ahazia tamin' ny nankanesany tany amin' i Jorama; fa nony tonga izy, dia niara-nivoaka tamin' i Jorama mba hitsena an' i Jeho, zanak' i Nimsy, izay nohosoran' i Jehovah handringana ny taranak' i Ahaba.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary izao no niseho, tamin' ny namalian' i Jeho ny taranak' i Ahaba dia hitany ireo mpanapaka ny Joda sy ny zana-drahalahin' i Ahazia, izay nanompo an' i Ahazia, ka novonoiny."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary nitady an' i Ahazia izy; dia  nosamboriny izy (fa niery tany Samaria izy), ka nentina ho any amin' i Jeho, ary rehefa namono azy ny olona dia nandevina azy, fa hoy ireo: zanak' i Josafata ilay nitady an' i Jehovah tamin' ny fony rehetra ity. Ka dia tsy nisy nahatana ny fanjakana ny terak' i Ahazia.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary nony hitan' i Atalia, renin' i Ahazia, fa maty ny zanany, dia nitsangana izy ka nandringana ny zanak' andriana rehetra tamin' ny taranak' i Joda."
-    },
-    {
-      "v": 11,
-      "text": "Fa Joseba, zanakavavin' ny mpanjaka, dia naka an' i Joasy, zanak' i Ahazia, ka namonjy azy avy teo amin' ny zanaky ny mpanjaka izay novonoina, dia nampiditra azy sy ny mpitaiza azy ho ao an-trano fitahirizam-pandriana. Ary nafenin' i Joseba, zanakavavin' i Jehorama mpanjaka, vadin' i Joiada mpisorona, izy (fa anabavin' i Ahazia ravehivavy) mba tsy ho hitan' i Atalia, ka dia tsy mba voavonony izy."
-    },
-    {
-      "v": 12,
-      "text": "Ary niery enin-taona tao aminy tao an-tranon' Andriamanitra izy. Ary Atalia no nanjaka tamin' ny tany."
-    }
-  ]
+  "verses": {
+    "1": "Ary ny mponina tany Jerosalema nampanjaka an' i Ahazia, faralahin' i Jehorama, handimby azy; fa ny zokiny rehetra efa matin' ny mpitoha ady izay nanaraka ny Arabo hatrany an-toby avokoa. Koa Ahazia, zanak' i Jehorama, mpanjakan' ny Joda, no nanjaka.",
+    "2": "Roa amby efapolo taona Ahazia fony izy vao nanjaka, ary herintaona no nanjakany tany Jerosalema. Ary ny anaran-dreniny dia Atalia, zanak' i Omry.",
+    "3": "Nandeha tamin' ny lalan' ny taranak' i Ahaba koa izy; fa ny reniny no nanome saina azy hanao ratsy.",
+    "4": "Ka dia nanao izay ratsy eo imason' i Jehovah toy ny taranak' i Ahaba izy; fa ireny no mpanome saina azy taorian' ny nahafatesan' ny rainy ho amin' ny fandringanana azy.",
+    "5": "Ary ny saina nomen' ireo azy no narahiny, ka niara-nandeha tamin' i Jorama, zanak' i Ahaba, mpanjakan' ny Isiraely izy hiady tamin' i Hazaela, mpanjakan' i Syria, tao Ramota-gileada; ary ny Syriana nahavoa an' i Jorama.",
+    "6": "Dia niverina mba hotsaboina tao Jezirela izy amin' ny feriny tamin' ny nahavoazana azy tao Rama, fony izy niady tamin' i Hazaela, mpanjakan' i Syria. Ary Azaria, zanak' i Jehorama mpanjakan' ny Joda, nidina mba hamangy an' i Jorama, zanak' i Ahaba tao Jezirela, satria narary izy.",
+    "7": "Ary avy tamin' Andriamanitra ny loza nanjo an' i Ahazia tamin' ny nankanesany tany amin' i Jorama; fa nony tonga izy, dia niara-nivoaka tamin' i Jorama mba hitsena an' i Jeho, zanak' i Nimsy, izay nohosoran' i Jehovah handringana ny taranak' i Ahaba.",
+    "8": "Ary izao no niseho, tamin' ny namalian' i Jeho ny taranak' i Ahaba dia hitany ireo mpanapaka ny Joda sy ny zana-drahalahin' i Ahazia, izay nanompo an' i Ahazia, ka novonoiny.",
+    "9": "Ary nitady an' i Ahazia izy; dia  nosamboriny izy (fa niery tany Samaria izy), ka nentina ho any amin' i Jeho, ary rehefa namono azy ny olona dia nandevina azy, fa hoy ireo: zanak' i Josafata ilay nitady an' i Jehovah tamin' ny fony rehetra ity. Ka dia tsy nisy nahatana ny fanjakana ny terak' i Ahazia.",
+    "10": "Ary nony hitan' i Atalia, renin' i Ahazia, fa maty ny zanany, dia nitsangana izy ka nandringana ny zanak' andriana rehetra tamin' ny taranak' i Joda.",
+    "11": "Fa Joseba, zanakavavin' ny mpanjaka, dia naka an' i Joasy, zanak' i Ahazia, ka namonjy azy avy teo amin' ny zanaky ny mpanjaka izay novonoina, dia nampiditra azy sy ny mpitaiza azy ho ao an-trano fitahirizam-pandriana. Ary nafenin' i Joseba, zanakavavin' i Jehorama mpanjaka, vadin' i Joiada mpisorona, izy (fa anabavin' i Ahazia ravehivavy) mba tsy ho hitan' i Atalia, ka dia tsy mba voavonony izy.",
+    "12": "Ary niery enin-taona tao aminy tao an-tranon' Andriamanitra izy. Ary Atalia no nanjaka tamin' ny tany."
+  }
 }

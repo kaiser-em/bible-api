@@ -1,53 +1,18 @@
 {
+  "book": "Salamo",
   "chapter": 30,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Salamo sy hira tamin' ny nitokanana ny tranon' i Davida.]  HANANDRATRA Anao aho, Jehovah ô, fa nanintona ahy niakatra Ianao, ka tsy nataonao ho fifalian' ny fahavaloko aho."
-    },
-    {
-      "v": 2,
-      "text": "Jehovah Andriamanitro ô, nitaraina taminao aho, dia nahasitrana ahy Ianao."
-    },
-    {
-      "v": 3,
-      "text": "\"Jehovah ô, efa nampakatra ny fanahiko avy tany am-pasana Ianao; efa nampody ny aiko Ianao mba tsy hidina any an-davaka aho.\""
-    },
-    {
-      "v": 4,
-      "text": "Mihirà ho an' i Jehovah, ry olony masina, ary misaora amin' ny fahatsiarovana ny fahamasinany."
-    },
-    {
-      "v": 5,
-      "text": "\"Fa indray mipì-maso ihany no aharetan' ny fahatezerany; fa misy fiainana ao amin' ny fankasitrahany; mety maharitra miloaka alina ny fitomaniana, nefa nony maraina dia tonga ny fifaliana.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary hoy aho tao anatin' ny fanambinana: Tsy ho voahetsika mandrakizay aho."
-    },
-    {
-      "v": 7,
-      "text": "\"Jehovah ô, noho ny fankasitrahanao dia nampitoerinao mafy ny tendrombohitro; nanafina ny tavanao Ianao dia ory aho.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ianao no nantsoiko, Jehovah ô; ary Jehovah no nitalahoako hoe:\""
-    },
-    {
-      "v": 9,
-      "text": "Inona no soa azo avy amin' ny rako raha hidina any an-davaka aho? Hidera Anao va ny vovoka? Hanambara ny fahamarinanao va izany?"
-    },
-    {
-      "v": 10,
-      "text": "\"Mihainoa, Jehovah ô, ka mamindrà fo amiko; Jehovah ô, aoka ho mpanampy ahy Ianao.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Efa nampody ny fisaonako ho fandihizana Ianao; efa nanaisotra ny lamba fisaonako Ianao ka nampisikina ahy fifaliana;\""
-    },
-    {
-      "v": 12,
-      "text": "Mba hankalazan' ny voninahitro Anao, ka tsy hangina. Jehovah Andriamanitro ô, hisaotra Anao mandrakizay aho."
-    }
-  ]
+  "verses": {
+    "1": "[Salamo sy hira tamin' ny nitokanana ny tranon' i Davida.]  HANANDRATRA Anao aho, Jehovah ô, fa nanintona ahy niakatra Ianao, ka tsy nataonao ho fifalian' ny fahavaloko aho.",
+    "2": "Jehovah Andriamanitro ô, nitaraina taminao aho, dia nahasitrana ahy Ianao.",
+    "3": "Jehovah ô, efa nampakatra ny fanahiko avy tany am-pasana Ianao; efa nampody ny aiko Ianao mba tsy hidina any an-davaka aho.",
+    "4": "Mihirà ho an' i Jehovah, ry olony masina, ary misaora amin' ny fahatsiarovana ny fahamasinany.",
+    "5": "Fa indray mipì-maso ihany no aharetan' ny fahatezerany; fa misy fiainana ao amin' ny fankasitrahany; mety maharitra miloaka alina ny fitomaniana, nefa nony maraina dia tonga ny fifaliana.",
+    "6": "Ary hoy aho tao anatin' ny fanambinana: Tsy ho voahetsika mandrakizay aho.",
+    "7": "Jehovah ô, noho ny fankasitrahanao dia nampitoerinao mafy ny tendrombohitro; nanafina ny tavanao Ianao dia ory aho.",
+    "8": "Ianao no nantsoiko, Jehovah ô; ary Jehovah no nitalahoako hoe:",
+    "9": "Inona no soa azo avy amin' ny rako raha hidina any an-davaka aho? Hidera Anao va ny vovoka? Hanambara ny fahamarinanao va izany?",
+    "10": "Mihainoa, Jehovah ô, ka mamindrà fo amiko; Jehovah ô, aoka ho mpanampy ahy Ianao.",
+    "11": "Efa nampody ny fisaonako ho fandihizana Ianao; efa nanaisotra ny lamba fisaonako Ianao ka nampisikina ahy fifaliana;",
+    "12": "Mba hankalazan' ny voninahitro Anao, ka tsy hangina. Jehovah Andriamanitro ô, hisaotra Anao mandrakizay aho."
+  }
 }

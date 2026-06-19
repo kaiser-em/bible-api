@@ -1,129 +1,37 @@
 {
+  "book": "Nomery",
   "chapter": 28,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny amin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Mandidia ny Zanak' Isiraely ka lazao aminy hoe: Ny fanatitra ho Ahy sy ny mofo izay fanatitra atao amin' ny afo ho hanitra ankasitrahana ho Ahy, dia hotandremanareo ny hanolorana izany ho Ahy amin' ny fotoany avy."
-    },
-    {
-      "v": 3,
-      "text": "Ary lazao aminy hoe: Izao no fanatitra atao amin' ny afo, izay hatolotrareo ho an' i Jehovah: zanak' ondry roa isan' andro, izay iray taona sady tsy misy kilema, ho fanatitra dorana mandrakariva."
-    },
-    {
-      "v": 4,
-      "text": "Ny zanak' ondry iray hatolotrao amin' ny maraina, ary ny zanak' ondry iray hatolotrao amin' ny hariva."
-    },
-    {
-      "v": 5,
-      "text": "Ary koba tsara toto ampahafolon' ny efaha, voaharo diloilo voavely ampahefatry ny hina, ho fanatitra hohanina."
-    },
-    {
-      "v": 6,
-      "text": "Fanatitra dorana mandrakariva izany, izay voatendry tao an-tendrombohitra Sinay ho hanitra ankasitrahana, dia fanatitra atao amin' ny afo ho an' i Jehovah."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary ny fanatitra aidina momba azy, dia ampahefatry ny hina amin' ny isan-janak' ondry iray; ao amin' ny fitoerana masina no hanidinanao divay mahery ho an' i Jehovah ho fanatitra aidina.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary ny zanak' ondry iray dia hatolotrao ny hariva; tahaka ny fanatitra hohanina atao amin' ny maraina sy tahaka ny fanatitra aidina no anoloranao izany ho fanatitra atao amin' afo, ho hanitra ankasitrahana ho an' i Jehovah.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary amin' ny andro sabata, dia zanak' ondry roa izay iray taona sady tsy misy kilema sy koba tsara toto ampahafolon' ny efaha voaharo diloilo no atao fanatitra hohanina sy fanatitra aidina."
-    },
-    {
-      "v": 10,
-      "text": "Izany no fanatitra dorana isan-tsabata, ho fanampin' ny fanatitra dorana mandrakariva sy ny fanatitra aidina."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary amin' ny voaloham-bolanareo dia hanolotra fanatitra dorana ho an' i Jehovah ianareo: Vantotr' ombilahy roa sy ondrilahy iray, zanak' ondry fito tsy misy kilema, izay iray taona;\""
-    },
-    {
-      "v": 12,
-      "text": "Ary koba tsara toto telo ampahafolon' ny efaha voaharo diloilo ho fanatitra hohanina amin' ny isam-bantotr' ombilahy, ary koba tsara toto roa ampahafolon' ny efaha voaharo diloilo, ho fanatitra hohanina amin' ny isan' ondrilahy iray."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary koba tsara toto ampahafolon' ny efaha voaharo diloilo, ho fanatitra hohanina amin' ny isan-janak' ondry iray; ho fanatitra dorana, dia hanitra ankasitrahana, fanatitra atao amin' ny afo ho an' i Jehovah.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary ny fanatiny aidina, dia divay antsasaky ny hina amin' ny isam-bantotr' ombilahy iray, ary ampahatelon' ny hina ho amin' ny isan' ondrilahy iray, ary ampahefatry ny hina ho amin' ny isan-janak' ondry iray. Izany no fanatitra dorana amin' ny isam-bolana araka ny volana amin' ny taona."
-    },
-    {
-      "v": 15,
-      "text": "Ary zanak' osilahy iray ho fanatitra noho ny ota ho an' i Jehovah, ho fanampin' ny fanatitra dorana mandrakariva sy ny fanatiny aidina."
-    },
-    {
-      "v": 16,
-      "text": "Ary ny andro fahefatra ambin' ny folo amin' ny volana voalohany dia Paskan' i Jehovah."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ny andro fahadimy ambin' ny folo amin' izany volana izany dia andro firavoravoana; hafitoana no hihinanana mofo tsy misy lalivay.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Amin' ny andro voalohany dia hisy fivoriana masina; aza manao raharaha akory ianareo.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Fa hanolotra fanatitra atao amin' ny afo ho fanatitra dorana ho an' i Jehovah ianareo: vantotr' ombilahy roa sy ondrilahy iray, ary zanak' ondry fito izay iray taona sady tsy misy kilema no haterinareo;\""
-    },
-    {
-      "v": 20,
-      "text": "Ary koba tsara toto voaharo diloilo no ho fanatitra hohaniny: telo ampahafolon' ny efaha no hatolotrareo amin' ny isam-bantotr' ombilahy iray, ary roa ampahafolon' ny efaha amin' ny isan' ondrilahy iray."
-    },
-    {
-      "v": 21,
-      "text": "Ny ampahafolon' ny efaha no hatolotrao amin' ny isan-janak' ondry, dia ny zanak' ondry fito."
-    },
-    {
-      "v": 22,
-      "text": "Ary osilahy iray ho fanatitra noho ny ota, hanaovana fanavotana ho anareo."
-    },
-    {
-      "v": 23,
-      "text": "Atero ireo ho fanampin' ny fanatitra dorana amin' ny maraina izay atao fanatitra dorana mandrakariva."
-    },
-    {
-      "v": 24,
-      "text": "\"Araka izany no hanoloranareo isan' andro amin' ny hafitoana, ho hanina ho an' i Jehovah, dia fanatitra atao amin' ny afo ho hanitra ankasitrahana ho Azy; ho fanampin' ny fanatitra dorana mandrakariva no hanolorana azy mbamin' ny fanatitra aidina.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ary amin' ny andro fahafito dia hisy fivoriana masina ho anareo; aza manao raharaham-panompoana akory ianareo.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ary koa amin' ny andron' ny voaloham-bokatra, raha mitondra fanatitra hohanina vaovao ho an' i Jehovah ianareo, rehefa afaka ireo herinandronareo ireo, dia hisy fivoriana masina ho anareo; aza manao raharaham-panompoana akory ianareo.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Ary izao no atolory ho fanatitra dorana ho hanitra ankasitrahana ho an' i Jehovah; vantotr' ombilahy roa sy ondrilahy iray sy zanak' ondry fito izay iray taona avy.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary koba tsara toto voaharo diloilo ho fanatitra hohaniny, telo ampahafolon' ny efaha amin' ny isam-bantotr' ombilahy iray, roa ampahafolon' ny efaha amin' ny isan' ondrilahy iray,"
-    },
-    {
-      "v": 29,
-      "text": "\"Ary ampahafolon' ny efaha amin' ny isan-janak' ondry iray, dia amin' ny zanak' ondry fito;\""
-    },
-    {
-      "v": 30,
-      "text": "Ary zanak' osilahy iray, hanaovana fanavotana ho anareo."
-    },
-    {
-      "v": 31,
-      "text": "Hatolotrareo ireo ho fanampin' ny fanatitra dorana mandrakariva sy ny fanatitra hohaniny, (tsy hisy kilema eo imasonareo izany), ary ny fanatitra aidiny."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny amin' i Mosesy ka nanao hoe:",
+    "2": "Mandidia ny Zanak' Isiraely ka lazao aminy hoe: Ny fanatitra ho Ahy sy ny mofo izay fanatitra atao amin' ny afo ho hanitra ankasitrahana ho Ahy, dia hotandremanareo ny hanolorana izany ho Ahy amin' ny fotoany avy.",
+    "3": "Ary lazao aminy hoe: Izao no fanatitra atao amin' ny afo, izay hatolotrareo ho an' i Jehovah: zanak' ondry roa isan' andro, izay iray taona sady tsy misy kilema, ho fanatitra dorana mandrakariva.",
+    "4": "Ny zanak' ondry iray hatolotrao amin' ny maraina, ary ny zanak' ondry iray hatolotrao amin' ny hariva.",
+    "5": "Ary koba tsara toto ampahafolon' ny efaha, voaharo diloilo voavely ampahefatry ny hina, ho fanatitra hohanina.",
+    "6": "Fanatitra dorana mandrakariva izany, izay voatendry tao an-tendrombohitra Sinay ho hanitra ankasitrahana, dia fanatitra atao amin' ny afo ho an' i Jehovah.",
+    "7": "Ary ny fanatitra aidina momba azy, dia ampahefatry ny hina amin' ny isan-janak' ondry iray; ao amin' ny fitoerana masina no hanidinanao divay mahery ho an' i Jehovah ho fanatitra aidina.",
+    "8": "Ary ny zanak' ondry iray dia hatolotrao ny hariva; tahaka ny fanatitra hohanina atao amin' ny maraina sy tahaka ny fanatitra aidina no anoloranao izany ho fanatitra atao amin' afo, ho hanitra ankasitrahana ho an' i Jehovah.",
+    "9": "Ary amin' ny andro sabata, dia zanak' ondry roa izay iray taona sady tsy misy kilema sy koba tsara toto ampahafolon' ny efaha voaharo diloilo no atao fanatitra hohanina sy fanatitra aidina.",
+    "10": "Izany no fanatitra dorana isan-tsabata, ho fanampin' ny fanatitra dorana mandrakariva sy ny fanatitra aidina.",
+    "11": "Ary amin' ny voaloham-bolanareo dia hanolotra fanatitra dorana ho an' i Jehovah ianareo: Vantotr' ombilahy roa sy ondrilahy iray, zanak' ondry fito tsy misy kilema, izay iray taona;",
+    "12": "Ary koba tsara toto telo ampahafolon' ny efaha voaharo diloilo ho fanatitra hohanina amin' ny isam-bantotr' ombilahy, ary koba tsara toto roa ampahafolon' ny efaha voaharo diloilo, ho fanatitra hohanina amin' ny isan' ondrilahy iray.",
+    "13": "Ary koba tsara toto ampahafolon' ny efaha voaharo diloilo, ho fanatitra hohanina amin' ny isan-janak' ondry iray; ho fanatitra dorana, dia hanitra ankasitrahana, fanatitra atao amin' ny afo ho an' i Jehovah.",
+    "14": "Ary ny fanatiny aidina, dia divay antsasaky ny hina amin' ny isam-bantotr' ombilahy iray, ary ampahatelon' ny hina ho amin' ny isan' ondrilahy iray, ary ampahefatry ny hina ho amin' ny isan-janak' ondry iray. Izany no fanatitra dorana amin' ny isam-bolana araka ny volana amin' ny taona.",
+    "15": "Ary zanak' osilahy iray ho fanatitra noho ny ota ho an' i Jehovah, ho fanampin' ny fanatitra dorana mandrakariva sy ny fanatiny aidina.",
+    "16": "Ary ny andro fahefatra ambin' ny folo amin' ny volana voalohany dia Paskan' i Jehovah.",
+    "17": "Ary ny andro fahadimy ambin' ny folo amin' izany volana izany dia andro firavoravoana; hafitoana no hihinanana mofo tsy misy lalivay.",
+    "18": "Amin' ny andro voalohany dia hisy fivoriana masina; aza manao raharaha akory ianareo.",
+    "19": "Fa hanolotra fanatitra atao amin' ny afo ho fanatitra dorana ho an' i Jehovah ianareo: vantotr' ombilahy roa sy ondrilahy iray, ary zanak' ondry fito izay iray taona sady tsy misy kilema no haterinareo;",
+    "20": "Ary koba tsara toto voaharo diloilo no ho fanatitra hohaniny: telo ampahafolon' ny efaha no hatolotrareo amin' ny isam-bantotr' ombilahy iray, ary roa ampahafolon' ny efaha amin' ny isan' ondrilahy iray.",
+    "21": "Ny ampahafolon' ny efaha no hatolotrao amin' ny isan-janak' ondry, dia ny zanak' ondry fito.",
+    "22": "Ary osilahy iray ho fanatitra noho ny ota, hanaovana fanavotana ho anareo.",
+    "23": "Atero ireo ho fanampin' ny fanatitra dorana amin' ny maraina izay atao fanatitra dorana mandrakariva.",
+    "24": "Araka izany no hanoloranareo isan' andro amin' ny hafitoana, ho hanina ho an' i Jehovah, dia fanatitra atao amin' ny afo ho hanitra ankasitrahana ho Azy; ho fanampin' ny fanatitra dorana mandrakariva no hanolorana azy mbamin' ny fanatitra aidina.",
+    "25": "Ary amin' ny andro fahafito dia hisy fivoriana masina ho anareo; aza manao raharaham-panompoana akory ianareo.",
+    "26": "Ary koa amin' ny andron' ny voaloham-bokatra, raha mitondra fanatitra hohanina vaovao ho an' i Jehovah ianareo, rehefa afaka ireo herinandronareo ireo, dia hisy fivoriana masina ho anareo; aza manao raharaham-panompoana akory ianareo.",
+    "27": "Ary izao no atolory ho fanatitra dorana ho hanitra ankasitrahana ho an' i Jehovah; vantotr' ombilahy roa sy ondrilahy iray sy zanak' ondry fito izay iray taona avy.",
+    "28": "Ary koba tsara toto voaharo diloilo ho fanatitra hohaniny, telo ampahafolon' ny efaha amin' ny isam-bantotr' ombilahy iray, roa ampahafolon' ny efaha amin' ny isan' ondrilahy iray,",
+    "29": "Ary ampahafolon' ny efaha amin' ny isan-janak' ondry iray, dia amin' ny zanak' ondry fito;",
+    "30": "Ary zanak' osilahy iray, hanaovana fanavotana ho anareo.",
+    "31": "Hatolotrareo ireo ho fanampin' ny fanatitra dorana mandrakariva sy ny fanatitra hohaniny, (tsy hisy kilema eo imasonareo izany), ary ny fanatitra aidiny."
+  }
 }

@@ -1,209 +1,57 @@
 {
+  "book": "2 Samoela",
   "chapter": 22,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary Davida niresaka tamin' i Jehovah ny tenin' izao hira izao tamin' ny andro nanafahan' i Jehovah azy tamin' ny tanan' ny fahavalony rehetra sy tamin' ny tanan' i Saoly;\""
-    },
-    {
-      "v": 2,
-      "text": "Ary hoy izy: Jehovah no harambatoko sy batery fiarovana ho ahy, ary Mpanafaka ahy."
-    },
-    {
-      "v": 3,
-      "text": "\"Andriamanitra vatolampiko, Izy no hitokiako, ampingako sy tandroka famonjena ahy Izy, manda avoko sy fialofako, mpamonjiko; Mamonjy ahy amin' ny herisetra Ianao.\""
-    },
-    {
-      "v": 4,
-      "text": "Hiantso an' i Jehovah Izay mendrika hoderaina aho, ka dia hovonjena ho afaka amin' ny fahavaloko."
-    },
-    {
-      "v": 5,
-      "text": "\"Raha nihodidina tamiko ny onjan' ny fahafatesana, ny riakan' ny olona tsy araka an' Andriamanitra nampahatahotra ahy;\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ny fanaintainan' ny helo nihodidina tamiko; nisakana ahy ny fandriky ny fahafatesana,\""
-    },
-    {
-      "v": 7,
-      "text": "Fony azom-pahoriana aho, dia niantso an' i Jehovah, sy nitaraina tamin' Andriamanitro. Nihaino tokoa ny feoko tao an-tempoliny Izy, ary ny fitarainako dia efa tonga tokoa teo an-tsofiny."
-    },
-    {
-      "v": 8,
-      "text": "Dia nihozongozona sy nihorohoro ny tany, ary ny fiorenan' ny lanitra nihorohoro sy nihozongozona, satria tezitra Jehovah."
-    },
-    {
-      "v": 9,
-      "text": "Nisy setroka nisavoana avy teo am-bavorony, ary afo avy teo am-bavany no nandevona, ka nisy vainafo nidedadeda teo aminy."
-    },
-    {
-      "v": 10,
-      "text": "\"Dia naondriny koa ny lanitra, ka nidina Izy; ary haizim-pito no teo ambanin' ny tongony.\""
-    },
-    {
-      "v": 11,
-      "text": "Dia nitaingina kerobima Izy ka nanidina, eny, niseho teo amin' ny ela-drivotra Izy."
-    },
-    {
-      "v": 12,
-      "text": "Efa nanao ny maizina ho tranony manodidina Azy Izy, dia fivorian-drano sy rahona matevin' ny lanitra,"
-    },
-    {
-      "v": 13,
-      "text": "Ary avy teo amin' ny famirapiratana teo anatrehany dia nisy vainafo nidedadeda."
-    },
-    {
-      "v": 14,
-      "text": "Dia nampikotroka tany an-danitra Jehovah, ny Avo Indrindra niloa-peo."
-    },
-    {
-      "v": 15,
-      "text": "Dia nandefa zana-tsipìka Izy ka nampiely ny fahavaloko, ary nampandeha helatra ka nampifanaritaka azy."
-    },
-    {
-      "v": 16,
-      "text": "Dia hita ny fitoeran-dranomasina, ary niseho ny fanambanin' ny tany, noho ny teny mafy nataon' i Jehovah, noho ny fifofofofon' ny fofonain' ny vavorony."
-    },
-    {
-      "v": 17,
-      "text": "\"Naniraka avy tany ambony Izy, nandray ahy Izy; nanintona ahy hiala tamin' ny rano be Izy.\""
-    },
-    {
-      "v": 18,
-      "text": "Nanafaka ahy tamin' ny fahavaloko mahery Izy sy tamin' izay nankahala ahy satria tsy leoko ireny."
-    },
-    {
-      "v": 19,
-      "text": "Nisakana ahy tamin' ny andro nahitako loza ireny, nefa Jehovah no niseho ho Mpanohana ahy."
-    },
-    {
-      "v": 20,
-      "text": "\"Dia nitondra ahy koa ho any amin' ny toerana malalaka izy; nanafaka ahy Izy, satria ankasitrahany aho.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Namaly soa ahy araka ny fahamarinako Jehovah; araka ny fahadiovan' ny tanako no namaliany ahy.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Fa nitandrina ny lalan' i Jehovah aho ka tsy mba nanao ratsy hialana tamin' Andriamanitro;\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ny fitsipiny rehetra dia teo anatrehako, ary ny lalàny tsy mba nialako;\""
-    },
-    {
-      "v": 24,
-      "text": "Nahitsy teo anatrehany koa aho, sady niaro tena tsy ho azon' ny heloko."
-    },
-    {
-      "v": 25,
-      "text": "Koa namaly ahy araka ny fahamarinako Jehovah, dia araka ny fahadiovako teo imasony."
-    },
-    {
-      "v": 26,
-      "text": "\"Amin' ny olona mamindrafo no hisehoanao ho mpamindrafo; amin' ny olo-mahitsy no hisehoanao ho mahitsy.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Amin' ny madio no hisehoanao ho madio; ary amin' ny mpanao sain-dalina kosa no hisehoanao fa lalin-tsaina.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary ny olona ory dia hovonjenao; fa ny masonao manandrina ny mpiavonavona, ka aetrinao ireny.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Fa Ianao no jiroko, Jehovah ô; Jehovah hampahazava ny fahamaizinako.\""
-    },
-    {
-      "v": 30,
-      "text": "\"Fa Ianao no ahazoako mitsarapaka hamely ny miaramila iray toko; ary Andriamanitro no ahazoako mitsambikina mihoatra ny manda.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Raha ny amin' Andriamanitra, dia tanteraka ny lalany; ny tenin' i Jehovah dia voazaha toetra; ampingan' izay rehetra matoky azy Izy.\""
-    },
-    {
-      "v": 32,
-      "text": "Fa iza no Andriamanitra afa-tsy Jehovah? Ary Iza no vatolampy afa-tsy Andriamanitsika?"
-    },
-    {
-      "v": 33,
-      "text": "Andriamanitra no tanjako sy heriko ary Izy no mahatanteraka ny lalako."
-    },
-    {
-      "v": 34,
-      "text": "\"Manao ny tongotro ho tahaka ny an' ny dieravavy izy; mampitoetra ahy eo amin' ny fitoerako avo Izy ;\""
-    },
-    {
-      "v": 35,
-      "text": "\"Mampianatra ny tanako hiady Izy; ka tapaky ny sandriko ny tsipìka vy.\""
-    },
-    {
-      "v": 36,
-      "text": "\"Nomenao ahy koa ny ampingan' ny famonjenao; ary ny fahamoram-panahinao no nahalehibe ahy.\""
-    },
-    {
-      "v": 37,
-      "text": "Nohalalahinao ny lalana diaviko, ka tsy mibolasitra ny tongotro."
-    },
-    {
-      "v": 38,
-      "text": "\"Nanenjika ny fahavaloko aho ka nandripaka azy; ary tsy mba niverina aho mandra-pahalany ritrany.\""
-    },
-    {
-      "v": 39,
-      "text": "\"Nandringana ny fahavaloko aho sady nandripaka azy; ka tsy naharina izy. Eny, lavo eo ambanin' ny tongotro izy.\""
-    },
-    {
-      "v": 40,
-      "text": "\"Fa nampisikina ahy hery hiady ianao; naripakao ho ambaniko izay nitsangana hamely ahy.\""
-    },
-    {
-      "v": 41,
-      "text": "Nomenao ahy koa ny vozon' ny fahavaloko mba handringanako izay mankahala ahy."
-    },
-    {
-      "v": 42,
-      "text": "Miherikerika izy, fa tsy misy mpamonjy, eny, maniry an' i Jehovah izy, fa tsy mamaly azy Izy."
-    },
-    {
-      "v": 43,
-      "text": "\"Torotoroiko madinika tahaka ny vovo-tany izy; hoseko tahaka ny fotaka eny an-dalana izy ka apariakako eny ivelany.\""
-    },
-    {
-      "v": 44,
-      "text": "\"Nanafaka ahy koa tamin' ny fifanoheran' ny oloko ianao, sy niaro ahy ho lohan' ny jentilisa; ny firenena izay tsy fantatro dia hanompo ahy.\""
-    },
-    {
-      "v": 45,
-      "text": "\"Hanaiky ahy ny vahiny; raha vantany vao mahare izy, dia hanoa ahy.\""
-    },
-    {
-      "v": 46,
-      "text": "Hihaketraka ny vahiny, ary hivoaka amin-tahotra avy ao amin' ny toerana fiereny izy."
-    },
-    {
-      "v": 47,
-      "text": "\"Velona Jehovah; isaorana anie ny Vatolampiko; asandratra anie Andriamanitry ny vatolampy famonjena ahy,\""
-    },
-    {
-      "v": 48,
-      "text": "Andriamanitra no manao famaliana ho ahy ka mampanaiky ny firenena ahy."
-    },
-    {
-      "v": 49,
-      "text": "\"Dia Ilay mitondra ahy ho afaka amin' ny fahavaloko; eny, manandratra ahy koa Ianao ho ambonin' izay nitsangana hanohitra ahy; nanafaka ahy tamin' ny olon-dozabe Ianao.\""
-    },
-    {
-      "v": 50,
-      "text": "Koa izany no hisaorako Anao, Jehovah ô, eo amin' ny jentilisa, sy hihirako fiderana ho an' ny anaranao."
-    },
-    {
-      "v": 51,
-      "text": "Izy no tilikambon' ny famonjena ho an' ny mpanjakany, ary maneho famindrampo amin' ny voahosony, dia Davida sy ny taranany mandrakizay."
-    }
-  ]
+  "verses": {
+    "1": "Ary Davida niresaka tamin' i Jehovah ny tenin' izao hira izao tamin' ny andro nanafahan' i Jehovah azy tamin' ny tanan' ny fahavalony rehetra sy tamin' ny tanan' i Saoly;",
+    "2": "Ary hoy izy: Jehovah no harambatoko sy batery fiarovana ho ahy, ary Mpanafaka ahy.",
+    "3": "Andriamanitra vatolampiko, Izy no hitokiako, ampingako sy tandroka famonjena ahy Izy, manda avoko sy fialofako, mpamonjiko; Mamonjy ahy amin' ny herisetra Ianao.",
+    "4": "Hiantso an' i Jehovah Izay mendrika hoderaina aho, ka dia hovonjena ho afaka amin' ny fahavaloko.",
+    "5": "Raha nihodidina tamiko ny onjan' ny fahafatesana, ny riakan' ny olona tsy araka an' Andriamanitra nampahatahotra ahy;",
+    "6": "Ny fanaintainan' ny helo nihodidina tamiko; nisakana ahy ny fandriky ny fahafatesana,",
+    "7": "Fony azom-pahoriana aho, dia niantso an' i Jehovah, sy nitaraina tamin' Andriamanitro. Nihaino tokoa ny feoko tao an-tempoliny Izy, ary ny fitarainako dia efa tonga tokoa teo an-tsofiny.",
+    "8": "Dia nihozongozona sy nihorohoro ny tany, ary ny fiorenan' ny lanitra nihorohoro sy nihozongozona, satria tezitra Jehovah.",
+    "9": "Nisy setroka nisavoana avy teo am-bavorony, ary afo avy teo am-bavany no nandevona, ka nisy vainafo nidedadeda teo aminy.",
+    "10": "Dia naondriny koa ny lanitra, ka nidina Izy; ary haizim-pito no teo ambanin' ny tongony.",
+    "11": "Dia nitaingina kerobima Izy ka nanidina, eny, niseho teo amin' ny ela-drivotra Izy.",
+    "12": "Efa nanao ny maizina ho tranony manodidina Azy Izy, dia fivorian-drano sy rahona matevin' ny lanitra,",
+    "13": "Ary avy teo amin' ny famirapiratana teo anatrehany dia nisy vainafo nidedadeda.",
+    "14": "Dia nampikotroka tany an-danitra Jehovah, ny Avo Indrindra niloa-peo.",
+    "15": "Dia nandefa zana-tsipìka Izy ka nampiely ny fahavaloko, ary nampandeha helatra ka nampifanaritaka azy.",
+    "16": "Dia hita ny fitoeran-dranomasina, ary niseho ny fanambanin' ny tany, noho ny teny mafy nataon' i Jehovah, noho ny fifofofofon' ny fofonain' ny vavorony.",
+    "17": "Naniraka avy tany ambony Izy, nandray ahy Izy; nanintona ahy hiala tamin' ny rano be Izy.",
+    "18": "Nanafaka ahy tamin' ny fahavaloko mahery Izy sy tamin' izay nankahala ahy satria tsy leoko ireny.",
+    "19": "Nisakana ahy tamin' ny andro nahitako loza ireny, nefa Jehovah no niseho ho Mpanohana ahy.",
+    "20": "Dia nitondra ahy koa ho any amin' ny toerana malalaka izy; nanafaka ahy Izy, satria ankasitrahany aho.",
+    "21": "Namaly soa ahy araka ny fahamarinako Jehovah; araka ny fahadiovan' ny tanako no namaliany ahy.",
+    "22": "Fa nitandrina ny lalan' i Jehovah aho ka tsy mba nanao ratsy hialana tamin' Andriamanitro;",
+    "23": "Ny fitsipiny rehetra dia teo anatrehako, ary ny lalàny tsy mba nialako;",
+    "24": "Nahitsy teo anatrehany koa aho, sady niaro tena tsy ho azon' ny heloko.",
+    "25": "Koa namaly ahy araka ny fahamarinako Jehovah, dia araka ny fahadiovako teo imasony.",
+    "26": "Amin' ny olona mamindrafo no hisehoanao ho mpamindrafo; amin' ny olo-mahitsy no hisehoanao ho mahitsy.",
+    "27": "Amin' ny madio no hisehoanao ho madio; ary amin' ny mpanao sain-dalina kosa no hisehoanao fa lalin-tsaina.",
+    "28": "Ary ny olona ory dia hovonjenao; fa ny masonao manandrina ny mpiavonavona, ka aetrinao ireny.",
+    "29": "Fa Ianao no jiroko, Jehovah ô; Jehovah hampahazava ny fahamaizinako.",
+    "30": "Fa Ianao no ahazoako mitsarapaka hamely ny miaramila iray toko; ary Andriamanitro no ahazoako mitsambikina mihoatra ny manda.",
+    "31": "Raha ny amin' Andriamanitra, dia tanteraka ny lalany; ny tenin' i Jehovah dia voazaha toetra; ampingan' izay rehetra matoky azy Izy.",
+    "32": "Fa iza no Andriamanitra afa-tsy Jehovah? Ary Iza no vatolampy afa-tsy Andriamanitsika?",
+    "33": "Andriamanitra no tanjako sy heriko ary Izy no mahatanteraka ny lalako.",
+    "34": "Manao ny tongotro ho tahaka ny an' ny dieravavy izy; mampitoetra ahy eo amin' ny fitoerako avo Izy ;",
+    "35": "Mampianatra ny tanako hiady Izy; ka tapaky ny sandriko ny tsipìka vy.",
+    "36": "Nomenao ahy koa ny ampingan' ny famonjenao; ary ny fahamoram-panahinao no nahalehibe ahy.",
+    "37": "Nohalalahinao ny lalana diaviko, ka tsy mibolasitra ny tongotro.",
+    "38": "Nanenjika ny fahavaloko aho ka nandripaka azy; ary tsy mba niverina aho mandra-pahalany ritrany.",
+    "39": "Nandringana ny fahavaloko aho sady nandripaka azy; ka tsy naharina izy. Eny, lavo eo ambanin' ny tongotro izy.",
+    "40": "Fa nampisikina ahy hery hiady ianao; naripakao ho ambaniko izay nitsangana hamely ahy.",
+    "41": "Nomenao ahy koa ny vozon' ny fahavaloko mba handringanako izay mankahala ahy.",
+    "42": "Miherikerika izy, fa tsy misy mpamonjy, eny, maniry an' i Jehovah izy, fa tsy mamaly azy Izy.",
+    "43": "Torotoroiko madinika tahaka ny vovo-tany izy; hoseko tahaka ny fotaka eny an-dalana izy ka apariakako eny ivelany.",
+    "44": "Nanafaka ahy koa tamin' ny fifanoheran' ny oloko ianao, sy niaro ahy ho lohan' ny jentilisa; ny firenena izay tsy fantatro dia hanompo ahy.",
+    "45": "Hanaiky ahy ny vahiny; raha vantany vao mahare izy, dia hanoa ahy.",
+    "46": "Hihaketraka ny vahiny, ary hivoaka amin-tahotra avy ao amin' ny toerana fiereny izy.",
+    "47": "Velona Jehovah; isaorana anie ny Vatolampiko; asandratra anie Andriamanitry ny vatolampy famonjena ahy,",
+    "48": "Andriamanitra no manao famaliana ho ahy ka mampanaiky ny firenena ahy.",
+    "49": "Dia Ilay mitondra ahy ho afaka amin' ny fahavaloko; eny, manandratra ahy koa Ianao ho ambonin' izay nitsangana hanohitra ahy; nanafaka ahy tamin' ny olon-dozabe Ianao.",
+    "50": "Koa izany no hisaorako Anao, Jehovah ô, eo amin' ny jentilisa, sy hihirako fiderana ho an' ny anaranao.",
+    "51": "Izy no tilikambon' ny famonjena ho an' ny mpanjakany, ary maneho famindrampo amin' ny voahosony, dia Davida sy ny taranany mandrakizay."
+  }
 }

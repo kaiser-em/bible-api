@@ -1,61 +1,20 @@
 {
+  "book": "Isaia",
   "chapter": 58,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ezaho ny fiantsonao, fa aza atao malemy, asandrato ny feonao ho tahaka ny an' ny trompetra, ka ambarao amin' ny oloko ny fahadisoany ary amin' ny taranak' i Jakoba ny fahotany;\""
-    },
-    {
-      "v": 2,
-      "text": "Nefa Izaho mbola tadiaviny ihany isan' andro isan' andro, ary ny hahalala ny lalako no sitrany, tahaka ny firenena efa nanao ny marina ka tsy nahafoy ny fitsipik' Andriamaniny, manontany Ahy ny fitsipiky ny fahamarinana izy, ary faly amin' ny fanatonana an' Andriamanitra."
-    },
-    {
-      "v": 3,
-      "text": "Nahoana izahay no mifady, hoy izy, nefa tsy hitanao? Ary nahoana izahay no mampahory ny fanahinay, nefa tsy ahoanao? Indro fa amin' ny andro fifadianareo aza dia mbola ny tianareo ihany no ataonareo, ary ny mpiasa rehetra ao aminareo dia ampahorianareo."
-    },
-    {
-      "v": 4,
-      "text": "\"Indro, ny hiady sy ny hifanditra no anton' ny ifadianareo ary ny hamely amin' ny totohondrin' ny faharatsiana; izao fifadianareo izao dia tsy handrenesana ny feonareo any amin' ny avo.\""
-    },
-    {
-      "v": 5,
-      "text": "Moa fifadiana toy izany va no ankasitrahako? Dia andro hampahorian' ny olona ny fanahiny? Ny hampiondrika ny lohany tahaka ny zozoro sy ny hamelatra lamba fisaonana rarahan-davenona ho fandriany? Moa izany va no hataonao hoe fifadiana sy andro ankasitrahan' i Jehovah?"
-    },
-    {
-      "v": 6,
-      "text": "\"Tsy izao va no fifadiana izay ankasitrahako; dia ny hamaha ny famatoran' ny faharatsiana sy hanaboraka ny enta-mavesatra sy handefa ny ampahoriana ho afaka ary hanapatapaka ny zioga rehetra?\""
-    },
-    {
-      "v": 7,
-      "text": "Moa tsy ny hizara ny mofonao ho an'ny noana va, sy ny hampiantranoanao ny mahantra manjenjena, ary mba hanafianao izay hitanao mitanjaka, ka tsy hihirimbelona amin' ny nofo iray aminao ianao?"
-    },
-    {
-      "v": 8,
-      "text": "\"Fa raha izany dia hiposaka tahaka ny maraina ny fahazavanao, ary ho tonga faingana ny fahasalamanao; ny fahamarinanao ho loha-lalanao ary ny voninahitr' i Jehovah ho vodi-lalanao.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary dia hiantso ianao, ka hamaly Jehovah, hanandratra ny feonao ianao, ary Izy hanao hoe: Inty Aho. Raha esorinao tsy ho eo aminao ny zioga, ny fanondroan' ny fanondro sy ny fitenenam-poana;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary raha afoinao ho an' ny noana ny fanahinao, ka mahavoky ny fanahy ory ianao, dia hiposaka ao amin' ny maizina ny fahazavanao, ary ny haizim-pitonao ho tahaka ny mitataovovonana;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary Jehovah hitari-dalana anao mandrakariva sady hahavoky ny fanahinao ao amin' ny tany karankaina aza sy hampahatanjaka ny taolanao; dia ho tahaka ny saha vonton-drano ianao sy ho tahaka ny loharano miboiboika izay tsy mety ritra.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary izay taranakao no hanangana ny toerana efa rava ela, ary ny naorina hatry ny fony fahagola no hamboarinao; ary ianao dia hatao hoe: Mpamboatra ny banga, Mpamelon-dalana honenana any.\""
-    },
-    {
-      "v": 13,
-      "text": "Raha miaro ny tongotrao amin' ny sabata ianao ka tsy manao izay tianao amin' ny androko masina, ary manao ny sabata hoe: Fahafinaretana, ary ny masin' i Jehovah ho mendrika hajaina, ka hanome voninahitra Azy, fa tsy mandeha amin' ny lalanao, na manao izay tianao, na miteny ny teninao,"
-    },
-    {
-      "v": 14,
-      "text": "\"Dia hiravoravo amin' i Jehovah ianao, ary hasandratro ao amin' ny toerana avo amin' ny tany ianao, sy hofahanako amin' ny lovan' i Jakoba rainao; fa ny vavan' i Jehovah no efa niteny izany.\""
-    }
-  ]
+  "verses": {
+    "1": "Ezaho ny fiantsonao, fa aza atao malemy, asandrato ny feonao ho tahaka ny an' ny trompetra, ka ambarao amin' ny oloko ny fahadisoany ary amin' ny taranak' i Jakoba ny fahotany;",
+    "2": "Nefa Izaho mbola tadiaviny ihany isan' andro isan' andro, ary ny hahalala ny lalako no sitrany, tahaka ny firenena efa nanao ny marina ka tsy nahafoy ny fitsipik' Andriamaniny, manontany Ahy ny fitsipiky ny fahamarinana izy, ary faly amin' ny fanatonana an' Andriamanitra.",
+    "3": "Nahoana izahay no mifady, hoy izy, nefa tsy hitanao? Ary nahoana izahay no mampahory ny fanahinay, nefa tsy ahoanao? Indro fa amin' ny andro fifadianareo aza dia mbola ny tianareo ihany no ataonareo, ary ny mpiasa rehetra ao aminareo dia ampahorianareo.",
+    "4": "Indro, ny hiady sy ny hifanditra no anton' ny ifadianareo ary ny hamely amin' ny totohondrin' ny faharatsiana; izao fifadianareo izao dia tsy handrenesana ny feonareo any amin' ny avo.",
+    "5": "Moa fifadiana toy izany va no ankasitrahako? Dia andro hampahorian' ny olona ny fanahiny? Ny hampiondrika ny lohany tahaka ny zozoro sy ny hamelatra lamba fisaonana rarahan-davenona ho fandriany? Moa izany va no hataonao hoe fifadiana sy andro ankasitrahan' i Jehovah?",
+    "6": "Tsy izao va no fifadiana izay ankasitrahako; dia ny hamaha ny famatoran' ny faharatsiana sy hanaboraka ny enta-mavesatra sy handefa ny ampahoriana ho afaka ary hanapatapaka ny zioga rehetra?",
+    "7": "Moa tsy ny hizara ny mofonao ho an'ny noana va, sy ny hampiantranoanao ny mahantra manjenjena, ary mba hanafianao izay hitanao mitanjaka, ka tsy hihirimbelona amin' ny nofo iray aminao ianao?",
+    "8": "Fa raha izany dia hiposaka tahaka ny maraina ny fahazavanao, ary ho tonga faingana ny fahasalamanao; ny fahamarinanao ho loha-lalanao ary ny voninahitr' i Jehovah ho vodi-lalanao.",
+    "9": "Ary dia hiantso ianao, ka hamaly Jehovah, hanandratra ny feonao ianao, ary Izy hanao hoe: Inty Aho. Raha esorinao tsy ho eo aminao ny zioga, ny fanondroan' ny fanondro sy ny fitenenam-poana;",
+    "10": "Ary raha afoinao ho an' ny noana ny fanahinao, ka mahavoky ny fanahy ory ianao, dia hiposaka ao amin' ny maizina ny fahazavanao, ary ny haizim-pitonao ho tahaka ny mitataovovonana;",
+    "11": "Ary Jehovah hitari-dalana anao mandrakariva sady hahavoky ny fanahinao ao amin' ny tany karankaina aza sy hampahatanjaka ny taolanao; dia ho tahaka ny saha vonton-drano ianao sy ho tahaka ny loharano miboiboika izay tsy mety ritra.",
+    "12": "Ary izay taranakao no hanangana ny toerana efa rava ela, ary ny naorina hatry ny fony fahagola no hamboarinao; ary ianao dia hatao hoe: Mpamboatra ny banga, Mpamelon-dalana honenana any.",
+    "13": "Raha miaro ny tongotrao amin' ny sabata ianao ka tsy manao izay tianao amin' ny androko masina, ary manao ny sabata hoe: Fahafinaretana, ary ny masin' i Jehovah ho mendrika hajaina, ka hanome voninahitra Azy, fa tsy mandeha amin' ny lalanao, na manao izay tianao, na miteny ny teninao,",
+    "14": "Dia hiravoravo amin' i Jehovah ianao, ary hasandratro ao amin' ny toerana avo amin' ny tany ianao, sy hofahanako amin' ny lovan' i Jakoba rainao; fa ny vavan' i Jehovah no efa niteny izany."
+  }
 }

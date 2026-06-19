@@ -1,145 +1,41 @@
 {
+  "book": "Joba",
   "chapter": 15,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia namaly Elifaza Temanita ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Tokony handahatra hevi-dravina va ny olon-kendry, ka hameno ny kibony amin' ny rivotra avy any atsinanana?"
-    },
-    {
-      "v": 3,
-      "text": "Tokony handahatra amin' ny teny tsy mahasoa va izy, na amin' ny teny tsy mahatsara?"
-    },
-    {
-      "v": 4,
-      "text": "Eny, foananao ny fahatahorana ary sakananao ny fivavahana eo anatrehan' Andriamanitra."
-    },
-    {
-      "v": 5,
-      "text": "Fa ny vavanao manonona ny helokao ary mifidy ny lelan' ny fetsy ianao."
-    },
-    {
-      "v": 6,
-      "text": "\"Ny vavanao ihany no manameloka anao fa tsy izaho; eny, ny molotrao ihany no mamely anao.\""
-    },
-    {
-      "v": 7,
-      "text": "Ianao va no voalohany izay nateraka ho olombelona? Na natao talohan' ny havoana va ianao?"
-    },
-    {
-      "v": 8,
-      "text": "Nandre ny zava-miafin' Andriamanitra va ianao ka voarombakao ho anao irery ny fahendrena?"
-    },
-    {
-      "v": 9,
-      "text": "Inona no fantatrao, ka tsy mba fantatray koa, na saina azonao, ka tsy mba azonay koa?"
-    },
-    {
-      "v": 10,
-      "text": "Ny anti-panahy sy ny fotsivolo dia misy ato aminay, eny, olona ela niainana noho ny rainao aza."
-    },
-    {
-      "v": 11,
-      "text": "Ataonao ho tsinontsinona va ny fampiononana avy amin' Andriamanitra? Moa misy zava-miafina va aminao?"
-    },
-    {
-      "v": 12,
-      "text": "Nahoana no dia entin' ny fonao ianao? Ary nahoana no mipipika foana ny masonao?"
-    },
-    {
-      "v": 13,
-      "text": "Ka miodina amin' Andriamanitra ny fanahinao, sady mamoaka teny toa izany amin' ny vavanao ianao?"
-    },
-    {
-      "v": 14,
-      "text": "Inona ny zanak' olombelona no mba hadio izy? Ary izay tera-behivavy no mba ho marina izy?"
-    },
-    {
-      "v": 15,
-      "text": "\"Indro, ireo masiny aza tsy itokiany, ary ny lanitra aza tsy madio eo imasony;\""
-    },
-    {
-      "v": 16,
-      "text": "Koa mainka fa izay vetaveta sy tena ratsy, dia ny olona izay misotro heloka toa rano!"
-    },
-    {
-      "v": 17,
-      "text": "\"Hanambara aminao aho, ka mihainoa ahy; fa izay efa hitako no holazaiko,\""
-    },
-    {
-      "v": 18,
-      "text": "\"Dia zavatra notorian' ny olon-kendry, fa tsy nafeniny, dia izay azony avy tamin' ny razany;\""
-    },
-    {
-      "v": 19,
-      "text": "Ireny ihany no nomena ny tany, ary tsy nisy olona hafa firenena nisisika teo aminy."
-    },
-    {
-      "v": 20,
-      "text": "Ny ratsy fanahy mijalijaly amin' ny androny rehetra, ary voafina amin' ny lozabe ny isan' ny taona."
-    },
-    {
-      "v": 21,
-      "text": "\"Feo mampitahotra no ren' ny sofiny; ao anatin' ny fanambinana no ho avy hamely azy ny mpandringana.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Tsy manantena ho afaka amin' ny maizina izy; andrasan' ny sabatra izy.\""
-    },
-    {
-      "v": 23,
-      "text": "Mirenireny hitady izay hohaniny izy ka manao hoe: Aiza re? Fantany fa antomotra azy ny andro maizina."
-    },
-    {
-      "v": 24,
-      "text": "\"Fahoriana sy ahiahy no hampahatahotra azy; handresy azy tahaka ny mpanjaka efa vonona ho amin' ny ady ireo.\""
-    },
-    {
-      "v": 25,
-      "text": "Satria maninjitra ny tanany hanohitra an' Andriamanitra izy, ary mirehareha manohitra ny Tsitoha."
-    },
-    {
-      "v": 26,
-      "text": "Mimaona hamely azy eo amin' ny hatony Izy, dia eo amin' ny foitran' ampingany matevina,"
-    },
-    {
-      "v": 27,
-      "text": "\"Satria efa matavitavy tarehy izy, ary mivalon-kotraka ny valahany;\""
-    },
-    {
-      "v": 28,
-      "text": "Ary monina ao an-tanàna rava izy, dia ao an-trano tokony tsy hitoeran' olona, izay efa voatendry ho korontam-bato."
-    },
-    {
-      "v": 29,
-      "text": "Tsy hanankarena izy, sady tsy haharitra ny fananany, ary tsy hitatra ny fahatsarany ambonin' ny tany."
-    },
-    {
-      "v": 30,
-      "text": "\"Tsy ho afaka amin' ny maizina izy; ny solofony hikainkona amin' ny lelafo; ho levon' ny fofonain' Andriamanitra Izy.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Aoka izay voafitaka tsy hatoky zava-poana; fa zava-poana no ho valiny homena azy.\""
-    },
-    {
-      "v": 32,
-      "text": "Ho tanteraka alohan' ny fotoany izany, ary tsy ho maitso ny sampany."
-    },
-    {
-      "v": 33,
-      "text": "Ho tahaka ny voaloboka manintsana ny voany manta izy ary ho tahaka ny hazo oliva mampiraraka ny voniny."
-    },
-    {
-      "v": 34,
-      "text": "Fa ho foana ny fiangonan' ny mpihatsaravelatsihy ary ho lanin' ny afo ny lain' ny tia kolikoly."
-    },
-    {
-      "v": 35,
-      "text": "Torontoronina fampahoriana izy ka miteraka zava-poana, ary ny kibony mamorom-pitaka."
-    }
-  ]
+  "verses": {
+    "1": "Dia namaly Elifaza Temanita ka nanao hoe:",
+    "2": "Tokony handahatra hevi-dravina va ny olon-kendry, ka hameno ny kibony amin' ny rivotra avy any atsinanana?",
+    "3": "Tokony handahatra amin' ny teny tsy mahasoa va izy, na amin' ny teny tsy mahatsara?",
+    "4": "Eny, foananao ny fahatahorana ary sakananao ny fivavahana eo anatrehan' Andriamanitra.",
+    "5": "Fa ny vavanao manonona ny helokao ary mifidy ny lelan' ny fetsy ianao.",
+    "6": "Ny vavanao ihany no manameloka anao fa tsy izaho; eny, ny molotrao ihany no mamely anao.",
+    "7": "Ianao va no voalohany izay nateraka ho olombelona? Na natao talohan' ny havoana va ianao?",
+    "8": "Nandre ny zava-miafin' Andriamanitra va ianao ka voarombakao ho anao irery ny fahendrena?",
+    "9": "Inona no fantatrao, ka tsy mba fantatray koa, na saina azonao, ka tsy mba azonay koa?",
+    "10": "Ny anti-panahy sy ny fotsivolo dia misy ato aminay, eny, olona ela niainana noho ny rainao aza.",
+    "11": "Ataonao ho tsinontsinona va ny fampiononana avy amin' Andriamanitra? Moa misy zava-miafina va aminao?",
+    "12": "Nahoana no dia entin' ny fonao ianao? Ary nahoana no mipipika foana ny masonao?",
+    "13": "Ka miodina amin' Andriamanitra ny fanahinao, sady mamoaka teny toa izany amin' ny vavanao ianao?",
+    "14": "Inona ny zanak' olombelona no mba hadio izy? Ary izay tera-behivavy no mba ho marina izy?",
+    "15": "Indro, ireo masiny aza tsy itokiany, ary ny lanitra aza tsy madio eo imasony;",
+    "16": "Koa mainka fa izay vetaveta sy tena ratsy, dia ny olona izay misotro heloka toa rano!",
+    "17": "Hanambara aminao aho, ka mihainoa ahy; fa izay efa hitako no holazaiko,",
+    "18": "Dia zavatra notorian' ny olon-kendry, fa tsy nafeniny, dia izay azony avy tamin' ny razany;",
+    "19": "Ireny ihany no nomena ny tany, ary tsy nisy olona hafa firenena nisisika teo aminy.",
+    "20": "Ny ratsy fanahy mijalijaly amin' ny androny rehetra, ary voafina amin' ny lozabe ny isan' ny taona.",
+    "21": "Feo mampitahotra no ren' ny sofiny; ao anatin' ny fanambinana no ho avy hamely azy ny mpandringana.",
+    "22": "Tsy manantena ho afaka amin' ny maizina izy; andrasan' ny sabatra izy.",
+    "23": "Mirenireny hitady izay hohaniny izy ka manao hoe: Aiza re? Fantany fa antomotra azy ny andro maizina.",
+    "24": "Fahoriana sy ahiahy no hampahatahotra azy; handresy azy tahaka ny mpanjaka efa vonona ho amin' ny ady ireo.",
+    "25": "Satria maninjitra ny tanany hanohitra an' Andriamanitra izy, ary mirehareha manohitra ny Tsitoha.",
+    "26": "Mimaona hamely azy eo amin' ny hatony Izy, dia eo amin' ny foitran' ampingany matevina,",
+    "27": "Satria efa matavitavy tarehy izy, ary mivalon-kotraka ny valahany;",
+    "28": "Ary monina ao an-tanàna rava izy, dia ao an-trano tokony tsy hitoeran' olona, izay efa voatendry ho korontam-bato.",
+    "29": "Tsy hanankarena izy, sady tsy haharitra ny fananany, ary tsy hitatra ny fahatsarany ambonin' ny tany.",
+    "30": "Tsy ho afaka amin' ny maizina izy; ny solofony hikainkona amin' ny lelafo; ho levon' ny fofonain' Andriamanitra Izy.",
+    "31": "Aoka izay voafitaka tsy hatoky zava-poana; fa zava-poana no ho valiny homena azy.",
+    "32": "Ho tanteraka alohan' ny fotoany izany, ary tsy ho maitso ny sampany.",
+    "33": "Ho tahaka ny voaloboka manintsana ny voany manta izy ary ho tahaka ny hazo oliva mampiraraka ny voniny.",
+    "34": "Fa ho foana ny fiangonan' ny mpihatsaravelatsihy ary ho lanin' ny afo ny lain' ny tia kolikoly.",
+    "35": "Torontoronina fampahoriana izy ka miteraka zava-poana, ary ny kibony mamorom-pitaka."
+  }
 }

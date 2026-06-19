@@ -1,89 +1,27 @@
 {
+  "book": "Ezekiela",
   "chapter": 26,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izao no niseho, tamin' ny andro voalohany amin' ny volana tamin' ny taona fahiraika ambin' ny folo dia tonga tamiko ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Ry zanak' olona, noho ny nandatsan' i Tyro an' i Jerosalema hoe: hia! sakoa izay! rava ilay vavahadin' ny firenena! Mba hifindra amiko kosa izao, ka ho feno aho, fa izy kosa ho foana,"
-    },
-    {
-      "v": 3,
-      "text": "Dia izao no lazain' i Jehovah Andriamanitra: indro, hamely anao Aho, ry Tyro, ka hampiakatra ny firenena maro hiady aminao, tahaka ny fampiakatry ny ranomasina ny onjany."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary horavan' ireo ny mandan' i Tyro, sady harodany ny tilikambony; dia hofafako hiala aminy koa ny vovo-taniny ka hataoko tahaka ny vatolampy mangadihady izy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ho famelarana harato eo amin' ny ranomasina izy; fa Izaho no niteny izany, hoy Jehovah Andriamanitra, ka dia ho babon' ny firenena izy.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary ny zanany vavy eny an-tsaha dia hovonoina amin' ny sabatra; ka dia ho fantany fa Izaho no Jehovah.\""
-    },
-    {
-      "v": 7,
-      "text": "Fa izao no lazain' i Jehovah Andriamanitra: indro, hoentiko avy any avaratra ho any Tyro Nebokadnezara, mpanjakan' i Babylona, mpanjakan' ny mpanjaka, mitondra soavaly sy kalesy sy mpitaingin-tsoavaly sy antokony maro ary vahoaka betsaka."
-    },
-    {
-      "v": 8,
-      "text": "\"Ny zanakao vavy any an-tsaha dia hovonoiny amin' ny sabatra; ary hanandratra tilikambo sy tovon-tany hamelezana anao izy sady hanangana ampinga lehibe hamelezana anao.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary hametraka fitaovam-piadiana eo akaikin' ny mandanao izy sady horavany amin' ny famakiny ny tilikambonao."
-    },
-    {
-      "v": 10,
-      "text": "\"Ho feno ny vovo-taniny ianao noho ny habetsahan' ny soavaliny; hihorohoro ny mandanao noho ny fikorodondrodon' ny mpitaingin-tsoavaly sy ny kodia sy ny kalesy, raha hiditra eo amin' ny vavahadinao tahaka ny olona miditra amin' ny tanàna izay voabanga izy.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ny kitron-tsoavaliny no hanitsakitsahany ny lalambenao rehetra; ny olonao dia hovonoiny amin' ny sabatra ary ny tanànanao misy miaramila mahery mpiandry dia hianjera amin' ny tany.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Hobaboiny ny harenao, horobainy ny rantonao, harodany ny mandanao, horavany ny tranonao mahafinaritra; ary ny vatonao sy ny hazonao sy ny vovokao dia hataony any amin' ny rano.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary hatsahatro ny tabataban' ny hiranao sady tsy ho re intsony ny fanenon' ny harpanao."
-    },
-    {
-      "v": 14,
-      "text": "\"Dia hataoko toy ny tampon' ny vatolampy ianao ka ho famelarana harato sady tsy haorina intsony; fa Izaho Jehovah no niteny izany, hoy Jehovah Andriamanitra.\""
-    },
-    {
-      "v": 15,
-      "text": "Izao no lazain' i Jehovah Tompo amin' i Tyro: tsy hihorohoro va ny nosy noho ny fikotrokotroky ny firodananao, raha mitrona ny maratra, raha misy famonoana eo afovoanao?"
-    },
-    {
-      "v": 16,
-      "text": "\"Dia hidina hiala amin' ny sezafiandrianany ireo andrianan' ny ranomasina rehetra ka hiala akanjo sy hanaisotra ny fitafiany misoratsoratra; hovitra no hitafiany ka hipetraka amin' ny tany izy; ary hangovitra isaky ny indray mipì-maso izy ka ho gaga anao.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary hanao hira fahalahelovana ny aminao izy ka hanao aminao hoe; Indrisy! rava ianao, ry ilay nonenan' ny avy any an-dranomasina! Dia ilay tanàna malaza izay nahery teo amin' ny ranomasina, dia izy mbamin' ny mponina ao izay nampahatahotra ny mponina rehetra eo aminy!\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ankehitriny dia ho raiki-tahotra ny nosy amin' ny andro hianjeranao; eny, ho toran-kovitra ny nosy any an-dranomasina noho ny faharavanao.\""
-    },
-    {
-      "v": 19,
-      "text": "Fa izao no lazain' i Jehovah Andriamanitra: raha hataoko tanàna lao tahaka ireo tanàna aolo ianao ary hampiakariko aminao ny rano lalina ka hosaronan' ny rano be ianao,"
-    },
-    {
-      "v": 20,
-      "text": "\"Raha hampidiniko hiaraka amin' izay mivarina any an-davaka ianao, hankany amin' ny olona fahiny ka hamponeniko any ambanin' ny fanambanin' ny tany ianao, dia any amin' ny fonenana efa lao hatramin' ny ela, hiaraka amin' izay mivarina any an-davaka, mba tsy honenana intsony; ary hasiako voninahitra eo amin' ny tanin' ny velona,\""
-    },
-    {
-      "v": 21,
-      "text": "\"Dia hataoko fampitahorana ianao, ka tsy ho eo intsony; eny, na dia hotadiaviana aza ianao, dia tsy ho hita intsony mandrakizay, hoy Jehovah Andriamanitra.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no niseho, tamin' ny andro voalohany amin' ny volana tamin' ny taona fahiraika ambin' ny folo dia tonga tamiko ny tenin' i Jehovah nanao hoe:",
+    "2": "Ry zanak' olona, noho ny nandatsan' i Tyro an' i Jerosalema hoe: hia! sakoa izay! rava ilay vavahadin' ny firenena! Mba hifindra amiko kosa izao, ka ho feno aho, fa izy kosa ho foana,",
+    "3": "Dia izao no lazain' i Jehovah Andriamanitra: indro, hamely anao Aho, ry Tyro, ka hampiakatra ny firenena maro hiady aminao, tahaka ny fampiakatry ny ranomasina ny onjany.",
+    "4": "Ary horavan' ireo ny mandan' i Tyro, sady harodany ny tilikambony; dia hofafako hiala aminy koa ny vovo-taniny ka hataoko tahaka ny vatolampy mangadihady izy.",
+    "5": "Ho famelarana harato eo amin' ny ranomasina izy; fa Izaho no niteny izany, hoy Jehovah Andriamanitra, ka dia ho babon' ny firenena izy.",
+    "6": "Ary ny zanany vavy eny an-tsaha dia hovonoina amin' ny sabatra; ka dia ho fantany fa Izaho no Jehovah.",
+    "7": "Fa izao no lazain' i Jehovah Andriamanitra: indro, hoentiko avy any avaratra ho any Tyro Nebokadnezara, mpanjakan' i Babylona, mpanjakan' ny mpanjaka, mitondra soavaly sy kalesy sy mpitaingin-tsoavaly sy antokony maro ary vahoaka betsaka.",
+    "8": "Ny zanakao vavy any an-tsaha dia hovonoiny amin' ny sabatra; ary hanandratra tilikambo sy tovon-tany hamelezana anao izy sady hanangana ampinga lehibe hamelezana anao.",
+    "9": "Ary hametraka fitaovam-piadiana eo akaikin' ny mandanao izy sady horavany amin' ny famakiny ny tilikambonao.",
+    "10": "Ho feno ny vovo-taniny ianao noho ny habetsahan' ny soavaliny; hihorohoro ny mandanao noho ny fikorodondrodon' ny mpitaingin-tsoavaly sy ny kodia sy ny kalesy, raha hiditra eo amin' ny vavahadinao tahaka ny olona miditra amin' ny tanàna izay voabanga izy.",
+    "11": "Ny kitron-tsoavaliny no hanitsakitsahany ny lalambenao rehetra; ny olonao dia hovonoiny amin' ny sabatra ary ny tanànanao misy miaramila mahery mpiandry dia hianjera amin' ny tany.",
+    "12": "Hobaboiny ny harenao, horobainy ny rantonao, harodany ny mandanao, horavany ny tranonao mahafinaritra; ary ny vatonao sy ny hazonao sy ny vovokao dia hataony any amin' ny rano.",
+    "13": "Ary hatsahatro ny tabataban' ny hiranao sady tsy ho re intsony ny fanenon' ny harpanao.",
+    "14": "Dia hataoko toy ny tampon' ny vatolampy ianao ka ho famelarana harato sady tsy haorina intsony; fa Izaho Jehovah no niteny izany, hoy Jehovah Andriamanitra.",
+    "15": "Izao no lazain' i Jehovah Tompo amin' i Tyro: tsy hihorohoro va ny nosy noho ny fikotrokotroky ny firodananao, raha mitrona ny maratra, raha misy famonoana eo afovoanao?",
+    "16": "Dia hidina hiala amin' ny sezafiandrianany ireo andrianan' ny ranomasina rehetra ka hiala akanjo sy hanaisotra ny fitafiany misoratsoratra; hovitra no hitafiany ka hipetraka amin' ny tany izy; ary hangovitra isaky ny indray mipì-maso izy ka ho gaga anao.",
+    "17": "Ary hanao hira fahalahelovana ny aminao izy ka hanao aminao hoe; Indrisy! rava ianao, ry ilay nonenan' ny avy any an-dranomasina! Dia ilay tanàna malaza izay nahery teo amin' ny ranomasina, dia izy mbamin' ny mponina ao izay nampahatahotra ny mponina rehetra eo aminy!",
+    "18": "Ankehitriny dia ho raiki-tahotra ny nosy amin' ny andro hianjeranao; eny, ho toran-kovitra ny nosy any an-dranomasina noho ny faharavanao.",
+    "19": "Fa izao no lazain' i Jehovah Andriamanitra: raha hataoko tanàna lao tahaka ireo tanàna aolo ianao ary hampiakariko aminao ny rano lalina ka hosaronan' ny rano be ianao,",
+    "20": "Raha hampidiniko hiaraka amin' izay mivarina any an-davaka ianao, hankany amin' ny olona fahiny ka hamponeniko any ambanin' ny fanambanin' ny tany ianao, dia any amin' ny fonenana efa lao hatramin' ny ela, hiaraka amin' izay mivarina any an-davaka, mba tsy honenana intsony; ary hasiako voninahitra eo amin' ny tanin' ny velona,",
+    "21": "Dia hataoko fampitahorana ianao, ka tsy ho eo intsony; eny, na dia hotadiaviana aza ianao, dia tsy ho hita intsony mandrakizay, hoy Jehovah Andriamanitra."
+  }
 }

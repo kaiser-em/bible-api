@@ -1,141 +1,40 @@
 {
+  "book": "1 Tantara",
   "chapter": 27,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary ny amin' ny Zanak' Isiraely araka ny isany, dia ny lohan' ny fianakaviany sy ny mpifehy arivo sy mpifehy zato ary ny mpifehy azy, izay nanompo ny mpanjaka tamin' izay raharahany rehetra isan-tokony, izay nifandimby isam-bolana mandritra ny herintaona, dia efatra arivo amby roa alina avy no isan' ny isan-tokony."
-    },
-    {
-      "v": 2,
-      "text": "\"Ny nifehy ny antokony voalohany, ho amin' ny volana voalohany, dia Jasobeama, zanak' i Zabdiela, ary ny antokony dia efatra arivo amby roa alina;\""
-    },
-    {
-      "v": 3,
-      "text": "Isan' ny taranak' i Fareza izy sady lohan' ny mpifehy rehetra tamin' ny miaramila amin' ny volana voalohany."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary ny nifehy ny antokony ho amin' ny volana faharoa dia Dodo Ahohita; Miklota andriandahy koa no isan' ny antokony; ary ny antokon' ny Ahohita dia efatra arivo amby roa alina.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ny komandin' ny antokony fahatelo tamin' ny miaramila, ho amin' ny volana fahatelo, dia Benaia lohany, zanak' i Joiada lohan' ny mpisorona; ary ny antokony dia efatra arivo amby roa alina.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Io no ilay Benaia, izay nahery sady ambony tamin' izy telopolo lahy; Amizabada zanany no isan' ny antokony.\""
-    },
-    {
-      "v": 7,
-      "text": "Ny komandy fahefatra ho amin' ny volana fahefatra, dia Asahela, rahalahin' i Joaba, ary Zebadia zanany no nanarakaraka azy, ary ny antokony dia efatra arivo amby roa alina."
-    },
-    {
-      "v": 8,
-      "text": "\"Ny komandy fahadimy ho amin' ny volana fahadimy, dia Samihota Jizarita; ary ny antokony dia efatra arivo amby roa alina.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ny komandy fahenina ho amin' ny volana fahenina, dia Ira, zanak' Ikesy Tekoita; ary ny antokony dia efatra arivo amby roa alina.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ny komandy fahafito ho amin' ny volana fahafito, dia Heleza Pelonita, isan' ny taranak' i Efraima; ary ny antokony dia efatra arivo amby roa alina.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ny komandy fahavalo ho amin' ny volana fahavalo, dia Sibekay Hosatita, isan' ny Zerita; ary ny antokony dia efatra arivo amby roa alina.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ny komandy fahasivy ho amin' ny volana fahasivy dia Abiezera Anatotita isan' ny Benjamita; ary ny antokony dia efatra arivo amby roa alina.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ny komandy fahafolo ho amin' ny volana fahafolo dia Maharay Netofatita, isan' ny Zerita; ary ny antokony dia efatra arivo amby roa alina.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ny komandy fahiraika ambin' ny folo ho amin' ny volana fahiraika ambin' ny folo dia Benaia Piratonita, isan' ny taranak' i Efraima; ary ny antokony dia efatra arivo amby roa alina.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ny komandy faharoa ambin' ny folo ho amin' ny volana faharoa ambin' ny folo dia Helday Netofatita, isan' ny taranak' i Otniela; ary ny antokony dia efatra arivo amby roa alina.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ankoatr' ireo fokon' ny Isiraely: Ny mpanapaka ny Robenita dia Eliezera, zanakalahin' i Zikry; tamin' ny Simeonita dia Sefatia, zanakalahin' i Maka;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Tamin' ny Levita dia Hasabia, zanakalahin' i Kemoela; tamin' ny Aronita dia Zadoka;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Tamin' ny Joda dia Eliho, izay isan' ny rahalahin' i Davida; tamin' ny Isakara dia Omry, zanakalahin' i Mikaela;\""
-    },
-    {
-      "v": 19,
-      "text": "\"Tamin' ny Zebolona dia Jismaia, zanakalahin' i Obadia; tamin' ny Naftaly dia Jerimota, zanakalahin' i Azriela;\""
-    },
-    {
-      "v": 20,
-      "text": "\"Tamin' ny taranak' i Efraima dia Hosea, zanakalahin' i Azazia; tamin' ny antsasaky ny fokon' i Manase dia Joela, zanakalahin' i Pedaia;\""
-    },
-    {
-      "v": 21,
-      "text": "\"Tamin' ny antsasaky ny fokon' i Manase tao Gileada, dia Ido, zanakalahin' i Zakaria; tamin' ny Benjamina dia Jasiela, zanakalahin' i Abnera.\""
-    },
-    {
-      "v": 22,
-      "text": "Tamin' ny Dana dia Azarela, zanakalahin' i Jerohama. Ireo no lohan' ireo fokon' ny Isiraely."
-    },
-    {
-      "v": 23,
-      "text": "\"Nefa tsy nanisa ny roapolo taona no ho midina Davida; fa Jehovah efa nilaza fa hampitombo ny Isiraely ho tahaka ny kintana eny amin' ny lanitra Izy.\""
-    },
-    {
-      "v": 24,
-      "text": "Joaba, zanak' i Zeroia, nanomboka nanisa, fa tsy nahefa, satria nisy fahatezerana nihatra tamin' ny Isiraely tamin' izany, ka dia tsy voasoratra ao amin' ny bokin' ny tantaran' i Davida mpanjaka ny isany."
-    },
-    {
-      "v": 25,
-      "text": "\"Ary ny tonian' ny rakitry ny mpanjaka dia Azmaveta, zanak' i Adiela; ary ny tonian' ny trano firaketana tany an-tsaha, tany amin' ny tanàna sy tany ambanivohitra ary tany amin' ny lapa, dia Jonatana, zanak' i Ozia;\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ary ny mpifehy ny mpiasa tany an-tsaha hiasa ny tany dia Ezry, zanak' i Keloba;\""
-    },
-    {
-      "v": 27,
-      "text": "\"Ary ny tonian' ny tanimboaloboka dia Simey Ramatita; ary ny tonian' ny divay tahirizina any amin' ny tanimboaloboka dia Zebdy Sifmita;\""
-    },
-    {
-      "v": 28,
-      "text": "\"Ary ny tonian' ny hazo oliva sy ny amontana eny amin' ny tany lemaka dia Bala-hanana Gaderita; ary ny tonian' ny toerana fitahirizana diloilo dia Joasy;\""
-    },
-    {
-      "v": 29,
-      "text": "\"Ary ny tonian' ny omby nandrasana tany Sarôna dia Sitray Sarônita; ary ny tonian' ny omby tany an-dohasaha dia Safata, zanak' i Adlay;\""
-    },
-    {
-      "v": 30,
-      "text": "\"Ary ny tonian' ny rameva koa dia Obila Ismaelita; ary ny tonian' ny borikivavy dia Jedeia Meronotita;\""
-    },
-    {
-      "v": 31,
-      "text": "Ary ny tonian' ny ondry aman' osy dia Jaziza Hagarita. Ireo rehetra ireo no tonian' ny fananan' i Davida mpanjaka."
-    },
-    {
-      "v": 32,
-      "text": "\"Ary Jonatana koa, rahalahin-drain' i Davida, dia mpanolo-tsaina, lehilahy hendry sy mpanoratra izy; ary Jehiela, zanak' i Hakmony dia teo amin' ny zanaky ny mpanjaka;\""
-    },
-    {
-      "v": 33,
-      "text": "\"Ary Ahitofela no mpanolo-tsaina ny mpanjaka; ary Hosay Arkita no sakaizan' ny mpanjaka;\""
-    },
-    {
-      "v": 34,
-      "text": "\"Ary manarakaraka an' i Ahitofela dia Joiada, zanak' i Benaia sy Abiatara; ary ny komandin' ny miaramilan' ny mpanjaka dia Joaba.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary ny amin' ny Zanak' Isiraely araka ny isany, dia ny lohan' ny fianakaviany sy ny mpifehy arivo sy mpifehy zato ary ny mpifehy azy, izay nanompo ny mpanjaka tamin' izay raharahany rehetra isan-tokony, izay nifandimby isam-bolana mandritra ny herintaona, dia efatra arivo amby roa alina avy no isan' ny isan-tokony.",
+    "2": "Ny nifehy ny antokony voalohany, ho amin' ny volana voalohany, dia Jasobeama, zanak' i Zabdiela, ary ny antokony dia efatra arivo amby roa alina;",
+    "3": "Isan' ny taranak' i Fareza izy sady lohan' ny mpifehy rehetra tamin' ny miaramila amin' ny volana voalohany.",
+    "4": "Ary ny nifehy ny antokony ho amin' ny volana faharoa dia Dodo Ahohita; Miklota andriandahy koa no isan' ny antokony; ary ny antokon' ny Ahohita dia efatra arivo amby roa alina.",
+    "5": "Ny komandin' ny antokony fahatelo tamin' ny miaramila, ho amin' ny volana fahatelo, dia Benaia lohany, zanak' i Joiada lohan' ny mpisorona; ary ny antokony dia efatra arivo amby roa alina.",
+    "6": "Io no ilay Benaia, izay nahery sady ambony tamin' izy telopolo lahy; Amizabada zanany no isan' ny antokony.",
+    "7": "Ny komandy fahefatra ho amin' ny volana fahefatra, dia Asahela, rahalahin' i Joaba, ary Zebadia zanany no nanarakaraka azy, ary ny antokony dia efatra arivo amby roa alina.",
+    "8": "Ny komandy fahadimy ho amin' ny volana fahadimy, dia Samihota Jizarita; ary ny antokony dia efatra arivo amby roa alina.",
+    "9": "Ny komandy fahenina ho amin' ny volana fahenina, dia Ira, zanak' Ikesy Tekoita; ary ny antokony dia efatra arivo amby roa alina.",
+    "10": "Ny komandy fahafito ho amin' ny volana fahafito, dia Heleza Pelonita, isan' ny taranak' i Efraima; ary ny antokony dia efatra arivo amby roa alina.",
+    "11": "Ny komandy fahavalo ho amin' ny volana fahavalo, dia Sibekay Hosatita, isan' ny Zerita; ary ny antokony dia efatra arivo amby roa alina.",
+    "12": "Ny komandy fahasivy ho amin' ny volana fahasivy dia Abiezera Anatotita isan' ny Benjamita; ary ny antokony dia efatra arivo amby roa alina.",
+    "13": "Ny komandy fahafolo ho amin' ny volana fahafolo dia Maharay Netofatita, isan' ny Zerita; ary ny antokony dia efatra arivo amby roa alina.",
+    "14": "Ny komandy fahiraika ambin' ny folo ho amin' ny volana fahiraika ambin' ny folo dia Benaia Piratonita, isan' ny taranak' i Efraima; ary ny antokony dia efatra arivo amby roa alina.",
+    "15": "Ny komandy faharoa ambin' ny folo ho amin' ny volana faharoa ambin' ny folo dia Helday Netofatita, isan' ny taranak' i Otniela; ary ny antokony dia efatra arivo amby roa alina.",
+    "16": "Ankoatr' ireo fokon' ny Isiraely: Ny mpanapaka ny Robenita dia Eliezera, zanakalahin' i Zikry; tamin' ny Simeonita dia Sefatia, zanakalahin' i Maka;",
+    "17": "Tamin' ny Levita dia Hasabia, zanakalahin' i Kemoela; tamin' ny Aronita dia Zadoka;",
+    "18": "Tamin' ny Joda dia Eliho, izay isan' ny rahalahin' i Davida; tamin' ny Isakara dia Omry, zanakalahin' i Mikaela;",
+    "19": "Tamin' ny Zebolona dia Jismaia, zanakalahin' i Obadia; tamin' ny Naftaly dia Jerimota, zanakalahin' i Azriela;",
+    "20": "Tamin' ny taranak' i Efraima dia Hosea, zanakalahin' i Azazia; tamin' ny antsasaky ny fokon' i Manase dia Joela, zanakalahin' i Pedaia;",
+    "21": "Tamin' ny antsasaky ny fokon' i Manase tao Gileada, dia Ido, zanakalahin' i Zakaria; tamin' ny Benjamina dia Jasiela, zanakalahin' i Abnera.",
+    "22": "Tamin' ny Dana dia Azarela, zanakalahin' i Jerohama. Ireo no lohan' ireo fokon' ny Isiraely.",
+    "23": "Nefa tsy nanisa ny roapolo taona no ho midina Davida; fa Jehovah efa nilaza fa hampitombo ny Isiraely ho tahaka ny kintana eny amin' ny lanitra Izy.",
+    "24": "Joaba, zanak' i Zeroia, nanomboka nanisa, fa tsy nahefa, satria nisy fahatezerana nihatra tamin' ny Isiraely tamin' izany, ka dia tsy voasoratra ao amin' ny bokin' ny tantaran' i Davida mpanjaka ny isany.",
+    "25": "Ary ny tonian' ny rakitry ny mpanjaka dia Azmaveta, zanak' i Adiela; ary ny tonian' ny trano firaketana tany an-tsaha, tany amin' ny tanàna sy tany ambanivohitra ary tany amin' ny lapa, dia Jonatana, zanak' i Ozia;",
+    "26": "Ary ny mpifehy ny mpiasa tany an-tsaha hiasa ny tany dia Ezry, zanak' i Keloba;",
+    "27": "Ary ny tonian' ny tanimboaloboka dia Simey Ramatita; ary ny tonian' ny divay tahirizina any amin' ny tanimboaloboka dia Zebdy Sifmita;",
+    "28": "Ary ny tonian' ny hazo oliva sy ny amontana eny amin' ny tany lemaka dia Bala-hanana Gaderita; ary ny tonian' ny toerana fitahirizana diloilo dia Joasy;",
+    "29": "Ary ny tonian' ny omby nandrasana tany Sarôna dia Sitray Sarônita; ary ny tonian' ny omby tany an-dohasaha dia Safata, zanak' i Adlay;",
+    "30": "Ary ny tonian' ny rameva koa dia Obila Ismaelita; ary ny tonian' ny borikivavy dia Jedeia Meronotita;",
+    "31": "Ary ny tonian' ny ondry aman' osy dia Jaziza Hagarita. Ireo rehetra ireo no tonian' ny fananan' i Davida mpanjaka.",
+    "32": "Ary Jonatana koa, rahalahin-drain' i Davida, dia mpanolo-tsaina, lehilahy hendry sy mpanoratra izy; ary Jehiela, zanak' i Hakmony dia teo amin' ny zanaky ny mpanjaka;",
+    "33": "Ary Ahitofela no mpanolo-tsaina ny mpanjaka; ary Hosay Arkita no sakaizan' ny mpanjaka;",
+    "34": "Ary manarakaraka an' i Ahitofela dia Joiada, zanak' i Benaia sy Abiatara; ary ny komandin' ny miaramilan' ny mpanjaka dia Joaba."
+  }
 }

@@ -1,93 +1,28 @@
 {
+  "book": "Joba",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia namaly Joba ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Efa nandre zavatra maro toy izany aho; mpampionona mahasorisorena foana ianareo rehetra.\""
-    },
-    {
-      "v": 3,
-      "text": "Hisy farany va ny teniteny foana? sa inona no manesika anao mba hamaly?"
-    },
-    {
-      "v": 4,
-      "text": "\"Izaho koa mba mahazo miteny tahaka anareo, raha mba tonga tahaka ahy ianareo; eny, mahazo manamboatra teny hoenti-mamely anareo aho ary mahazo mihifikifi-doha aminareo;\""
-    },
-    {
-      "v": 5,
-      "text": "Nefa afaka hampahery anareo amin' ny vavako aho, ary mahazo mampitony ny alahelonareo amin' ny fampiononana ataon' ny molotro."
-    },
-    {
-      "v": 6,
-      "text": "\"Na dia miteny aza aho, dia tsy mitsahatra ny alaheloko; ary na dia mangina aza aho, dia inona no mihena amin' izany?\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa ankehitriny, efa nandreraka ahy Izy; naringanao ny ankohonako rehetra;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary efa nofenoinao ketronketrona ny tenako, ka porofo amiko izany; ary ny fahahiazana izay miseho eo amiko,dia porofo eo anatrehako koa.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Mamiravira ahy amin' ny fahatezerany Ilay mandrafy ahy, mihidy vazana amiko Izy; mampivandravandra ny masony amiko ny fahavaloko.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Nisanasana vava tamiko ny olona; latsa no nentiny namely ny takolako; mitambatra hamely ahy izy.\""
-    },
-    {
-      "v": 11,
-      "text": "Efa voatolotr' Andriamanitra ho amin' ny tsy araka an' Andriamanitra aho, ary natsipiny ho eo an-tanan' ny ratsy fanahy."
-    },
-    {
-      "v": 12,
-      "text": "\"Niadana aho, fa nanorotoro ahy Izy; nosamboriny tamin' ny hatoko koa aho ka nomontsaniny sady natsangany ho marika hokendrena.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Manodidina ahy ny mpandefa zana-tsipìkany; mamaky ny voako izy ka tsy miantra ary manidina ny aferoko ho amin' ny tany.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Potehiny sy ravàny aho; miroatra hamely ahy tahaka ny lehilahy goavam-be Izy.\""
-    },
-    {
-      "v": 15,
-      "text": "Lamba malailay no nozairiko hanarona ny hoditro. Ary nolotoiko tamin' ny vovoka ny tandroko."
-    },
-    {
-      "v": 16,
-      "text": "Ny tavako simban' ny fitomaniana, ary eo amin' ny hodimasoko ny aloky ny fahafatesana."
-    },
-    {
-      "v": 17,
-      "text": "Kanefa tsy misy tsy fahamarinana eto an-tanako, ary ny fivavako koa dia madio."
-    },
-    {
-      "v": 18,
-      "text": "Ry tany ô, aza manarona ny rako, ary aoka tsy ho voahazona ny fitarainako!"
-    },
-    {
-      "v": 19,
-      "text": "Fa ankehitriny koa, indro any an-danitra ny Vavolombeloko ary ny firaketana ny amiko dia any amin' ny avo."
-    },
-    {
-      "v": 20,
-      "text": "\"Maneso ahy ny sakaizako; fa mamarin-dranomaso eo anatrehan' Andriamanitra kosa ny masoko.\""
-    },
-    {
-      "v": 21,
-      "text": "Enga anie ka hisy handahatra ho an' ny olona eo anatrehan' Andriamanitra, toy ny olona mandahatra ho an' ny namany!"
-    },
-    {
-      "v": 22,
-      "text": "Fa rehefa lasa ny taona vitsy dia handeha any amin' ny lalana izay tsy hiverenako intsony aho."
-    }
-  ]
+  "verses": {
+    "1": "Dia namaly Joba ka nanao hoe:",
+    "2": "Efa nandre zavatra maro toy izany aho; mpampionona mahasorisorena foana ianareo rehetra.",
+    "3": "Hisy farany va ny teniteny foana? sa inona no manesika anao mba hamaly?",
+    "4": "Izaho koa mba mahazo miteny tahaka anareo, raha mba tonga tahaka ahy ianareo; eny, mahazo manamboatra teny hoenti-mamely anareo aho ary mahazo mihifikifi-doha aminareo;",
+    "5": "Nefa afaka hampahery anareo amin' ny vavako aho, ary mahazo mampitony ny alahelonareo amin' ny fampiononana ataon' ny molotro.",
+    "6": "Na dia miteny aza aho, dia tsy mitsahatra ny alaheloko; ary na dia mangina aza aho, dia inona no mihena amin' izany?",
+    "7": "Fa ankehitriny, efa nandreraka ahy Izy; naringanao ny ankohonako rehetra;",
+    "8": "Ary efa nofenoinao ketronketrona ny tenako, ka porofo amiko izany; ary ny fahahiazana izay miseho eo amiko,dia porofo eo anatrehako koa.",
+    "9": "Mamiravira ahy amin' ny fahatezerany Ilay mandrafy ahy, mihidy vazana amiko Izy; mampivandravandra ny masony amiko ny fahavaloko.",
+    "10": "Nisanasana vava tamiko ny olona; latsa no nentiny namely ny takolako; mitambatra hamely ahy izy.",
+    "11": "Efa voatolotr' Andriamanitra ho amin' ny tsy araka an' Andriamanitra aho, ary natsipiny ho eo an-tanan' ny ratsy fanahy.",
+    "12": "Niadana aho, fa nanorotoro ahy Izy; nosamboriny tamin' ny hatoko koa aho ka nomontsaniny sady natsangany ho marika hokendrena.",
+    "13": "Manodidina ahy ny mpandefa zana-tsipìkany; mamaky ny voako izy ka tsy miantra ary manidina ny aferoko ho amin' ny tany.",
+    "14": "Potehiny sy ravàny aho; miroatra hamely ahy tahaka ny lehilahy goavam-be Izy.",
+    "15": "Lamba malailay no nozairiko hanarona ny hoditro. Ary nolotoiko tamin' ny vovoka ny tandroko.",
+    "16": "Ny tavako simban' ny fitomaniana, ary eo amin' ny hodimasoko ny aloky ny fahafatesana.",
+    "17": "Kanefa tsy misy tsy fahamarinana eto an-tanako, ary ny fivavako koa dia madio.",
+    "18": "Ry tany ô, aza manarona ny rako, ary aoka tsy ho voahazona ny fitarainako!",
+    "19": "Fa ankehitriny koa, indro any an-danitra ny Vavolombeloko ary ny firaketana ny amiko dia any amin' ny avo.",
+    "20": "Maneso ahy ny sakaizako; fa mamarin-dranomaso eo anatrehan' Andriamanitra kosa ny masoko.",
+    "21": "Enga anie ka hisy handahatra ho an' ny olona eo anatrehan' Andriamanitra, toy ny olona mandahatra ho an' ny namany!",
+    "22": "Fa rehefa lasa ny taona vitsy dia handeha any amin' ny lalana izay tsy hiverenako intsony aho."
+  }
 }

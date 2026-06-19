@@ -1,189 +1,52 @@
 {
+  "book": "Deotornomia",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Izao no teny izay nolazain' i Mosesy tamin' ny Isiraely rehetra tany an-dafin' i Jordana tany an' efitra, dia tany amin' ny lemaka tandrifin' ny Ranomasina Mena, tanelanelan' i Parana sy Tofela sy Labana sy Hazerota ary Di-zahaba."
-    },
-    {
-      "v": 2,
-      "text": "(Lalana iraika ambin' ny folo andro Kadesi-barnea raha ao Horeba, raha ny lalana mahazo ny tendrombohitra Seïra no aleha)."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary izao no niseho tamin' ny andro voalohany tamin' ny volana fahiraika ambin' ny folo tamin' ny taona fahefapolo dia niteny tamin' ny Zanak' Isiraely Mosesy, araka izay rehetra efa nandidian' i Jehovah azy holazainy aminy;\""
-    },
-    {
-      "v": 4,
-      "text": "Rehefa namono an' i Sihona, mpanjakan' ny Amorita, ilay nonina tao Hesbona, sy Oga, mpanjakan' i Basana, ilay nonina tao Astarta tany Edrehy, izy."
-    },
-    {
-      "v": 5,
-      "text": "Tany an-dafin' i Jordana, dia tany amin' ny tany Moaba, no nanombohan' i Mosesy nanazava izao lalàna izao hoe:"
-    },
-    {
-      "v": 6,
-      "text": "\"Jehovah Andriamanitsika niteny tamintsika tany Horeba ka nanao hoe: Ela izay no nitoeranareo tamin' ity tendrombohitra ity;\""
-    },
-    {
-      "v": 7,
-      "text": "Mihodìna ianareo, dia mandehana ka mankanesa any amin' ny tendrombohitry ny Amorita sy ny toerana rehetra eo akaikiny, dia any amin' ny tany lemaka sy ny havoana sy ny lohasaha ary any atsimo sy ny amoron-dranomasina, dia any amin' ny tanin' ny Kananita sy any Libanona ka hatrany amin' ny ony lehibe, dia ny ony Eofrata."
-    },
-    {
-      "v": 8,
-      "text": "Indro efa natolotro eo anoloanareo ny tany: idiro ka lovao ny tany izay efa nianianan' i Jehovah tamin' ny razanareo, dia Abrahama sy Isaka ary Jakoba, homena azy sy ny taranany mandimby azy."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary niteny taminareo tamin' izany andro izany aho ka nanao hoe: Tsy zakako izaho irery ny hitondra anareo;\""
-    },
-    {
-      "v": 10,
-      "text": "Jehovah Andriamanitrareo efa nahamaro anareo, ary, indro, efa maro toy ny kintana eny amin' ny lanitra ianareo izao."
-    },
-    {
-      "v": 11,
-      "text": "(Jehovah, Andriamanitry ny razanareo anie hampitombo anareo ho arivo toraka izao ka hitahy anareo, araka izay efa nampanantenainy anareo!)."
-    },
-    {
-      "v": 12,
-      "text": "Hataoko izaho irery ahoana no fitondra ny fahasahirananareo sy ny entanareo ary ny adinareo?"
-    },
-    {
-      "v": 13,
-      "text": "Makà lehilahy hendry sy manan-tsaina ary hita toetra amin' ny fokonareo, dia hataoko ho lehibenareo izy."
-    },
-    {
-      "v": 14,
-      "text": "Dia namaly ahy ianareo ka nanao hoe: Ny zavatra izay nolazainao dia tsara hotanterahinay."
-    },
-    {
-      "v": 15,
-      "text": "Ary nalaiko ny lohan' ny fokonareo, dia olona hendry sy hita toetra, ka natao mpifehy anareo, dia mpifehy arivo, sy mpifehy zato, sy mpifehy dimampolo, ary mpifehy folo, ary manamboninahitra eo amin' ny fokonareo."
-    },
-    {
-      "v": 16,
-      "text": "Dia nandidy ny mpitsara anareo tamin' izany fotoana izany aho ka nanao hoe: Henoy ny adin' ny rahalahinareo, ka mitsarà marina ny olona rehetra sy ny rahalahiny ary ny vahiny eo aminy."
-    },
-    {
-      "v": 17,
-      "text": "\"Aza mizaha tavan' olona amin' ny fitsarana, fa henoy ny kely toy ny lehibe; aza matahotra ny tavan' olona akory, fa an' Andriamanitra ny fitsarana; ary izay sarotra loatra aminareo dia ento ety amiko ka hohenoiko.\""
-    },
-    {
-      "v": 18,
-      "text": "Dia nandidy anareo tamin' izany fotoana izany aho ny amin' ny zavatra rehetra izay tokony hataonareo."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary nony niala tany Horeba isika, dia nandeha namaky ilay efitra lehibe sy mahatahotra izay hitanareo teny amin' ny lalana mankany amin' ny tendrombohitry ny Amorita araka izay efa nandidian' i Jehovah Andriamanitsika antsika; dia tonga tao Kadesi-barnea isika.\""
-    },
-    {
-      "v": 20,
-      "text": "Dia hoy aho taminareo: Efa tonga eto amin' ny tendrombohitry ny Amorita ianareo, izay omen' i Jehovah Andriamanitsika ho antsika."
-    },
-    {
-      "v": 21,
-      "text": "\"Indro, efa natolotr' i Jehovah Andriamanitrao eo anoloanao ny tany; iakaro izy ka lovao, araka izay nolazain' i Jehovah Andriamanitry ny razanao taminao; aza matahotra na kivy.\""
-    },
-    {
-      "v": 22,
-      "text": "Dia nanatona ahy ianareo rehetra ka nanao hoe: Aoka haniraka olona hialoha antsika isika, mba hisafo ny tany ho antsika ka hitondra teny amintsika indray hilaza ny lalana izay tokony hiakarantsika sy ny tanàna izay halehan-tsika."
-    },
-    {
-      "v": 23,
-      "text": "Ary sitrako ny teny, ka dia naka roa ambin' ny folo lahy teo aminareo aho, iray avy isaky ny foko."
-    },
-    {
-      "v": 24,
-      "text": "Ary niainga ireo ka niakatra tany an-tendrombohitra, dia tonga tao amin' ny lohasaha Eskola ka nisafo ny tany."
-    },
-    {
-      "v": 25,
-      "text": "Dia nangalany teny an-tanany ny vokatry ny tany ka nentiny nidina tamintsika, dia nitondra teny indray izy nanao hoe: Tany tsara no omen' i Jehovah antsika."
-    },
-    {
-      "v": 26,
-      "text": "Kanefa tsy nety niakatra ianareo fa nandà ny didin' i Jehovah Andriamanitrareo."
-    },
-    {
-      "v": 27,
-      "text": "Dia nimonomonona tao an-dainareo ianareo ka nanao hoe: Halan' i Jehovah isika, izany no nitondrany antsika nivoaka avy tany amin' ny tany Egypta hanolorany antsika eo an-tanan' ny Amorita handringanany antsika."
-    },
-    {
-      "v": 28,
-      "text": "\"Ho aiza no hiakarantsika? Ny rahalahintsika efa nanakivy ny fontsika ka nanao hoe: Lehibe sy lava noho isika ny olona, ary ny tanàna dia lehibe sady misy manda manakatra ny lanitra; ary efa hitanay tao koa ny taranaky ny Anakita.\""
-    },
-    {
-      "v": 29,
-      "text": "Dia hoy aho taminareo: Aza mihorohoro, na matahotra azy."
-    },
-    {
-      "v": 30,
-      "text": "Jehovah Andriamanitrareo, Izay mandeha eo alohanareo, Izy no hiady ho anareo, araka izay rehetra nataony ho anareo tany Egypta teo imasonareo,"
-    },
-    {
-      "v": 31,
-      "text": "Ary tany an' efitra, izay nahitanao ny fitondran' i Jehovah Andriamanitrao anao tahaka ny fitondran' ny olona ny zanany, teny amin' ny lalana rehetra izay nalehanareo mandra-pahatonganareo teto amin' ity toerana ity."
-    },
-    {
-      "v": 32,
-      "text": "Kanefa na dia tamin' izany aza, dia mbola tsy ninoanareo Jehovah Andriamanitrareo,"
-    },
-    {
-      "v": 33,
-      "text": "Izay nandeha tamin' ny lalana teo alohanareo hitady toerana ho anareo hitobianareo an-day, ka ny afo nony alina ary ny rahona nony antoandro no nisehoany hanoro izay lalana mety halehanareo."
-    },
-    {
-      "v": 34,
-      "text": "Ary nandre ny feon' ny teninareo Jehovah, dia tezitra ka nianiana hoe:"
-    },
-    {
-      "v": 35,
-      "text": "Tsy hisy olona mihitsy amin' izao taranaka ratsy fanahy izao hahita ny tany soa izay nianianako homena ny razanareo,"
-    },
-    {
-      "v": 36,
-      "text": "\"Afa-tsy Kaleba, zanakalahin' i Jefone; izy no hahita azy, ary izy sy ny zanany no homeko ny tany izay nodiaviny, satria nanaraka tanteraka an' i Jehovah izy.\""
-    },
-    {
-      "v": 37,
-      "text": "\"Ary izaho koa dia notezeran' i Jehovah noho ny aminareo ka nataony hoe: Ianao koa tsy hiditra any;\""
-    },
-    {
-      "v": 38,
-      "text": "\"Fa Josoa, zanakalahin' i Nona, izay mitsangana eo anatrehanao, izy no hiditra any; ampaherezo izy, fa izy no hampandova ny Isiraely ny tany.\""
-    },
-    {
-      "v": 39,
-      "text": "Ary ny zanakareo madinika, izay nolazainareo fa ho babo, ary ny zanakareo izay tsy nahalala ny tsara sy ny ratsy tamin' izany andro izany, dia izy no hiditra any, ary izy no homeko ny tany, ary izy no handova azy."
-    },
-    {
-      "v": 40,
-      "text": "Fa ianareo kosa dia miverena, ka mandehana any an' efitra, dia any amin' ny lalana mankany amin' ny Ranomasina Mena."
-    },
-    {
-      "v": 41,
-      "text": "\"Dia namaly ianareo ka nanao tamiko hoe: Efa nanota tamin' i Jehovah izahay; hiakatra ihany izahay ka hiady, araka izay rehetra nandidian' i Jehovah Andriamanitsika antsika. Ary rehefa samy nisikina ny fiadiany avy ianareo rehetra, dia nivonona hiakatra any an-kavoana.\""
-    },
-    {
-      "v": 42,
-      "text": "\"Dia hoy Jehovah tamiko: Lazao aminy hoe: Aza miakatra ianareo, ary aza miady, fa tsy eo aminareo Aho; fandrao ho faty eo anoloan' ny fahavalonareo ianareo.\""
-    },
-    {
-      "v": 43,
-      "text": "Dia niteny taminareo aho, nefa tsy nihaino ianareo, fa nandà ny didin' i Jehovah ianareo, dia niakatra sahisahy tany an-kavoana."
-    },
-    {
-      "v": 44,
-      "text": "Dia nivoaka hiady aminareo ny Amorita, izay nonina tamin' izany tendrombohitra izany, ka nanenjika anareo tahaka ny fanenjiky ny renitantely, dia nandringana anareo tany Seïra ka hatrany Horma."
-    },
-    {
-      "v": 45,
-      "text": "\"Dia niverina ianareo ka nitomany teo anatrehan' i Jehovah; nefa tsy nihaino ny feonareo Jehovah, na nanongilana ny sofiny taminareo.\""
-    },
-    {
-      "v": 46,
-      "text": "Dia nitoetra andro maro tao Kadesy ianareo, araka ny andro izay nitoeranareo tao."
-    }
-  ]
+  "verses": {
+    "1": "Izao no teny izay nolazain' i Mosesy tamin' ny Isiraely rehetra tany an-dafin' i Jordana tany an' efitra, dia tany amin' ny lemaka tandrifin' ny Ranomasina Mena, tanelanelan' i Parana sy Tofela sy Labana sy Hazerota ary Di-zahaba.",
+    "2": "(Lalana iraika ambin' ny folo andro Kadesi-barnea raha ao Horeba, raha ny lalana mahazo ny tendrombohitra Seïra no aleha).",
+    "3": "Ary izao no niseho tamin' ny andro voalohany tamin' ny volana fahiraika ambin' ny folo tamin' ny taona fahefapolo dia niteny tamin' ny Zanak' Isiraely Mosesy, araka izay rehetra efa nandidian' i Jehovah azy holazainy aminy;",
+    "4": "Rehefa namono an' i Sihona, mpanjakan' ny Amorita, ilay nonina tao Hesbona, sy Oga, mpanjakan' i Basana, ilay nonina tao Astarta tany Edrehy, izy.",
+    "5": "Tany an-dafin' i Jordana, dia tany amin' ny tany Moaba, no nanombohan' i Mosesy nanazava izao lalàna izao hoe:",
+    "6": "Jehovah Andriamanitsika niteny tamintsika tany Horeba ka nanao hoe: Ela izay no nitoeranareo tamin' ity tendrombohitra ity;",
+    "7": "Mihodìna ianareo, dia mandehana ka mankanesa any amin' ny tendrombohitry ny Amorita sy ny toerana rehetra eo akaikiny, dia any amin' ny tany lemaka sy ny havoana sy ny lohasaha ary any atsimo sy ny amoron-dranomasina, dia any amin' ny tanin' ny Kananita sy any Libanona ka hatrany amin' ny ony lehibe, dia ny ony Eofrata.",
+    "8": "Indro efa natolotro eo anoloanareo ny tany: idiro ka lovao ny tany izay efa nianianan' i Jehovah tamin' ny razanareo, dia Abrahama sy Isaka ary Jakoba, homena azy sy ny taranany mandimby azy.",
+    "9": "Ary niteny taminareo tamin' izany andro izany aho ka nanao hoe: Tsy zakako izaho irery ny hitondra anareo;",
+    "10": "Jehovah Andriamanitrareo efa nahamaro anareo, ary, indro, efa maro toy ny kintana eny amin' ny lanitra ianareo izao.",
+    "11": "(Jehovah, Andriamanitry ny razanareo anie hampitombo anareo ho arivo toraka izao ka hitahy anareo, araka izay efa nampanantenainy anareo!).",
+    "12": "Hataoko izaho irery ahoana no fitondra ny fahasahirananareo sy ny entanareo ary ny adinareo?",
+    "13": "Makà lehilahy hendry sy manan-tsaina ary hita toetra amin' ny fokonareo, dia hataoko ho lehibenareo izy.",
+    "14": "Dia namaly ahy ianareo ka nanao hoe: Ny zavatra izay nolazainao dia tsara hotanterahinay.",
+    "15": "Ary nalaiko ny lohan' ny fokonareo, dia olona hendry sy hita toetra, ka natao mpifehy anareo, dia mpifehy arivo, sy mpifehy zato, sy mpifehy dimampolo, ary mpifehy folo, ary manamboninahitra eo amin' ny fokonareo.",
+    "16": "Dia nandidy ny mpitsara anareo tamin' izany fotoana izany aho ka nanao hoe: Henoy ny adin' ny rahalahinareo, ka mitsarà marina ny olona rehetra sy ny rahalahiny ary ny vahiny eo aminy.",
+    "17": "Aza mizaha tavan' olona amin' ny fitsarana, fa henoy ny kely toy ny lehibe; aza matahotra ny tavan' olona akory, fa an' Andriamanitra ny fitsarana; ary izay sarotra loatra aminareo dia ento ety amiko ka hohenoiko.",
+    "18": "Dia nandidy anareo tamin' izany fotoana izany aho ny amin' ny zavatra rehetra izay tokony hataonareo.",
+    "19": "Ary nony niala tany Horeba isika, dia nandeha namaky ilay efitra lehibe sy mahatahotra izay hitanareo teny amin' ny lalana mankany amin' ny tendrombohitry ny Amorita araka izay efa nandidian' i Jehovah Andriamanitsika antsika; dia tonga tao Kadesi-barnea isika.",
+    "20": "Dia hoy aho taminareo: Efa tonga eto amin' ny tendrombohitry ny Amorita ianareo, izay omen' i Jehovah Andriamanitsika ho antsika.",
+    "21": "Indro, efa natolotr' i Jehovah Andriamanitrao eo anoloanao ny tany; iakaro izy ka lovao, araka izay nolazain' i Jehovah Andriamanitry ny razanao taminao; aza matahotra na kivy.",
+    "22": "Dia nanatona ahy ianareo rehetra ka nanao hoe: Aoka haniraka olona hialoha antsika isika, mba hisafo ny tany ho antsika ka hitondra teny amintsika indray hilaza ny lalana izay tokony hiakarantsika sy ny tanàna izay halehan-tsika.",
+    "23": "Ary sitrako ny teny, ka dia naka roa ambin' ny folo lahy teo aminareo aho, iray avy isaky ny foko.",
+    "24": "Ary niainga ireo ka niakatra tany an-tendrombohitra, dia tonga tao amin' ny lohasaha Eskola ka nisafo ny tany.",
+    "25": "Dia nangalany teny an-tanany ny vokatry ny tany ka nentiny nidina tamintsika, dia nitondra teny indray izy nanao hoe: Tany tsara no omen' i Jehovah antsika.",
+    "26": "Kanefa tsy nety niakatra ianareo fa nandà ny didin' i Jehovah Andriamanitrareo.",
+    "27": "Dia nimonomonona tao an-dainareo ianareo ka nanao hoe: Halan' i Jehovah isika, izany no nitondrany antsika nivoaka avy tany amin' ny tany Egypta hanolorany antsika eo an-tanan' ny Amorita handringanany antsika.",
+    "28": "Ho aiza no hiakarantsika? Ny rahalahintsika efa nanakivy ny fontsika ka nanao hoe: Lehibe sy lava noho isika ny olona, ary ny tanàna dia lehibe sady misy manda manakatra ny lanitra; ary efa hitanay tao koa ny taranaky ny Anakita.",
+    "29": "Dia hoy aho taminareo: Aza mihorohoro, na matahotra azy.",
+    "30": "Jehovah Andriamanitrareo, Izay mandeha eo alohanareo, Izy no hiady ho anareo, araka izay rehetra nataony ho anareo tany Egypta teo imasonareo,",
+    "31": "Ary tany an' efitra, izay nahitanao ny fitondran' i Jehovah Andriamanitrao anao tahaka ny fitondran' ny olona ny zanany, teny amin' ny lalana rehetra izay nalehanareo mandra-pahatonganareo teto amin' ity toerana ity.",
+    "32": "Kanefa na dia tamin' izany aza, dia mbola tsy ninoanareo Jehovah Andriamanitrareo,",
+    "33": "Izay nandeha tamin' ny lalana teo alohanareo hitady toerana ho anareo hitobianareo an-day, ka ny afo nony alina ary ny rahona nony antoandro no nisehoany hanoro izay lalana mety halehanareo.",
+    "34": "Ary nandre ny feon' ny teninareo Jehovah, dia tezitra ka nianiana hoe:",
+    "35": "Tsy hisy olona mihitsy amin' izao taranaka ratsy fanahy izao hahita ny tany soa izay nianianako homena ny razanareo,",
+    "36": "Afa-tsy Kaleba, zanakalahin' i Jefone; izy no hahita azy, ary izy sy ny zanany no homeko ny tany izay nodiaviny, satria nanaraka tanteraka an' i Jehovah izy.",
+    "37": "Ary izaho koa dia notezeran' i Jehovah noho ny aminareo ka nataony hoe: Ianao koa tsy hiditra any;",
+    "38": "Fa Josoa, zanakalahin' i Nona, izay mitsangana eo anatrehanao, izy no hiditra any; ampaherezo izy, fa izy no hampandova ny Isiraely ny tany.",
+    "39": "Ary ny zanakareo madinika, izay nolazainareo fa ho babo, ary ny zanakareo izay tsy nahalala ny tsara sy ny ratsy tamin' izany andro izany, dia izy no hiditra any, ary izy no homeko ny tany, ary izy no handova azy.",
+    "40": "Fa ianareo kosa dia miverena, ka mandehana any an' efitra, dia any amin' ny lalana mankany amin' ny Ranomasina Mena.",
+    "41": "Dia namaly ianareo ka nanao tamiko hoe: Efa nanota tamin' i Jehovah izahay; hiakatra ihany izahay ka hiady, araka izay rehetra nandidian' i Jehovah Andriamanitsika antsika. Ary rehefa samy nisikina ny fiadiany avy ianareo rehetra, dia nivonona hiakatra any an-kavoana.",
+    "42": "Dia hoy Jehovah tamiko: Lazao aminy hoe: Aza miakatra ianareo, ary aza miady, fa tsy eo aminareo Aho; fandrao ho faty eo anoloan' ny fahavalonareo ianareo.",
+    "43": "Dia niteny taminareo aho, nefa tsy nihaino ianareo, fa nandà ny didin' i Jehovah ianareo, dia niakatra sahisahy tany an-kavoana.",
+    "44": "Dia nivoaka hiady aminareo ny Amorita, izay nonina tamin' izany tendrombohitra izany, ka nanenjika anareo tahaka ny fanenjiky ny renitantely, dia nandringana anareo tany Seïra ka hatrany Horma.",
+    "45": "Dia niverina ianareo ka nitomany teo anatrehan' i Jehovah; nefa tsy nihaino ny feonareo Jehovah, na nanongilana ny sofiny taminareo.",
+    "46": "Dia nitoetra andro maro tao Kadesy ianareo, araka ny andro izay nitoeranareo tao."
+  }
 }

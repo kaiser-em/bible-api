@@ -1,53 +1,18 @@
 {
+  "book": "Salamo",
   "chapter": 60,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira. Al-shoshan-edoth. Miktama nataon' i Davida hampianarana, fony izy nanafika an' i Mesopotamia sy Arama-zoba tamin' ny niverenan' i Joaba ka namelezany ny Edomita roa arivo amby iray alin-dahy teo amin' ny Lohasaahan-tsira.]  ANDRIAMANITRA ô, efa nanary sy nampihahaka anay Ianao, efa tezitra Ianao; he, miverena aminay indray.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Efa nampihorohoro ny tany Ianao ka namaky azy; amboary izay rava aminy, fa mihozongozona izy.\""
-    },
-    {
-      "v": 3,
-      "text": "Efa nampahita ny olonao zava-tsarotra Ianao, ary efa nampisotro anay divay mampiraikiraiky."
-    },
-    {
-      "v": 4,
-      "text": "Efa notoloranao faneva ny matahotra Anao, hatsangana noho ny fahamarinana.[Sela.]"
-    },
-    {
-      "v": 5,
-      "text": "Mba hahafahan' ny malalanao, dia vonjeo amin' ny tananao ankavanana aho, ka valio."
-    },
-    {
-      "v": 6,
-      "text": "\"Niteny tamin' ny fahamasinany Andriamanitra hoe: Hifaly Aho ka hizara an' i Sekema; ary ny lohasahan' i Sokota horefesiko.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ahy Gileada, Ahy koa Manase; ary aron' ny lohako koa Efraima; tehim-panjakako Joda;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Tavin-dranoko fanasana Moaba; Edoma no anipazako ny kapako; mihobia noho ny amiko, ry Filistia.\""
-    },
-    {
-      "v": 9,
-      "text": "Iza no hitondra ahy ho any an-tanàna mafy? Iza no hitarika ahy ho any Edoma?"
-    },
-    {
-      "v": 10,
-      "text": "Tsy Ianao va no efa nanary anay, Andriamanitra ô? Sady tsy nivoaka niaraka tamin' ny antokon' ny miaramilanay, Andriamanitra ô?"
-    },
-    {
-      "v": 11,
-      "text": "\"Vonjeo ho afaka amin' ny fahoriana izahay; fa zava-poana ny famonjena ataon' ny olona.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Andriamanitra no haherezantsika; Fa Izy no hanitsakitsaka ny fahavalontsika.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Al-shoshan-edoth. Miktama nataon' i Davida hampianarana, fony izy nanafika an' i Mesopotamia sy Arama-zoba tamin' ny niverenan' i Joaba ka namelezany ny Edomita roa arivo amby iray alin-dahy teo amin' ny Lohasaahan-tsira.]  ANDRIAMANITRA ô, efa nanary sy nampihahaka anay Ianao, efa tezitra Ianao; he, miverena aminay indray.",
+    "2": "Efa nampihorohoro ny tany Ianao ka namaky azy; amboary izay rava aminy, fa mihozongozona izy.",
+    "3": "Efa nampahita ny olonao zava-tsarotra Ianao, ary efa nampisotro anay divay mampiraikiraiky.",
+    "4": "Efa notoloranao faneva ny matahotra Anao, hatsangana noho ny fahamarinana.[Sela.]",
+    "5": "Mba hahafahan' ny malalanao, dia vonjeo amin' ny tananao ankavanana aho, ka valio.",
+    "6": "Niteny tamin' ny fahamasinany Andriamanitra hoe: Hifaly Aho ka hizara an' i Sekema; ary ny lohasahan' i Sokota horefesiko.",
+    "7": "Ahy Gileada, Ahy koa Manase; ary aron' ny lohako koa Efraima; tehim-panjakako Joda;",
+    "8": "Tavin-dranoko fanasana Moaba; Edoma no anipazako ny kapako; mihobia noho ny amiko, ry Filistia.",
+    "9": "Iza no hitondra ahy ho any an-tanàna mafy? Iza no hitarika ahy ho any Edoma?",
+    "10": "Tsy Ianao va no efa nanary anay, Andriamanitra ô? Sady tsy nivoaka niaraka tamin' ny antokon' ny miaramilanay, Andriamanitra ô?",
+    "11": "Vonjeo ho afaka amin' ny fahoriana izahay; fa zava-poana ny famonjena ataon' ny olona.",
+    "12": "Andriamanitra no haherezantsika; Fa Izy no hanitsakitsaka ny fahavalontsika."
+  }
 }

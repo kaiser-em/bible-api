@@ -1,77 +1,24 @@
 {
+  "book": "Salamo",
   "chapter": 83,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Tononkira na Salamo nataon' i Asafa.]  ANDRIAMANITRA ô, aza mangina; Aza mikombom-bava Ianao, ary aza mamitsaka, Andriamanitra ô.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Fa, indro, mitabataba ny fahavalonao; ary izay mankahala Anao dia manandratra ny lohany.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ny olonao no iokoany amin' ny hafetsena; ary miara-misaina hamely izay voàfinao izy.\""
-    },
-    {
-      "v": 4,
-      "text": "Hoy izy: Avia, ka andeha hofongorantsika tsy ho firenena izy, mba tsy hotsarovana intsony ny anaran' ny Isiraely."
-    },
-    {
-      "v": 5,
-      "text": "Fa efa niray tetika tokoa ireo ka nanao fanekena hanohitra Anao,"
-    },
-    {
-      "v": 6,
-      "text": "Ny tabernakelin' i Edoma sy ny Isimaelita, ny Moabita sy ny Hagarita,"
-    },
-    {
-      "v": 7,
-      "text": "Gebala sy Amona ary Amaleka, ny Filistina mbamin' ny mponina any Tyro."
-    },
-    {
-      "v": 8,
-      "text": "\"Asyria koa nikambana taminy; efa nanampy ny taranak' i Lota ireo.[Sela.]\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ataovy tahaka ny Midianita izy, tahaka an' i Sisera sy Jabina teo amin' ny Ony Kisona;\""
-    },
-    {
-      "v": 10,
-      "text": "\"Izay maty tany En-dora ka tonga zeziky ny tany ireo;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ataovy tahaka an' i Oreba sy Zeba ny andrianany; eny, ataovy tahaka an' i Zebaha ary tahaka an' i Zalmona ny mpanapaka azy ireo;\""
-    },
-    {
-      "v": 12,
-      "text": "\"Izay nanao hoe: Aoka halaintsika ho antsika ny fonenan' Andriamanitra;\""
-    },
-    {
-      "v": 13,
-      "text": "Andriamanitro ô, ataovy tahaka ny kodiarana ireo, tahaka ny mololo entin' ny rivotra."
-    },
-    {
-      "v": 14,
-      "text": "Tahaka ny afo mandoro ala sy tahaka ny lelafo mampirehitra tendrombohitra,"
-    },
-    {
-      "v": 15,
-      "text": "No anenjeho azy amin' ny tadionao sy ampitahory azy amin' ny tafio-drivotrao."
-    },
-    {
-      "v": 16,
-      "text": "Saròny henatra ny tavany, mba hitadiavany ny anaranao, Jehovah ô."
-    },
-    {
-      "v": 17,
-      "text": "\"Aoka ho menatra sy azom-pahoriana mandrakizay ireo; eny, aoka hangaihay sy haringana izy;\""
-    },
-    {
-      "v": 18,
-      "text": "Mba ho fantatry ny olona fa Ianao izay hany manana ny anarana hoe Jehovah, no Ilay Ambony Indrindra manerana ny tany rehetra."
-    }
-  ]
+  "verses": {
+    "1": "[Tononkira na Salamo nataon' i Asafa.]  ANDRIAMANITRA ô, aza mangina; Aza mikombom-bava Ianao, ary aza mamitsaka, Andriamanitra ô.",
+    "2": "Fa, indro, mitabataba ny fahavalonao; ary izay mankahala Anao dia manandratra ny lohany.",
+    "3": "Ny olonao no iokoany amin' ny hafetsena; ary miara-misaina hamely izay voàfinao izy.",
+    "4": "Hoy izy: Avia, ka andeha hofongorantsika tsy ho firenena izy, mba tsy hotsarovana intsony ny anaran' ny Isiraely.",
+    "5": "Fa efa niray tetika tokoa ireo ka nanao fanekena hanohitra Anao,",
+    "6": "Ny tabernakelin' i Edoma sy ny Isimaelita, ny Moabita sy ny Hagarita,",
+    "7": "Gebala sy Amona ary Amaleka, ny Filistina mbamin' ny mponina any Tyro.",
+    "8": "Asyria koa nikambana taminy; efa nanampy ny taranak' i Lota ireo.[Sela.]",
+    "9": "Ataovy tahaka ny Midianita izy, tahaka an' i Sisera sy Jabina teo amin' ny Ony Kisona;",
+    "10": "Izay maty tany En-dora ka tonga zeziky ny tany ireo;",
+    "11": "Ataovy tahaka an' i Oreba sy Zeba ny andrianany; eny, ataovy tahaka an' i Zebaha ary tahaka an' i Zalmona ny mpanapaka azy ireo;",
+    "12": "Izay nanao hoe: Aoka halaintsika ho antsika ny fonenan' Andriamanitra;",
+    "13": "Andriamanitro ô, ataovy tahaka ny kodiarana ireo, tahaka ny mololo entin' ny rivotra.",
+    "14": "Tahaka ny afo mandoro ala sy tahaka ny lelafo mampirehitra tendrombohitra,",
+    "15": "No anenjeho azy amin' ny tadionao sy ampitahory azy amin' ny tafio-drivotrao.",
+    "16": "Saròny henatra ny tavany, mba hitadiavany ny anaranao, Jehovah ô.",
+    "17": "Aoka ho menatra sy azom-pahoriana mandrakizay ireo; eny, aoka hangaihay sy haringana izy;",
+    "18": "Mba ho fantatry ny olona fa Ianao izay hany manana ny anarana hoe Jehovah, no Ilay Ambony Indrindra manerana ny tany rehetra."
+  }
 }

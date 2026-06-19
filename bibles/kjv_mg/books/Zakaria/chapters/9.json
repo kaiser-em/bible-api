@@ -1,73 +1,23 @@
 {
+  "book": "Zakaria",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Teny faminaniana avy tamin' i Jehovah ny amin' ny loza hanjo ny tany Hadraka; ary Damaskosy no ho sisa ao, raha hijery an' i Jehovah ny mason' ny olona, tahaka ireo fokon' Isiraely rehetra.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary Hamata koa hifanolotra aminy, ary Tyro sy Sidona, na dia hendry indrindra aza izy."
-    },
-    {
-      "v": 3,
-      "text": "Ary Tyro nanao manda mafy ho azy ka nanangona volafotsy hoatra ny vovoka sy volamena tsara hoatra ny fotaka eny an-dalambe."
-    },
-    {
-      "v": 4,
-      "text": "\"Indro, hofoanan' ny Tompo ny fananany, sady hasiany koa ny heriny ao amin' ny ranomasina; ary ny tenany ho levon' ny afo.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Hahita izany Askelona ka raiki-tahotra; Gaza koa hahita izany ka halahelo indrindra, ary Ekrona, fa ho tonga henatra ny fanantenany, sady ho faty ao Gaza ny mpanjaka, ary Askelona tsy honenana.\""
-    },
-    {
-      "v": 6,
-      "text": "Zazasary no honina ao Asdoda, ary hofoanako ny reharehan' ny Filistina."
-    },
-    {
-      "v": 7,
-      "text": "\"Hoesoriko eny am-bavany ny rany, ary ny fahavetavetany tsy ho eny anelanelan' ny nifiny; fa izay sisa koa, izy ho an' Andriamanitsika sy ho tonga toy ny governora amin' ny Joda, ary Ekrona ho toy ny Jebosita.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary hitoby manodidina ny tranoko Aho noho ny miaramila betsaka, noho izay mandroso sy miverina, ary tsy hisy mpampahory handeha hamaky eo aminy intsony; fa ankehitriny dia efa nahita tamin' ny masoko Aho.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Mifalia indrindra ry zanakavavin' i Ziona; mihobia, ry zanakavavin' i Jerosalema; indro, ny Mpanjakanao avy ho anao; marina Izy sady manam-pamonjena, malemy fanahy sady mitaingina boriky, dia zana-boriky tanora.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary hofoanako tsy hisy kalesy Efraima, na soavaly any Jerosalema, ho foanana koa ny tsipìka fiadiana, ary hiteny fiadanana amin' ny jentilisa Izy; ary ny fanapahany dia hatramin' ny ranomasina ka hatramin' ny ranomasina, ary hatramin' ny renirano ka hatramin' ny faran' ny tany.\""
-    },
-    {
-      "v": 11,
-      "text": "Ny aminao koa, noho ny ràn' ny fanekena taminao no efa namoahako ny mpifatotrao avy tao an-davaka tsy misy rano."
-    },
-    {
-      "v": 12,
-      "text": "Miverena ho amin' ny fiarovana mafy, ianareo mpifatotra manana ny fanantenana! Anio no hanambarako hoe: hanonitra roa heny ho anao Aho."
-    },
-    {
-      "v": 13,
-      "text": "\"Fony nohenjaniko ho Ahy Joda, Efraima nataoko zana-tsipìka; ary notairiko ny zanakao, ry Ziona, hiady amin' ny zanakao, ry Grisia, ary nataoko toy ny sabatry ny lehilahy mahery ianao,\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary Jehovah ho hita ao aminy, ka handeha toy ny helatra ny zana-tsipìkany; Jehovah Tompo hitsoka anjomara ka handeha amin' ny tafiodrivotra avy any atsimo.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Jehovah, Tompon' ny maro no hiaro ireny; dia hihinana ireny ka hanitsakitsaka amin' ny vaton' antsamotady; ary hisotro ireny ka hihorakoraka tahaka ny azon' ny divay, ary ho feno toy ny lovia tsangambava sy toy ny zoron' ny alitara.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary hovonjen' i Jehovah Andriamaniny ireny amin' izany andro izany toy ny ondrin' ny olony; fa ho toy ny vaton-tsatroboninahitra ireny, asandratra toy ny famantarana eny amin' ny taniny.\""
-    },
-    {
-      "v": 17,
-      "text": "Fa akory ny haben' ny fahatsarany, ary akory ny hatsaran' ny tarehiny! Varimbazaha no hampaharoroka ny zatovolahy, ary ranom-boaloboka kosa ny zazavavy."
-    }
-  ]
+  "verses": {
+    "1": "Teny faminaniana avy tamin' i Jehovah ny amin' ny loza hanjo ny tany Hadraka; ary Damaskosy no ho sisa ao, raha hijery an' i Jehovah ny mason' ny olona, tahaka ireo fokon' Isiraely rehetra.",
+    "2": "Ary Hamata koa hifanolotra aminy, ary Tyro sy Sidona, na dia hendry indrindra aza izy.",
+    "3": "Ary Tyro nanao manda mafy ho azy ka nanangona volafotsy hoatra ny vovoka sy volamena tsara hoatra ny fotaka eny an-dalambe.",
+    "4": "Indro, hofoanan' ny Tompo ny fananany, sady hasiany koa ny heriny ao amin' ny ranomasina; ary ny tenany ho levon' ny afo.",
+    "5": "Hahita izany Askelona ka raiki-tahotra; Gaza koa hahita izany ka halahelo indrindra, ary Ekrona, fa ho tonga henatra ny fanantenany, sady ho faty ao Gaza ny mpanjaka, ary Askelona tsy honenana.",
+    "6": "Zazasary no honina ao Asdoda, ary hofoanako ny reharehan' ny Filistina.",
+    "7": "Hoesoriko eny am-bavany ny rany, ary ny fahavetavetany tsy ho eny anelanelan' ny nifiny; fa izay sisa koa, izy ho an' Andriamanitsika sy ho tonga toy ny governora amin' ny Joda, ary Ekrona ho toy ny Jebosita.",
+    "8": "Ary hitoby manodidina ny tranoko Aho noho ny miaramila betsaka, noho izay mandroso sy miverina, ary tsy hisy mpampahory handeha hamaky eo aminy intsony; fa ankehitriny dia efa nahita tamin' ny masoko Aho.",
+    "9": "Mifalia indrindra ry zanakavavin' i Ziona; mihobia, ry zanakavavin' i Jerosalema; indro, ny Mpanjakanao avy ho anao; marina Izy sady manam-pamonjena, malemy fanahy sady mitaingina boriky, dia zana-boriky tanora.",
+    "10": "Ary hofoanako tsy hisy kalesy Efraima, na soavaly any Jerosalema, ho foanana koa ny tsipìka fiadiana, ary hiteny fiadanana amin' ny jentilisa Izy; ary ny fanapahany dia hatramin' ny ranomasina ka hatramin' ny ranomasina, ary hatramin' ny renirano ka hatramin' ny faran' ny tany.",
+    "11": "Ny aminao koa, noho ny ràn' ny fanekena taminao no efa namoahako ny mpifatotrao avy tao an-davaka tsy misy rano.",
+    "12": "Miverena ho amin' ny fiarovana mafy, ianareo mpifatotra manana ny fanantenana! Anio no hanambarako hoe: hanonitra roa heny ho anao Aho.",
+    "13": "Fony nohenjaniko ho Ahy Joda, Efraima nataoko zana-tsipìka; ary notairiko ny zanakao, ry Ziona, hiady amin' ny zanakao, ry Grisia, ary nataoko toy ny sabatry ny lehilahy mahery ianao,",
+    "14": "Ary Jehovah ho hita ao aminy, ka handeha toy ny helatra ny zana-tsipìkany; Jehovah Tompo hitsoka anjomara ka handeha amin' ny tafiodrivotra avy any atsimo.",
+    "15": "Jehovah, Tompon' ny maro no hiaro ireny; dia hihinana ireny ka hanitsakitsaka amin' ny vaton' antsamotady; ary hisotro ireny ka hihorakoraka tahaka ny azon' ny divay, ary ho feno toy ny lovia tsangambava sy toy ny zoron' ny alitara.",
+    "16": "Ary hovonjen' i Jehovah Andriamaniny ireny amin' izany andro izany toy ny ondrin' ny olony; fa ho toy ny vaton-tsatroboninahitra ireny, asandratra toy ny famantarana eny amin' ny taniny.",
+    "17": "Fa akory ny haben' ny fahatsarany, ary akory ny hatsaran' ny tarehiny! Varimbazaha no hampaharoroka ny zatovolahy, ary ranom-boaloboka kosa ny zazavavy."
+  }
 }

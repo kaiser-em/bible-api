@@ -1,65 +1,21 @@
 {
+  "book": "Asa",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary tamin' izany andro izany, rehefa nitombo ny isan' ny mpianatra, dia nimonomonona tamin' ny Hebreo ny Grika, satria tsy mba henina tamin' ny fiantrana isan' andro ny mpitondratenany."
-    },
-    {
-      "v": 2,
-      "text": "Ary nampiangona ny mpianatra rehetra ny roa ambin' ny folo lahy ka nanao hoe: Tsy mety raha mandao ny tenin' Andriamanitra hitandrina latabatra izahay."
-    },
-    {
-      "v": 3,
-      "text": "Noho izany, ry rahalahy, mizahà fito lahy eo aminareo, izay tsara laza, sady feno ny Fanahy Masina sy fahendrena, mba hotendrenay hitandrina izany raharaha izany."
-    },
-    {
-      "v": 4,
-      "text": "Fa izahay kosa haharitra amin' ny vavaka sy ny fampianarana ny teny."
-    },
-    {
-      "v": 5,
-      "text": "Dia sitraky ny olona rehetra ny teniny, ka nifidy an' i Stefana izy, lehilahy feno finoana sy ny Fanahy Masina, ary Filipo sy Prokoro sy Nikanora sy Timona sy Parmena ary Nikoleo (prozelyta avy any Antiokia),"
-    },
-    {
-      "v": 6,
-      "text": "\"Ireo no narosony teo anatrehan' ny apostoly; ary rehefa nivavaka ny apostoly, dia nametra-tanana taminy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Dia nandroso ny tenin' Andriamanitra; ary nitombo indrindra ny isan' ny mpianatra tany Jerosalema; ary marobe koa ny mpisorona nanaiky ny finoana.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary Stefana, feno finoana sy hery, dia nanao asa mahatalanjona lehibe sy fahagagana teo amin' ny vahoaka."
-    },
-    {
-      "v": 9,
-      "text": "Fa ny sasany, izay avy amin' ny synagoga atao hoe Synagogan' ny Libertina sy ny Kyreniana sy ny Aleksandriana mbamin' izay avy any Silisia sy Azia, dia nitsangana ka niady hevitra tamin' i Stefana."
-    },
-    {
-      "v": 10,
-      "text": "Fa tsy nahatohitra ny fahendrena sy ny Fanahy izay nitenenany ireo."
-    },
-    {
-      "v": 11,
-      "text": "Dia nisy olona notambazany hanao hoe: Efa renay nanao blasfemia an' i Mosesy sy Andriamanitra izy."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary nampitaitra ny olona sy ny loholona ary ny mpanoradalàna izy, dia nankeo amin' i Stefana ka nisambotra azy, dia nitondra azy ho eo amin' ny Synedriona;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary nanangana vavolombelona mandainga, izay nanao hoe: Tsy mitsahatra manao blasfemia ity fitoerana masina ity sy ny lalàna io lehilahy io;\""
-    },
-    {
-      "v": 14,
-      "text": "Fa efa renay izy nilaza fa ilay Jesosy avy any Nazareta dia handrava ity fitoerana ity sy hanova ny fomba izay natolotr' i Mosesy antsika."
-    },
-    {
-      "v": 15,
-      "text": "Ary izay rehetra nipetraka teo amin' ny Synedriona, raha nandinika an' i Stefana, dia nahita ny tarehiny tahaka ny tarehin' anjely."
-    }
-  ]
+  "verses": {
+    "1": "Ary tamin' izany andro izany, rehefa nitombo ny isan' ny mpianatra, dia nimonomonona tamin' ny Hebreo ny Grika, satria tsy mba henina tamin' ny fiantrana isan' andro ny mpitondratenany.",
+    "2": "Ary nampiangona ny mpianatra rehetra ny roa ambin' ny folo lahy ka nanao hoe: Tsy mety raha mandao ny tenin' Andriamanitra hitandrina latabatra izahay.",
+    "3": "Noho izany, ry rahalahy, mizahà fito lahy eo aminareo, izay tsara laza, sady feno ny Fanahy Masina sy fahendrena, mba hotendrenay hitandrina izany raharaha izany.",
+    "4": "Fa izahay kosa haharitra amin' ny vavaka sy ny fampianarana ny teny.",
+    "5": "Dia sitraky ny olona rehetra ny teniny, ka nifidy an' i Stefana izy, lehilahy feno finoana sy ny Fanahy Masina, ary Filipo sy Prokoro sy Nikanora sy Timona sy Parmena ary Nikoleo (prozelyta avy any Antiokia),",
+    "6": "Ireo no narosony teo anatrehan' ny apostoly; ary rehefa nivavaka ny apostoly, dia nametra-tanana taminy.",
+    "7": "Dia nandroso ny tenin' Andriamanitra; ary nitombo indrindra ny isan' ny mpianatra tany Jerosalema; ary marobe koa ny mpisorona nanaiky ny finoana.",
+    "8": "Ary Stefana, feno finoana sy hery, dia nanao asa mahatalanjona lehibe sy fahagagana teo amin' ny vahoaka.",
+    "9": "Fa ny sasany, izay avy amin' ny synagoga atao hoe Synagogan' ny Libertina sy ny Kyreniana sy ny Aleksandriana mbamin' izay avy any Silisia sy Azia, dia nitsangana ka niady hevitra tamin' i Stefana.",
+    "10": "Fa tsy nahatohitra ny fahendrena sy ny Fanahy izay nitenenany ireo.",
+    "11": "Dia nisy olona notambazany hanao hoe: Efa renay nanao blasfemia an' i Mosesy sy Andriamanitra izy.",
+    "12": "Ary nampitaitra ny olona sy ny loholona ary ny mpanoradalàna izy, dia nankeo amin' i Stefana ka nisambotra azy, dia nitondra azy ho eo amin' ny Synedriona;",
+    "13": "Ary nanangana vavolombelona mandainga, izay nanao hoe: Tsy mitsahatra manao blasfemia ity fitoerana masina ity sy ny lalàna io lehilahy io;",
+    "14": "Fa efa renay izy nilaza fa ilay Jesosy avy any Nazareta dia handrava ity fitoerana ity sy hanova ny fomba izay natolotr' i Mosesy antsika.",
+    "15": "Ary izay rehetra nipetraka teo amin' ny Synedriona, raha nandinika an' i Stefana, dia nahita ny tarehiny tahaka ny tarehin' anjely."
+  }
 }

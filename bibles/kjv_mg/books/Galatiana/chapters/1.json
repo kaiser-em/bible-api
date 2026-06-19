@@ -1,101 +1,30 @@
 {
+  "book": "Galatiana",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Paoly, apostoly (tsy avy tamin’olona, na tamin’ny alalan’olona, fa tamin’ny alalan’i Jesosy Kristy sy Andriamanitra Ray izay nanangana Azy tamin’ny maty);\""
-    },
-    {
-      "v": 2,
-      "text": "Mbamin’ny rahalahy rehetra izay ato amiko, mamangy ny fiangonana aty Galatia:"
-    },
-    {
-      "v": 3,
-      "text": "Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin’Andriamanitra Ray sy Jesosy Kristy Tompontsika,"
-    },
-    {
-      "v": 4,
-      "text": "\"Izay nanolotra ny tenany noho ny fahotantsika, hanafahany antsika amin’izao miara-belona ratsy fanahy izao, araka ny sitrapon’Andriamanitra sady Raintsika;\""
-    },
-    {
-      "v": 5,
-      "text": "Ho Azy anie ny voninahitra mandrakizay mandrakizay. Amena."
-    },
-    {
-      "v": 6,
-      "text": "Gaga aho, raha mifindra faingana toy izao ianareo hiala amin’Izay efa niantso anareo tamin’ny fahasoavan’i Kristy ho amin’ny filazantsara hafa,"
-    },
-    {
-      "v": 7,
-      "text": "Izay tsy izy akory, fa saingy misy ny sasany mampitabataba anareo ka te-hamadika ny filazantsaran’i Kristy."
-    },
-    {
-      "v": 8,
-      "text": "Fa na izahay, na anjely avy any an-danitra aza, no mitory filazantsara hafa aminareo afa-tsy izay efa notorinay taminareo, aoka ho voaozona izy."
-    },
-    {
-      "v": 9,
-      "text": "Araka ny voalazanay fahiny no lazaiko indray ankehitriny: Raha misy olona mitory filazantsara hafa aminareo afa-tsy izay efa noraisinareo, aoka ho voaozona izy."
-    },
-    {
-      "v": 10,
-      "text": "Koa ankehitriny ho an' olona va no andreseko lahatra sa ho an' Andriamanitra? Sa mila sitraka amin’olona aho? Raha mbola mila sitraka amin’olona aho, dia tsy mpanompon’i Kristy."
-    },
-    {
-      "v": 11,
-      "text": "Fa ampahafantariko anareo, ry rahalahy, fa ny filazantsara izay notoriko dia tsy avy amin’olona,"
-    },
-    {
-      "v": 12,
-      "text": "Fa tsy nandray azy tamin’olona aho, na nampianarina, fa tamin’ny fanambaran’i Jesosy Kristy."
-    },
-    {
-      "v": 13,
-      "text": "\"Fa efa renareo ny toetro fahiny tamin’ny fivavahan’ny Jiosy, fa nanenjika ny fiangonan’Andriamanitra efa izaitsizy aho ka nandrava azy;\""
-    },
-    {
-      "v": 14,
-      "text": "Ary nandroso tamin’ny fivavahan’ny Jiosy mihoatra noho ny maro izay indray nihira tamiko teo amin’ny fireneko aho ka fatra-pitana indrindra ny fomba amam-panaon' ny razako."
-    },
-    {
-      "v": 15,
-      "text": "Fa rehefa sitrak’Andriamanitra, Izay nanokana ahy hatrany an-kibon’ineny sy niantso ahy tamin’ny fahasoavany,"
-    },
-    {
-      "v": 16,
-      "text": "Ny nampiseho ny Zanany tato anatiko, mba hitoriako Azy any amin’ny jentilisa, niaraka tamin’izay dia tsy naka saina tamin’ny nofo aman-drà aho,"
-    },
-    {
-      "v": 17,
-      "text": "Ary tsy niakatra tany Jerosalema ho any amin’izay apostoly talohako aho, fa lasa nankany Arabia, dia niverina ho any Damaskosy indray."
-    },
-    {
-      "v": 18,
-      "text": "Ary rehefa afaka telo taona, dia niakatra tany Jerosalema hamangy an’i Petera aho ka nitoetra tao aminy dimy ambin’ny folo andro."
-    },
-    {
-      "v": 19,
-      "text": "Nefa ny apostoly sasany dia tsy nisy hitako afa-tsy Jakoba, rahalahin’ny Tompo."
-    },
-    {
-      "v": 20,
-      "text": "Ary izay zavatra soratako aminareo, indro, eo anatrehan’Andriamanitra fa tsy mandainga aho."
-    },
-    {
-      "v": 21,
-      "text": "\"Rehefa afaka izany, dia tonga tany amin’ny tany Syria sy Silisia aho;\""
-    },
-    {
-      "v": 22,
-      "text": "Ary tsy mbola fantatry ny fiangonana any Jodia, izay ao amin’i Kristy, ny tarehiko."
-    },
-    {
-      "v": 23,
-      "text": "Fa nandre ihany izy ireo hoe: Ilay mpanenjika antsika fahiny, indro izy ankehitriny mitory ny finoana izay noravany taloha."
-    },
-    {
-      "v": 24,
-      "text": "Ary dia nankalazan' izy ireo an’Andriamanitra aho."
-    }
-  ]
+  "verses": {
+    "1": "Paoly, apostoly (tsy avy tamin’olona, na tamin’ny alalan’olona, fa tamin’ny alalan’i Jesosy Kristy sy Andriamanitra Ray izay nanangana Azy tamin’ny maty);",
+    "2": "Mbamin’ny rahalahy rehetra izay ato amiko, mamangy ny fiangonana aty Galatia:",
+    "3": "Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin’Andriamanitra Ray sy Jesosy Kristy Tompontsika,",
+    "4": "Izay nanolotra ny tenany noho ny fahotantsika, hanafahany antsika amin’izao miara-belona ratsy fanahy izao, araka ny sitrapon’Andriamanitra sady Raintsika;",
+    "5": "Ho Azy anie ny voninahitra mandrakizay mandrakizay. Amena.",
+    "6": "Gaga aho, raha mifindra faingana toy izao ianareo hiala amin’Izay efa niantso anareo tamin’ny fahasoavan’i Kristy ho amin’ny filazantsara hafa,",
+    "7": "Izay tsy izy akory, fa saingy misy ny sasany mampitabataba anareo ka te-hamadika ny filazantsaran’i Kristy.",
+    "8": "Fa na izahay, na anjely avy any an-danitra aza, no mitory filazantsara hafa aminareo afa-tsy izay efa notorinay taminareo, aoka ho voaozona izy.",
+    "9": "Araka ny voalazanay fahiny no lazaiko indray ankehitriny: Raha misy olona mitory filazantsara hafa aminareo afa-tsy izay efa noraisinareo, aoka ho voaozona izy.",
+    "10": "Koa ankehitriny ho an' olona va no andreseko lahatra sa ho an' Andriamanitra? Sa mila sitraka amin’olona aho? Raha mbola mila sitraka amin’olona aho, dia tsy mpanompon’i Kristy.",
+    "11": "Fa ampahafantariko anareo, ry rahalahy, fa ny filazantsara izay notoriko dia tsy avy amin’olona,",
+    "12": "Fa tsy nandray azy tamin’olona aho, na nampianarina, fa tamin’ny fanambaran’i Jesosy Kristy.",
+    "13": "Fa efa renareo ny toetro fahiny tamin’ny fivavahan’ny Jiosy, fa nanenjika ny fiangonan’Andriamanitra efa izaitsizy aho ka nandrava azy;",
+    "14": "Ary nandroso tamin’ny fivavahan’ny Jiosy mihoatra noho ny maro izay indray nihira tamiko teo amin’ny fireneko aho ka fatra-pitana indrindra ny fomba amam-panaon' ny razako.",
+    "15": "Fa rehefa sitrak’Andriamanitra, Izay nanokana ahy hatrany an-kibon’ineny sy niantso ahy tamin’ny fahasoavany,",
+    "16": "Ny nampiseho ny Zanany tato anatiko, mba hitoriako Azy any amin’ny jentilisa, niaraka tamin’izay dia tsy naka saina tamin’ny nofo aman-drà aho,",
+    "17": "Ary tsy niakatra tany Jerosalema ho any amin’izay apostoly talohako aho, fa lasa nankany Arabia, dia niverina ho any Damaskosy indray.",
+    "18": "Ary rehefa afaka telo taona, dia niakatra tany Jerosalema hamangy an’i Petera aho ka nitoetra tao aminy dimy ambin’ny folo andro.",
+    "19": "Nefa ny apostoly sasany dia tsy nisy hitako afa-tsy Jakoba, rahalahin’ny Tompo.",
+    "20": "Ary izay zavatra soratako aminareo, indro, eo anatrehan’Andriamanitra fa tsy mandainga aho.",
+    "21": "Rehefa afaka izany, dia tonga tany amin’ny tany Syria sy Silisia aho;",
+    "22": "Ary tsy mbola fantatry ny fiangonana any Jodia, izay ao amin’i Kristy, ny tarehiko.",
+    "23": "Fa nandre ihany izy ireo hoe: Ilay mpanenjika antsika fahiny, indro izy ankehitriny mitory ny finoana izay noravany taloha.",
+    "24": "Ary dia nankalazan' izy ireo an’Andriamanitra aho."
+  }
 }

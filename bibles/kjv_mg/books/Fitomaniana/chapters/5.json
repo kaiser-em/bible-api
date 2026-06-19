@@ -1,93 +1,28 @@
 {
+  "book": "Fitomaniana",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Jehovah ô, tsarovy izay nanjo anay; hevero sy diniho ny latsa mahazo anay.\""
-    },
-    {
-      "v": 2,
-      "text": "Ny lovanay dia afindra ho an' ny vahiny, ary ny tranonay ho an' ny hafa firenena."
-    },
-    {
-      "v": 3,
-      "text": "Efa kamboty izahay ka tsy manan-dray, ny reninay dia toy ny mpitondratena."
-    },
-    {
-      "v": 4,
-      "text": "Na dia ny loharanonay aza dia andoavanay vola vao azonay isotroana ary ny kitay hazonay dia vidinay vao azo."
-    },
-    {
-      "v": 5,
-      "text": "\"Rambondrambonan'ny mpanenjika amin' ny hatokay izahay; miasa izahay, fa tsy manam-pitsaharana.\""
-    },
-    {
-      "v": 6,
-      "text": "Nanolo-tanana tamin' ny Egyptiana sy ny Asyriana izahay mba ho voky hanina."
-    },
-    {
-      "v": 7,
-      "text": "Nanota ny razanay, tsy ety intsony izy ary izahay no mivesatra ny helony."
-    },
-    {
-      "v": 8,
-      "text": "\"Mpanompo no manapaka anay; tsy misy manafaka anay amin' ny tanany.\""
-    },
-    {
-      "v": 9,
-      "text": "Noho ny sabatra mamely any an' efitra dia manao vy very ny ainay izahay vao mahazo hanina."
-    },
-    {
-      "v": 10,
-      "text": "Mainty toy ny fatana ny hoditray noho ny hamafin' ny mosary."
-    },
-    {
-      "v": 11,
-      "text": "Nosavihina ny vehivavy tao Ziona sy ny tovovavy tao amin' ny tanànan' ny Joda."
-    },
-    {
-      "v": 12,
-      "text": "\"Nahantona tamin' ny tanany ny lehibe; ary ny tavan' ny loholona tsy mba nohajaina.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ny zatovo nitondra ny fikosoham-barimbazaha; ary ny ankizy madinika lavo nitondra ny hazo.\""
-    },
-    {
-      "v": 14,
-      "text": "Nijanona tsy ho eo am-bavahady ny loholona, ary nitsahatra tamin' ny mozikany ny zatovo."
-    },
-    {
-      "v": 15,
-      "text": "Ny hafalian' ny fonay dia nitsahatra, ary ny dihinay niova ho fitomaniana."
-    },
-    {
-      "v": 16,
-      "text": "\"Efa afaka ny satroboninahitra tamin' ny lohanay; idiran-doza izahay, fa efa nanota!\""
-    },
-    {
-      "v": 17,
-      "text": "Ary noho izany dia reraka ny fonay, eny, noho izany dia manjavozavo ny masonay,"
-    },
-    {
-      "v": 18,
-      "text": "Noho ny amin' ny tendrombohitra Ziona, izay efa lao sady ikarenjen' ny amboahaolo."
-    },
-    {
-      "v": 19,
-      "text": "Jehovah ô, Ianao no mipetraka mandrakizay, eny, ny sezafiandriananao no maharitra hatramin' ny taranaka fara mandimby."
-    },
-    {
-      "v": 20,
-      "text": "Ahoana no dia anadinoanao anay mandrakizay sy ahafoizanao anay andro lava?"
-    },
-    {
-      "v": 21,
-      "text": "\"Jehovah ô, ampivereno aminao izahay, mba hiverenanay; havaozy ho toy ny fahiny ny andronay.\""
-    },
-    {
-      "v": 22,
-      "text": "Fa efa nandà anay tokoa Ianao, sy tezitra aminay indrindra."
-    }
-  ]
+  "verses": {
+    "1": "Jehovah ô, tsarovy izay nanjo anay; hevero sy diniho ny latsa mahazo anay.",
+    "2": "Ny lovanay dia afindra ho an' ny vahiny, ary ny tranonay ho an' ny hafa firenena.",
+    "3": "Efa kamboty izahay ka tsy manan-dray, ny reninay dia toy ny mpitondratena.",
+    "4": "Na dia ny loharanonay aza dia andoavanay vola vao azonay isotroana ary ny kitay hazonay dia vidinay vao azo.",
+    "5": "Rambondrambonan'ny mpanenjika amin' ny hatokay izahay; miasa izahay, fa tsy manam-pitsaharana.",
+    "6": "Nanolo-tanana tamin' ny Egyptiana sy ny Asyriana izahay mba ho voky hanina.",
+    "7": "Nanota ny razanay, tsy ety intsony izy ary izahay no mivesatra ny helony.",
+    "8": "Mpanompo no manapaka anay; tsy misy manafaka anay amin' ny tanany.",
+    "9": "Noho ny sabatra mamely any an' efitra dia manao vy very ny ainay izahay vao mahazo hanina.",
+    "10": "Mainty toy ny fatana ny hoditray noho ny hamafin' ny mosary.",
+    "11": "Nosavihina ny vehivavy tao Ziona sy ny tovovavy tao amin' ny tanànan' ny Joda.",
+    "12": "Nahantona tamin' ny tanany ny lehibe; ary ny tavan' ny loholona tsy mba nohajaina.",
+    "13": "Ny zatovo nitondra ny fikosoham-barimbazaha; ary ny ankizy madinika lavo nitondra ny hazo.",
+    "14": "Nijanona tsy ho eo am-bavahady ny loholona, ary nitsahatra tamin' ny mozikany ny zatovo.",
+    "15": "Ny hafalian' ny fonay dia nitsahatra, ary ny dihinay niova ho fitomaniana.",
+    "16": "Efa afaka ny satroboninahitra tamin' ny lohanay; idiran-doza izahay, fa efa nanota!",
+    "17": "Ary noho izany dia reraka ny fonay, eny, noho izany dia manjavozavo ny masonay,",
+    "18": "Noho ny amin' ny tendrombohitra Ziona, izay efa lao sady ikarenjen' ny amboahaolo.",
+    "19": "Jehovah ô, Ianao no mipetraka mandrakizay, eny, ny sezafiandriananao no maharitra hatramin' ny taranaka fara mandimby.",
+    "20": "Ahoana no dia anadinoanao anay mandrakizay sy ahafoizanao anay andro lava?",
+    "21": "Jehovah ô, ampivereno aminao izahay, mba hiverenanay; havaozy ho toy ny fahiny ny andronay.",
+    "22": "Fa efa nandà anay tokoa Ianao, sy tezitra aminay indrindra."
+  }
 }

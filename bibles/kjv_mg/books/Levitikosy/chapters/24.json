@@ -1,97 +1,29 @@
 {
+  "book": "Levitikosy",
   "chapter": 24,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Mandidia ny Zanak' Isiraely hitondra aminao diloilon' oliva madio voavely hatao fanazavana, hampirehetana jiro mandrakariva."
-    },
-    {
-      "v": 3,
-      "text": "\"Eo ivelan' ny efitra lamba izay manakona ny Vavolombelona, dia eo amin' ny tranolay fihaonana, no handaharan' i Arona azy, hatramin' ny hariva ka hatramin' ny maraina eo anatrehan' i Jehovah mandrakariva; ho lalàna mandrakizay amin' ny taranakareo mifandimby izany.\""
-    },
-    {
-      "v": 4,
-      "text": "Eo amin' ny fanaovanjiro volamena tsara no handaharany ny lela fanaovanjiro mandrakariva eo anatrehan' i Jehovah."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary makà koba tsara toto, ka andrahoy ho mofo roa ambin' ny folo; roa ampahafolon' ny efaha no hatao mofo iray.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary mandahara ireo eo ambonin' ny latabatra madio eo anatrehan' i Jehovah, ataovy roa laharana, dia enina avy no iray toerana."
-    },
-    {
-      "v": 7,
-      "text": "Ary asio ditin-kazo mani-pofona madio ny isan-daharana, mba ho eo amin' ny mofo izany ho fanati-pahatsiarovana, dia fanatitra atao amin' ny afo ho an' i Jehovah."
-    },
-    {
-      "v": 8,
-      "text": "Isan-tsabata no handaharany ireo mandrakariva eo anatrehan' i Jehovah: ho avy amin' ny Zanak' Isiraely izany, dia fanekena mandrakizay."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary ho an' i Arona sy ny zanany lahy izany, ka hohaniny eo amin' ny fitoerana masina; fa ho masina indrindra ho azy izany avy amin' ny fanatitra atao amin' ny afo; lalàna mandrakizay izany.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary nisy lehilahy anankiray nivoaka nankeo amin' ny Zanak' Isiraely, vehivavy Isiraelita no reniny, fa lehilahy Egyptiana no rainy; ary niady tao an-toby io zanaky ny vehivavy Isiraelita io sy ny lehilahy Isiraelita anankiray.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary nanao blasfemia ny anaran' i Jehovah ilay zanaky ny vehivavy Isiraelita ka nanozona. Dia nentina tany amin' i Mosesy izy (Selomita no anaran-dreniny, zanakavavin' i Dibry, avy tamin' ny fokon' i Dana);\""
-    },
-    {
-      "v": 12,
-      "text": "Ary nambenany izy, mandra-paneho azy ireo ny hevitr' i Jehovah."
-    },
-    {
-      "v": 13,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 14,
-      "text": "Avoahy ho eny ivelan' ny toby ilay nanozona, ary aoka izay rehetra nandre azy hametraka ny tanany amin' ny lohany, ary aoka ny fiangonana rehetra hitora-bato azy."
-    },
-    {
-      "v": 15,
-      "text": "Ary mitenena amin' ny Zanak' Isiraely hoe: na iza na iza no manozona ny anaran' i Jehovah dia hitondra ny otany."
-    },
-    {
-      "v": 16,
-      "text": "\"Fa izay manao blasfemia ny anaran' i Jehovah, dia hatao maty mihitsy, ka hitora-bato azy tokoa ny fiangonana rehetra; na vahiny, na tera-tany, raha manao blasfemia ny anaran' i Jehovah izy, dia hatao maty.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary izay mahafaty olona dia hatao maty tokoa."
-    },
-    {
-      "v": 18,
-      "text": "\"Fa izay mahafaty biby dia hanonitra azy; biby solon' ny biby.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary raha misy olona manakilema ny namany, dia toy izay nataony no hatao aminy kosa."
-    },
-    {
-      "v": 20,
-      "text": "Tapaka solon' ny tapaka, maso solon' ny maso, nify solon' ny nify, tahaka ny kilema nataony tamin' ny olona no hatao aminy kosa indray."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary izay mahafaty biby dia hanonitra izany; fa izay mahafaty olona, dia hatao maty.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Lalàna iray no hitondrana anareo, na vahiny, na tera-tany; fa Izaho no Jehovah Andriamanitrareo.\""
-    },
-    {
-      "v": 23,
-      "text": "Ary Mosesy niteny tamin' ny Zanak' Isiraely, dia navoakany teny ivelan' ny toby ilay nanozona ka notorahany vato. Ary ny Zanak' Isiraely dia nanao araka izay efa nandidian' i Jehovah an' i Mosesy."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "2": "Mandidia ny Zanak' Isiraely hitondra aminao diloilon' oliva madio voavely hatao fanazavana, hampirehetana jiro mandrakariva.",
+    "3": "Eo ivelan' ny efitra lamba izay manakona ny Vavolombelona, dia eo amin' ny tranolay fihaonana, no handaharan' i Arona azy, hatramin' ny hariva ka hatramin' ny maraina eo anatrehan' i Jehovah mandrakariva; ho lalàna mandrakizay amin' ny taranakareo mifandimby izany.",
+    "4": "Eo amin' ny fanaovanjiro volamena tsara no handaharany ny lela fanaovanjiro mandrakariva eo anatrehan' i Jehovah.",
+    "5": "Ary makà koba tsara toto, ka andrahoy ho mofo roa ambin' ny folo; roa ampahafolon' ny efaha no hatao mofo iray.",
+    "6": "Ary mandahara ireo eo ambonin' ny latabatra madio eo anatrehan' i Jehovah, ataovy roa laharana, dia enina avy no iray toerana.",
+    "7": "Ary asio ditin-kazo mani-pofona madio ny isan-daharana, mba ho eo amin' ny mofo izany ho fanati-pahatsiarovana, dia fanatitra atao amin' ny afo ho an' i Jehovah.",
+    "8": "Isan-tsabata no handaharany ireo mandrakariva eo anatrehan' i Jehovah: ho avy amin' ny Zanak' Isiraely izany, dia fanekena mandrakizay.",
+    "9": "Ary ho an' i Arona sy ny zanany lahy izany, ka hohaniny eo amin' ny fitoerana masina; fa ho masina indrindra ho azy izany avy amin' ny fanatitra atao amin' ny afo; lalàna mandrakizay izany.",
+    "10": "Ary nisy lehilahy anankiray nivoaka nankeo amin' ny Zanak' Isiraely, vehivavy Isiraelita no reniny, fa lehilahy Egyptiana no rainy; ary niady tao an-toby io zanaky ny vehivavy Isiraelita io sy ny lehilahy Isiraelita anankiray.",
+    "11": "Ary nanao blasfemia ny anaran' i Jehovah ilay zanaky ny vehivavy Isiraelita ka nanozona. Dia nentina tany amin' i Mosesy izy (Selomita no anaran-dreniny, zanakavavin' i Dibry, avy tamin' ny fokon' i Dana);",
+    "12": "Ary nambenany izy, mandra-paneho azy ireo ny hevitr' i Jehovah.",
+    "13": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "14": "Avoahy ho eny ivelan' ny toby ilay nanozona, ary aoka izay rehetra nandre azy hametraka ny tanany amin' ny lohany, ary aoka ny fiangonana rehetra hitora-bato azy.",
+    "15": "Ary mitenena amin' ny Zanak' Isiraely hoe: na iza na iza no manozona ny anaran' i Jehovah dia hitondra ny otany.",
+    "16": "Fa izay manao blasfemia ny anaran' i Jehovah, dia hatao maty mihitsy, ka hitora-bato azy tokoa ny fiangonana rehetra; na vahiny, na tera-tany, raha manao blasfemia ny anaran' i Jehovah izy, dia hatao maty.",
+    "17": "Ary izay mahafaty olona dia hatao maty tokoa.",
+    "18": "Fa izay mahafaty biby dia hanonitra azy; biby solon' ny biby.",
+    "19": "Ary raha misy olona manakilema ny namany, dia toy izay nataony no hatao aminy kosa.",
+    "20": "Tapaka solon' ny tapaka, maso solon' ny maso, nify solon' ny nify, tahaka ny kilema nataony tamin' ny olona no hatao aminy kosa indray.",
+    "21": "Ary izay mahafaty biby dia hanonitra izany; fa izay mahafaty olona, dia hatao maty.",
+    "22": "Lalàna iray no hitondrana anareo, na vahiny, na tera-tany; fa Izaho no Jehovah Andriamanitrareo.",
+    "23": "Ary Mosesy niteny tamin' ny Zanak' Isiraely, dia navoakany teny ivelan' ny toby ilay nanozona ka notorahany vato. Ary ny Zanak' Isiraely dia nanao araka izay efa nandidian' i Jehovah an' i Mosesy."
+  }
 }

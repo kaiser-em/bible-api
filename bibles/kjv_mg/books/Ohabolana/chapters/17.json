@@ -1,117 +1,34 @@
 {
+  "book": "Ohabolana",
   "chapter": 17,
-  "verses": [
-    {
-      "v": 1,
-      "text": "TSARA ny sombi-mofo maina misy filaminana, noho ny trano feno fanatitra misy fifandirana."
-    },
-    {
-      "v": 2,
-      "text": "Ny mpanompo hendry dia hanapaka ny zanaka manao izay mahamenatra sady hahazo anjara lova eo amin' ny mpirahalahy."
-    },
-    {
-      "v": 3,
-      "text": "\"Ny memy ho an' ny volafotsy, ary ny fatana fandrendrehana ho an' ny volamena; fa Jehovah ihany no Mpamantatra ny fo.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ny mpanao ratsy mampandry sofina amin' ny molotra mandainga; ary ny mpandainga mihaino ny lela mampidi-doza.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Izay mihomehy ny mahantra dia manala baràka ny Mpanao azy; ary izay faly amin' ny fahorian' ny sasany dia tsy maintsy hampijaliana.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Satroboninahitry ny antitra ny zafiny; ary voninahitry ny zanaka ny rainy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ny teny tsara indrindra dia tsy tandrifiny alahatry ny adala; koa mainka fa tsy tokony ho an' ny zanak' andriana ny molotra mandainga.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ny fanomezana dia toy ny vatosoa eo imason' izay manana azy; ka na aiza na aiza alehany, dia ambinina izy.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Izay manarona fahadisoana dia mitady fitiavana; fa izay mamohafoha teny dia mampisaraka ny tena mpisakaiza.\""
-    },
-    {
-      "v": 10,
-      "text": "Ny anatra dia manan-kery kokoa amin' ny hendry noho ny kapoka injato amin' ny adala."
-    },
-    {
-      "v": 11,
-      "text": "Ny ratsy fanahy tsy mitady afa-tsy fikomiana, ka dia iraka lozabe no irahina hamely azy."
-    },
-    {
-      "v": 12,
-      "text": "Aleo mifanena amin' ny bera very anaka, toy izay amin' ny adala feno hadalana."
-    },
-    {
-      "v": 13,
-      "text": "Izay mamaly ratsy ny soa, ny ratsy dia tsy hiala ao an-tranony."
-    },
-    {
-      "v": 14,
-      "text": "Ny fiandohan' ny ady dia toy ny manata-drano, koa ilaozy ny fifandirana, dieny tsy mbola mifandramatra."
-    },
-    {
-      "v": 15,
-      "text": "Izay manamarina ny meloka, na izay manameloka ny marina, dia samy fahavetavetana eo imason' i Jehovah."
-    },
-    {
-      "v": 16,
-      "text": "Hatao inona re ity vola an-tanan' ny adala? Hamidy fahendrena va? Tsy manan-tsaina izy."
-    },
-    {
-      "v": 17,
-      "text": "Izay tena sakaiza dia tia amin' ny fotoana rehetra, sady nateraka ho rahalahy hamonjy amin' ny fahoriana."
-    },
-    {
-      "v": 18,
-      "text": "Olona tsy ampy fahalalana izay mifandray tanana hiantoka eo anatrehan' ny sakaizany."
-    },
-    {
-      "v": 19,
-      "text": "\"Izay tia ady dia tia fahadisoana; ary izay manandratra ny vavahadiny mitady fahasimbana.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Izay madi-po tsy hahita soa; ary izay manana lela mandainga dia hivarina amin' ny loza.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Izay miteraka adala dia hahazo alahelo; ary ny rain' ny adala dia tsy hanam-pifaliana.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ny fo ravoravo dia mahasoa toy ny fanafody; fa ny fanahy kivy mahamaina ny taolana.\""
-    },
-    {
-      "v": 23,
-      "text": "Ny ratsy fanahy mandray fanomezana avy any anaty lamba hoentiny mamadika ny lalan' ny fitsarana."
-    },
-    {
-      "v": 24,
-      "text": "\"Eo anoloan' ny manan-tsaina ny fahendrena; fa ny mason' ny adala dia mibirioka any amin' ny faran' ny tany.\""
-    },
-    {
-      "v": 25,
-      "text": "Ny zanaka adala mampalahelo ny rainy, ary fahoriana mangidy amin' ny reniny niteraka azy."
-    },
-    {
-      "v": 26,
-      "text": "Tsy tsara raha mampijaly ny marina, na mamely ny zanak' andriana amin' ny tsy rariny."
-    },
-    {
-      "v": 27,
-      "text": "\"Izay manam-pahalalana dia mahafihim-bava; ary izay manam-pahalalana dia manam-panahy tsara indrindra.\""
-    },
-    {
-      "v": 28,
-      "text": "Na ny adala aza, raha tsy miteny, dia atao ho hendry, ary izay manakombona ny vavany dia toa manan-tsaina."
-    }
-  ]
+  "verses": {
+    "1": "TSARA ny sombi-mofo maina misy filaminana, noho ny trano feno fanatitra misy fifandirana.",
+    "2": "Ny mpanompo hendry dia hanapaka ny zanaka manao izay mahamenatra sady hahazo anjara lova eo amin' ny mpirahalahy.",
+    "3": "Ny memy ho an' ny volafotsy, ary ny fatana fandrendrehana ho an' ny volamena; fa Jehovah ihany no Mpamantatra ny fo.",
+    "4": "Ny mpanao ratsy mampandry sofina amin' ny molotra mandainga; ary ny mpandainga mihaino ny lela mampidi-doza.",
+    "5": "Izay mihomehy ny mahantra dia manala baràka ny Mpanao azy; ary izay faly amin' ny fahorian' ny sasany dia tsy maintsy hampijaliana.",
+    "6": "Satroboninahitry ny antitra ny zafiny; ary voninahitry ny zanaka ny rainy.",
+    "7": "Ny teny tsara indrindra dia tsy tandrifiny alahatry ny adala; koa mainka fa tsy tokony ho an' ny zanak' andriana ny molotra mandainga.",
+    "8": "Ny fanomezana dia toy ny vatosoa eo imason' izay manana azy; ka na aiza na aiza alehany, dia ambinina izy.",
+    "9": "Izay manarona fahadisoana dia mitady fitiavana; fa izay mamohafoha teny dia mampisaraka ny tena mpisakaiza.",
+    "10": "Ny anatra dia manan-kery kokoa amin' ny hendry noho ny kapoka injato amin' ny adala.",
+    "11": "Ny ratsy fanahy tsy mitady afa-tsy fikomiana, ka dia iraka lozabe no irahina hamely azy.",
+    "12": "Aleo mifanena amin' ny bera very anaka, toy izay amin' ny adala feno hadalana.",
+    "13": "Izay mamaly ratsy ny soa, ny ratsy dia tsy hiala ao an-tranony.",
+    "14": "Ny fiandohan' ny ady dia toy ny manata-drano, koa ilaozy ny fifandirana, dieny tsy mbola mifandramatra.",
+    "15": "Izay manamarina ny meloka, na izay manameloka ny marina, dia samy fahavetavetana eo imason' i Jehovah.",
+    "16": "Hatao inona re ity vola an-tanan' ny adala? Hamidy fahendrena va? Tsy manan-tsaina izy.",
+    "17": "Izay tena sakaiza dia tia amin' ny fotoana rehetra, sady nateraka ho rahalahy hamonjy amin' ny fahoriana.",
+    "18": "Olona tsy ampy fahalalana izay mifandray tanana hiantoka eo anatrehan' ny sakaizany.",
+    "19": "Izay tia ady dia tia fahadisoana; ary izay manandratra ny vavahadiny mitady fahasimbana.",
+    "20": "Izay madi-po tsy hahita soa; ary izay manana lela mandainga dia hivarina amin' ny loza.",
+    "21": "Izay miteraka adala dia hahazo alahelo; ary ny rain' ny adala dia tsy hanam-pifaliana.",
+    "22": "Ny fo ravoravo dia mahasoa toy ny fanafody; fa ny fanahy kivy mahamaina ny taolana.",
+    "23": "Ny ratsy fanahy mandray fanomezana avy any anaty lamba hoentiny mamadika ny lalan' ny fitsarana.",
+    "24": "Eo anoloan' ny manan-tsaina ny fahendrena; fa ny mason' ny adala dia mibirioka any amin' ny faran' ny tany.",
+    "25": "Ny zanaka adala mampalahelo ny rainy, ary fahoriana mangidy amin' ny reniny niteraka azy.",
+    "26": "Tsy tsara raha mampijaly ny marina, na mamely ny zanak' andriana amin' ny tsy rariny.",
+    "27": "Izay manam-pahalalana dia mahafihim-bava; ary izay manam-pahalalana dia manam-panahy tsara indrindra.",
+    "28": "Na ny adala aza, raha tsy miteny, dia atao ho hendry, ary izay manakombona ny vavany dia toa manan-tsaina."
+  }
 }

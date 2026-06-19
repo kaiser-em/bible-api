@@ -1,101 +1,30 @@
 {
+  "book": "Isaia",
   "chapter": 66,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Izao no lazain' i Jehovah: Ny lanitra no sezafiandrianako, ary ny tany no fitoeran-tongotro; aiza ny trano izay hataonareo ho Ahy? Ary aiza ny fitoeran' ny fitsaharako?\""
-    },
-    {
-      "v": 2,
-      "text": "\"Fa izao zavatra rehetra izao no nataon' ny tanako, ka dia ary izao rehetra izao hoy Jehovah; nefa izao no olona hotsinjoviko, dia izay mahantra sy torotoro fanahy sady mangovitra noho ny teniko.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Izay mamono omby dia ohatra ny mamono olona; izay mamono ondry hatao fanatitra dia ohatra ny manapaka ny vozon' alika; izay manatitra fanatitra hohanina dia ohatra ny manatitra ron-kisoa; izay mandoro ditin-kazo manim-pofona dia ohatra ny misaotra ny sampy. Eny, efa nifidy ny lalany izy, ka mifaly amin' ny fahavetavetany ny fanahiny.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Dia tahaka izany kosa no hifidianako ny fampahoriana azy, sy handatsaka ny tahony ho aminy, satria niantso Aho, fa tsy nisy namaly, niteny Aho, fa tsy nihaino izy; fa nanao izay ratsy teo imasoko izy, ary izay tsy sitrako no nofidiny.\""
-    },
-    {
-      "v": 5,
-      "text": "Mihainoa ny tenin' i Jehovah, ianareo izay mangovitra noho ny teniny! Hoy ny rahalahinareo izay mankahala anareo ka mandroaka anareo noho ny amin' ny anarako: hampiseho ny voninahiny anie Jehovah, fa hiseho ho fifalianareo Izy, ka ho menatra ireny."
-    },
-    {
-      "v": 6,
-      "text": "Injany! horakoraka avy any an-tanàna, ary feo avy ao amin' ny tempoly, dia feon' i Jehovah izay mamaly ny ataon' ny fahavalony."
-    },
-    {
-      "v": 7,
-      "text": "\"Fony mbola tsy nihetsi-jaza aza izy, dia niteraka; fony mbola tsy nanaintaina aza izy, dia velon-jazalahy.\""
-    },
-    {
-      "v": 8,
-      "text": "Iza akory no efa nandre zavatra toy izany? Iza no efa nahita zavatra toy izany? Hisy tany hateraka indray andro va, na firenena azo atao indray miteraka? Fa raha vao narary hiteraka Ziona, dia velon-jaza izy."
-    },
-    {
-      "v": 9,
-      "text": "\"Izaho moa hahatonga ho eo amin' ny fiterahana ka tsy hampiteraka va? hoy Jehovah; Izaho hampiteraka, nefa hampikombona indray va? hoy Andriamanitrao.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Miaraha mifaly amin' i Jerosalema, ary miravoravoa aminy ianareo rehetra izay tia azy; aoka hiara-mifaly aminy tokoa ianareo rehetra izay malahelo noho ny aminy,\""
-    },
-    {
-      "v": 11,
-      "text": "Mba hinonoanareo sy hivokisanareo amin' ny nonony mahafaly. Eny, mba higoka hianareo ka hiravoravo amin' ny haben' ny voninahiny."
-    },
-    {
-      "v": 12,
-      "text": "\"Fa izao no lazain' i Jehovah: Indro hitarihako fiadanana tahaka ny ony izy ary ny voninahitry ny jentilisa tahaka ny renirano tondraka; ka hinono ianareo, ary hosakelehina ianareo sady hohindrahindraina eo ambony lohalika.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Tahaka ny olona ampiononin-dreniny no hampiononako anareo; eny, ao Jerosalema no hampiononana anareo.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Dia hahita izany ianareo, ka ho faly ny fonareo, ary ny taolanareo ho tsara fitombo tahaka ny ahi-maitso; ary ny tanan' i Jehovah dia ataony ho fantatry ny mpanompony, fa ho tezitra amin' ny fahavalony kosa Izy.\""
-    },
-    {
-      "v": 15,
-      "text": "Fa, indro, Jehovah ho avy amin' ny afo, ary tahaka ny tadio ny kalesiny, mba hanao famaliana amin' ny fahatezerany mirehitra sy ny fitenenany mafy amin' ny lelafo."
-    },
-    {
-      "v": 16,
-      "text": "\"Fa ny afo sy ny sabany no hoentin' i Jehovah hifandahatra amin' ny nofo rehetra; ary ho maro ny voaringan' i Jehovah.\""
-    },
-    {
-      "v": 17,
-      "text": "Izay manamasina ny tenany sy manadio ny tenany ao an-tanimboly ao ambadiky ny hazo eo afovoany, ary mihinana henan-kisoa sy ny zava-betaveta ary ny totozy dia hiaraka ho levona avokoa, hoy Jehovah."
-    },
-    {
-      "v": 18,
-      "text": "\"Fa Izaho dia mahalala ny asany sy ny heviny, ho avy ny hamoriako ny firenena rehetra sy ny samy hafa fiteny; dia ho avy ireo ka hahita ny voninahitro.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary hasiako famantarana eo aminy ary izay afaka mandositra dia hirahiko ho any amin' ny firenena, dia ho any Tarsisy sy Pola ary Loda izay manenjana tsipìka, ary ho any Tobala sy Javana, dia ho any amin' ireo nosy lavitra izay tsy mbola nandre ny lazako na nahita ny voninahitro, ary hitory ny voninahitro any amin' ny Jentilisa izy."
-    },
-    {
-      "v": 20,
-      "text": "Ary ireo hitondra ho fanatitra ho an' i Jehovah ny rahalahinareo rehetra avy any amin' ny firenena rehetra mitaingin-tsoavaly sy ao anaty kalesy sy filanjana ary mitaingina mole sy biby haingam-pandeha ho any Jerosalema tendrombohitro masina, hoy Jehovah, dia tahaka ny zanak' Isiraely mitondra fanatitra ao anatin' ny vilia madio ho ao an-tranon' i Jehovah."
-    },
-    {
-      "v": 21,
-      "text": "Ary avy amin' ireo aza no hakako ho mpisorona sy Levita, hoy Jehovah."
-    },
-    {
-      "v": 22,
-      "text": "Fa tahaka ny lanitra vaovao sy ny tany vaovao, izay hataoko, no haharitra eo anatrehako, hoy Jehovah, dia toy izany ny haharetan' ny taranakareo sy ny anaranareo."
-    },
-    {
-      "v": 23,
-      "text": "Ary izao no hiseho, isaky ny voaloham-bolana sy isan-tsabata dia ho avy ny nofo rehetra hiankohoka eo anatrehako, hoy Jehovah."
-    },
-    {
-      "v": 24,
-      "text": "\"Ary hivoaka izy ireny ka hijery ny fatin' ny olona izay efa niodina tamiko; fa ny kankany tsy ho faty, ary ny afony tsy hovonoina, ary hataon' ny nofo rehetra ho fahavetavetana ireo.\""
-    }
-  ]
+  "verses": {
+    "1": "Izao no lazain' i Jehovah: Ny lanitra no sezafiandrianako, ary ny tany no fitoeran-tongotro; aiza ny trano izay hataonareo ho Ahy? Ary aiza ny fitoeran' ny fitsaharako?",
+    "2": "Fa izao zavatra rehetra izao no nataon' ny tanako, ka dia ary izao rehetra izao hoy Jehovah; nefa izao no olona hotsinjoviko, dia izay mahantra sy torotoro fanahy sady mangovitra noho ny teniko.",
+    "3": "Izay mamono omby dia ohatra ny mamono olona; izay mamono ondry hatao fanatitra dia ohatra ny manapaka ny vozon' alika; izay manatitra fanatitra hohanina dia ohatra ny manatitra ron-kisoa; izay mandoro ditin-kazo manim-pofona dia ohatra ny misaotra ny sampy. Eny, efa nifidy ny lalany izy, ka mifaly amin' ny fahavetavetany ny fanahiny.",
+    "4": "Dia tahaka izany kosa no hifidianako ny fampahoriana azy, sy handatsaka ny tahony ho aminy, satria niantso Aho, fa tsy nisy namaly, niteny Aho, fa tsy nihaino izy; fa nanao izay ratsy teo imasoko izy, ary izay tsy sitrako no nofidiny.",
+    "5": "Mihainoa ny tenin' i Jehovah, ianareo izay mangovitra noho ny teniny! Hoy ny rahalahinareo izay mankahala anareo ka mandroaka anareo noho ny amin' ny anarako: hampiseho ny voninahiny anie Jehovah, fa hiseho ho fifalianareo Izy, ka ho menatra ireny.",
+    "6": "Injany! horakoraka avy any an-tanàna, ary feo avy ao amin' ny tempoly, dia feon' i Jehovah izay mamaly ny ataon' ny fahavalony.",
+    "7": "Fony mbola tsy nihetsi-jaza aza izy, dia niteraka; fony mbola tsy nanaintaina aza izy, dia velon-jazalahy.",
+    "8": "Iza akory no efa nandre zavatra toy izany? Iza no efa nahita zavatra toy izany? Hisy tany hateraka indray andro va, na firenena azo atao indray miteraka? Fa raha vao narary hiteraka Ziona, dia velon-jaza izy.",
+    "9": "Izaho moa hahatonga ho eo amin' ny fiterahana ka tsy hampiteraka va? hoy Jehovah; Izaho hampiteraka, nefa hampikombona indray va? hoy Andriamanitrao.",
+    "10": "Miaraha mifaly amin' i Jerosalema, ary miravoravoa aminy ianareo rehetra izay tia azy; aoka hiara-mifaly aminy tokoa ianareo rehetra izay malahelo noho ny aminy,",
+    "11": "Mba hinonoanareo sy hivokisanareo amin' ny nonony mahafaly. Eny, mba higoka hianareo ka hiravoravo amin' ny haben' ny voninahiny.",
+    "12": "Fa izao no lazain' i Jehovah: Indro hitarihako fiadanana tahaka ny ony izy ary ny voninahitry ny jentilisa tahaka ny renirano tondraka; ka hinono ianareo, ary hosakelehina ianareo sady hohindrahindraina eo ambony lohalika.",
+    "13": "Tahaka ny olona ampiononin-dreniny no hampiononako anareo; eny, ao Jerosalema no hampiononana anareo.",
+    "14": "Dia hahita izany ianareo, ka ho faly ny fonareo, ary ny taolanareo ho tsara fitombo tahaka ny ahi-maitso; ary ny tanan' i Jehovah dia ataony ho fantatry ny mpanompony, fa ho tezitra amin' ny fahavalony kosa Izy.",
+    "15": "Fa, indro, Jehovah ho avy amin' ny afo, ary tahaka ny tadio ny kalesiny, mba hanao famaliana amin' ny fahatezerany mirehitra sy ny fitenenany mafy amin' ny lelafo.",
+    "16": "Fa ny afo sy ny sabany no hoentin' i Jehovah hifandahatra amin' ny nofo rehetra; ary ho maro ny voaringan' i Jehovah.",
+    "17": "Izay manamasina ny tenany sy manadio ny tenany ao an-tanimboly ao ambadiky ny hazo eo afovoany, ary mihinana henan-kisoa sy ny zava-betaveta ary ny totozy dia hiaraka ho levona avokoa, hoy Jehovah.",
+    "18": "Fa Izaho dia mahalala ny asany sy ny heviny, ho avy ny hamoriako ny firenena rehetra sy ny samy hafa fiteny; dia ho avy ireo ka hahita ny voninahitro.",
+    "19": "Ary hasiako famantarana eo aminy ary izay afaka mandositra dia hirahiko ho any amin' ny firenena, dia ho any Tarsisy sy Pola ary Loda izay manenjana tsipìka, ary ho any Tobala sy Javana, dia ho any amin' ireo nosy lavitra izay tsy mbola nandre ny lazako na nahita ny voninahitro, ary hitory ny voninahitro any amin' ny Jentilisa izy.",
+    "20": "Ary ireo hitondra ho fanatitra ho an' i Jehovah ny rahalahinareo rehetra avy any amin' ny firenena rehetra mitaingin-tsoavaly sy ao anaty kalesy sy filanjana ary mitaingina mole sy biby haingam-pandeha ho any Jerosalema tendrombohitro masina, hoy Jehovah, dia tahaka ny zanak' Isiraely mitondra fanatitra ao anatin' ny vilia madio ho ao an-tranon' i Jehovah.",
+    "21": "Ary avy amin' ireo aza no hakako ho mpisorona sy Levita, hoy Jehovah.",
+    "22": "Fa tahaka ny lanitra vaovao sy ny tany vaovao, izay hataoko, no haharitra eo anatrehako, hoy Jehovah, dia toy izany ny haharetan' ny taranakareo sy ny anaranareo.",
+    "23": "Ary izao no hiseho, isaky ny voaloham-bolana sy isan-tsabata dia ho avy ny nofo rehetra hiankohoka eo anatrehako, hoy Jehovah.",
+    "24": "Ary hivoaka izy ireny ka hijery ny fatin' ny olona izay efa niodina tamiko; fa ny kankany tsy ho faty, ary ny afony tsy hovonoina, ary hataon' ny nofo rehetra ho fahavetavetana ireo."
+  }
 }

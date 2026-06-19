@@ -1,73 +1,23 @@
 {
+  "book": "Levitikosy",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niantso an' i Mosesy ka niteny taminy tao anatin' ny tranolay fihaonana hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Mitenena amin' ny Zanak' Isiraely ka lazao aminy hoe: Raha misy aminareo mitondra fanatitra ho an' i Jehovah, dia avy amin' ny biby fiompy, dia ny omby sy ny ondry aman' osy no ho fanatitrareo."
-    },
-    {
-      "v": 3,
-      "text": "\"Raha omby no ateriny ho fanatitra dorana, dia lahy tsy misy kilema no hateriny; hanatitra izany amin' ny sitrapony manokana eo anoloan' ny varavaran' ny tranolay fihaonana eo anatrehan' i Jehovah izy.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary hametraka ny tanany eo amin' ny lohan' ny fanatitra dorana izy dia hahazoany fankasitrahana izany, hanaovana fanavotana ho azy."
-    },
-    {
-      "v": 5,
-      "text": "\"Dia hamono ny zanak' omby eo anatrehan' i Jehovah izy; ary ireo mpisorona, zanakalahin' i Arona, dia hanatitra ny rà ka hanopy azy manodidina amin' ny lafin' ny alitara, izay eo anoloan' ny varavaran' ny tranolay fihaonana.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary hohodirany ny fanatitra dorana, dia horasainy izany."
-    },
-    {
-      "v": 7,
-      "text": "Ary ireo zanakalahin' i Arona mpisorona dia hanisy afo eo ambonin' ny alitara ka handahatra kitay eo amin' ny afo."
-    },
-    {
-      "v": 8,
-      "text": "Ary ireo mpisorona, zanak' i Arona, dia handahatra ny voarasa mbamin' ny lohany sy ny saborany eo ambonin' ny kitay eo amin' ny afo izay eo ambonin' ny alitara:"
-    },
-    {
-      "v": 9,
-      "text": "Fa ny taovany sy ny tongony kosa hosasany amin' ny rano dia hodoran' ny mpisorona eo ambonin' ny alitara izy rehetra ho fanatitra dorana, dia fanatitra atao amin' ny afo ho hanitra ankasitrahana ho an' i Jehovah."
-    },
-    {
-      "v": 10,
-      "text": "Raha amin' ny ondry aman' osy no ataony fanatitra, ka ondry na osy, ho fanatitra dorana, dia lahy tsy misy kilema no hateriny."
-    },
-    {
-      "v": 11,
-      "text": "\"Dia hamono azy eo avaratry ny alitara eo anatrehan' i Jehovah izy; ary ireo mpisorona, zanakalahin' i Arona, dia hanopy ny rà manodidina amin' ny lafin' ny alitara.\""
-    },
-    {
-      "v": 12,
-      "text": "Dia horasarasainy izany mbamin' ny lohany sy ny saborany, ka halahatry ny mpisorona eo ambonin' ny kitay eo amin' ny afo izay ambonin' ny alitara izany."
-    },
-    {
-      "v": 13,
-      "text": "\"Fa ny taovany sy ny tongony kosa hosasany amin' ny rano, dia hoentin' ny mpisorona izy rehetra ka hodorany eo ambony alitara izany; fanatitra dorana izany, dia fanatitra atao amin' ny afo, ho hanitra ankasitrahana ho an' i Jehovah.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary raha vorona no aterina ho an' i Jehovah ho fanatitra dorana, dia domohina na zana-boromailala no ateriny ho fanatiny."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary haterin' ny mpisorona ho eo amin' ny alitara izany, ka hotapahiny amin’ny hohony ny lohany, dia hodorany eo ambony alitara; ary hofiazany eo amin' ny lafin' ny alitara ny rany.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary hoesoriny ny takorobabony sy ny volony ka hariany eo atsinanan' ny alitara, dia eo amin' ny fitoeran-davenona;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary hosamahiny amin' ny elany no fameraka azy, fa tsy hohenteriny; ary handoro izany eo ambony alitara ny mpisorona, ambonin' ny kitay izay eo amin' ny afo; fanatitra dorana izany, dia fanatitra atao amin' ny afo ho hanitra ankasitrahana ho an' i Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niantso an' i Mosesy ka niteny taminy tao anatin' ny tranolay fihaonana hoe:",
+    "2": "Mitenena amin' ny Zanak' Isiraely ka lazao aminy hoe: Raha misy aminareo mitondra fanatitra ho an' i Jehovah, dia avy amin' ny biby fiompy, dia ny omby sy ny ondry aman' osy no ho fanatitrareo.",
+    "3": "Raha omby no ateriny ho fanatitra dorana, dia lahy tsy misy kilema no hateriny; hanatitra izany amin' ny sitrapony manokana eo anoloan' ny varavaran' ny tranolay fihaonana eo anatrehan' i Jehovah izy.",
+    "4": "Ary hametraka ny tanany eo amin' ny lohan' ny fanatitra dorana izy dia hahazoany fankasitrahana izany, hanaovana fanavotana ho azy.",
+    "5": "Dia hamono ny zanak' omby eo anatrehan' i Jehovah izy; ary ireo mpisorona, zanakalahin' i Arona, dia hanatitra ny rà ka hanopy azy manodidina amin' ny lafin' ny alitara, izay eo anoloan' ny varavaran' ny tranolay fihaonana.",
+    "6": "Ary hohodirany ny fanatitra dorana, dia horasainy izany.",
+    "7": "Ary ireo zanakalahin' i Arona mpisorona dia hanisy afo eo ambonin' ny alitara ka handahatra kitay eo amin' ny afo.",
+    "8": "Ary ireo mpisorona, zanak' i Arona, dia handahatra ny voarasa mbamin' ny lohany sy ny saborany eo ambonin' ny kitay eo amin' ny afo izay eo ambonin' ny alitara:",
+    "9": "Fa ny taovany sy ny tongony kosa hosasany amin' ny rano dia hodoran' ny mpisorona eo ambonin' ny alitara izy rehetra ho fanatitra dorana, dia fanatitra atao amin' ny afo ho hanitra ankasitrahana ho an' i Jehovah.",
+    "10": "Raha amin' ny ondry aman' osy no ataony fanatitra, ka ondry na osy, ho fanatitra dorana, dia lahy tsy misy kilema no hateriny.",
+    "11": "Dia hamono azy eo avaratry ny alitara eo anatrehan' i Jehovah izy; ary ireo mpisorona, zanakalahin' i Arona, dia hanopy ny rà manodidina amin' ny lafin' ny alitara.",
+    "12": "Dia horasarasainy izany mbamin' ny lohany sy ny saborany, ka halahatry ny mpisorona eo ambonin' ny kitay eo amin' ny afo izay ambonin' ny alitara izany.",
+    "13": "Fa ny taovany sy ny tongony kosa hosasany amin' ny rano, dia hoentin' ny mpisorona izy rehetra ka hodorany eo ambony alitara izany; fanatitra dorana izany, dia fanatitra atao amin' ny afo, ho hanitra ankasitrahana ho an' i Jehovah.",
+    "14": "Ary raha vorona no aterina ho an' i Jehovah ho fanatitra dorana, dia domohina na zana-boromailala no ateriny ho fanatiny.",
+    "15": "Ary haterin' ny mpisorona ho eo amin' ny alitara izany, ka hotapahiny amin’ny hohony ny lohany, dia hodorany eo ambony alitara; ary hofiazany eo amin' ny lafin' ny alitara ny rany.",
+    "16": "Ary hoesoriny ny takorobabony sy ny volony ka hariany eo atsinanan' ny alitara, dia eo amin' ny fitoeran-davenona;",
+    "17": "Ary hosamahiny amin' ny elany no fameraka azy, fa tsy hohenteriny; ary handoro izany eo ambony alitara ny mpisorona, ambonin' ny kitay izay eo amin' ny afo; fanatitra dorana izany, dia fanatitra atao amin' ny afo ho hanitra ankasitrahana ho an' i Jehovah."
+  }
 }

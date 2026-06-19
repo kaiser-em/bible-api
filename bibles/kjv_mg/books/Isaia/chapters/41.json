@@ -1,121 +1,35 @@
 {
+  "book": "Isaia",
   "chapter": 41,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Mangìna eo anatrehako, ry nosy; ary aoka hanavao ny heriny ireo firenena; aoka hanatona izy, ka dia hiteny; andeha isika hifanatona eo amin' ny fitsarana.\""
-    },
-    {
-      "v": 2,
-      "text": "Iza no nanangana ny lehilahy marina avy any atsinanana, niantso azy hanaraka ny diany, nanome ny firenena teo anoloany ka nampanapahany ireo mpanjaka izy? Nomeny azy toy ny vovoka tamin' ny sabany ireny sy toy ny vodivary voapaoka tamin' ny tsipìkany."
-    },
-    {
-      "v": 3,
-      "text": "Mipaoka ireny izy ka mandroso soa aman-tsara any amin' izay lalana tsy mbola nodiavin' ny tongony."
-    },
-    {
-      "v": 4,
-      "text": "Iza moa no nanao sy nahavita izany, sady miantso ny taranaka maro hatrany am-piandohana? Izaho Jehovah no voalohany ary hatramin' ny farany dia mbola Izaho ihany no Izy."
-    },
-    {
-      "v": 5,
-      "text": "\"Nahita izany ny nosy ka raiki-tahotra; toran-kovitra ny faran' ny tany, dia nanatona izy ka tonga.\""
-    },
-    {
-      "v": 6,
-      "text": "Samy nanampy ny namany avy izy rehetra, ary samy nilaza tamin' ny rahalahiny avy hoe: Mahereza."
-    },
-    {
-      "v": 7,
-      "text": "Koa ny mpandrafitra dia nampahery ny mpanefy volamena, ary izay nandama tamin' ny tantanana nampahery izay nively teo amin' ny riandriana, ka hoy izy, miantso ny solohoto: Tsara ity, dia nohomboany mafy tamin' ny fantsika izy mba tsy hihozongozona."
-    },
-    {
-      "v": 8,
-      "text": "Fa ianao kosa, ry Isiraely mpanompoko, sy Jakoba izay nofidiko, taranak' i Abrahama sakaizako,"
-    },
-    {
-      "v": 9,
-      "text": "Ianao izay efa notantanako avy tany amin' ny faran' ny tany ary nantsoiko avy tamin' ny loholona, ka nilazako hoe mpanompoko ianao, efa nofidiko ka tsy mba nariako."
-    },
-    {
-      "v": 10,
-      "text": "\"Aza matahotra ianao, fa momba anao Aho; ary aza miherikerika foana, fa Izaho no Andriamanitrao; hampahery anao Aho sady hamonjy anao; eny, hitantana anao amin' ny tanana ankavanan' ny fahamarinako Aho.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Indro, ho menatra sy hangaihay izay rehetra tezitra aminao, ho tsinontsinona izy; eny, ho levona izay miady aminao.\""
-    },
-    {
-      "v": 12,
-      "text": "Hotadiavinao izay mifanditra aminao, fa tsy ho hitanao, ary ho tahaka ny tsinontsinona sy ny zava-poana izay miady aminao."
-    },
-    {
-      "v": 13,
-      "text": "Fa Izaho Jehovah Andriamanitrao no hitantana ny tananao ankavanana, dia Ilay manao aminao hoe: Aza matahotra, Izaho no hamonjy anao."
-    },
-    {
-      "v": 14,
-      "text": "\"Aza matahotra ianao, ry Jakoba kankana, dia ianareo, ry olon' Isiraely; Izaho no hamonjy anao, hoy Jehovah, ary ny Iray Masin' ny Isiraely no Mpanavotra anao.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Indro, hataoko kodia vy vaovao misy nify maranitra ianao; hively ny tendrombohitra ianao, ka hanorotoro azy ho vovoka ary hanao ny havoana ho akofa.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Hikororoka azy ianao, ka hopaohin' ny rivotra izy, ary ny tafio-drivotra hanely azy; fa ianao kosa dia hiravoravo amin' i Jehovah, ary ny Iray Masin' ny Isiraely no ho reharehanao.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Rehefa mitady rano ny mahantra sy ny olon-tsahirana, fa tsy mahita, ary ny lelany mainan' ny hetaheta; Izaho Jehovah no hihaino azy, Izaho, Andriamanitry ny Isiraely tsy hahafoy azy.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Hampiboika renirano eny amin' ny toerana avo Aho, ary loharano eo afovoan' ny lohasaha; hanao ny efitra ho farihy Aho ary ny tany karankaina ho loharano miboiboika.\""
-    },
-    {
-      "v": 19,
-      "text": "Hampaniry hazo sedera sy akasia sy myrta ary hazo oliva any an' efitra Aho, ary kypreso sy pina sy bokso eny an-tani-hay."
-    },
-    {
-      "v": 20,
-      "text": "Mba ho hitany sy ho fantany sy hoheveriny ary ho azony an-tsaina fa ny tanan' i Jehovah no nanao izany, ary ny Iray Masin' ny Isiraely no nahary izany."
-    },
-    {
-      "v": 21,
-      "text": "\"Alaharo eto ny teninareo, hoy Jehovah; asehoy izay mahamarina ny anareo, hoy ny Mpanjakan' i Jakoba.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Aoka hampanatoniny ka hasehony amintsika izay zavatra mbola ho avy; ambarao izay zavatra taloha, mba hoheverinay ka ho fantatray izay hiafarany, na ilazao izay zavatra ho avy izahay.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ambarao izay zavatra ho avy rahatrizay, mba ho fantatray fa andriamanitra ianareo; eny, manaova soa, na manaova ratsy, mba ho ketraka izahay ary samy hahita.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Indro, ianareo dia naman' ny tsinontsinona, ary ny asanareo dia naman' ny zava-poana; vetaveta izay mifidy anareo.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Nanaitra ny anankiray avy tany avaratra Aho, ka tonga izy; ny anankiray avy any amin' ny fiposahan' ny masoandro, izay hiantso ny anarako: ary hanosihosy ny mpanapaka tahaka ny fanosihosy feta izy, ary tahaka ny mpanefy vilany mihosy tanimanga.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Iza no nitory izany hatramin' ny voalohany, mba ho fantatray? Ary hatry ny fony taloha, mba hataonay hoe: Marina? Tsy misy manambara, eny, tsy misy mitory; ary tsy nisy nandre ny teninareo.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Ny voalohany dia hiteny amin' i Ziona hoe: Indreo, indreo ireo; ary Izaho no hanome an' i Jerosalema anankiray izay mitondra vaovao mahafaly.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Dia nijery Aho, nefa tsy nisy olona; eny, tamin' izy ireo, fa tsy nisy mpanolo-tsaina izay afa-namaly teny raha nanontany azy Aho.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Indro, zava-poana avokoa izy rehetra; tsinontsinona ny asany; rivotra sy zava-poana ny sampiny an' idina.\""
-    }
-  ]
+  "verses": {
+    "1": "Mangìna eo anatrehako, ry nosy; ary aoka hanavao ny heriny ireo firenena; aoka hanatona izy, ka dia hiteny; andeha isika hifanatona eo amin' ny fitsarana.",
+    "2": "Iza no nanangana ny lehilahy marina avy any atsinanana, niantso azy hanaraka ny diany, nanome ny firenena teo anoloany ka nampanapahany ireo mpanjaka izy? Nomeny azy toy ny vovoka tamin' ny sabany ireny sy toy ny vodivary voapaoka tamin' ny tsipìkany.",
+    "3": "Mipaoka ireny izy ka mandroso soa aman-tsara any amin' izay lalana tsy mbola nodiavin' ny tongony.",
+    "4": "Iza moa no nanao sy nahavita izany, sady miantso ny taranaka maro hatrany am-piandohana? Izaho Jehovah no voalohany ary hatramin' ny farany dia mbola Izaho ihany no Izy.",
+    "5": "Nahita izany ny nosy ka raiki-tahotra; toran-kovitra ny faran' ny tany, dia nanatona izy ka tonga.",
+    "6": "Samy nanampy ny namany avy izy rehetra, ary samy nilaza tamin' ny rahalahiny avy hoe: Mahereza.",
+    "7": "Koa ny mpandrafitra dia nampahery ny mpanefy volamena, ary izay nandama tamin' ny tantanana nampahery izay nively teo amin' ny riandriana, ka hoy izy, miantso ny solohoto: Tsara ity, dia nohomboany mafy tamin' ny fantsika izy mba tsy hihozongozona.",
+    "8": "Fa ianao kosa, ry Isiraely mpanompoko, sy Jakoba izay nofidiko, taranak' i Abrahama sakaizako,",
+    "9": "Ianao izay efa notantanako avy tany amin' ny faran' ny tany ary nantsoiko avy tamin' ny loholona, ka nilazako hoe mpanompoko ianao, efa nofidiko ka tsy mba nariako.",
+    "10": "Aza matahotra ianao, fa momba anao Aho; ary aza miherikerika foana, fa Izaho no Andriamanitrao; hampahery anao Aho sady hamonjy anao; eny, hitantana anao amin' ny tanana ankavanan' ny fahamarinako Aho.",
+    "11": "Indro, ho menatra sy hangaihay izay rehetra tezitra aminao, ho tsinontsinona izy; eny, ho levona izay miady aminao.",
+    "12": "Hotadiavinao izay mifanditra aminao, fa tsy ho hitanao, ary ho tahaka ny tsinontsinona sy ny zava-poana izay miady aminao.",
+    "13": "Fa Izaho Jehovah Andriamanitrao no hitantana ny tananao ankavanana, dia Ilay manao aminao hoe: Aza matahotra, Izaho no hamonjy anao.",
+    "14": "Aza matahotra ianao, ry Jakoba kankana, dia ianareo, ry olon' Isiraely; Izaho no hamonjy anao, hoy Jehovah, ary ny Iray Masin' ny Isiraely no Mpanavotra anao.",
+    "15": "Indro, hataoko kodia vy vaovao misy nify maranitra ianao; hively ny tendrombohitra ianao, ka hanorotoro azy ho vovoka ary hanao ny havoana ho akofa.",
+    "16": "Hikororoka azy ianao, ka hopaohin' ny rivotra izy, ary ny tafio-drivotra hanely azy; fa ianao kosa dia hiravoravo amin' i Jehovah, ary ny Iray Masin' ny Isiraely no ho reharehanao.",
+    "17": "Rehefa mitady rano ny mahantra sy ny olon-tsahirana, fa tsy mahita, ary ny lelany mainan' ny hetaheta; Izaho Jehovah no hihaino azy, Izaho, Andriamanitry ny Isiraely tsy hahafoy azy.",
+    "18": "Hampiboika renirano eny amin' ny toerana avo Aho, ary loharano eo afovoan' ny lohasaha; hanao ny efitra ho farihy Aho ary ny tany karankaina ho loharano miboiboika.",
+    "19": "Hampaniry hazo sedera sy akasia sy myrta ary hazo oliva any an' efitra Aho, ary kypreso sy pina sy bokso eny an-tani-hay.",
+    "20": "Mba ho hitany sy ho fantany sy hoheveriny ary ho azony an-tsaina fa ny tanan' i Jehovah no nanao izany, ary ny Iray Masin' ny Isiraely no nahary izany.",
+    "21": "Alaharo eto ny teninareo, hoy Jehovah; asehoy izay mahamarina ny anareo, hoy ny Mpanjakan' i Jakoba.",
+    "22": "Aoka hampanatoniny ka hasehony amintsika izay zavatra mbola ho avy; ambarao izay zavatra taloha, mba hoheverinay ka ho fantatray izay hiafarany, na ilazao izay zavatra ho avy izahay.",
+    "23": "Ambarao izay zavatra ho avy rahatrizay, mba ho fantatray fa andriamanitra ianareo; eny, manaova soa, na manaova ratsy, mba ho ketraka izahay ary samy hahita.",
+    "24": "Indro, ianareo dia naman' ny tsinontsinona, ary ny asanareo dia naman' ny zava-poana; vetaveta izay mifidy anareo.",
+    "25": "Nanaitra ny anankiray avy tany avaratra Aho, ka tonga izy; ny anankiray avy any amin' ny fiposahan' ny masoandro, izay hiantso ny anarako: ary hanosihosy ny mpanapaka tahaka ny fanosihosy feta izy, ary tahaka ny mpanefy vilany mihosy tanimanga.",
+    "26": "Iza no nitory izany hatramin' ny voalohany, mba ho fantatray? Ary hatry ny fony taloha, mba hataonay hoe: Marina? Tsy misy manambara, eny, tsy misy mitory; ary tsy nisy nandre ny teninareo.",
+    "27": "Ny voalohany dia hiteny amin' i Ziona hoe: Indreo, indreo ireo; ary Izaho no hanome an' i Jerosalema anankiray izay mitondra vaovao mahafaly.",
+    "28": "Dia nijery Aho, nefa tsy nisy olona; eny, tamin' izy ireo, fa tsy nisy mpanolo-tsaina izay afa-namaly teny raha nanontany azy Aho.",
+    "29": "Indro, zava-poana avokoa izy rehetra; tsinontsinona ny asany; rivotra sy zava-poana ny sampiny an' idina."
+  }
 }

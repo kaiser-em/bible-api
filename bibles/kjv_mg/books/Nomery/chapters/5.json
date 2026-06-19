@@ -1,129 +1,37 @@
 {
+  "book": "Nomery",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Mandidia ny Zanak' Isiraely hamoaka ny boka rehetra sy ny marary mitsika rehetra ary ny maloto amim-paty rehetra hiala amin' ny toby ;\""
-    },
-    {
-      "v": 3,
-      "text": "Na lehilahy na vehivavy dia samy havoakanareo any ivelan' ny toby, mba tsy handoto ny tobiny izay itoerako eo afovoany."
-    },
-    {
-      "v": 4,
-      "text": "\"Dia nanao izany ny Zanak' Isiraely ka namoaka ireny ho any ivelan' ny toby; araka izay nolazain' i Jehovah tamin' i Mosesy no nataon' ny Zanak' Isiraely.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 6,
-      "text": "\"Mitenena amin' ny Zanak' Isiraely hoe: Raha misy lehilahy na vehivavy manao izay mety ho fahotan' ny olona, ka manao izay mahadiso amin' i Jehovah, dia meloka izany olona izany;\""
-    },
-    {
-      "v": 7,
-      "text": "Dia tsy maintsy hiaiky ny fahotany izay nataony izy ary hanonitra ny amin' ny fahadisoany ka hanampy azy ny ampahadiminy ary homeny ilay nanaovany fahadisoana."
-    },
-    {
-      "v": 8,
-      "text": "Fa raha tàhiny tsy manana havana akaiky hanaterany ny fanonerana ny amin' ny fahadisoany ilay olona, ny zavatra nateriny ho fanonerana dia ho an' i Jehovah, ka ho an' ny mpisorona, ho fanampin' ny ondrilahy fanavotana izay hanaovany fanavotana ho azy."
-    },
-    {
-      "v": 9,
-      "text": "Ary ny fanatitra rehetra amin' ny zava-masina an' ny Zanak' Isiraely izay ateriny ho an' ny mpisorona, dia ho azy izany."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary ho azy ny zava-masina izay aterin' ny olona rehetra; na inona na inona omen' ny olona ho an' ny mpisorona, dia ho azy izany.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 12,
-      "text": "Mitenena amin' ny Zanak' Isiraely, ka lazao aminy hoe: Na iza na iza vadin' olona ka manao izay mahadiso amin' ny lahy,"
-    },
-    {
-      "v": 13,
-      "text": "\"Fa nisy lehilahy nandry taminy, nefa tsy hitan' ny mason-dralehilahy vadiny fa miafina, ary voaloto ravehivavy, nefa tsy misy vavolombelona hiampanga azy, ary tsy azo olan-tanana izy;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Fa tonga ao aminy ny fanahin' ny fahasarotam-piaro, ka saro-piaro ny amin' ny vadiny izy, fa voaloto ravehivavy; na raha tonga ao aminy ny fanahin' ny fahasarotam-piaro, ka saro-piaro ny amin' ny vadiny izy, nefa tsy voaloto ravehivavy;\""
-    },
-    {
-      "v": 15,
-      "text": "\"Dia hoentin' ny lahy ho eo amin' ny mpisorona ny vadiny, ary hitondra ny fanatiny noho ny vavy izy, dia kobam-bary hordea ampahafolon' ny efaha; tsy hanidinany diloilo izany sady tsy hasiany ditin-kazo mani-pofona, satria fanatitra noho ny fahasarotam-piaro izany, dia fanati-pahatsiarovana, hampahatsiaro heloka.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary hampanakaiky azy ny mpisorona ka hampitoetra azy eo anatrehan' i Jehovah;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Dia haka rano masina amin' ny lovia tany ny mpisorona; ary ny vovoka eo amin' ny tany izay itoeran' ny tabernakely dia hangalan' ny mpisorona ka hataony amin' ny rano;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary ravehivavy dia hampitoerin' ny mpisorona eo anatrehan' i Jehovah, ka tsy hosaronana ny lohan-dravehivavy, ary ataony eo an-tanany ny fanati-pahatsiarovany, dia ny fanatitra noho ny fahasarotam-piaro; ary ho eo an-tanan' ny mpisorona ny rano mangidy izay mitondra ozona;\""
-    },
-    {
-      "v": 19,
-      "text": "\"Dia hampianiana an-dravehivavy ny mpisorona, ka hanao aminy hoe: Raha tsy nisy lehilahy nandry taminao, ka tsy nivily niala tamin' ny vadinao ho amin' ny fahalotoana ianao, dia ho afaka amin' ity rano mangidy mitondra ozona ity;\""
-    },
-    {
-      "v": 20,
-      "text": "\"Fa raha nivily niala tamin' ny vadinao ho amin' ny hafa kosa ianao ka voaloto, fa nisy lehilahy nandry taminao, afa-tsy ny vadinao;\""
-    },
-    {
-      "v": 21,
-      "text": "\"Dia hampianiana an-dravehivavy ny mpisorona mba hiozona ka hanao aminy hoe: Jehovah anie hanao anao ho fiozonana sy ho fianianana eo amin' ny firenenao amin' ny fampahalòvan' i Jehovah ny fenao sy fampivontosany ny kibonao;\""
-    },
-    {
-      "v": 22,
-      "text": "Ary ity rano mitondra ozona ity dia hiditra ao an-kibonao ka hampivonto ny kibonao sy hampahalò ny fenao. Ary ravehivavy hanao hoe: Amena, amena."
-    },
-    {
-      "v": 23,
-      "text": "Ary hosoratan' ny mpisorona amin' ny boky izany ozona izany, ka hosasany eo amin' ny rano mangidy izany."
-    },
-    {
-      "v": 24,
-      "text": "\"Dia hampisotro an-dravehivavy ny rano mangidy, izay mitondra ozona izy; ary ny rano izay mitondra ozona dia hiditra ao anatiny ho tonga mangidy.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Dia halain' ny mpisorona eo an-tanan-dravehivavy ny fanatitra noho ny fahasarotam-piaro; ary hahevahevany eo anatrehan' i Jehovah ny fanatitra, ka ateriny eo amin' ny alitara izany.\""
-    },
-    {
-      "v": 26,
-      "text": "Dia haka eran' ny tanan' ila amin' ny fanati-pahatsiarovana ny mpisorona ka handoro izany eo ambony alitara, ary aorian' izay, dia hampisotroiny io rano io ravehivavy."
-    },
-    {
-      "v": 27,
-      "text": "Ary rehefa nampisotroiny ny rano izy, dia izao no hiseho, raha voaloto izy, ka nanao izay nahadiso azy tamin' ny vadiny, dia hiditra ao anatiny ho tonga mangidy ny rano mitondra ozona, ka hivonto ny kibony, sady ho lò ny feny, dia ho tonga fiozonana eo amin' ny fireneny ravehivavy."
-    },
-    {
-      "v": 28,
-      "text": "Nefa kosa, raha tsy voaloto ravehivavy, fa madio, dia ho afaka izy ka hanana anaka."
-    },
-    {
-      "v": 29,
-      "text": "\"Izany no lalànan' ny fahasarotam-piaro, raha misy vehivavy mivily miala amin' ny vadiny ho amin' ny hafa ka voaloto;\""
-    },
-    {
-      "v": 30,
-      "text": "Na raha tonga amin' ny lehilahy ny fanahin' ny fahasarotam-piaro, ka saro-piaro amin' ny vadiny izy, dia hampitoetra ny vadiny eo anatrehan' i Jehovah izy, ary ny mpisorona hanefa izany lalàna izany aminy."
-    },
-    {
-      "v": 31,
-      "text": "Dia tsy hanan-tsiny ny amin' ny heloka ralehilahy, fa ravehivavy kosa hitondra ny helony."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "2": "Mandidia ny Zanak' Isiraely hamoaka ny boka rehetra sy ny marary mitsika rehetra ary ny maloto amim-paty rehetra hiala amin' ny toby ;",
+    "3": "Na lehilahy na vehivavy dia samy havoakanareo any ivelan' ny toby, mba tsy handoto ny tobiny izay itoerako eo afovoany.",
+    "4": "Dia nanao izany ny Zanak' Isiraely ka namoaka ireny ho any ivelan' ny toby; araka izay nolazain' i Jehovah tamin' i Mosesy no nataon' ny Zanak' Isiraely.",
+    "5": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "6": "Mitenena amin' ny Zanak' Isiraely hoe: Raha misy lehilahy na vehivavy manao izay mety ho fahotan' ny olona, ka manao izay mahadiso amin' i Jehovah, dia meloka izany olona izany;",
+    "7": "Dia tsy maintsy hiaiky ny fahotany izay nataony izy ary hanonitra ny amin' ny fahadisoany ka hanampy azy ny ampahadiminy ary homeny ilay nanaovany fahadisoana.",
+    "8": "Fa raha tàhiny tsy manana havana akaiky hanaterany ny fanonerana ny amin' ny fahadisoany ilay olona, ny zavatra nateriny ho fanonerana dia ho an' i Jehovah, ka ho an' ny mpisorona, ho fanampin' ny ondrilahy fanavotana izay hanaovany fanavotana ho azy.",
+    "9": "Ary ny fanatitra rehetra amin' ny zava-masina an' ny Zanak' Isiraely izay ateriny ho an' ny mpisorona, dia ho azy izany.",
+    "10": "Ary ho azy ny zava-masina izay aterin' ny olona rehetra; na inona na inona omen' ny olona ho an' ny mpisorona, dia ho azy izany.",
+    "11": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "12": "Mitenena amin' ny Zanak' Isiraely, ka lazao aminy hoe: Na iza na iza vadin' olona ka manao izay mahadiso amin' ny lahy,",
+    "13": "Fa nisy lehilahy nandry taminy, nefa tsy hitan' ny mason-dralehilahy vadiny fa miafina, ary voaloto ravehivavy, nefa tsy misy vavolombelona hiampanga azy, ary tsy azo olan-tanana izy;",
+    "14": "Fa tonga ao aminy ny fanahin' ny fahasarotam-piaro, ka saro-piaro ny amin' ny vadiny izy, fa voaloto ravehivavy; na raha tonga ao aminy ny fanahin' ny fahasarotam-piaro, ka saro-piaro ny amin' ny vadiny izy, nefa tsy voaloto ravehivavy;",
+    "15": "Dia hoentin' ny lahy ho eo amin' ny mpisorona ny vadiny, ary hitondra ny fanatiny noho ny vavy izy, dia kobam-bary hordea ampahafolon' ny efaha; tsy hanidinany diloilo izany sady tsy hasiany ditin-kazo mani-pofona, satria fanatitra noho ny fahasarotam-piaro izany, dia fanati-pahatsiarovana, hampahatsiaro heloka.",
+    "16": "Ary hampanakaiky azy ny mpisorona ka hampitoetra azy eo anatrehan' i Jehovah;",
+    "17": "Dia haka rano masina amin' ny lovia tany ny mpisorona; ary ny vovoka eo amin' ny tany izay itoeran' ny tabernakely dia hangalan' ny mpisorona ka hataony amin' ny rano;",
+    "18": "Ary ravehivavy dia hampitoerin' ny mpisorona eo anatrehan' i Jehovah, ka tsy hosaronana ny lohan-dravehivavy, ary ataony eo an-tanany ny fanati-pahatsiarovany, dia ny fanatitra noho ny fahasarotam-piaro; ary ho eo an-tanan' ny mpisorona ny rano mangidy izay mitondra ozona;",
+    "19": "Dia hampianiana an-dravehivavy ny mpisorona, ka hanao aminy hoe: Raha tsy nisy lehilahy nandry taminao, ka tsy nivily niala tamin' ny vadinao ho amin' ny fahalotoana ianao, dia ho afaka amin' ity rano mangidy mitondra ozona ity;",
+    "20": "Fa raha nivily niala tamin' ny vadinao ho amin' ny hafa kosa ianao ka voaloto, fa nisy lehilahy nandry taminao, afa-tsy ny vadinao;",
+    "21": "Dia hampianiana an-dravehivavy ny mpisorona mba hiozona ka hanao aminy hoe: Jehovah anie hanao anao ho fiozonana sy ho fianianana eo amin' ny firenenao amin' ny fampahalòvan' i Jehovah ny fenao sy fampivontosany ny kibonao;",
+    "22": "Ary ity rano mitondra ozona ity dia hiditra ao an-kibonao ka hampivonto ny kibonao sy hampahalò ny fenao. Ary ravehivavy hanao hoe: Amena, amena.",
+    "23": "Ary hosoratan' ny mpisorona amin' ny boky izany ozona izany, ka hosasany eo amin' ny rano mangidy izany.",
+    "24": "Dia hampisotro an-dravehivavy ny rano mangidy, izay mitondra ozona izy; ary ny rano izay mitondra ozona dia hiditra ao anatiny ho tonga mangidy.",
+    "25": "Dia halain' ny mpisorona eo an-tanan-dravehivavy ny fanatitra noho ny fahasarotam-piaro; ary hahevahevany eo anatrehan' i Jehovah ny fanatitra, ka ateriny eo amin' ny alitara izany.",
+    "26": "Dia haka eran' ny tanan' ila amin' ny fanati-pahatsiarovana ny mpisorona ka handoro izany eo ambony alitara, ary aorian' izay, dia hampisotroiny io rano io ravehivavy.",
+    "27": "Ary rehefa nampisotroiny ny rano izy, dia izao no hiseho, raha voaloto izy, ka nanao izay nahadiso azy tamin' ny vadiny, dia hiditra ao anatiny ho tonga mangidy ny rano mitondra ozona, ka hivonto ny kibony, sady ho lò ny feny, dia ho tonga fiozonana eo amin' ny fireneny ravehivavy.",
+    "28": "Nefa kosa, raha tsy voaloto ravehivavy, fa madio, dia ho afaka izy ka hanana anaka.",
+    "29": "Izany no lalànan' ny fahasarotam-piaro, raha misy vehivavy mivily miala amin' ny vadiny ho amin' ny hafa ka voaloto;",
+    "30": "Na raha tonga amin' ny lehilahy ny fanahin' ny fahasarotam-piaro, ka saro-piaro amin' ny vadiny izy, dia hampitoetra ny vadiny eo anatrehan' i Jehovah izy, ary ny mpisorona hanefa izany lalàna izany aminy.",
+    "31": "Dia tsy hanan-tsiny ny amin' ny heloka ralehilahy, fa ravehivavy kosa hitondra ny helony."
+  }
 }

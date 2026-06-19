@@ -1,157 +1,44 @@
 {
+  "book": "Eksodosy",
   "chapter": 30,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"ARY manaova alitara handoroana ditin-kazo manitra; hazo sitima no hanaovanao azy.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ho iray hakiho ny halavany, ary iray hakiho ny sakany; ho efa-joro izany; ary ho roa hakiho ny haavony; ka ny tandrony hiray aminy.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary petaho volamena madio izany, dia ny tampony sy ny lafiny manodidina, mbamin' ny tandrony; ary asio koronosy volamena manodidina izany.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary asio vavavola volamena roa izy eo ambanin' ny koronosiny, eo amin' ny zorony roa, ambonin' ny lafiny roa no hanaovanao izany; ary ho fitoeran' ny bao hitondrana azy izany.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary hazo sitima no hanaovanao ny bao, ka petaho volamena izany."
-    },
-    {
-      "v": 6,
-      "text": "Ary apetraho eo anoloan' ny efitra lamba izay anilan' ny fiaran' ny Vavolombelona izany, tandrifin' ny rakotra fanaovam-panavotana izay eo ambonin' ny Vavolombelona, izay hihaonako aminao."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary Arona handoro ditin-kazo mani-pofona eo isa-maraina; rehefa mamboatra ny lela fanaovanjiro izy no handoro ditin-kazo manitra eo.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary rehefa mampirehitra ny lela fanaovanjiro Arona nony hariva, dia handoro ditin-kazo manitra eo, dia ditin-kazo manitra mandrakariva eo anatrehan' i Jehovah hatramin' ny taranakareo mifandimby izany."
-    },
-    {
-      "v": 9,
-      "text": "Aza manatitra ditin-kazo manitra tsy izy eo ianareo, na sorona dorana, na fanatitra hohanina, ary aza mandraraka fanatitra aidina eo."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary Arona hanao fanavotana eo amin' ny tandrok' izany indray mandeha isan-kerintaona amin' ny ràn' ny fanatitra noho ny ota atao fanavotana; indray mandeha isan-kerintaona no hanaovany fanavotana eo hatramin' ny taranakareo mifandimby: masina indrindra ho an' i Jehovah izany.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe :"
-    },
-    {
-      "v": 12,
-      "text": "\"Rehefa maka ny fitambaran' isan' ny zanak' Isiraely araka ny fanisàna azy ianao, dia samy hanome avotry ny ainy avy ho an' i Jehovah ny isan' olona, rehefa manisa azy ianao; mba tsy hisy areti-mandringana eo aminy, rehefa manisa azy ireo ianao.\""
-    },
-    {
-      "v": 13,
-      "text": "Izao no homen' izay rehetra mandalo eo amin' ireo izay isaina, antsasaky ny sekely avy araka ny sekely masina : (gera roapolo ny sekely iray), antsasaky ny sekely no ho fanatitra ho an' i Jehovah."
-    },
-    {
-      "v": 14,
-      "text": "Izay rehetra mandalo eo amin' ireo izay isaina, hatramin' ny roapolo taona no ho miakatra, no hanome fanatitra ho an' i Jehovah."
-    },
-    {
-      "v": 15,
-      "text": "Ny manankarena tsy hanome mihoatra, ary ny mahantra tsy hanome latsaky ny antsasaky ny sekely, rehefa manome fanatitra ho an' i Jehovah izy, hanaovana fanavotana ho an' ny ainareo."
-    },
-    {
-      "v": 16,
-      "text": "Ary handray ny vola avotra amin' ny Zanak' Isiraely ianao, ka hotendrenao ho amin' ny fanompoana ny tranolay fihaonana izany, mba ho fahatsiarovana ho an' ny Zanak' Isiraely eo anatrehan' i Jehovah, hanaovana fanavotana ho an' ny ainareo."
-    },
-    {
-      "v": 17,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 18,
-      "text": "\"Manaova koa tavy fanasana amin' ny varahina mba hisasana, ary ho varahina koa ny tongony; ary apetraho eo anelanelan' ny tranolay fihaonana sy ny alitara izany, ka asio rano ao anatiny.\""
-    },
-    {
-      "v": 19,
-      "text": "Fa hanasa ny tanany sy ny tongony eo Arona sy ireo zanany lahy."
-    },
-    {
-      "v": 20,
-      "text": "\"Rehefa miditra amin' ny tranolay fihaonana izy ireo, dia hisasa amin' ny rano mba tsy hahafaty azy, na rehefa manakaiky ny alitara mba hanompo izy ireo, handoro fanatitra atao amin' ny afo ho an' i Jehovah ;\""
-    },
-    {
-      "v": 21,
-      "text": "\"Dia hanasa ny tanany sy ny tongony izy ireo, mba tsy hahafaty azy; ary ho lalàna mandrakizay amin' izy ireo izany, dia ho azy sy ho an' ny taranany hatramin' ny fara mandimby.\""
-    },
-    {
-      "v": 22,
-      "text": "Ary Jehovah mbola niteny tamin' i Mosesy ka nanao hoe :"
-    },
-    {
-      "v": 23,
-      "text": "Makà koa zava-manitra tsara ho anao, dia miora madio dimanjato sekely sy havozomanitra antsasak' izany, dia dimampolo amby roanjato sekely sy veromanitra dimampolo amby roanjato sekely,"
-    },
-    {
-      "v": 24,
-      "text": "\"Sy kasia dimanjato sekely, araka ny sekelin' ny fitoerana masina, ary diloilon' oliva eran' ny hina ;\""
-    },
-    {
-      "v": 25,
-      "text": "\"Dia amboary ho diloilo fanosorana masina izany, fanosorana haroharoina araka ny hairahan' ny mpanamboatra zava-manitra; ho diloilo fanosorana masina izany.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary hosory amin' izany ny tranolay fihaonana sy ny fiaran' ny Vavolombelona,"
-    },
-    {
-      "v": 27,
-      "text": "Sy ny latabatra mbamin' ny fanaka rehetra momba azy sy ny fanaovanjiro mbamin' ny fanaka momba azy ary ny alitaran' ny ditin-kazo manitra,"
-    },
-    {
-      "v": 28,
-      "text": "Sy ny alitaran' ny fanatitra dorana mbamin' ny fanaka rehetra momba azy, ary ny tavy fanasana mbamin' ny tongony."
-    },
-    {
-      "v": 29,
-      "text": "\"Ary hamasino ireo mba ho masina indrindra; na inona na inona manendry azy dia ho masina.\""
-    },
-    {
-      "v": 30,
-      "text": "Ary hosory Arona sy ny zanany lahy, ka atokany izy ireo mba hahazoany manompo Ahy amin' ny raharahan' ny mpisorona."
-    },
-    {
-      "v": 31,
-      "text": "Ary mitenena amin' ny Zanak' Isiraely hoe: Ho diloilo fanosorana ho Ahy ity hatramin' ny taranakareo mifandimby."
-    },
-    {
-      "v": 32,
-      "text": "\"Tsy haidina amin' ny nofon' olona izany, na hanao hafa tahaka izany ianareo, araka ny fangaroharony; masina izany, ka ho masina aminareo.\""
-    },
-    {
-      "v": 33,
-      "text": "Na zovy na zovy mangaroharo izay tahaka izany, ary na zovy na zovy no manao izany amin' ny vahiny dia hofongorana tsy ho amin' ny fireneny."
-    },
-    {
-      "v": 34,
-      "text": "\"Dia hoy Jehovah tamin' i Mosesy: Makà zava-manitra ho anao, dia stakta sy onyka ary galibanoma; ireo zava-manitra misy hanitra madio ireo dia samy hampitovin-danja avy.\""
-    },
-    {
-      "v": 35,
-      "text": "Ary ataovy zava-manitra izany, dia zavatra atao araka ny hairahan' ny mpanamboatra zava-manitra. Aharoharo, madio sy masina."
-    },
-    {
-      "v": 36,
-      "text": "\"Ary torotoroy ny sasany ho madinika indrindra, dia ataovy eo anoloan' ny Vavolombelona ao amin' ny tranolay fihaonana, izay hihaonako aminao; ho masina indrindra ho anareo izany.\""
-    },
-    {
-      "v": 37,
-      "text": "Ary ny amin' ny zava-manitra izay hataonao, dia aza manao ho anareo araka ny fangaroharony, fa ho masina aminao ho an' i Jehovah izany."
-    },
-    {
-      "v": 38,
-      "text": "Na zovy na zovy manao izay tahaka izany ho fanosorana manitra dia hofongorana tsy ho amin' ny fireneny."
-    }
-  ]
+  "verses": {
+    "1": "ARY manaova alitara handoroana ditin-kazo manitra; hazo sitima no hanaovanao azy.",
+    "2": "Ho iray hakiho ny halavany, ary iray hakiho ny sakany; ho efa-joro izany; ary ho roa hakiho ny haavony; ka ny tandrony hiray aminy.",
+    "3": "Ary petaho volamena madio izany, dia ny tampony sy ny lafiny manodidina, mbamin' ny tandrony; ary asio koronosy volamena manodidina izany.",
+    "4": "Ary asio vavavola volamena roa izy eo ambanin' ny koronosiny, eo amin' ny zorony roa, ambonin' ny lafiny roa no hanaovanao izany; ary ho fitoeran' ny bao hitondrana azy izany.",
+    "5": "Ary hazo sitima no hanaovanao ny bao, ka petaho volamena izany.",
+    "6": "Ary apetraho eo anoloan' ny efitra lamba izay anilan' ny fiaran' ny Vavolombelona izany, tandrifin' ny rakotra fanaovam-panavotana izay eo ambonin' ny Vavolombelona, izay hihaonako aminao.",
+    "7": "Ary Arona handoro ditin-kazo mani-pofona eo isa-maraina; rehefa mamboatra ny lela fanaovanjiro izy no handoro ditin-kazo manitra eo.",
+    "8": "Ary rehefa mampirehitra ny lela fanaovanjiro Arona nony hariva, dia handoro ditin-kazo manitra eo, dia ditin-kazo manitra mandrakariva eo anatrehan' i Jehovah hatramin' ny taranakareo mifandimby izany.",
+    "9": "Aza manatitra ditin-kazo manitra tsy izy eo ianareo, na sorona dorana, na fanatitra hohanina, ary aza mandraraka fanatitra aidina eo.",
+    "10": "Ary Arona hanao fanavotana eo amin' ny tandrok' izany indray mandeha isan-kerintaona amin' ny ràn' ny fanatitra noho ny ota atao fanavotana; indray mandeha isan-kerintaona no hanaovany fanavotana eo hatramin' ny taranakareo mifandimby: masina indrindra ho an' i Jehovah izany.",
+    "11": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe :",
+    "12": "Rehefa maka ny fitambaran' isan' ny zanak' Isiraely araka ny fanisàna azy ianao, dia samy hanome avotry ny ainy avy ho an' i Jehovah ny isan' olona, rehefa manisa azy ianao; mba tsy hisy areti-mandringana eo aminy, rehefa manisa azy ireo ianao.",
+    "13": "Izao no homen' izay rehetra mandalo eo amin' ireo izay isaina, antsasaky ny sekely avy araka ny sekely masina : (gera roapolo ny sekely iray), antsasaky ny sekely no ho fanatitra ho an' i Jehovah.",
+    "14": "Izay rehetra mandalo eo amin' ireo izay isaina, hatramin' ny roapolo taona no ho miakatra, no hanome fanatitra ho an' i Jehovah.",
+    "15": "Ny manankarena tsy hanome mihoatra, ary ny mahantra tsy hanome latsaky ny antsasaky ny sekely, rehefa manome fanatitra ho an' i Jehovah izy, hanaovana fanavotana ho an' ny ainareo.",
+    "16": "Ary handray ny vola avotra amin' ny Zanak' Isiraely ianao, ka hotendrenao ho amin' ny fanompoana ny tranolay fihaonana izany, mba ho fahatsiarovana ho an' ny Zanak' Isiraely eo anatrehan' i Jehovah, hanaovana fanavotana ho an' ny ainareo.",
+    "17": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "18": "Manaova koa tavy fanasana amin' ny varahina mba hisasana, ary ho varahina koa ny tongony; ary apetraho eo anelanelan' ny tranolay fihaonana sy ny alitara izany, ka asio rano ao anatiny.",
+    "19": "Fa hanasa ny tanany sy ny tongony eo Arona sy ireo zanany lahy.",
+    "20": "Rehefa miditra amin' ny tranolay fihaonana izy ireo, dia hisasa amin' ny rano mba tsy hahafaty azy, na rehefa manakaiky ny alitara mba hanompo izy ireo, handoro fanatitra atao amin' ny afo ho an' i Jehovah ;",
+    "21": "Dia hanasa ny tanany sy ny tongony izy ireo, mba tsy hahafaty azy; ary ho lalàna mandrakizay amin' izy ireo izany, dia ho azy sy ho an' ny taranany hatramin' ny fara mandimby.",
+    "22": "Ary Jehovah mbola niteny tamin' i Mosesy ka nanao hoe :",
+    "23": "Makà koa zava-manitra tsara ho anao, dia miora madio dimanjato sekely sy havozomanitra antsasak' izany, dia dimampolo amby roanjato sekely sy veromanitra dimampolo amby roanjato sekely,",
+    "24": "Sy kasia dimanjato sekely, araka ny sekelin' ny fitoerana masina, ary diloilon' oliva eran' ny hina ;",
+    "25": "Dia amboary ho diloilo fanosorana masina izany, fanosorana haroharoina araka ny hairahan' ny mpanamboatra zava-manitra; ho diloilo fanosorana masina izany.",
+    "26": "Ary hosory amin' izany ny tranolay fihaonana sy ny fiaran' ny Vavolombelona,",
+    "27": "Sy ny latabatra mbamin' ny fanaka rehetra momba azy sy ny fanaovanjiro mbamin' ny fanaka momba azy ary ny alitaran' ny ditin-kazo manitra,",
+    "28": "Sy ny alitaran' ny fanatitra dorana mbamin' ny fanaka rehetra momba azy, ary ny tavy fanasana mbamin' ny tongony.",
+    "29": "Ary hamasino ireo mba ho masina indrindra; na inona na inona manendry azy dia ho masina.",
+    "30": "Ary hosory Arona sy ny zanany lahy, ka atokany izy ireo mba hahazoany manompo Ahy amin' ny raharahan' ny mpisorona.",
+    "31": "Ary mitenena amin' ny Zanak' Isiraely hoe: Ho diloilo fanosorana ho Ahy ity hatramin' ny taranakareo mifandimby.",
+    "32": "Tsy haidina amin' ny nofon' olona izany, na hanao hafa tahaka izany ianareo, araka ny fangaroharony; masina izany, ka ho masina aminareo.",
+    "33": "Na zovy na zovy mangaroharo izay tahaka izany, ary na zovy na zovy no manao izany amin' ny vahiny dia hofongorana tsy ho amin' ny fireneny.",
+    "34": "Dia hoy Jehovah tamin' i Mosesy: Makà zava-manitra ho anao, dia stakta sy onyka ary galibanoma; ireo zava-manitra misy hanitra madio ireo dia samy hampitovin-danja avy.",
+    "35": "Ary ataovy zava-manitra izany, dia zavatra atao araka ny hairahan' ny mpanamboatra zava-manitra. Aharoharo, madio sy masina.",
+    "36": "Ary torotoroy ny sasany ho madinika indrindra, dia ataovy eo anoloan' ny Vavolombelona ao amin' ny tranolay fihaonana, izay hihaonako aminao; ho masina indrindra ho anareo izany.",
+    "37": "Ary ny amin' ny zava-manitra izay hataonao, dia aza manao ho anareo araka ny fangaroharony, fa ho masina aminao ho an' i Jehovah izany.",
+    "38": "Na zovy na zovy manao izay tahaka izany ho fanosorana manitra dia hofongorana tsy ho amin' ny fireneny."
+  }
 }

@@ -1,129 +1,37 @@
 {
+  "book": "Galatiana",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"ARY izao no teniko: raha mbola zaza ny mpandova, dia tsy hafa noho ny mpanompo izy, na dia tompon’ny zavatra rehetra aza;\""
-    },
-    {
-      "v": 2,
-      "text": "Fa fehezin’ny mpikarakara sy mpitaiza azy mandra-pahatongan’ny fetr’andro voatendrin’ny ray."
-    },
-    {
-      "v": 3,
-      "text": "\"Dia tahaka izany koa isika, fony mbola zaza, dia nandevozin’ny abidim-pianaran’izao tontolo izao;\""
-    },
-    {
-      "v": 4,
-      "text": "Fa rehefa tonga tokoa ny fotoan’andro, dia nirahin’Andriamanitra ny Zanany, nateraky ny vehivavy, nateraka tao ambanin’ny lalàna,"
-    },
-    {
-      "v": 5,
-      "text": "Hanavotany izay ambanin’ny lalàna, mba handraisantsika ny fananganan’anaka."
-    },
-    {
-      "v": 6,
-      "text": "Ary satria zanaka ianareo, dia nirahin’Andriamanitra ho ao am-ponareo ny Fanahin’ny Zanany miantso hoe: Aba, Ray ô."
-    },
-    {
-      "v": 7,
-      "text": "\"Koa dia tsy mpanompo intsony ianao, fa zanaka; ary raha zanaka, dia mpandova an’Andriamanitra amin’ny alalan’i Kristy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Kanefa amin’izany, fony mbola tsy nahalala an’Andriamanitra ianareo, dia nanompo izay andriamani-tsi-izy;\""
-    },
-    {
-      "v": 9,
-      "text": "\"Fa ankehitriny, rehefa mahalala an’Andriamanitra ianareo; nefa tsy izany, fa Izy no mahalala anareo; nahoana ianareo no dia miverina indray amin’ny abidim-pianarana malemy sady tsy misy na inona na inona, nefa tianareo hotompoina indray?\""
-    },
-    {
-      "v": 10,
-      "text": "Andro sy volana sy fotoana ary taona no tandremanareo."
-    },
-    {
-      "v": 11,
-      "text": "Matahotra ny aminareo aho, fandrao dia nisasatra foana taminareo."
-    },
-    {
-      "v": 12,
-      "text": "\"Ry rahalahy, miangavy anareo aho, aoka ho tonga tahaka ahy ianareo, fa izaho kosa mba efa tonga tahaka anareo. Tsy naninona ahy akory ianareo;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Fantatrareo fa noho ny fahalemen’ny nofo no nitoriako ny filazantsara taminareo tamin’ny voalohany;\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary ny teo amin’ny nofoko izay tonga fakampanahy anareo dia tsy mba nohamavoinareo na nolavinareo; fa nandray ahy tahaka ny mandray anjelin’Andriamanitra ianareo, eny, tahaka an’i Kristy Jesosy aza.\""
-    },
-    {
-      "v": 15,
-      "text": "Aiza àry ilay nataonareo ho fahasambarana? Fa vavolombelonareo aho fa raha azo natao, na dia ny masonareo aza dia ho nesorinareo ka nomenareo ahy."
-    },
-    {
-      "v": 16,
-      "text": "Koa efa tonga fahavalonareo va aho, satria milaza ny marina aminareo?"
-    },
-    {
-      "v": 17,
-      "text": "\"Mazoto mila fitia aminareo izy ireo, nefa tsy araka ny mety; fa te-hanaisotra anareo any ivelany izy, mba hampahazoto anareo hila fitia aminy kosa.\""
-    },
-    {
-      "v": 18,
-      "text": "Fa tsara raha mazoto amin’ny tsara mandrakariva, fa tsy rehefa eo aminareo ihany aho."
-    },
-    {
-      "v": 19,
-      "text": "Ry zanako madinika, izay aharariako indray amin’ny fiterahana mandra-paharin’i Kristy ao anatinareo,"
-    },
-    {
-      "v": 20,
-      "text": "\"Iriko ny ho tonga eo aminareo ankehitriny, ka hanova ny feoko; fa misalasala ny aminareo aho.\""
-    },
-    {
-      "v": 21,
-      "text": "Lazao amiko, ianareo izay te-ho ambanin’ny lalàna, tsy renareo va ny lalàna?"
-    },
-    {
-      "v": 22,
-      "text": "Fa voasoratra hoe: Abrahama nanana zanaka roa lahy, ny anankiray tamin’ny andevovavy ary ny anankiray tamin’ny tsy andevovavy."
-    },
-    {
-      "v": 23,
-      "text": "\"Kanefa ilay tamin’ny andevovavy dia nateraka araka ny nofo; fa ilay tamin’ny tsy andevovavy kosa dia nateraka tamin’ny tenifikasana.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary izany dia azo atao fanoharana; fa izy roa vavy ireo dia fanekena roa; ny anankiray avy tamin’ny tendrombohitra Sinay ka miteraka ho amin’ny fahandevozana, dia Hagara izany.\""
-    },
-    {
-      "v": 25,
-      "text": "Fa ny hoe Hagara dia ny tendrombohitra Sinay any Arabia ka mifamaly amin’i Jerosalema ankehitriny, fa andevo izy mbamin’ny zanany."
-    },
-    {
-      "v": 26,
-      "text": "Fa Jerosalema izay any ambony kosa, izay renintsika rehetra dia tsy andevo."
-    },
-    {
-      "v": 27,
-      "text": "\"Fa voasoratra hoe: “Mifalia, ramomba, izay tsy miteraka; miantsoa sy minanananà, ianao izay tsy mbola mihetsi-jaza; fa ny zanaky ny mpitondratena dia maro noho ny an’ny manam-bady”\""
-    },
-    {
-      "v": 28,
-      "text": "Fa isika, ry rahalahy, dia zanaky ny tenifikasana tahaka an’Isaka."
-    },
-    {
-      "v": 29,
-      "text": "Kanefa tahaka ny tamin’izany andro izany, ilay teraka araka ny nofo dia nanenjika ilay teraka araka ny Fanahy, dia tahaka izany koa ankehitriny."
-    },
-    {
-      "v": 30,
-      "text": "\"Nefa ahoana no lazain’ny Soratra masina? “Roahy io andevovavy io sy ny zanany lahy; fa ny zanaky ny andevovavy tsy hiray lova amin’ny zanaky ny tsy andevovavy”\""
-    },
-    {
-      "v": 31,
-      "text": "Ary amin’izany, ry rahalahy, tsy zanak’andevovavy isika, fa zanaky ny tsy andevo."
-    }
-  ]
+  "verses": {
+    "1": "ARY izao no teniko: raha mbola zaza ny mpandova, dia tsy hafa noho ny mpanompo izy, na dia tompon’ny zavatra rehetra aza;",
+    "2": "Fa fehezin’ny mpikarakara sy mpitaiza azy mandra-pahatongan’ny fetr’andro voatendrin’ny ray.",
+    "3": "Dia tahaka izany koa isika, fony mbola zaza, dia nandevozin’ny abidim-pianaran’izao tontolo izao;",
+    "4": "Fa rehefa tonga tokoa ny fotoan’andro, dia nirahin’Andriamanitra ny Zanany, nateraky ny vehivavy, nateraka tao ambanin’ny lalàna,",
+    "5": "Hanavotany izay ambanin’ny lalàna, mba handraisantsika ny fananganan’anaka.",
+    "6": "Ary satria zanaka ianareo, dia nirahin’Andriamanitra ho ao am-ponareo ny Fanahin’ny Zanany miantso hoe: Aba, Ray ô.",
+    "7": "Koa dia tsy mpanompo intsony ianao, fa zanaka; ary raha zanaka, dia mpandova an’Andriamanitra amin’ny alalan’i Kristy.",
+    "8": "Kanefa amin’izany, fony mbola tsy nahalala an’Andriamanitra ianareo, dia nanompo izay andriamani-tsi-izy;",
+    "9": "Fa ankehitriny, rehefa mahalala an’Andriamanitra ianareo; nefa tsy izany, fa Izy no mahalala anareo; nahoana ianareo no dia miverina indray amin’ny abidim-pianarana malemy sady tsy misy na inona na inona, nefa tianareo hotompoina indray?",
+    "10": "Andro sy volana sy fotoana ary taona no tandremanareo.",
+    "11": "Matahotra ny aminareo aho, fandrao dia nisasatra foana taminareo.",
+    "12": "Ry rahalahy, miangavy anareo aho, aoka ho tonga tahaka ahy ianareo, fa izaho kosa mba efa tonga tahaka anareo. Tsy naninona ahy akory ianareo;",
+    "13": "Fantatrareo fa noho ny fahalemen’ny nofo no nitoriako ny filazantsara taminareo tamin’ny voalohany;",
+    "14": "Ary ny teo amin’ny nofoko izay tonga fakampanahy anareo dia tsy mba nohamavoinareo na nolavinareo; fa nandray ahy tahaka ny mandray anjelin’Andriamanitra ianareo, eny, tahaka an’i Kristy Jesosy aza.",
+    "15": "Aiza àry ilay nataonareo ho fahasambarana? Fa vavolombelonareo aho fa raha azo natao, na dia ny masonareo aza dia ho nesorinareo ka nomenareo ahy.",
+    "16": "Koa efa tonga fahavalonareo va aho, satria milaza ny marina aminareo?",
+    "17": "Mazoto mila fitia aminareo izy ireo, nefa tsy araka ny mety; fa te-hanaisotra anareo any ivelany izy, mba hampahazoto anareo hila fitia aminy kosa.",
+    "18": "Fa tsara raha mazoto amin’ny tsara mandrakariva, fa tsy rehefa eo aminareo ihany aho.",
+    "19": "Ry zanako madinika, izay aharariako indray amin’ny fiterahana mandra-paharin’i Kristy ao anatinareo,",
+    "20": "Iriko ny ho tonga eo aminareo ankehitriny, ka hanova ny feoko; fa misalasala ny aminareo aho.",
+    "21": "Lazao amiko, ianareo izay te-ho ambanin’ny lalàna, tsy renareo va ny lalàna?",
+    "22": "Fa voasoratra hoe: Abrahama nanana zanaka roa lahy, ny anankiray tamin’ny andevovavy ary ny anankiray tamin’ny tsy andevovavy.",
+    "23": "Kanefa ilay tamin’ny andevovavy dia nateraka araka ny nofo; fa ilay tamin’ny tsy andevovavy kosa dia nateraka tamin’ny tenifikasana.",
+    "24": "Ary izany dia azo atao fanoharana; fa izy roa vavy ireo dia fanekena roa; ny anankiray avy tamin’ny tendrombohitra Sinay ka miteraka ho amin’ny fahandevozana, dia Hagara izany.",
+    "25": "Fa ny hoe Hagara dia ny tendrombohitra Sinay any Arabia ka mifamaly amin’i Jerosalema ankehitriny, fa andevo izy mbamin’ny zanany.",
+    "26": "Fa Jerosalema izay any ambony kosa, izay renintsika rehetra dia tsy andevo.",
+    "27": "Fa voasoratra hoe: “Mifalia, ramomba, izay tsy miteraka; miantsoa sy minanananà, ianao izay tsy mbola mihetsi-jaza; fa ny zanaky ny mpitondratena dia maro noho ny an’ny manam-bady”",
+    "28": "Fa isika, ry rahalahy, dia zanaky ny tenifikasana tahaka an’Isaka.",
+    "29": "Kanefa tahaka ny tamin’izany andro izany, ilay teraka araka ny nofo dia nanenjika ilay teraka araka ny Fanahy, dia tahaka izany koa ankehitriny.",
+    "30": "Nefa ahoana no lazain’ny Soratra masina? “Roahy io andevovavy io sy ny zanany lahy; fa ny zanaky ny andevovavy tsy hiray lova amin’ny zanaky ny tsy andevovavy”",
+    "31": "Ary amin’izany, ry rahalahy, tsy zanak’andevovavy isika, fa zanaky ny tsy andevo."
+  }
 }

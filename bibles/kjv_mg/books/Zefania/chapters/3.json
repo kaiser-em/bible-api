@@ -1,85 +1,26 @@
 {
+  "book": "Zefania",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Lozan' izay maloto sady voaloto, dia ilay tanàna mampahory!"
-    },
-    {
-      "v": 2,
-      "text": "\"Tsy nankatò ny feo izy, na nino anatra; Jehovah tsy nitokiany, Andriamaniny tsy nohatoniny.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Liona mierona ao aminy ireo lehibeny; amboadia hariva ny mpitsarany ka tsy mamela taolana ho tra-maraina.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Olom-poana sady mpamitaka ny mpaminaniny; nandoto ny fitoerana masina ny mpisorony, namadika ny lalàna izy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ilay Jehovah marina no eo afovoany; tsy hanao heloka Izy; isa-maraina no amoahany ny fitsarany ho amin' ny mazava ka tsy diso izany; fa ny tsy marina tsy mba mahalala henatra.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Efa nahafongana firenena Aho, rava ny tilikambony; nosimbako ny lalany tsy hisy mpandeha; rava ny tanànany, ka tsy misy olona, eny, tsy misy mponina.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Hoy Aho: hatahotra Ahy tokoa ianao ka hino anatra, ka tsy ho rava ny fonenany, na toa inona na toa inona namaizako azy; kanefa nifoha maraina koa izy ka nanimba ny nataony rehetra.\""
-    },
-    {
-      "v": 8,
-      "text": "\" Koa miandrasa Ahy ianareo, hoy Jehovah, ambara-piavin' ny andro hitsanganako haka babo; fa izao no kasaiko hatao: hamory firenena sy hanangona fanjakana Aho, hanidinako ny fahatezerako amin' ireo, dia ny firehetan' ny fahatezerako rehetra, fa ho levon' ny afon' ny fahasaro-piaroko ny tany rehetra.\""
-    },
-    {
-      "v": 9,
-      "text": "Fa amin' izany dia hovako ho madio ny fitenin' ny firenena, hiantsoan' izy rehetra ny anaran' i Jehovah ka hifanekeny hanompo Azy."
-    },
-    {
-      "v": 10,
-      "text": "Avy any an-dafin' ny onin' i Etiopia no hitondran' ny mpivavaka amiko, dia ny zanakavavin' izay naeliko, ny fanatitra ho Ahy."
-    },
-    {
-      "v": 11,
-      "text": "Amin' izay andro izay dia tsy ho menatra ianao tamin' izay nataonao rehetra, izay nanotanao tamiko: fa amin' izany dia hoesoriko aminao ireo mibitaka amim-pireharehana, ary tsy hiavonavona noho ny tendrombohitro masina intsony ianao."
-    },
-    {
-      "v": 12,
-      "text": "Nefa hamelako olona ory sy mahantra ihany ao aminao, ary ny anaran' i Jehovah no hitokiany."
-    },
-    {
-      "v": 13,
-      "text": "\"Ny sisa amin' ny Isiraely dia tsy hanao heloka na hiteny lainga; ary tsy hahitana lela mamitaka ao am-bavany; fa hihinana sy handry izy, ka tsy hisy hampitahotra azy.\""
-    },
-    {
-      "v": 14,
-      "text": "Mihirà, ry zanakavavin' i Ziona, mihobia ry Isiraely ô! Mifalia sy miravoravoa amin' ny fonareo rehetra, ry zanakavavin' i Jerosalema."
-    },
-    {
-      "v": 15,
-      "text": "\"Jehovah efa nanaisotra ny fitsarana anao ka nandroaka ny fahavalonao; Jehovah, Mpanjakan' ny Isiraely no eo afovoanao, tsy hahita loza intsony ianao.\""
-    },
-    {
-      "v": 16,
-      "text": "Amin' izany andro izany dia holazaina amin' i Jerosalema hoe: aza matahotra, ary amin' i Ziona hoe: aza miraviravy tanana."
-    },
-    {
-      "v": 17,
-      "text": "\"Jehovah Andriamanitrao izay eo afovoanao dia Mahery; hamonjy Izy, hiravoravo ny aminao amin' ny fifaliana Izy; hosondriana amin' ny fitiavany Izy, hifaly aminao amin' ny hira Izy.\""
-    },
-    {
-      "v": 18,
-      "text": "Hangoniko izay manina ny fivoriana masina sy mahatahotra, izay avy aminao, ka hitambesaran' ny latsa."
-    },
-    {
-      "v": 19,
-      "text": "\"Indro, hasiako amin' izany andro izany izay rehetra mampahory anao; hovonjeko ny mandringa, ary hovoriko ny noroahina; ary hataoko ho fiderana sy malaza any amin' ny tany rehetra izay efa nitondrany henatra izy.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Amin' izany fotoana izany no hitondrako anareo indray, eny, amin' ny fotoana izay hanangonako anareo; fa hataoko ho anarana sy ho fiderana avy amin' ny firenena rehetra amin' ny tany ianareo, rehefa hampodiko amin' ny fahababoana ianareo, ary ho hitan' ny masonareo izany, hoy Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "Lozan' izay maloto sady voaloto, dia ilay tanàna mampahory!",
+    "2": "Tsy nankatò ny feo izy, na nino anatra; Jehovah tsy nitokiany, Andriamaniny tsy nohatoniny.",
+    "3": "Liona mierona ao aminy ireo lehibeny; amboadia hariva ny mpitsarany ka tsy mamela taolana ho tra-maraina.",
+    "4": "Olom-poana sady mpamitaka ny mpaminaniny; nandoto ny fitoerana masina ny mpisorony, namadika ny lalàna izy.",
+    "5": "Ilay Jehovah marina no eo afovoany; tsy hanao heloka Izy; isa-maraina no amoahany ny fitsarany ho amin' ny mazava ka tsy diso izany; fa ny tsy marina tsy mba mahalala henatra.",
+    "6": "Efa nahafongana firenena Aho, rava ny tilikambony; nosimbako ny lalany tsy hisy mpandeha; rava ny tanànany, ka tsy misy olona, eny, tsy misy mponina.",
+    "7": "Hoy Aho: hatahotra Ahy tokoa ianao ka hino anatra, ka tsy ho rava ny fonenany, na toa inona na toa inona namaizako azy; kanefa nifoha maraina koa izy ka nanimba ny nataony rehetra.",
+    "8": " Koa miandrasa Ahy ianareo, hoy Jehovah, ambara-piavin' ny andro hitsanganako haka babo; fa izao no kasaiko hatao: hamory firenena sy hanangona fanjakana Aho, hanidinako ny fahatezerako amin' ireo, dia ny firehetan' ny fahatezerako rehetra, fa ho levon' ny afon' ny fahasaro-piaroko ny tany rehetra.",
+    "9": "Fa amin' izany dia hovako ho madio ny fitenin' ny firenena, hiantsoan' izy rehetra ny anaran' i Jehovah ka hifanekeny hanompo Azy.",
+    "10": "Avy any an-dafin' ny onin' i Etiopia no hitondran' ny mpivavaka amiko, dia ny zanakavavin' izay naeliko, ny fanatitra ho Ahy.",
+    "11": "Amin' izay andro izay dia tsy ho menatra ianao tamin' izay nataonao rehetra, izay nanotanao tamiko: fa amin' izany dia hoesoriko aminao ireo mibitaka amim-pireharehana, ary tsy hiavonavona noho ny tendrombohitro masina intsony ianao.",
+    "12": "Nefa hamelako olona ory sy mahantra ihany ao aminao, ary ny anaran' i Jehovah no hitokiany.",
+    "13": "Ny sisa amin' ny Isiraely dia tsy hanao heloka na hiteny lainga; ary tsy hahitana lela mamitaka ao am-bavany; fa hihinana sy handry izy, ka tsy hisy hampitahotra azy.",
+    "14": "Mihirà, ry zanakavavin' i Ziona, mihobia ry Isiraely ô! Mifalia sy miravoravoa amin' ny fonareo rehetra, ry zanakavavin' i Jerosalema.",
+    "15": "Jehovah efa nanaisotra ny fitsarana anao ka nandroaka ny fahavalonao; Jehovah, Mpanjakan' ny Isiraely no eo afovoanao, tsy hahita loza intsony ianao.",
+    "16": "Amin' izany andro izany dia holazaina amin' i Jerosalema hoe: aza matahotra, ary amin' i Ziona hoe: aza miraviravy tanana.",
+    "17": "Jehovah Andriamanitrao izay eo afovoanao dia Mahery; hamonjy Izy, hiravoravo ny aminao amin' ny fifaliana Izy; hosondriana amin' ny fitiavany Izy, hifaly aminao amin' ny hira Izy.",
+    "18": "Hangoniko izay manina ny fivoriana masina sy mahatahotra, izay avy aminao, ka hitambesaran' ny latsa.",
+    "19": "Indro, hasiako amin' izany andro izany izay rehetra mampahory anao; hovonjeko ny mandringa, ary hovoriko ny noroahina; ary hataoko ho fiderana sy malaza any amin' ny tany rehetra izay efa nitondrany henatra izy.",
+    "20": "Amin' izany fotoana izany no hitondrako anareo indray, eny, amin' ny fotoana izay hanangonako anareo; fa hataoko ho anarana sy ho fiderana avy amin' ny firenena rehetra amin' ny tany ianareo, rehefa hampodiko amin' ny fahababoana ianareo, ary ho hitan' ny masonareo izany, hoy Jehovah."
+  }
 }

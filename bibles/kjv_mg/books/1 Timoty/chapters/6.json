@@ -1,89 +1,27 @@
 {
+  "book": "1 Timoty",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Aoka izay mpanompo rehetra eo ambany zioga hanao ny tompony ho mendrika hohajaina tsara, mba tsy hanaovana blasfemia ny anaran’Andriamanitra sy ny foto-pampianarany."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary izay manana tompo mino dia aoka tsy hanao tsinontsinona azy, satria rahalahy izy; fa vao mainka tokony hotompoiny aza izy satria mahatoky sy malala ary mpiombona amin’ny soa. Izany zavatra izany no ampianaro sy ananaro.\""
-    },
-    {
-      "v": 3,
-      "text": "Raha misy olona manao fampianarana hafa noho izany ka tsy manaiky ny teny tsy misy kilema, dia ny tenin’i Jesosy Kristy Tompontsika, sy ny foto-pampianarana izay mahatonga ny toe-panahy araka an’Andriamanitra,"
-    },
-    {
-      "v": 4,
-      "text": "Dia mieboebo foana izy ka tsy mahalala na inona na inona, fa adala amin’ny fiadian-kevitra sy ny fiadian-teny izay mahatonga fialonana, fifandirana, fanaratsiana, fiahiahian-dratsy,"
-    },
-    {
-      "v": 5,
-      "text": "Fifandirana lalandava fanaon’ny olona vetaveta saina sady efa nialan’ny fahamarinana, ary mihevitra fa fahazoan-tombony ny toe-panahy araka an’Andriamanitra. Mialà amin’ireny olona ireny ianareo."
-    },
-    {
-      "v": 6,
-      "text": "Fa misy tombony lehibe tokoa ny toe-panahy araka an’Andriamanitra omban’ny fianinana."
-    },
-    {
-      "v": 7,
-      "text": "Fa tsy nitondra na inona na inona ho amin’izao tontolo izao isika, ary tsy isalasalana fa tsy hahatondra na inona na inona hiala."
-    },
-    {
-      "v": 8,
-      "text": "Fa raha manan-kanina sy fitafiana isika, dia aoka hianina amin’izany."
-    },
-    {
-      "v": 9,
-      "text": "Ary izay te-ho mpanankarena dia latsaka amin’ny fakampanahy sy ny fandrika ary ny filàna maro tsy misy antony sady mandratra, izay mandetika ny olona ao amin’ny fandringanana sy ny fahaverezana."
-    },
-    {
-      "v": 10,
-      "text": "Fa ny fitiavam-bola no fototry ny ratsy rehetra, koa ny sasany izay fatra-pitady izany dia efa voavily niala tamin’ny finoana ka nanindrona ny tenany tamin’ny alahelo be."
-    },
-    {
-      "v": 11,
-      "text": "Fa ianao kosa, ry lehilahin’Andriamanitra, mandosira izany zavatra izany, ka miezaha mitady fahamarinana, toe-panahy araka an’Andriamanitra, finoana, fitiavana, faharetana, fahalemem-panahy."
-    },
-    {
-      "v": 12,
-      "text": "\"Miadia ny ady tsaran’ny finoana, hazòny ny fiainana mandrakizay; fa ho amin’izany no niantsoana anao koa sy nanaovanao ilay fanekena tsara teo imason’ny vavolombelona maro.\""
-    },
-    {
-      "v": 13,
-      "text": "Omeko andraikitra ianao eo anatrehan’Andriamanitra, Izay mamelona ny zavatra rehetra, ary eo anatrehan’i Jesosy Kristy, izay nanao ilay fanekena tsara teo anatrehan’i Pontio Pilato,"
-    },
-    {
-      "v": 14,
-      "text": "Mba hotehirizinao tsy hanan-tsiny amam-pondro hatramin’ny fisehoan’i Jesosy Kristy Tompontsika izany didy izany."
-    },
-    {
-      "v": 15,
-      "text": "\"Ny Andriana finaritra sady tokana, Mpanjakan’ny mpanjaka sady Tompon’ny tompo, no haneho izany amin’ny fotoany;\""
-    },
-    {
-      "v": 16,
-      "text": "\"Izy ihany no manana ny tsy fahafatesana, mitoetra eo amin’ny mazava tsy azo hatonina, Izay tsy hitan’olona sady tsy hainy jerena; ho Azy anie ny voninahitra sy ny hery mandrakizay. Amena.\""
-    },
-    {
-      "v": 17,
-      "text": "Anaro ny mpanankarena amin’izao fiainana ankehitriny izao mba tsy hiavonavona, na hatoky ny harena miovaova, fa hatoky an' Andriamanitra izay manome antsika malalaka ny zavatra rehetra mba hifaliantsika,"
-    },
-    {
-      "v": 18,
-      "text": "Mba hanao soa izy ireo ka hanan-karena amin’ny asa tsara, hazoto manome sy miantra,"
-    },
-    {
-      "v": 19,
-      "text": "Ka dia hihary fanorenana tsara ho an’ny tenany ho amin’ny andro ho avy, mba hihazonany ny fiainana mandrakizay."
-    },
-    {
-      "v": 20,
-      "text": "Ry Timoty, tehirizo ilay natolotra anao, ka mialà amin’ny fibedibedena foana sy ny fanoherana avy amin’izay atao hoe fahalalana, kanjo tsy izy,"
-    },
-    {
-      "v": 21,
-      "text": "Izay neken’ny sasany, ka nania tamin’ny finoana izy. Ho aminao anie ny fahasoavana. Amena. (Ny taratasy voalohany ho an’i Timoty dia nosoratana tany Laodikia ilay tanàna lehibe indrindra any Frygia pakatiana)."
-    }
-  ]
+  "verses": {
+    "1": "Aoka izay mpanompo rehetra eo ambany zioga hanao ny tompony ho mendrika hohajaina tsara, mba tsy hanaovana blasfemia ny anaran’Andriamanitra sy ny foto-pampianarany.",
+    "2": "Ary izay manana tompo mino dia aoka tsy hanao tsinontsinona azy, satria rahalahy izy; fa vao mainka tokony hotompoiny aza izy satria mahatoky sy malala ary mpiombona amin’ny soa. Izany zavatra izany no ampianaro sy ananaro.",
+    "3": "Raha misy olona manao fampianarana hafa noho izany ka tsy manaiky ny teny tsy misy kilema, dia ny tenin’i Jesosy Kristy Tompontsika, sy ny foto-pampianarana izay mahatonga ny toe-panahy araka an’Andriamanitra,",
+    "4": "Dia mieboebo foana izy ka tsy mahalala na inona na inona, fa adala amin’ny fiadian-kevitra sy ny fiadian-teny izay mahatonga fialonana, fifandirana, fanaratsiana, fiahiahian-dratsy,",
+    "5": "Fifandirana lalandava fanaon’ny olona vetaveta saina sady efa nialan’ny fahamarinana, ary mihevitra fa fahazoan-tombony ny toe-panahy araka an’Andriamanitra. Mialà amin’ireny olona ireny ianareo.",
+    "6": "Fa misy tombony lehibe tokoa ny toe-panahy araka an’Andriamanitra omban’ny fianinana.",
+    "7": "Fa tsy nitondra na inona na inona ho amin’izao tontolo izao isika, ary tsy isalasalana fa tsy hahatondra na inona na inona hiala.",
+    "8": "Fa raha manan-kanina sy fitafiana isika, dia aoka hianina amin’izany.",
+    "9": "Ary izay te-ho mpanankarena dia latsaka amin’ny fakampanahy sy ny fandrika ary ny filàna maro tsy misy antony sady mandratra, izay mandetika ny olona ao amin’ny fandringanana sy ny fahaverezana.",
+    "10": "Fa ny fitiavam-bola no fototry ny ratsy rehetra, koa ny sasany izay fatra-pitady izany dia efa voavily niala tamin’ny finoana ka nanindrona ny tenany tamin’ny alahelo be.",
+    "11": "Fa ianao kosa, ry lehilahin’Andriamanitra, mandosira izany zavatra izany, ka miezaha mitady fahamarinana, toe-panahy araka an’Andriamanitra, finoana, fitiavana, faharetana, fahalemem-panahy.",
+    "12": "Miadia ny ady tsaran’ny finoana, hazòny ny fiainana mandrakizay; fa ho amin’izany no niantsoana anao koa sy nanaovanao ilay fanekena tsara teo imason’ny vavolombelona maro.",
+    "13": "Omeko andraikitra ianao eo anatrehan’Andriamanitra, Izay mamelona ny zavatra rehetra, ary eo anatrehan’i Jesosy Kristy, izay nanao ilay fanekena tsara teo anatrehan’i Pontio Pilato,",
+    "14": "Mba hotehirizinao tsy hanan-tsiny amam-pondro hatramin’ny fisehoan’i Jesosy Kristy Tompontsika izany didy izany.",
+    "15": "Ny Andriana finaritra sady tokana, Mpanjakan’ny mpanjaka sady Tompon’ny tompo, no haneho izany amin’ny fotoany;",
+    "16": "Izy ihany no manana ny tsy fahafatesana, mitoetra eo amin’ny mazava tsy azo hatonina, Izay tsy hitan’olona sady tsy hainy jerena; ho Azy anie ny voninahitra sy ny hery mandrakizay. Amena.",
+    "17": "Anaro ny mpanankarena amin’izao fiainana ankehitriny izao mba tsy hiavonavona, na hatoky ny harena miovaova, fa hatoky an' Andriamanitra izay manome antsika malalaka ny zavatra rehetra mba hifaliantsika,",
+    "18": "Mba hanao soa izy ireo ka hanan-karena amin’ny asa tsara, hazoto manome sy miantra,",
+    "19": "Ka dia hihary fanorenana tsara ho an’ny tenany ho amin’ny andro ho avy, mba hihazonany ny fiainana mandrakizay.",
+    "20": "Ry Timoty, tehirizo ilay natolotra anao, ka mialà amin’ny fibedibedena foana sy ny fanoherana avy amin’izay atao hoe fahalalana, kanjo tsy izy,",
+    "21": "Izay neken’ny sasany, ka nania tamin’ny finoana izy. Ho aminao anie ny fahasoavana. Amena. (Ny taratasy voalohany ho an’i Timoty dia nosoratana tany Laodikia ilay tanàna lehibe indrindra any Frygia pakatiana)."
+  }
 }

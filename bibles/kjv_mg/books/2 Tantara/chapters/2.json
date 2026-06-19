@@ -1,77 +1,24 @@
 {
+  "book": "2 Tantara",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nanapa-kevitra Solomona hanao trano ho an' ny anaran' i Jehovah sy trano ho an' ny fanjakany."
-    },
-    {
-      "v": 2,
-      "text": "Dia nanisa olona fito alina ho mpitondra entana Solomona ary valo alina ho mpikapa hazo eny an-tendrombohitra ary eninjato amby telo arivo ho mpifehy azy."
-    },
-    {
-      "v": 3,
-      "text": "Ary Solomona naniraka hankany amin' i Hirama, mpanjakan' i Tyro, hanao hoe: Tahaka ny nataonao tamin' i Davida raiko, ka nampanatitra hazo sedera ho azy hanaovany trano hitoerany ianao, dia mba ataovy toy izany koa amiko."
-    },
-    {
-      "v": 4,
-      "text": "Indro, manorina trano ho an' ny anaran' i Jehovah Andriamanitro aho, ka hanamasina izany ho Azy sy handoroana ditin-kazo mani-pofona eo anatrehany sy ho an' ny mofo aseho mandrakariva sy ho an' ny fanatitra dorana marain-tsy hariva, amin' ireo sabata sy voaloham-bolana, ary amin' ny andro firavoravoam-be ho an' i Jehovah Andriamanitray. Ho lalàna mandrakizay amin' ny Isiraely izany."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary ny trano izay haoriko dia lehibe; fa lehibe noho ny andriamanitra rehetra ny Andriamanitray.\""
-    },
-    {
-      "v": 6,
-      "text": "Nefa iza no mahay manao trano ho Azy? Fa ny lanitra ary ny lanitry ny lanitra aza tsy omby Azy: Ka iza moa aho, no hanao trano ho Azy, afa-tsy ny handoroana fanatitra eo anoloany ihany?"
-    },
-    {
-      "v": 7,
-      "text": "Koa aniraho olo-mahay miasa volamena sy volafotsy sy varahina sy vy sy volomparasy sy jaky sy manga ary izay mahay manao sary sokitra hiaraka amin' ny olona mahay zavatra izay aty amiko aty Joda sy Jerosalema izay efa nomanin' i Davida raiko."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary andefaso hazo sedera sy kypreso ary almoga avy any Libanona koa aho; fa fantatro fa mahay mikapa hazo any Libanona ny mpanomponao; ary indro ny mpanompoko hiaraka amin' ny mpanomponao,\""
-    },
-    {
-      "v": 9,
-      "text": "\"Mba hanamboatra hazo betsaka ho ahy; fa ny trano izay efa hataoko dia ho lehibe higagana.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary, indro, homeko vary tritika voafotsy roa alina famarana sy vary hordea roa alina famarana, ary divay roa alina bata sy diloilo roa alina bata ny mpanomponao izay mpikapa hazo."
-    },
-    {
-      "v": 11,
-      "text": "Ary namaly Hirama, mpanjakan' i Tyro tamin' ny taratasy izay nalefany tany amin' ny Solomona hoe: Noho ny nitiavan' i Jehovah ny olony no nanendreny anao ho mpanjakany."
-    },
-    {
-      "v": 12,
-      "text": "Ary hoy koa Hirama: Isaorana anie Jehovah Andriamanitry ny Isiraely, Izay nanao ny lanitra sy ny tany, izay nanome an' i Davida mpanjaka, zanaka hendry, manana fahendrena sy fahalalana, ka hanao trano ho an' i Jehovah sy trano ho an' ny fanjakany."
-    },
-    {
-      "v": 13,
-      "text": "Koa ankehitriny, indro, naniraka olona mahay zavatra sady manana fahalalana aho, dia avy amin' ikaky Hirama,"
-    },
-    {
-      "v": 14,
-      "text": "\"Zanaky ny vehivavy Danita ary ny rainy dia Tyriana. Ary izy dia mahay miasa volamena sy volafotsy sy varahina sy vy sy vato sy hazo sy volomparasy sy manga sy hariry madinika ary jaky; ary mahay misokitra sarin-javatra samy hafa sy mahay manao asa amin' izay asaina ataony, miaraka amin' ny olonao mahay sy kinga sy ny olona mahay an' i Davida tompoko rainao.\""
-    },
-    {
-      "v": 15,
-      "text": "Koa ny vary tritika sy ny vary hordea ary ny diloilo sy ny divay izay nolazain' ny tompoko dia aoka hampananteriny aty amin' ny mpanomponao."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary izahay dia hikapa hazo any Libanona araka izay rehetra tadiavinao; ary hofehezinay ka hampandehaninay mitsinkafona amin' ny ranomasina ho any Jopa; ary ianao kosa no hitondra azy miakatra hankany Jerosalema.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary solomona nanisa ny lehilahy hafa firenena rehetra izay nonina tamin' ny tanin' ny Isiraely araka ny nanisan' i Davida rainy azy, ary ny isany dia eninjato amby telo arivo amby dimy alina sy iray hetsy."
-    },
-    {
-      "v": 18,
-      "text": "Ary ny fito alina tamin' ireo dia nataony mpitondra entana, ary ny valo alina nataony mpikapa hazo eny an-tendrombohitra, ary ny eninjato amby telo arivo nataony mpifehy hampiasa ny olona."
-    }
-  ]
+  "verses": {
+    "1": "Ary nanapa-kevitra Solomona hanao trano ho an' ny anaran' i Jehovah sy trano ho an' ny fanjakany.",
+    "2": "Dia nanisa olona fito alina ho mpitondra entana Solomona ary valo alina ho mpikapa hazo eny an-tendrombohitra ary eninjato amby telo arivo ho mpifehy azy.",
+    "3": "Ary Solomona naniraka hankany amin' i Hirama, mpanjakan' i Tyro, hanao hoe: Tahaka ny nataonao tamin' i Davida raiko, ka nampanatitra hazo sedera ho azy hanaovany trano hitoerany ianao, dia mba ataovy toy izany koa amiko.",
+    "4": "Indro, manorina trano ho an' ny anaran' i Jehovah Andriamanitro aho, ka hanamasina izany ho Azy sy handoroana ditin-kazo mani-pofona eo anatrehany sy ho an' ny mofo aseho mandrakariva sy ho an' ny fanatitra dorana marain-tsy hariva, amin' ireo sabata sy voaloham-bolana, ary amin' ny andro firavoravoam-be ho an' i Jehovah Andriamanitray. Ho lalàna mandrakizay amin' ny Isiraely izany.",
+    "5": "Ary ny trano izay haoriko dia lehibe; fa lehibe noho ny andriamanitra rehetra ny Andriamanitray.",
+    "6": "Nefa iza no mahay manao trano ho Azy? Fa ny lanitra ary ny lanitry ny lanitra aza tsy omby Azy: Ka iza moa aho, no hanao trano ho Azy, afa-tsy ny handoroana fanatitra eo anoloany ihany?",
+    "7": "Koa aniraho olo-mahay miasa volamena sy volafotsy sy varahina sy vy sy volomparasy sy jaky sy manga ary izay mahay manao sary sokitra hiaraka amin' ny olona mahay zavatra izay aty amiko aty Joda sy Jerosalema izay efa nomanin' i Davida raiko.",
+    "8": "Ary andefaso hazo sedera sy kypreso ary almoga avy any Libanona koa aho; fa fantatro fa mahay mikapa hazo any Libanona ny mpanomponao; ary indro ny mpanompoko hiaraka amin' ny mpanomponao,",
+    "9": "Mba hanamboatra hazo betsaka ho ahy; fa ny trano izay efa hataoko dia ho lehibe higagana.",
+    "10": "Ary, indro, homeko vary tritika voafotsy roa alina famarana sy vary hordea roa alina famarana, ary divay roa alina bata sy diloilo roa alina bata ny mpanomponao izay mpikapa hazo.",
+    "11": "Ary namaly Hirama, mpanjakan' i Tyro tamin' ny taratasy izay nalefany tany amin' ny Solomona hoe: Noho ny nitiavan' i Jehovah ny olony no nanendreny anao ho mpanjakany.",
+    "12": "Ary hoy koa Hirama: Isaorana anie Jehovah Andriamanitry ny Isiraely, Izay nanao ny lanitra sy ny tany, izay nanome an' i Davida mpanjaka, zanaka hendry, manana fahendrena sy fahalalana, ka hanao trano ho an' i Jehovah sy trano ho an' ny fanjakany.",
+    "13": "Koa ankehitriny, indro, naniraka olona mahay zavatra sady manana fahalalana aho, dia avy amin' ikaky Hirama,",
+    "14": "Zanaky ny vehivavy Danita ary ny rainy dia Tyriana. Ary izy dia mahay miasa volamena sy volafotsy sy varahina sy vy sy vato sy hazo sy volomparasy sy manga sy hariry madinika ary jaky; ary mahay misokitra sarin-javatra samy hafa sy mahay manao asa amin' izay asaina ataony, miaraka amin' ny olonao mahay sy kinga sy ny olona mahay an' i Davida tompoko rainao.",
+    "15": "Koa ny vary tritika sy ny vary hordea ary ny diloilo sy ny divay izay nolazain' ny tompoko dia aoka hampananteriny aty amin' ny mpanomponao.",
+    "16": "Ary izahay dia hikapa hazo any Libanona araka izay rehetra tadiavinao; ary hofehezinay ka hampandehaninay mitsinkafona amin' ny ranomasina ho any Jopa; ary ianao kosa no hitondra azy miakatra hankany Jerosalema.",
+    "17": "Ary solomona nanisa ny lehilahy hafa firenena rehetra izay nonina tamin' ny tanin' ny Isiraely araka ny nanisan' i Davida rainy azy, ary ny isany dia eninjato amby telo arivo amby dimy alina sy iray hetsy.",
+    "18": "Ary ny fito alina tamin' ireo dia nataony mpitondra entana, ary ny valo alina nataony mpikapa hazo eny an-tendrombohitra, ary ny eninjato amby telo arivo nataony mpifehy hampiasa ny olona."
+  }
 }

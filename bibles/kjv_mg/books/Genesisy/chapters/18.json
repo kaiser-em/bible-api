@@ -1,137 +1,39 @@
 {
+  "book": "Genesisy",
   "chapter": 18,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary niseho tamin' i Abrahama teo amin' ny tany lemak' i Mamre Jehovah; ary nipetraka teo ambaravaran' ny lay izy, raha nafana ny andro;\""
-    },
-    {
-      "v": 2,
-      "text": "Dia nanopy ny masony izy ka nijery, ary indreo, nisy telo lahy nitsangana teo anoloany, ary nony nahita ireo izy dia niala teo ambaravaran' ny lay ka nihazakazaka hitsena azy dia niankohoka tamin' ny tany,"
-    },
-    {
-      "v": 3,
-      "text": "Ka nanao hoe: Tompo ô, ankehitriny raha mahita fitia eo imasonao aho, masìna ianao, aza mandalo ny mpanomponao."
-    },
-    {
-      "v": 4,
-      "text": "Masìna ianareo, aoka hangalana rano kely ianareo, ka sasao ny tongotrareo, ary mialà sasatra eo am-pototry ny hazo ianareo,"
-    },
-    {
-      "v": 5,
-      "text": "\"Dia haka sombi-mofo aho hataonareo ody am-bavafo; aorian' izany dia handeha ianareo; fa noho izany no nahatongavanareo aty amin' ny mpanomponareo. Ary hoy ireo taminy: Ataovy araka izay nolazainao.\""
-    },
-    {
-      "v": 6,
-      "text": "Dia nandeha faingana nankany an-day tany amin' i Saraha i Abrahama ka nanao hoe: Ataovy vonona faingana ny koba tsara toto intelon' ny famarana, fetafetao izany, ka ataovy mofo ao anaty lafaoro."
-    },
-    {
-      "v": 7,
-      "text": "Ary Abrahama kosa nihazakazaka nankany amin' ny omby aman' ondry, dia naka zanak' omby tanora sady tsara, ka nanolotra azy tamin' ny zatovo iray, dia lasa faingana izy hamboatra azy."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary naka dibera sy ronono mbamin' ilay zanak' omby izay efa namboariny izy, ka nametraka izany teo anoloan' ireo; ary nitsangana teo anilan' ireo teo ambany hazo izy, dia nihinana izy ireo.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary hoy ireo taminy: Aiza Saraha vadinao? Ary hoy kosa izy: Indro, ao an-day izy."
-    },
-    {
-      "v": 10,
-      "text": "Ary hoy Izy: Hiverina aminao tokoa Aho raha avy ny taona toy izao, ary indro, hanana zanakalahy Saraha vadinao. Ary Saraha nandre izany teo ambaravaran' ny lay, izay teo ivohon' Ilay niteny."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary Abrahama sy Saraha dia efa zokiolona sady tena nandroso fahanterana; ary efa nitsahatra tamin' ny fombam-behivavy Saraha.\""
-    },
-    {
-      "v": 12,
-      "text": "Koa nihomehy anakampo Saraha nanao hoe: Rehefa mitombo fahanterana aho, moa hanam-pifaliana va, ary ny tompoko koa efa antitra?"
-    },
-    {
-      "v": 13,
-      "text": "Ary hoy Jehovah tamin' i Abrahama: Nahoana no nihomehy Saraha ka nanao hoe: Hiteraka tokoa va aho, izay efa antitra?"
-    },
-    {
-      "v": 14,
-      "text": "Moa misy zavatra tena sarotra amin' i Jehovah va? Amin' ny fotoan' andro raha avy ny taona toy izao dia hiverina aminao Aho, ary hanana zanakalahy Saraha."
-    },
-    {
-      "v": 15,
-      "text": "\"Fa nandà Saraha ka nanao hoe: Tsy nihomehy aho; satria natahotra izy. Ary hoy Izy: tsia, fa nihomehy mihitsy ianao.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Dia nitsangana ireo lehilahy ireo ka niala teo, dia nitsinjo an' i Sodoma; ary niaraka taminy hanatitra azy Abrahama.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary hoy Jehovah: Hafeniko an' i Abrahama va izay zavatra hataoko?"
-    },
-    {
-      "v": 18,
-      "text": "Fa ho tonga firenena lehibe sy mahery tokoa Abrahama, ary aminy no hitahiana ny firenena rehetra ety ambonin'ny tany."
-    },
-    {
-      "v": 19,
-      "text": "\"Fa fantatro izy, fa handidy ny zanany sy ny taranany mandimby azy, hitandrina ny lalan' i Jehovah hanao ny fahamarinana sy ny rariny; mba hitondran' i Jehovah amin' i Abrahama izay nolazainy taminy.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary hoy Jehovah: Satria lehibe ny fitarainan' i Sodoma sy Gomora, ary ratsy tokoa ny fahotany,"
-    },
-    {
-      "v": 21,
-      "text": "Dia hidina Aho ankehitriny, ka hizaha na efa nahatanteraka izany izy araka ny fitarainan' ny tany izay tonga aty amiko, ary raha tsy izany, dia ho fantatro."
-    },
-    {
-      "v": 22,
-      "text": "\"Dia nihodina niala teo ireo lehilahy ireo ka nandroso ho any Sodoma; fa Abrahama mbola nitsangana teo anatrehan' i Jehovah.\""
-    },
-    {
-      "v": 23,
-      "text": "Dia nanatona Abrahama ka nanao hoe: Haringanao miaraka amin' ny ratsy fanahy koa va ny marina?"
-    },
-    {
-      "v": 24,
-      "text": "\"Angamba misy olo-marina dimampolo ao an-tanàna; haringanao koa va, ka tsy hamindranao fo ny tanàna noho ny dimampolo marina izay ao?\""
-    },
-    {
-      "v": 25,
-      "text": "\"Sanatria Anao raha hanao toy izany ka hamono ny marina miaraka amin' ny ratsy fanahy; ka ny marina hatao tahaka ny ratsy fanahy, sanatria Anao izany! Tsy hanao ny marina va ny Mpitsara ny tany rehetra?\""
-    },
-    {
-      "v": 26,
-      "text": "Ary hoy Jehovah: Raha mahita dimampolo marina ao an-tanàna Sodoma Aho, dia hamindrako fo ny tanàna rehetra noho ireny."
-    },
-    {
-      "v": 27,
-      "text": "Dia namaly Abrahama ka nanao hoe: Indro, fa efa sahy niteny tamin' ny Tompo aho nefa vovoka sy lavenona:"
-    },
-    {
-      "v": 28,
-      "text": "\"Angamba ho latsaka dimy ny dimampolo marina; moa haringanao va ny tanàna rehetra satria tsy ampy dimy? Ary hoy Izy: Tsy handringana azy Aho, raha mahita dimy amby efapolo ao.\""
-    },
-    {
-      "v": 29,
-      "text": "Dia mbola niteny taminy indray izy ka nanao hoe: Angamba efapolo no ho hita ao. Ary hoy Izy: Tsy mba hanao izany Aho noho ny efapolo."
-    },
-    {
-      "v": 30,
-      "text": "Ary hoy izy taminy: Aoka anie tsy ho tezitra ny Tompo, fa hiteny aho: angamba telopolo no ho hita ao.Ary hoy Izy: Tsy mba hanao izany Aho, raha mahita telopolo ao."
-    },
-    {
-      "v": 31,
-      "text": "Ary hoy izy: Indro, fa efa sahy niteny tamin' ny Tompo aho: Angamba roapolo no ho hita ao.Ary hoy Izy: Tsy mba handringana azy Aho noho ny roapolo."
-    },
-    {
-      "v": 32,
-      "text": "Ary hoy izy: E! aoka anie tsy ho tezitra ny Tompo, fa mbola hiteny izao indray mandeha izao aho: Angamba folo no ho hita ao. Ary hoy Izy: Tsy mba handringana Aho noho ny folo."
-    },
-    {
-      "v": 33,
-      "text": "\"Dia lasa nandeha Jehovah, rehefa vita ny teny nataony tamin' i Abrahama; ary niverina ho any amin' ny fonenany Abrahama.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary niseho tamin' i Abrahama teo amin' ny tany lemak' i Mamre Jehovah; ary nipetraka teo ambaravaran' ny lay izy, raha nafana ny andro;",
+    "2": "Dia nanopy ny masony izy ka nijery, ary indreo, nisy telo lahy nitsangana teo anoloany, ary nony nahita ireo izy dia niala teo ambaravaran' ny lay ka nihazakazaka hitsena azy dia niankohoka tamin' ny tany,",
+    "3": "Ka nanao hoe: Tompo ô, ankehitriny raha mahita fitia eo imasonao aho, masìna ianao, aza mandalo ny mpanomponao.",
+    "4": "Masìna ianareo, aoka hangalana rano kely ianareo, ka sasao ny tongotrareo, ary mialà sasatra eo am-pototry ny hazo ianareo,",
+    "5": "Dia haka sombi-mofo aho hataonareo ody am-bavafo; aorian' izany dia handeha ianareo; fa noho izany no nahatongavanareo aty amin' ny mpanomponareo. Ary hoy ireo taminy: Ataovy araka izay nolazainao.",
+    "6": "Dia nandeha faingana nankany an-day tany amin' i Saraha i Abrahama ka nanao hoe: Ataovy vonona faingana ny koba tsara toto intelon' ny famarana, fetafetao izany, ka ataovy mofo ao anaty lafaoro.",
+    "7": "Ary Abrahama kosa nihazakazaka nankany amin' ny omby aman' ondry, dia naka zanak' omby tanora sady tsara, ka nanolotra azy tamin' ny zatovo iray, dia lasa faingana izy hamboatra azy.",
+    "8": "Ary naka dibera sy ronono mbamin' ilay zanak' omby izay efa namboariny izy, ka nametraka izany teo anoloan' ireo; ary nitsangana teo anilan' ireo teo ambany hazo izy, dia nihinana izy ireo.",
+    "9": "Ary hoy ireo taminy: Aiza Saraha vadinao? Ary hoy kosa izy: Indro, ao an-day izy.",
+    "10": "Ary hoy Izy: Hiverina aminao tokoa Aho raha avy ny taona toy izao, ary indro, hanana zanakalahy Saraha vadinao. Ary Saraha nandre izany teo ambaravaran' ny lay, izay teo ivohon' Ilay niteny.",
+    "11": "Ary Abrahama sy Saraha dia efa zokiolona sady tena nandroso fahanterana; ary efa nitsahatra tamin' ny fombam-behivavy Saraha.",
+    "12": "Koa nihomehy anakampo Saraha nanao hoe: Rehefa mitombo fahanterana aho, moa hanam-pifaliana va, ary ny tompoko koa efa antitra?",
+    "13": "Ary hoy Jehovah tamin' i Abrahama: Nahoana no nihomehy Saraha ka nanao hoe: Hiteraka tokoa va aho, izay efa antitra?",
+    "14": "Moa misy zavatra tena sarotra amin' i Jehovah va? Amin' ny fotoan' andro raha avy ny taona toy izao dia hiverina aminao Aho, ary hanana zanakalahy Saraha.",
+    "15": "Fa nandà Saraha ka nanao hoe: Tsy nihomehy aho; satria natahotra izy. Ary hoy Izy: tsia, fa nihomehy mihitsy ianao.",
+    "16": "Dia nitsangana ireo lehilahy ireo ka niala teo, dia nitsinjo an' i Sodoma; ary niaraka taminy hanatitra azy Abrahama.",
+    "17": "Ary hoy Jehovah: Hafeniko an' i Abrahama va izay zavatra hataoko?",
+    "18": "Fa ho tonga firenena lehibe sy mahery tokoa Abrahama, ary aminy no hitahiana ny firenena rehetra ety ambonin'ny tany.",
+    "19": "Fa fantatro izy, fa handidy ny zanany sy ny taranany mandimby azy, hitandrina ny lalan' i Jehovah hanao ny fahamarinana sy ny rariny; mba hitondran' i Jehovah amin' i Abrahama izay nolazainy taminy.",
+    "20": "Ary hoy Jehovah: Satria lehibe ny fitarainan' i Sodoma sy Gomora, ary ratsy tokoa ny fahotany,",
+    "21": "Dia hidina Aho ankehitriny, ka hizaha na efa nahatanteraka izany izy araka ny fitarainan' ny tany izay tonga aty amiko, ary raha tsy izany, dia ho fantatro.",
+    "22": "Dia nihodina niala teo ireo lehilahy ireo ka nandroso ho any Sodoma; fa Abrahama mbola nitsangana teo anatrehan' i Jehovah.",
+    "23": "Dia nanatona Abrahama ka nanao hoe: Haringanao miaraka amin' ny ratsy fanahy koa va ny marina?",
+    "24": "Angamba misy olo-marina dimampolo ao an-tanàna; haringanao koa va, ka tsy hamindranao fo ny tanàna noho ny dimampolo marina izay ao?",
+    "25": "Sanatria Anao raha hanao toy izany ka hamono ny marina miaraka amin' ny ratsy fanahy; ka ny marina hatao tahaka ny ratsy fanahy, sanatria Anao izany! Tsy hanao ny marina va ny Mpitsara ny tany rehetra?",
+    "26": "Ary hoy Jehovah: Raha mahita dimampolo marina ao an-tanàna Sodoma Aho, dia hamindrako fo ny tanàna rehetra noho ireny.",
+    "27": "Dia namaly Abrahama ka nanao hoe: Indro, fa efa sahy niteny tamin' ny Tompo aho nefa vovoka sy lavenona:",
+    "28": "Angamba ho latsaka dimy ny dimampolo marina; moa haringanao va ny tanàna rehetra satria tsy ampy dimy? Ary hoy Izy: Tsy handringana azy Aho, raha mahita dimy amby efapolo ao.",
+    "29": "Dia mbola niteny taminy indray izy ka nanao hoe: Angamba efapolo no ho hita ao. Ary hoy Izy: Tsy mba hanao izany Aho noho ny efapolo.",
+    "30": "Ary hoy izy taminy: Aoka anie tsy ho tezitra ny Tompo, fa hiteny aho: angamba telopolo no ho hita ao.Ary hoy Izy: Tsy mba hanao izany Aho, raha mahita telopolo ao.",
+    "31": "Ary hoy izy: Indro, fa efa sahy niteny tamin' ny Tompo aho: Angamba roapolo no ho hita ao.Ary hoy Izy: Tsy mba handringana azy Aho noho ny roapolo.",
+    "32": "Ary hoy izy: E! aoka anie tsy ho tezitra ny Tompo, fa mbola hiteny izao indray mandeha izao aho: Angamba folo no ho hita ao. Ary hoy Izy: Tsy mba handringana Aho noho ny folo.",
+    "33": "Dia lasa nandeha Jehovah, rehefa vita ny teny nataony tamin' i Abrahama; ary niverina ho any amin' ny fonenany Abrahama."
+  }
 }

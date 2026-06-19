@@ -1,57 +1,19 @@
 {
+  "book": "Zakaria",
   "chapter": 2,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia natopiko indray ny masoko, ka hitako fa indro, nisy lehilahy manana tsipika fandrefesana eny an-tanany."
-    },
-    {
-      "v": 2,
-      "text": "Dia hoy aho: ho aiza moa ianao? Ary hoy izy tamiko: handrefy an' i Jerosalema hizaha ny sakany sy ny lavany aho."
-    },
-    {
-      "v": 3,
-      "text": "Ary, indro, nivoaka ilay anjely niresaka tamiko, ary nisy anjely anankiray koa nivoaka hitsena azy,"
-    },
-    {
-      "v": 4,
-      "text": "Ka nanao taminy hoe: mihazakazaha, ka milazà amin' io zatovo io hoe: honenana toy ny tanàna tsy mimanda Jerosalema noho ny hamaroan' ny olona sy ny biby fiompy ao aminy."
-    },
-    {
-      "v": 5,
-      "text": "Fa Izaho, hoy Jehovah, ho manda afo manodidina azy ary ho voninahitra ao afovoany."
-    },
-    {
-      "v": 6,
-      "text": "\"He! He! Mandosira avy any amin' ny tany avaratra, hoy Jehovah; fa aeliko ho toy ny rivotra efatry ny lanitra ianareo, hoy Jehovah.\""
-    },
-    {
-      "v": 7,
-      "text": "He! vonjeo ny tenanao, ry Ziona, izay monina ao amin' ny zanakavavin' i Babylona."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa izao no lazain' i Jehovah, Tompon' ny maro: aorian' ny voninahitra no nanirahany ahy tany amin' ny firenena izay namabo anareo; fa izay mikasika anareo dia mikasika ny anakandriamasony.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Fa, indro, hahinjitro eo amboniny ny tanako ka hobaboin' ireo nanompo azy izy; dia ho fantatrareo fa Jehovah, Tompon' ny maro, no naniraka ahy.\""
-    },
-    {
-      "v": 10,
-      "text": "Mihirà sy mifalia ry zanakavavin' i Ziona, fa indro, avy honina ao afovoanao Aho, hoy Jehovah."
-    },
-    {
-      "v": 11,
-      "text": "Ary firenena maro no hikambana amin' i Jehovah amin' izany andro izany, ka ho oloko izy, ary hitoetra eo afovoanao aho, ka ho fantatrao fa Jehovah, Tompon' ny maro no naniraka ahy ho aminao."
-    },
-    {
-      "v": 12,
-      "text": "Ary Jehovah handova an' i Joda ho anjarany ao amin' ny tany masina ary hifidy an' i Jerosalema indray."
-    },
-    {
-      "v": 13,
-      "text": "Mangìna eo anatrehan' i Jehovah, ry nofo rehetra! fa nifoha avy ao amin' ny fitoerany masina Izy."
-    }
-  ]
+  "verses": {
+    "1": "Dia natopiko indray ny masoko, ka hitako fa indro, nisy lehilahy manana tsipika fandrefesana eny an-tanany.",
+    "2": "Dia hoy aho: ho aiza moa ianao? Ary hoy izy tamiko: handrefy an' i Jerosalema hizaha ny sakany sy ny lavany aho.",
+    "3": "Ary, indro, nivoaka ilay anjely niresaka tamiko, ary nisy anjely anankiray koa nivoaka hitsena azy,",
+    "4": "Ka nanao taminy hoe: mihazakazaha, ka milazà amin' io zatovo io hoe: honenana toy ny tanàna tsy mimanda Jerosalema noho ny hamaroan' ny olona sy ny biby fiompy ao aminy.",
+    "5": "Fa Izaho, hoy Jehovah, ho manda afo manodidina azy ary ho voninahitra ao afovoany.",
+    "6": "He! He! Mandosira avy any amin' ny tany avaratra, hoy Jehovah; fa aeliko ho toy ny rivotra efatry ny lanitra ianareo, hoy Jehovah.",
+    "7": "He! vonjeo ny tenanao, ry Ziona, izay monina ao amin' ny zanakavavin' i Babylona.",
+    "8": "Fa izao no lazain' i Jehovah, Tompon' ny maro: aorian' ny voninahitra no nanirahany ahy tany amin' ny firenena izay namabo anareo; fa izay mikasika anareo dia mikasika ny anakandriamasony.",
+    "9": "Fa, indro, hahinjitro eo amboniny ny tanako ka hobaboin' ireo nanompo azy izy; dia ho fantatrareo fa Jehovah, Tompon' ny maro, no naniraka ahy.",
+    "10": "Mihirà sy mifalia ry zanakavavin' i Ziona, fa indro, avy honina ao afovoanao Aho, hoy Jehovah.",
+    "11": "Ary firenena maro no hikambana amin' i Jehovah amin' izany andro izany, ka ho oloko izy, ary hitoetra eo afovoanao aho, ka ho fantatrao fa Jehovah, Tompon' ny maro no naniraka ahy ho aminao.",
+    "12": "Ary Jehovah handova an' i Joda ho anjarany ao amin' ny tany masina ary hifidy an' i Jerosalema indray.",
+    "13": "Mangìna eo anatrehan' i Jehovah, ry nofo rehetra! fa nifoha avy ao amin' ny fitoerany masina Izy."
+  }
 }

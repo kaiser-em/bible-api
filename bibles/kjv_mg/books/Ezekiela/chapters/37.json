@@ -1,117 +1,34 @@
 {
+  "book": "Ezekiela",
   "chapter": 37,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tao amiko ny tanan' i Jehovah ary ny Fanahiny no nitondran' i Jehovah ahy nivoaka, dia napetrany teo afovoan' ny lohasaha feno taolana aho."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary nitondra ahy nandehandeha teny amin' ireo Izy; ary, indreo, betsaka dia betsaka teny amin' ny lohasaha malalaka ireo, ary, indreo, maina dia maina ireo.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary hoy Jehovah tamiko: Ry zanak' olona, moa mety ho velona ihany va ireto taolana ireto? Dia namaly aho hoe: Jehovah Andriamanitra ô, Ianao no mahalala."
-    },
-    {
-      "v": 4,
-      "text": "Dia hoy indray Izy tamiko: Maminania amin' ireto taolana ireto, ka ataovy aminy hoe: ry taola-maina, mihainoa ny tenin' i Jehovah!"
-    },
-    {
-      "v": 5,
-      "text": "\"Izao no lazain' i Jehovah Andriamanitra amin' ireto taolana ireto: Indro, hasiako fofonaina ianareo ka ho velona;\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary hasiako ozatra ianareo ka hampaniriko nofo; ary hosaronako hoditra ianareo; ary hasiako fofonaina ianareo ka ho velona; ka dia ho fantatrareo fa Izaho no Jehovah.\""
-    },
-    {
-      "v": 7,
-      "text": "Dia naminany aho araka izay efa nandidiana ahy ary nony efa naminany aho, dia injany! nisy feo, ary, indreo, nihetsiketsika sady nifanatonatona ny taolana, samy nanatona ny taolana namany avy."
-    },
-    {
-      "v": 8,
-      "text": "Ary hitako fa, indro, naniry ny ozatra sy ny nofo, ary nisarona hoditra izy, nefa tsy mbola nisy fofonaina tao aminy."
-    },
-    {
-      "v": 9,
-      "text": "Dia hoy Izy tamiko: Maminania amin' ny rivotra, maminania, ry zanak' olona, ka ataovy amin' ny rivotra hoe: izao no lazain' i Jehovah Andriamanitra: Manatòna avy amin' ny rivotra efatra, ry fofonaina, ka tsofy ireo voavono ireo, mba ho velona izy."
-    },
-    {
-      "v": 10,
-      "text": "Dia naminany araka izay efa nandidiany ahy aho ary dia nidiran' ny fofon' aina ireo ka velona, dia nijoro tamin' ny tongony izy, izay tafika marobe dia marobe tokoa."
-    },
-    {
-      "v": 11,
-      "text": "\"Dia hoy Izy tamiko: Ry zanak' olona, ireto taolana ireto dia ny taranak' Isiraely rehetra: indreo izy manao hoe: maina ny taolanay ary very ny fanantenanay; raha ny aminay dia fongotra izahay.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Koa maminania, ka ataovy aminy hoe: izao no lazain' i Jehovah Andriamanitra: Indro, ry oloko, Izaho no hanokatra ny fasanareo, ary hampiakariko avy amin' ny fasanareo ianareo, ka hoentiko ho any amin' ny tanin' ny Isiraely;\""
-    },
-    {
-      "v": 13,
-      "text": "Ka dia ho fantatrareo fa Izaho no Jehovah, raha manokatra ny fasanareo Aho, ry oloko, ka mampiakatra anareo hiala amin' ny fasanareo."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary hataoko ao anatinareo ny Fanahiko, dia ho velona ianareo ary hamponeniko any amin' ny taninareo ianareo; ka dia ho fantatrareo fa Izaho Jehovah no efa niteny sady nahatanteraka izany, hoy Jehovah.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary tonga tamiko indray ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 16,
-      "text": "\"Ary ianao, ry zanak' olona, dia mangalà tapa-kazo iray, ka asio soratra hoe: ho an' ny Joda sy ho an' ny Zanak' Isiraely namany; dia mangalà tapa-kazo anankiray koa, ka asio soratra hoe: ho an' i Josefa, dia tapa-kazon' i Efraima, sy ho an' ny taranak' Isiraely namany rehetra.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary ampifanatony izy roa ho tonga tapa-kazo iray ihany, dia ho iray eny an-tananao izy."
-    },
-    {
-      "v": 18,
-      "text": "Ary raha hiteny aminao ny zanaky ny firenenao manao hoe: moa tsy haneho aminay izay hevitrao amin' izany va ianao?"
-    },
-    {
-      "v": 19,
-      "text": "Dia lazao aminy hoe: izao no lazain' i Jehovah Andriamanitra: Indro, Izaho no haka ny tapa-kazon' i Josefa, izay eny an-tanan' i Efraima sy ireo fokon' ny Isiraely namany, ary hakambako ho eo amin' ny tapa-kazon' i Joda izy, ary hataoko tapa-kazo iray ihany izy ka ho tonga iray eny an-tanako."
-    },
-    {
-      "v": 20,
-      "text": "Ary ny tapa-kazo izay hasianao soratra dia ho eny an-tananao eo imasony."
-    },
-    {
-      "v": 21,
-      "text": "\"Dia lazao aminy hoe: izao no lazain' i Jehovah Andriamanitra: Indro Aho haka ny Zanak' Isiraely avy any amin' ny jentilisa izay nandehanany, ary hangoniko avy any amin' ny manodidina any izy ka hoentiko ho any amin' ny taniny;\""
-    },
-    {
-      "v": 22,
-      "text": "Ary hataoko ho firenena iray any amin' ny tany izy, dia any an-tendrombohitry ny Isiraely, ary mpanjaka iray ihany no ho mpanjakan' izy rehetra, ka tsy ho firenena roa intsony izy ary tsy hisaraka ho fanjakana roa intsony akory."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary tsy handoto tena amin' ny sampiny intsony izy, na amin' ny zava-betavetany, na amin' ny fahadisoany; fa hovonjeko ho afaka amin' ny fonenany rehetra izay nanotany izy, ary hodioviko izy, ka dia ho oloko izy, ary Izaho ho Andriamaniny.\""
-    },
-    {
-      "v": 24,
-      "text": "Ary Davida Mpanompoko no ho Mpanjakany, ary hanana Mpiandry iray izy rehetra, dia handeha araka ny fitsipiko izy sady hitandrina ny lalàko sy hanatanteraka izany."
-    },
-    {
-      "v": 25,
-      "text": "\"Ary honina any amin' ny tany izay nomeko an' i Jakoba mpanompoko izy, dia ilay efa nonenan' ny razanareo, ka honina any izy sy ny zanany mbamin' ny zafiny mandrakizay; ary Davida Mpanompoko no ho Mpanapaka azy mandrakizay.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary hanao fanekem-pihavanana ho azy Aho, ka ho fanekena mandrakizay eo aminy izany, ary hametraka sy hahamaro azy Aho sady hametraka ny fitoerako masina eo afovoany mandrakizay."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary ny tabernakeliko koa ho eo aminy; eny, ho Andriamaniny Aho, ary izy ho oloko.\""
-    },
-    {
-      "v": 28,
-      "text": "Ka dia ho fantatry ny jentilisa fa Izaho Jehovah no manamasina ny Isiraely amin' ny isian' ny fitoerako masina eo afovoany mandrakizay."
-    }
-  ]
+  "verses": {
+    "1": "Tao amiko ny tanan' i Jehovah ary ny Fanahiny no nitondran' i Jehovah ahy nivoaka, dia napetrany teo afovoan' ny lohasaha feno taolana aho.",
+    "2": "Ary nitondra ahy nandehandeha teny amin' ireo Izy; ary, indreo, betsaka dia betsaka teny amin' ny lohasaha malalaka ireo, ary, indreo, maina dia maina ireo.",
+    "3": "Ary hoy Jehovah tamiko: Ry zanak' olona, moa mety ho velona ihany va ireto taolana ireto? Dia namaly aho hoe: Jehovah Andriamanitra ô, Ianao no mahalala.",
+    "4": "Dia hoy indray Izy tamiko: Maminania amin' ireto taolana ireto, ka ataovy aminy hoe: ry taola-maina, mihainoa ny tenin' i Jehovah!",
+    "5": "Izao no lazain' i Jehovah Andriamanitra amin' ireto taolana ireto: Indro, hasiako fofonaina ianareo ka ho velona;",
+    "6": "Ary hasiako ozatra ianareo ka hampaniriko nofo; ary hosaronako hoditra ianareo; ary hasiako fofonaina ianareo ka ho velona; ka dia ho fantatrareo fa Izaho no Jehovah.",
+    "7": "Dia naminany aho araka izay efa nandidiana ahy ary nony efa naminany aho, dia injany! nisy feo, ary, indreo, nihetsiketsika sady nifanatonatona ny taolana, samy nanatona ny taolana namany avy.",
+    "8": "Ary hitako fa, indro, naniry ny ozatra sy ny nofo, ary nisarona hoditra izy, nefa tsy mbola nisy fofonaina tao aminy.",
+    "9": "Dia hoy Izy tamiko: Maminania amin' ny rivotra, maminania, ry zanak' olona, ka ataovy amin' ny rivotra hoe: izao no lazain' i Jehovah Andriamanitra: Manatòna avy amin' ny rivotra efatra, ry fofonaina, ka tsofy ireo voavono ireo, mba ho velona izy.",
+    "10": "Dia naminany araka izay efa nandidiany ahy aho ary dia nidiran' ny fofon' aina ireo ka velona, dia nijoro tamin' ny tongony izy, izay tafika marobe dia marobe tokoa.",
+    "11": "Dia hoy Izy tamiko: Ry zanak' olona, ireto taolana ireto dia ny taranak' Isiraely rehetra: indreo izy manao hoe: maina ny taolanay ary very ny fanantenanay; raha ny aminay dia fongotra izahay.",
+    "12": "Koa maminania, ka ataovy aminy hoe: izao no lazain' i Jehovah Andriamanitra: Indro, ry oloko, Izaho no hanokatra ny fasanareo, ary hampiakariko avy amin' ny fasanareo ianareo, ka hoentiko ho any amin' ny tanin' ny Isiraely;",
+    "13": "Ka dia ho fantatrareo fa Izaho no Jehovah, raha manokatra ny fasanareo Aho, ry oloko, ka mampiakatra anareo hiala amin' ny fasanareo.",
+    "14": "Ary hataoko ao anatinareo ny Fanahiko, dia ho velona ianareo ary hamponeniko any amin' ny taninareo ianareo; ka dia ho fantatrareo fa Izaho Jehovah no efa niteny sady nahatanteraka izany, hoy Jehovah.",
+    "15": "Ary tonga tamiko indray ny tenin' i Jehovah nanao hoe:",
+    "16": "Ary ianao, ry zanak' olona, dia mangalà tapa-kazo iray, ka asio soratra hoe: ho an' ny Joda sy ho an' ny Zanak' Isiraely namany; dia mangalà tapa-kazo anankiray koa, ka asio soratra hoe: ho an' i Josefa, dia tapa-kazon' i Efraima, sy ho an' ny taranak' Isiraely namany rehetra.",
+    "17": "Ary ampifanatony izy roa ho tonga tapa-kazo iray ihany, dia ho iray eny an-tananao izy.",
+    "18": "Ary raha hiteny aminao ny zanaky ny firenenao manao hoe: moa tsy haneho aminay izay hevitrao amin' izany va ianao?",
+    "19": "Dia lazao aminy hoe: izao no lazain' i Jehovah Andriamanitra: Indro, Izaho no haka ny tapa-kazon' i Josefa, izay eny an-tanan' i Efraima sy ireo fokon' ny Isiraely namany, ary hakambako ho eo amin' ny tapa-kazon' i Joda izy, ary hataoko tapa-kazo iray ihany izy ka ho tonga iray eny an-tanako.",
+    "20": "Ary ny tapa-kazo izay hasianao soratra dia ho eny an-tananao eo imasony.",
+    "21": "Dia lazao aminy hoe: izao no lazain' i Jehovah Andriamanitra: Indro Aho haka ny Zanak' Isiraely avy any amin' ny jentilisa izay nandehanany, ary hangoniko avy any amin' ny manodidina any izy ka hoentiko ho any amin' ny taniny;",
+    "22": "Ary hataoko ho firenena iray any amin' ny tany izy, dia any an-tendrombohitry ny Isiraely, ary mpanjaka iray ihany no ho mpanjakan' izy rehetra, ka tsy ho firenena roa intsony izy ary tsy hisaraka ho fanjakana roa intsony akory.",
+    "23": "Ary tsy handoto tena amin' ny sampiny intsony izy, na amin' ny zava-betavetany, na amin' ny fahadisoany; fa hovonjeko ho afaka amin' ny fonenany rehetra izay nanotany izy, ary hodioviko izy, ka dia ho oloko izy, ary Izaho ho Andriamaniny.",
+    "24": "Ary Davida Mpanompoko no ho Mpanjakany, ary hanana Mpiandry iray izy rehetra, dia handeha araka ny fitsipiko izy sady hitandrina ny lalàko sy hanatanteraka izany.",
+    "25": "Ary honina any amin' ny tany izay nomeko an' i Jakoba mpanompoko izy, dia ilay efa nonenan' ny razanareo, ka honina any izy sy ny zanany mbamin' ny zafiny mandrakizay; ary Davida Mpanompoko no ho Mpanapaka azy mandrakizay.",
+    "26": "Ary hanao fanekem-pihavanana ho azy Aho, ka ho fanekena mandrakizay eo aminy izany, ary hametraka sy hahamaro azy Aho sady hametraka ny fitoerako masina eo afovoany mandrakizay.",
+    "27": "Ary ny tabernakeliko koa ho eo aminy; eny, ho Andriamaniny Aho, ary izy ho oloko.",
+    "28": "Ka dia ho fantatry ny jentilisa fa Izaho Jehovah no manamasina ny Isiraely amin' ny isian' ny fitoerako masina eo afovoany mandrakizay."
+  }
 }

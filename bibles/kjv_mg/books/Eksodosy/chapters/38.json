@@ -1,129 +1,37 @@
 {
+  "book": "Eksodosy",
   "chapter": 38,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary nanao ny alitaran' ny fanatitra dorana tamin' ny hazo sitima izy: dimy hakiho ny halavany, ary dimy hakiho ny sakany; efa-joro izy; ary telo hakiho ny haavony.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary nanao ny tandrony teo amin' ny zorony efatra izy, niray taminy ny tandrony ka nopetahany varahina izany."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary nanao ny fanaka rehetra momba ny alitara izy, ny vilany sy ny sotron' afo sy ny tavy sy ny fitrebika ary ny fitondran' afo; varahina no nanaovany ny fanaka rehetra momba azy.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary nanao makarakara varahina izy, tahaka ny harato ho an' ny alitara, teo ambanin' ny sikiny, tamin' ny fanambaniny amin' ny fisasahany."
-    },
-    {
-      "v": 5,
-      "text": "Ary nandrendrika vavavola efatra izy ho an' ny zorony efatra amin' ny makarakara varahina, ho fitoeran' ny bao."
-    },
-    {
-      "v": 6,
-      "text": "Ary nanao ny bao tamin' ny hazo sitima izy, ka nopetahany varahina izany."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary nampiditra ny bao teo amin' ireo vavavola amin' ny lafin' ny alitara izy, ho fitondrana azy; hobokaty no nanaovany ny alitara tamin' ny hazofisaka.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary ny tavy varahina sy ny faladiany varahina dia nataony tamin' ny fitaratry ny vehivavy mpivory, izay nivory teo amin' ny varavaran' ny tranolay fihaonana."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary nanao ny kianja izy; tamin' ny lafiny atsimo mianatsimo dia rongony fotsy madinika voahasina zato hakiho no fefy lamban' ny kianja.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Roapolo ny andriny ary roapolo ny faladiany varahina; ny fihantonan' ny andry sy ny anjaka aminy dia volafotsy.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary tamin' ny lafiny avaratra dia zato hakiho ny fefy lamba, roapolo ny andriny ary roapolo ny faladiany varahina; ny fihantonan' ny andry sy ny anjany dia volafotsy.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary tamin' ny lafiny andrefana dia fefy lamba dimampolo hakiho, folo ny andriny ary folo ny faladiany; ny fihantonan' ny andry sy ny anjany dia volafotsy.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary tamin' ny lafiny atsinanana miantsinanana dia dimampolo hakiho."
-    },
-    {
-      "v": 14,
-      "text": "\"Ny fefy lamba tamin' ny lafiny iray amin' ny vavahady dia dimy ambin' ny folo hakiho; telo ny andriny ary telo ny faladiany.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary tamin' ny lafiny ilan' ny vavahadin' ny kianja, teo andaniny sy teo an-kilany dia fefy lamba dimy ambin' ny folo hakiho; telo ny andriny ary telo ny faladiany.\""
-    },
-    {
-      "v": 16,
-      "text": "Ny fefy lamban' ny kianja manodidina rehetra dia rongony fotsy madinika voahasina."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ny faladian' ny andry dia varahina; ny fihantonan' ny andry sy ny anjaka aminy dia volafotsy; ary ny napetaka tamin' ny kapitaliny dia volafotsy ary ny andrin' ny kianja rehetra dia nisy anjaka volafotsy hitohizany.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary ny vavahady lamban' ny kianja dia asan' ny mpanao tenona tamin' ny manga sy volomparasy sy jaky sy rongony fotsy madinika; ary roapolo hakiho ny halavany, ary dimy hakiho ny haavony amin' ny sakany, mamaly ny fefy lamban' ny kianja.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ary efatra ny andriny, ary efatra ny faladiany varahina; ny fihantonany dia volafotsy, ary ny napetaka tamin'ny kapitaliny sy ny anjaka taminy dia volafotsy.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary ny tsimatra rehetra amin' ny tabernakely sy amin' ny kianja manodidina dia varahina."
-    },
-    {
-      "v": 21,
-      "text": "Izao no fitambaran' ny tabernakely, dia ny tabernakelin' ny Vavolombelona, araka ny nanisana azy, araka ny didin' i Mosesy, ho amin' ny fanompoan' ny Levita, tamin' ny tanan' Itamara zanakalahin' i Arona mpisorona."
-    },
-    {
-      "v": 22,
-      "text": "Ary Bezalila, zanak' i Ory, zanak' i Hora, avy amin' ny fokon' i Joda dia nanao izay rehetra nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 23,
-      "text": "Ary niaraka taminy Oholiaba, zanak' i Ahisamaka, avy amin' ny fokon' i Dana, mpanora-bato sy lehilahy mpanao asa kanto sy mpanao amboradara amin' ny manga sy ny volomparasy sy ny jaky ary hariry madinika."
-    },
-    {
-      "v": 24,
-      "text": "Ary ny volamena rehetra izay nanaovana raharaha tao amin' ny asa rehetra momba ny fitoerana masina, eny, ny volamena tamin' ny fanatitra dia talenta sivy amby roapolo, sy sekely telopolo amby fitonjato araka ny sekelin' ny fitoerana masina."
-    },
-    {
-      "v": 25,
-      "text": "Ary ny volafotsy avy tamin' ny olona izay voaisa tamin' ny fiangonana dia talenta zato sy sekely dimy amby fitopolo amby fitonjato amby arivo, araka ny sekelin' ny fitoerana masina:"
-    },
-    {
-      "v": 26,
-      "text": "Beka iray isan' olona, dia antsasaky ny sekely araka ny sekelin' ny fitoerana masina, tamin' izay rehetra nisaina, hatramin' ny roapolo taona no ho miakatra, dia lehilahy dimampolo amby dimanjato amby telo arivo sy enina hetsy."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary tamin' ny talenta volafotsy zato no nandrendrehana ny faladian' ny fitoerana masina sy ny faladian' ny efitra lamba; dia faladia zato tamin' ny talenta volafotsy zato; talenta iray ny faladia iray.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary tamin' ny sekely dimy amby fitopolo amby fitonjato sy arivo no nanaovany ny fihantonana tamin' ny andry, sy nametahany takela-bola tamin' ny lohany, ary nanaovany ny anjaka hitohizany."
-    },
-    {
-      "v": 29,
-      "text": "Ary ny varahina tamin' ny fanatitra dia talenta fitopolo sy sekely efajato amby roa arivo."
-    },
-    {
-      "v": 30,
-      "text": "Ary izany no nanaovany ny faladiany ho amin' ny varavaran' ny tranolay fihaonana, sy ny alitara varahina sy ny makarakara varahina izay teo aminy ary ny fanaka rehetra momba ny alitara,"
-    },
-    {
-      "v": 31,
-      "text": "Ary ny faladia tamin' ny kianja manodidina sy ny faladia tamin' ny vavahadin' ny kianja sy ny tsimatra rehetra amin' ny tabernakely ary ny tsimatra rehetra amin' ny kianja manodidina."
-    }
-  ]
+  "verses": {
+    "1": "Ary nanao ny alitaran' ny fanatitra dorana tamin' ny hazo sitima izy: dimy hakiho ny halavany, ary dimy hakiho ny sakany; efa-joro izy; ary telo hakiho ny haavony.",
+    "2": "Ary nanao ny tandrony teo amin' ny zorony efatra izy, niray taminy ny tandrony ka nopetahany varahina izany.",
+    "3": "Ary nanao ny fanaka rehetra momba ny alitara izy, ny vilany sy ny sotron' afo sy ny tavy sy ny fitrebika ary ny fitondran' afo; varahina no nanaovany ny fanaka rehetra momba azy.",
+    "4": "Ary nanao makarakara varahina izy, tahaka ny harato ho an' ny alitara, teo ambanin' ny sikiny, tamin' ny fanambaniny amin' ny fisasahany.",
+    "5": "Ary nandrendrika vavavola efatra izy ho an' ny zorony efatra amin' ny makarakara varahina, ho fitoeran' ny bao.",
+    "6": "Ary nanao ny bao tamin' ny hazo sitima izy, ka nopetahany varahina izany.",
+    "7": "Ary nampiditra ny bao teo amin' ireo vavavola amin' ny lafin' ny alitara izy, ho fitondrana azy; hobokaty no nanaovany ny alitara tamin' ny hazofisaka.",
+    "8": "Ary ny tavy varahina sy ny faladiany varahina dia nataony tamin' ny fitaratry ny vehivavy mpivory, izay nivory teo amin' ny varavaran' ny tranolay fihaonana.",
+    "9": "Ary nanao ny kianja izy; tamin' ny lafiny atsimo mianatsimo dia rongony fotsy madinika voahasina zato hakiho no fefy lamban' ny kianja.",
+    "10": "Roapolo ny andriny ary roapolo ny faladiany varahina; ny fihantonan' ny andry sy ny anjaka aminy dia volafotsy.",
+    "11": "Ary tamin' ny lafiny avaratra dia zato hakiho ny fefy lamba, roapolo ny andriny ary roapolo ny faladiany varahina; ny fihantonan' ny andry sy ny anjany dia volafotsy.",
+    "12": "Ary tamin' ny lafiny andrefana dia fefy lamba dimampolo hakiho, folo ny andriny ary folo ny faladiany; ny fihantonan' ny andry sy ny anjany dia volafotsy.",
+    "13": "Ary tamin' ny lafiny atsinanana miantsinanana dia dimampolo hakiho.",
+    "14": "Ny fefy lamba tamin' ny lafiny iray amin' ny vavahady dia dimy ambin' ny folo hakiho; telo ny andriny ary telo ny faladiany.",
+    "15": "Ary tamin' ny lafiny ilan' ny vavahadin' ny kianja, teo andaniny sy teo an-kilany dia fefy lamba dimy ambin' ny folo hakiho; telo ny andriny ary telo ny faladiany.",
+    "16": "Ny fefy lamban' ny kianja manodidina rehetra dia rongony fotsy madinika voahasina.",
+    "17": "Ary ny faladian' ny andry dia varahina; ny fihantonan' ny andry sy ny anjaka aminy dia volafotsy; ary ny napetaka tamin' ny kapitaliny dia volafotsy ary ny andrin' ny kianja rehetra dia nisy anjaka volafotsy hitohizany.",
+    "18": "Ary ny vavahady lamban' ny kianja dia asan' ny mpanao tenona tamin' ny manga sy volomparasy sy jaky sy rongony fotsy madinika; ary roapolo hakiho ny halavany, ary dimy hakiho ny haavony amin' ny sakany, mamaly ny fefy lamban' ny kianja.",
+    "19": "Ary efatra ny andriny, ary efatra ny faladiany varahina; ny fihantonany dia volafotsy, ary ny napetaka tamin'ny kapitaliny sy ny anjaka taminy dia volafotsy.",
+    "20": "Ary ny tsimatra rehetra amin' ny tabernakely sy amin' ny kianja manodidina dia varahina.",
+    "21": "Izao no fitambaran' ny tabernakely, dia ny tabernakelin' ny Vavolombelona, araka ny nanisana azy, araka ny didin' i Mosesy, ho amin' ny fanompoan' ny Levita, tamin' ny tanan' Itamara zanakalahin' i Arona mpisorona.",
+    "22": "Ary Bezalila, zanak' i Ory, zanak' i Hora, avy amin' ny fokon' i Joda dia nanao izay rehetra nandidian' i Jehovah an' i Mosesy.",
+    "23": "Ary niaraka taminy Oholiaba, zanak' i Ahisamaka, avy amin' ny fokon' i Dana, mpanora-bato sy lehilahy mpanao asa kanto sy mpanao amboradara amin' ny manga sy ny volomparasy sy ny jaky ary hariry madinika.",
+    "24": "Ary ny volamena rehetra izay nanaovana raharaha tao amin' ny asa rehetra momba ny fitoerana masina, eny, ny volamena tamin' ny fanatitra dia talenta sivy amby roapolo, sy sekely telopolo amby fitonjato araka ny sekelin' ny fitoerana masina.",
+    "25": "Ary ny volafotsy avy tamin' ny olona izay voaisa tamin' ny fiangonana dia talenta zato sy sekely dimy amby fitopolo amby fitonjato amby arivo, araka ny sekelin' ny fitoerana masina:",
+    "26": "Beka iray isan' olona, dia antsasaky ny sekely araka ny sekelin' ny fitoerana masina, tamin' izay rehetra nisaina, hatramin' ny roapolo taona no ho miakatra, dia lehilahy dimampolo amby dimanjato amby telo arivo sy enina hetsy.",
+    "27": "Ary tamin' ny talenta volafotsy zato no nandrendrehana ny faladian' ny fitoerana masina sy ny faladian' ny efitra lamba; dia faladia zato tamin' ny talenta volafotsy zato; talenta iray ny faladia iray.",
+    "28": "Ary tamin' ny sekely dimy amby fitopolo amby fitonjato sy arivo no nanaovany ny fihantonana tamin' ny andry, sy nametahany takela-bola tamin' ny lohany, ary nanaovany ny anjaka hitohizany.",
+    "29": "Ary ny varahina tamin' ny fanatitra dia talenta fitopolo sy sekely efajato amby roa arivo.",
+    "30": "Ary izany no nanaovany ny faladiany ho amin' ny varavaran' ny tranolay fihaonana, sy ny alitara varahina sy ny makarakara varahina izay teo aminy ary ny fanaka rehetra momba ny alitara,",
+    "31": "Ary ny faladia tamin' ny kianja manodidina sy ny faladia tamin' ny vavahadin' ny kianja sy ny tsimatra rehetra amin' ny tabernakely ary ny tsimatra rehetra amin' ny kianja manodidina."
+  }
 }

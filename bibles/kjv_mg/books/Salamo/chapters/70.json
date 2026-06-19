@@ -1,25 +1,11 @@
 {
+  "book": "Salamo",
   "chapter": 70,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira. Salamo nataon' i Davida ho fampahatsiarovana.]  ANDRIAMANITRA ô, faingàna hanafaka ahy; Jehovah ô, faingana hamonjy ahy.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Aoka ho menatra sy hangaihay izay mitady ny aiko; aoka hiamboho sy ho afa-baràka izay faly amin' ny fahavoazako.\""
-    },
-    {
-      "v": 3,
-      "text": "Aoka hiamboho noho ny fahamenarany izay manao hoe: Hia! sakoa izay!"
-    },
-    {
-      "v": 4,
-      "text": "\"Aoka ho faly sy hiravoravo aminao izay rehetra mitady Anao; ary aoka izay tia ny famonjenao hanao mandrakariva hoe: Hankalazaina anie Andriamanitra.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Fa izaho dia ory sy malahelo; faingàna hankaty amiko, Andriamanitra ô; Mpamonjy sy Mpanafaka ahy Ianao; aza ela, Jehovah ô.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Salamo nataon' i Davida ho fampahatsiarovana.]  ANDRIAMANITRA ô, faingàna hanafaka ahy; Jehovah ô, faingana hamonjy ahy.",
+    "2": "Aoka ho menatra sy hangaihay izay mitady ny aiko; aoka hiamboho sy ho afa-baràka izay faly amin' ny fahavoazako.",
+    "3": "Aoka hiamboho noho ny fahamenarany izay manao hoe: Hia! sakoa izay!",
+    "4": "Aoka ho faly sy hiravoravo aminao izay rehetra mitady Anao; ary aoka izay tia ny famonjenao hanao mandrakariva hoe: Hankalazaina anie Andriamanitra.",
+    "5": "Fa izaho dia ory sy malahelo; faingàna hankaty amiko, Andriamanitra ô; Mpamonjy sy Mpanafaka ahy Ianao; aza ela, Jehovah ô."
+  }
 }

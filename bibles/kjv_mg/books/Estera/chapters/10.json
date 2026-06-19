@@ -1,17 +1,9 @@
 {
+  "book": "Estera",
   "chapter": 10,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ARy Ahasoerosy mpanjaka nampandoa hetra ny tany sy ny nosin-dranomasina."
-    },
-    {
-      "v": 2,
-      "text": "Ary ny asa rehetra nataony araka ny fahefany sy ny heriny, mbamin' ny filazana ny fahalehibiazan' i Mordekay, araka izay nanandratan' ny mpanjaka azy, tsy efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' i Media sy Persia va izany?"
-    },
-    {
-      "v": 3,
-      "text": "Fa Mordekay Jiosy no nanarakaraka an' i Ahasoerosy mpanjaka sady nalaza tamin' ny Jiosy ka nankasitrahan' ny rahalahiny marobe, satria nitady ny hahasoa ny fireneny sady nilaza fiadanana ho an' ny taranany rehetra."
-    }
-  ]
+  "verses": {
+    "1": "ARy Ahasoerosy mpanjaka nampandoa hetra ny tany sy ny nosin-dranomasina.",
+    "2": "Ary ny asa rehetra nataony araka ny fahefany sy ny heriny, mbamin' ny filazana ny fahalehibiazan' i Mordekay, araka izay nanandratan' ny mpanjaka azy, tsy efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' i Media sy Persia va izany?",
+    "3": "Fa Mordekay Jiosy no nanarakaraka an' i Ahasoerosy mpanjaka sady nalaza tamin' ny Jiosy ka nankasitrahan' ny rahalahiny marobe, satria nitady ny hahasoa ny fireneny sady nilaza fiadanana ho an' ny taranany rehetra."
+  }
 }

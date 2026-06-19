@@ -1,45 +1,16 @@
 {
+  "book": "Jona",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary tonga fanindroany tamin' i Jona ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Mitsangàna, ka mankanesa any Ninive, ilay tanàna lehibe; ary torio aminy ny toriteny izay nandidiako anao.\""
-    },
-    {
-      "v": 3,
-      "text": "Dia nitsangana Jona ka nankany Ninive araka ny tenin' i Jehovah. Ary Ninive dia tanàna lehibe indrindra, lalana hateloana."
-    },
-    {
-      "v": 4,
-      "text": "Ary nanomboka niditra tao an-tanàna lalana indray andro Jona ka niantso sy niteny hoe: Rehefa afaka efapolo andro dia horavana Ninive."
-    },
-    {
-      "v": 5,
-      "text": "Dia nino an' Andriamanitra ny mponina tao Ninive ka niantso fifadian-kanina sady nitafy lamba fisaonana hatramin' ny lehibe indrindra ka hatramin' ny kely indrindra."
-    },
-    {
-      "v": 6,
-      "text": "Fa tonga tany amin' ny mpanjakan' i Ninive ny teny, dia nitsangana niala tamin' ny sezafiandrianany izy, ka nanaisotra ny akanjom-boninahiny, dia nisarona lamba fisaonana sady nipetraka tamin' ny lavenona."
-    },
-    {
-      "v": 7,
-      "text": "Ary nasainy nantsoina sy nambara eran' i Ninive araka ny didin' ny mpanjaka sy ny mpanapaka hoe: Aza avela hisy hanendry hanina akory, na olona, na biby na omby na biby fiompy, aza avela hisy hihinana na hisotro rano akory ireo."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa aoka samy hisarona lamba fisaonana ny olona sy ny biby, ary aoka hitaraina mafy amin' Andriamanitra izy; eny, aoka samy hahafoy ny lalany ratsy sy ny fandozana eny an-tanany avy izy rehetra.\""
-    },
-    {
-      "v": 9,
-      "text": "Iza no mahalala raha hiverina Andriamanitra ka hanenina ary hiala amin' ny fahatezerany mirehitra, mba tsy ho ringana isika?"
-    },
-    {
-      "v": 10,
-      "text": "Ary hitan' Andriamanitra ny nataon' ireo, dia ny nialany tamin' ny lalan-dratsiny, ary nanenina Andriamanitra ny amin' ny loza izay nolazainy hamelezany azy, ka tsy nataony izany."
-    }
-  ]
+  "verses": {
+    "1": "Ary tonga fanindroany tamin' i Jona ny tenin' i Jehovah nanao hoe:",
+    "2": "Mitsangàna, ka mankanesa any Ninive, ilay tanàna lehibe; ary torio aminy ny toriteny izay nandidiako anao.",
+    "3": "Dia nitsangana Jona ka nankany Ninive araka ny tenin' i Jehovah. Ary Ninive dia tanàna lehibe indrindra, lalana hateloana.",
+    "4": "Ary nanomboka niditra tao an-tanàna lalana indray andro Jona ka niantso sy niteny hoe: Rehefa afaka efapolo andro dia horavana Ninive.",
+    "5": "Dia nino an' Andriamanitra ny mponina tao Ninive ka niantso fifadian-kanina sady nitafy lamba fisaonana hatramin' ny lehibe indrindra ka hatramin' ny kely indrindra.",
+    "6": "Fa tonga tany amin' ny mpanjakan' i Ninive ny teny, dia nitsangana niala tamin' ny sezafiandrianany izy, ka nanaisotra ny akanjom-boninahiny, dia nisarona lamba fisaonana sady nipetraka tamin' ny lavenona.",
+    "7": "Ary nasainy nantsoina sy nambara eran' i Ninive araka ny didin' ny mpanjaka sy ny mpanapaka hoe: Aza avela hisy hanendry hanina akory, na olona, na biby na omby na biby fiompy, aza avela hisy hihinana na hisotro rano akory ireo.",
+    "8": "Fa aoka samy hisarona lamba fisaonana ny olona sy ny biby, ary aoka hitaraina mafy amin' Andriamanitra izy; eny, aoka samy hahafoy ny lalany ratsy sy ny fandozana eny an-tanany avy izy rehetra.",
+    "9": "Iza no mahalala raha hiverina Andriamanitra ka hanenina ary hiala amin' ny fahatezerany mirehitra, mba tsy ho ringana isika?",
+    "10": "Ary hitan' Andriamanitra ny nataon' ireo, dia ny nialany tamin' ny lalan-dratsiny, ary nanenina Andriamanitra ny amin' ny loza izay nolazainy hamelezany azy, ka tsy nataony izany."
+  }
 }

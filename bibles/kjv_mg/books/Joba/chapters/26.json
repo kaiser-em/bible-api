@@ -1,61 +1,20 @@
 {
+  "book": "Joba",
   "chapter": 26,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Fa namaly Joba ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Ahoana no nanampianao ny tsy manan-kery? Ary ahoana no namonjenao ny sandrin' ny tsy manan-kery?"
-    },
-    {
-      "v": 3,
-      "text": "Ahoana no nanoloranao saina ny tsy manam-pahendrena? Ary ahoana no nampahafantaranao ny zavatra araka ny tokony ho izy?"
-    },
-    {
-      "v": 4,
-      "text": "Iza no nandaharanao teny? ary fanahin' iza no nivoaka avy tao aminao?"
-    },
-    {
-      "v": 5,
-      "text": "Ny zavatra maty no miforina avy any ambanin' ny rano, sy izay mponina ao."
-    },
-    {
-      "v": 6,
-      "text": "Miharihary eo anatrehany ny helo, ary ny fandringanana dia tsy mirakotra."
-    },
-    {
-      "v": 7,
-      "text": "Mamelatra ny avaratra ho eny ambonin' ny habakabaka Izy, ary manantona ny tany amin' ny tsy misy."
-    },
-    {
-      "v": 8,
-      "text": "Fonosiny amin' ireo rahona matevina ny rano, nefa ny fanambanin' ny rahona tsy mety triatra."
-    },
-    {
-      "v": 9,
-      "text": "Manakona ny endriky ny sezafiandrianany Izy, ka mamelatra ny rahony eo amboniny."
-    },
-    {
-      "v": 10,
-      "text": "Asiany faritra manodidina ny rano mandra-pahatapitry ny andro sy ny alina."
-    },
-    {
-      "v": 11,
-      "text": "Ny andrin' ny lanitra nihozongozona sady ankona amin' ny teny mafy ataony."
-    },
-    {
-      "v": 12,
-      "text": "Ny heriny no entiny mampisaraka ny ranomasina, ary ny fahalalany no hamelezany ny mpirehareha."
-    },
-    {
-      "v": 13,
-      "text": "\"Ny Fanahiny no mahatsara tarehy ny lanitra ; ny tanany no namorona ny menarana miolikolika.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Indro, ireny dia ny ampahany amin' ny alehany ihany; fa ampahany kely ihany no re ny aminy, fa ny amin' ny fikotroky ny heriny, iza no mahatakatra izany?\""
-    }
-  ]
+  "verses": {
+    "1": "Fa namaly Joba ka nanao hoe:",
+    "2": "Ahoana no nanampianao ny tsy manan-kery? Ary ahoana no namonjenao ny sandrin' ny tsy manan-kery?",
+    "3": "Ahoana no nanoloranao saina ny tsy manam-pahendrena? Ary ahoana no nampahafantaranao ny zavatra araka ny tokony ho izy?",
+    "4": "Iza no nandaharanao teny? ary fanahin' iza no nivoaka avy tao aminao?",
+    "5": "Ny zavatra maty no miforina avy any ambanin' ny rano, sy izay mponina ao.",
+    "6": "Miharihary eo anatrehany ny helo, ary ny fandringanana dia tsy mirakotra.",
+    "7": "Mamelatra ny avaratra ho eny ambonin' ny habakabaka Izy, ary manantona ny tany amin' ny tsy misy.",
+    "8": "Fonosiny amin' ireo rahona matevina ny rano, nefa ny fanambanin' ny rahona tsy mety triatra.",
+    "9": "Manakona ny endriky ny sezafiandrianany Izy, ka mamelatra ny rahony eo amboniny.",
+    "10": "Asiany faritra manodidina ny rano mandra-pahatapitry ny andro sy ny alina.",
+    "11": "Ny andrin' ny lanitra nihozongozona sady ankona amin' ny teny mafy ataony.",
+    "12": "Ny heriny no entiny mampisaraka ny ranomasina, ary ny fahalalany no hamelezany ny mpirehareha.",
+    "13": "Ny Fanahiny no mahatsara tarehy ny lanitra ; ny tanany no namorona ny menarana miolikolika.",
+    "14": "Indro, ireny dia ny ampahany amin' ny alehany ihany; fa ampahany kely ihany no re ny aminy, fa ny amin' ny fikotroky ny heriny, iza no mahatakatra izany?"
+  }
 }

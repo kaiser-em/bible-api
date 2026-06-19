@@ -1,77 +1,24 @@
 {
+  "book": "Salamo",
   "chapter": 132,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Hira misy hevitra ambaratonga.] JEHOVAH ô, tsarovy Davida sy ny fahoriany rehetra;\""
-    },
-    {
-      "v": 2,
-      "text": "Dia ilay nianiana tamin' i Jehovah sy nivoady tamin' ny Maherin' i Jakoba hoe:"
-    },
-    {
-      "v": 3,
-      "text": "Tsy mba hiditra ao an-daiko mihitsy na hiakatra amin' ny farafara fandriako aho,"
-    },
-    {
-      "v": 4,
-      "text": "Tsy mba avelako hatory ny masoko, na ho rendrehana ny hodi-masoko,"
-    },
-    {
-      "v": 5,
-      "text": "Mandra-pahitako fitoerana ho an' i Jehovah, dia fonenana ho an' ny Andriamanitra maherin' i Jakoba."
-    },
-    {
-      "v": 6,
-      "text": "\"Indro, nandre izany tany Efrata isika; nahita izany tao amin' ny saha anaty ala isika.\""
-    },
-    {
-      "v": 7,
-      "text": "Hiditra any amin' ny fonenany isika ka hivavaka eo amin' ny fitoeran-tongony."
-    },
-    {
-      "v": 8,
-      "text": "Mitsangàna, Jehovah ô, ho amin' ny fitsaharanao, dia Ianao sy ny fiaran' ny herinao."
-    },
-    {
-      "v": 9,
-      "text": "\"Aoka ny mpisoronao hitafy fahamarinana; ary aoka ny olonao masina hihoby.\""
-    },
-    {
-      "v": 10,
-      "text": "Aza mampiala maina ny tavan' ny voahosotrao noho ny amin' i Davida mpanomponao."
-    },
-    {
-      "v": 11,
-      "text": "\"Jehovah efa nianiana marina tamin' i Davida, ka tsy hitsoahany izany; ny ateraky ny kibonao no hapetrako eo ambonin' ny sezafiandriananao.\""
-    },
-    {
-      "v": 12,
-      "text": "Raha hotandreman' ny zanakao ny fanekeko sy ny teni-vavolombeloko izay hampianariko azy, dia hipetraka eo ambonin' ny sezafiandriananao mandrakizay doria kosa ny zanany."
-    },
-    {
-      "v": 13,
-      "text": "\"Fa efa nifidy an' i Ziona Jehovah; naniry azy ho fonenany Izy.\""
-    },
-    {
-      "v": 14,
-      "text": "Ity no fitsaharako mandrakizay, eto no honenako, fa efa niriko ity."
-    },
-    {
-      "v": 15,
-      "text": "\"Hotahiako indrindra ny vatsiny; hovokisako hanina ny mahantrany.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ny mpisorony dia hampitafiako famonjena koa; ary hihoby tokoa ny olo-masiny.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ao no hampitsimohako tandroka ho an' i Davida; efa nanamboatra jiro ho an' ny voahosotro aho.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ny fahavalony hampitafiako henatra; fa eo aminy kosa no hamirapiratra ny satroboninahiny.\""
-    }
-  ]
+  "verses": {
+    "1": "[Hira misy hevitra ambaratonga.] JEHOVAH ô, tsarovy Davida sy ny fahoriany rehetra;",
+    "2": "Dia ilay nianiana tamin' i Jehovah sy nivoady tamin' ny Maherin' i Jakoba hoe:",
+    "3": "Tsy mba hiditra ao an-daiko mihitsy na hiakatra amin' ny farafara fandriako aho,",
+    "4": "Tsy mba avelako hatory ny masoko, na ho rendrehana ny hodi-masoko,",
+    "5": "Mandra-pahitako fitoerana ho an' i Jehovah, dia fonenana ho an' ny Andriamanitra maherin' i Jakoba.",
+    "6": "Indro, nandre izany tany Efrata isika; nahita izany tao amin' ny saha anaty ala isika.",
+    "7": "Hiditra any amin' ny fonenany isika ka hivavaka eo amin' ny fitoeran-tongony.",
+    "8": "Mitsangàna, Jehovah ô, ho amin' ny fitsaharanao, dia Ianao sy ny fiaran' ny herinao.",
+    "9": "Aoka ny mpisoronao hitafy fahamarinana; ary aoka ny olonao masina hihoby.",
+    "10": "Aza mampiala maina ny tavan' ny voahosotrao noho ny amin' i Davida mpanomponao.",
+    "11": "Jehovah efa nianiana marina tamin' i Davida, ka tsy hitsoahany izany; ny ateraky ny kibonao no hapetrako eo ambonin' ny sezafiandriananao.",
+    "12": "Raha hotandreman' ny zanakao ny fanekeko sy ny teni-vavolombeloko izay hampianariko azy, dia hipetraka eo ambonin' ny sezafiandriananao mandrakizay doria kosa ny zanany.",
+    "13": "Fa efa nifidy an' i Ziona Jehovah; naniry azy ho fonenany Izy.",
+    "14": "Ity no fitsaharako mandrakizay, eto no honenako, fa efa niriko ity.",
+    "15": "Hotahiako indrindra ny vatsiny; hovokisako hanina ny mahantrany.",
+    "16": "Ny mpisorony dia hampitafiako famonjena koa; ary hihoby tokoa ny olo-masiny.",
+    "17": "Ao no hampitsimohako tandroka ho an' i Davida; efa nanamboatra jiro ho an' ny voahosotro aho.",
+    "18": "Ny fahavalony hampitafiako henatra; fa eo aminy kosa no hamirapiratra ny satroboninahiny."
+  }
 }

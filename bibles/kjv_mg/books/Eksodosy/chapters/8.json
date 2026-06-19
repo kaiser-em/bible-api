@@ -1,133 +1,38 @@
 {
+  "book": "Eksodosy",
   "chapter": 8,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia hoy Jehovah tamin' i Mosesy: Mankanesa ao amin' i Farao, ka lazao aminy hoe: Izao no lazain' i Jehovah: Avelao ny oloko handeha mba hanompoany ahy."
-    },
-    {
-      "v": 2,
-      "text": "Fa raha mandà tsy handefa azy ireo ianao, indro, Izaho hamely ny taninao rehetra amin' ny sahona:"
-    },
-    {
-      "v": 3,
-      "text": "Ary ny renirano hamoaka sahona be dia be izay hiakatra ka hankao amin' ny tranonao, sy ao amin' ny trano fandrianao, sy eny ambony farafaranao, sy ao amin' ny tranon' ny mpanomponao, sy amin' ny vahoakanao, ary amin' ireo fatanao sy amin' ireo fanaova-mofonao."
-    },
-    {
-      "v": 4,
-      "text": "Ary ny sahona hiakatra ao aminao, sy ao amin' ny vahoakanao, ary ao amin' ny mpanomponao rehetra."
-    },
-    {
-      "v": 5,
-      "text": "Ary hoy Jehovah tamin' i Mosesy: Lazao amin' i Arona hoe: Ahinjiro ny tananao sy ny tehinao ho ambonin' ny sampan-drano, ambonin' ny renirano sy ambonin' ny heniheny, ka mampiakara sahona hiakatra eny amin' ny tany Egypta."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary Arona naninjitra ny tanany tambonin' ny ranon' i Egypta; dia niakatra ny sahona, ka nandrakotra ny tany Egypta.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary nanao toy izany tamin' ny fankatovany ny ombiasy ka nampiakatra sahona ho amin' ny tany Egypta."
-    },
-    {
-      "v": 8,
-      "text": "Ary Farao niantso an' i Mosesy sy Arona, ka nanao hoe: Mangataha amin' i Jehovah, mba hampialany ny sahona amiko sy amin' ny vahoakako: dia hamela ny olona handeha aho mba hanaovany fanatitra ho an' i Jehovah."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary hoy Mosesy tamin' i Farao: Aoka hanam-boninahitra ianao noho ny amiko; rahoviana no hangatahako ho anao sy ny mpanomponao, ary ny vahoakanao, handringanana ny sahona hiala aminao sy ny tranonao, mba hijanonany ao amin' ny renirano ihany?\""
-    },
-    {
-      "v": 10,
-      "text": "Dia hoy izy: Rahampitso.Ary hoy kosa izy: Aoka àry dia ho araka ny teninao, mba hahafantaranao fa tsy misy tahaka an' i Jehovah Andriamanitray."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary ny sahona dia hiala aminao sy amin' ny tranonao, sy ny mpanomponao ary ny vahoakanao; ka hijanona ao amin' ny renirano ihany ireny.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary Mosesy sy Arona niala teo amin' i Farao; ary Mosesy nitaraina tamin' i Jehovah ny amin' ny sahona izay efa nentiny tamin' i Farao.\""
-    },
-    {
-      "v": 13,
-      "text": "Dia nataon' i Jehovah araka ny tenin' i Mosesy, ary maty ny sahona ka tsy nisy intsony teny amin' ny trano sy teny amin' ny vohitra ary tany an-tsaha."
-    },
-    {
-      "v": 14,
-      "text": "Dia nangonina hivangongo ireny, ka maimbo ny tany."
-    },
-    {
-      "v": 15,
-      "text": "Fa nony hitan' i Farao fa nisy hiainana, dia nanamafy ny fony izy, ka tsy nihaino azy ireo, araka ny efa nolazain' i Jehovah."
-    },
-    {
-      "v": 16,
-      "text": "Dia hoy Jehovah tamin' i Mosesy: Lazao amin' i Arona hoe: Ahinjiro ny tehinao, ka kapohy ny vovo-tany mba ho tonga hao eran' ny tany Egypta rehetra izany."
-    },
-    {
-      "v": 17,
-      "text": "\"Dia nataony izany ka nahinjitr' i Arona ny tanany sy ny tehiny, ary nokapohiny ny vovo-tany dia tonga hao teny amin' ny olona sy ny biby izany; tonga hao avokoa ny vovo-tany rehetra eran' ny tany Egypta rehetra.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary nanao toy izany ny ombiasy tamin' ny fankatovany mba hahatonga hao, kanjo tsy nahay izy ireo; koa nisy hao teny amin' ny olona sy teny amin' ny biby.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Dia hoy ny ombiasy tamin' i Farao: Rantsan-tanan' Andriamanitra ity; ary nohamafisina ny fon' i Farao ka tsy nihaino azy ireo izy, araka ny efa nolazain' i Jehovah.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Dia hoy Jehovah tamin' i Mosesy: Mifohaza maraina koa, ka mitsangàna eo anatrehan' i Farao; indro, hivoaka ho any amin' ny rano izy, ka lazao aminy hoe: Izao no lazain' i Jehovah: Alefaso ny oloko mba hanompoany Ahy.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Fa raha tsy handefa ny oloko ianao, indro Aho handefa andiana lalitra aminao sy amin' ny mpanomponao sy amin' ny vahoakanao ary ao amin' ny tranonao; ary ho feno andiana lalitra ny tranon' ny Egyptiana sy ny tany izay itoerany koa.\""
-    },
-    {
-      "v": 22,
-      "text": "Fa havahako amin' izany andro izany ny tany Gosena, izay itoeran' ny oloko, ka tsy mba hisy andiana lalitra any, mba hahafantaranao fa Izaho no Jehovah eo afovoan' ny tany."
-    },
-    {
-      "v": 23,
-      "text": "\"Dia hasiako fiavahana amin' ny oloko sy ny olonao; rahampitso no hisian' izany famantarana izany.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary nataon' i Jehovah izany; ka nisy andian-dalitra mahatsiravina tao amin' ny tranon' i Farao sy tao amin' ny tranon' ny mpanompony ary tao amin' ny tany Egypta rehetra; dia simba ny tany noho ny andian-dalitra.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary Farao niantso an' i Mosesy sy Arona, ka nanao hoe: Mandehana ianareo manao fanatitra ho an' Andriamanitrareo eto amin' ny tany."
-    },
-    {
-      "v": 26,
-      "text": "\"Fa hoy Mosesy: Tsy azo atao izany; satria izay fadin' ny Egyptiana no hataonay fanatitra ho an' i Jehovah Andriamanitray; koa, indro raha izay fahavetavetana amin' ny Egyptiana no hataonay fanatitra eo imasony, moa tsy hotorahany vato va izahay?\""
-    },
-    {
-      "v": 27,
-      "text": "Handeha lalan-kateloana any an' efitra izahay, ary hanao fanatitra ho an' i Jehovah Andriamanitray, araka izay handidiany anay."
-    },
-    {
-      "v": 28,
-      "text": "\"Ary hoy Farao: Handefa anareo ihany aho mba hanaovanareo fanatitra ho an' i Jehovah Andriamanitrareo any an' efitra; fa izao ihany: aza mandeha lavitra loatra : mangataha ho ahy.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Ary hoy Mosesy: Indro, hiala eto aminao aho, ka hangataka amin' i Jehovah hialan' ny andian-dalitra amin' i Farao sy ny mpanompony ary ny vahoakany rahampitso; fa aoka kosa tsy hamitaka intsony Farao amin’ny tsy hamelany ny olona handeha hanao fanatitra ho an' i Jehovah.\""
-    },
-    {
-      "v": 30,
-      "text": "Ary niala teo amin' i Farao i Mosesy ka nangataka tamin' i Jehovah."
-    },
-    {
-      "v": 31,
-      "text": "\"Ary Jehovah nanao araka ny tenin' i Mosesy ka nampiala ny andian-dalitra teo amin' i Farao, sy ny mpanompony ary ny vahoakany; tsy nisy niangana ireny na dia iray aza.\""
-    },
-    {
-      "v": 32,
-      "text": "Fa nanamafy ny fony tamin' izany indray koa Farao ka tsy namela ny olona handeha."
-    }
-  ]
+  "verses": {
+    "1": "Dia hoy Jehovah tamin' i Mosesy: Mankanesa ao amin' i Farao, ka lazao aminy hoe: Izao no lazain' i Jehovah: Avelao ny oloko handeha mba hanompoany ahy.",
+    "2": "Fa raha mandà tsy handefa azy ireo ianao, indro, Izaho hamely ny taninao rehetra amin' ny sahona:",
+    "3": "Ary ny renirano hamoaka sahona be dia be izay hiakatra ka hankao amin' ny tranonao, sy ao amin' ny trano fandrianao, sy eny ambony farafaranao, sy ao amin' ny tranon' ny mpanomponao, sy amin' ny vahoakanao, ary amin' ireo fatanao sy amin' ireo fanaova-mofonao.",
+    "4": "Ary ny sahona hiakatra ao aminao, sy ao amin' ny vahoakanao, ary ao amin' ny mpanomponao rehetra.",
+    "5": "Ary hoy Jehovah tamin' i Mosesy: Lazao amin' i Arona hoe: Ahinjiro ny tananao sy ny tehinao ho ambonin' ny sampan-drano, ambonin' ny renirano sy ambonin' ny heniheny, ka mampiakara sahona hiakatra eny amin' ny tany Egypta.",
+    "6": "Ary Arona naninjitra ny tanany tambonin' ny ranon' i Egypta; dia niakatra ny sahona, ka nandrakotra ny tany Egypta.",
+    "7": "Ary nanao toy izany tamin' ny fankatovany ny ombiasy ka nampiakatra sahona ho amin' ny tany Egypta.",
+    "8": "Ary Farao niantso an' i Mosesy sy Arona, ka nanao hoe: Mangataha amin' i Jehovah, mba hampialany ny sahona amiko sy amin' ny vahoakako: dia hamela ny olona handeha aho mba hanaovany fanatitra ho an' i Jehovah.",
+    "9": "Ary hoy Mosesy tamin' i Farao: Aoka hanam-boninahitra ianao noho ny amiko; rahoviana no hangatahako ho anao sy ny mpanomponao, ary ny vahoakanao, handringanana ny sahona hiala aminao sy ny tranonao, mba hijanonany ao amin' ny renirano ihany?",
+    "10": "Dia hoy izy: Rahampitso.Ary hoy kosa izy: Aoka àry dia ho araka ny teninao, mba hahafantaranao fa tsy misy tahaka an' i Jehovah Andriamanitray.",
+    "11": "Ary ny sahona dia hiala aminao sy amin' ny tranonao, sy ny mpanomponao ary ny vahoakanao; ka hijanona ao amin' ny renirano ihany ireny.",
+    "12": "Ary Mosesy sy Arona niala teo amin' i Farao; ary Mosesy nitaraina tamin' i Jehovah ny amin' ny sahona izay efa nentiny tamin' i Farao.",
+    "13": "Dia nataon' i Jehovah araka ny tenin' i Mosesy, ary maty ny sahona ka tsy nisy intsony teny amin' ny trano sy teny amin' ny vohitra ary tany an-tsaha.",
+    "14": "Dia nangonina hivangongo ireny, ka maimbo ny tany.",
+    "15": "Fa nony hitan' i Farao fa nisy hiainana, dia nanamafy ny fony izy, ka tsy nihaino azy ireo, araka ny efa nolazain' i Jehovah.",
+    "16": "Dia hoy Jehovah tamin' i Mosesy: Lazao amin' i Arona hoe: Ahinjiro ny tehinao, ka kapohy ny vovo-tany mba ho tonga hao eran' ny tany Egypta rehetra izany.",
+    "17": "Dia nataony izany ka nahinjitr' i Arona ny tanany sy ny tehiny, ary nokapohiny ny vovo-tany dia tonga hao teny amin' ny olona sy ny biby izany; tonga hao avokoa ny vovo-tany rehetra eran' ny tany Egypta rehetra.",
+    "18": "Ary nanao toy izany ny ombiasy tamin' ny fankatovany mba hahatonga hao, kanjo tsy nahay izy ireo; koa nisy hao teny amin' ny olona sy teny amin' ny biby.",
+    "19": "Dia hoy ny ombiasy tamin' i Farao: Rantsan-tanan' Andriamanitra ity; ary nohamafisina ny fon' i Farao ka tsy nihaino azy ireo izy, araka ny efa nolazain' i Jehovah.",
+    "20": "Dia hoy Jehovah tamin' i Mosesy: Mifohaza maraina koa, ka mitsangàna eo anatrehan' i Farao; indro, hivoaka ho any amin' ny rano izy, ka lazao aminy hoe: Izao no lazain' i Jehovah: Alefaso ny oloko mba hanompoany Ahy.",
+    "21": "Fa raha tsy handefa ny oloko ianao, indro Aho handefa andiana lalitra aminao sy amin' ny mpanomponao sy amin' ny vahoakanao ary ao amin' ny tranonao; ary ho feno andiana lalitra ny tranon' ny Egyptiana sy ny tany izay itoerany koa.",
+    "22": "Fa havahako amin' izany andro izany ny tany Gosena, izay itoeran' ny oloko, ka tsy mba hisy andiana lalitra any, mba hahafantaranao fa Izaho no Jehovah eo afovoan' ny tany.",
+    "23": "Dia hasiako fiavahana amin' ny oloko sy ny olonao; rahampitso no hisian' izany famantarana izany.",
+    "24": "Ary nataon' i Jehovah izany; ka nisy andian-dalitra mahatsiravina tao amin' ny tranon' i Farao sy tao amin' ny tranon' ny mpanompony ary tao amin' ny tany Egypta rehetra; dia simba ny tany noho ny andian-dalitra.",
+    "25": "Ary Farao niantso an' i Mosesy sy Arona, ka nanao hoe: Mandehana ianareo manao fanatitra ho an' Andriamanitrareo eto amin' ny tany.",
+    "26": "Fa hoy Mosesy: Tsy azo atao izany; satria izay fadin' ny Egyptiana no hataonay fanatitra ho an' i Jehovah Andriamanitray; koa, indro raha izay fahavetavetana amin' ny Egyptiana no hataonay fanatitra eo imasony, moa tsy hotorahany vato va izahay?",
+    "27": "Handeha lalan-kateloana any an' efitra izahay, ary hanao fanatitra ho an' i Jehovah Andriamanitray, araka izay handidiany anay.",
+    "28": "Ary hoy Farao: Handefa anareo ihany aho mba hanaovanareo fanatitra ho an' i Jehovah Andriamanitrareo any an' efitra; fa izao ihany: aza mandeha lavitra loatra : mangataha ho ahy.",
+    "29": "Ary hoy Mosesy: Indro, hiala eto aminao aho, ka hangataka amin' i Jehovah hialan' ny andian-dalitra amin' i Farao sy ny mpanompony ary ny vahoakany rahampitso; fa aoka kosa tsy hamitaka intsony Farao amin’ny tsy hamelany ny olona handeha hanao fanatitra ho an' i Jehovah.",
+    "30": "Ary niala teo amin' i Farao i Mosesy ka nangataka tamin' i Jehovah.",
+    "31": "Ary Jehovah nanao araka ny tenin' i Mosesy ka nampiala ny andian-dalitra teo amin' i Farao, sy ny mpanompony ary ny vahoakany; tsy nisy niangana ireny na dia iray aza.",
+    "32": "Fa nanamafy ny fony tamin' izany indray koa Farao ka tsy namela ny olona handeha."
+  }
 }

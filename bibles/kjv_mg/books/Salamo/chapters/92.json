@@ -1,65 +1,21 @@
 {
+  "book": "Salamo",
   "chapter": 92,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Salamo na tononkira atao amin' ny andro sabata.] Tsara ny misaotra an' i Jehovah sy mihira fiderana ho an' ny anaranao, ry Avo Indrindra ô ;\""
-    },
-    {
-      "v": 2,
-      "text": "Mba hanambara ny indrafonao nony maraina sy ny fahamarinanao isan' alina."
-    },
-    {
-      "v": 3,
-      "text": "Amin' ny valiha tory folo sy amin' ny feon' ny harpa mikarantsana tsara."
-    },
-    {
-      "v": 4,
-      "text": "\"Fa ampifalianao amin' ny nataonao aho, Jehovah ô; ny asan' ny tananao no hihobiako.\""
-    },
-    {
-      "v": 5,
-      "text": "Jehovah ô, akory ny halehiben' ny asanao! Lalina indrindra ny fisainanao."
-    },
-    {
-      "v": 6,
-      "text": "Ny ketrina tsy mahafantatra, ary ny adala tsy mba mahalala izany."
-    },
-    {
-      "v": 7,
-      "text": "Raha mitsiry tahaka ny ahitra ny ratsy fanahy, ary mamony ny mpanao ratsy rehetra, dia izany no ho fandringanana azy mandrakizay."
-    },
-    {
-      "v": 8,
-      "text": "Nefa Ianao, Jehovah ô, dia avo mandrakizay."
-    },
-    {
-      "v": 9,
-      "text": "Fa, indreo, ny fahavalonao, Jehovah ô, fa, indreo, ho ringana ny fahavalonao: hihahaka ny mpanao heloka rehetra."
-    },
-    {
-      "v": 10,
-      "text": "\"Fa hasandratrao ny tandroko ho tahaka ny an' ny ombimanga; hihosotra diloilo vaovao aho.\""
-    },
-    {
-      "v": 11,
-      "text": "Hahita izay iriko ny amin' ny fahavaloko koa ny masoko, ary ny sofiko handre izay iriko ny amin' izay mitsangana hanohitra ahy."
-    },
-    {
-      "v": 12,
-      "text": "\"Hamololona tahaka ny hazo palma ny marina; hitombo tahaka ny sedera any Libanona izy.\""
-    },
-    {
-      "v": 13,
-      "text": "Ireo izay nambolena tao an-tranon' i Jehovah dia hamololona eo an-kianjan' Andriamanitsika."
-    },
-    {
-      "v": 14,
-      "text": "\"Mbola hamoa ihany izy na dia efa antitra aza; ho dofodofotra sy hamololona izy;\""
-    },
-    {
-      "v": 15,
-      "text": "\"Mba hanambara fa mahitsy Jehovah; Vatolampiko Izy, ary tsy misy tsy fahamarinana ao aminy.\""
-    }
-  ]
+  "verses": {
+    "1": "[Salamo na tononkira atao amin' ny andro sabata.] Tsara ny misaotra an' i Jehovah sy mihira fiderana ho an' ny anaranao, ry Avo Indrindra ô ;",
+    "2": "Mba hanambara ny indrafonao nony maraina sy ny fahamarinanao isan' alina.",
+    "3": "Amin' ny valiha tory folo sy amin' ny feon' ny harpa mikarantsana tsara.",
+    "4": "Fa ampifalianao amin' ny nataonao aho, Jehovah ô; ny asan' ny tananao no hihobiako.",
+    "5": "Jehovah ô, akory ny halehiben' ny asanao! Lalina indrindra ny fisainanao.",
+    "6": "Ny ketrina tsy mahafantatra, ary ny adala tsy mba mahalala izany.",
+    "7": "Raha mitsiry tahaka ny ahitra ny ratsy fanahy, ary mamony ny mpanao ratsy rehetra, dia izany no ho fandringanana azy mandrakizay.",
+    "8": "Nefa Ianao, Jehovah ô, dia avo mandrakizay.",
+    "9": "Fa, indreo, ny fahavalonao, Jehovah ô, fa, indreo, ho ringana ny fahavalonao: hihahaka ny mpanao heloka rehetra.",
+    "10": "Fa hasandratrao ny tandroko ho tahaka ny an' ny ombimanga; hihosotra diloilo vaovao aho.",
+    "11": "Hahita izay iriko ny amin' ny fahavaloko koa ny masoko, ary ny sofiko handre izay iriko ny amin' izay mitsangana hanohitra ahy.",
+    "12": "Hamololona tahaka ny hazo palma ny marina; hitombo tahaka ny sedera any Libanona izy.",
+    "13": "Ireo izay nambolena tao an-tranon' i Jehovah dia hamololona eo an-kianjan' Andriamanitsika.",
+    "14": "Mbola hamoa ihany izy na dia efa antitra aza; ho dofodofotra sy hamololona izy;",
+    "15": "Mba hanambara fa mahitsy Jehovah; Vatolampiko Izy, ary tsy misy tsy fahamarinana ao aminy."
+  }
 }

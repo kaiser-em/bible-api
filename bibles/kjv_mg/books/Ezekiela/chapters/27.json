@@ -1,149 +1,42 @@
 {
+  "book": "Ezekiela",
   "chapter": 27,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary tonga tamiko indray ny tenin' i Jehovah nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Ianao, ry zanak' olona, manaova hira fahalahelovana ny amin' i Tyro,"
-    },
-    {
-      "v": 3,
-      "text": "\"Ka ataovy aminy hoe: He, ry ilay monina amin' ny vava-ranomasina, mpandranto firenena amin' ny nosy maro; izao no lazain' i Jehovah Andriamanitra: he, ry Tyro, ianao efa nanao hoe: Izaho dia fanaperan' ny hatsaran-tarehy.\""
-    },
-    {
-      "v": 4,
-      "text": "Ao amin' ny ranomasina ny taninao, efa tanterak' ireo mpanorina anao ny hatsaran-tarehinao."
-    },
-    {
-      "v": 5,
-      "text": "\"Hazo kypreso avy any Senira no nanaovany ny lampihazonao; sedera avy any Libanona no nalainy hatao andrin-tsambonao.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Oaka avy any Basana no nanaovany ny fivoinao; ny antokon' ny Asorita no nanao ny fipetrahan' ny mpivoinao tamin' ny ivory, izay avy any amin' ny nosy Kitima.\""
-    },
-    {
-      "v": 7,
-      "text": "Rongony madinika samy hafa soratra avy any Egypta no nataonao ho lain-tsambonao, lamba manga sy volomparasy avy amin' ny nosin' i Elisa no eloelonao."
-    },
-    {
-      "v": 8,
-      "text": "\"Ny mponina any Sidona sy Arvada no mpivoinao; ny olon-kendrinao, ry Tyro, izay tao aminao, no mpitondra sambonao.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ny zokiolon' i Gebala sy izay hendry tany no tao aminao ho mpanentsin-tsambonao; ny sambo rehetra teny amin' ny ranomasina mbamin' ny matilony dia tonga tao aminao hanakalo ny rantonao.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ny avy any Persia sy ny avy any Loda ary ny avy any Pota dia isan' ny miaramila mpiadinao; nanantona ampinga sy fiarovan-doha teny aminao ireo ka nahatsara tarehy anao.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ny lehilahin' i Arvada sy ny miaramilanao no teny ambonin' ny mandanao manodidina, ary ny Gamadima no teo amin' ny tilikambonao; ny ampingany dia nahantony teny amin' ny mandanao manodidina; ireo no nahatanteraka ny hatsaran-tarehinao.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Tarsisy no mpandranto nankany aminao noho ny haben' ny harena samy hafa rehetra; volafotsy sy vy sy vifotsy ary firaka no nentiny natakalo ny entanao.\""
-    },
-    {
-      "v": 13,
-      "text": "Javana sy Tobala ary Maseka no mpandranto nankany aminao, ka olona sy fanaka varahina no natakalony ny varotrao."
-    },
-    {
-      "v": 14,
-      "text": "Ny terak' i Togarma nitondra soavaly sy mpitaingin-tsoavaly ary mole natakalo ny entanao."
-    },
-    {
-      "v": 15,
-      "text": "\"Ny lehilahin' i Dedana no mpandranto nankany aminao; nosy maro no tonga hivarotra eo aminao ka nitondra tandroka ivory sy volombodimpona ho anao.\""
-    },
-    {
-      "v": 16,
-      "text": "Syria no mpandranto nankany aminao noho ny habetsahan' ny taozavatrao, ka emeralda sy lamba volomparasy sy tenona samy hafa soratra sy rongony madinika sy voahangy ary agaty no nentiny natakalo ny entanao."
-    },
-    {
-      "v": 17,
-      "text": "Joda sy ny tanin' ny Isiraely no mpandranto nankany aminao, ka vary tritika avy tany Minita sy Panagy sy tantely sy diloilo ary balsama no natakalony ny varotrao."
-    },
-    {
-      "v": 18,
-      "text": "Damaskosy no mpandranto nankany aminao noho ny habetsahan' ny taozavatrao, dia ny haben' ny harenao rehetra, ka nitondra divay avy any Helbona sy volon' ondry fotsy izy."
-    },
-    {
-      "v": 19,
-      "text": "\"Dana sy Javana koa dia nivezivezy nitondra vy voatefy natakalo ny entanao; kasia sy veromanitra no isan' ny varotrao.\""
-    },
-    {
-      "v": 20,
-      "text": "Dedana no mpandranto nankany aminao, nitondra lamba sarobidy fanao amin' ny kalesy."
-    },
-    {
-      "v": 21,
-      "text": "Arabia sy ireo andriandahin' i Kedara rehetra no nandranto tany aminao, ka zanak' ondry sy ondrilahy ary osilahy no nentiny natao varotra tao aminao."
-    },
-    {
-      "v": 22,
-      "text": "Ny mpandranto avy any Sheba sy Rama no mpandranto nankany aminao, ka zava-manitra tsara indrindra sy vatosoa samy hafa karazana ary volamena no nentiny natakalo ny entanao."
-    },
-    {
-      "v": 23,
-      "text": "Harana sy Kane ary Edena sy mpandranto avy any Sheba sy Asora ary Kilmada no mpandranto nankany aminao."
-    },
-    {
-      "v": 24,
-      "text": "Ireo no mpandranto nankany aminao nitondra ny karazan-javatra rehetra, dia fitafiana manga sy tenona samy hafa soratra ary vata sedera mifehy mafy misy fitafiana soa no natakalony ny varotrao."
-    },
-    {
-      "v": 25,
-      "text": "\"Ny sambon' i Tarsisy no nihira ho anao tao amin' ny varotrao; dia feno sy tonga be voninahitra ianao teo amin' ny ranomasina.\""
-    },
-    {
-      "v": 26,
-      "text": "Nentin' ny mpivoinao teny amin' ny rano be ianao, dia nahavaky anao tao amin' ny ranomasina ny rivotra avy any atsinanana."
-    },
-    {
-      "v": 27,
-      "text": "Ny harenao sy ny vidin' entanao, ny varotrao, ny matilonao sy ny mpitondra sambonao, ny mpanentsin-tsambonao sy ny mpividy ny entanao ary ny miaramilanao rehetra izay tao aminao mbamin' ny antokony rehetra tafangona tao aminao dia hilentika ao amin' ny ranomasina amin' ny andro handravana anao."
-    },
-    {
-      "v": 28,
-      "text": "Noho ny fidradradradran' ny mpitondra sambonao dia hihorohoro ny tany manodidina."
-    },
-    {
-      "v": 29,
-      "text": "\"Ary samy hidina hiala amin' ny sambony ny mpivoy rehetra sy ny matilo ary ny mpitondra sambo rehetra eny an-dranomasina ka hijanona eny an-tanety;\""
-    },
-    {
-      "v": 30,
-      "text": "\"Ary hanandratra ny feony noho ny manjo anao izy ka hidradradradra mafy sady hanopy vovoka hiraraka amin' ny lohany ary hihosinkosin-davenona;\""
-    },
-    {
-      "v": 31,
-      "text": "Ary hibory loha avokoa izy noho ny aminao sy hisikina lamba fisaonana ary hitomany anao amin' ny fangidiam-panahy izy, dia fisaonana mafy."
-    },
-    {
-      "v": 32,
-      "text": "Ary raha midradradradra izy, dia hanao hira fahalahelovana ny aminao ka hitomany anao hoe: Iza moa no tanàna tahaka an' i Tyro, dia tahaka ilay rava ao ampovoan' ny ranomasina?"
-    },
-    {
-      "v": 33,
-      "text": "\"Raha nivoaka avy amin' ny ranomasina ny varotrao, dia nahatretrika firenena maro ianao; tamin' ny haben' ny harenao sy ny varotrao dia nampanankarena ny mpanjakan' ny tany ianao.\""
-    },
-    {
-      "v": 34,
-      "text": "Amin' ny fotoana handravan' ny ranomasina anao ho any amin' ny rano lalina dia hiara-milentika aminao ny varotrao sy ny olona tafangona tao aminao."
-    },
-    {
-      "v": 35,
-      "text": "Ho talanjona anao ny mponina rehetra amin' ny nosy ary ho raiki-tahotra ny mpanjakany ka dia hivalomainty."
-    },
-    {
-      "v": 36,
-      "text": "\"Hisitrisitra anao ny mpandranto amin' ny firenena; ho tonga fampitahorana ianao ary tsy ho ao intsony mandrakizay.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary tonga tamiko indray ny tenin' i Jehovah nanao hoe:",
+    "2": "Ianao, ry zanak' olona, manaova hira fahalahelovana ny amin' i Tyro,",
+    "3": "Ka ataovy aminy hoe: He, ry ilay monina amin' ny vava-ranomasina, mpandranto firenena amin' ny nosy maro; izao no lazain' i Jehovah Andriamanitra: he, ry Tyro, ianao efa nanao hoe: Izaho dia fanaperan' ny hatsaran-tarehy.",
+    "4": "Ao amin' ny ranomasina ny taninao, efa tanterak' ireo mpanorina anao ny hatsaran-tarehinao.",
+    "5": "Hazo kypreso avy any Senira no nanaovany ny lampihazonao; sedera avy any Libanona no nalainy hatao andrin-tsambonao.",
+    "6": "Oaka avy any Basana no nanaovany ny fivoinao; ny antokon' ny Asorita no nanao ny fipetrahan' ny mpivoinao tamin' ny ivory, izay avy any amin' ny nosy Kitima.",
+    "7": "Rongony madinika samy hafa soratra avy any Egypta no nataonao ho lain-tsambonao, lamba manga sy volomparasy avy amin' ny nosin' i Elisa no eloelonao.",
+    "8": "Ny mponina any Sidona sy Arvada no mpivoinao; ny olon-kendrinao, ry Tyro, izay tao aminao, no mpitondra sambonao.",
+    "9": "Ny zokiolon' i Gebala sy izay hendry tany no tao aminao ho mpanentsin-tsambonao; ny sambo rehetra teny amin' ny ranomasina mbamin' ny matilony dia tonga tao aminao hanakalo ny rantonao.",
+    "10": "Ny avy any Persia sy ny avy any Loda ary ny avy any Pota dia isan' ny miaramila mpiadinao; nanantona ampinga sy fiarovan-doha teny aminao ireo ka nahatsara tarehy anao.",
+    "11": "Ny lehilahin' i Arvada sy ny miaramilanao no teny ambonin' ny mandanao manodidina, ary ny Gamadima no teo amin' ny tilikambonao; ny ampingany dia nahantony teny amin' ny mandanao manodidina; ireo no nahatanteraka ny hatsaran-tarehinao.",
+    "12": "Tarsisy no mpandranto nankany aminao noho ny haben' ny harena samy hafa rehetra; volafotsy sy vy sy vifotsy ary firaka no nentiny natakalo ny entanao.",
+    "13": "Javana sy Tobala ary Maseka no mpandranto nankany aminao, ka olona sy fanaka varahina no natakalony ny varotrao.",
+    "14": "Ny terak' i Togarma nitondra soavaly sy mpitaingin-tsoavaly ary mole natakalo ny entanao.",
+    "15": "Ny lehilahin' i Dedana no mpandranto nankany aminao; nosy maro no tonga hivarotra eo aminao ka nitondra tandroka ivory sy volombodimpona ho anao.",
+    "16": "Syria no mpandranto nankany aminao noho ny habetsahan' ny taozavatrao, ka emeralda sy lamba volomparasy sy tenona samy hafa soratra sy rongony madinika sy voahangy ary agaty no nentiny natakalo ny entanao.",
+    "17": "Joda sy ny tanin' ny Isiraely no mpandranto nankany aminao, ka vary tritika avy tany Minita sy Panagy sy tantely sy diloilo ary balsama no natakalony ny varotrao.",
+    "18": "Damaskosy no mpandranto nankany aminao noho ny habetsahan' ny taozavatrao, dia ny haben' ny harenao rehetra, ka nitondra divay avy any Helbona sy volon' ondry fotsy izy.",
+    "19": "Dana sy Javana koa dia nivezivezy nitondra vy voatefy natakalo ny entanao; kasia sy veromanitra no isan' ny varotrao.",
+    "20": "Dedana no mpandranto nankany aminao, nitondra lamba sarobidy fanao amin' ny kalesy.",
+    "21": "Arabia sy ireo andriandahin' i Kedara rehetra no nandranto tany aminao, ka zanak' ondry sy ondrilahy ary osilahy no nentiny natao varotra tao aminao.",
+    "22": "Ny mpandranto avy any Sheba sy Rama no mpandranto nankany aminao, ka zava-manitra tsara indrindra sy vatosoa samy hafa karazana ary volamena no nentiny natakalo ny entanao.",
+    "23": "Harana sy Kane ary Edena sy mpandranto avy any Sheba sy Asora ary Kilmada no mpandranto nankany aminao.",
+    "24": "Ireo no mpandranto nankany aminao nitondra ny karazan-javatra rehetra, dia fitafiana manga sy tenona samy hafa soratra ary vata sedera mifehy mafy misy fitafiana soa no natakalony ny varotrao.",
+    "25": "Ny sambon' i Tarsisy no nihira ho anao tao amin' ny varotrao; dia feno sy tonga be voninahitra ianao teo amin' ny ranomasina.",
+    "26": "Nentin' ny mpivoinao teny amin' ny rano be ianao, dia nahavaky anao tao amin' ny ranomasina ny rivotra avy any atsinanana.",
+    "27": "Ny harenao sy ny vidin' entanao, ny varotrao, ny matilonao sy ny mpitondra sambonao, ny mpanentsin-tsambonao sy ny mpividy ny entanao ary ny miaramilanao rehetra izay tao aminao mbamin' ny antokony rehetra tafangona tao aminao dia hilentika ao amin' ny ranomasina amin' ny andro handravana anao.",
+    "28": "Noho ny fidradradradran' ny mpitondra sambonao dia hihorohoro ny tany manodidina.",
+    "29": "Ary samy hidina hiala amin' ny sambony ny mpivoy rehetra sy ny matilo ary ny mpitondra sambo rehetra eny an-dranomasina ka hijanona eny an-tanety;",
+    "30": "Ary hanandratra ny feony noho ny manjo anao izy ka hidradradradra mafy sady hanopy vovoka hiraraka amin' ny lohany ary hihosinkosin-davenona;",
+    "31": "Ary hibory loha avokoa izy noho ny aminao sy hisikina lamba fisaonana ary hitomany anao amin' ny fangidiam-panahy izy, dia fisaonana mafy.",
+    "32": "Ary raha midradradradra izy, dia hanao hira fahalahelovana ny aminao ka hitomany anao hoe: Iza moa no tanàna tahaka an' i Tyro, dia tahaka ilay rava ao ampovoan' ny ranomasina?",
+    "33": "Raha nivoaka avy amin' ny ranomasina ny varotrao, dia nahatretrika firenena maro ianao; tamin' ny haben' ny harenao sy ny varotrao dia nampanankarena ny mpanjakan' ny tany ianao.",
+    "34": "Amin' ny fotoana handravan' ny ranomasina anao ho any amin' ny rano lalina dia hiara-milentika aminao ny varotrao sy ny olona tafangona tao aminao.",
+    "35": "Ho talanjona anao ny mponina rehetra amin' ny nosy ary ho raiki-tahotra ny mpanjakany ka dia hivalomainty.",
+    "36": "Hisitrisitra anao ny mpandranto amin' ny firenena; ho tonga fampitahorana ianao ary tsy ho ao intsony mandrakizay."
+  }
 }

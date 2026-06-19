@@ -1,165 +1,46 @@
 {
+  "book": "Eksodosy",
   "chapter": 25,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah dia niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Mitenena amin' ny Zanak' Isiraely mba hitondra fanatitra ho Ahy izy; dia avy amin' ny olona rehetra izay ampirisihin' ny fony no handraisanao ny fanatitra ho Ahy.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary izao no fanatitra horaisinao aminy: volamena sy volafotsy ary varahina,"
-    },
-    {
-      "v": 4,
-      "text": "Sy manga sy volomparasy sy jaky sy rongony fotsy madinika sy volon' osy,"
-    },
-    {
-      "v": 5,
-      "text": "Sy hoditr' ondrilahy efa nomenaina sy hodi-takasy sy hazo sitima,"
-    },
-    {
-      "v": 6,
-      "text": "Diloilo ho amin' ny fanazavana, zava-manitra ho diloilo fanosorana, sy ho ditin-kazo manitra,"
-    },
-    {
-      "v": 7,
-      "text": "Vato onyksa sy vato hatao amin' ny efoda sy amin' ny saron-tratra."
-    },
-    {
-      "v": 8,
-      "text": "Ary aoka hanao fitoerana masina ho Ahy izy ireo, mba hitoerako eo aminy."
-    },
-    {
-      "v": 9,
-      "text": "Araka izay rehetra nasehoko anao, araka ny endriky ny tabernakely sy ny endriky ny fanaka rehetra momba azy, dia araka izany no hanaovanao azy."
-    },
-    {
-      "v": 10,
-      "text": "Ary hanao fiara amin' ny hazo sitima izy: roa hakiho sy sasany ny lavany, ary iray hakiho sy sasany ny sakany, ary iray hakiho sy sasany ny haavony."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary petaho volamena madio izany; ny atiny sy ny ivelany no petaho izany ; ary asio koronosy volamena manodidina eo amboniny.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary mandrendreha vavavola volamena efatra hatao aminy, ka ataovy eo amin' ny zorony efatra; dia vavavola volamena roa eo amin' ny lafiny iray, ary vavavola volamena roa eo amin' ny lafiny iray.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary manaova bao amin' ny hazo sitima ka petaho volamena izany."
-    },
-    {
-      "v": 14,
-      "text": "Ary ampidiro ny bao ho eo amin' ireo vavavola izay eo amin' ny lafin' ny fiara mba hitondrana ny fiara."
-    },
-    {
-      "v": 15,
-      "text": "Eo amin' ireo vavavolan' ny fiara no hitoeran' ny bao, ka tsy hoesorina eo izany."
-    },
-    {
-      "v": 16,
-      "text": "Ary ataovy ao anatin' ny fiara ny Vavolombelona izay homeko anao."
-    },
-    {
-      "v": 17,
-      "text": "Ary manaova rakotra fanaovam-panavotana amin' ny volamena madio: roa hakiho sy sasany ny lavany, ary iray hakiho sy sasany ny sakany."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary manaova kerobima volamena roa; voasana no hanaovanao azy roa ho eo amin' ny lafiny roa amin' ny rakotra fanaovam-panavotana.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ny kerobima iray ataovy indray mivofy amin' ny laniny anankiray, ary ny kerobima iray kosa amin' ny laniny anankiray; indray mivofy amin' ny rakotra fanaovam-panavotana no hanaovanareo ny kerobima roa, dia amin' ny lafiny roa.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Ary aoka hivelatra eo ambony ny elatry ny kerobima, mba hanalofan' ny elany ny rakotra fanaovam-panavotana; ary ny tavany hifanatrika sady hanatrika ny rakotra fanaovam-panavotana izy.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Ary apetraho eo ambonin' ny fiara ny rakotra fanaovam-panavotana; ary ao anatin' ny fiara no asio ny Vavolombelona izay homeko anao.\""
-    },
-    {
-      "v": 22,
-      "text": "Ary ao no hihaonako aminao, ary avy eo ambonin' ny rakotra fanaovam-panavotana aho no hiresaka aminao, avy eo anelanelan' ny kerobima roa izay eo ambonin' ny fiaran' ny vavolombelona, ny amin' ny zavatra rehetra izay homeko anao handidiana ny Zanak' Isiraely."
-    },
-    {
-      "v": 23,
-      "text": "Manaova koa latabatra amin' ny hazo sitima: roa hakiho ny lavany, ary iray hakiho ny sakany, ary iray hakiho sy sasany ny haavony."
-    },
-    {
-      "v": 24,
-      "text": "Ary petaho volamena madio izany, sady asio koronosy volamena manodidina azy."
-    },
-    {
-      "v": 25,
-      "text": "Ary asio sisiny vodivoam-pela-tanana manodidina azy, ary asio koronosy volamena ny sisiny manodidina."
-    },
-    {
-      "v": 26,
-      "text": "Ary manaova vavavola volamena efatra hatao aminy, ka ataovy eo amin' ny zorony efatra izay eo amin' ny tongony efatra ireo."
-    },
-    {
-      "v": 27,
-      "text": "Eo akaikin' ny sisiny no hisy ny vavavola ho fitoeran' ny bao hitondrana ny latabatra."
-    },
-    {
-      "v": 28,
-      "text": "Ary hazo sitima no anaovy ny bao, ka petaho volamena, ary amin' ireo no hilanjana ny latabatra."
-    },
-    {
-      "v": 29,
-      "text": "\"Ary manaova ny loviany sy ny sotrony sy ny rakony sy ny kapoakany hanidinana; volamena madio no hanaovanao ireo.\""
-    },
-    {
-      "v": 30,
-      "text": "Ary asio mofo aseho eo ambonin' ny latabatra ho eo anatrehako mandrakariva."
-    },
-    {
-      "v": 31,
-      "text": "\"Ary manaova ny fanaovanjiro amin' ny volamena madio; voasana no hanaovana ny fanaovanjiro: ny faladiany, ny sampany, ny vodi-voniny, ny kiboriny ary ny voniny dia ho iray ihany.\""
-    },
-    {
-      "v": 32,
-      "text": "Ary sampany enina no hivoaka avy amin' ireo lafiny: sampany telo amin' ny fanaovanjiro avy amin' ny lafiny iray, ary sampany telo amin' ny fanaovanjiro avy amin' ny lafiny ilany."
-    },
-    {
-      "v": 33,
-      "text": "\"Vodi-voniny telo atao tahaka ny amygdala, mbamin' ny kiboriny sy ny voniny eo amin' ny sampany anankiray; ary vodi-voniny telo atao tahaka ny amygdala eo amin' ny sampany ilany miaraka amin' ny kiboriny sy ny voniny; izany no eo amin' ny sampany enina izay mivoaka avy amin' ny fanaovanjiro.\""
-    },
-    {
-      "v": 34,
-      "text": "Ary eo amin' ny fanaovanjiro dia hisy vodi-voniny efatra atao tahaka ny amygdala, mbamin' ny kiboriny sy ny voniny."
-    },
-    {
-      "v": 35,
-      "text": "Ary hisy kiboriny iray eo ambanin' ny sampany roa amin' izany, ary kiboriny iray koa eo ambanin' ny sampany roa amin' izany ary kiboriny iray eo ambanin' ny sampany roa amin' izany, araka ny sampany enina mivoaka avy amin' ny fanaovanjiro."
-    },
-    {
-      "v": 36,
-      "text": "\"Ny kiboriny sy ny sampany dia ho iray ihany; hatao indray mivofy amin' ny volamena madio izy rehetra.\""
-    },
-    {
-      "v": 37,
-      "text": "Ary manaova ny lela fanaovanjirony fito, ka ampireheto eo aminy ireo mba hanazava ny anoloany."
-    },
-    {
-      "v": 38,
-      "text": "Ary ny hetin-jirony sy ny fitoeran-davenon-jirony dia ho volamena madio."
-    },
-    {
-      "v": 39,
-      "text": "Volamena madio talenta iray no hanaovana azy mbamin' ireo fanaka rehetra ireo."
-    },
-    {
-      "v": 40,
-      "text": "Ary tandremo mba hataonao araka ny endriny izay naseho taminao tao an-tendrombohitra izany."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah dia niteny tamin' i Mosesy ka nanao hoe:",
+    "2": "Mitenena amin' ny Zanak' Isiraely mba hitondra fanatitra ho Ahy izy; dia avy amin' ny olona rehetra izay ampirisihin' ny fony no handraisanao ny fanatitra ho Ahy.",
+    "3": "Ary izao no fanatitra horaisinao aminy: volamena sy volafotsy ary varahina,",
+    "4": "Sy manga sy volomparasy sy jaky sy rongony fotsy madinika sy volon' osy,",
+    "5": "Sy hoditr' ondrilahy efa nomenaina sy hodi-takasy sy hazo sitima,",
+    "6": "Diloilo ho amin' ny fanazavana, zava-manitra ho diloilo fanosorana, sy ho ditin-kazo manitra,",
+    "7": "Vato onyksa sy vato hatao amin' ny efoda sy amin' ny saron-tratra.",
+    "8": "Ary aoka hanao fitoerana masina ho Ahy izy ireo, mba hitoerako eo aminy.",
+    "9": "Araka izay rehetra nasehoko anao, araka ny endriky ny tabernakely sy ny endriky ny fanaka rehetra momba azy, dia araka izany no hanaovanao azy.",
+    "10": "Ary hanao fiara amin' ny hazo sitima izy: roa hakiho sy sasany ny lavany, ary iray hakiho sy sasany ny sakany, ary iray hakiho sy sasany ny haavony.",
+    "11": "Ary petaho volamena madio izany; ny atiny sy ny ivelany no petaho izany ; ary asio koronosy volamena manodidina eo amboniny.",
+    "12": "Ary mandrendreha vavavola volamena efatra hatao aminy, ka ataovy eo amin' ny zorony efatra; dia vavavola volamena roa eo amin' ny lafiny iray, ary vavavola volamena roa eo amin' ny lafiny iray.",
+    "13": "Ary manaova bao amin' ny hazo sitima ka petaho volamena izany.",
+    "14": "Ary ampidiro ny bao ho eo amin' ireo vavavola izay eo amin' ny lafin' ny fiara mba hitondrana ny fiara.",
+    "15": "Eo amin' ireo vavavolan' ny fiara no hitoeran' ny bao, ka tsy hoesorina eo izany.",
+    "16": "Ary ataovy ao anatin' ny fiara ny Vavolombelona izay homeko anao.",
+    "17": "Ary manaova rakotra fanaovam-panavotana amin' ny volamena madio: roa hakiho sy sasany ny lavany, ary iray hakiho sy sasany ny sakany.",
+    "18": "Ary manaova kerobima volamena roa; voasana no hanaovanao azy roa ho eo amin' ny lafiny roa amin' ny rakotra fanaovam-panavotana.",
+    "19": "Ny kerobima iray ataovy indray mivofy amin' ny laniny anankiray, ary ny kerobima iray kosa amin' ny laniny anankiray; indray mivofy amin' ny rakotra fanaovam-panavotana no hanaovanareo ny kerobima roa, dia amin' ny lafiny roa.",
+    "20": "Ary aoka hivelatra eo ambony ny elatry ny kerobima, mba hanalofan' ny elany ny rakotra fanaovam-panavotana; ary ny tavany hifanatrika sady hanatrika ny rakotra fanaovam-panavotana izy.",
+    "21": "Ary apetraho eo ambonin' ny fiara ny rakotra fanaovam-panavotana; ary ao anatin' ny fiara no asio ny Vavolombelona izay homeko anao.",
+    "22": "Ary ao no hihaonako aminao, ary avy eo ambonin' ny rakotra fanaovam-panavotana aho no hiresaka aminao, avy eo anelanelan' ny kerobima roa izay eo ambonin' ny fiaran' ny vavolombelona, ny amin' ny zavatra rehetra izay homeko anao handidiana ny Zanak' Isiraely.",
+    "23": "Manaova koa latabatra amin' ny hazo sitima: roa hakiho ny lavany, ary iray hakiho ny sakany, ary iray hakiho sy sasany ny haavony.",
+    "24": "Ary petaho volamena madio izany, sady asio koronosy volamena manodidina azy.",
+    "25": "Ary asio sisiny vodivoam-pela-tanana manodidina azy, ary asio koronosy volamena ny sisiny manodidina.",
+    "26": "Ary manaova vavavola volamena efatra hatao aminy, ka ataovy eo amin' ny zorony efatra izay eo amin' ny tongony efatra ireo.",
+    "27": "Eo akaikin' ny sisiny no hisy ny vavavola ho fitoeran' ny bao hitondrana ny latabatra.",
+    "28": "Ary hazo sitima no anaovy ny bao, ka petaho volamena, ary amin' ireo no hilanjana ny latabatra.",
+    "29": "Ary manaova ny loviany sy ny sotrony sy ny rakony sy ny kapoakany hanidinana; volamena madio no hanaovanao ireo.",
+    "30": "Ary asio mofo aseho eo ambonin' ny latabatra ho eo anatrehako mandrakariva.",
+    "31": "Ary manaova ny fanaovanjiro amin' ny volamena madio; voasana no hanaovana ny fanaovanjiro: ny faladiany, ny sampany, ny vodi-voniny, ny kiboriny ary ny voniny dia ho iray ihany.",
+    "32": "Ary sampany enina no hivoaka avy amin' ireo lafiny: sampany telo amin' ny fanaovanjiro avy amin' ny lafiny iray, ary sampany telo amin' ny fanaovanjiro avy amin' ny lafiny ilany.",
+    "33": "Vodi-voniny telo atao tahaka ny amygdala, mbamin' ny kiboriny sy ny voniny eo amin' ny sampany anankiray; ary vodi-voniny telo atao tahaka ny amygdala eo amin' ny sampany ilany miaraka amin' ny kiboriny sy ny voniny; izany no eo amin' ny sampany enina izay mivoaka avy amin' ny fanaovanjiro.",
+    "34": "Ary eo amin' ny fanaovanjiro dia hisy vodi-voniny efatra atao tahaka ny amygdala, mbamin' ny kiboriny sy ny voniny.",
+    "35": "Ary hisy kiboriny iray eo ambanin' ny sampany roa amin' izany, ary kiboriny iray koa eo ambanin' ny sampany roa amin' izany ary kiboriny iray eo ambanin' ny sampany roa amin' izany, araka ny sampany enina mivoaka avy amin' ny fanaovanjiro.",
+    "36": "Ny kiboriny sy ny sampany dia ho iray ihany; hatao indray mivofy amin' ny volamena madio izy rehetra.",
+    "37": "Ary manaova ny lela fanaovanjirony fito, ka ampireheto eo aminy ireo mba hanazava ny anoloany.",
+    "38": "Ary ny hetin-jirony sy ny fitoeran-davenon-jirony dia ho volamena madio.",
+    "39": "Volamena madio talenta iray no hanaovana azy mbamin' ireo fanaka rehetra ireo.",
+    "40": "Ary tandremo mba hataonao araka ny endriny izay naseho taminao tao an-tendrombohitra izany."
+  }
 }

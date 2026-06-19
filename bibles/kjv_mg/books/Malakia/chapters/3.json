@@ -1,77 +1,24 @@
 {
+  "book": "Malakia",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Indro, haniraka ny irako Aho, ary izy hanamboatra lalana eo alohako; ary ny Tompo Izay tadiavinareo dia ho avy tampoka ho eo an-tempoliny; ary ny Iraky ny fanekena Izay irinareo, dia indro, tamy Izy, hoy Jehovah, Tompon' ny maro.\""
-    },
-    {
-      "v": 2,
-      "text": "Nefa iza no mahatanty ny andro hiaviany? Ary iza no hahajanona, raha miseho Izy? Fa Izy dia tahaka ny afon' ny mpandrendrika sy ny savonin' ny mpanasa lamba."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary hipetraka toy ny mpandrendrika sy mpanadio volafotsy Izy; hanadio ny taranak' i Levy izy sy handrendrika azy toy ny volamena sy volafotsy, mba hanaterany fanatitra amim-pahamarinana ho an' i Jehovah.\""
-    },
-    {
-      "v": 4,
-      "text": "Dia hankasitran' i Jehovah ny fanatitry ny Joda sy Jerosalema toy ny tamin' ny andro fahiny, sy tamin' ny taona taloha."
-    },
-    {
-      "v": 5,
-      "text": "Ary hanatona anareo ho fitsarana Aho ka ho vavolombelona faingana hanameloka ny mpanana ody sy ny mpijangajanga sy ny mpianian-tsy tò sy ny mpampahory ny mpikarama amin' ny karamany mbamin' ny mpitondratena sy ny kamboty, ary izay mamily ny vahiny amin' ny rariny izay azy, fa tsy matahotra Ahy, hoy Jehovah, Tompon' ny maro."
-    },
-    {
-      "v": 6,
-      "text": "\"Fa Izaho no Jehovah, tsy miova Aho; koa ianareo ry taranak' i Jakoba dia tsy fongana.\""
-    },
-    {
-      "v": 7,
-      "text": "Hatramin' ny andron' ny razanareo dia efa niala tamin' ny didiko ianareo ka tsy nitandrina izany. Miverena amiko, dia mba hiverina aminareo kosa Aho, hoy Jehovah, Tompon' ny maro. Nefa hoy ianareo: ahoana àry no ho fiverinay?"
-    },
-    {
-      "v": 8,
-      "text": "Handroba an' Andriamanitra va ny olona? No dia nandroba Ahy ianareo. Nefa hoy ianareo, ahoana moa no nandrobanay anao? Amin' ny ampahafolony sy ny fanatitra."
-    },
-    {
-      "v": 9,
-      "text": "Voaozona amin' ny ozona ianareo, fa efa nandroba Ahy ianareo, dia izao firenena manontolo izao."
-    },
-    {
-      "v": 10,
-      "text": "Entonareo ny ampahafolony rehetra ho ao an-trano firaketako, mba hasian-kanina ao an-tranoko, ary izahao toetra amin' izany Aho ankehitriny, hoy Jehovah, Tompon' ny maro, raha tsy hovohako ho anareo ny varavarankelin' ny lanitra, ka handrotsahako fitahiana manana amby ampy ho anareo."
-    },
-    {
-      "v": 11,
-      "text": "Ary hasiako teny mafy ny mpandany noho ny aminareo, ka tsy hanimba ny vokatry ny taninareo intsony ireny, ka dia hahavanom-boa ny voalobokareo eny an-tsaha, hoy Jehovah, Tompon' ny maro."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary ianareo hataon' ny firenena rehetra hoe sambatra; fa ho tany mahafinaritra ianareo, hoy Jehovah, Tompon' ny maro.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ny teninareo dia nahery namely Ahy, hoy Jehovah. Nefa hoy ianareo;inona tokoa no resakay namely Anao?\""
-    },
-    {
-      "v": 14,
-      "text": "\"Efa nilaza ianareo hoe: zava-poana ny manompo an' Andriamanitra; ary inona moa no soa efa azo tamin' ny nitandremantsika ny didiny, sy tamin' ny nandehanantsika tamin' ny fisaonana teo anatrehan' i Jehovah, Tompon' ny maro?\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ankehitriny dia ataontsika hoe: Sambatra ny mpirehareha; eny, voaorina tsara ny mpanao ratsy; eny, izay maka fanahy an' Andriamanitra dia afaka ihany.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Koa ireo izay natahotra an' i Jehovah dia samy nifampiresaka matetika; ary Jehovah nihaino ka nandre izany; ary ny boky fahatsiarovana dia nosoratana teo anatrehany ho an' izay matahotra an' i Jehovah sy izay mihevitra ny anarany.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ho Ahy izy ireny, hoy Jehovah, Tompon' ny maro, amin' izany andro izany izay hanamboarako ny vatosoako; ary ho antra azy Aho, toy ny olona antra ny zanany lahy izay manompo azy.\""
-    },
-    {
-      "v": 18,
-      "text": "Dia hiverina ianareo ka hamantatra ny fahasamihafan' ny marina sy ny ratsy fanahy, ny manompo an' Andriamanitra sy ny tsy manompo Azy."
-    }
-  ]
+  "verses": {
+    "1": "Indro, haniraka ny irako Aho, ary izy hanamboatra lalana eo alohako; ary ny Tompo Izay tadiavinareo dia ho avy tampoka ho eo an-tempoliny; ary ny Iraky ny fanekena Izay irinareo, dia indro, tamy Izy, hoy Jehovah, Tompon' ny maro.",
+    "2": "Nefa iza no mahatanty ny andro hiaviany? Ary iza no hahajanona, raha miseho Izy? Fa Izy dia tahaka ny afon' ny mpandrendrika sy ny savonin' ny mpanasa lamba.",
+    "3": "Ary hipetraka toy ny mpandrendrika sy mpanadio volafotsy Izy; hanadio ny taranak' i Levy izy sy handrendrika azy toy ny volamena sy volafotsy, mba hanaterany fanatitra amim-pahamarinana ho an' i Jehovah.",
+    "4": "Dia hankasitran' i Jehovah ny fanatitry ny Joda sy Jerosalema toy ny tamin' ny andro fahiny, sy tamin' ny taona taloha.",
+    "5": "Ary hanatona anareo ho fitsarana Aho ka ho vavolombelona faingana hanameloka ny mpanana ody sy ny mpijangajanga sy ny mpianian-tsy tò sy ny mpampahory ny mpikarama amin' ny karamany mbamin' ny mpitondratena sy ny kamboty, ary izay mamily ny vahiny amin' ny rariny izay azy, fa tsy matahotra Ahy, hoy Jehovah, Tompon' ny maro.",
+    "6": "Fa Izaho no Jehovah, tsy miova Aho; koa ianareo ry taranak' i Jakoba dia tsy fongana.",
+    "7": "Hatramin' ny andron' ny razanareo dia efa niala tamin' ny didiko ianareo ka tsy nitandrina izany. Miverena amiko, dia mba hiverina aminareo kosa Aho, hoy Jehovah, Tompon' ny maro. Nefa hoy ianareo: ahoana àry no ho fiverinay?",
+    "8": "Handroba an' Andriamanitra va ny olona? No dia nandroba Ahy ianareo. Nefa hoy ianareo, ahoana moa no nandrobanay anao? Amin' ny ampahafolony sy ny fanatitra.",
+    "9": "Voaozona amin' ny ozona ianareo, fa efa nandroba Ahy ianareo, dia izao firenena manontolo izao.",
+    "10": "Entonareo ny ampahafolony rehetra ho ao an-trano firaketako, mba hasian-kanina ao an-tranoko, ary izahao toetra amin' izany Aho ankehitriny, hoy Jehovah, Tompon' ny maro, raha tsy hovohako ho anareo ny varavarankelin' ny lanitra, ka handrotsahako fitahiana manana amby ampy ho anareo.",
+    "11": "Ary hasiako teny mafy ny mpandany noho ny aminareo, ka tsy hanimba ny vokatry ny taninareo intsony ireny, ka dia hahavanom-boa ny voalobokareo eny an-tsaha, hoy Jehovah, Tompon' ny maro.",
+    "12": "Ary ianareo hataon' ny firenena rehetra hoe sambatra; fa ho tany mahafinaritra ianareo, hoy Jehovah, Tompon' ny maro.",
+    "13": "Ny teninareo dia nahery namely Ahy, hoy Jehovah. Nefa hoy ianareo;inona tokoa no resakay namely Anao?",
+    "14": "Efa nilaza ianareo hoe: zava-poana ny manompo an' Andriamanitra; ary inona moa no soa efa azo tamin' ny nitandremantsika ny didiny, sy tamin' ny nandehanantsika tamin' ny fisaonana teo anatrehan' i Jehovah, Tompon' ny maro?",
+    "15": "Ary ankehitriny dia ataontsika hoe: Sambatra ny mpirehareha; eny, voaorina tsara ny mpanao ratsy; eny, izay maka fanahy an' Andriamanitra dia afaka ihany.",
+    "16": "Koa ireo izay natahotra an' i Jehovah dia samy nifampiresaka matetika; ary Jehovah nihaino ka nandre izany; ary ny boky fahatsiarovana dia nosoratana teo anatrehany ho an' izay matahotra an' i Jehovah sy izay mihevitra ny anarany.",
+    "17": "Ary ho Ahy izy ireny, hoy Jehovah, Tompon' ny maro, amin' izany andro izany izay hanamboarako ny vatosoako; ary ho antra azy Aho, toy ny olona antra ny zanany lahy izay manompo azy.",
+    "18": "Dia hiverina ianareo ka hamantatra ny fahasamihafan' ny marina sy ny ratsy fanahy, ny manompo an' Andriamanitra sy ny tsy manompo Azy."
+  }
 }

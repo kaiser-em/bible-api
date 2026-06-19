@@ -1,109 +1,32 @@
 {
+  "book": "Isaia",
   "chapter": 49,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Mihainoa Ahy, ry nosy, ary atongilano ny sofinareo, ry firenena lavitra; Jehovah efa niantso Ahy hatrany am-bohoka; hatry ny fony aho tao an-kibon' ineny no efa nanononany ny anarako.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary nataony tahaka ny sabatra maranitra ny vavako; tao amin' ny aloky ny tanany no nanafenany Ahy, ary nataony zana-tsipìka voalambolambo tsara Aho; teo amin' ny tranon-jana-tsipìkany no nanafenany Ahy.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary hoy Izy tamiko: Mpanompoko Ianao, ry Isiraely ô, izay hanomezam-boninahitra Ahy."
-    },
-    {
-      "v": 4,
-      "text": "\"Fa hoy kosa Aho: Foana ny nisasarako, zava-poana sy tsinontsinona ny nandaniako ny heriko; kanefa ao amin' i Jehovah ny rariny tokony ho Ahy, ary ny valin' ny asako dia ao amin' Andriamanitro.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary ankehitriny, hoy Jehovah, Izay namorona Ahy hatrany am-bohoka ho mpanompony, mba hampody an' i Jakoba ho ao aminy indray; na dia tsy voangona aza Isiraely, dia hahazo voninahitra eo imason' i Jehovah Aho, ary Andriamanitro no ho heriko.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary hoy Izy: Mbola zavatra kely foana, raha tonga Mpanompoko hanandratra ny firenen' Jakoba Ianao sy hampody ny Isiraely sisa voaro; fa homeko ho fanazavana ny jentilisa koa Ianao, mba ho famonjeko hatrany amin' ny faran' ny tany.\""
-    },
-    {
-      "v": 7,
-      "text": "Izao no lazain' i Jehovah, Mpanavotra ny Isiraely, dia ny Iray Masina, amin' Ilay hamavoin' ny olona sy halan' ny firenena ka tonga mpanompon' ny mpanapaka: Ny mpanjaka hahita ka hitsangana, ary ny mpanapaka koa, ka dia hiankohoka noho ny amin' i Jehovah, Izay mahatoky, dia ny Iray Masin' ny Isiraely, Izay hifidy Anao."
-    },
-    {
-      "v": 8,
-      "text": "\"Izao no lazain' i Jehovah: Tamin' ny fotoana fankasitrahana no nihainoako Anao, ary tamin' ny andro famonjena no namonjeko anao; dia hiaro Anao Aho ka hanome Anao ho fanekena ho an' ny olona, mba hanangana ny tany sy hampadova ny lova izay efa rava;\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ka hanao amin' ny mpifatotra ianao hoe: Mivoaha, ary amin' izay ao amin' ny maizina hoe: Misehoa; hihinana eny an-dalana izy, ary ho any amin' ny fitoerana avo rehetra ny ahitra ho azy.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Tsy ho noana na hangetaheta izy, ary tsy hamely azy ny hainandro migaingaina, na ny masoandro; fa Izay mamindra fo aminy no hitarika azy, ary any amin' ny loharano miboiboika no hitondrany azy.\""
-    },
-    {
-      "v": 11,
-      "text": "Hataoko lalana ny tendrombohitro rehetra, ary hasandratra ny lalambeko."
-    },
-    {
-      "v": 12,
-      "text": "\"Indreo, tonga avy lavitra ireto; ary,indreo,avy any avaratra sy andrefana ireto, ary avy any amin' ny tany Sinima ireto.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Mihirà, ry lanitra; ary mifalia, ry tany! ka velomy ny hoby, ry tendrombohitra; fa Jehovah efa nampionona ny olony sy hamindra fo amin' ny olony ory.\""
-    },
-    {
-      "v": 14,
-      "text": "Fa hoy Ziona: Jehovah efa nahafoy ahy,ary ny Tompo efa nanadino ahy."
-    },
-    {
-      "v": 15,
-      "text": "Mety manadino ny zanany minono va ny vehivavy, ka tsy hamindra fo amin' ny zanaka naloaky ny kibony? Eny, mety manadino izy, fa Izaho kosa tsy mba hanadino anao."
-    },
-    {
-      "v": 16,
-      "text": "Indro, efa vitako tombokavatsa eo am-pelatanako ianao, ary ny mandanao dia eo anatrehako mandrakariva."
-    },
-    {
-      "v": 17,
-      "text": "\"Ho avy faingana ny zanakao; ary izay nanimba sy nandrava anao dia hiala aminao.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Atopazy manodidina ny masonao, ka mijere: Ireo rehetra ireo dia mivory ka mankeo aminao; raha velona koa aho, hoy Jehovah, ireo rehetra ireo dia hihaingoanao tokoa tahaka ny firavaka sy hiravahanao tahaka ny fanaon' ny ampakarina.\""
-    },
-    {
-      "v": 19,
-      "text": "Fa ny taninao rava sy ny fonenanao lao ary ny taninao simba, dia tsy ho omby amin' izany noho ny habetsahan' ny mponina, ary ho lasa lavitra ireo nihinana anao."
-    },
-    {
-      "v": 20,
-      "text": "Ny zanaka izay ho azonao, taorian' ny namoizanao ireo hafa, dia hiteny indray eo an-tsofinao hoe: Kely loatra ho ahy ity toerana ity, mikisaha kely mba hitoerako."
-    },
-    {
-      "v": 21,
-      "text": "Dia hanao anakampo ianao hoe: Iza no niteraka ireto ho ahy? Fa efa maty ny zanako, ary nitsaha-jaza aho. Babo aho sady noroahina, koa iza no namelona ireto? Indro, nilaozana ho irery aho, fa taiza kosa moa ireto?"
-    },
-    {
-      "v": 22,
-      "text": "\"Izao no lazain' i Jehovah Tompo: Indro, hanandratra ny tanako amin' ny jentilisa aho, ary hanangana ny fanevako amin' ny firenena; dia hitrotro ny zanakao eo an-tratrany ireo, ary ny zanakao vavy hoentiny eny an-tsorony.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Mpanjaka no ho rainao mpitaiza anao, ary zanakavavin' andriana no ho reninao mpampinono anao; hiankohoka amin' ny tany eo anatrehanao izy ka hilelaka ny vovoka amin' ny tongotrao; dia ho fantatrao fa Izaho no Jehovah, ka tsy ho menatra izay miandry Ahy.\""
-    },
-    {
-      "v": 24,
-      "text": "Azo alaina eny amin' ny mahery va ny sambotra? Na ho afaka va ny babo marina?"
-    },
-    {
-      "v": 25,
-      "text": "\"Nefa izao no lazain' i Jehovah: Na dia ny sambotry ny mahery aza dia halaina ihany, ary ho afaka ny babon' ny mpandroba; fa Izaho no hiady amin' izay miady aminao, ary Izaho no hamonjy ny zanakao.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Sady hampihinaniko ny nofon' ny tenany ihany izay mampahory anao, ary ho leon' ny ràn' ny tenany ihany ireny, toy ny amin' ny divay mamy; dia ho fantatry ny nofo rehetra fa Izaho Jehovah no Mpamonjy anao, ary Ilay Maherin' i Jakoba no Mpanavotra anao.\""
-    }
-  ]
+  "verses": {
+    "1": "Mihainoa Ahy, ry nosy, ary atongilano ny sofinareo, ry firenena lavitra; Jehovah efa niantso Ahy hatrany am-bohoka; hatry ny fony aho tao an-kibon' ineny no efa nanononany ny anarako.",
+    "2": "Ary nataony tahaka ny sabatra maranitra ny vavako; tao amin' ny aloky ny tanany no nanafenany Ahy, ary nataony zana-tsipìka voalambolambo tsara Aho; teo amin' ny tranon-jana-tsipìkany no nanafenany Ahy.",
+    "3": "Ary hoy Izy tamiko: Mpanompoko Ianao, ry Isiraely ô, izay hanomezam-boninahitra Ahy.",
+    "4": "Fa hoy kosa Aho: Foana ny nisasarako, zava-poana sy tsinontsinona ny nandaniako ny heriko; kanefa ao amin' i Jehovah ny rariny tokony ho Ahy, ary ny valin' ny asako dia ao amin' Andriamanitro.",
+    "5": "Ary ankehitriny, hoy Jehovah, Izay namorona Ahy hatrany am-bohoka ho mpanompony, mba hampody an' i Jakoba ho ao aminy indray; na dia tsy voangona aza Isiraely, dia hahazo voninahitra eo imason' i Jehovah Aho, ary Andriamanitro no ho heriko.",
+    "6": "Ary hoy Izy: Mbola zavatra kely foana, raha tonga Mpanompoko hanandratra ny firenen' Jakoba Ianao sy hampody ny Isiraely sisa voaro; fa homeko ho fanazavana ny jentilisa koa Ianao, mba ho famonjeko hatrany amin' ny faran' ny tany.",
+    "7": "Izao no lazain' i Jehovah, Mpanavotra ny Isiraely, dia ny Iray Masina, amin' Ilay hamavoin' ny olona sy halan' ny firenena ka tonga mpanompon' ny mpanapaka: Ny mpanjaka hahita ka hitsangana, ary ny mpanapaka koa, ka dia hiankohoka noho ny amin' i Jehovah, Izay mahatoky, dia ny Iray Masin' ny Isiraely, Izay hifidy Anao.",
+    "8": "Izao no lazain' i Jehovah: Tamin' ny fotoana fankasitrahana no nihainoako Anao, ary tamin' ny andro famonjena no namonjeko anao; dia hiaro Anao Aho ka hanome Anao ho fanekena ho an' ny olona, mba hanangana ny tany sy hampadova ny lova izay efa rava;",
+    "9": "Ka hanao amin' ny mpifatotra ianao hoe: Mivoaha, ary amin' izay ao amin' ny maizina hoe: Misehoa; hihinana eny an-dalana izy, ary ho any amin' ny fitoerana avo rehetra ny ahitra ho azy.",
+    "10": "Tsy ho noana na hangetaheta izy, ary tsy hamely azy ny hainandro migaingaina, na ny masoandro; fa Izay mamindra fo aminy no hitarika azy, ary any amin' ny loharano miboiboika no hitondrany azy.",
+    "11": "Hataoko lalana ny tendrombohitro rehetra, ary hasandratra ny lalambeko.",
+    "12": "Indreo, tonga avy lavitra ireto; ary,indreo,avy any avaratra sy andrefana ireto, ary avy any amin' ny tany Sinima ireto.",
+    "13": "Mihirà, ry lanitra; ary mifalia, ry tany! ka velomy ny hoby, ry tendrombohitra; fa Jehovah efa nampionona ny olony sy hamindra fo amin' ny olony ory.",
+    "14": "Fa hoy Ziona: Jehovah efa nahafoy ahy,ary ny Tompo efa nanadino ahy.",
+    "15": "Mety manadino ny zanany minono va ny vehivavy, ka tsy hamindra fo amin' ny zanaka naloaky ny kibony? Eny, mety manadino izy, fa Izaho kosa tsy mba hanadino anao.",
+    "16": "Indro, efa vitako tombokavatsa eo am-pelatanako ianao, ary ny mandanao dia eo anatrehako mandrakariva.",
+    "17": "Ho avy faingana ny zanakao; ary izay nanimba sy nandrava anao dia hiala aminao.",
+    "18": "Atopazy manodidina ny masonao, ka mijere: Ireo rehetra ireo dia mivory ka mankeo aminao; raha velona koa aho, hoy Jehovah, ireo rehetra ireo dia hihaingoanao tokoa tahaka ny firavaka sy hiravahanao tahaka ny fanaon' ny ampakarina.",
+    "19": "Fa ny taninao rava sy ny fonenanao lao ary ny taninao simba, dia tsy ho omby amin' izany noho ny habetsahan' ny mponina, ary ho lasa lavitra ireo nihinana anao.",
+    "20": "Ny zanaka izay ho azonao, taorian' ny namoizanao ireo hafa, dia hiteny indray eo an-tsofinao hoe: Kely loatra ho ahy ity toerana ity, mikisaha kely mba hitoerako.",
+    "21": "Dia hanao anakampo ianao hoe: Iza no niteraka ireto ho ahy? Fa efa maty ny zanako, ary nitsaha-jaza aho. Babo aho sady noroahina, koa iza no namelona ireto? Indro, nilaozana ho irery aho, fa taiza kosa moa ireto?",
+    "22": "Izao no lazain' i Jehovah Tompo: Indro, hanandratra ny tanako amin' ny jentilisa aho, ary hanangana ny fanevako amin' ny firenena; dia hitrotro ny zanakao eo an-tratrany ireo, ary ny zanakao vavy hoentiny eny an-tsorony.",
+    "23": "Mpanjaka no ho rainao mpitaiza anao, ary zanakavavin' andriana no ho reninao mpampinono anao; hiankohoka amin' ny tany eo anatrehanao izy ka hilelaka ny vovoka amin' ny tongotrao; dia ho fantatrao fa Izaho no Jehovah, ka tsy ho menatra izay miandry Ahy.",
+    "24": "Azo alaina eny amin' ny mahery va ny sambotra? Na ho afaka va ny babo marina?",
+    "25": "Nefa izao no lazain' i Jehovah: Na dia ny sambotry ny mahery aza dia halaina ihany, ary ho afaka ny babon' ny mpandroba; fa Izaho no hiady amin' izay miady aminao, ary Izaho no hamonjy ny zanakao.",
+    "26": "Sady hampihinaniko ny nofon' ny tenany ihany izay mampahory anao, ary ho leon' ny ràn' ny tenany ihany ireny, toy ny amin' ny divay mamy; dia ho fantatry ny nofo rehetra fa Izaho Jehovah no Mpamonjy anao, ary Ilay Maherin' i Jakoba no Mpanavotra anao."
+  }
 }

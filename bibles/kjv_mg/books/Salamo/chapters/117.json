@@ -1,13 +1,8 @@
 {
+  "book": "Salamo",
   "chapter": 117,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Derao ny Tompo, ry firenena rehetra; Miderà Azy, ry olona rehetra.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Fa lehibe ny fahatsaran' ny famindrampony amintsika; ary maharitra mandrakizay ny fahamarinan' i Jehovah. Miderà an' i Jehovah.\""
-    }
-  ]
+  "verses": {
+    "1": "Derao ny Tompo, ry firenena rehetra; Miderà Azy, ry olona rehetra.",
+    "2": "Fa lehibe ny fahatsaran' ny famindrampony amintsika; ary maharitra mandrakizay ny fahamarinan' i Jehovah. Miderà an' i Jehovah."
+  }
 }

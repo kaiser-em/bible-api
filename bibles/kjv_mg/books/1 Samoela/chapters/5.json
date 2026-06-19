@@ -1,53 +1,18 @@
 {
+  "book": "1 Samoela",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia nalain' ny Filistina ny fiaran' Andriamanitra ka nentiny niala tany Ebenezera ho any Asdoda."
-    },
-    {
-      "v": 2,
-      "text": "Ary nony efa azon' ny Filistina ny fiaran' Andriamanitra, dia nentiny tao an-tranon' i Dagona izy ka napetrany teo anilany."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary nony ampitson' iny dia nifoha maraina koa ny Asdodita, ka indro Dagona potraka niankohoka tamin' ny tany teo anoloan' ny fiaran' i Jehovah; dia narenin' ny olona izy ka napetrany teo amin' ny fitoerany indray.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary nony ampitson' iny indray dia nifoha maraina koa ny olona, ka indro Dagona potraka niankohoka indray tamin' ny tany teo anoloan' ny fiaran' i Jehovah, ary tapaka teo amin' ny tokonam-baravarana ny lohan' i Dagona sy ny felan-tanany roa; fa ny tenabeny ihany no sisa.\""
-    },
-    {
-      "v": 5,
-      "text": "Izany no tsy anitsahan' ny mpisoron' i Dagona, na izay miditra ao an-tranony ny tokonam-baravaran' i Dagona ao Asdoda mandraka androany."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary navesatra tamin' ny Asdodita ny tanan' i Jehovah, fa nandringana azy izy; ary nasiany vay ny tao Asdoda sy ny tamin' ny faritaniny rehetra.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary rehefa hitan' ny mponina tao Asdoda fa izany no zava-nisy, dia hoy izy: Aza avela hitoetra eto amintsika ny fiaran' ny Andriamanitry ny Isiraely; fa mavesatra amintsika sy amin' i Dagona andriamani-tsika ny tanany.\""
-    },
-    {
-      "v": 8,
-      "text": "Dia naniraka olona izy ka nanangona ireo andriana rehetra tamin' ny Filistina hankeo aminy ka nanao hoe: Hataontsika ahoana ny fiaran' ny Andriamanitry ny Isiraely. Dia hoy ireo: Aoka hafindra hankany Gata ny fiaran' ny Andriamanitry ny isiraely. Dia nafindrany tany ny fiaran' ny Andriamanitry ny Isiraely."
-    },
-    {
-      "v": 9,
-      "text": "Ary rehefa voafindrany ny fiara, dia namely ny tanàna tamin' ny fandravana lehibe ny tanan' i Jehovah, ary Izy namely ny mponina tao an-tanàna, na kely na lehibe, ka nisy vay tany amin' ny ankasarotany."
-    },
-    {
-      "v": 10,
-      "text": "Ary dia naterin' ny olona nankany Ekrona ny fiaran' Andriamanitra. Ary izao no niseho, raha vao tonga tany Ekrona ny fiaran' Andriamanitra, dia nitaraina ny Ekronita nanao hoe: efa nafindran' ny olona ho aty amintsika ny fiaran' ny Andriamanitry ny Isiraely hahafaty antsika sy ny firenentsika."
-    },
-    {
-      "v": 11,
-      "text": "\"Koa dia naniraka olona nanangona ireo andriana rehetra tamin' ny Filistina izy ka nanao hoe: Alefaso ny fiaran' ny Andriamanitry ny Isiraely, ary aoka hoentina any amin' ny fitoerany indray izy mba tsy hahafaty antsika sy ny firenen-tsika; fa nanerana ny tanàna rehetra ny fandringanan' ny fahafatesana ka navesatra indrindra tao ny tanan' Andriamanitra.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary ny olona izay tsy maty dia voan' ny vay kosa, ka ny fitarainan' ny tanàna dia niakatra ho any an-danitra."
-    }
-  ]
+  "verses": {
+    "1": "Dia nalain' ny Filistina ny fiaran' Andriamanitra ka nentiny niala tany Ebenezera ho any Asdoda.",
+    "2": "Ary nony efa azon' ny Filistina ny fiaran' Andriamanitra, dia nentiny tao an-tranon' i Dagona izy ka napetrany teo anilany.",
+    "3": "Ary nony ampitson' iny dia nifoha maraina koa ny Asdodita, ka indro Dagona potraka niankohoka tamin' ny tany teo anoloan' ny fiaran' i Jehovah; dia narenin' ny olona izy ka napetrany teo amin' ny fitoerany indray.",
+    "4": "Ary nony ampitson' iny indray dia nifoha maraina koa ny olona, ka indro Dagona potraka niankohoka indray tamin' ny tany teo anoloan' ny fiaran' i Jehovah, ary tapaka teo amin' ny tokonam-baravarana ny lohan' i Dagona sy ny felan-tanany roa; fa ny tenabeny ihany no sisa.",
+    "5": "Izany no tsy anitsahan' ny mpisoron' i Dagona, na izay miditra ao an-tranony ny tokonam-baravaran' i Dagona ao Asdoda mandraka androany.",
+    "6": "Ary navesatra tamin' ny Asdodita ny tanan' i Jehovah, fa nandringana azy izy; ary nasiany vay ny tao Asdoda sy ny tamin' ny faritaniny rehetra.",
+    "7": "Ary rehefa hitan' ny mponina tao Asdoda fa izany no zava-nisy, dia hoy izy: Aza avela hitoetra eto amintsika ny fiaran' ny Andriamanitry ny Isiraely; fa mavesatra amintsika sy amin' i Dagona andriamani-tsika ny tanany.",
+    "8": "Dia naniraka olona izy ka nanangona ireo andriana rehetra tamin' ny Filistina hankeo aminy ka nanao hoe: Hataontsika ahoana ny fiaran' ny Andriamanitry ny Isiraely. Dia hoy ireo: Aoka hafindra hankany Gata ny fiaran' ny Andriamanitry ny isiraely. Dia nafindrany tany ny fiaran' ny Andriamanitry ny Isiraely.",
+    "9": "Ary rehefa voafindrany ny fiara, dia namely ny tanàna tamin' ny fandravana lehibe ny tanan' i Jehovah, ary Izy namely ny mponina tao an-tanàna, na kely na lehibe, ka nisy vay tany amin' ny ankasarotany.",
+    "10": "Ary dia naterin' ny olona nankany Ekrona ny fiaran' Andriamanitra. Ary izao no niseho, raha vao tonga tany Ekrona ny fiaran' Andriamanitra, dia nitaraina ny Ekronita nanao hoe: efa nafindran' ny olona ho aty amintsika ny fiaran' ny Andriamanitry ny Isiraely hahafaty antsika sy ny firenentsika.",
+    "11": "Koa dia naniraka olona nanangona ireo andriana rehetra tamin' ny Filistina izy ka nanao hoe: Alefaso ny fiaran' ny Andriamanitry ny Isiraely, ary aoka hoentina any amin' ny fitoerany indray izy mba tsy hahafaty antsika sy ny firenen-tsika; fa nanerana ny tanàna rehetra ny fandringanan' ny fahafatesana ka navesatra indrindra tao ny tanan' Andriamanitra.",
+    "12": "Ary ny olona izay tsy maty dia voan' ny vay kosa, ka ny fitarainan' ny tanàna dia niakatra ho any an-danitra."
+  }
 }

@@ -1,145 +1,41 @@
 {
+  "book": "Ezekiela",
   "chapter": 48,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary izao no anaran' ny foko: hatramin' ny farany avaratra ka hatrany amoron-dranomasina amin' ny lalana mankany Hetlona any akaikin' i Hamata sy Hazar-enana, fari-tanin' i Damaskosy eo avaratra, hatrany anilan' i Hamata; izany no ho lafiny atsinanana sy andrefana; anjara iray ho an' i  Dana.\""
-    },
-    {
-      "v": 2,
-      "text": "Ary mifanolotra amin' ny fari-tanin' i Dana, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Asera."
-    },
-    {
-      "v": 3,
-      "text": "Ary mifanolotra amin' ny fari-tanin' i Asera, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Naftaly."
-    },
-    {
-      "v": 4,
-      "text": "Ary mifanolotra amin' ny fari-tanin' i Naftaly, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i  Manase."
-    },
-    {
-      "v": 5,
-      "text": "Ary mifanolotra amin' ny fari-tanin' i Manase, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Efraima."
-    },
-    {
-      "v": 6,
-      "text": "Ary mifanolotra amin' ny fari-tanin' i Efraima, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Robena."
-    },
-    {
-      "v": 7,
-      "text": "Ary mifanolotra amin' ny fari-tanin' i Robena hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Joda."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary mifanolotra amin' ny fari-tanin' i Joda, hatrany atsinanana ka hatrany andrefana, no hisian' ilay tany hatokanareo, indimy arivo amby roa alin' ny volotara ny sakany, ary ny lavany mitovy amin' ny anjaran' ny sasany hatrany atsinanana ka hatrany andrefana; ary ny fitoerana masina no ho eo afovoany.\""
-    },
-    {
-      "v": 9,
-      "text": "Ny tany izay hatokanareo ho an' i Jehovah, dia ho dimy arivo amby roa alina ny lavany ary iray alina ny sakany."
-    },
-    {
-      "v": 10,
-      "text": "Ary ho an' ny mpisorona izany tany masina voatokana izany, dimy arivo amby roa alina ny lavany avaratra ary iray alina ny sakany andrefana, ary iray alina ny sakany atsinanana ary dimy arivo amby roa alina ny lavany atsimo, ary ny fitoerana masin' i Jehovah no ho eo afovoany."
-    },
-    {
-      "v": 11,
-      "text": "Ho an' ny mpisorona izay nohamasinina avy amin' ny taranak' i Zadoka izany, dia ireo nitandrina ny nasaiko notandremana ka tsy nivily tamin' ny nivilian' ny Zanak' Isiraely, tahaka ny nivilian' ny Levita,"
-    },
-    {
-      "v": 12,
-      "text": "Ary izany tany halaina amin' ilay efa voatokana izany dia ho zavatra masina indrindra aminy, mifanolotra amin' ny fari-tanin' ny Levita."
-    },
-    {
-      "v": 13,
-      "text": "Ary ny Levita koa dia hahazo ny mifanolotra amin' ny fari-tanin' ny mpisorona, dia dimy arivo amby roa alina ny lavany ary iray alina ny sakany, eny, samy dimy arivo amby roa alina ny lavany sy iray alina ny sakany."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary tsy ho azony hamidy izany, na hatakalo ary tsy hafindrany ny voaloham-bokatra amin' ny tany; fa masina ho an' i Jehovah izany.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ny dimy arivo, ilay navela tamin' ny sakany mifanolotra amin' ny dimy arivo amby roa alina, dia tsy masina, fa ho an' ny tanàna, ho fonenana sy ho tany fiandrasana; ary ny tanàna no ho ao afovoany.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary izao no ho refiny: ny avaratra ho dimanjato amby efatra arivo, ary ny atsimo ho dimanjato amby efatra arivo, ary ny atsinanana ho dimanjato amby efatra arivo ary ny andrefana ho dimanjato amby efatra arivo."
-    },
-    {
-      "v": 17,
-      "text": "Ary ny amin' ny zana-bohitry ny tanàna, eo amin' ny avaratra dia ho dimampolo amby roanjato ary eo amin' ny atsimo dia ho dimampolo amby roanjato ary ny eo amin' ny atsinanana dia ho dimampolo amby roanjato ary ny eo amin' ny andrefana dia ho dimampolo amby roanjato."
-    },
-    {
-      "v": 18,
-      "text": "\"Ary ny lavany sisa mifanolotra amin' ny anjara masina voatokana dia ho iray alina miantsinanana ary iray alina miankandrefana ary hifanolotra amin' ny anjara masina voatokana izany; ary ny vokatra avy aminy hohanin' ny mpiasa ao an-tanàna.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary izay mpiasa ao an-tanàna no hiasa azy avy amin' ireo fokon' ny Isiraely rehetra."
-    },
-    {
-      "v": 20,
-      "text": "\"Ny tany voatokana rehetra dia ho dimy arivo amby roa alina sokera; ny ampahefatry ny anjara masina voatokana dia halainareo ho zara-tany momba ny tanàna.\""
-    },
-    {
-      "v": 21,
-      "text": "Ary ho an' ny mpanapaka ny sisa an-daniny roa amin' ny anjara masina voatokana sy ny zara-tany momba ny tanàna, mifanolotra amin' ny dimy arivo amby roa alina amin' ny anjara voatokana hatramin' ny fari-tany atsinanana, ary mifanolotra amin' ny dimy arivo amby roa alina hatramin' ny fari-tany andrefana, mifanolotra amin' ireo anjara ho an' ny mpanapaka izany, ary ho anjara masina voatokana izany ary ny trano fitoerana masina no ho eo afovoany."
-    },
-    {
-      "v": 22,
-      "text": "Ary hatramin' ny zara-tanin' ny Levita sy ny zara-tany momba ny tanàna, izay ao ampovoan' ny an' ny mpanapaka, anelanelan' ny fari-tanin' i Joda sy Benjamina, dia ho an' ny mpanapaka izany."
-    },
-    {
-      "v": 23,
-      "text": "Ary ny amin' ny foko sisa dia hatramin' ny lafiny atsinanana ka hatramin' ny andrefana dia hisy anjara iray ho an' i Benjamina."
-    },
-    {
-      "v": 24,
-      "text": "Ary mifanolotra amin' ny fari-tanin' i Benjamina, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Simeona."
-    },
-    {
-      "v": 25,
-      "text": "Ary mifanolotra amin' ny fari-tanin' i Simeona, hatrany atsinanana ka hatrany andrefana, dia iray ho an' Isakara."
-    },
-    {
-      "v": 26,
-      "text": "Ary mifanolotra amin' ny fari-tanin' Isakara hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Zebolona."
-    },
-    {
-      "v": 27,
-      "text": "Ny mifanolotra amin' ny fari-tanin' i Zebolona, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Gada."
-    },
-    {
-      "v": 28,
-      "text": "Ary mifanolotra amin' ny fari-tanin' i Gada, amin' ny lafiny atsimo mianatsimo, ny fari-tany dia hatrany Tamara ka hatramin' ny ranon' ny fifandirana any Kadesy sy ny renirano ka hatramin' ny Ranomasina lehibe."
-    },
-    {
-      "v": 29,
-      "text": "Izany no tany hozarainareo amin' ny antsapaka ho an' ireo fokon' ny Isiraely ho lovany, ary izany no ho anjarany, hoy Jehovah Andriamanitra."
-    },
-    {
-      "v": 30,
-      "text": "Ary izao no fivoahana ny tanàna amin' ny lafiny avaratra: dimanjato amby efatra arivo refy."
-    },
-    {
-      "v": 31,
-      "text": "Ary ny anaran' ny vavahady dia ho araka ny anaran' ireo fokon' ny Isiraely: ny vavahady telo avaratra, dia vavahadin' i Robena ny iray, vavahadin' i Joda ny iray, vavahadin' Levy ny iray."
-    },
-    {
-      "v": 32,
-      "text": "Ary amin' ny atsinanana dimanjato amby efatra arivo, ary ny vavahady telo, dia vavahadin' i Josefa ny iray, vavahadin' i Benjamina ny iray ary vavahadin' i Dana ny iray."
-    },
-    {
-      "v": 33,
-      "text": "Ary amin' ny atsimo dimanjato amby efatra arivo refy, ary ny vavahady telo dia vavahadin' i Simeona ny iray, vavahadin' i Isakara ny iray, vavahadin' i Zebolona ny iray."
-    },
-    {
-      "v": 34,
-      "text": "Ary amin' ny andrefana dimanjato amby efatra arivo sy vavahady telo, dia vavahadin' i Gada ny iray, vavahadin' i Asera ny iray, vavahadin' i Naftaly ny iray."
-    },
-    {
-      "v": 35,
-      "text": "\"Valo arivo amby iray alina refy ny manodidina; ary ny anaran' ny tanàna hatramin' izay andro izay dia ho Jehovah no Ao.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no anaran' ny foko: hatramin' ny farany avaratra ka hatrany amoron-dranomasina amin' ny lalana mankany Hetlona any akaikin' i Hamata sy Hazar-enana, fari-tanin' i Damaskosy eo avaratra, hatrany anilan' i Hamata; izany no ho lafiny atsinanana sy andrefana; anjara iray ho an' i  Dana.",
+    "2": "Ary mifanolotra amin' ny fari-tanin' i Dana, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Asera.",
+    "3": "Ary mifanolotra amin' ny fari-tanin' i Asera, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Naftaly.",
+    "4": "Ary mifanolotra amin' ny fari-tanin' i Naftaly, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i  Manase.",
+    "5": "Ary mifanolotra amin' ny fari-tanin' i Manase, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Efraima.",
+    "6": "Ary mifanolotra amin' ny fari-tanin' i Efraima, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Robena.",
+    "7": "Ary mifanolotra amin' ny fari-tanin' i Robena hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Joda.",
+    "8": "Ary mifanolotra amin' ny fari-tanin' i Joda, hatrany atsinanana ka hatrany andrefana, no hisian' ilay tany hatokanareo, indimy arivo amby roa alin' ny volotara ny sakany, ary ny lavany mitovy amin' ny anjaran' ny sasany hatrany atsinanana ka hatrany andrefana; ary ny fitoerana masina no ho eo afovoany.",
+    "9": "Ny tany izay hatokanareo ho an' i Jehovah, dia ho dimy arivo amby roa alina ny lavany ary iray alina ny sakany.",
+    "10": "Ary ho an' ny mpisorona izany tany masina voatokana izany, dimy arivo amby roa alina ny lavany avaratra ary iray alina ny sakany andrefana, ary iray alina ny sakany atsinanana ary dimy arivo amby roa alina ny lavany atsimo, ary ny fitoerana masin' i Jehovah no ho eo afovoany.",
+    "11": "Ho an' ny mpisorona izay nohamasinina avy amin' ny taranak' i Zadoka izany, dia ireo nitandrina ny nasaiko notandremana ka tsy nivily tamin' ny nivilian' ny Zanak' Isiraely, tahaka ny nivilian' ny Levita,",
+    "12": "Ary izany tany halaina amin' ilay efa voatokana izany dia ho zavatra masina indrindra aminy, mifanolotra amin' ny fari-tanin' ny Levita.",
+    "13": "Ary ny Levita koa dia hahazo ny mifanolotra amin' ny fari-tanin' ny mpisorona, dia dimy arivo amby roa alina ny lavany ary iray alina ny sakany, eny, samy dimy arivo amby roa alina ny lavany sy iray alina ny sakany.",
+    "14": "Ary tsy ho azony hamidy izany, na hatakalo ary tsy hafindrany ny voaloham-bokatra amin' ny tany; fa masina ho an' i Jehovah izany.",
+    "15": "Ary ny dimy arivo, ilay navela tamin' ny sakany mifanolotra amin' ny dimy arivo amby roa alina, dia tsy masina, fa ho an' ny tanàna, ho fonenana sy ho tany fiandrasana; ary ny tanàna no ho ao afovoany.",
+    "16": "Ary izao no ho refiny: ny avaratra ho dimanjato amby efatra arivo, ary ny atsimo ho dimanjato amby efatra arivo, ary ny atsinanana ho dimanjato amby efatra arivo ary ny andrefana ho dimanjato amby efatra arivo.",
+    "17": "Ary ny amin' ny zana-bohitry ny tanàna, eo amin' ny avaratra dia ho dimampolo amby roanjato ary eo amin' ny atsimo dia ho dimampolo amby roanjato ary ny eo amin' ny atsinanana dia ho dimampolo amby roanjato ary ny eo amin' ny andrefana dia ho dimampolo amby roanjato.",
+    "18": "Ary ny lavany sisa mifanolotra amin' ny anjara masina voatokana dia ho iray alina miantsinanana ary iray alina miankandrefana ary hifanolotra amin' ny anjara masina voatokana izany; ary ny vokatra avy aminy hohanin' ny mpiasa ao an-tanàna.",
+    "19": "Ary izay mpiasa ao an-tanàna no hiasa azy avy amin' ireo fokon' ny Isiraely rehetra.",
+    "20": "Ny tany voatokana rehetra dia ho dimy arivo amby roa alina sokera; ny ampahefatry ny anjara masina voatokana dia halainareo ho zara-tany momba ny tanàna.",
+    "21": "Ary ho an' ny mpanapaka ny sisa an-daniny roa amin' ny anjara masina voatokana sy ny zara-tany momba ny tanàna, mifanolotra amin' ny dimy arivo amby roa alina amin' ny anjara voatokana hatramin' ny fari-tany atsinanana, ary mifanolotra amin' ny dimy arivo amby roa alina hatramin' ny fari-tany andrefana, mifanolotra amin' ireo anjara ho an' ny mpanapaka izany, ary ho anjara masina voatokana izany ary ny trano fitoerana masina no ho eo afovoany.",
+    "22": "Ary hatramin' ny zara-tanin' ny Levita sy ny zara-tany momba ny tanàna, izay ao ampovoan' ny an' ny mpanapaka, anelanelan' ny fari-tanin' i Joda sy Benjamina, dia ho an' ny mpanapaka izany.",
+    "23": "Ary ny amin' ny foko sisa dia hatramin' ny lafiny atsinanana ka hatramin' ny andrefana dia hisy anjara iray ho an' i Benjamina.",
+    "24": "Ary mifanolotra amin' ny fari-tanin' i Benjamina, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Simeona.",
+    "25": "Ary mifanolotra amin' ny fari-tanin' i Simeona, hatrany atsinanana ka hatrany andrefana, dia iray ho an' Isakara.",
+    "26": "Ary mifanolotra amin' ny fari-tanin' Isakara hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Zebolona.",
+    "27": "Ny mifanolotra amin' ny fari-tanin' i Zebolona, hatrany atsinanana ka hatrany andrefana, dia iray ho an' i Gada.",
+    "28": "Ary mifanolotra amin' ny fari-tanin' i Gada, amin' ny lafiny atsimo mianatsimo, ny fari-tany dia hatrany Tamara ka hatramin' ny ranon' ny fifandirana any Kadesy sy ny renirano ka hatramin' ny Ranomasina lehibe.",
+    "29": "Izany no tany hozarainareo amin' ny antsapaka ho an' ireo fokon' ny Isiraely ho lovany, ary izany no ho anjarany, hoy Jehovah Andriamanitra.",
+    "30": "Ary izao no fivoahana ny tanàna amin' ny lafiny avaratra: dimanjato amby efatra arivo refy.",
+    "31": "Ary ny anaran' ny vavahady dia ho araka ny anaran' ireo fokon' ny Isiraely: ny vavahady telo avaratra, dia vavahadin' i Robena ny iray, vavahadin' i Joda ny iray, vavahadin' Levy ny iray.",
+    "32": "Ary amin' ny atsinanana dimanjato amby efatra arivo, ary ny vavahady telo, dia vavahadin' i Josefa ny iray, vavahadin' i Benjamina ny iray ary vavahadin' i Dana ny iray.",
+    "33": "Ary amin' ny atsimo dimanjato amby efatra arivo refy, ary ny vavahady telo dia vavahadin' i Simeona ny iray, vavahadin' i Isakara ny iray, vavahadin' i Zebolona ny iray.",
+    "34": "Ary amin' ny andrefana dimanjato amby efatra arivo sy vavahady telo, dia vavahadin' i Gada ny iray, vavahadin' i Asera ny iray, vavahadin' i Naftaly ny iray.",
+    "35": "Valo arivo amby iray alina refy ny manodidina; ary ny anaran' ny tanàna hatramin' izay andro izay dia ho Jehovah no Ao."
+  }
 }

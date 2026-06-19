@@ -1,57 +1,19 @@
 {
+  "book": "Salamo",
   "chapter": 85,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira. Salamo ho an' ireo zanak' i Kora.]  Jehovah ô, efa naneho fitia tamin' ny taninao ianao; efa nampodinao ny fahababoan' i Jakoba.\""
-    },
-    {
-      "v": 2,
-      "text": "Navelanao ny heloky ny olonao, efa nosaronanao ny fahotany rehetra. [Sela.]"
-    },
-    {
-      "v": 3,
-      "text": "\"Efa nampijanona ny fahatezeranao rehetra Ianao ary niala tamin' ny fahatezeranao mirehitra;\""
-    },
-    {
-      "v": 4,
-      "text": "Avereno izahay, ry Andriamanitry ny famonjena anay ô, ary ampitsaharo ny fahatezeranao aminay."
-    },
-    {
-      "v": 5,
-      "text": "Ho tezitra aminay mandrakizay va Ianao? hampaharetinao hahatratra ny taranaka rehetra va ny fahatezeranao?"
-    },
-    {
-      "v": 6,
-      "text": "Tsy hovelominao indray va izahay, mba hifalian' ny olonao aminao?"
-    },
-    {
-      "v": 7,
-      "text": "Asehoy anay ny famindramponao, Jehovah ô, ka omeo anay ny famonjenao."
-    },
-    {
-      "v": 8,
-      "text": "\"Hihaino izay holazain' i Jehovah Andriamanitro aho; fa hilaza fiadanana amin' ny olony Izy sy amin' ny olo-masiny; fa aoka tsy hiverina ho amin' ny fahadalana indray ireny.\""
-    },
-    {
-      "v": 9,
-      "text": "Eny tokoa, akaikin' izay matahotra Azy ny famonjeny, mba hitoeran' ny voninahitra eo amin' ny tanintsika."
-    },
-    {
-      "v": 10,
-      "text": "\"Mihaona ny famindrampo sy ny fahamarinana; mifanoroka ny fahamarinana sy ny fihavanana.\""
-    },
-    {
-      "v": 11,
-      "text": "Hitsimoka amin' ny tany ny fahamarinana ary hitsinjo avy any an-danitra ny fahamarinana."
-    },
-    {
-      "v": 12,
-      "text": "\"Eny, hanome izay tsara Jehovah; ary hahavoka-javatra ny tanintsika.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ny fahamarinana no hialoha Azy; sady hametraka antsika hanaraka ny diany eny an-dalana.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Salamo ho an' ireo zanak' i Kora.]  Jehovah ô, efa naneho fitia tamin' ny taninao ianao; efa nampodinao ny fahababoan' i Jakoba.",
+    "2": "Navelanao ny heloky ny olonao, efa nosaronanao ny fahotany rehetra. [Sela.]",
+    "3": "Efa nampijanona ny fahatezeranao rehetra Ianao ary niala tamin' ny fahatezeranao mirehitra;",
+    "4": "Avereno izahay, ry Andriamanitry ny famonjena anay ô, ary ampitsaharo ny fahatezeranao aminay.",
+    "5": "Ho tezitra aminay mandrakizay va Ianao? hampaharetinao hahatratra ny taranaka rehetra va ny fahatezeranao?",
+    "6": "Tsy hovelominao indray va izahay, mba hifalian' ny olonao aminao?",
+    "7": "Asehoy anay ny famindramponao, Jehovah ô, ka omeo anay ny famonjenao.",
+    "8": "Hihaino izay holazain' i Jehovah Andriamanitro aho; fa hilaza fiadanana amin' ny olony Izy sy amin' ny olo-masiny; fa aoka tsy hiverina ho amin' ny fahadalana indray ireny.",
+    "9": "Eny tokoa, akaikin' izay matahotra Azy ny famonjeny, mba hitoeran' ny voninahitra eo amin' ny tanintsika.",
+    "10": "Mihaona ny famindrampo sy ny fahamarinana; mifanoroka ny fahamarinana sy ny fihavanana.",
+    "11": "Hitsimoka amin' ny tany ny fahamarinana ary hitsinjo avy any an-danitra ny fahamarinana.",
+    "12": "Eny, hanome izay tsara Jehovah; ary hahavoka-javatra ny tanintsika.",
+    "13": "Ny fahamarinana no hialoha Azy; sady hametraka antsika hanaraka ny diany eny an-dalana."
+  }
 }

@@ -1,181 +1,50 @@
 {
+  "book": "Asa",
   "chapter": 27,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary rehefa tapaka fa tokony hiondrana an-tsambo hankany Italia izahay, dia natolotra ny kapiteny atao hoe Jolio antokon' i Aogosto i Paoly sy ny mpifatotra sasany."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary rehefa nirotsaka an-tsambo avy any Adramytena izay efa handeha hitety ny sisin-tanin' i Azia izahay, dia lasa nandeha; ary niaraka taminay Aristarko Masedoniana avy any Tesalonika.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary nony ampitso dia tonga tany Sidona izahay.Ary tsara ny nitondran' i Jolio an' i Paoly, fa navelany izy hankany amin' ny sakaizany izay hiahy azy."
-    },
-    {
-      "v": 4,
-      "text": "Ary nony niala teo izahay, dia nanara-morona an' i Sypra nihazo ny ilany takon-drivotra, satria nanohitra ny rivotra."
-    },
-    {
-      "v": 5,
-      "text": "Ary rehefa namaky ny ranomasina tany Silisia sy Pamfylia izahay, dia tonga tany Myra tanànan' i  Lysia."
-    },
-    {
-      "v": 6,
-      "text": "Ary tao no nahitan' ny kapiteny sambon' i Aleksandria hankany Italia, dia nasainy niondrana teo aminy izahay."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary rehefa nandeha niadana andro maromaro izahay ka saiky tsy tonga tandrifin' i Kinido, satria nisakana anay ny rivotra, dia nanamorona an' i Kreta tamin' ny ilany takon-drivotra tandrifin' i Salmona izahay;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ary nony sahirana nanara-morona izahay, dia tonga teo amin' ny tany anankiray atao hoe Tsarafitodiantsambo; akaikin' izany ny tanàna Lasea.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary rehefa lany ny andro maro, sady sarotra ny fandehanan-tsambo tamin' izany, satria efa afaka ny andro fifadiana, dia nananatra azy ireo Paoly,"
-    },
-    {
-      "v": 10,
-      "text": "Ka nanao taminy hoe: Ry tompokolahy ô, hitako fa hisy fahasimbana sy fahavoazana be izao dia izao, ka tsy amin' ny entana sy ny sambo ihany, fa ny aintsika koa."
-    },
-    {
-      "v": 11,
-      "text": "Kanefa ny kapiteny nino kokoa ny mpitondra sy ny tompon-tsambo noho ny teny nolazain' i Paoly."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary satria ny fitodian-tsambo teo dia tsy tsara hitoerana amin' ny ririnina, dia nataon' ny maro fa tsara raha miala, fandrao mba ho tonga any Foiniksa ahay handany ny ririnina any; fitodian-tsambo any Kreta izany ka manatrika mianatsimo-andrefana sy mianavaratra-andrefana.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary raha nitsoka malefaka ny rivotra avy any atsimo, ka nataony fa efa nahazo izay nokendreny izy, dia niala teo nizotra nanakaiky an' i Kreta."
-    },
-    {
-      "v": 14,
-      "text": "Ary tsy ela taorian' izany, dia nifofofofo ny tafiodrivotra mahery atao hoe Eorakylona."
-    },
-    {
-      "v": 15,
-      "text": "Ary raha nopaohin' ny rivotra ny sambo ka tsy nahatoha azy dia navelanay haveziveziny izy."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary raha nandeha faingana nanara-morona ny nosy atao hoe Klaoda nihazo ny ilany takon-drivotra izahay, dia saiky tsy nahazo ny salopy;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary rehefa nakarina izany ka nampiasa izay fomba famonjena rehetra, dia novahorany manodidina ny sambo; ary natahotra izy, fandrao hihatra any amin' ilay fasika mandrevo, dia nampidina ny lay, ka navelany handeha ho azy ny sambo.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary raha nasian' ny rivotra mafy izahay, dia nanariany ny entana nony ampitso;\""
-    },
-    {
-      "v": 19,
-      "text": "Ary ny afakampitso dia narian' ny tananay teny ivelany ny fitaovan' ny sambo."
-    },
-    {
-      "v": 20,
-      "text": "Fa rehefa tsy niseho ny masoandro na ny kintana hatramin' ny andro maro, ary tsy kely ny tafiodrivotra namely anay, dia tsy nanantena ho voavonjy intsony izahay."
-    },
-    {
-      "v": 21,
-      "text": "Ary rehefa tsy nihinan-kanina ela izy ireo, dia nitsangana teo afovoany Paoly ka nanao hoe: Ry tompokolahy ô, tsara raha ho nihaino ahy ianareo ka tsy niala tany Kreta, dia tsy ho nahitana izao fahasimbana sy fatiantoka izao."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary ankehitriny mananatra anareo aho mba hatoky; fa tsy hisy ho faty ianareo, fa ny sambo ihany no ho very.\""
-    },
-    {
-      "v": 23,
-      "text": "Fa nisy anjelin' Andriamanitra, Izay Tompoko sady tompoiko nitsangana teo anilako alina,"
-    },
-    {
-      "v": 24,
-      "text": "\"Nanao hoe: Aza matahotra ry Paoly; fa tsy maintsy hoentina eo anatrehan' i Kaisara ianao, ary, indro, efa nomen' Andriamanitra anao ny olona rehetra izay miaraka aminao.\""
-    },
-    {
-      "v": 25,
-      "text": "Koa matokia, ry tompokolahy ô, fa mino an' Andriamanitra aho fa ho tonga araka ny voalazany tamiko izany."
-    },
-    {
-      "v": 26,
-      "text": "Nefa tsy maintsy fefika ihany eo amin' ny nosy anankiray isika."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary tamin'ny alina fahefatra ambin' ny folo, raha navezivezy tany Adria izahay, nony namatonalina dia nataon' ny matilo fa efa manakaiky tany izy;\""
-    },
-    {
-      "v": 28,
-      "text": "\"Dia nanaka-drano izy ka hitany fa faharoapolo refy; ary nony nandrosoroso kokoa izy, dia nanaka-drano indray ka hitany fa fahadimy ambin' ny folo refy.\""
-    },
-    {
-      "v": 29,
-      "text": "Ary noho ny tahotra fandrao hidona amin' ny harambato izahay, dia nandatsaka vatofantsika efatra teo am-bodi-sambo izy ary naniry ny andro ho maraina."
-    },
-    {
-      "v": 30,
-      "text": "Fa raha nitady handositra hiala tamin' ny sambo ny matilo ka efa nampidina ny salopy teo amin' ny ranomasina izy, nody handatsaka vatofantsika eo an-dohasambo,"
-    },
-    {
-      "v": 31,
-      "text": "\"Dia hoy Paoly tamin' ny kapiteny sy ny miaramila; raha tsy mitoetra eto an-tsambo ireo, dia tsy azo vonjena ianareo.\""
-    },
-    {
-      "v": 32,
-      "text": "Dia notapahin' ny miaramila ny mahazaka rehetra tamin' ny salopy, ka navelany ho latsaka."
-    },
-    {
-      "v": 33,
-      "text": "Ary rehefa nadiva ho nazava ny andro, dia niangavy tamin' ny olona rehetra Paoly mba hihinan-kanina ka nanao hoe: Anio no fahefatra ambin' ny folo andro niandrasanareo, sady naharitra nifady hanina ianareo ka tsy nihinana na inona na inona."
-    },
-    {
-      "v": 34,
-      "text": "\"Koa miangavy anareo aho hihinan-kanina, fa izany no isan' ny hamonjena anareo; ary tsy hisy ho very aminareo rehetra na dia singam-bolo iray akory aza.\""
-    },
-    {
-      "v": 35,
-      "text": "\"Ary rehefa nilaza izany izy sady nandray mofo, dia nisaotra an' Andriamanitra teo anatrehan' ny olona rehetra; ary rehefa novakiny, dia nihinana izy.\""
-    },
-    {
-      "v": 36,
-      "text": "Dia nahazo toky izy rehetra ka nihinana koa."
-    },
-    {
-      "v": 37,
-      "text": "Ary izahay rehetra tao anaty sambo dia olona enina amby fitopolo amby roanjato."
-    },
-    {
-      "v": 38,
-      "text": "Ary rehefa voky izy ireo, dia nanariany ho any an-dranomasina ny vary tritika mba hanamaivana ny sambo."
-    },
-    {
-      "v": 39,
-      "text": "Ary rehefa nazava ny andro, dia tsy nahalala ny tany izy, fa nahita helodrano anankiray tsara morona, ka teo no nokasainy hampidonana ny sambo, raha azony atao."
-    },
-    {
-      "v": 40,
-      "text": "Ary rehefa nesoriny avokoa ny vatofantsika, dia navelany ho any an-dranomasina, ary novahany koa ny kofehin' ny familian-tsambo, dia namelatra ny lay anoloana izy ho azon' ny rivotra ka nanatona ny tany."
-    },
-    {
-      "v": 41,
-      "text": "\"Ary raha tonga tamin' izay nisy fihaonan-dranomasina izy, dia navelany hidona tamin' ny tany ny sambo; ary ny loha-sambo nihizina ka nitoetra tsy nihetsika, fa ny vodi-sambo kosa dia vakivaky azon' ny herin' ny onja.\""
-    },
-    {
-      "v": 42,
-      "text": "Ary ny miaramila nanan-kevitra hamono ny mpifatotra, fandrao hisy hilomano ireo ka ho afaka."
-    },
-    {
-      "v": 43,
-      "text": "\"Fa ny kapiteny te-hamonjy an' i Paoly, dia nisakana azy tsy hanao izay nokasainy; fa izay nahay nilomano no nasainy hirotsaka aloha ka hilomano ho eny amin' ny tany,\""
-    },
-    {
-      "v": 44,
-      "text": "Ary ny sisa dia samy hanao izay hahafaka azy, na amin' ny hazo fisaka, na amin' ny vakin-javatra avy amin' ny sambo. Koa dia izao no niseho, tonga soa aman-tsara teny an-tanety izy rehetra."
-    }
-  ]
+  "verses": {
+    "1": "Ary rehefa tapaka fa tokony hiondrana an-tsambo hankany Italia izahay, dia natolotra ny kapiteny atao hoe Jolio antokon' i Aogosto i Paoly sy ny mpifatotra sasany.",
+    "2": "Ary rehefa nirotsaka an-tsambo avy any Adramytena izay efa handeha hitety ny sisin-tanin' i Azia izahay, dia lasa nandeha; ary niaraka taminay Aristarko Masedoniana avy any Tesalonika.",
+    "3": "Ary nony ampitso dia tonga tany Sidona izahay.Ary tsara ny nitondran' i Jolio an' i Paoly, fa navelany izy hankany amin' ny sakaizany izay hiahy azy.",
+    "4": "Ary nony niala teo izahay, dia nanara-morona an' i Sypra nihazo ny ilany takon-drivotra, satria nanohitra ny rivotra.",
+    "5": "Ary rehefa namaky ny ranomasina tany Silisia sy Pamfylia izahay, dia tonga tany Myra tanànan' i  Lysia.",
+    "6": "Ary tao no nahitan' ny kapiteny sambon' i Aleksandria hankany Italia, dia nasainy niondrana teo aminy izahay.",
+    "7": "Ary rehefa nandeha niadana andro maromaro izahay ka saiky tsy tonga tandrifin' i Kinido, satria nisakana anay ny rivotra, dia nanamorona an' i Kreta tamin' ny ilany takon-drivotra tandrifin' i Salmona izahay;",
+    "8": "Ary nony sahirana nanara-morona izahay, dia tonga teo amin' ny tany anankiray atao hoe Tsarafitodiantsambo; akaikin' izany ny tanàna Lasea.",
+    "9": "Ary rehefa lany ny andro maro, sady sarotra ny fandehanan-tsambo tamin' izany, satria efa afaka ny andro fifadiana, dia nananatra azy ireo Paoly,",
+    "10": "Ka nanao taminy hoe: Ry tompokolahy ô, hitako fa hisy fahasimbana sy fahavoazana be izao dia izao, ka tsy amin' ny entana sy ny sambo ihany, fa ny aintsika koa.",
+    "11": "Kanefa ny kapiteny nino kokoa ny mpitondra sy ny tompon-tsambo noho ny teny nolazain' i Paoly.",
+    "12": "Ary satria ny fitodian-tsambo teo dia tsy tsara hitoerana amin' ny ririnina, dia nataon' ny maro fa tsara raha miala, fandrao mba ho tonga any Foiniksa ahay handany ny ririnina any; fitodian-tsambo any Kreta izany ka manatrika mianatsimo-andrefana sy mianavaratra-andrefana.",
+    "13": "Ary raha nitsoka malefaka ny rivotra avy any atsimo, ka nataony fa efa nahazo izay nokendreny izy, dia niala teo nizotra nanakaiky an' i Kreta.",
+    "14": "Ary tsy ela taorian' izany, dia nifofofofo ny tafiodrivotra mahery atao hoe Eorakylona.",
+    "15": "Ary raha nopaohin' ny rivotra ny sambo ka tsy nahatoha azy dia navelanay haveziveziny izy.",
+    "16": "Ary raha nandeha faingana nanara-morona ny nosy atao hoe Klaoda nihazo ny ilany takon-drivotra izahay, dia saiky tsy nahazo ny salopy;",
+    "17": "Ary rehefa nakarina izany ka nampiasa izay fomba famonjena rehetra, dia novahorany manodidina ny sambo; ary natahotra izy, fandrao hihatra any amin' ilay fasika mandrevo, dia nampidina ny lay, ka navelany handeha ho azy ny sambo.",
+    "18": "Ary raha nasian' ny rivotra mafy izahay, dia nanariany ny entana nony ampitso;",
+    "19": "Ary ny afakampitso dia narian' ny tananay teny ivelany ny fitaovan' ny sambo.",
+    "20": "Fa rehefa tsy niseho ny masoandro na ny kintana hatramin' ny andro maro, ary tsy kely ny tafiodrivotra namely anay, dia tsy nanantena ho voavonjy intsony izahay.",
+    "21": "Ary rehefa tsy nihinan-kanina ela izy ireo, dia nitsangana teo afovoany Paoly ka nanao hoe: Ry tompokolahy ô, tsara raha ho nihaino ahy ianareo ka tsy niala tany Kreta, dia tsy ho nahitana izao fahasimbana sy fatiantoka izao.",
+    "22": "Ary ankehitriny mananatra anareo aho mba hatoky; fa tsy hisy ho faty ianareo, fa ny sambo ihany no ho very.",
+    "23": "Fa nisy anjelin' Andriamanitra, Izay Tompoko sady tompoiko nitsangana teo anilako alina,",
+    "24": "Nanao hoe: Aza matahotra ry Paoly; fa tsy maintsy hoentina eo anatrehan' i Kaisara ianao, ary, indro, efa nomen' Andriamanitra anao ny olona rehetra izay miaraka aminao.",
+    "25": "Koa matokia, ry tompokolahy ô, fa mino an' Andriamanitra aho fa ho tonga araka ny voalazany tamiko izany.",
+    "26": "Nefa tsy maintsy fefika ihany eo amin' ny nosy anankiray isika.",
+    "27": "Ary tamin'ny alina fahefatra ambin' ny folo, raha navezivezy tany Adria izahay, nony namatonalina dia nataon' ny matilo fa efa manakaiky tany izy;",
+    "28": "Dia nanaka-drano izy ka hitany fa faharoapolo refy; ary nony nandrosoroso kokoa izy, dia nanaka-drano indray ka hitany fa fahadimy ambin' ny folo refy.",
+    "29": "Ary noho ny tahotra fandrao hidona amin' ny harambato izahay, dia nandatsaka vatofantsika efatra teo am-bodi-sambo izy ary naniry ny andro ho maraina.",
+    "30": "Fa raha nitady handositra hiala tamin' ny sambo ny matilo ka efa nampidina ny salopy teo amin' ny ranomasina izy, nody handatsaka vatofantsika eo an-dohasambo,",
+    "31": "Dia hoy Paoly tamin' ny kapiteny sy ny miaramila; raha tsy mitoetra eto an-tsambo ireo, dia tsy azo vonjena ianareo.",
+    "32": "Dia notapahin' ny miaramila ny mahazaka rehetra tamin' ny salopy, ka navelany ho latsaka.",
+    "33": "Ary rehefa nadiva ho nazava ny andro, dia niangavy tamin' ny olona rehetra Paoly mba hihinan-kanina ka nanao hoe: Anio no fahefatra ambin' ny folo andro niandrasanareo, sady naharitra nifady hanina ianareo ka tsy nihinana na inona na inona.",
+    "34": "Koa miangavy anareo aho hihinan-kanina, fa izany no isan' ny hamonjena anareo; ary tsy hisy ho very aminareo rehetra na dia singam-bolo iray akory aza.",
+    "35": "Ary rehefa nilaza izany izy sady nandray mofo, dia nisaotra an' Andriamanitra teo anatrehan' ny olona rehetra; ary rehefa novakiny, dia nihinana izy.",
+    "36": "Dia nahazo toky izy rehetra ka nihinana koa.",
+    "37": "Ary izahay rehetra tao anaty sambo dia olona enina amby fitopolo amby roanjato.",
+    "38": "Ary rehefa voky izy ireo, dia nanariany ho any an-dranomasina ny vary tritika mba hanamaivana ny sambo.",
+    "39": "Ary rehefa nazava ny andro, dia tsy nahalala ny tany izy, fa nahita helodrano anankiray tsara morona, ka teo no nokasainy hampidonana ny sambo, raha azony atao.",
+    "40": "Ary rehefa nesoriny avokoa ny vatofantsika, dia navelany ho any an-dranomasina, ary novahany koa ny kofehin' ny familian-tsambo, dia namelatra ny lay anoloana izy ho azon' ny rivotra ka nanatona ny tany.",
+    "41": "Ary raha tonga tamin' izay nisy fihaonan-dranomasina izy, dia navelany hidona tamin' ny tany ny sambo; ary ny loha-sambo nihizina ka nitoetra tsy nihetsika, fa ny vodi-sambo kosa dia vakivaky azon' ny herin' ny onja.",
+    "42": "Ary ny miaramila nanan-kevitra hamono ny mpifatotra, fandrao hisy hilomano ireo ka ho afaka.",
+    "43": "Fa ny kapiteny te-hamonjy an' i Paoly, dia nisakana azy tsy hanao izay nokasainy; fa izay nahay nilomano no nasainy hirotsaka aloha ka hilomano ho eny amin' ny tany,",
+    "44": "Ary ny sisa dia samy hanao izay hahafaka azy, na amin' ny hazo fisaka, na amin' ny vakin-javatra avy amin' ny sambo. Koa dia izao no niseho, tonga soa aman-tsara teny an-tanety izy rehetra."
+  }
 }

@@ -1,709 +1,182 @@
 {
+  "book": "Salamo",
   "chapter": 119,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[ALEFA.]  SAMBATRA ny mahitsy làlana, izay mandeha araka ny lalàn' i Jehovah."
-    },
-    {
-      "v": 2,
-      "text": "Sambatra izay mitandrina ny tenivavolombelony, ka mitady Azy amin' ny fony rehetra."
-    },
-    {
-      "v": 3,
-      "text": "Tsy mba manao heloka koa izy fa mandeha araka ny lalany."
-    },
-    {
-      "v": 4,
-      "text": "Efa nandidy anay Ianao hitandrina tsara ny fitsipikao."
-    },
-    {
-      "v": 5,
-      "text": "Enga anie ka ho voatarika ny lalako hitandrina ny didinao."
-    },
-    {
-      "v": 6,
-      "text": "Dia tsy ho menatra aho, raha mandinika ny didinao rehetra."
-    },
-    {
-      "v": 7,
-      "text": "Hidera Anao amin' ny hitsi-poko aho, amin' ny hianarako ny fitsipikao marina."
-    },
-    {
-      "v": 8,
-      "text": "\"Ny didinao no hotandremako; aza mahafoy ahy mihitsy.\""
-    },
-    {
-      "v": 9,
-      "text": "[BETA.]  Inona no hanadiovan' ny zatovo ny lalan-kalehany? Ny fitandremana araka ny teninao."
-    },
-    {
-      "v": 10,
-      "text": "\"Tamin' ny foko rehetra no nitadiavako Anao; aza avela hivily hiala amin' ny didinao aho.\""
-    },
-    {
-      "v": 11,
-      "text": "Ato am-poko no iraketako ny teninao, mba tsy hanotako aminao."
-    },
-    {
-      "v": 12,
-      "text": "\"Isaorana anie Ianao, Jehovah ô; ampianaro ahy ny didinao.\""
-    },
-    {
-      "v": 13,
-      "text": "Ny molotro no nentiko nilaza ny fitsipika rehetra naloaky ny vavanao."
-    },
-    {
-      "v": 14,
-      "text": "Ny lalan' ny teni-vavolombelonao no ifaliako, tahaka ny ifaliako amin' ny harena rehetra."
-    },
-    {
-      "v": 15,
-      "text": "Hisaintsaina ny didinao aho, ary mihevitra tsara ny lalanao."
-    },
-    {
-      "v": 16,
-      "text": "\"Ny didinao no hiravoravoako; tsy hohadinoiko ny teninao.\""
-    },
-    {
-      "v": 17,
-      "text": "[GIMELA.]  Asio soa aho mpanomponao, mba ho velona ka hitandrina ny teninao."
-    },
-    {
-      "v": 18,
-      "text": "Ampahirato ny masoko, mba hahitako zava-mahagaga ao amin' ny lalànao."
-    },
-    {
-      "v": 19,
-      "text": "Vahiny ety an-tany aho: aza afenina ahy ny didinao."
-    },
-    {
-      "v": 20,
-      "text": "Torotoro ny fanahiko noho ny faniriany ny fitsipikao mandrakariva."
-    },
-    {
-      "v": 21,
-      "text": "Voateninao mafy ny mpirehareha, dia izay voaozona, ka mania miala amin' ny didinao."
-    },
-    {
-      "v": 22,
-      "text": "\"Esory amiko ny fahafaham-baràka sy ny fanamavoana; fa efa nitandrina ny teni-vavolombelonao aho.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ny mpanapaka ihany koa dia nipetraka sy niteny nanohitra ahy; nefa ny didinao no saintsainin' ny mpanomponao.\""
-    },
-    {
-      "v": 24,
-      "text": "Ny teni-vavolombelonao koa no firavoravoako sy mpanolo-tsaina ahy."
-    },
-    {
-      "v": 25,
-      "text": "\"[DALETA.] Miraikitra amin' ny vovoka ny fanahiko; velomy aho araka ny teninao.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ny lalako no nambarako, ka dia nihaino ahy Ianao; ampianaro ahy ny didinao.\""
-    },
-    {
-      "v": 27,
-      "text": "Ampahalalao ahy ny lalan' ny didinao dia holazaiko ny asanao mahagaga."
-    },
-    {
-      "v": 28,
-      "text": "\"Mipotrapotra-dranomaso aho noho ny alaheloko; ampaherezo aho araka ny teninao.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Esory amiko ny lalan' ny lainga; ary omeo ahy amin' ny indrafo ny lalànao.\""
-    },
-    {
-      "v": 30,
-      "text": "\"Ny lalan' ny fahamarinana no nofidiko; napetrako teo anatrehako ny fitsipikao.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Nifikitra tamin' ny teni-vavolombelonao aho; Jehovah ô, aza avela ho azon-kenatra aho.\""
-    },
-    {
-      "v": 32,
-      "text": "Ny lalan' ny didinao no hihazakazahako, rehefa halalahanao ny foko."
-    },
-    {
-      "v": 33,
-      "text": "\"[HE.]  Jehovah ô, ampianaro ny lalan' ny didinao aho; dia hotandremako hatramin' ny farany izany.\""
-    },
-    {
-      "v": 34,
-      "text": "\"Omeo fahalalana aho, dia hitandrina ny lalànao; eny, hitandrina azy amin' ny foko rehetra aho.\""
-    },
-    {
-      "v": 35,
-      "text": "\"Ampandehano amin' ny lalan' ny didinao aho; fa izany no sitrako.\""
-    },
-    {
-      "v": 36,
-      "text": "Ampirisiho ny foko ho amin' ny teni-vavolombelonao, fa tsy ho amin' ny fieremana."
-    },
-    {
-      "v": 37,
-      "text": "\"Avilio ny masoko tsy hijery zava-poana; velomy amin' ny lalanao aho.\""
-    },
-    {
-      "v": 38,
-      "text": "Tovy amin' ny mpanomponao ny teninao, izay mazoto amin' ny fahatahorana Anao."
-    },
-    {
-      "v": 39,
-      "text": "\"Esory ny fahafaham-barakako izay atahorako; fa tsara ny fitsipikao.\""
-    },
-    {
-      "v": 40,
-      "text": "Indro, manina ny didinao aho, velomy amin' ny fahamarinanao aho."
-    },
-    {
-      "v": 41,
-      "text": "[VAO.]  Aoka ho tonga amiko koa ny famindramponao, Jehovah ô, dia ny famonjenao araka ny teninao."
-    },
-    {
-      "v": 42,
-      "text": "Dia hamaly izay miteny ratsy ahy amin' izany aho, satria matoky ny teninao aho."
-    },
-    {
-      "v": 43,
-      "text": "\"Ary aza dia esorina amin' ny vavako ny teny marina; fa ny fitsaranao no nantenaiko.\""
-    },
-    {
-      "v": 44,
-      "text": "Koa hitandrina ny lalànao mandrakariva aho, dia mandrakizay doria."
-    },
-    {
-      "v": 45,
-      "text": "Handeha amin' ny fahalalahana aho, fa ny fitsipikao no tadiaviko."
-    },
-    {
-      "v": 46,
-      "text": "Hilaza ny teni-vavolombelonao eo anatrehan' ireo mpanjaka koa aho, ka tsy ho menatra."
-    },
-    {
-      "v": 47,
-      "text": "Ary hiravoravo amin' ny didinao izay tiako aho."
-    },
-    {
-      "v": 48,
-      "text": "\"Hasandratro koa ny tanako ho amin' ny didinao, izay tiako; ary hisaintsaina ny didinao aho.\""
-    },
-    {
-      "v": 49,
-      "text": "[ZAINA.]  Tsarovy ny teny natao tamiko mpanomponao, izay nampanantenainao ahy."
-    },
-    {
-      "v": 50,
-      "text": "Izao no mampionona ahy amin' ny fahoriako: fa ny teninao no namelona ahy."
-    },
-    {
-      "v": 51,
-      "text": "Naneso ahy tokoa ny mpirehareha, fa tsy mba nivily niala tamin' ny lalànao aho."
-    },
-    {
-      "v": 52,
-      "text": "Mahatsiaro ny fitsaranao fahiny aho, Jehovah ô, ka dia nampionon-tena aho."
-    },
-    {
-      "v": 53,
-      "text": "Horohoro no nahazo ahy noho ny amin' ny ratsy fanahy izay mahafoy ny lalànao."
-    },
-    {
-      "v": 54,
-      "text": "Ny didinao no nataoko an-kira ao amin' ny trano fivahiniako."
-    },
-    {
-      "v": 55,
-      "text": "Nahatsiaro ny anaranao nony alina aho, Jehovah ô, ka nitandrina ny lalànao."
-    },
-    {
-      "v": 56,
-      "text": "Izao no ahy, satria nitandrina ny didinao."
-    },
-    {
-      "v": 57,
-      "text": "\"[HETA.]  Jehovah ô, Ianao no anjarako; efa nilaza aho fa hitandrina ny teninao.\""
-    },
-    {
-      "v": 58,
-      "text": "\"Mifona aminao amin' ny foko rehetra aho; mamindrà fo amiko araka ny teninao.\""
-    },
-    {
-      "v": 59,
-      "text": "Mihevitra ny lalako aho ka mamerina ny tongotro ho amin' ny teni-vavolombelonao."
-    },
-    {
-      "v": 60,
-      "text": "Mandeha faingana aho ka tsy mitaredretra amin' ny fitandremana ny didinao."
-    },
-    {
-      "v": 61,
-      "text": "\"Nandroba ahy ny antokon' ny ratsy fanahy; nefa tsy mba nanadino ny lalànao aho.\""
-    },
-    {
-      "v": 62,
-      "text": "Mamatonalina no hifohazako hisaotra Anao noho ny fitsaranao marina."
-    },
-    {
-      "v": 63,
-      "text": "Naman' izay rehetra matahotra anao aho, sy izay mitandrina ny didinao."
-    },
-    {
-      "v": 64,
-      "text": "\"Jehovah ô henika ny famindramponao ny tany; ampianaro ahy ny didinao.\""
-    },
-    {
-      "v": 65,
-      "text": "[TETA.]  Jehovah ô, efa nasianao soa ny mpanomponao, araka ny teninao."
-    },
-    {
-      "v": 66,
-      "text": "Ampianaro fitsarana tsara sy fahalalana aho, fa ninoako ny didinao."
-    },
-    {
-      "v": 67,
-      "text": "\"Fony tsy mbola azom-pahoriana aho, dia naniasia; fa ankehitriny dia mitandrina ny teninao aho.\""
-    },
-    {
-      "v": 68,
-      "text": "\"Tsara ianao, sady manao ny tsara; ampianaro ahy ny didinao;\""
-    },
-    {
-      "v": 69,
-      "text": "\"Namoron-dainga hamelezana ahy ny mpirehareha; fa amin' ny foko rehetra no hitandremako ny didinao.\""
-    },
-    {
-      "v": 70,
-      "text": "\"Matavy tahaka ny menaka ny fony; fa izaho kosa dia ny didinao no iravoravoako.\""
-    },
-    {
-      "v": 71,
-      "text": "Soa ihany aho nampahoriana, mba hianarako ny didinao."
-    },
-    {
-      "v": 72,
-      "text": "Ny lalàn' ny vavanao dia tsara kokoa amiko noho ny volamena sy ny volafotsy an' arivony maro."
-    },
-    {
-      "v": 73,
-      "text": "\"[JODA.]  Ny tananao no nanao ahy sy namboatra ahy; omeo fahalalana aho, mba hianarako ny didinao.\""
-    },
-    {
-      "v": 74,
-      "text": "\"Ho faly izay matahotra Anao raha mahita ahy; satria ny teninao no antenaiko.\""
-    },
-    {
-      "v": 75,
-      "text": "Fantatro, Jehovah ô, fa marina ny fitsaranao, ary tamin' ny fahamarinanao no nampahorianao ahy."
-    },
-    {
-      "v": 76,
-      "text": "Mangataka aho, mba ho ny fahalemem-panahinao feno indrafo no fampiononana ahy, araka ny teninao tamin' ny mpanomponao."
-    },
-    {
-      "v": 77,
-      "text": "\"Aoka ho tonga amiko ny fiantranao, mba ho velona aho; fa ny lalànao no firavoravoako.\""
-    },
-    {
-      "v": 78,
-      "text": "\"Aoka ho menatra ny mpirehareha, fa mampahory ahy tsy ahoan-tsy ahoana izy; fa hisaintsaina ny fitsipikao aho.\""
-    },
-    {
-      "v": 79,
-      "text": "Aoka hiverina amiko izay matahotra Anao sy izay mahalala ny teni-vavolombelonao."
-    },
-    {
-      "v": 80,
-      "text": "Aoka ho marina tsara ny foko ny amin' ny lalànao, mba tsy ho menatra aho."
-    },
-    {
-      "v": 81,
-      "text": "\"[KAFA.]  Manina ny famonjenao ny fanahiko; satria ny teninao no antenaiko.\""
-    },
-    {
-      "v": 82,
-      "text": "Reraka ny masoko miandry ny teninao manao hoe: Rahoviana no hampionona ahy ianao?"
-    },
-    {
-      "v": 83,
-      "text": "\"Fa tonga tahaka ny siny hoditra ao amin' ny setroka aho; nefa ny lalànao tsy mba hohadinoiko.\""
-    },
-    {
-      "v": 84,
-      "text": "Hoatrinona ny andron' ny mpanomponao? Rahoviana no hanao fitsarana amin' izay manenjika ahy Ianao?"
-    },
-    {
-      "v": 85,
-      "text": "Efa nanao longoa hianjerako ny mpirehareha, dia izay tsy manaraka ny lalànao."
-    },
-    {
-      "v": 86,
-      "text": "\"Marina ny didinao rehetra; manenjika ahy tsy ahoan-tsy ahoana ireny; vonjeo aho.\""
-    },
-    {
-      "v": 87,
-      "text": "Saiky laniny teo amin' ny tany aho, kanefa tsy mba nahafoy ny fitsipikao."
-    },
-    {
-      "v": 88,
-      "text": "\"Velomy aho araka ny indrafonao; dia hitandrina ny teni-vavolombelona naloaky ny vavanao aho.\""
-    },
-    {
-      "v": 89,
-      "text": "[LAMEDA.]  Ho mandrakizay, Jehovah ô, no nanorenanao any an-danitra ny teninao."
-    },
-    {
-      "v": 90,
-      "text": "\"Hihatra amin' ny taranaka rehetra ny fahamarinanao; Naorinao ny tany ka mitoetra izy.\""
-    },
-    {
-      "v": 91,
-      "text": "Mitohy mandraka androany ny fanarahany ny didinao, fa mpanomponao ny zavatra rehetra."
-    },
-    {
-      "v": 92,
-      "text": "Raha tsy ny lalànao no niravoravoako, dia maty tamin' ny fahoriako aho."
-    },
-    {
-      "v": 93,
-      "text": "Tsy hohadinoiko mandrakizay ny didinao, fa ireny no amelomanao ahy."
-    },
-    {
-      "v": 94,
-      "text": "\"Anao aho, vonjeo aho; fa ny fitsipikao no notadiaviko.\""
-    },
-    {
-      "v": 95,
-      "text": "\"Miandry ahy ny ratsy fanahy, mba hahafaty ahy; nefa handinika ny teni-vavolombelonao aho.\""
-    },
-    {
-      "v": 96,
-      "text": "\"Efa hitako fa misy farany avokoa ny fahatanterahana rehetra; fa ny didinao dia tsy manam-petra mihintsy.\""
-    },
-    {
-      "v": 97,
-      "text": "[MEMA.]  Endrey ny fitiavako ny lalànao! Fisaintsainako mandritra ny andro izany."
-    },
-    {
-      "v": 98,
-      "text": "\"Mampahahendry ahy mihoatra noho ny fahavaloko Ianao amin' ny didinao; satria ato amiko mandrakariva ireo.\""
-    },
-    {
-      "v": 99,
-      "text": "Manam-pahalalana mihoatra noho ny mpampianatra ahy rehetra aho, satria ny teni-vavolombelonao no fisaintsainako."
-    },
-    {
-      "v": 100,
-      "text": "Mahalala mihoatra noho ny anti-panahy aho, satria mitandrina ny fitsipikao."
-    },
-    {
-      "v": 101,
-      "text": "Efa narovako ny tongotro tsy ho amin' ny lalan-dratsy rehetra, mba hitandremako ny teninao."
-    },
-    {
-      "v": 102,
-      "text": "\"Tsy mba niala tamin' ny fitsipikao aho; fa nampianatra ahy Ianao.\""
-    },
-    {
-      "v": 103,
-      "text": "Endrey ny hamamin' ny teninao, raha andramako! Eny, mamy noho ny tantely ato am-bavako!"
-    },
-    {
-      "v": 104,
-      "text": "\"Ny fitsipikao no nahazoako fahalalana; izany no ankahalako ny lalan-diso rehetra.\""
-    },
-    {
-      "v": 105,
-      "text": "[NONA.]  Fanilon' ny tongotro sy fanazavana ny lalako ny teninao."
-    },
-    {
-      "v": 106,
-      "text": "Efa nianiana aho, ka hotanterahiko izany, fa hitandrina ny fitsaranao marina aho."
-    },
-    {
-      "v": 107,
-      "text": "\"Ampahoriana indrindra aho; Jehovah ô, velomy aho araka ny teninao.\""
-    },
-    {
-      "v": 108,
-      "text": "Jehovah ô, enga anie mba hankasitrahanao ny fanati-tsitrapo aloaky ny vavako, ary ampianaro ahy ny fitsaranao."
-    },
-    {
-      "v": 109,
-      "text": "\"An-tenda ihany ny aiko mandrakariva; kanefa tsy manadino ny lalànao aho.\""
-    },
-    {
-      "v": 110,
-      "text": "\"Namela-pandrika haningotra ahy ny ratsy fanahy; kanefa tsy nania niala tamin' ny fitsipikao aho.\""
-    },
-    {
-      "v": 111,
-      "text": "Efa noraisiko ho lovako mandrakizay ny teni-vavolombelonao, satria fifalian' ny foko izany."
-    },
-    {
-      "v": 112,
-      "text": "Nampirisihiko ny foko hitandrina ny lalànao mandrakizay hatramin' ny farany."
-    },
-    {
-      "v": 113,
-      "text": "[SAMEKA.]  Halako ny fisainam-poana, fa ny lalànao no tiako."
-    },
-    {
-      "v": 114,
-      "text": "\"Fiereko sy ampingako Ianao; ny teninao no antenaiko.\""
-    },
-    {
-      "v": 115,
-      "text": "Mialà amiko ianareo mpanao ratsy, fa hitandrina ny didin' Andriamanitro aho."
-    },
-    {
-      "v": 116,
-      "text": "Tohàno aho araka ny teninao, mba ho velona, ary aoka tsy ho menatra amin' ny fanantenako aho."
-    },
-    {
-      "v": 117,
-      "text": "Tohàno aho mba ho voavonjy, ka ho faly hijery ny didinao mandrakariva."
-    },
-    {
-      "v": 118,
-      "text": "\"Ataonao tsinontsinona izay rehetra mania amin' ny didinao; fa famitahan-tena ihany ny laingany.\""
-    },
-    {
-      "v": 119,
-      "text": "\"Arianao tahaka ny tain-drendrika ny ratsy fanahy rehetra amin' ny tany; izany no itiavako ny teni-vavolombelonao.\""
-    },
-    {
-      "v": 120,
-      "text": "Mipararetra ny nofoko noho ny fahatahorana anao, ary matahotra ny fitsaranao aho."
-    },
-    {
-      "v": 121,
-      "text": "\"[AINA.]  Nanaraka ny fitsarana sy fahamarinana aho; aza manolotra ahy ho amin' ny mpampahory ahy.\""
-    },
-    {
-      "v": 122,
-      "text": "\"Meteza ho Mpiantoka ny mpanomponao amin' izay hahasoa azy; aza avela hampahory ahy ny mpirehareha.\""
-    },
-    {
-      "v": 123,
-      "text": "Pahina ny masoko miandry ny famonjenao sy ny tenin' ny fahamarinanao."
-    },
-    {
-      "v": 124,
-      "text": "\"Manaova amin' ny mpanomponao araka ny famindramponao; ary ampianaro ahy ny didinao.\""
-    },
-    {
-      "v": 125,
-      "text": "Mpanomponao aho, omeo fahalalana aho, mba ho fantatro ny teni-vavolombelonao."
-    },
-    {
-      "v": 126,
-      "text": "Andro hiasanao izao, Jehovah ô, fa manao tsinontsinona ny lalànao ny olona."
-    },
-    {
-      "v": 127,
-      "text": "Izany no itiavako ny didinao noho ny volamena eny, noho ny volamena tsara."
-    },
-    {
-      "v": 128,
-      "text": "\"Izany no hiheverako ny fitsipikao rehetra ho marina amin' ny zavatra rehetra; ary halako ny lalan-diso rehetra.\""
-    },
-    {
-      "v": 129,
-      "text": "[PE.]  Mahagaga ny teni-vavolombelonao, ka dia mitandrina azy ny fanahiko."
-    },
-    {
-      "v": 130,
-      "text": "\"Mitondra fahazavana ny fidiran' ny teninao; manome fahalalana ny kely saina izany.\""
-    },
-    {
-      "v": 131,
-      "text": "Nitanatana vava aho ka nihanahana, satria ny didinao no niriko fatratra."
-    },
-    {
-      "v": 132,
-      "text": "Todiho aho ka mamindrà fo amiko, araka ny tokony ho anjaran' izay tia ny anaranao."
-    },
-    {
-      "v": 133,
-      "text": "Ampioreno amin' ny teninao ny diako, ary aza avela hisy hanapaka ahy ny faharatsiana."
-    },
-    {
-      "v": 134,
-      "text": "Afaho amin' ny fampahorian' ny olona aho, dia hitandrina ny fitsipikao."
-    },
-    {
-      "v": 135,
-      "text": "\"Ampamirapirato amin' ny mpanomponao ny tavanao; ary ampianaro ahy ny didinao.\""
-    },
-    {
-      "v": 136,
-      "text": "Rano mandriaka no mijononoka amin' ny masoko noho ny tsy fitandreman' ny olona ny lalànao."
-    },
-    {
-      "v": 137,
-      "text": "[TSADE.]  Marina Ianao, Jehovah ô, ary mahitsy ny fitsaranao."
-    },
-    {
-      "v": 138,
-      "text": "Efa voadidinao amin' ny fahamarinana sy ny fahatokiana indrindra ny teni-vavolombelonao."
-    },
-    {
-      "v": 139,
-      "text": "Naharìtra aina ahy ny zotom-poko, satria nanadino ny teninao ny fahavaloko."
-    },
-    {
-      "v": 140,
-      "text": "Tena madio ny teninao, ka dia tian' ny mpanomponao izany."
-    },
-    {
-      "v": 141,
-      "text": "\"Kely sy atao tsinontsinona aho; nefa tsy hadinoiko ny fitsipikao.\""
-    },
-    {
-      "v": 142,
-      "text": "Ny fahamarinanao dia fahamarinana mandrakizay, ary ny lalànao no fahamarinana."
-    },
-    {
-      "v": 143,
-      "text": "\"Fahoriana sy fanahiana no mahazo ahy; nefa ny didinao no firavoravoako.\""
-    },
-    {
-      "v": 144,
-      "text": "\"Ny fahamarinan' ny teni-vavolombelonao dia mandrakizay; omeo fahalalana aho dia ho velona.\""
-    },
-    {
-      "v": 145,
-      "text": "\"[KOFA.]  Tamin' ny foko rehetra no nitarainako; henoy aho, Jehovah ô; ny lalànao no hotandremako.\""
-    },
-    {
-      "v": 146,
-      "text": "Nitaraina taminao aho: Vonjeo aho, dia hitandrina ny teni-vavolombelonao."
-    },
-    {
-      "v": 147,
-      "text": "\"Raha tsy mbola nazava ratsy ny andro, dia nitaraina aho; ny teninao no antenaiko.\""
-    },
-    {
-      "v": 148,
-      "text": "Nialoha ny fiambenana amin' ny alina ny masoko, mba hisaintsainako ny teninao."
-    },
-    {
-      "v": 149,
-      "text": "Henoy ny feoko araka ny indrafonao, Jehovah ô, velomy aho araka ny fitsaranao."
-    },
-    {
-      "v": 150,
-      "text": "\"Efa manakaiky izay fatra-panaraka ny ratsy; lavitra ny lalànao ireny.\""
-    },
-    {
-      "v": 151,
-      "text": "Akaiky Ianao, Jehovah ô, ary fahamarinana ny didinao rehetra."
-    },
-    {
-      "v": 152,
-      "text": "Efa fantatro ela ny amin' ny teni-vavolombelonao, fa nampitoerinao ho mandrakizay ireny."
-    },
-    {
-      "v": 153,
-      "text": "[RESY.]  Jereo ny fahoriako, ka afaho aho, fa ny lalànao tsy mba hadinoiko."
-    },
-    {
-      "v": 154,
-      "text": "\"Soloy vava aho, ka vonjeo; velomy aho araka ny teninao.\""
-    },
-    {
-      "v": 155,
-      "text": "Lavitra ny ratsy fanahy ny famonjena, satria ny didinao tsy tadiaviny."
-    },
-    {
-      "v": 156,
-      "text": "\"Lehibe ny antranao, Jehovah ô; velomy aho araka ny fitsaranao.\""
-    },
-    {
-      "v": 157,
-      "text": "Maro ny mpanenjika ahy sy ny fahavaloko, nefa tsy mba miala amin' ny teni-vavolombelonao aho."
-    },
-    {
-      "v": 158,
-      "text": "\"Nijery ny mpandika lalàna aho, dia nalahelo; satria tsy nitandrina ny teninao izy ireny.\""
-    },
-    {
-      "v": 159,
-      "text": "\"Endrey manao ahoana ny fitiavako ny fitsipikao; velomy aho, Jehovah ô, araka ny antranao.\""
-    },
-    {
-      "v": 160,
-      "text": "Ny teninao dia marina hatrany am-piandohana, ary ny fitsaranao marina rehetra dia maharitra mandrakizay."
-    },
-    {
-      "v": 161,
-      "text": "\"[SINA.]  Nanenjika ahy tsy ahoan-tsy ahoana ny mpanapaka; nefa ny teninao no atahoran' ny foko.\""
-    },
-    {
-      "v": 162,
-      "text": "Iravoravoako ny teninao, tahaka ny mahazo babo be."
-    },
-    {
-      "v": 163,
-      "text": "\"Halako sady tsy tiako ny lainga; fa ny lalànao no tiako.\""
-    },
-    {
-      "v": 164,
-      "text": "Impito isan' andro no iderako anao, noho ny fitsaranao marina."
-    },
-    {
-      "v": 165,
-      "text": "Be fiadanana izay tia ny lalànao, ary tsy hisy hahatafintohina azy."
-    },
-    {
-      "v": 166,
-      "text": "Jehovah ô, efa niandry ny famonjenao aho, ary nanatanteraka ny didinao."
-    },
-    {
-      "v": 167,
-      "text": "\"Nitandrina ny teni-vavolombelonao ny fanahiko; ary tiako indrindra ireny.\""
-    },
-    {
-      "v": 168,
-      "text": "\"Nitandrina ny fitsipikao sy ny teni-vavolombelonao aho; fa ny lalako rehetra dia eo anatrehanao.\""
-    },
-    {
-      "v": 169,
-      "text": "\"[TAO.]  Aoka ho tonga eo anatrehanao ny fitarainako Jehovah ô; omeo fahalalana aho araka ny teninao.\""
-    },
-    {
-      "v": 170,
-      "text": "\"Aoka ho tonga eo anatrehanao ny fifonako; afaho aho araka ny teninao.\""
-    },
-    {
-      "v": 171,
-      "text": "Hiboiboika fiderana ny molotro, rehefa ampianarinao ny lalànao aho."
-    },
-    {
-      "v": 172,
-      "text": "Hilaza ny teninao ny lelako, fa ny didinao rehetra dia ny fahamarinana."
-    },
-    {
-      "v": 173,
-      "text": "Aoka hamonjy ahy ny tananao, fa efa nifidy ny fitsipikao aho."
-    },
-    {
-      "v": 174,
-      "text": "\"Efa manina ny famonjenao aho, Jehovah ô; ary ny lalànao no firavoravoako.\""
-    },
-    {
-      "v": 175,
-      "text": "Aoka ho velona ny fanahiko, dia hidera Anao izy, ary aoka hamonjy ahy ny fitsaranao."
-    },
-    {
-      "v": 176,
-      "text": "\"Efa nania tahaka ny ondry aho, tadiavo ny mpanomponao; fa ny didinao tsy mba hadinoiko.\""
-    }
-  ]
+  "verses": {
+    "1": "[ALEFA.]  SAMBATRA ny mahitsy làlana, izay mandeha araka ny lalàn' i Jehovah.",
+    "2": "Sambatra izay mitandrina ny tenivavolombelony, ka mitady Azy amin' ny fony rehetra.",
+    "3": "Tsy mba manao heloka koa izy fa mandeha araka ny lalany.",
+    "4": "Efa nandidy anay Ianao hitandrina tsara ny fitsipikao.",
+    "5": "Enga anie ka ho voatarika ny lalako hitandrina ny didinao.",
+    "6": "Dia tsy ho menatra aho, raha mandinika ny didinao rehetra.",
+    "7": "Hidera Anao amin' ny hitsi-poko aho, amin' ny hianarako ny fitsipikao marina.",
+    "8": "Ny didinao no hotandremako; aza mahafoy ahy mihitsy.",
+    "9": "[BETA.]  Inona no hanadiovan' ny zatovo ny lalan-kalehany? Ny fitandremana araka ny teninao.",
+    "10": "Tamin' ny foko rehetra no nitadiavako Anao; aza avela hivily hiala amin' ny didinao aho.",
+    "11": "Ato am-poko no iraketako ny teninao, mba tsy hanotako aminao.",
+    "12": "Isaorana anie Ianao, Jehovah ô; ampianaro ahy ny didinao.",
+    "13": "Ny molotro no nentiko nilaza ny fitsipika rehetra naloaky ny vavanao.",
+    "14": "Ny lalan' ny teni-vavolombelonao no ifaliako, tahaka ny ifaliako amin' ny harena rehetra.",
+    "15": "Hisaintsaina ny didinao aho, ary mihevitra tsara ny lalanao.",
+    "16": "Ny didinao no hiravoravoako; tsy hohadinoiko ny teninao.",
+    "17": "[GIMELA.]  Asio soa aho mpanomponao, mba ho velona ka hitandrina ny teninao.",
+    "18": "Ampahirato ny masoko, mba hahitako zava-mahagaga ao amin' ny lalànao.",
+    "19": "Vahiny ety an-tany aho: aza afenina ahy ny didinao.",
+    "20": "Torotoro ny fanahiko noho ny faniriany ny fitsipikao mandrakariva.",
+    "21": "Voateninao mafy ny mpirehareha, dia izay voaozona, ka mania miala amin' ny didinao.",
+    "22": "Esory amiko ny fahafaham-baràka sy ny fanamavoana; fa efa nitandrina ny teni-vavolombelonao aho.",
+    "23": "Ny mpanapaka ihany koa dia nipetraka sy niteny nanohitra ahy; nefa ny didinao no saintsainin' ny mpanomponao.",
+    "24": "Ny teni-vavolombelonao koa no firavoravoako sy mpanolo-tsaina ahy.",
+    "25": "[DALETA.] Miraikitra amin' ny vovoka ny fanahiko; velomy aho araka ny teninao.",
+    "26": "Ny lalako no nambarako, ka dia nihaino ahy Ianao; ampianaro ahy ny didinao.",
+    "27": "Ampahalalao ahy ny lalan' ny didinao dia holazaiko ny asanao mahagaga.",
+    "28": "Mipotrapotra-dranomaso aho noho ny alaheloko; ampaherezo aho araka ny teninao.",
+    "29": "Esory amiko ny lalan' ny lainga; ary omeo ahy amin' ny indrafo ny lalànao.",
+    "30": "Ny lalan' ny fahamarinana no nofidiko; napetrako teo anatrehako ny fitsipikao.",
+    "31": "Nifikitra tamin' ny teni-vavolombelonao aho; Jehovah ô, aza avela ho azon-kenatra aho.",
+    "32": "Ny lalan' ny didinao no hihazakazahako, rehefa halalahanao ny foko.",
+    "33": "[HE.]  Jehovah ô, ampianaro ny lalan' ny didinao aho; dia hotandremako hatramin' ny farany izany.",
+    "34": "Omeo fahalalana aho, dia hitandrina ny lalànao; eny, hitandrina azy amin' ny foko rehetra aho.",
+    "35": "Ampandehano amin' ny lalan' ny didinao aho; fa izany no sitrako.",
+    "36": "Ampirisiho ny foko ho amin' ny teni-vavolombelonao, fa tsy ho amin' ny fieremana.",
+    "37": "Avilio ny masoko tsy hijery zava-poana; velomy amin' ny lalanao aho.",
+    "38": "Tovy amin' ny mpanomponao ny teninao, izay mazoto amin' ny fahatahorana Anao.",
+    "39": "Esory ny fahafaham-barakako izay atahorako; fa tsara ny fitsipikao.",
+    "40": "Indro, manina ny didinao aho, velomy amin' ny fahamarinanao aho.",
+    "41": "[VAO.]  Aoka ho tonga amiko koa ny famindramponao, Jehovah ô, dia ny famonjenao araka ny teninao.",
+    "42": "Dia hamaly izay miteny ratsy ahy amin' izany aho, satria matoky ny teninao aho.",
+    "43": "Ary aza dia esorina amin' ny vavako ny teny marina; fa ny fitsaranao no nantenaiko.",
+    "44": "Koa hitandrina ny lalànao mandrakariva aho, dia mandrakizay doria.",
+    "45": "Handeha amin' ny fahalalahana aho, fa ny fitsipikao no tadiaviko.",
+    "46": "Hilaza ny teni-vavolombelonao eo anatrehan' ireo mpanjaka koa aho, ka tsy ho menatra.",
+    "47": "Ary hiravoravo amin' ny didinao izay tiako aho.",
+    "48": "Hasandratro koa ny tanako ho amin' ny didinao, izay tiako; ary hisaintsaina ny didinao aho.",
+    "49": "[ZAINA.]  Tsarovy ny teny natao tamiko mpanomponao, izay nampanantenainao ahy.",
+    "50": "Izao no mampionona ahy amin' ny fahoriako: fa ny teninao no namelona ahy.",
+    "51": "Naneso ahy tokoa ny mpirehareha, fa tsy mba nivily niala tamin' ny lalànao aho.",
+    "52": "Mahatsiaro ny fitsaranao fahiny aho, Jehovah ô, ka dia nampionon-tena aho.",
+    "53": "Horohoro no nahazo ahy noho ny amin' ny ratsy fanahy izay mahafoy ny lalànao.",
+    "54": "Ny didinao no nataoko an-kira ao amin' ny trano fivahiniako.",
+    "55": "Nahatsiaro ny anaranao nony alina aho, Jehovah ô, ka nitandrina ny lalànao.",
+    "56": "Izao no ahy, satria nitandrina ny didinao.",
+    "57": "[HETA.]  Jehovah ô, Ianao no anjarako; efa nilaza aho fa hitandrina ny teninao.",
+    "58": "Mifona aminao amin' ny foko rehetra aho; mamindrà fo amiko araka ny teninao.",
+    "59": "Mihevitra ny lalako aho ka mamerina ny tongotro ho amin' ny teni-vavolombelonao.",
+    "60": "Mandeha faingana aho ka tsy mitaredretra amin' ny fitandremana ny didinao.",
+    "61": "Nandroba ahy ny antokon' ny ratsy fanahy; nefa tsy mba nanadino ny lalànao aho.",
+    "62": "Mamatonalina no hifohazako hisaotra Anao noho ny fitsaranao marina.",
+    "63": "Naman' izay rehetra matahotra anao aho, sy izay mitandrina ny didinao.",
+    "64": "Jehovah ô henika ny famindramponao ny tany; ampianaro ahy ny didinao.",
+    "65": "[TETA.]  Jehovah ô, efa nasianao soa ny mpanomponao, araka ny teninao.",
+    "66": "Ampianaro fitsarana tsara sy fahalalana aho, fa ninoako ny didinao.",
+    "67": "Fony tsy mbola azom-pahoriana aho, dia naniasia; fa ankehitriny dia mitandrina ny teninao aho.",
+    "68": "Tsara ianao, sady manao ny tsara; ampianaro ahy ny didinao;",
+    "69": "Namoron-dainga hamelezana ahy ny mpirehareha; fa amin' ny foko rehetra no hitandremako ny didinao.",
+    "70": "Matavy tahaka ny menaka ny fony; fa izaho kosa dia ny didinao no iravoravoako.",
+    "71": "Soa ihany aho nampahoriana, mba hianarako ny didinao.",
+    "72": "Ny lalàn' ny vavanao dia tsara kokoa amiko noho ny volamena sy ny volafotsy an' arivony maro.",
+    "73": "[JODA.]  Ny tananao no nanao ahy sy namboatra ahy; omeo fahalalana aho, mba hianarako ny didinao.",
+    "74": "Ho faly izay matahotra Anao raha mahita ahy; satria ny teninao no antenaiko.",
+    "75": "Fantatro, Jehovah ô, fa marina ny fitsaranao, ary tamin' ny fahamarinanao no nampahorianao ahy.",
+    "76": "Mangataka aho, mba ho ny fahalemem-panahinao feno indrafo no fampiononana ahy, araka ny teninao tamin' ny mpanomponao.",
+    "77": "Aoka ho tonga amiko ny fiantranao, mba ho velona aho; fa ny lalànao no firavoravoako.",
+    "78": "Aoka ho menatra ny mpirehareha, fa mampahory ahy tsy ahoan-tsy ahoana izy; fa hisaintsaina ny fitsipikao aho.",
+    "79": "Aoka hiverina amiko izay matahotra Anao sy izay mahalala ny teni-vavolombelonao.",
+    "80": "Aoka ho marina tsara ny foko ny amin' ny lalànao, mba tsy ho menatra aho.",
+    "81": "[KAFA.]  Manina ny famonjenao ny fanahiko; satria ny teninao no antenaiko.",
+    "82": "Reraka ny masoko miandry ny teninao manao hoe: Rahoviana no hampionona ahy ianao?",
+    "83": "Fa tonga tahaka ny siny hoditra ao amin' ny setroka aho; nefa ny lalànao tsy mba hohadinoiko.",
+    "84": "Hoatrinona ny andron' ny mpanomponao? Rahoviana no hanao fitsarana amin' izay manenjika ahy Ianao?",
+    "85": "Efa nanao longoa hianjerako ny mpirehareha, dia izay tsy manaraka ny lalànao.",
+    "86": "Marina ny didinao rehetra; manenjika ahy tsy ahoan-tsy ahoana ireny; vonjeo aho.",
+    "87": "Saiky laniny teo amin' ny tany aho, kanefa tsy mba nahafoy ny fitsipikao.",
+    "88": "Velomy aho araka ny indrafonao; dia hitandrina ny teni-vavolombelona naloaky ny vavanao aho.",
+    "89": "[LAMEDA.]  Ho mandrakizay, Jehovah ô, no nanorenanao any an-danitra ny teninao.",
+    "90": "Hihatra amin' ny taranaka rehetra ny fahamarinanao; Naorinao ny tany ka mitoetra izy.",
+    "91": "Mitohy mandraka androany ny fanarahany ny didinao, fa mpanomponao ny zavatra rehetra.",
+    "92": "Raha tsy ny lalànao no niravoravoako, dia maty tamin' ny fahoriako aho.",
+    "93": "Tsy hohadinoiko mandrakizay ny didinao, fa ireny no amelomanao ahy.",
+    "94": "Anao aho, vonjeo aho; fa ny fitsipikao no notadiaviko.",
+    "95": "Miandry ahy ny ratsy fanahy, mba hahafaty ahy; nefa handinika ny teni-vavolombelonao aho.",
+    "96": "Efa hitako fa misy farany avokoa ny fahatanterahana rehetra; fa ny didinao dia tsy manam-petra mihintsy.",
+    "97": "[MEMA.]  Endrey ny fitiavako ny lalànao! Fisaintsainako mandritra ny andro izany.",
+    "98": "Mampahahendry ahy mihoatra noho ny fahavaloko Ianao amin' ny didinao; satria ato amiko mandrakariva ireo.",
+    "99": "Manam-pahalalana mihoatra noho ny mpampianatra ahy rehetra aho, satria ny teni-vavolombelonao no fisaintsainako.",
+    "100": "Mahalala mihoatra noho ny anti-panahy aho, satria mitandrina ny fitsipikao.",
+    "101": "Efa narovako ny tongotro tsy ho amin' ny lalan-dratsy rehetra, mba hitandremako ny teninao.",
+    "102": "Tsy mba niala tamin' ny fitsipikao aho; fa nampianatra ahy Ianao.",
+    "103": "Endrey ny hamamin' ny teninao, raha andramako! Eny, mamy noho ny tantely ato am-bavako!",
+    "104": "Ny fitsipikao no nahazoako fahalalana; izany no ankahalako ny lalan-diso rehetra.",
+    "105": "[NONA.]  Fanilon' ny tongotro sy fanazavana ny lalako ny teninao.",
+    "106": "Efa nianiana aho, ka hotanterahiko izany, fa hitandrina ny fitsaranao marina aho.",
+    "107": "Ampahoriana indrindra aho; Jehovah ô, velomy aho araka ny teninao.",
+    "108": "Jehovah ô, enga anie mba hankasitrahanao ny fanati-tsitrapo aloaky ny vavako, ary ampianaro ahy ny fitsaranao.",
+    "109": "An-tenda ihany ny aiko mandrakariva; kanefa tsy manadino ny lalànao aho.",
+    "110": "Namela-pandrika haningotra ahy ny ratsy fanahy; kanefa tsy nania niala tamin' ny fitsipikao aho.",
+    "111": "Efa noraisiko ho lovako mandrakizay ny teni-vavolombelonao, satria fifalian' ny foko izany.",
+    "112": "Nampirisihiko ny foko hitandrina ny lalànao mandrakizay hatramin' ny farany.",
+    "113": "[SAMEKA.]  Halako ny fisainam-poana, fa ny lalànao no tiako.",
+    "114": "Fiereko sy ampingako Ianao; ny teninao no antenaiko.",
+    "115": "Mialà amiko ianareo mpanao ratsy, fa hitandrina ny didin' Andriamanitro aho.",
+    "116": "Tohàno aho araka ny teninao, mba ho velona, ary aoka tsy ho menatra amin' ny fanantenako aho.",
+    "117": "Tohàno aho mba ho voavonjy, ka ho faly hijery ny didinao mandrakariva.",
+    "118": "Ataonao tsinontsinona izay rehetra mania amin' ny didinao; fa famitahan-tena ihany ny laingany.",
+    "119": "Arianao tahaka ny tain-drendrika ny ratsy fanahy rehetra amin' ny tany; izany no itiavako ny teni-vavolombelonao.",
+    "120": "Mipararetra ny nofoko noho ny fahatahorana anao, ary matahotra ny fitsaranao aho.",
+    "121": "[AINA.]  Nanaraka ny fitsarana sy fahamarinana aho; aza manolotra ahy ho amin' ny mpampahory ahy.",
+    "122": "Meteza ho Mpiantoka ny mpanomponao amin' izay hahasoa azy; aza avela hampahory ahy ny mpirehareha.",
+    "123": "Pahina ny masoko miandry ny famonjenao sy ny tenin' ny fahamarinanao.",
+    "124": "Manaova amin' ny mpanomponao araka ny famindramponao; ary ampianaro ahy ny didinao.",
+    "125": "Mpanomponao aho, omeo fahalalana aho, mba ho fantatro ny teni-vavolombelonao.",
+    "126": "Andro hiasanao izao, Jehovah ô, fa manao tsinontsinona ny lalànao ny olona.",
+    "127": "Izany no itiavako ny didinao noho ny volamena eny, noho ny volamena tsara.",
+    "128": "Izany no hiheverako ny fitsipikao rehetra ho marina amin' ny zavatra rehetra; ary halako ny lalan-diso rehetra.",
+    "129": "[PE.]  Mahagaga ny teni-vavolombelonao, ka dia mitandrina azy ny fanahiko.",
+    "130": "Mitondra fahazavana ny fidiran' ny teninao; manome fahalalana ny kely saina izany.",
+    "131": "Nitanatana vava aho ka nihanahana, satria ny didinao no niriko fatratra.",
+    "132": "Todiho aho ka mamindrà fo amiko, araka ny tokony ho anjaran' izay tia ny anaranao.",
+    "133": "Ampioreno amin' ny teninao ny diako, ary aza avela hisy hanapaka ahy ny faharatsiana.",
+    "134": "Afaho amin' ny fampahorian' ny olona aho, dia hitandrina ny fitsipikao.",
+    "135": "Ampamirapirato amin' ny mpanomponao ny tavanao; ary ampianaro ahy ny didinao.",
+    "136": "Rano mandriaka no mijononoka amin' ny masoko noho ny tsy fitandreman' ny olona ny lalànao.",
+    "137": "[TSADE.]  Marina Ianao, Jehovah ô, ary mahitsy ny fitsaranao.",
+    "138": "Efa voadidinao amin' ny fahamarinana sy ny fahatokiana indrindra ny teni-vavolombelonao.",
+    "139": "Naharìtra aina ahy ny zotom-poko, satria nanadino ny teninao ny fahavaloko.",
+    "140": "Tena madio ny teninao, ka dia tian' ny mpanomponao izany.",
+    "141": "Kely sy atao tsinontsinona aho; nefa tsy hadinoiko ny fitsipikao.",
+    "142": "Ny fahamarinanao dia fahamarinana mandrakizay, ary ny lalànao no fahamarinana.",
+    "143": "Fahoriana sy fanahiana no mahazo ahy; nefa ny didinao no firavoravoako.",
+    "144": "Ny fahamarinan' ny teni-vavolombelonao dia mandrakizay; omeo fahalalana aho dia ho velona.",
+    "145": "[KOFA.]  Tamin' ny foko rehetra no nitarainako; henoy aho, Jehovah ô; ny lalànao no hotandremako.",
+    "146": "Nitaraina taminao aho: Vonjeo aho, dia hitandrina ny teni-vavolombelonao.",
+    "147": "Raha tsy mbola nazava ratsy ny andro, dia nitaraina aho; ny teninao no antenaiko.",
+    "148": "Nialoha ny fiambenana amin' ny alina ny masoko, mba hisaintsainako ny teninao.",
+    "149": "Henoy ny feoko araka ny indrafonao, Jehovah ô, velomy aho araka ny fitsaranao.",
+    "150": "Efa manakaiky izay fatra-panaraka ny ratsy; lavitra ny lalànao ireny.",
+    "151": "Akaiky Ianao, Jehovah ô, ary fahamarinana ny didinao rehetra.",
+    "152": "Efa fantatro ela ny amin' ny teni-vavolombelonao, fa nampitoerinao ho mandrakizay ireny.",
+    "153": "[RESY.]  Jereo ny fahoriako, ka afaho aho, fa ny lalànao tsy mba hadinoiko.",
+    "154": "Soloy vava aho, ka vonjeo; velomy aho araka ny teninao.",
+    "155": "Lavitra ny ratsy fanahy ny famonjena, satria ny didinao tsy tadiaviny.",
+    "156": "Lehibe ny antranao, Jehovah ô; velomy aho araka ny fitsaranao.",
+    "157": "Maro ny mpanenjika ahy sy ny fahavaloko, nefa tsy mba miala amin' ny teni-vavolombelonao aho.",
+    "158": "Nijery ny mpandika lalàna aho, dia nalahelo; satria tsy nitandrina ny teninao izy ireny.",
+    "159": "Endrey manao ahoana ny fitiavako ny fitsipikao; velomy aho, Jehovah ô, araka ny antranao.",
+    "160": "Ny teninao dia marina hatrany am-piandohana, ary ny fitsaranao marina rehetra dia maharitra mandrakizay.",
+    "161": "[SINA.]  Nanenjika ahy tsy ahoan-tsy ahoana ny mpanapaka; nefa ny teninao no atahoran' ny foko.",
+    "162": "Iravoravoako ny teninao, tahaka ny mahazo babo be.",
+    "163": "Halako sady tsy tiako ny lainga; fa ny lalànao no tiako.",
+    "164": "Impito isan' andro no iderako anao, noho ny fitsaranao marina.",
+    "165": "Be fiadanana izay tia ny lalànao, ary tsy hisy hahatafintohina azy.",
+    "166": "Jehovah ô, efa niandry ny famonjenao aho, ary nanatanteraka ny didinao.",
+    "167": "Nitandrina ny teni-vavolombelonao ny fanahiko; ary tiako indrindra ireny.",
+    "168": "Nitandrina ny fitsipikao sy ny teni-vavolombelonao aho; fa ny lalako rehetra dia eo anatrehanao.",
+    "169": "[TAO.]  Aoka ho tonga eo anatrehanao ny fitarainako Jehovah ô; omeo fahalalana aho araka ny teninao.",
+    "170": "Aoka ho tonga eo anatrehanao ny fifonako; afaho aho araka ny teninao.",
+    "171": "Hiboiboika fiderana ny molotro, rehefa ampianarinao ny lalànao aho.",
+    "172": "Hilaza ny teninao ny lelako, fa ny didinao rehetra dia ny fahamarinana.",
+    "173": "Aoka hamonjy ahy ny tananao, fa efa nifidy ny fitsipikao aho.",
+    "174": "Efa manina ny famonjenao aho, Jehovah ô; ary ny lalànao no firavoravoako.",
+    "175": "Aoka ho velona ny fanahiko, dia hidera Anao izy, ary aoka hamonjy ahy ny fitsaranao.",
+    "176": "Efa nania tahaka ny ondry aho, tadiavo ny mpanomponao; fa ny didinao tsy mba hadinoiko."
+  }
 }

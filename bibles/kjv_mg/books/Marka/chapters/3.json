@@ -1,145 +1,41 @@
 {
+  "book": "Marka",
   "chapter": 3,
-  "verses": [
-    {
-      "v": 1,
-      "text": "ARY niditra tao amin' ny synagoga indray Jesosy: ary nisy lehilahy anankiray nikaikon-tanana teo."
-    },
-    {
-      "v": 2,
-      "text": "Ary nizaha taratra Azy ny olona na hahasitrana io amin’ny andro sabata Izy na tsia, mba hiampangany Azy."
-    },
-    {
-      "v": 3,
-      "text": "Dia hoy Jesosy tamin’ilay lehilahy nikainkon-tanan'ila: mitsangàna etsy afovoany."
-    },
-    {
-      "v": 4,
-      "text": "Ary hoy koa Izy tamin’ny olona: Inona moa no mety hatao amin’ny andro sabata, ny manao soa va, sa ny manao ratsy, ny mamonjy aina va, sa ny mahafaty? Fa tsy nety niteny ny olona."
-    },
-    {
-      "v": 5,
-      "text": "Ary nony nijerijery azy tamin’ny fahatezerana Izy sady nalahelo noho ny hamafin’ny fony, dia hoy Izy tamin-dralehilahy: Ahinjiro ny tananao. Dia nahinjiny ny tanany, ka sitrana ho toy ny tanany ilany."
-    },
-    {
-      "v": 6,
-      "text": "Ary lasa nivoaka ny Fariseo, ka niaraka tamin’izay dia niray tetika tamin’ny Herodiana izy hanohitra an’i Jesosy mba hamongorany Azy."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary Jesosy mbamin’ny mpianany niala teo ka nankany amin’ny ranomasina; ary nisy olona maro avy tany Galilia nanaraka Azy, ary koa avy any Jodia,\""
-    },
-    {
-      "v": 8,
-      "text": "Sy Jerosalema sy Edoma sy tany an-dafin’i Jordana ary ireo avy tamin' ny tany manodidina an’i Tyro sy Sidona rehefa nandre izay zava-dehibe nataony, dia nankeo aminy."
-    },
-    {
-      "v": 9,
-      "text": "Ary nilaza tamin’ny mpianany Izy mba hanisy sambokely hiandry Azy noho ny habetsahan’ny vahoaka, fandrao mifanety Aminy ireo."
-    },
-    {
-      "v": 10,
-      "text": "Fa efa nahasitrana olona maro Izy, ka dia nifanety taminy mba hanendry Azy izay rehetra nanana areti-mandoza."
-    },
-    {
-      "v": 11,
-      "text": "Ary ny fanahy maloto, raha nahita Azy, dia niankohoka teo anatrehany ka niantso hoe: Ianao no Zanak’Andriamanitra."
-    },
-    {
-      "v": 12,
-      "text": "Ary nandrara azy mafy Izy tsy hanao izay hahafantarana Azy."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary niakatra teo an-tendrombohitra Jesosy ka niantso izay tiany hankeo aminy; dia nankeo aminy ireo.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary nanendry roa ambin’ny folo lahy Izy ho ao aminy sy hirahiny hitoriteny,"
-    },
-    {
-      "v": 15,
-      "text": "Sady hanana fahefana hanasitrana ny aretina ary hamoaka devoly."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary Simona dia nomeny anarana hafa koa hoe: Petera;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary Jakoba, zanak’i Zebedio sy Jaona, rahalahin’i Jakoba; izy mirahalahy dia nomeny anarana hafa koa hoe Boanerjesy, izany hoe Zana-baratra;\""
-    },
-    {
-      "v": 18,
-      "text": "Ary Andrea sy Filipo sy Bartolomeo sy Matio sy Tomasy sy Jakoba, zanak’i Alfeo, sy Tadeo sy Simona Kananeana,"
-    },
-    {
-      "v": 19,
-      "text": "Ary Jodasy Iskariota, ilay namadika Azy. Ary niditra tao an-trano ireo."
-    },
-    {
-      "v": 20,
-      "text": "Dia niangona indray ny vahoaka, ka dia tsy afaka nihinan-kanina akory ireo."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary ny sakaizany, raha nandre izany, dia nivoaka hihazona Azy; fa hoy ireo: Efa very saina Izy.\""
-    },
-    {
-      "v": 22,
-      "text": "Ary ny mpanoradalàna izay nidina avy tany Jerosalema dia nanao hoe: Manana an’i Belzeboba Izy, sy hoe: ny lohan’ny devoly no amoahany ny devoly."
-    },
-    {
-      "v": 23,
-      "text": "Ary rehefa niantso ireo hankeo aminy Izy, dia nanao fanoharana taminy hoe: Hataon’i Satana ahoana no famoaka an’i Satana?"
-    },
-    {
-      "v": 24,
-      "text": "Fa raha misy fanjakana miady an-trano, dia tsy haharitra izany fanjakana izany."
-    },
-    {
-      "v": 25,
-      "text": "Ary raha misy mpiray trano miady an-trano, dia tsy haharitra izany mpiray trano izany."
-    },
-    {
-      "v": 26,
-      "text": "Ary raha Satana no mitsangana hanohitra ny tenany ka miady an-trano, dia tsy haharitra izy, fa ho rava ny heriny."
-    },
-    {
-      "v": 27,
-      "text": "Kanefa tsy misy olona afaka hiditra ao an-tranon’ny mahery ka handroba ny entany, raha tsy afatony aloha ilay mahery, dia vao robainy ny ao an-tranony."
-    },
-    {
-      "v": 28,
-      "text": "\"Lazaiko aminareo marina tokoa: Hahazo famelan-keloka ny zanak’olombelona amin’ny ota rehetra sy ny blasfemia rehetra izay ataony;\""
-    },
-    {
-      "v": 29,
-      "text": "\"Fa izay manao blasfemia ny Fanahy Masina kosa dia tsy mahazo famelan-keloka mihitsy, fa tandindomin' ny lozan' ny fanamelohana mandrakizay;\""
-    },
-    {
-      "v": 30,
-      "text": "Satria ny olona nanao hoe: Azom-panahy maloto Izy."
-    },
-    {
-      "v": 31,
-      "text": "Ary avy ny reniny mbamin’ny rahalahiny ka nijanona teo alatrano, dia naniraka tao aminy hiantso Azy."
-    },
-    {
-      "v": 32,
-      "text": "Ary ny vahoaka nipetraka nanodidina Azy ka nanao taminy hoe: Indreo, ato alatrano ny reninao sy ny rahalahinao mitady Anao."
-    },
-    {
-      "v": 33,
-      "text": "Ary Izy namaly azy ka nanao hoe: Iza no reniko sy rahalahiko?"
-    },
-    {
-      "v": 34,
-      "text": "Ary nony nijery izay nipetraka nanodidina Azy Izy, dia hoy Izy: Indreo ny reniko sy ny rahalahiko!"
-    },
-    {
-      "v": 35,
-      "text": "Fa na iza na iza no manao ny sitrapon’Andriamanitra, dia izy no rahalahiko sy anabaviko ary reniko."
-    }
-  ]
+  "verses": {
+    "1": "ARY niditra tao amin' ny synagoga indray Jesosy: ary nisy lehilahy anankiray nikaikon-tanana teo.",
+    "2": "Ary nizaha taratra Azy ny olona na hahasitrana io amin’ny andro sabata Izy na tsia, mba hiampangany Azy.",
+    "3": "Dia hoy Jesosy tamin’ilay lehilahy nikainkon-tanan'ila: mitsangàna etsy afovoany.",
+    "4": "Ary hoy koa Izy tamin’ny olona: Inona moa no mety hatao amin’ny andro sabata, ny manao soa va, sa ny manao ratsy, ny mamonjy aina va, sa ny mahafaty? Fa tsy nety niteny ny olona.",
+    "5": "Ary nony nijerijery azy tamin’ny fahatezerana Izy sady nalahelo noho ny hamafin’ny fony, dia hoy Izy tamin-dralehilahy: Ahinjiro ny tananao. Dia nahinjiny ny tanany, ka sitrana ho toy ny tanany ilany.",
+    "6": "Ary lasa nivoaka ny Fariseo, ka niaraka tamin’izay dia niray tetika tamin’ny Herodiana izy hanohitra an’i Jesosy mba hamongorany Azy.",
+    "7": "Ary Jesosy mbamin’ny mpianany niala teo ka nankany amin’ny ranomasina; ary nisy olona maro avy tany Galilia nanaraka Azy, ary koa avy any Jodia,",
+    "8": "Sy Jerosalema sy Edoma sy tany an-dafin’i Jordana ary ireo avy tamin' ny tany manodidina an’i Tyro sy Sidona rehefa nandre izay zava-dehibe nataony, dia nankeo aminy.",
+    "9": "Ary nilaza tamin’ny mpianany Izy mba hanisy sambokely hiandry Azy noho ny habetsahan’ny vahoaka, fandrao mifanety Aminy ireo.",
+    "10": "Fa efa nahasitrana olona maro Izy, ka dia nifanety taminy mba hanendry Azy izay rehetra nanana areti-mandoza.",
+    "11": "Ary ny fanahy maloto, raha nahita Azy, dia niankohoka teo anatrehany ka niantso hoe: Ianao no Zanak’Andriamanitra.",
+    "12": "Ary nandrara azy mafy Izy tsy hanao izay hahafantarana Azy.",
+    "13": "Ary niakatra teo an-tendrombohitra Jesosy ka niantso izay tiany hankeo aminy; dia nankeo aminy ireo.",
+    "14": "Ary nanendry roa ambin’ny folo lahy Izy ho ao aminy sy hirahiny hitoriteny,",
+    "15": "Sady hanana fahefana hanasitrana ny aretina ary hamoaka devoly.",
+    "16": "Ary Simona dia nomeny anarana hafa koa hoe: Petera;",
+    "17": "Ary Jakoba, zanak’i Zebedio sy Jaona, rahalahin’i Jakoba; izy mirahalahy dia nomeny anarana hafa koa hoe Boanerjesy, izany hoe Zana-baratra;",
+    "18": "Ary Andrea sy Filipo sy Bartolomeo sy Matio sy Tomasy sy Jakoba, zanak’i Alfeo, sy Tadeo sy Simona Kananeana,",
+    "19": "Ary Jodasy Iskariota, ilay namadika Azy. Ary niditra tao an-trano ireo.",
+    "20": "Dia niangona indray ny vahoaka, ka dia tsy afaka nihinan-kanina akory ireo.",
+    "21": "Ary ny sakaizany, raha nandre izany, dia nivoaka hihazona Azy; fa hoy ireo: Efa very saina Izy.",
+    "22": "Ary ny mpanoradalàna izay nidina avy tany Jerosalema dia nanao hoe: Manana an’i Belzeboba Izy, sy hoe: ny lohan’ny devoly no amoahany ny devoly.",
+    "23": "Ary rehefa niantso ireo hankeo aminy Izy, dia nanao fanoharana taminy hoe: Hataon’i Satana ahoana no famoaka an’i Satana?",
+    "24": "Fa raha misy fanjakana miady an-trano, dia tsy haharitra izany fanjakana izany.",
+    "25": "Ary raha misy mpiray trano miady an-trano, dia tsy haharitra izany mpiray trano izany.",
+    "26": "Ary raha Satana no mitsangana hanohitra ny tenany ka miady an-trano, dia tsy haharitra izy, fa ho rava ny heriny.",
+    "27": "Kanefa tsy misy olona afaka hiditra ao an-tranon’ny mahery ka handroba ny entany, raha tsy afatony aloha ilay mahery, dia vao robainy ny ao an-tranony.",
+    "28": "Lazaiko aminareo marina tokoa: Hahazo famelan-keloka ny zanak’olombelona amin’ny ota rehetra sy ny blasfemia rehetra izay ataony;",
+    "29": "Fa izay manao blasfemia ny Fanahy Masina kosa dia tsy mahazo famelan-keloka mihitsy, fa tandindomin' ny lozan' ny fanamelohana mandrakizay;",
+    "30": "Satria ny olona nanao hoe: Azom-panahy maloto Izy.",
+    "31": "Ary avy ny reniny mbamin’ny rahalahiny ka nijanona teo alatrano, dia naniraka tao aminy hiantso Azy.",
+    "32": "Ary ny vahoaka nipetraka nanodidina Azy ka nanao taminy hoe: Indreo, ato alatrano ny reninao sy ny rahalahinao mitady Anao.",
+    "33": "Ary Izy namaly azy ka nanao hoe: Iza no reniko sy rahalahiko?",
+    "34": "Ary nony nijery izay nipetraka nanodidina Azy Izy, dia hoy Izy: Indreo ny reniko sy ny rahalahiko!",
+    "35": "Fa na iza na iza no manao ny sitrapon’Andriamanitra, dia izy no rahalahiko sy anabaviko ary reniko."
+  }
 }

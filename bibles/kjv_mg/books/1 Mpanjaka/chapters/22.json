@@ -1,217 +1,59 @@
 {
+  "book": "1 Mpanjaka",
   "chapter": 22,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nandry fahizay ny Syriana sy ny Isiraely telo taona, fa tsy niady."
-    },
-    {
-      "v": 2,
-      "text": "Ary izao no niseho, tamin' ny taona fahatelo dia nidina Josafata, mpanjakan' ny Joda, ho any amin' ny mpanjakan' ny Isiraely."
-    },
-    {
-      "v": 3,
-      "text": "Ary hoy ny mpanjakan' ny Isiraely tamin' ny mpanompony: Moa fantatrareo va fa antsika Ramota-gileada, nefa isika mitoetra foana ka tsy maka azy amin' ny tanan' ny mpanjakan' i Syria?"
-    },
-    {
-      "v": 4,
-      "text": "Ary hoy koa izy tamin' i Josafata: Mba hiaraka amiko hiady an' i Ramota-gileada va ianao? Dia hoy Josafata tamin' ny mpanjakan' ny Isiraely: Tahaka ny tenanao ihany aho, ary ny oloko dia olonao ary ny soavaliko dia soavalinao."
-    },
-    {
-      "v": 5,
-      "text": "Ary hoy Josafata tamin' ny mpanjakan' ny Isiraely: Masìna ianao, anontanio ny tenin' i Jehovah anio."
-    },
-    {
-      "v": 6,
-      "text": "Ary ny mpanjakan' ny Isiraely dia nanangona ny mpaminany tokony ho efajato lahy ka nanao taminy hoe: Handeha hanafika an' i Ramota-gileada va aho, sa hijanona ihany? Dia hoy ireo: Mandehana, fa hatolotry ny Tompo eo an-tananao izy, ry mpanjaka."
-    },
-    {
-      "v": 7,
-      "text": "Ary hoy kosa Josafata: Moa tsy misy mpaminanin' i Jehovah koa va eto mba hanontaniantsika?"
-    },
-    {
-      "v": 8,
-      "text": "Dia hoy ny mpanjakan' ny Isiraely tamin' i Josafata: Mbola misy lehilahy iray ihany, dia Mikaia, zanak' i Jimla, izay ahazoantsika manontany amin' i Jehovah, saingy halako izy, satria tsy mba maminany soa ho ahy izy, fa loza ihany. Dia hoy Josafata: Aza manao izany, ry mpanjaka."
-    },
-    {
-      "v": 9,
-      "text": "Ary ny mpanjakan' ny Isiraely niantso ny manamboninahitra iray ka nanao taminy hoe: Alao faingana Mikaia, zanak' i Jimla."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary ny mpanjakan' ny Isiraely sy Josafata, mpanjakan' ny Joda, samy nipetraka teo amin' ny sezafiandrianany ao amin' ny fitoerana malalaka amin' ny fidirana ny vavahadin' i Samaria sady samy efa nanao ny fiakanjoany avy; ary ny mpaminany rehetra naminany teo anatrehany.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary Zedekia, zanak' i Kenana, dia nanao tandro-by ka nanao hoe: Izao no lazain' i Jehovah: Ireto no hanotoanao ny Syriana mandra-pandringanao azy."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary ny mpaminany rehetra naminany toy izany koa hoe: Mandehana any Ramota-gileada, dia hambinina ianao; fa Jehovah hanolotra azy eo an-tanan' ny mpanjaka.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ilay iraka izay nandeha niantso an' i Mikaia niteny taminy hoe: Indro ankehitriny, iray teny ireo mpaminany milaza soa ho an' ny mpanjaka; masìna ianao, aoka re mba ho tahaka ny tenin' ny anankiray amin' ireny ny teninao ka mba mitenena izay soa.\""
-    },
-    {
-      "v": 14,
-      "text": "Ary hoy Mikaia: Raha velona koa Jehovah, dia izay lazain' i Jehovah amiko ihany no hambarako."
-    },
-    {
-      "v": 15,
-      "text": "Dia nankany amin' ny mpanjaka izy. Ary hoy ny mpanjaka taminy: Ry Mikaia, handeha hanafika an' i Ramota-gileada va isika sa hijanona? Ary izy namaly azy hoe: Mandehana fa hambinina ianao, fa hatolotr' i Jehovah eo an-tanan' ny mpanjaka izy."
-    },
-    {
-      "v": 16,
-      "text": "Ary hoy ny mpanjaka taminy: Impiry no hampianianako anao mba tsy hilaza na inona na inona amiko amin' ny anaran' i Jehovah afa-tsy izay marina ihany?"
-    },
-    {
-      "v": 17,
-      "text": "Dia hoy Mikaia: Hitako fa indreny ny Isiraely rehetra niely teny amin' ny havoana toy ny ondry tsy misy mpiandry, ary hoy Jehovah: Ireto dia tsy manan-tompo, aoka izy samy hody soa aman-tsara any an-tranony avy."
-    },
-    {
-      "v": 18,
-      "text": "Dia hoy ny mpanjakan' ny Isiraely tamin' i Josafata: Tsy efa voalazako taminao va fa tsy mba mety maminany soa ho ahy izy, fa loza ihany?"
-    },
-    {
-      "v": 19,
-      "text": "Ary hoy Mikaia: Henoy àry ny tenin' i Jehovah: Nahita an' i Jehovah nipetraka teo amin' ny sezafiandrianany aho, ary ireo marobe rehetra any an-danitra nitsangana teo an-daniny avy, dia teo amin' ny ankavanany sy teo amin' ny ankaviany."
-    },
-    {
-      "v": 20,
-      "text": "Ary hoy Jehovah: Iza no hitaona an' i Ahaba handeha ho any Ramota-gileada ka ho lavo any? Ary ny anankiray niteny toy izao, ary ny anankiray kosa niteny toy izao."
-    },
-    {
-      "v": 21,
-      "text": "Dia nandroso ny fanahy ka nitsangana teo anatrehan' i Jehovah ary nanao hoe: Izaho no hitaona azy."
-    },
-    {
-      "v": 22,
-      "text": "Ary hoy Jehovah taminy: Amin' inona anefa? Dia hoy izy: Hivoaka aho ka ho tonga fanahy mandainga eo am-bavan' ny mpaminaniny rehetra.Dia hoy indray Jehovah: Ho voataonanao ihany izy, ka ho resinao koa, mivoaha àry, ka ataovy izany."
-    },
-    {
-      "v": 23,
-      "text": "Koa, indro, Jehovah efa nanisy fanahy mandainga eo am-bavan' ireo mpaminaninao rehetra ireo, ary Jehovah dia efa nilaza ny loza hanjo anao."
-    },
-    {
-      "v": 24,
-      "text": "Fa Zedekia, zanak' i Kenana, nanatona, dia namely ny takolak' i Mikaia sady nanao hoe: Taiza no nialan' ny Fanahin' i Jehovah tamiko hiteny aminao?"
-    },
-    {
-      "v": 25,
-      "text": "Dia hoy Mikaia: Indro, ho hitanao amin' izany andro izany, rehefa hiditra ao amin' ny efitrano anatiny hiery ianao."
-    },
-    {
-      "v": 26,
-      "text": "Dia hoy ny mpanjakan' ny Isiraely: Raiso Mikaia, ka ento miverina izy ho any amin' i Amnona, governoran' ny tanàna, sy ho any amin' i Joasy, zanaky ny mpanjaka,"
-    },
-    {
-      "v": 27,
-      "text": "Ka lazao hoe: Izao no lazain' ny mpanjaka: Ataovy ao an-tranomaizina ity lehilahy ity, ka fahano mofom-pahoriana sy ranom-pahoriana mandra-piveriko soa aman-tsara."
-    },
-    {
-      "v": 28,
-      "text": "Fa hoy Mikaia: Raha tàhiny ho tafaverina soa aman-tsara ianao dia tsy nampitenenin' i Jehovah aho tsy akory. Ary hoy koa izy: Samia mihaino ianareo ry firenena rehetra."
-    },
-    {
-      "v": 29,
-      "text": "Dia niakatra nankany Ramota-gileada ny mpanjakan' ny Isiraely sy Josafata, mpanjakan' ny Joda."
-    },
-    {
-      "v": 30,
-      "text": "Ary hoy ny mpanjakan' ny Isiraely tamin' i Josafata: Hody olon-kafa aho ka hitsarapaka any anatin' ny ady, fa ianao kosa dia miakanjoa ny akanjonao ihany. Dia nody olon-kafa ny mpanjakan' ny Isiraely ka nitsarapaka tany anatin' ny ady."
-    },
-    {
-      "v": 31,
-      "text": "Fa ny mpanjakan' i Syria efa nandidy ny roa amby telopolo lahy, komandin' ny kalesiny, nanao hoe: Aza miady na amin' ny kely na amin' ny lehibe, afa-tsy amin' ny mpanjakan' ny Isiraely ihany."
-    },
-    {
-      "v": 32,
-      "text": "Ary izao no niseho, nony nahita an' i Josafata ireo komandin' ny kalesy, dia hoy izy: Iny mihitsy no mpanjakan' ny Isiraely. Dia nanatrika hiady taminy ireo, ka dia niantsoantso i Josafata."
-    },
-    {
-      "v": 33,
-      "text": "Ary izao no niseho, rehefa hitan' ireo komandin' ny kalesy, fa tsy ny mpanjakan' ny Isiraely izy, dia niverina tsy nanenjika azy izy."
-    },
-    {
-      "v": 34,
-      "text": "\"Ary nisy lehilahy anankiray nandefa zana-tsipìka kitoatoa ka nahavoa ny mpanjakan' ny Isiraely teo anelanelan' ny fiarovan-tratrany; ka dia hoy izy tamin' ny mpitondra ny kalesiny: Ahodino, ka ento miala amin' ny ady aho, fa maratra.\""
-    },
-    {
-      "v": 35,
-      "text": "\"Ary nihamafy ny ady tamin' izany andro izany; ary ny mpanjaka notohanana hitsangana teo amin' ny kalesiny tandrifin' ny Syriana, ary dia maty izy nony efa harivariva ny andro, ary ny rà nandeha avy teo amin' ny ratra ho ao anatin' ny kalesy.\""
-    },
-    {
-      "v": 36,
-      "text": "Ary nony efa hilentika ny masoandro, dia niely eran' ny toby rehetra izao antsoantso izao hoe: Samia mody any an-tanànany avy sy any amin' ny taniny avy!"
-    },
-    {
-      "v": 37,
-      "text": "\"Dia maty ny mpanjaka, ka nentina tany Samaria; dia nalevina tany Samaria ny mpanjaka.\""
-    },
-    {
-      "v": 38,
-      "text": "\"Ary nosasana tao am-parihin' i Samaria ny kalesy ary avy ny alika nileleka ny rany, ary ny olona nanasa ny fiadiany; araka ny tenin' i Jehovah izay nolazainy.\""
-    },
-    {
-      "v": 39,
-      "text": "Ary ny asan' i Ahaba sisa mbamin' izay rehetra nataony, sy ny trano ivory izay nataony sy ny tanàna rehetra izay naoriny, tsy efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Isiraely va izany?"
-    },
-    {
-      "v": 40,
-      "text": "\"Ary Ahaba lasa nodimandry any amin' ny razany; ary Ahazia zanany no nanjaka nandimby azy.\""
-    },
-    {
-      "v": 41,
-      "text": "Ary Josafata, zanak' i Asa, dia nanomboka nanjaka tamin' ny Joda tamin' ny taona fahefatra nanjakan' i Ahaba, mpanjakan' ny Isiraely."
-    },
-    {
-      "v": 42,
-      "text": "Dimy amby telopolo taona Josafata, fony izy vao nanjaka, ary dimy amby roapolo taona no nanjakany tany Jerosalema. Ary ny anaran-dreniny dia Azoba, zanakavavin' i Sily."
-    },
-    {
-      "v": 43,
-      "text": "\"Ary nandeha tamin' ny lalana rehetra izay nalehan' i Asa rainy izy ka tsy niala tamin' izany, fa nanao izay mahitsy teo imason' i Jehovah; kanefa kosa ny fitoerana avo tsy mba noravana, fa ny olona mbola nanao fanatitra sy mbola nandoro ditin-kazo manitra teny amin' ny fitoerana avo ihany.\""
-    },
-    {
-      "v": 44,
-      "text": "Ary Josafata nanao fihavanana tamin' ny mpanjakan' ny Isiraely."
-    },
-    {
-      "v": 45,
-      "text": "Ary ny asan' i Josafata sisa sy ny heriny izay nasehony, mbamin' ny niadiany, tsy efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Joda va?"
-    },
-    {
-      "v": 46,
-      "text": "Ary ny sisa tamin' ny sodomita, izay tafajanona tamin' ny andron' i Asa rainy, dia nofongorany hiala tamin' ny tany."
-    },
-    {
-      "v": 47,
-      "text": "Ary tsy nisy mpanjaka tany Edoma fahizay fa olom-boafidim-bahoaka no nanjaka."
-    },
-    {
-      "v": 48,
-      "text": "\"Ary Josafata nanao sambon' i Tarsisy hakany Ofira haka volamena; nefa tsy lasa ireo sambo ireo fa nahavakisana tao Ezion-gebera.\""
-    },
-    {
-      "v": 49,
-      "text": "Dia hoy Ahazia, zanak' i Ahaba, tamin' i Josafata: Aoka ny mpanompoko handeha hiaraka amin' ny mpanomponao any an-tsambo. Fa tsy nety Josafata."
-    },
-    {
-      "v": 50,
-      "text": "\"Ary JosafatA lasa nodimandry any amin' ny razany, dia nalevina tao amin' ny razany tao an-Tanànan' i Davida rainy izy; ary Jehorama zanany no nanjaka nandimby azy.\""
-    },
-    {
-      "v": 51,
-      "text": "\"Nanomboka nanjaka tamin' ny Isiraely tao Samaria i Ahazia, zanak' i Ahaba tamin' ny taona fahafito ambin' ny folo nanjakan' i Josafata, mpanjakan' ny Joda; ary nanjaka roa taona tamin' ny Isiraely izy.\""
-    },
-    {
-      "v": 52,
-      "text": "Ary nanao izay ratsy teo imason' i Jehovah izy, fa nandeha tamin' ny lalan' ny rainy sy ny lalan' ny reniny ary tamin' ny lalan' i Jeroboama, zanak' i Nebata, izay nampanota ny Isiraely."
-    },
-    {
-      "v": 53,
-      "text": "Fa nanompo an' i Bala izy, dia niankohoka teo anatrehany ka nampahatezitra an' i Jehovah, Andriamanitry ny Isiraely, tahaka izay rehetra efa nataon-drainy."
-    }
-  ]
+  "verses": {
+    "1": "Ary nandry fahizay ny Syriana sy ny Isiraely telo taona, fa tsy niady.",
+    "2": "Ary izao no niseho, tamin' ny taona fahatelo dia nidina Josafata, mpanjakan' ny Joda, ho any amin' ny mpanjakan' ny Isiraely.",
+    "3": "Ary hoy ny mpanjakan' ny Isiraely tamin' ny mpanompony: Moa fantatrareo va fa antsika Ramota-gileada, nefa isika mitoetra foana ka tsy maka azy amin' ny tanan' ny mpanjakan' i Syria?",
+    "4": "Ary hoy koa izy tamin' i Josafata: Mba hiaraka amiko hiady an' i Ramota-gileada va ianao? Dia hoy Josafata tamin' ny mpanjakan' ny Isiraely: Tahaka ny tenanao ihany aho, ary ny oloko dia olonao ary ny soavaliko dia soavalinao.",
+    "5": "Ary hoy Josafata tamin' ny mpanjakan' ny Isiraely: Masìna ianao, anontanio ny tenin' i Jehovah anio.",
+    "6": "Ary ny mpanjakan' ny Isiraely dia nanangona ny mpaminany tokony ho efajato lahy ka nanao taminy hoe: Handeha hanafika an' i Ramota-gileada va aho, sa hijanona ihany? Dia hoy ireo: Mandehana, fa hatolotry ny Tompo eo an-tananao izy, ry mpanjaka.",
+    "7": "Ary hoy kosa Josafata: Moa tsy misy mpaminanin' i Jehovah koa va eto mba hanontaniantsika?",
+    "8": "Dia hoy ny mpanjakan' ny Isiraely tamin' i Josafata: Mbola misy lehilahy iray ihany, dia Mikaia, zanak' i Jimla, izay ahazoantsika manontany amin' i Jehovah, saingy halako izy, satria tsy mba maminany soa ho ahy izy, fa loza ihany. Dia hoy Josafata: Aza manao izany, ry mpanjaka.",
+    "9": "Ary ny mpanjakan' ny Isiraely niantso ny manamboninahitra iray ka nanao taminy hoe: Alao faingana Mikaia, zanak' i Jimla.",
+    "10": "Ary ny mpanjakan' ny Isiraely sy Josafata, mpanjakan' ny Joda, samy nipetraka teo amin' ny sezafiandrianany ao amin' ny fitoerana malalaka amin' ny fidirana ny vavahadin' i Samaria sady samy efa nanao ny fiakanjoany avy; ary ny mpaminany rehetra naminany teo anatrehany.",
+    "11": "Ary Zedekia, zanak' i Kenana, dia nanao tandro-by ka nanao hoe: Izao no lazain' i Jehovah: Ireto no hanotoanao ny Syriana mandra-pandringanao azy.",
+    "12": "Ary ny mpaminany rehetra naminany toy izany koa hoe: Mandehana any Ramota-gileada, dia hambinina ianao; fa Jehovah hanolotra azy eo an-tanan' ny mpanjaka.",
+    "13": "Ary ilay iraka izay nandeha niantso an' i Mikaia niteny taminy hoe: Indro ankehitriny, iray teny ireo mpaminany milaza soa ho an' ny mpanjaka; masìna ianao, aoka re mba ho tahaka ny tenin' ny anankiray amin' ireny ny teninao ka mba mitenena izay soa.",
+    "14": "Ary hoy Mikaia: Raha velona koa Jehovah, dia izay lazain' i Jehovah amiko ihany no hambarako.",
+    "15": "Dia nankany amin' ny mpanjaka izy. Ary hoy ny mpanjaka taminy: Ry Mikaia, handeha hanafika an' i Ramota-gileada va isika sa hijanona? Ary izy namaly azy hoe: Mandehana fa hambinina ianao, fa hatolotr' i Jehovah eo an-tanan' ny mpanjaka izy.",
+    "16": "Ary hoy ny mpanjaka taminy: Impiry no hampianianako anao mba tsy hilaza na inona na inona amiko amin' ny anaran' i Jehovah afa-tsy izay marina ihany?",
+    "17": "Dia hoy Mikaia: Hitako fa indreny ny Isiraely rehetra niely teny amin' ny havoana toy ny ondry tsy misy mpiandry, ary hoy Jehovah: Ireto dia tsy manan-tompo, aoka izy samy hody soa aman-tsara any an-tranony avy.",
+    "18": "Dia hoy ny mpanjakan' ny Isiraely tamin' i Josafata: Tsy efa voalazako taminao va fa tsy mba mety maminany soa ho ahy izy, fa loza ihany?",
+    "19": "Ary hoy Mikaia: Henoy àry ny tenin' i Jehovah: Nahita an' i Jehovah nipetraka teo amin' ny sezafiandrianany aho, ary ireo marobe rehetra any an-danitra nitsangana teo an-daniny avy, dia teo amin' ny ankavanany sy teo amin' ny ankaviany.",
+    "20": "Ary hoy Jehovah: Iza no hitaona an' i Ahaba handeha ho any Ramota-gileada ka ho lavo any? Ary ny anankiray niteny toy izao, ary ny anankiray kosa niteny toy izao.",
+    "21": "Dia nandroso ny fanahy ka nitsangana teo anatrehan' i Jehovah ary nanao hoe: Izaho no hitaona azy.",
+    "22": "Ary hoy Jehovah taminy: Amin' inona anefa? Dia hoy izy: Hivoaka aho ka ho tonga fanahy mandainga eo am-bavan' ny mpaminaniny rehetra.Dia hoy indray Jehovah: Ho voataonanao ihany izy, ka ho resinao koa, mivoaha àry, ka ataovy izany.",
+    "23": "Koa, indro, Jehovah efa nanisy fanahy mandainga eo am-bavan' ireo mpaminaninao rehetra ireo, ary Jehovah dia efa nilaza ny loza hanjo anao.",
+    "24": "Fa Zedekia, zanak' i Kenana, nanatona, dia namely ny takolak' i Mikaia sady nanao hoe: Taiza no nialan' ny Fanahin' i Jehovah tamiko hiteny aminao?",
+    "25": "Dia hoy Mikaia: Indro, ho hitanao amin' izany andro izany, rehefa hiditra ao amin' ny efitrano anatiny hiery ianao.",
+    "26": "Dia hoy ny mpanjakan' ny Isiraely: Raiso Mikaia, ka ento miverina izy ho any amin' i Amnona, governoran' ny tanàna, sy ho any amin' i Joasy, zanaky ny mpanjaka,",
+    "27": "Ka lazao hoe: Izao no lazain' ny mpanjaka: Ataovy ao an-tranomaizina ity lehilahy ity, ka fahano mofom-pahoriana sy ranom-pahoriana mandra-piveriko soa aman-tsara.",
+    "28": "Fa hoy Mikaia: Raha tàhiny ho tafaverina soa aman-tsara ianao dia tsy nampitenenin' i Jehovah aho tsy akory. Ary hoy koa izy: Samia mihaino ianareo ry firenena rehetra.",
+    "29": "Dia niakatra nankany Ramota-gileada ny mpanjakan' ny Isiraely sy Josafata, mpanjakan' ny Joda.",
+    "30": "Ary hoy ny mpanjakan' ny Isiraely tamin' i Josafata: Hody olon-kafa aho ka hitsarapaka any anatin' ny ady, fa ianao kosa dia miakanjoa ny akanjonao ihany. Dia nody olon-kafa ny mpanjakan' ny Isiraely ka nitsarapaka tany anatin' ny ady.",
+    "31": "Fa ny mpanjakan' i Syria efa nandidy ny roa amby telopolo lahy, komandin' ny kalesiny, nanao hoe: Aza miady na amin' ny kely na amin' ny lehibe, afa-tsy amin' ny mpanjakan' ny Isiraely ihany.",
+    "32": "Ary izao no niseho, nony nahita an' i Josafata ireo komandin' ny kalesy, dia hoy izy: Iny mihitsy no mpanjakan' ny Isiraely. Dia nanatrika hiady taminy ireo, ka dia niantsoantso i Josafata.",
+    "33": "Ary izao no niseho, rehefa hitan' ireo komandin' ny kalesy, fa tsy ny mpanjakan' ny Isiraely izy, dia niverina tsy nanenjika azy izy.",
+    "34": "Ary nisy lehilahy anankiray nandefa zana-tsipìka kitoatoa ka nahavoa ny mpanjakan' ny Isiraely teo anelanelan' ny fiarovan-tratrany; ka dia hoy izy tamin' ny mpitondra ny kalesiny: Ahodino, ka ento miala amin' ny ady aho, fa maratra.",
+    "35": "Ary nihamafy ny ady tamin' izany andro izany; ary ny mpanjaka notohanana hitsangana teo amin' ny kalesiny tandrifin' ny Syriana, ary dia maty izy nony efa harivariva ny andro, ary ny rà nandeha avy teo amin' ny ratra ho ao anatin' ny kalesy.",
+    "36": "Ary nony efa hilentika ny masoandro, dia niely eran' ny toby rehetra izao antsoantso izao hoe: Samia mody any an-tanànany avy sy any amin' ny taniny avy!",
+    "37": "Dia maty ny mpanjaka, ka nentina tany Samaria; dia nalevina tany Samaria ny mpanjaka.",
+    "38": "Ary nosasana tao am-parihin' i Samaria ny kalesy ary avy ny alika nileleka ny rany, ary ny olona nanasa ny fiadiany; araka ny tenin' i Jehovah izay nolazainy.",
+    "39": "Ary ny asan' i Ahaba sisa mbamin' izay rehetra nataony, sy ny trano ivory izay nataony sy ny tanàna rehetra izay naoriny, tsy efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Isiraely va izany?",
+    "40": "Ary Ahaba lasa nodimandry any amin' ny razany; ary Ahazia zanany no nanjaka nandimby azy.",
+    "41": "Ary Josafata, zanak' i Asa, dia nanomboka nanjaka tamin' ny Joda tamin' ny taona fahefatra nanjakan' i Ahaba, mpanjakan' ny Isiraely.",
+    "42": "Dimy amby telopolo taona Josafata, fony izy vao nanjaka, ary dimy amby roapolo taona no nanjakany tany Jerosalema. Ary ny anaran-dreniny dia Azoba, zanakavavin' i Sily.",
+    "43": "Ary nandeha tamin' ny lalana rehetra izay nalehan' i Asa rainy izy ka tsy niala tamin' izany, fa nanao izay mahitsy teo imason' i Jehovah; kanefa kosa ny fitoerana avo tsy mba noravana, fa ny olona mbola nanao fanatitra sy mbola nandoro ditin-kazo manitra teny amin' ny fitoerana avo ihany.",
+    "44": "Ary Josafata nanao fihavanana tamin' ny mpanjakan' ny Isiraely.",
+    "45": "Ary ny asan' i Josafata sisa sy ny heriny izay nasehony, mbamin' ny niadiany, tsy efa voasoratra ao amin' ny bokin' ny tantaran' ny mpanjakan' ny Joda va?",
+    "46": "Ary ny sisa tamin' ny sodomita, izay tafajanona tamin' ny andron' i Asa rainy, dia nofongorany hiala tamin' ny tany.",
+    "47": "Ary tsy nisy mpanjaka tany Edoma fahizay fa olom-boafidim-bahoaka no nanjaka.",
+    "48": "Ary Josafata nanao sambon' i Tarsisy hakany Ofira haka volamena; nefa tsy lasa ireo sambo ireo fa nahavakisana tao Ezion-gebera.",
+    "49": "Dia hoy Ahazia, zanak' i Ahaba, tamin' i Josafata: Aoka ny mpanompoko handeha hiaraka amin' ny mpanomponao any an-tsambo. Fa tsy nety Josafata.",
+    "50": "Ary JosafatA lasa nodimandry any amin' ny razany, dia nalevina tao amin' ny razany tao an-Tanànan' i Davida rainy izy; ary Jehorama zanany no nanjaka nandimby azy.",
+    "51": "Nanomboka nanjaka tamin' ny Isiraely tao Samaria i Ahazia, zanak' i Ahaba tamin' ny taona fahafito ambin' ny folo nanjakan' i Josafata, mpanjakan' ny Joda; ary nanjaka roa taona tamin' ny Isiraely izy.",
+    "52": "Ary nanao izay ratsy teo imason' i Jehovah izy, fa nandeha tamin' ny lalan' ny rainy sy ny lalan' ny reniny ary tamin' ny lalan' i Jeroboama, zanak' i Nebata, izay nampanota ny Isiraely.",
+    "53": "Fa nanompo an' i Bala izy, dia niankohoka teo anatrehany ka nampahatezitra an' i Jehovah, Andriamanitry ny Isiraely, tahaka izay rehetra efa nataon-drainy."
+  }
 }

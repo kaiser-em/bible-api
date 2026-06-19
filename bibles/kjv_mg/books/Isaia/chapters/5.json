@@ -1,125 +1,36 @@
 {
+  "book": "Isaia",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Aoka aho hihira ho an' ny malalako indrindra, dia hiran' ny Malalako ny amin' ny tanimboalobony. Ny Malalako indrindra dia nanana tanimboaloboka tao an-kavoana tena lonaka;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Dia nofefeny io, ka nesoriny ny vato, ary novoleny karazam-boaloboka tsara, sady nanao tilikambo teo afovoany Izy ary nandavaka famiazam-boaloboka teo; dia nanantena azy hamoa voaloboka tsara Izy kanjo namoa voalobo-dratsy.\""
-    },
-    {
-      "v": 3,
-      "text": "Koa noho izany, ry mponina any Jerosalema sy ry lehilahy amin' ny Joda, masìna ianareo, tsarao Aho sy ny tanimboaloboko."
-    },
-    {
-      "v": 4,
-      "text": "Inona moa no mbola azo natao tamin' ny tanimboaloboko, ka tsy nataoko taminy? Koa raha nanantena azy hamoa voaloboka tsara aho, nahoana no namoa voalobo-dratsy izy?"
-    },
-    {
-      "v": 5,
-      "text": "\"Koa noho izany dia aoka hambarako anareo izay hataoko amin' ny tanimboaloboko: Hoesoriko ny fefy tsilony, ka dia holevonina izy; ary harodako ny fefy vatony, ka ho voahitsakitsaka izy;\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary hataoko simba dia simba izy; tsy hohetezana ny sakeli-boalobony, ary tsy hohevoina izy, fa ho rakotry ny hery sy ny tsilo; ary hodidiako ny rahona tsy hampilatsaka ranonorana aminy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Fa ny taranak' Isiraely no tanimboalobok' i Jehovah, Tompon' ny maro, ary ny lehilahy amin' ny Joda no voliny mahafinaritra; dia nanantena fitsarana marina Izy, kanjo, indro, fampahoriana; niandry fahamarinana Izy, kanjo, indro, fitarainana.\""
-    },
-    {
-      "v": 8,
-      "text": "Loza ho an' izay mangorona trano lalandava sady mampiharo vala sy saha amin' ny saha ambara-paha-tsy hisy toerana intsony, ka ho tafatoetra manirery eo afovoan' ny tany ireo."
-    },
-    {
-      "v": 9,
-      "text": "Izao no ren' ny sofiko avy amin' i Jehovah Tompon' ny maro: Marina tokoa fa ho foana ny trano maro, ka na dia izay lehibe sady tsara aza dia tsy hisy mpitoetra."
-    },
-    {
-      "v": 10,
-      "text": "Ary bata iray monja no ho vokatry ny tanimboaloboka folo akera, ary efaha iray monja no ho vokatry ny voan-javatra eran' ny homera."
-    },
-    {
-      "v": 11,
-      "text": "Loza ho an' izay mifoha maraina koa ka mitady toaka! Izay miboboka mandra-paharivan' ny andro ka ampirehetin' ny divay!"
-    },
-    {
-      "v": 12,
-      "text": "\"Ary ny harpa sy ny valiha, ny ampongatapaka sy ny sodina ary ny divay no ao amin' ny fanasany; fa ny asan' i Jehovah tsy mba jereny, ary ny ataon' ny tanany tsy mba dinihiny.\""
-    },
-    {
-      "v": 13,
-      "text": "Noho izany dia lasan-ko babo ny oloko satria tsy manam-pahalalana izy, ary ny olona manankajany dia mosarena, ary ny valalabemandriny dia mainan' ny hetaheta."
-    },
-    {
-      "v": 14,
-      "text": "\"Koa izany no mampitatra ny helo sy mampitanatana vava azy; ka ny voninahitr' ireo sy ny fihahohahony sy ny tabatabany mbamin' izay mifalifaly dia hivarina any.\""
-    },
-    {
-      "v": 15,
-      "text": "Ny olona ambany dia hatao mitanondrika, ary ny olo-mahery dia haetry ary ny mason' ny miandranandrana dia haidina."
-    },
-    {
-      "v": 16,
-      "text": "Fa Jehovah, Tompon' ny maro, no hisandratra amin' ny fitsarana, ary Andriamanitra masina dia hiseho ho masina amin' ny fahamarinana."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ny zanak' ondry hikanja toy ny eny amin' ny tany fiandrasana azy ihany; ary ny tany foana izay nipetrahan' ny matavy, vahiny no hihinana ao.\""
-    },
-    {
-      "v": 18,
-      "text": "Loza ho an' izay mitari-keloka amin' ny kofehin' ny faharatsiana ary mitarika ota toy ny amin' ny mahazakan-tsarety,"
-    },
-    {
-      "v": 19,
-      "text": "Dia izay manao hoe: aoka hohafainganiny sy hododonany ny asany, mba ho hitantsika, ary aoka izay kasain' ny Iray Masin' ny Isiraely ho mby akaiky ka ho tanteraka, mba ho fantatsika!"
-    },
-    {
-      "v": 20,
-      "text": "Loza ho an' izay milaza ny ratsy ho tsara ary ny tsara ho ratsy! izay manao ny maizina ho mazava ary ny mazava ho maizina! izay manao ny mangidy ho mamy ary ny mamy ho mangidy!"
-    },
-    {
-      "v": 21,
-      "text": "Loza ho an' izay manao azy ho hendry sy manao azy ho mahira-tsaina!"
-    },
-    {
-      "v": 22,
-      "text": "\"Loza ho an' izay fatratra amin' ny fisotroan-divay sy mahery amin' ny fampiharoharoana toaka;\""
-    },
-    {
-      "v": 23,
-      "text": "Ka manamarina ny meloka noho ny kolikoly sy manala ny rariny tsy ho amin' ny marina!"
-    },
-    {
-      "v": 24,
-      "text": "Koa toy ny fandevonan' ny afo ny mololo sy fandanian' ny lelafo ny bozaka, dia toy izany no hahalovan' ny fakany sy hijofoan' ny voniny hanjary vovoka, satria efa nandà ny lalàn' i Jehovah, Tompon' ny maro izy sy nanamavo ny tenin' ny Iray Masin' ny Isiraely."
-    },
-    {
-      "v": 25,
-      "text": "\"Koa izany no irehetan' ny fahatezeran' i Jehovah amin' ny olony sy aninjirany ny tanany aminy ka amelezany azy; dia mihorohoro ny havoana, ary ny fatin' ny olona dia voaviravira eo afovoan' ny lalambe. Kanefa na dia izany rehetra izany aza, dia tsy mbola afaka ihany ny fahatezerany, fa mbola mihinjitra ihany ny tanany.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary hanangana faneva ho an' ny firenena lavitra Izy sady hisiaka ireo avy any am-paran' ny tany, ary, indro, ho avy faingana dia faingana ireo."
-    },
-    {
-      "v": 27,
-      "text": "\"Tsy hisy reraka, na tafintohina ao aminy; tsy ho rendrehana na hatory izy; tsy hiboraka ny fehikibony, ary tsy ho tapaka ny fehi-kapany ;\""
-    },
-    {
-      "v": 28,
-      "text": "\"Maranitra ny zana-tsipìkany, ary voahenjana avokoa ny tsipìkany; ny kitron-tsoavaliny atao ho tahaka ny afo-vato; ary ny kodiany ho tahaka ny tadio;\""
-    },
-    {
-      "v": 29,
-      "text": "Ny fierony dia ho tahaka ny fieron' ny liona, ary hierona tahaka ny liona tanora izy, eny hanerona izy ka handrapaka ny toha, dia ho lasany soa aman-tsara izany, ka tsy hisy hahafaka izany."
-    },
-    {
-      "v": 30,
-      "text": "\"Ary hirohondrohona aminy amin' izany andro izany izy tahaka ny firohondrohon' ny ranomasina; ary raha mijery ny tany ny olona, dia indro haizina sy fahoriana; ary ny fahazavana dia hohamaizinina eny amin' ny lanitra.\""
-    }
-  ]
+  "verses": {
+    "1": "Aoka aho hihira ho an' ny malalako indrindra, dia hiran' ny Malalako ny amin' ny tanimboalobony. Ny Malalako indrindra dia nanana tanimboaloboka tao an-kavoana tena lonaka;",
+    "2": "Dia nofefeny io, ka nesoriny ny vato, ary novoleny karazam-boaloboka tsara, sady nanao tilikambo teo afovoany Izy ary nandavaka famiazam-boaloboka teo; dia nanantena azy hamoa voaloboka tsara Izy kanjo namoa voalobo-dratsy.",
+    "3": "Koa noho izany, ry mponina any Jerosalema sy ry lehilahy amin' ny Joda, masìna ianareo, tsarao Aho sy ny tanimboaloboko.",
+    "4": "Inona moa no mbola azo natao tamin' ny tanimboaloboko, ka tsy nataoko taminy? Koa raha nanantena azy hamoa voaloboka tsara aho, nahoana no namoa voalobo-dratsy izy?",
+    "5": "Koa noho izany dia aoka hambarako anareo izay hataoko amin' ny tanimboaloboko: Hoesoriko ny fefy tsilony, ka dia holevonina izy; ary harodako ny fefy vatony, ka ho voahitsakitsaka izy;",
+    "6": "Ary hataoko simba dia simba izy; tsy hohetezana ny sakeli-boalobony, ary tsy hohevoina izy, fa ho rakotry ny hery sy ny tsilo; ary hodidiako ny rahona tsy hampilatsaka ranonorana aminy.",
+    "7": "Fa ny taranak' Isiraely no tanimboalobok' i Jehovah, Tompon' ny maro, ary ny lehilahy amin' ny Joda no voliny mahafinaritra; dia nanantena fitsarana marina Izy, kanjo, indro, fampahoriana; niandry fahamarinana Izy, kanjo, indro, fitarainana.",
+    "8": "Loza ho an' izay mangorona trano lalandava sady mampiharo vala sy saha amin' ny saha ambara-paha-tsy hisy toerana intsony, ka ho tafatoetra manirery eo afovoan' ny tany ireo.",
+    "9": "Izao no ren' ny sofiko avy amin' i Jehovah Tompon' ny maro: Marina tokoa fa ho foana ny trano maro, ka na dia izay lehibe sady tsara aza dia tsy hisy mpitoetra.",
+    "10": "Ary bata iray monja no ho vokatry ny tanimboaloboka folo akera, ary efaha iray monja no ho vokatry ny voan-javatra eran' ny homera.",
+    "11": "Loza ho an' izay mifoha maraina koa ka mitady toaka! Izay miboboka mandra-paharivan' ny andro ka ampirehetin' ny divay!",
+    "12": "Ary ny harpa sy ny valiha, ny ampongatapaka sy ny sodina ary ny divay no ao amin' ny fanasany; fa ny asan' i Jehovah tsy mba jereny, ary ny ataon' ny tanany tsy mba dinihiny.",
+    "13": "Noho izany dia lasan-ko babo ny oloko satria tsy manam-pahalalana izy, ary ny olona manankajany dia mosarena, ary ny valalabemandriny dia mainan' ny hetaheta.",
+    "14": "Koa izany no mampitatra ny helo sy mampitanatana vava azy; ka ny voninahitr' ireo sy ny fihahohahony sy ny tabatabany mbamin' izay mifalifaly dia hivarina any.",
+    "15": "Ny olona ambany dia hatao mitanondrika, ary ny olo-mahery dia haetry ary ny mason' ny miandranandrana dia haidina.",
+    "16": "Fa Jehovah, Tompon' ny maro, no hisandratra amin' ny fitsarana, ary Andriamanitra masina dia hiseho ho masina amin' ny fahamarinana.",
+    "17": "Ary ny zanak' ondry hikanja toy ny eny amin' ny tany fiandrasana azy ihany; ary ny tany foana izay nipetrahan' ny matavy, vahiny no hihinana ao.",
+    "18": "Loza ho an' izay mitari-keloka amin' ny kofehin' ny faharatsiana ary mitarika ota toy ny amin' ny mahazakan-tsarety,",
+    "19": "Dia izay manao hoe: aoka hohafainganiny sy hododonany ny asany, mba ho hitantsika, ary aoka izay kasain' ny Iray Masin' ny Isiraely ho mby akaiky ka ho tanteraka, mba ho fantatsika!",
+    "20": "Loza ho an' izay milaza ny ratsy ho tsara ary ny tsara ho ratsy! izay manao ny maizina ho mazava ary ny mazava ho maizina! izay manao ny mangidy ho mamy ary ny mamy ho mangidy!",
+    "21": "Loza ho an' izay manao azy ho hendry sy manao azy ho mahira-tsaina!",
+    "22": "Loza ho an' izay fatratra amin' ny fisotroan-divay sy mahery amin' ny fampiharoharoana toaka;",
+    "23": "Ka manamarina ny meloka noho ny kolikoly sy manala ny rariny tsy ho amin' ny marina!",
+    "24": "Koa toy ny fandevonan' ny afo ny mololo sy fandanian' ny lelafo ny bozaka, dia toy izany no hahalovan' ny fakany sy hijofoan' ny voniny hanjary vovoka, satria efa nandà ny lalàn' i Jehovah, Tompon' ny maro izy sy nanamavo ny tenin' ny Iray Masin' ny Isiraely.",
+    "25": "Koa izany no irehetan' ny fahatezeran' i Jehovah amin' ny olony sy aninjirany ny tanany aminy ka amelezany azy; dia mihorohoro ny havoana, ary ny fatin' ny olona dia voaviravira eo afovoan' ny lalambe. Kanefa na dia izany rehetra izany aza, dia tsy mbola afaka ihany ny fahatezerany, fa mbola mihinjitra ihany ny tanany.",
+    "26": "Ary hanangana faneva ho an' ny firenena lavitra Izy sady hisiaka ireo avy any am-paran' ny tany, ary, indro, ho avy faingana dia faingana ireo.",
+    "27": "Tsy hisy reraka, na tafintohina ao aminy; tsy ho rendrehana na hatory izy; tsy hiboraka ny fehikibony, ary tsy ho tapaka ny fehi-kapany ;",
+    "28": "Maranitra ny zana-tsipìkany, ary voahenjana avokoa ny tsipìkany; ny kitron-tsoavaliny atao ho tahaka ny afo-vato; ary ny kodiany ho tahaka ny tadio;",
+    "29": "Ny fierony dia ho tahaka ny fieron' ny liona, ary hierona tahaka ny liona tanora izy, eny hanerona izy ka handrapaka ny toha, dia ho lasany soa aman-tsara izany, ka tsy hisy hahafaka izany.",
+    "30": "Ary hirohondrohona aminy amin' izany andro izany izy tahaka ny firohondrohon' ny ranomasina; ary raha mijery ny tany ny olona, dia indro haizina sy fahoriana; ary ny fahazavana dia hohamaizinina eny amin' ny lanitra."
+  }
 }

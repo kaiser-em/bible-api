@@ -1,49 +1,17 @@
 {
+  "book": "Nehemia",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ny tenin' i Nehemia, zanak' i Hakalia. Ary izao no niseho, tamin' ny volana Kisleo tamin' ny taona faharoapolo, raha tany an-dapa any Sosana aho,"
-    },
-    {
-      "v": 2,
-      "text": "\"Dia tonga Hanany, anankiray amin' ny rahalahiko, dia izy mbamin' ny lehilahy sasany avy tamin' ny Joda; ary nanontany azy aho mikasika ny Jiosy efa afaka, izay sisa tamin' ny fahababoana sy ny mikasika an' i Jerosalema.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ka hoy ny navaliny ahy: Ny sisa tamin' ny fahababoana izay any amin' ny tany any dia mitondra fahoriana be sy latsa; ary voarodana koa ny mandan' i Jerosalema sady nodoran' ny afo ny vavahadiny.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary izao no niseho, rehefa nandre izany teny izany aho, dia nipetraka nitomany sady nisaona andro maro, ary nifady hanina sy nivavaka teo anatrehan' Andriamanitry ny lanitra,"
-    },
-    {
-      "v": 5,
-      "text": "Ka nanao hoe: mifona aminao aho, ry Jehovah Andriamanitry ny lanitra ô, Ilay Andriamanitra lehibe sy mahatahotra, izay mitandrina fanekena sy famindrampo amin' izay tia Azy ary mitandrina ny didiny,"
-    },
-    {
-      "v": 6,
-      "text": "\"Aoka hihaino ny sofinao ary hihiratra ny masonao, mba hohenoinao ny vavaky ny mpanomponao, izay ataoko eto anatrehanao ankehitriny, andro aman' alina ho an' ny Zanak' Isiraely mpanomponao sy izay anekeko ny fahotan' ny Zanak' Isiraely, izay efa nanotanay taminao; fa izaho sy ny mpianakavin' ny raiko dia samy efa nanota avokoa.\""
-    },
-    {
-      "v": 7,
-      "text": "Efa nanao izay ratsy indrindra taminao izahay ka tsy nitandrina ny didy, na ny lalàna, na ny fitsipika, izay nandidianao an' i Mosesy mpanomponao."
-    },
-    {
-      "v": 8,
-      "text": "\"Mifona aminao aho, tsarovy ny teny izay nandidianao an' i Mosesy mpanomponao manao hoe: Raha mandika ny lalàna ianareo, dia hampiely anareo any ivelany any amin' ny firenena maro Aho;\""
-    },
-    {
-      "v": 9,
-      "text": "Nefa raha miverina amiko kosa ianareo ka mitandrina ny didiko sy manao izany, na dia nisy voaroaka hatrany am-para-vodilanitra aza ianareo, dia avy any no hanangonako azy ka hoentiko ho eo amin' ny fitoerana izay nofidiko hampitoerako ny anarako izy."
-    },
-    {
-      "v": 10,
-      "text": "Ary ireo dia mpanomponao sy olonao, izay navotanao tamin' ny herinao lehibe sy ny tananao mahery."
-    },
-    {
-      "v": 11,
-      "text": "\"Jehovah ô, mifona aminao aho, aoka ny sofinao hihaino ny fivavaky ny mpanomponao sy ny fivavak' ireo mpanomponao izay faly amin' ny fahatahorana ny anaranao; ary mifona aminao aho, ambino ny mpanomponao anio, ary aoka hahazo famindrampo eo imason' io lehilahy io aho. Fa mpitondra kapoaky ny mpanjaka aho.\""
-    }
-  ]
+  "verses": {
+    "1": "Ny tenin' i Nehemia, zanak' i Hakalia. Ary izao no niseho, tamin' ny volana Kisleo tamin' ny taona faharoapolo, raha tany an-dapa any Sosana aho,",
+    "2": "Dia tonga Hanany, anankiray amin' ny rahalahiko, dia izy mbamin' ny lehilahy sasany avy tamin' ny Joda; ary nanontany azy aho mikasika ny Jiosy efa afaka, izay sisa tamin' ny fahababoana sy ny mikasika an' i Jerosalema.",
+    "3": "Ka hoy ny navaliny ahy: Ny sisa tamin' ny fahababoana izay any amin' ny tany any dia mitondra fahoriana be sy latsa; ary voarodana koa ny mandan' i Jerosalema sady nodoran' ny afo ny vavahadiny.",
+    "4": "Ary izao no niseho, rehefa nandre izany teny izany aho, dia nipetraka nitomany sady nisaona andro maro, ary nifady hanina sy nivavaka teo anatrehan' Andriamanitry ny lanitra,",
+    "5": "Ka nanao hoe: mifona aminao aho, ry Jehovah Andriamanitry ny lanitra ô, Ilay Andriamanitra lehibe sy mahatahotra, izay mitandrina fanekena sy famindrampo amin' izay tia Azy ary mitandrina ny didiny,",
+    "6": "Aoka hihaino ny sofinao ary hihiratra ny masonao, mba hohenoinao ny vavaky ny mpanomponao, izay ataoko eto anatrehanao ankehitriny, andro aman' alina ho an' ny Zanak' Isiraely mpanomponao sy izay anekeko ny fahotan' ny Zanak' Isiraely, izay efa nanotanay taminao; fa izaho sy ny mpianakavin' ny raiko dia samy efa nanota avokoa.",
+    "7": "Efa nanao izay ratsy indrindra taminao izahay ka tsy nitandrina ny didy, na ny lalàna, na ny fitsipika, izay nandidianao an' i Mosesy mpanomponao.",
+    "8": "Mifona aminao aho, tsarovy ny teny izay nandidianao an' i Mosesy mpanomponao manao hoe: Raha mandika ny lalàna ianareo, dia hampiely anareo any ivelany any amin' ny firenena maro Aho;",
+    "9": "Nefa raha miverina amiko kosa ianareo ka mitandrina ny didiko sy manao izany, na dia nisy voaroaka hatrany am-para-vodilanitra aza ianareo, dia avy any no hanangonako azy ka hoentiko ho eo amin' ny fitoerana izay nofidiko hampitoerako ny anarako izy.",
+    "10": "Ary ireo dia mpanomponao sy olonao, izay navotanao tamin' ny herinao lehibe sy ny tananao mahery.",
+    "11": "Jehovah ô, mifona aminao aho, aoka ny sofinao hihaino ny fivavaky ny mpanomponao sy ny fivavak' ireo mpanomponao izay faly amin' ny fahatahorana ny anaranao; ary mifona aminao aho, ambino ny mpanomponao anio, ary aoka hahazo famindrampo eo imason' io lehilahy io aho. Fa mpitondra kapoaky ny mpanjaka aho."
+  }
 }

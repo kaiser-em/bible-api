@@ -1,73 +1,23 @@
 {
+  "book": "Isaia",
   "chapter": 54,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Mihobia, ry momba, ianao izay tsy niteraka, eny, velomy ny hoby, ka manandrata feo, ianao izay tsy mba nihetsi-jaza; fa ny zanaky ny mpitondratena dia maro noho ny zanaky ny manan-bady, hoy Jehovah.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Halalaho ny itoeran' ny lainao, ary aoka hohenjanina ny ambain-dainao, ka aza avela hisy hiketrona; halavao ny kofehinao ary aoreno mafy ny tsima-dainao;\""
-    },
-    {
-      "v": 3,
-      "text": "Fa hitatra any amin' ny ankavanana sy any amin' ny ankavia ianao, ary ny taranakao hahazo ny jentilisa, ka dia hasiany mponina ny tanàna lao."
-    },
-    {
-      "v": 4,
-      "text": "\"Aza matahotra, fa tsy ho menatra ianao; ary aza mangaihay fa tsy havela ho afa-baraka ianao; fa ho hadinonao ny henatry ny fahatanoranao, ary tsy ho tsaroanao intsony ny tondromasonao fony mpitondratena.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Fa ny Mpanao anao no Vadinao, Jehovah, Tompon' ny maro, no anarany; ary ny Iray Masin' ny isiraely no Mpanavotra anao, Andriamanitry ny tany rehetra no iantsoana Azy.\""
-    },
-    {
-      "v": 6,
-      "text": "Fa Jehovah efa niantso anao izay tahaka ny vady efa nafoy sy ory am-panahy, ary tahaka ny vadin' ny fahatanorana fa efa napetraka, hoy Andriamanitrao."
-    },
-    {
-      "v": 7,
-      "text": "\"Indray mipì-maso monja no nahafoizako anao; fa amin' ny indrafo lehibe kosa no hampodiako anao.\""
-    },
-    {
-      "v": 8,
-      "text": "Tamin' ny fahatezerana kely no nanafenako ny tavako taminao indray mipì-maso monja fa amin' ny fahatsaram-panahy mandrakizay kosa no hamindrako fo aminao, hoy Jehovah Mpanavotra anao."
-    },
-    {
-      "v": 9,
-      "text": "Fa amiko izany dia tahaka ilay ranon' i Noa, ka toy ny nianianako fa tsy hanafotra ny tany intsony ilay ranon' i Noa, dia toy izany no ianianako fa tsy ho tezitra aminao na hiteny mafy anao intsony Aho."
-    },
-    {
-      "v": 10,
-      "text": "Fa na dia hifindra aza ny tendrombohitra, ary na dia hihetsika aza ny havoana, tsy mba hiala aminao ny fahatsaram-panahiko, ary tsy hitsoaka ny faneken' ny fihavanako, hoy Jehovah Mpamindra fo aminao."
-    },
-    {
-      "v": 11,
-      "text": "Ianao, ry ory izay afotofoton' ny tafio-drivotra sady tsy manana fampiononana, indro, izaho handatsaka ny vatonao amin' ny antimony sy hanorina ny fanambaninao amin' ny safira,"
-    },
-    {
-      "v": 12,
-      "text": "Ary hataoko agata ny varavarankelinao, sy karbonkolo ny vavahadinao, ary vatosoa avokoa ny fari-taninao manodidina."
-    },
-    {
-      "v": 13,
-      "text": "Ary ny zanakao rehetra dia ho samy efa nampianarin' i Jehovah, ka dia ho be ny fiadanan' ny zanakao."
-    },
-    {
-      "v": 14,
-      "text": "\"Amin' ny fahamarinana no hampiorenana anao; ho lavitra ny fampahoriana ianao fa tsy hatahotra, ary ny fampahatahorana fa tsy hanakaiky anao izany.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Indro, hiara-mioko tokoa izy, nefa tsy avy amiko izany; ary na iza na iza miara-mioko hamely anao dia ho lavo noho ny aminao.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Indro, Izaho no nahary ny mpanefy izay mifofotra ny afo amin' ny arina ka mahavita fiasàna hanaovany ny asany; ary Izaho koa no nahary ny mpandringana mba handringana.\""
-    },
-    {
-      "v": 17,
-      "text": "Ny fiadiana rehetra izay voaforona hamelezana anao dia tsy hisy hambinina, ary ny lela rehetra izay hiady aminao eo amin' ny fitsarana dia horesenao lahatra. Izany no lovan' ny mpanompon' i Jehovah sy fahamarinany avy amiko, hoy Jehovah."
-    }
-  ]
+  "verses": {
+    "1": "Mihobia, ry momba, ianao izay tsy niteraka, eny, velomy ny hoby, ka manandrata feo, ianao izay tsy mba nihetsi-jaza; fa ny zanaky ny mpitondratena dia maro noho ny zanaky ny manan-bady, hoy Jehovah.",
+    "2": "Halalaho ny itoeran' ny lainao, ary aoka hohenjanina ny ambain-dainao, ka aza avela hisy hiketrona; halavao ny kofehinao ary aoreno mafy ny tsima-dainao;",
+    "3": "Fa hitatra any amin' ny ankavanana sy any amin' ny ankavia ianao, ary ny taranakao hahazo ny jentilisa, ka dia hasiany mponina ny tanàna lao.",
+    "4": "Aza matahotra, fa tsy ho menatra ianao; ary aza mangaihay fa tsy havela ho afa-baraka ianao; fa ho hadinonao ny henatry ny fahatanoranao, ary tsy ho tsaroanao intsony ny tondromasonao fony mpitondratena.",
+    "5": "Fa ny Mpanao anao no Vadinao, Jehovah, Tompon' ny maro, no anarany; ary ny Iray Masin' ny isiraely no Mpanavotra anao, Andriamanitry ny tany rehetra no iantsoana Azy.",
+    "6": "Fa Jehovah efa niantso anao izay tahaka ny vady efa nafoy sy ory am-panahy, ary tahaka ny vadin' ny fahatanorana fa efa napetraka, hoy Andriamanitrao.",
+    "7": "Indray mipì-maso monja no nahafoizako anao; fa amin' ny indrafo lehibe kosa no hampodiako anao.",
+    "8": "Tamin' ny fahatezerana kely no nanafenako ny tavako taminao indray mipì-maso monja fa amin' ny fahatsaram-panahy mandrakizay kosa no hamindrako fo aminao, hoy Jehovah Mpanavotra anao.",
+    "9": "Fa amiko izany dia tahaka ilay ranon' i Noa, ka toy ny nianianako fa tsy hanafotra ny tany intsony ilay ranon' i Noa, dia toy izany no ianianako fa tsy ho tezitra aminao na hiteny mafy anao intsony Aho.",
+    "10": "Fa na dia hifindra aza ny tendrombohitra, ary na dia hihetsika aza ny havoana, tsy mba hiala aminao ny fahatsaram-panahiko, ary tsy hitsoaka ny faneken' ny fihavanako, hoy Jehovah Mpamindra fo aminao.",
+    "11": "Ianao, ry ory izay afotofoton' ny tafio-drivotra sady tsy manana fampiononana, indro, izaho handatsaka ny vatonao amin' ny antimony sy hanorina ny fanambaninao amin' ny safira,",
+    "12": "Ary hataoko agata ny varavarankelinao, sy karbonkolo ny vavahadinao, ary vatosoa avokoa ny fari-taninao manodidina.",
+    "13": "Ary ny zanakao rehetra dia ho samy efa nampianarin' i Jehovah, ka dia ho be ny fiadanan' ny zanakao.",
+    "14": "Amin' ny fahamarinana no hampiorenana anao; ho lavitra ny fampahoriana ianao fa tsy hatahotra, ary ny fampahatahorana fa tsy hanakaiky anao izany.",
+    "15": "Indro, hiara-mioko tokoa izy, nefa tsy avy amiko izany; ary na iza na iza miara-mioko hamely anao dia ho lavo noho ny aminao.",
+    "16": "Indro, Izaho no nahary ny mpanefy izay mifofotra ny afo amin' ny arina ka mahavita fiasàna hanaovany ny asany; ary Izaho koa no nahary ny mpandringana mba handringana.",
+    "17": "Ny fiadiana rehetra izay voaforona hamelezana anao dia tsy hisy hambinina, ary ny lela rehetra izay hiady aminao eo amin' ny fitsarana dia horesenao lahatra. Izany no lovan' ny mpanompon' i Jehovah sy fahamarinany avy amiko, hoy Jehovah."
+  }
 }

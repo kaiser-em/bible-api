@@ -1,89 +1,27 @@
 {
+  "book": "Joba",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Dia namaly Elifaza Temanita ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Raha misy sahy miteny aminao, dia halahelo va ianao? Nefa iza no afaka mamehy ny tenany tsy hiteny?"
-    },
-    {
-      "v": 3,
-      "text": "\"Indro, efa nampianatra ny maro ianao, ary ny tanana miraviravy efa nampaherezinao;\""
-    },
-    {
-      "v": 4,
-      "text": "Ny teninao efa nanohana izay efa saiky lavo, ary ny lohalika malemy dia nampahatanjahinao."
-    },
-    {
-      "v": 5,
-      "text": "\"Nefa ankehitriny mba manjo anao kosa izany, ka dia kivy ianao; mihatra aminao izany, ka raiki-tahotra ianao.\""
-    },
-    {
-      "v": 6,
-      "text": "Tsy izao va no tahotrao, tokinao, fanantenanao sy fahitsian' ny lalanao?"
-    },
-    {
-      "v": 7,
-      "text": "Masìna ianao, tsarovy fa iza moa no very tsy nanan-tsiny? Ary taiza no nisy olo-marina naringana?"
-    },
-    {
-      "v": 8,
-      "text": "Araka izay efa hitako, dia izay miasa heloka sy mamafy faharatsiana no mijinja izany."
-    },
-    {
-      "v": 9,
-      "text": "Ny fofonain' Andriamanitra no andringanana azy, eny, ny fofonain' ny fahatezerany no mahalevona azy."
-    },
-    {
-      "v": 10,
-      "text": "\"Ny fieron' ny liona sy ny feon' ny liona masiaka ary ny nifin' ny liona tanora dia ombotana;\""
-    },
-    {
-      "v": 11,
-      "text": "Maty ny liona antitra noho ny tsy fahitana remby, ary miely ny zanaky ny liona matanjaka."
-    },
-    {
-      "v": 12,
-      "text": "Nisy teny tonga tamiko mangingina, ary ny sofiko nahare kely avy amin' izany."
-    },
-    {
-      "v": 13,
-      "text": "Tamin' ny eritreritra avy amin' ny fahitana amin' ny alina, raha sondrian-tory ny olona,"
-    },
-    {
-      "v": 14,
-      "text": "Dia azon-tahotra sy hovitra aho, izay nampihorohoro ny taolako rehetra."
-    },
-    {
-      "v": 15,
-      "text": "Ary nisy fanahy nandalo teo anatrehako ka nampitsangam-bolo ny tenako."
-    },
-    {
-      "v": 16,
-      "text": "\"Nijanona izy, nefa tsy nahafantatra izay bikany aho; nisy endri-javatra teo anoloan' ny masoko; nisy fahanginana, ary dia nandre feo aho nanao hoe:\""
-    },
-    {
-      "v": 17,
-      "text": "Ny olombelona mety maty va ho masina noho Andriamanitra? Ho madio noho ny Mpanao azy va ny olona?"
-    },
-    {
-      "v": 18,
-      "text": "\"Indro, tsy matoky ny mpanompony Izy; ary ny anjeliny aza nahitany fahadalana teo anatrehany;\""
-    },
-    {
-      "v": 19,
-      "text": "\"Koa mainka izay mitoetra ao an-trano tanimanga, izay ao amin' ny vovoka ny fanorenany ary torotoro noho ny kalalao izy;\""
-    },
-    {
-      "v": 20,
-      "text": "\"Ringana hatramin' ny maraina ka hatramin' ny hariva izy; levona mandrakizay ka tsy misy misaina izany.\""
-    },
-    {
-      "v": 21,
-      "text": "Tsy miala va ny voninahiny eo aminy? Maty tsy manam-pahendrena izy."
-    }
-  ]
+  "verses": {
+    "1": "Dia namaly Elifaza Temanita ka nanao hoe:",
+    "2": "Raha misy sahy miteny aminao, dia halahelo va ianao? Nefa iza no afaka mamehy ny tenany tsy hiteny?",
+    "3": "Indro, efa nampianatra ny maro ianao, ary ny tanana miraviravy efa nampaherezinao;",
+    "4": "Ny teninao efa nanohana izay efa saiky lavo, ary ny lohalika malemy dia nampahatanjahinao.",
+    "5": "Nefa ankehitriny mba manjo anao kosa izany, ka dia kivy ianao; mihatra aminao izany, ka raiki-tahotra ianao.",
+    "6": "Tsy izao va no tahotrao, tokinao, fanantenanao sy fahitsian' ny lalanao?",
+    "7": "Masìna ianao, tsarovy fa iza moa no very tsy nanan-tsiny? Ary taiza no nisy olo-marina naringana?",
+    "8": "Araka izay efa hitako, dia izay miasa heloka sy mamafy faharatsiana no mijinja izany.",
+    "9": "Ny fofonain' Andriamanitra no andringanana azy, eny, ny fofonain' ny fahatezerany no mahalevona azy.",
+    "10": "Ny fieron' ny liona sy ny feon' ny liona masiaka ary ny nifin' ny liona tanora dia ombotana;",
+    "11": "Maty ny liona antitra noho ny tsy fahitana remby, ary miely ny zanaky ny liona matanjaka.",
+    "12": "Nisy teny tonga tamiko mangingina, ary ny sofiko nahare kely avy amin' izany.",
+    "13": "Tamin' ny eritreritra avy amin' ny fahitana amin' ny alina, raha sondrian-tory ny olona,",
+    "14": "Dia azon-tahotra sy hovitra aho, izay nampihorohoro ny taolako rehetra.",
+    "15": "Ary nisy fanahy nandalo teo anatrehako ka nampitsangam-bolo ny tenako.",
+    "16": "Nijanona izy, nefa tsy nahafantatra izay bikany aho; nisy endri-javatra teo anoloan' ny masoko; nisy fahanginana, ary dia nandre feo aho nanao hoe:",
+    "17": "Ny olombelona mety maty va ho masina noho Andriamanitra? Ho madio noho ny Mpanao azy va ny olona?",
+    "18": "Indro, tsy matoky ny mpanompony Izy; ary ny anjeliny aza nahitany fahadalana teo anatrehany;",
+    "19": "Koa mainka izay mitoetra ao an-trano tanimanga, izay ao amin' ny vovoka ny fanorenany ary torotoro noho ny kalalao izy;",
+    "20": "Ringana hatramin' ny maraina ka hatramin' ny hariva izy; levona mandrakizay ka tsy misy misaina izany.",
+    "21": "Tsy miala va ny voninahiny eo aminy? Maty tsy manam-pahendrena izy."
+  }
 }

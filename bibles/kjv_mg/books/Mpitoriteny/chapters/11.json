@@ -1,45 +1,16 @@
 {
+  "book": "Mpitoriteny",
   "chapter": 11,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Atsipazo eny ambonin' ny rano ny haninao, fa ho hitanao ihany izy rehefa afaka andro maro."
-    },
-    {
-      "v": 2,
-      "text": "Samy omeo anjara ny fito, ary na dia ny valo aza, fa tsy fantatrao izay fahoriana hanjo aty ambonin' ny tany."
-    },
-    {
-      "v": 3,
-      "text": "\"Raha feno ranonorana ny rahona, dia halatsany amin' ny tany izany; ary na mianjera mianatsimo, na mianavaratra ny hazo, dia eo amin' izay hianjerany ihany no handriany.\""
-    },
-    {
-      "v": 4,
-      "text": "Izay mihevitra ny rivotra tsy hamafy ary izay mijery ny rahona tsy hijinja."
-    },
-    {
-      "v": 5,
-      "text": "Toy ny tsy ahafantaranao ny amin' ny lalan' ny fanahy, na ny amin' ny fitombon' ny taolana ao an-kibon' izay manana anaka, dia toy izany no tsy ahafantaranao ny asan' Andriamanitra izay manao ny zavatra rehetra."
-    },
-    {
-      "v": 6,
-      "text": "\"Amin' ny maraina dia afafazo ny voanao, ary amin' ny hariva dia aza atsahatra ny tananao: fa tsy fantatrao izay ho vanona; na ny taloha, na ny taoriana, na angamba samy ho vanona avokoa izy roroa.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Mamy tokoa ny mazava, ary mahafinaritra ny maso ny mijery ny masoandro;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Fa na dia ela velona aza ny olona, ka mifaly amin' izany rehetra izany, dia aoka ho tsaroany ny andro maizina; fa ho maro ireny. Izay rehetra ho avy dia zava-poana.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Mifalia, ry zatovo, amin' ny fahatanoranao; ary aoka ny fonao hampifalifaly anao amin' ny andron' ny fahatanoranao, ka mandehana any amin' izay sitraky ny fonao sy izay jeren' ny masonao; nefa aoka ho fantatrao fa hoentin' Andriamanitra hotsaraina ianao amin' izany rehetra izany.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Koa esory ao am-ponao ny alahelo, ary avilio tsy hikasika ny nofonao ny ratsy; fa ny fahazazana sy ny fahatanorana dia zava-poana.\""
-    }
-  ]
+  "verses": {
+    "1": "Atsipazo eny ambonin' ny rano ny haninao, fa ho hitanao ihany izy rehefa afaka andro maro.",
+    "2": "Samy omeo anjara ny fito, ary na dia ny valo aza, fa tsy fantatrao izay fahoriana hanjo aty ambonin' ny tany.",
+    "3": "Raha feno ranonorana ny rahona, dia halatsany amin' ny tany izany; ary na mianjera mianatsimo, na mianavaratra ny hazo, dia eo amin' izay hianjerany ihany no handriany.",
+    "4": "Izay mihevitra ny rivotra tsy hamafy ary izay mijery ny rahona tsy hijinja.",
+    "5": "Toy ny tsy ahafantaranao ny amin' ny lalan' ny fanahy, na ny amin' ny fitombon' ny taolana ao an-kibon' izay manana anaka, dia toy izany no tsy ahafantaranao ny asan' Andriamanitra izay manao ny zavatra rehetra.",
+    "6": "Amin' ny maraina dia afafazo ny voanao, ary amin' ny hariva dia aza atsahatra ny tananao: fa tsy fantatrao izay ho vanona; na ny taloha, na ny taoriana, na angamba samy ho vanona avokoa izy roroa.",
+    "7": "Mamy tokoa ny mazava, ary mahafinaritra ny maso ny mijery ny masoandro;",
+    "8": "Fa na dia ela velona aza ny olona, ka mifaly amin' izany rehetra izany, dia aoka ho tsaroany ny andro maizina; fa ho maro ireny. Izay rehetra ho avy dia zava-poana.",
+    "9": "Mifalia, ry zatovo, amin' ny fahatanoranao; ary aoka ny fonao hampifalifaly anao amin' ny andron' ny fahatanoranao, ka mandehana any amin' izay sitraky ny fonao sy izay jeren' ny masonao; nefa aoka ho fantatrao fa hoentin' Andriamanitra hotsaraina ianao amin' izany rehetra izany.",
+    "10": "Koa esory ao am-ponao ny alahelo, ary avilio tsy hikasika ny nofonao ny ratsy; fa ny fahazazana sy ny fahatanorana dia zava-poana."
+  }
 }

@@ -1,85 +1,26 @@
 {
+  "book": "Jakoba",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "He! ianareo mpanankarena, mitomania sy midradradradrà noho ny fahorianareo izay hanjo anareo."
-    },
-    {
-      "v": 2,
-      "text": "Ny harenareo efa simba, ary ny fitafianareo efa lanin’ny kalalao."
-    },
-    {
-      "v": 3,
-      "text": "\"Ny volamenanareo sy ny volafotsinareo dia efa harafesina; ary ny harafesiny dia ho vavolombelona hiampanga anareo, sady handany ny nofonareo tahaka ny afo. Efa namory tahiry ho an’ny andro farany ianareo.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Indro, ny karaman’ny mpiasa nijinja ny taninareo, izay hazoninareo ankafetsena, dia mitaraina; ary ny fitarainan’ny mpijinja dia efa tafiditra ao an-tsofin’ny Tompon’ny maro.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Efa velona tamin’ny fy tety ambonin’ny tany ianareo sady nanaram-po tamin’ny fahafinaretana; efa namahana ny fonareo toy ny amin’ny andro famonoana ianareo.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Efa nanameloka sy namono Ilay marina ianareo; fa tsy manohitra anareo Izy.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary amin’izany, dia mahareta tsara, ry rahalahy, mandra-piavin’ny Tompo. Indro, ny mpiasa tany miandry ny voka-tsoa amin’ny tany ka maharitra ela amin’izany mandra-pahazony ny ranonorana aloha sy aoriana."
-    },
-    {
-      "v": 8,
-      "text": "Mahareta koa ianareo, ampioreno mafy ny fonareo, fa efa mby akaiky ny fiavian’ny Tompo."
-    },
-    {
-      "v": 9,
-      "text": "\"Aza mifampimonomonona, ry rahalahy, fandrao hohelohina ianareo; indro, ny Mpitsara efa mitsangana eo anoloan’ny varavarana.\""
-    },
-    {
-      "v": 10,
-      "text": "Ry rahalahiko, aoka ny mpaminany izay niteny tamin’ny anaran’ny Tompo no alainareo ho fianarana ny fandeferam-pahoriana sy ny faharetana."
-    },
-    {
-      "v": 11,
-      "text": "Indro, ataontsika fa sambatra izay efa naharitra. Efa renareo ny faharetan’i Joba, ary efa hitanareo ny faran’ny nataon’ny Tompo taminy, fa miantra indrindra ny Tompo sady be famindrampo."
-    },
-    {
-      "v": 12,
-      "text": "\"Fa mihoatra noho ny zavatra rehetra, ry rahalahiko, aza mianiana, na amin’ny lanitra, na amin’ny tany, na amin’izay fianianana hafa akory aza; fa aoka ny fanaikinareo ho “Eny” ary ny fandàvanareo ho “Tsia”, fandrao iharan’ny fanamelohana ianareo.\""
-    },
-    {
-      "v": 13,
-      "text": "Misy azom-pahoriana va eo aminareo? Aoka izy hivavaka. Misy faly va? Aoka izy hihira ny salamo."
-    },
-    {
-      "v": 14,
-      "text": "\"Misy marary va eo aminareo? Aoka izy hampaka ny loholon’ny fiangonana; ary aoka hanosotra diloilo azy amin’ny anaran’ny Tompo ireo sady hivavaka eo aminy;\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ny fivavaky ny finoana dia hamonjy ilay marary, fa ny Tompo hanangana azy; ary raha nanota izy, dia havela ny helony.\""
-    },
-    {
-      "v": 16,
-      "text": "Koa mifaneke heloka ianareo, ary mifampivavaha, mba ho sitrana ianareo. Ny vavaka mahomby ataon’ny olo-marina amin-kafanam-po dia mandaitra tokoa."
-    },
-    {
-      "v": 17,
-      "text": "\"Elia dia olona nanana izay tiany tahaka antsika ihany, ary nahery nivavaka izy mba tsy hilatsahan’ny ranonorana; dia tsy nilatsaka tamin’ny tany ny ranonorana telo taona sy enim-bolana.\""
-    },
-    {
-      "v": 18,
-      "text": "Ary nivavaka indray izy, dia nandatsaka ranonorana ny lanitra, ka nahavokatra ny tany."
-    },
-    {
-      "v": 19,
-      "text": "Ry rahalahiko, raha misy eo aminareo miala amin’ny fahamarinana, ary misy anankiray mampibebaka azy,"
-    },
-    {
-      "v": 20,
-      "text": "Aoka ho fantany fa izay mampibebaka ny mpanota hiala amin’ny lalan' ny fahadisoany dia hamonjy fanahy tsy ho faty sady hanarona heloka be."
-    }
-  ]
+  "verses": {
+    "1": "He! ianareo mpanankarena, mitomania sy midradradradrà noho ny fahorianareo izay hanjo anareo.",
+    "2": "Ny harenareo efa simba, ary ny fitafianareo efa lanin’ny kalalao.",
+    "3": "Ny volamenanareo sy ny volafotsinareo dia efa harafesina; ary ny harafesiny dia ho vavolombelona hiampanga anareo, sady handany ny nofonareo tahaka ny afo. Efa namory tahiry ho an’ny andro farany ianareo.",
+    "4": "Indro, ny karaman’ny mpiasa nijinja ny taninareo, izay hazoninareo ankafetsena, dia mitaraina; ary ny fitarainan’ny mpijinja dia efa tafiditra ao an-tsofin’ny Tompon’ny maro.",
+    "5": "Efa velona tamin’ny fy tety ambonin’ny tany ianareo sady nanaram-po tamin’ny fahafinaretana; efa namahana ny fonareo toy ny amin’ny andro famonoana ianareo.",
+    "6": "Efa nanameloka sy namono Ilay marina ianareo; fa tsy manohitra anareo Izy.",
+    "7": "Ary amin’izany, dia mahareta tsara, ry rahalahy, mandra-piavin’ny Tompo. Indro, ny mpiasa tany miandry ny voka-tsoa amin’ny tany ka maharitra ela amin’izany mandra-pahazony ny ranonorana aloha sy aoriana.",
+    "8": "Mahareta koa ianareo, ampioreno mafy ny fonareo, fa efa mby akaiky ny fiavian’ny Tompo.",
+    "9": "Aza mifampimonomonona, ry rahalahy, fandrao hohelohina ianareo; indro, ny Mpitsara efa mitsangana eo anoloan’ny varavarana.",
+    "10": "Ry rahalahiko, aoka ny mpaminany izay niteny tamin’ny anaran’ny Tompo no alainareo ho fianarana ny fandeferam-pahoriana sy ny faharetana.",
+    "11": "Indro, ataontsika fa sambatra izay efa naharitra. Efa renareo ny faharetan’i Joba, ary efa hitanareo ny faran’ny nataon’ny Tompo taminy, fa miantra indrindra ny Tompo sady be famindrampo.",
+    "12": "Fa mihoatra noho ny zavatra rehetra, ry rahalahiko, aza mianiana, na amin’ny lanitra, na amin’ny tany, na amin’izay fianianana hafa akory aza; fa aoka ny fanaikinareo ho “Eny” ary ny fandàvanareo ho “Tsia”, fandrao iharan’ny fanamelohana ianareo.",
+    "13": "Misy azom-pahoriana va eo aminareo? Aoka izy hivavaka. Misy faly va? Aoka izy hihira ny salamo.",
+    "14": "Misy marary va eo aminareo? Aoka izy hampaka ny loholon’ny fiangonana; ary aoka hanosotra diloilo azy amin’ny anaran’ny Tompo ireo sady hivavaka eo aminy;",
+    "15": "Ary ny fivavaky ny finoana dia hamonjy ilay marary, fa ny Tompo hanangana azy; ary raha nanota izy, dia havela ny helony.",
+    "16": "Koa mifaneke heloka ianareo, ary mifampivavaha, mba ho sitrana ianareo. Ny vavaka mahomby ataon’ny olo-marina amin-kafanam-po dia mandaitra tokoa.",
+    "17": "Elia dia olona nanana izay tiany tahaka antsika ihany, ary nahery nivavaka izy mba tsy hilatsahan’ny ranonorana; dia tsy nilatsaka tamin’ny tany ny ranonorana telo taona sy enim-bolana.",
+    "18": "Ary nivavaka indray izy, dia nandatsaka ranonorana ny lanitra, ka nahavokatra ny tany.",
+    "19": "Ry rahalahiko, raha misy eo aminareo miala amin’ny fahamarinana, ary misy anankiray mampibebaka azy,",
+    "20": "Aoka ho fantany fa izay mampibebaka ny mpanota hiala amin’ny lalan' ny fahadisoany dia hamonjy fanahy tsy ho faty sady hanarona heloka be."
+  }
 }

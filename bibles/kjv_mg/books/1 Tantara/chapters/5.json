@@ -1,109 +1,32 @@
 {
+  "book": "1 Tantara",
   "chapter": 5,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary ny zanakalahin' i Robena, lahimatoan' Isiraely (fa izy no lahimatoa; saingy ny nandotoany ny farafaran-drainy no nanomezana ny fizokiany ho an' ny zanak' i Josefa, zanak' Isiraely; nefa tsy voasoratra ho zokiny amin' ny fitantaram-pirazanana ireo;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Fa Joda nisandratra noho ny rahalahiny, ary izy no niavian' ny mpanapaka; nefa ny fizokiana kosa dia an' i Josefa ihany),\""
-    },
-    {
-      "v": 3,
-      "text": "Ny zanakalahin' i Robena, hoy aho, lahimatoan' Isiraely dia Hanoka sy Pola sy Hezrona ary Karmy."
-    },
-    {
-      "v": 4,
-      "text": "Ny zanakalahin' i Joela dia Semaia, ary Goga no zanakalahin' i Semaia, Simey no zanakalahin' i Goga,"
-    },
-    {
-      "v": 5,
-      "text": "Mika no zanakalahin'i Simey, Reaia no zanakalahin' i Mika, Bala no zanakalahin' i Reaia,"
-    },
-    {
-      "v": 6,
-      "text": "\"Bera no zanakalahin' i Bala, izay nobaboin' i Tiglato-pilesera, mpanjakan' i Asyria; izy no loham-pirenen' ny Robenita.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary ny rahalahiny araka ny fianakaviany avy, raha nisaina ny firazanan' ny taranany dia Jeiela lohany sy Zakaria,"
-    },
-    {
-      "v": 8,
-      "text": "Ary Bela, zanak' i Azaza, zanak' i Sema, zanak' i Joela, izay nonina tao Aroera hatrany Nebo sy Bala-meona."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary nonina niantsinanana hatrany akaikin' ny efitra ka hatramin' ny ony Eofrata izy; fa ny ombiny aman' ondriny nihamaro teny amin' ny tany Gileada.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary tamin' ny andron' i Saoly dia niady tamin' ny Hagarita izy ka naharesy azy; ary nonina an-day eran' ny tany rehetra atsinanan' i Gileada izy.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary ny taranak' i Gada nonina tandrifiny, teny amin' ny tany Basana hatrany Saleka;\""
-    },
-    {
-      "v": 12,
-      "text": "Joela no lohany, dia Safana no manarakaraka, dia Janay sy Safata tany Basana."
-    },
-    {
-      "v": 13,
-      "text": "\"Ary ny rahalahiny araka ny fianakaviany avy dia Mikaela sy Mesolama sy Seba sy Joray sy Jakana sy Zia ary Ebera; fito izy.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ireo no zanakalahin' i Abihaila, zanak' i Hory, zanak' i Jaroa, zanak' i Gileada, zanak' i Mikaela, zanak' i Jesisay, zanak' i Jado, zanak' i Boza;\""
-    },
-    {
-      "v": 15,
-      "text": "Ahia, zanak' i Abdiela, zanak' i Gony, no lohan' ny fianakaviany."
-    },
-    {
-      "v": 16,
-      "text": "Ary nonina tany Gileada any Basana sy tamin' ny tanànany ireo, ary tamin' ny zanabohitr' i Sarona rehetra, dia tamin' ny sisin-taniny."
-    },
-    {
-      "v": 17,
-      "text": "Ireo rehetra ireo dia nisaina araka ny firazanany tamin' ny andron' i Jotama, mpanjakan' ny Joda sy tamin' ny andron' i Jeroboama, mpanjakan' ny Isiraely."
-    },
-    {
-      "v": 18,
-      "text": "Ny taranak' i Robena sy ny Gadita ary ny antsasaky ny fokon' i Manase, izay isan' ny lehilahy mahery, ka lehilahy mahatana ampinga sy sabatra ary mahahenjana tsipìka sady zatra ny miady, dia enimpolo amby fitonjato sy efatra arivo sy efatra alina no isan' ny azo nalefa hanafika."
-    },
-    {
-      "v": 19,
-      "text": "Ary niady tamin' ny Hagarita sy tamin' i Jetora sy Nafisy ary Nodaba izy."
-    },
-    {
-      "v": 20,
-      "text": "Ary nombana hamely ireo izy, ka dia voatolotra teo an-tanany ny Hagarita mbamin' izay rehetra nomba azy, satria nitaraina tamin' Andriamanitra teo amin' ny ady izy, ary nekeny ny fangatahany noho ny fahatokiany Azy."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary nobaboiny ny bibiny, dia rameva dimy alina sy ondry aman' osy dimy alina amby roa hetsy sy boriky roa arivo ary olona iray hetsy;\""
-    },
-    {
-      "v": 22,
-      "text": "Fa maro ny faty niampatrampatra, satria avy tamin' Andriamanitra ny ady. Ary nonina nandimby ireo izy mandra-pahatongan' ny fahababoana."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary ny taranaky ny antsasaky ny fokon' i Manase dia nonina tamin' ny tany; ary nihamaro izy hatrany Basana ka hatrany Bala-hermona sy Senira ary hatramin' ny tendrombohitra Hermona.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary izao no lohan' ny fianakaviana: Efera sy Jisy sy Eliala sy Azriela sy Jeremia sy Hodavia ary Jadiela; lehilahy mahery ireo sady malaza no samy lohan' ny fianakaviany avy.\""
-    },
-    {
-      "v": 25,
-      "text": "Ary nivadika tamin' Andriamanitry ny razany ireo, fa nijangajanga nanaraka ny andriamanitry ny tompon-tany, izay naringan' Andriamanitra tsy ho eo anoloany."
-    },
-    {
-      "v": 26,
-      "text": "Ary Andriamanitry ny Isiraely nanetsika ny fanahin' i Peka, mpanjakan' i Asyria sy ny fanahin' i Tiglato-pilesera, mpanjakan'i Asyria, ka dia nobaboin' ireo ny Robenita sy ny Gadita ary ny an-tsasaky ny fokon' i Manase, ka nentiny tany Hala sy Habora sy Hara ary tany amoron' ny ony Gozana ambaraka androany."
-    }
-  ]
+  "verses": {
+    "1": "Ary ny zanakalahin' i Robena, lahimatoan' Isiraely (fa izy no lahimatoa; saingy ny nandotoany ny farafaran-drainy no nanomezana ny fizokiany ho an' ny zanak' i Josefa, zanak' Isiraely; nefa tsy voasoratra ho zokiny amin' ny fitantaram-pirazanana ireo;",
+    "2": "Fa Joda nisandratra noho ny rahalahiny, ary izy no niavian' ny mpanapaka; nefa ny fizokiana kosa dia an' i Josefa ihany),",
+    "3": "Ny zanakalahin' i Robena, hoy aho, lahimatoan' Isiraely dia Hanoka sy Pola sy Hezrona ary Karmy.",
+    "4": "Ny zanakalahin' i Joela dia Semaia, ary Goga no zanakalahin' i Semaia, Simey no zanakalahin' i Goga,",
+    "5": "Mika no zanakalahin'i Simey, Reaia no zanakalahin' i Mika, Bala no zanakalahin' i Reaia,",
+    "6": "Bera no zanakalahin' i Bala, izay nobaboin' i Tiglato-pilesera, mpanjakan' i Asyria; izy no loham-pirenen' ny Robenita.",
+    "7": "Ary ny rahalahiny araka ny fianakaviany avy, raha nisaina ny firazanan' ny taranany dia Jeiela lohany sy Zakaria,",
+    "8": "Ary Bela, zanak' i Azaza, zanak' i Sema, zanak' i Joela, izay nonina tao Aroera hatrany Nebo sy Bala-meona.",
+    "9": "Ary nonina niantsinanana hatrany akaikin' ny efitra ka hatramin' ny ony Eofrata izy; fa ny ombiny aman' ondriny nihamaro teny amin' ny tany Gileada.",
+    "10": "Ary tamin' ny andron' i Saoly dia niady tamin' ny Hagarita izy ka naharesy azy; ary nonina an-day eran' ny tany rehetra atsinanan' i Gileada izy.",
+    "11": "Ary ny taranak' i Gada nonina tandrifiny, teny amin' ny tany Basana hatrany Saleka;",
+    "12": "Joela no lohany, dia Safana no manarakaraka, dia Janay sy Safata tany Basana.",
+    "13": "Ary ny rahalahiny araka ny fianakaviany avy dia Mikaela sy Mesolama sy Seba sy Joray sy Jakana sy Zia ary Ebera; fito izy.",
+    "14": "Ireo no zanakalahin' i Abihaila, zanak' i Hory, zanak' i Jaroa, zanak' i Gileada, zanak' i Mikaela, zanak' i Jesisay, zanak' i Jado, zanak' i Boza;",
+    "15": "Ahia, zanak' i Abdiela, zanak' i Gony, no lohan' ny fianakaviany.",
+    "16": "Ary nonina tany Gileada any Basana sy tamin' ny tanànany ireo, ary tamin' ny zanabohitr' i Sarona rehetra, dia tamin' ny sisin-taniny.",
+    "17": "Ireo rehetra ireo dia nisaina araka ny firazanany tamin' ny andron' i Jotama, mpanjakan' ny Joda sy tamin' ny andron' i Jeroboama, mpanjakan' ny Isiraely.",
+    "18": "Ny taranak' i Robena sy ny Gadita ary ny antsasaky ny fokon' i Manase, izay isan' ny lehilahy mahery, ka lehilahy mahatana ampinga sy sabatra ary mahahenjana tsipìka sady zatra ny miady, dia enimpolo amby fitonjato sy efatra arivo sy efatra alina no isan' ny azo nalefa hanafika.",
+    "19": "Ary niady tamin' ny Hagarita sy tamin' i Jetora sy Nafisy ary Nodaba izy.",
+    "20": "Ary nombana hamely ireo izy, ka dia voatolotra teo an-tanany ny Hagarita mbamin' izay rehetra nomba azy, satria nitaraina tamin' Andriamanitra teo amin' ny ady izy, ary nekeny ny fangatahany noho ny fahatokiany Azy.",
+    "21": "Ary nobaboiny ny bibiny, dia rameva dimy alina sy ondry aman' osy dimy alina amby roa hetsy sy boriky roa arivo ary olona iray hetsy;",
+    "22": "Fa maro ny faty niampatrampatra, satria avy tamin' Andriamanitra ny ady. Ary nonina nandimby ireo izy mandra-pahatongan' ny fahababoana.",
+    "23": "Ary ny taranaky ny antsasaky ny fokon' i Manase dia nonina tamin' ny tany; ary nihamaro izy hatrany Basana ka hatrany Bala-hermona sy Senira ary hatramin' ny tendrombohitra Hermona.",
+    "24": "Ary izao no lohan' ny fianakaviana: Efera sy Jisy sy Eliala sy Azriela sy Jeremia sy Hodavia ary Jadiela; lehilahy mahery ireo sady malaza no samy lohan' ny fianakaviany avy.",
+    "25": "Ary nivadika tamin' Andriamanitry ny razany ireo, fa nijangajanga nanaraka ny andriamanitry ny tompon-tany, izay naringan' Andriamanitra tsy ho eo anoloany.",
+    "26": "Ary Andriamanitry ny Isiraely nanetsika ny fanahin' i Peka, mpanjakan' i Asyria sy ny fanahin' i Tiglato-pilesera, mpanjakan'i Asyria, ka dia nobaboin' ireo ny Robenita sy ny Gadita ary ny an-tsasaky ny fokon' i Manase, ka nentiny tany Hala sy Habora sy Hara ary tany amoron' ny ony Gozana ambaraka androany."
+  }
 }

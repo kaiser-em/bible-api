@@ -1,57 +1,19 @@
 {
+  "book": "1 Korintiana",
   "chapter": 8,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary ny amin’ny zavatra aterina amin’ny sampy, dia fantatsika fa manana fahalalana isika rehetra. Ny fahalalana mampieboebo, fa ny fitiavana no mampandroso."
-    },
-    {
-      "v": 2,
-      "text": "Fa raha misy mihevitra azy ho mahalala zavatra, dia tsy mbola mahalala araka izay tokony ho fantany akory izy."
-    },
-    {
-      "v": 3,
-      "text": "Fa raha misy tia an’Andriamanitra, dia izy no fantany."
-    },
-    {
-      "v": 4,
-      "text": "Noho izany, ny mikasika ny fihinanana ireo zavatra atao fanatitra ho an’ny sampy, dia fantatsika fa tsinontsinona akory ny sampy eo amin’izao tontolo izao, ary tsy misy Andriamanitra afa-tsy iray ihany."
-    },
-    {
-      "v": 5,
-      "text": "Fa na dia misy aza atao hoe andriamanitra, na any an-danitra, na ety an-tany (toy ny misy andriamanitra maro sy tompo maro),"
-    },
-    {
-      "v": 6,
-      "text": "\"Nefa amintsika dia Andriamanitra iray ihany, dia ny Ray, Izay niavian’ny zavatra rehetra, ary isika ao Aminy; ary iray no Tompo Jesosy Kristy, Izay nahariana ny zavatra rehetra sady nahariana antsika koa.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Kanefa tsy àry manana izany fahalalana izany avokoa ny olona rehetra; fa ny sasany, satria zatra amin’ny sampy mandraka ankehitriny, dia homana izany toy ny zavatra naterina tamin’ny sampy; ary voaloto ny fieritreretany izay malemy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Fa ny hanina tsy hampaninona antsika amin’Andriamanitra; fa na dia tsy homana aza isika, tsy matiantoka, ary na dia homana aza isika, tsy mahazo tombony.\""
-    },
-    {
-      "v": 9,
-      "text": "Nefa tandremo fandrao izany fahafahanareo izany ho tonga fahatafintohinana ho an’ny malemy."
-    },
-    {
-      "v": 10,
-      "text": "Fa raha misy mahita anao izay manam-pahalalana mipetraka mihinana eo amin’ny tempolin-tsampy, tsy hampahasahy ny fieritreretan’ny malemy hihinana ireo zavatra aterina amin’ny sampy koa va izany?"
-    },
-    {
-      "v": 11,
-      "text": "Ary ho verin’ny fahalalanao va ny rahalahy malemy izay nahafatesan’i Kristy?"
-    },
-    {
-      "v": 12,
-      "text": "Fa raha manota toy izany amin’ny rahalahy ianareo, ka manimba ny fieritreretany izay malemy, dia manota amin’i Kristy ianareo."
-    },
-    {
-      "v": 13,
-      "text": "Koa raha ny hanina no mahatafintohina ny rahalahiko, dia tsy hihinan-kena akory aho raha mbola maharitra ny tany, fandrao mahatafintohina ny rahalahiko."
-    }
-  ]
+  "verses": {
+    "1": "Ary ny amin’ny zavatra aterina amin’ny sampy, dia fantatsika fa manana fahalalana isika rehetra. Ny fahalalana mampieboebo, fa ny fitiavana no mampandroso.",
+    "2": "Fa raha misy mihevitra azy ho mahalala zavatra, dia tsy mbola mahalala araka izay tokony ho fantany akory izy.",
+    "3": "Fa raha misy tia an’Andriamanitra, dia izy no fantany.",
+    "4": "Noho izany, ny mikasika ny fihinanana ireo zavatra atao fanatitra ho an’ny sampy, dia fantatsika fa tsinontsinona akory ny sampy eo amin’izao tontolo izao, ary tsy misy Andriamanitra afa-tsy iray ihany.",
+    "5": "Fa na dia misy aza atao hoe andriamanitra, na any an-danitra, na ety an-tany (toy ny misy andriamanitra maro sy tompo maro),",
+    "6": "Nefa amintsika dia Andriamanitra iray ihany, dia ny Ray, Izay niavian’ny zavatra rehetra, ary isika ao Aminy; ary iray no Tompo Jesosy Kristy, Izay nahariana ny zavatra rehetra sady nahariana antsika koa.",
+    "7": "Kanefa tsy àry manana izany fahalalana izany avokoa ny olona rehetra; fa ny sasany, satria zatra amin’ny sampy mandraka ankehitriny, dia homana izany toy ny zavatra naterina tamin’ny sampy; ary voaloto ny fieritreretany izay malemy.",
+    "8": "Fa ny hanina tsy hampaninona antsika amin’Andriamanitra; fa na dia tsy homana aza isika, tsy matiantoka, ary na dia homana aza isika, tsy mahazo tombony.",
+    "9": "Nefa tandremo fandrao izany fahafahanareo izany ho tonga fahatafintohinana ho an’ny malemy.",
+    "10": "Fa raha misy mahita anao izay manam-pahalalana mipetraka mihinana eo amin’ny tempolin-tsampy, tsy hampahasahy ny fieritreretan’ny malemy hihinana ireo zavatra aterina amin’ny sampy koa va izany?",
+    "11": "Ary ho verin’ny fahalalanao va ny rahalahy malemy izay nahafatesan’i Kristy?",
+    "12": "Fa raha manota toy izany amin’ny rahalahy ianareo, ka manimba ny fieritreretany izay malemy, dia manota amin’i Kristy ianareo.",
+    "13": "Koa raha ny hanina no mahatafintohina ny rahalahiko, dia tsy hihinan-kena akory aho raha mbola maharitra ny tany, fandrao mahatafintohina ny rahalahiko."
+  }
 }

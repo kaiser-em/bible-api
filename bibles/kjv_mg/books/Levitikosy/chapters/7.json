@@ -1,157 +1,44 @@
 {
+  "book": "Levitikosy",
   "chapter": 7,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izao no lalàna ny amin' ny fanatitra noho ny fahadisoana: masina indrindra izany."
-    },
-    {
-      "v": 2,
-      "text": "\"Eo amin' ny famonoana ny fanatitra dorana no hamonoana ny fanatitra noho ny fahadisoana; ary ny rà dia hatopiny manodidina amin' ny lafin' ny alitara.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary hateriny avokoa ny saborany rehetra; ny hofany ary ny saboran-tsinainy,\""
-    },
-    {
-      "v": 4,
-      "text": "Ary ny voany roa mbamin' ny fonom-boany izay eo amin' ny takibany ary ny saron' atiny dia hoesorina miaraka amin' ny voany."
-    },
-    {
-      "v": 5,
-      "text": "Ary hodoran' ny mpisorona eo ambony alitara ho fanatitra atao amin' ny afo ho an' i Jehovah izany: fanatitra noho ny fahadisoana izany."
-    },
-    {
-      "v": 6,
-      "text": "\"Ny lehilahy rehetra amin' ny mpisorona no hihinana izany; eo amin' ny fitoerana masina no hihinanana izany: masina indrindra izany.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ho tahaka ny fanatitra noho ny ota ny fanatitra noho ny fahadisoana; lalàna iray no ho amin' izy ireo; ny mpisorona izay manao fanavotana no hanana izany.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary ny mpisorona izay manatitra ny fanatitra dorana aterin' ny olona, dia izy no mpisorona hahazo ny hoditr' izany fanatitra dorana izany."
-    },
-    {
-      "v": 9,
-      "text": "Ary ny fanatitra hohanina rehetra izay nandrahoina tamin' ny lafaoro sy izay rehetra natao tamin' ny lapoaly sy ny vilany, dia ho an' ny mpisorona izay manatitra azy."
-    },
-    {
-      "v": 10,
-      "text": "Ary ny fanatitra hohanina rehetra, voaharo diloilo sy maina, dia ho an' ny zanakalahin' i Arona rehetra, samy hanana mitovy avy."
-    },
-    {
-      "v": 11,
-      "text": "Ary izao no lalàna ny amin' ny fanati-pihavanana izay haterina ho an' i Jehovah:"
-    },
-    {
-      "v": 12,
-      "text": "Raha manatitra izany ho fisaorana izy, dia hanatitra izany miaraka amin' ny fanati-pisaorana: mofo tsy misy lalivay sady voaharo diloilo sy mofo manify tsy misy lalivay sady voahosotra diloilo, ary mofo amin' ny koba tsara toto, voaendy sady voaharo diloilo."
-    },
-    {
-      "v": 13,
-      "text": "Ankoatra ny mofo, dia hanatitra fanatitra mofo misy lalivay izy miaraka amin' ny fanati-pisaorana ny amin' ny fanati-pihavanany."
-    },
-    {
-      "v": 14,
-      "text": "Ary amin' izany dia hanao fanatitra asandratra ho an' i Jehovah iray avy amin' ny fanatitra rehetra izy, ka ho an' ny mpisorona izay manopy ny ràn' ny fanati-pihavanana izany."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ny henan' ny fanati-pihavanana izay ataony fanati-pisaorana dia hohanina amin' ny andro anaterana azy; tsy hisy hamelany ho tra-maraina.\""
-    },
-    {
-      "v": 16,
-      "text": "Fa raha fanati-panalamboady na fanati-tsitrapo kosa no ateriny, dia amin' ny andro anaterany ny fanatiny no hihinanana azy, ary ampitson' iny no hihinanana izay ambiny."
-    },
-    {
-      "v": 17,
-      "text": "Fa ny sisa amin' ny henan' ny fanatitra dia hodorana amin' ny afo amin' ny andro fahatelo."
-    },
-    {
-      "v": 18,
-      "text": "Ary raha tàhiny hihinanana amin' ny andro fahatelo ny henan' ny fanati-pihavanana, dia tsy ekena izany, na hisaina ho an' izay manatitra azy, fa ho fahavetavetana, ary ny fanahy izay mihinana izany dia ho meloka noho ny helony."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary ny hena izay mikasika ny zava-maloto dia tsy hohanina; hodorana amin' ny afo izany; ary ny amin' ny hena, dia izay rehetra madio no hihinana azy.\""
-    },
-    {
-      "v": 20,
-      "text": "Fa ny fanahy izay mihinana amin' ny henan' ny fanati-pihavanana izay an' i Jehovah nefa misy fahalotoana eo aminy, dia hofongorana tsy ho amin' ny fireneny."
-    },
-    {
-      "v": 21,
-      "text": "Ary koa ny fanahy izay hikasika zava-maloto, toy ny fahalotoan' ny olona, na ny biby maloto, na zava-betaveta maloto, ka mihinana ny henan' ny fanati-pihavanana izay an' i Jehovah, dia hofongorana tsy ho amin' ny fireneny."
-    },
-    {
-      "v": 22,
-      "text": "Ary Jehovah niteny tamin' i Mosesy nanao hoe:"
-    },
-    {
-      "v": 23,
-      "text": "Mitenena amin' ny Zanak' Isiraely hoe: Aza mihinana ny saboran' ny omby ianareo, na ny an' ny ondry, na ny an' ny osy."
-    },
-    {
-      "v": 24,
-      "text": "\"Ary ny saboran' ny biby izay maty ho azy sy ny saboran' izay noviraviraim-biby, dia azo ampiasaina amin-java-kafa; fa aza mihinana izany ianareo.\""
-    },
-    {
-      "v": 25,
-      "text": "Fa izay mihinana ny saboran' ny biby izay fanao fanatitra atao amin' ny afo ho an' i Jehovah, dia hofongorana tsy ho amin' ny fireneny."
-    },
-    {
-      "v": 26,
-      "text": "Ary koa aza mihinana rà ianareo na ny an' ny biby fiompy na ny an' ny biby hafa, eny amin' izay itoeranareo."
-    },
-    {
-      "v": 27,
-      "text": "Ny fanahy rehetra izay mihinana ra, dia hofongorana tsy ho amin' ny fireneny izany fanahy izany."
-    },
-    {
-      "v": 28,
-      "text": "Ary Jehovah niteny tamin' i Mosesy nanao hoe:"
-    },
-    {
-      "v": 29,
-      "text": "Mitenena amin' ny Zanak' Isiraely hoe: Izay manatitra ny fanati-pihavanany ho an' i Jehovah dia hitondra ny fanatiny ho an' i Jehovah avy amin' ny fanati-pihavanany."
-    },
-    {
-      "v": 30,
-      "text": "\"Ny tanany ihany no hitondra ny fanatitra atao amin' ny afo ho an' i Jehovah; ny saborany mbamin' ny tratrany no hoentiny, ka ny tratrany dia ahevaheva ho fanatitra ahevaheva eo anatrehan' i Jehovah.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Ary hodoran' ny mpisorona eo ambony alitara ny saborany; fa ny tratrany kosa dia ho an' i Arona sy ireo zanany lahy.\""
-    },
-    {
-      "v": 32,
-      "text": "Ary ny soroka ankavanana dia homenareo ny mpisorona ho fanatitra asandratra avy amin' ny fanati-pihavananareo."
-    },
-    {
-      "v": 33,
-      "text": "Ny anankiray amin' ny zanakalahin' i Arona izay manatitra ny ràn' ny fanati-pihavanana sy ny saborany no hanana ny soroka ankavanana ho anjarany."
-    },
-    {
-      "v": 34,
-      "text": "Fa ny tratra ahevaheva sy ny soroka asandratra dia efa nalaiko tamin' ny Zanak' Isiraely avy amin' ny fanati-pihavanana, ary nomeko ho an' i Arona mpisorona sy ny zanany lahy amin' ny lalàna mandrakizay avy teo amin' ny Zanak' Isiraely."
-    },
-    {
-      "v": 35,
-      "text": "\" Izany no anjaran' i Arona amin' ny fanosorana azy sy amin' ny fanosorana ireo zanany lahy, avy amin' ny fanatitra atao amin' ny afo ho an' i Jehovah, amin' ny andro hanolorana azy ireo hanao ny asa fanompoana ho an' i Jehovah amin' ny asan' ny mpisorona;\""
-    },
-    {
-      "v": 36,
-      "text": "Izay nandidian' i Jehovah homena azy ireo avy amin' ny Zanak' Isiraely amin' ny andro anosorana azy, amin' ny lalàna mandrakizay amin' ireo taranany mifandimby."
-    },
-    {
-      "v": 37,
-      "text": "\"Izany no lalàna ny amin' ny fanatitra dorana, ny fanatitra hohanina sy ny fanatitra noho ny ota sy ny fanatitra noho ny fahadisoana, mbamin' ny fanokanana ary ny fanati-pihavanana;\""
-    },
-    {
-      "v": 38,
-      "text": "Izay nandidian' i Jehovah an' i Mosesy tao amin' ny tendrombohitra Sinay, tamin' ny andro izay nandidiany ny Zanak' Isiraely hanatitra ny fanatiny ho an' i Jehovah, tany an' efitr' i Sinay."
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no lalàna ny amin' ny fanatitra noho ny fahadisoana: masina indrindra izany.",
+    "2": "Eo amin' ny famonoana ny fanatitra dorana no hamonoana ny fanatitra noho ny fahadisoana; ary ny rà dia hatopiny manodidina amin' ny lafin' ny alitara.",
+    "3": "Ary hateriny avokoa ny saborany rehetra; ny hofany ary ny saboran-tsinainy,",
+    "4": "Ary ny voany roa mbamin' ny fonom-boany izay eo amin' ny takibany ary ny saron' atiny dia hoesorina miaraka amin' ny voany.",
+    "5": "Ary hodoran' ny mpisorona eo ambony alitara ho fanatitra atao amin' ny afo ho an' i Jehovah izany: fanatitra noho ny fahadisoana izany.",
+    "6": "Ny lehilahy rehetra amin' ny mpisorona no hihinana izany; eo amin' ny fitoerana masina no hihinanana izany: masina indrindra izany.",
+    "7": "Ho tahaka ny fanatitra noho ny ota ny fanatitra noho ny fahadisoana; lalàna iray no ho amin' izy ireo; ny mpisorona izay manao fanavotana no hanana izany.",
+    "8": "Ary ny mpisorona izay manatitra ny fanatitra dorana aterin' ny olona, dia izy no mpisorona hahazo ny hoditr' izany fanatitra dorana izany.",
+    "9": "Ary ny fanatitra hohanina rehetra izay nandrahoina tamin' ny lafaoro sy izay rehetra natao tamin' ny lapoaly sy ny vilany, dia ho an' ny mpisorona izay manatitra azy.",
+    "10": "Ary ny fanatitra hohanina rehetra, voaharo diloilo sy maina, dia ho an' ny zanakalahin' i Arona rehetra, samy hanana mitovy avy.",
+    "11": "Ary izao no lalàna ny amin' ny fanati-pihavanana izay haterina ho an' i Jehovah:",
+    "12": "Raha manatitra izany ho fisaorana izy, dia hanatitra izany miaraka amin' ny fanati-pisaorana: mofo tsy misy lalivay sady voaharo diloilo sy mofo manify tsy misy lalivay sady voahosotra diloilo, ary mofo amin' ny koba tsara toto, voaendy sady voaharo diloilo.",
+    "13": "Ankoatra ny mofo, dia hanatitra fanatitra mofo misy lalivay izy miaraka amin' ny fanati-pisaorana ny amin' ny fanati-pihavanany.",
+    "14": "Ary amin' izany dia hanao fanatitra asandratra ho an' i Jehovah iray avy amin' ny fanatitra rehetra izy, ka ho an' ny mpisorona izay manopy ny ràn' ny fanati-pihavanana izany.",
+    "15": "Ary ny henan' ny fanati-pihavanana izay ataony fanati-pisaorana dia hohanina amin' ny andro anaterana azy; tsy hisy hamelany ho tra-maraina.",
+    "16": "Fa raha fanati-panalamboady na fanati-tsitrapo kosa no ateriny, dia amin' ny andro anaterany ny fanatiny no hihinanana azy, ary ampitson' iny no hihinanana izay ambiny.",
+    "17": "Fa ny sisa amin' ny henan' ny fanatitra dia hodorana amin' ny afo amin' ny andro fahatelo.",
+    "18": "Ary raha tàhiny hihinanana amin' ny andro fahatelo ny henan' ny fanati-pihavanana, dia tsy ekena izany, na hisaina ho an' izay manatitra azy, fa ho fahavetavetana, ary ny fanahy izay mihinana izany dia ho meloka noho ny helony.",
+    "19": "Ary ny hena izay mikasika ny zava-maloto dia tsy hohanina; hodorana amin' ny afo izany; ary ny amin' ny hena, dia izay rehetra madio no hihinana azy.",
+    "20": "Fa ny fanahy izay mihinana amin' ny henan' ny fanati-pihavanana izay an' i Jehovah nefa misy fahalotoana eo aminy, dia hofongorana tsy ho amin' ny fireneny.",
+    "21": "Ary koa ny fanahy izay hikasika zava-maloto, toy ny fahalotoan' ny olona, na ny biby maloto, na zava-betaveta maloto, ka mihinana ny henan' ny fanati-pihavanana izay an' i Jehovah, dia hofongorana tsy ho amin' ny fireneny.",
+    "22": "Ary Jehovah niteny tamin' i Mosesy nanao hoe:",
+    "23": "Mitenena amin' ny Zanak' Isiraely hoe: Aza mihinana ny saboran' ny omby ianareo, na ny an' ny ondry, na ny an' ny osy.",
+    "24": "Ary ny saboran' ny biby izay maty ho azy sy ny saboran' izay noviraviraim-biby, dia azo ampiasaina amin-java-kafa; fa aza mihinana izany ianareo.",
+    "25": "Fa izay mihinana ny saboran' ny biby izay fanao fanatitra atao amin' ny afo ho an' i Jehovah, dia hofongorana tsy ho amin' ny fireneny.",
+    "26": "Ary koa aza mihinana rà ianareo na ny an' ny biby fiompy na ny an' ny biby hafa, eny amin' izay itoeranareo.",
+    "27": "Ny fanahy rehetra izay mihinana ra, dia hofongorana tsy ho amin' ny fireneny izany fanahy izany.",
+    "28": "Ary Jehovah niteny tamin' i Mosesy nanao hoe:",
+    "29": "Mitenena amin' ny Zanak' Isiraely hoe: Izay manatitra ny fanati-pihavanany ho an' i Jehovah dia hitondra ny fanatiny ho an' i Jehovah avy amin' ny fanati-pihavanany.",
+    "30": "Ny tanany ihany no hitondra ny fanatitra atao amin' ny afo ho an' i Jehovah; ny saborany mbamin' ny tratrany no hoentiny, ka ny tratrany dia ahevaheva ho fanatitra ahevaheva eo anatrehan' i Jehovah.",
+    "31": "Ary hodoran' ny mpisorona eo ambony alitara ny saborany; fa ny tratrany kosa dia ho an' i Arona sy ireo zanany lahy.",
+    "32": "Ary ny soroka ankavanana dia homenareo ny mpisorona ho fanatitra asandratra avy amin' ny fanati-pihavananareo.",
+    "33": "Ny anankiray amin' ny zanakalahin' i Arona izay manatitra ny ràn' ny fanati-pihavanana sy ny saborany no hanana ny soroka ankavanana ho anjarany.",
+    "34": "Fa ny tratra ahevaheva sy ny soroka asandratra dia efa nalaiko tamin' ny Zanak' Isiraely avy amin' ny fanati-pihavanana, ary nomeko ho an' i Arona mpisorona sy ny zanany lahy amin' ny lalàna mandrakizay avy teo amin' ny Zanak' Isiraely.",
+    "35": " Izany no anjaran' i Arona amin' ny fanosorana azy sy amin' ny fanosorana ireo zanany lahy, avy amin' ny fanatitra atao amin' ny afo ho an' i Jehovah, amin' ny andro hanolorana azy ireo hanao ny asa fanompoana ho an' i Jehovah amin' ny asan' ny mpisorona;",
+    "36": "Izay nandidian' i Jehovah homena azy ireo avy amin' ny Zanak' Isiraely amin' ny andro anosorana azy, amin' ny lalàna mandrakizay amin' ireo taranany mifandimby.",
+    "37": "Izany no lalàna ny amin' ny fanatitra dorana, ny fanatitra hohanina sy ny fanatitra noho ny ota sy ny fanatitra noho ny fahadisoana, mbamin' ny fanokanana ary ny fanati-pihavanana;",
+    "38": "Izay nandidian' i Jehovah an' i Mosesy tao amin' ny tendrombohitra Sinay, tamin' ny andro izay nandidiany ny Zanak' Isiraely hanatitra ny fanatiny ho an' i Jehovah, tany an' efitr' i Sinay."
+  }
 }

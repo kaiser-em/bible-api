@@ -1,85 +1,26 @@
 {
+  "book": "Mpitoriteny",
   "chapter": 10,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ny fatin-dalitra mahamaimbo sy mampamorivory ny menaky ny mpangaroharo zava-manitra; toy izany no ataon' ny fahadalana kely amin' izay malaza amin' ny fahendrena sy ny voninahitra.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ny fon' ny hendry dia eo ankavanany; fa ny fon' ny adala kosa dia eo ankaviany.\""
-    },
-    {
-      "v": 3,
-      "text": "Ary koa, raha mandeha eny an-dalana ny adala, dia tsy ampy ny fisainany, ary ambarany amin' ny olona rehetra fa adala izy."
-    },
-    {
-      "v": 4,
-      "text": "\"Raha mitsangana hanohitra anao ny fanahin' ny  mpanapaka dia aza miala amin' ny fitoeranao; fa ny fahatsindriam-po mahasakana ny fahadisoana lehibe.\""
-    },
-    {
-      "v": 5,
-      "text": "Misy ratsy efa hitako aty ambany masoandro, dia toy ny fahadisoana tsy nahy ataon' ny mpanapaka:"
-    },
-    {
-      "v": 6,
-      "text": "Apetraka amin' ny toerana lehibe sy mendrika ny hadalana, ary mipetraka eo amin' ny toerana ambany ny mpanankarena."
-    },
-    {
-      "v": 7,
-      "text": "Efa hitako ny mpanompo mitaingin-tsoavaly, ary ny mpanapaka kosa mandeha an-tongotra toy ny mpanompo."
-    },
-    {
-      "v": 8,
-      "text": "Izay mihady lavaka no ho latsaka ao, ary izay mandrava fefy no hokaikerin' ny menarana."
-    },
-    {
-      "v": 9,
-      "text": "Izay manovoka vato dia haratrany, ary izay mamaky hazo no ho voany."
-    },
-    {
-      "v": 10,
-      "text": "\"Raha dombo ny antsy ka tsy asaina, dia tsy maintsy manao anteninaina izy; fa ny fahendrena no mahasoa hahombiazana.\""
-    },
-    {
-      "v": 11,
-      "text": "Hanaikitra tokoa ny bibilava tsy nanaovana fankatovana, ary tsy hafa noho izany ny mpibedibedy."
-    },
-    {
-      "v": 12,
-      "text": "\"Soa ny teny aloaky ny vavan' ny hendry; fa ny molotry ny adala kosa hitelina ny tenany.\""
-    },
-    {
-      "v": 13,
-      "text": "Ny fiandohan' ny teny aloaky ny vavany dia fahadalana, ary ny fiafaran' ny teniny dia fahaverezan-tsaina mampidi-doza."
-    },
-    {
-      "v": 14,
-      "text": "\"Maro teny koa ny adala; ny olona tsy afaka milaza izay ho avy; ary iza no mahalaza aminy ny ho avy any aoriany?\""
-    },
-    {
-      "v": 15,
-      "text": "Ny fisasaran' ny adala dia mahareraka azy ireo, satria tsy fantany ny fomba hankanesany any an-tanàna."
-    },
-    {
-      "v": 16,
-      "text": "Loza ho anao, ry tany, raha zaza ny mpanjakanao, ary ireo andriananao homa-maraina!"
-    },
-    {
-      "v": 17,
-      "text": "Sambatra kosa ianao, ry tany, raha zanak' andriana no mpanjakanao, ary ny andriananao homana amin' ny fotoana mahamety, mba hampahatanjaka ny tenany, fa tsy ho amin' ny fahamamoana."
-    },
-    {
-      "v": 18,
-      "text": "Ny fahalainana be no mampianjera ny lohatrano, ary ny hakamoan' ny tanana no mampitete ny trano."
-    },
-    {
-      "v": 19,
-      "text": "\"Natao ihomehezana ny fanasana, ary maharavoravo ny divay; fa ny vola no hahazoana ny zavatra rehetra.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Aza manozona ny mpanjaka, na dia amin' ny eritreritrao aza; ary aza manozona ny mpanankarena na dia ao anatin' ny efitrano fandrianao aza, fa na dia ny vorona eny amin' ny habakabaka aza dia hitondra ny feo, ary izay manana elatra dia hanambara ny teny.\""
-    }
-  ]
+  "verses": {
+    "1": "Ny fatin-dalitra mahamaimbo sy mampamorivory ny menaky ny mpangaroharo zava-manitra; toy izany no ataon' ny fahadalana kely amin' izay malaza amin' ny fahendrena sy ny voninahitra.",
+    "2": "Ny fon' ny hendry dia eo ankavanany; fa ny fon' ny adala kosa dia eo ankaviany.",
+    "3": "Ary koa, raha mandeha eny an-dalana ny adala, dia tsy ampy ny fisainany, ary ambarany amin' ny olona rehetra fa adala izy.",
+    "4": "Raha mitsangana hanohitra anao ny fanahin' ny  mpanapaka dia aza miala amin' ny fitoeranao; fa ny fahatsindriam-po mahasakana ny fahadisoana lehibe.",
+    "5": "Misy ratsy efa hitako aty ambany masoandro, dia toy ny fahadisoana tsy nahy ataon' ny mpanapaka:",
+    "6": "Apetraka amin' ny toerana lehibe sy mendrika ny hadalana, ary mipetraka eo amin' ny toerana ambany ny mpanankarena.",
+    "7": "Efa hitako ny mpanompo mitaingin-tsoavaly, ary ny mpanapaka kosa mandeha an-tongotra toy ny mpanompo.",
+    "8": "Izay mihady lavaka no ho latsaka ao, ary izay mandrava fefy no hokaikerin' ny menarana.",
+    "9": "Izay manovoka vato dia haratrany, ary izay mamaky hazo no ho voany.",
+    "10": "Raha dombo ny antsy ka tsy asaina, dia tsy maintsy manao anteninaina izy; fa ny fahendrena no mahasoa hahombiazana.",
+    "11": "Hanaikitra tokoa ny bibilava tsy nanaovana fankatovana, ary tsy hafa noho izany ny mpibedibedy.",
+    "12": "Soa ny teny aloaky ny vavan' ny hendry; fa ny molotry ny adala kosa hitelina ny tenany.",
+    "13": "Ny fiandohan' ny teny aloaky ny vavany dia fahadalana, ary ny fiafaran' ny teniny dia fahaverezan-tsaina mampidi-doza.",
+    "14": "Maro teny koa ny adala; ny olona tsy afaka milaza izay ho avy; ary iza no mahalaza aminy ny ho avy any aoriany?",
+    "15": "Ny fisasaran' ny adala dia mahareraka azy ireo, satria tsy fantany ny fomba hankanesany any an-tanàna.",
+    "16": "Loza ho anao, ry tany, raha zaza ny mpanjakanao, ary ireo andriananao homa-maraina!",
+    "17": "Sambatra kosa ianao, ry tany, raha zanak' andriana no mpanjakanao, ary ny andriananao homana amin' ny fotoana mahamety, mba hampahatanjaka ny tenany, fa tsy ho amin' ny fahamamoana.",
+    "18": "Ny fahalainana be no mampianjera ny lohatrano, ary ny hakamoan' ny tanana no mampitete ny trano.",
+    "19": "Natao ihomehezana ny fanasana, ary maharavoravo ny divay; fa ny vola no hahazoana ny zavatra rehetra.",
+    "20": "Aza manozona ny mpanjaka, na dia amin' ny eritreritrao aza; ary aza manozona ny mpanankarena na dia ao anatin' ny efitrano fandrianao aza, fa na dia ny vorona eny amin' ny habakabaka aza dia hitondra ny feo, ary izay manana elatra dia hanambara ny teny."
+  }
 }

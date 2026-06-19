@@ -1,205 +1,56 @@
 {
+  "book": "Nomery",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary Kora, zanak' i Jizara, zanak' i Kehata, zanak' i Levy, ary Datana sy Abìrama, zanak' i Eliaba, sy Ona, zanak' i Peleta, izay taranak' i Robena dia nandrendri-bahoaka;\""
-    },
-    {
-      "v": 2,
-      "text": "Ka nitsangana teo anatrehan'i Mosesy izy ireo sy ny Zanak' Isiraely dimampolo amby roanjato, izay lohan' ny fiangonana, dia olona be voninahitra sy fanta-daza."
-    },
-    {
-      "v": 3,
-      "text": "Koa niangona hiodina amin' i Mosesy sy Arona izy ireo ka nanao taminy hoe: Mihevi-tena ho zavatra ianareo, fa efa masina avokoa ny fiangonana rehetra sady eo aminy Jehovah, koa nahoana no dia manandra-tena ho ambonin' ny fiangonan' i Jehovah ianareo?"
-    },
-    {
-      "v": 4,
-      "text": "\"Ary raha nandre izany Mosesy, dia niankohoka izy;\""
-    },
-    {
-      "v": 5,
-      "text": "Ary niteny tamin' i Kora sy ny antokony rehetra ka nanao hoe: Rahampitso dia hasehon' i Jehovah izay Azy sy izay masina ka hampanakekeny Azy, dia izay fidiny no hampanakekeny Azy."
-    },
-    {
-      "v": 6,
-      "text": "Izao no ataovy, ry Kora sy ianareo antokony rehetra: makà fitondran' afo ianareo,"
-    },
-    {
-      "v": 7,
-      "text": "\"Dia asio afo ao anatiny ka asio ditin-kazo manitra ao aminy eo anatrehan' i Jehovah rahampitso; ary izao no hisy, ny lehilahy izay fidin' i Jehovah, dia izy no ho masina, fa mihevi-tena ho zavatra loatra ianareo, ry taranak' i Levy!\""
-    },
-    {
-      "v": 8,
-      "text": "Dia hoy Mosesy tamin' i Kora: Masìna ianareo, ry taranak' i Levy, mihainoa:"
-    },
-    {
-      "v": 9,
-      "text": "Moa ataonareo ho zavatra kely va ny nampisarahan' Andriamanitry ny Isiraely anareo tamin' ny fiangonan' ny Isiraely hitondrany anareo ho akaiky Azy, hanaovanareo ny fanompoana momba ny tabernakelin' i Jehovah sy hijanonanareo eo anatrehan' ny fiangonana hanompo azy?"
-    },
-    {
-      "v": 10,
-      "text": "Dia nampanakekeny Azy ianao sy ny rahalahinao taranak' i Levy rehetra miaraka aminao, ary mitady ny asam-pisoronana koa va ianareo?"
-    },
-    {
-      "v": 11,
-      "text": "\"Ary noho izany ianao sy ny antokonao rehetra dia tafangona hiodina amin' i Jehovah; fa Arona moa no inona, no imonomononanareo?\""
-    },
-    {
-      "v": 12,
-      "text": "Ary Mosesy naniraka nampiantso an' i Datana sy Abìrama, zanakalahin' i Eliaba, izay nanao hoe: tsy hiakatra izahay."
-    },
-    {
-      "v": 13,
-      "text": "Moa zavatra kely va ny nitondranao anay niakatra niala tany amin' izay tany tondra-dronono sy tantely hahafaty anay aty an' efitra, no dia manao anao ho lehibenay koa ianao?"
-    },
-    {
-      "v": 14,
-      "text": "\"Ary koa, ianao tsy nitondra anay ho any amin' izay tany tondra-dronono sy tantely tsinona, na nanome anay saha sy tanimboaloboka ho lovanay; hopotsirinao va ny mason' ireto lehilahy ireto? Tsy hiakatra izahay.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Dia tezitra indrindra Mosesy ka nanao tamin' i Jehovah hoe: Aza mijery ny fanatiny akory Ianao; tsy naka na dia boriky iray akory taminy aza aho, ary tsy nanisy ratsy na dia tamin' ny anankiray taminy akory aza.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Dia hoy Mosesy tamin' i Kora: Aoka ianao sy ny antokonao rehetra ho tonga eo anatrehan' i Jehovah rahampitso, dia ianao sy ireo ary Arona;\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary samia maka ny fitondran' afony avy ianareo rehetra, ary asio ditin-kazo manitra eo anatiny, ary samia mitondra ny fitondran' afony avy ianareo rehetra ho eo anatrehan' i Jehovah, dia fitondran' afo dimampolo amby roanjato; dia ianao koa sy Arona samy hitondra ny fitondran' afonareo avy.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Ary samy naka ny fitondran' afony avy izy rehetra ka nanisy afo tao anatiny, dia nanisy ditin-kazo manitra tao anatiny; ary nijanona teo anoloan' ny varavaran' ny tranolay fihaonana izy mbamin' i Mosesy sy Arona.\""
-    },
-    {
-      "v": 19,
-      "text": "\"Ary nanangona ny fiangonana rehetra Kora ho eo anoloan' ny varavaran' ny tranolay fihaonana hanohitra azy roa lahy; dia niseho tamin' ny fiangonana rehetra ny voninahitr' i Jehovah.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary Jehovah niteny tamin' i Mosesy sy Arona ka nanao hoe:"
-    },
-    {
-      "v": 21,
-      "text": "Mihataha amin' ity fiangonana ity ianareo handringanako azy amin' ny indray mipi-maso monja."
-    },
-    {
-      "v": 22,
-      "text": "Dia niankohoka izy roa lahy ka nanao hoe: Andriamanitra ô, Andriamanitry ny fanahin' ny nofo rehetra, olona iray no nanota, ka ho tezitra amin' ny fiangonana rehetra va Ianao?"
-    },
-    {
-      "v": 23,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 24,
-      "text": "Mitenena amin' ny fiangonana, ka lazao hoe: Mihataha tsy hanodidina ny lain' i Kora sy Datana ary Abìrama."
-    },
-    {
-      "v": 25,
-      "text": "\"Dia nitsangana Mosesy ka nankeo amin' i Datana sy Abìrama; ary nanaraka azy ny loholon' ny Isiraely.\""
-    },
-    {
-      "v": 26,
-      "text": "Dia niteny tamin' ny fiangonana izy ka nanao hoe: Masìna ianareo, mialà amin' ny lain' ireo olon-dratsy ireo, ka aza mikasika izay azy akory, fandrao haringana koa ianareo noho ny fahotany rehetra."
-    },
-    {
-      "v": 27,
-      "text": "\"Dia nihataka ny olona mba tsy ho eo akaikin' ny lain' i Kora sy Datana ary Abìrama; ary Datana sy Abìrama nivoaka ka nijanona teo anoloan' ny varavaran' ny lainy mbamin' ny vadiny sy ny zanany lahy ary ny zanany madinika.\""
-    },
-    {
-      "v": 28,
-      "text": "Dia hoy Mosesy: Izao no hahafantaranareo fa Jehovah no naniraka ahy hanao izao asa rehetra izao, fa tsy avy amin' ny saiko izany:"
-    },
-    {
-      "v": 29,
-      "text": "Raha maty toy ny fahafatesan' ny olona rehetra ireo olona ireo, na valiana araka ny famaliana ny olona rehetra izy, dia tsy Jehovah no naniraka ahy."
-    },
-    {
-      "v": 30,
-      "text": "Fa raha hanao zava-baovao kosa Jehovah, ka hisokatra ny tany ary hitelina azy mbamin' izay azy rehetra ka ho latsaka tampoka any amin' ny helo izy, dia ho fantatrareo fa efa nampahatezitra an' i Jehovah ireo lehilahy ireo."
-    },
-    {
-      "v": 31,
-      "text": "\"Ary izao no niseho, rehefa tapitra voalazany izany teny izany, dia nivava ny tany izay teo ambaniny;\""
-    },
-    {
-      "v": 32,
-      "text": "Ary nisokatra ny tany ka nitelina azy sy ny lainy mbamin' ny olona rehetra izay an' i Kora ary ny fananany rehetra."
-    },
-    {
-      "v": 33,
-      "text": "Dia latsaka velona ho any amin' ny helo izy mbamin' izay azy rehetra, ary ny tany dia nikatona taminy, ka fongotra tsy ho amin' ny fiangonana izy."
-    },
-    {
-      "v": 34,
-      "text": "\"Ary ny Isiraely rehetra izay nanodidina azy dia nandositra noho ny fidradradradrany; fa hoy izy: Andrao hitelina antsika koa ny tany.\""
-    },
-    {
-      "v": 35,
-      "text": "Ary nisy afo nivoaka avy tamin' i Jehovah ka nandevona ny lehilahy dimampolo amby roanjato izay nanatitra ditin-kazo manitra."
-    },
-    {
-      "v": 36,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 37,
-      "text": "Mitenena amin' i Eleazara, zanakalahin' i Arona mpisorona, mba hotsimponiny eo anatin' ny may ny fitondran' afo, ary ny afo dia aelezo lavitra, fa masina ireny."
-    },
-    {
-      "v": 38,
-      "text": "\"Ary ny fitondran' afon' ireo mpanota nanimba ny fanahiny ireo, dia aoka hatao takelaka manify hapetaka amin' ny alitara; fa nateriny teo anatrehan' i Jehovah ireny ka masina; ary ho famantarana ho an' ny Zanak' Isiraely ireny.\""
-    },
-    {
-      "v": 39,
-      "text": "\"Ary nalain' i Eleazara mpisorona ny fitondran' afo varahina, izay efa nanateran' ireo olona may ireo, ka nofisahiny ho takelaka hapetraka amin' ny alitara;\""
-    },
-    {
-      "v": 40,
-      "text": "\"Ho fahatsiarovana ho an' ny Zanak' Isiraely mba tsy hisy vahiny, afa-tsy ny taranak' i Arona ihany no hahazo manakaiky handoro ditin-kazo manitra eo anatrehan' i Jehovah; fandrao ho tahaka an' i Kora sy ny antokony izy; dia araka ny tenin' i Jehovah izay nampitondrainy an' i Mosesy.\""
-    },
-    {
-      "v": 41,
-      "text": "Fa nony ampitso dia nimonomonona tamin' i Mosesy sy Arona ny fiangonan' ny Zanak' Isiraely rehetra ka nanao hoe: Efa namono ny olon' i Jehovah ianareo."
-    },
-    {
-      "v": 42,
-      "text": "Ary izao no niseho, rehefa niangona hanome tsiny an' i Mosesy sy Arona ny fiangonana, dia nijery ny tranolay fihaonana izy, ka, indro, nanarona azy ny rahona, ary niseho ny voninahitr' i Jehovah."
-    },
-    {
-      "v": 43,
-      "text": "Ary Mosesy sy Arona dia nankeo anoloan' ny tranolay fihaonana."
-    },
-    {
-      "v": 44,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 45,
-      "text": "Mialà amin' io fiangonana io handringanako azy amin' ny indray mipì-maso monja. Dia niankohoka izy roa lahy."
-    },
-    {
-      "v": 46,
-      "text": "Ary hoy Mosesy tamin' i Arona: Alao ny fitondran' afo, ka asio afo eo ambonin' ny alitara, dia asio ditin-kazo manitra, ka ento faingana eo amin' ny fiangonana, dia manaova fanavotana ho azy, fa efa nivoaka avy tamin' i Jehovah ny fahatezerana, ary efa niantomboka ny areti-mandringana."
-    },
-    {
-      "v": 47,
-      "text": "\"Dia nalain' i Arona izany, araka izay nandidian' i Mosesy, ka nihazakazaka ho eo afovoan' ny fiangonana izy; ary, indro, efa niantomboka teo amin' ny olona ny areti-mandringana; ary nandoro ny ditin-kazo manitra teo izy ka nanao fanavotana ho an' ny olona.\""
-    },
-    {
-      "v": 48,
-      "text": "Dia nijanona teo anelanelan' ny maty sy ny velona izy, ka dia nitsahatra ny areti-mandringana."
-    },
-    {
-      "v": 49,
-      "text": "Ary izay efa matin' ny areti-mandringana dia fitonjato amby efatra arivo sy iray alina, afa-tsy izay efa maty noho ny amin' i Kora."
-    },
-    {
-      "v": 50,
-      "text": "\"Ary Arona niverina ho eo amin' i Mosesy teo anoloan' ny varavaran' ny tranolay fihaonana; ary ny areti-mandringana dia nitsahatra.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary Kora, zanak' i Jizara, zanak' i Kehata, zanak' i Levy, ary Datana sy Abìrama, zanak' i Eliaba, sy Ona, zanak' i Peleta, izay taranak' i Robena dia nandrendri-bahoaka;",
+    "2": "Ka nitsangana teo anatrehan'i Mosesy izy ireo sy ny Zanak' Isiraely dimampolo amby roanjato, izay lohan' ny fiangonana, dia olona be voninahitra sy fanta-daza.",
+    "3": "Koa niangona hiodina amin' i Mosesy sy Arona izy ireo ka nanao taminy hoe: Mihevi-tena ho zavatra ianareo, fa efa masina avokoa ny fiangonana rehetra sady eo aminy Jehovah, koa nahoana no dia manandra-tena ho ambonin' ny fiangonan' i Jehovah ianareo?",
+    "4": "Ary raha nandre izany Mosesy, dia niankohoka izy;",
+    "5": "Ary niteny tamin' i Kora sy ny antokony rehetra ka nanao hoe: Rahampitso dia hasehon' i Jehovah izay Azy sy izay masina ka hampanakekeny Azy, dia izay fidiny no hampanakekeny Azy.",
+    "6": "Izao no ataovy, ry Kora sy ianareo antokony rehetra: makà fitondran' afo ianareo,",
+    "7": "Dia asio afo ao anatiny ka asio ditin-kazo manitra ao aminy eo anatrehan' i Jehovah rahampitso; ary izao no hisy, ny lehilahy izay fidin' i Jehovah, dia izy no ho masina, fa mihevi-tena ho zavatra loatra ianareo, ry taranak' i Levy!",
+    "8": "Dia hoy Mosesy tamin' i Kora: Masìna ianareo, ry taranak' i Levy, mihainoa:",
+    "9": "Moa ataonareo ho zavatra kely va ny nampisarahan' Andriamanitry ny Isiraely anareo tamin' ny fiangonan' ny Isiraely hitondrany anareo ho akaiky Azy, hanaovanareo ny fanompoana momba ny tabernakelin' i Jehovah sy hijanonanareo eo anatrehan' ny fiangonana hanompo azy?",
+    "10": "Dia nampanakekeny Azy ianao sy ny rahalahinao taranak' i Levy rehetra miaraka aminao, ary mitady ny asam-pisoronana koa va ianareo?",
+    "11": "Ary noho izany ianao sy ny antokonao rehetra dia tafangona hiodina amin' i Jehovah; fa Arona moa no inona, no imonomononanareo?",
+    "12": "Ary Mosesy naniraka nampiantso an' i Datana sy Abìrama, zanakalahin' i Eliaba, izay nanao hoe: tsy hiakatra izahay.",
+    "13": "Moa zavatra kely va ny nitondranao anay niakatra niala tany amin' izay tany tondra-dronono sy tantely hahafaty anay aty an' efitra, no dia manao anao ho lehibenay koa ianao?",
+    "14": "Ary koa, ianao tsy nitondra anay ho any amin' izay tany tondra-dronono sy tantely tsinona, na nanome anay saha sy tanimboaloboka ho lovanay; hopotsirinao va ny mason' ireto lehilahy ireto? Tsy hiakatra izahay.",
+    "15": "Dia tezitra indrindra Mosesy ka nanao tamin' i Jehovah hoe: Aza mijery ny fanatiny akory Ianao; tsy naka na dia boriky iray akory taminy aza aho, ary tsy nanisy ratsy na dia tamin' ny anankiray taminy akory aza.",
+    "16": "Dia hoy Mosesy tamin' i Kora: Aoka ianao sy ny antokonao rehetra ho tonga eo anatrehan' i Jehovah rahampitso, dia ianao sy ireo ary Arona;",
+    "17": "Ary samia maka ny fitondran' afony avy ianareo rehetra, ary asio ditin-kazo manitra eo anatiny, ary samia mitondra ny fitondran' afony avy ianareo rehetra ho eo anatrehan' i Jehovah, dia fitondran' afo dimampolo amby roanjato; dia ianao koa sy Arona samy hitondra ny fitondran' afonareo avy.",
+    "18": "Ary samy naka ny fitondran' afony avy izy rehetra ka nanisy afo tao anatiny, dia nanisy ditin-kazo manitra tao anatiny; ary nijanona teo anoloan' ny varavaran' ny tranolay fihaonana izy mbamin' i Mosesy sy Arona.",
+    "19": "Ary nanangona ny fiangonana rehetra Kora ho eo anoloan' ny varavaran' ny tranolay fihaonana hanohitra azy roa lahy; dia niseho tamin' ny fiangonana rehetra ny voninahitr' i Jehovah.",
+    "20": "Ary Jehovah niteny tamin' i Mosesy sy Arona ka nanao hoe:",
+    "21": "Mihataha amin' ity fiangonana ity ianareo handringanako azy amin' ny indray mipi-maso monja.",
+    "22": "Dia niankohoka izy roa lahy ka nanao hoe: Andriamanitra ô, Andriamanitry ny fanahin' ny nofo rehetra, olona iray no nanota, ka ho tezitra amin' ny fiangonana rehetra va Ianao?",
+    "23": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "24": "Mitenena amin' ny fiangonana, ka lazao hoe: Mihataha tsy hanodidina ny lain' i Kora sy Datana ary Abìrama.",
+    "25": "Dia nitsangana Mosesy ka nankeo amin' i Datana sy Abìrama; ary nanaraka azy ny loholon' ny Isiraely.",
+    "26": "Dia niteny tamin' ny fiangonana izy ka nanao hoe: Masìna ianareo, mialà amin' ny lain' ireo olon-dratsy ireo, ka aza mikasika izay azy akory, fandrao haringana koa ianareo noho ny fahotany rehetra.",
+    "27": "Dia nihataka ny olona mba tsy ho eo akaikin' ny lain' i Kora sy Datana ary Abìrama; ary Datana sy Abìrama nivoaka ka nijanona teo anoloan' ny varavaran' ny lainy mbamin' ny vadiny sy ny zanany lahy ary ny zanany madinika.",
+    "28": "Dia hoy Mosesy: Izao no hahafantaranareo fa Jehovah no naniraka ahy hanao izao asa rehetra izao, fa tsy avy amin' ny saiko izany:",
+    "29": "Raha maty toy ny fahafatesan' ny olona rehetra ireo olona ireo, na valiana araka ny famaliana ny olona rehetra izy, dia tsy Jehovah no naniraka ahy.",
+    "30": "Fa raha hanao zava-baovao kosa Jehovah, ka hisokatra ny tany ary hitelina azy mbamin' izay azy rehetra ka ho latsaka tampoka any amin' ny helo izy, dia ho fantatrareo fa efa nampahatezitra an' i Jehovah ireo lehilahy ireo.",
+    "31": "Ary izao no niseho, rehefa tapitra voalazany izany teny izany, dia nivava ny tany izay teo ambaniny;",
+    "32": "Ary nisokatra ny tany ka nitelina azy sy ny lainy mbamin' ny olona rehetra izay an' i Kora ary ny fananany rehetra.",
+    "33": "Dia latsaka velona ho any amin' ny helo izy mbamin' izay azy rehetra, ary ny tany dia nikatona taminy, ka fongotra tsy ho amin' ny fiangonana izy.",
+    "34": "Ary ny Isiraely rehetra izay nanodidina azy dia nandositra noho ny fidradradradrany; fa hoy izy: Andrao hitelina antsika koa ny tany.",
+    "35": "Ary nisy afo nivoaka avy tamin' i Jehovah ka nandevona ny lehilahy dimampolo amby roanjato izay nanatitra ditin-kazo manitra.",
+    "36": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "37": "Mitenena amin' i Eleazara, zanakalahin' i Arona mpisorona, mba hotsimponiny eo anatin' ny may ny fitondran' afo, ary ny afo dia aelezo lavitra, fa masina ireny.",
+    "38": "Ary ny fitondran' afon' ireo mpanota nanimba ny fanahiny ireo, dia aoka hatao takelaka manify hapetaka amin' ny alitara; fa nateriny teo anatrehan' i Jehovah ireny ka masina; ary ho famantarana ho an' ny Zanak' Isiraely ireny.",
+    "39": "Ary nalain' i Eleazara mpisorona ny fitondran' afo varahina, izay efa nanateran' ireo olona may ireo, ka nofisahiny ho takelaka hapetraka amin' ny alitara;",
+    "40": "Ho fahatsiarovana ho an' ny Zanak' Isiraely mba tsy hisy vahiny, afa-tsy ny taranak' i Arona ihany no hahazo manakaiky handoro ditin-kazo manitra eo anatrehan' i Jehovah; fandrao ho tahaka an' i Kora sy ny antokony izy; dia araka ny tenin' i Jehovah izay nampitondrainy an' i Mosesy.",
+    "41": "Fa nony ampitso dia nimonomonona tamin' i Mosesy sy Arona ny fiangonan' ny Zanak' Isiraely rehetra ka nanao hoe: Efa namono ny olon' i Jehovah ianareo.",
+    "42": "Ary izao no niseho, rehefa niangona hanome tsiny an' i Mosesy sy Arona ny fiangonana, dia nijery ny tranolay fihaonana izy, ka, indro, nanarona azy ny rahona, ary niseho ny voninahitr' i Jehovah.",
+    "43": "Ary Mosesy sy Arona dia nankeo anoloan' ny tranolay fihaonana.",
+    "44": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "45": "Mialà amin' io fiangonana io handringanako azy amin' ny indray mipì-maso monja. Dia niankohoka izy roa lahy.",
+    "46": "Ary hoy Mosesy tamin' i Arona: Alao ny fitondran' afo, ka asio afo eo ambonin' ny alitara, dia asio ditin-kazo manitra, ka ento faingana eo amin' ny fiangonana, dia manaova fanavotana ho azy, fa efa nivoaka avy tamin' i Jehovah ny fahatezerana, ary efa niantomboka ny areti-mandringana.",
+    "47": "Dia nalain' i Arona izany, araka izay nandidian' i Mosesy, ka nihazakazaka ho eo afovoan' ny fiangonana izy; ary, indro, efa niantomboka teo amin' ny olona ny areti-mandringana; ary nandoro ny ditin-kazo manitra teo izy ka nanao fanavotana ho an' ny olona.",
+    "48": "Dia nijanona teo anelanelan' ny maty sy ny velona izy, ka dia nitsahatra ny areti-mandringana.",
+    "49": "Ary izay efa matin' ny areti-mandringana dia fitonjato amby efatra arivo sy iray alina, afa-tsy izay efa maty noho ny amin' i Kora.",
+    "50": "Ary Arona niverina ho eo amin' i Mosesy teo anoloan' ny varavaran' ny tranolay fihaonana; ary ny areti-mandringana dia nitsahatra."
+  }
 }

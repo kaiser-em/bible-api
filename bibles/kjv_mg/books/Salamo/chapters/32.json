@@ -1,49 +1,17 @@
 {
+  "book": "Salamo",
   "chapter": 32,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Salamo nataon' i Davida. Maskila.]  SAMBATRA ny olona izay voavela ny helony sy voasarona ny fahotany."
-    },
-    {
-      "v": 2,
-      "text": "Sambatra ny olona izay tsy isain' i Jehovah heloka, ary tsy misy fitaka ny fanahiny."
-    },
-    {
-      "v": 3,
-      "text": "Raha nangina aho, dia nihalany ny taolako rehetra noho ny fitarainako mandritra ny andro."
-    },
-    {
-      "v": 4,
-      "text": "\"Fa efa navesatra tamiko andro aman' alina ny tananao; niova ny fahatanjahako toy ny azon' ny fahamainana amin' ny lohataona. [Sela.]\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ny fahotako nambarako taminao, ary ny heloko tsy mba nafeniko; hoy aho: Hiaiky ny fandikan-dalàko amin' i Jehovah aho; ary Ianao dia mamela ny heloky ny fahotako.[Sela.]\""
-    },
-    {
-      "v": 6,
-      "text": "\"Izany no hivavahan' ny tsara fanahy rehetra aminao amin' ny andro hahitana Anao; eny tokoa, na dia tondraka aza ny rano be, tsy hahatratra azy izany.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ianao no fiereko; hiaro ahy tsy ho azon' ny fahoriana Ianao. Hiram-panafahana no ahodidinao ahy. [Sela.]\""
-    },
-    {
-      "v": 8,
-      "text": "\"Hanome saina anao sy hampianatra anao izay lalan-kalehanao aho; hitsinjo anao ny masoko ka hitarika anao.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Aza manahaka ny soavaly na ny mole tsy manan-tsaina; vy sy lamboridy no hihazonana azy; fandrao manakaiky anao izy.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Be ny fanaintainan' ny ratsy fanahy; fa izay matoky an' i Jehovah kosa hohodidinin' ny famindrampo.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Mifalia amin' i Jehovah, ary miravoravoa ianareo olo-marina; ary mihobia, ianareo mahitsy fo rehetra.\""
-    }
-  ]
+  "verses": {
+    "1": "[Salamo nataon' i Davida. Maskila.]  SAMBATRA ny olona izay voavela ny helony sy voasarona ny fahotany.",
+    "2": "Sambatra ny olona izay tsy isain' i Jehovah heloka, ary tsy misy fitaka ny fanahiny.",
+    "3": "Raha nangina aho, dia nihalany ny taolako rehetra noho ny fitarainako mandritra ny andro.",
+    "4": "Fa efa navesatra tamiko andro aman' alina ny tananao; niova ny fahatanjahako toy ny azon' ny fahamainana amin' ny lohataona. [Sela.]",
+    "5": "Ny fahotako nambarako taminao, ary ny heloko tsy mba nafeniko; hoy aho: Hiaiky ny fandikan-dalàko amin' i Jehovah aho; ary Ianao dia mamela ny heloky ny fahotako.[Sela.]",
+    "6": "Izany no hivavahan' ny tsara fanahy rehetra aminao amin' ny andro hahitana Anao; eny tokoa, na dia tondraka aza ny rano be, tsy hahatratra azy izany.",
+    "7": "Ianao no fiereko; hiaro ahy tsy ho azon' ny fahoriana Ianao. Hiram-panafahana no ahodidinao ahy. [Sela.]",
+    "8": "Hanome saina anao sy hampianatra anao izay lalan-kalehanao aho; hitsinjo anao ny masoko ka hitarika anao.",
+    "9": "Aza manahaka ny soavaly na ny mole tsy manan-tsaina; vy sy lamboridy no hihazonana azy; fandrao manakaiky anao izy.",
+    "10": "Be ny fanaintainan' ny ratsy fanahy; fa izay matoky an' i Jehovah kosa hohodidinin' ny famindrampo.",
+    "11": "Mifalia amin' i Jehovah, ary miravoravoa ianareo olo-marina; ary mihobia, ianareo mahitsy fo rehetra."
+  }
 }

@@ -1,41 +1,15 @@
 {
+  "book": "Salamo",
   "chapter": 99,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"MANJAKA Jehovah; aoka hangovitra ny olona; mipetraka amin' ny kerobima Izy; aoka hihorohoro ny tany.\""
-    },
-    {
-      "v": 2,
-      "text": "Lehibe any Ziona Jehovah, ary avo ambonin' ny olona rehetra Izy."
-    },
-    {
-      "v": 3,
-      "text": "\"Aoka hidera ny anaranao lehibe sy mahatahotra ireo; fa masina izany.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ny herin' ny mpanjaka koa dia tia rariny; ampitoerinao ny fahitsiana; fitsarana sy fahamarinana no tanterahinao eo amin' i Jakoba.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Manandrata an' i Jehovah Andriamanitsika ianareo ka miankohofa eo amin' ny fitoeran-tongony; fa masina Izy.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Mosesy sy Arona teo amin' ny mpisorony ary Samoela teo amin' izay miantso ny anarany; niantso an' i Jehovah ireo ka namaly azy ireo Izy.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Niteny taminy tao anatin' ny andri-rahona Izy; nitandrina ny teni-vavolombelony izy ireo sy ny didy izay efa nomeny azy.\""
-    },
-    {
-      "v": 8,
-      "text": "Jehovah Andriamanitray ô, Andriamanitra mpamela ny helony Ianao, na dia namaly azy noho ny nataony aza."
-    },
-    {
-      "v": 9,
-      "text": "\"Asandrato Jehovah Andriamanitsika, ary miankohofa eo an-kavoanany masina; fa masina Jehovah Andriamanitsika.\""
-    }
-  ]
+  "verses": {
+    "1": "MANJAKA Jehovah; aoka hangovitra ny olona; mipetraka amin' ny kerobima Izy; aoka hihorohoro ny tany.",
+    "2": "Lehibe any Ziona Jehovah, ary avo ambonin' ny olona rehetra Izy.",
+    "3": "Aoka hidera ny anaranao lehibe sy mahatahotra ireo; fa masina izany.",
+    "4": "Ny herin' ny mpanjaka koa dia tia rariny; ampitoerinao ny fahitsiana; fitsarana sy fahamarinana no tanterahinao eo amin' i Jakoba.",
+    "5": "Manandrata an' i Jehovah Andriamanitsika ianareo ka miankohofa eo amin' ny fitoeran-tongony; fa masina Izy.",
+    "6": "Mosesy sy Arona teo amin' ny mpisorony ary Samoela teo amin' izay miantso ny anarany; niantso an' i Jehovah ireo ka namaly azy ireo Izy.",
+    "7": "Niteny taminy tao anatin' ny andri-rahona Izy; nitandrina ny teni-vavolombelony izy ireo sy ny didy izay efa nomeny azy.",
+    "8": "Jehovah Andriamanitray ô, Andriamanitra mpamela ny helony Ianao, na dia namaly azy noho ny nataony aza.",
+    "9": "Asandrato Jehovah Andriamanitsika, ary miankohofa eo an-kavoanany masina; fa masina Jehovah Andriamanitsika."
+  }
 }

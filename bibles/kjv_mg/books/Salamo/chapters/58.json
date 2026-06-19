@@ -1,49 +1,17 @@
 {
+  "book": "Salamo",
   "chapter": 58,
-  "verses": [
-    {
-      "v": 1,
-      "text": "[Ho an' ny mpiventy hira. Al-tasheth. Miktama nataon' i Davida.]  MOA milaza ny marina tokoa va ianareo, ry fiangonana? Moa mitsara mahitsy va ianareo, ry zanak' olombelona?"
-    },
-    {
-      "v": 2,
-      "text": "\"Tsy izany, fa ao am-po no amoronanareo faharatsiana; mandanja ny fandozan' ny tananareo ety an-tany ianareo.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Mivily hatrany am-bohoka ny ratsy fanahy; mania izy raha vantany vao teraka, ka miteny lainga.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ny poiziny dia tahaka ny poizin' ny menarana; eny, tahaka ny vipera marenina izay manentsin-tadìny izy,\""
-    },
-    {
-      "v": 5,
-      "text": "Ka tsy mihaino ny feon' ny mpanao ody, na dia izay mpahay ody indrindra aza."
-    },
-    {
-      "v": 6,
-      "text": "\"Andriamanitra ô, torotoroy ny nifiny eo am-bavany; omboty ny vazan' ny liona tanora, Jehovah ô.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Aoka ho ritra tahaka ny ranotrambo izy; raha atraniny ny zana-tsipìkany, dia aoka ho torotoro ireny.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Aoka ho tahaka ny lelosy, izay mihalevona eny am-pandehanana izy; tahaka ny zaza tsy tonga volana izay tsy mahita masoandro.\""
-    },
-    {
-      "v": 9,
-      "text": "Dieny tsy mbola mafanan' ny afon-tsilo ny vilaninareo, ka hoentiny toy ny amin' ny tafio-drivotra mbola velona izy, no sady ao anatin' ny fahatezerany."
-    },
-    {
-      "v": 10,
-      "text": "\"Hifaly ny marina, raha mahita ny famaliana; hanasa ny tongony amin' ny ràn' ny ratsy fanahy izy;\""
-    },
-    {
-      "v": 11,
-      "text": "\"Dia hiteny ny olona ka hanao hoe: Misy valiny tokoa ho an' ny marina; Izy tokoa no Andriamanitra Izay mitsara ety an-tany.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Al-tasheth. Miktama nataon' i Davida.]  MOA milaza ny marina tokoa va ianareo, ry fiangonana? Moa mitsara mahitsy va ianareo, ry zanak' olombelona?",
+    "2": "Tsy izany, fa ao am-po no amoronanareo faharatsiana; mandanja ny fandozan' ny tananareo ety an-tany ianareo.",
+    "3": "Mivily hatrany am-bohoka ny ratsy fanahy; mania izy raha vantany vao teraka, ka miteny lainga.",
+    "4": "Ny poiziny dia tahaka ny poizin' ny menarana; eny, tahaka ny vipera marenina izay manentsin-tadìny izy,",
+    "5": "Ka tsy mihaino ny feon' ny mpanao ody, na dia izay mpahay ody indrindra aza.",
+    "6": "Andriamanitra ô, torotoroy ny nifiny eo am-bavany; omboty ny vazan' ny liona tanora, Jehovah ô.",
+    "7": "Aoka ho ritra tahaka ny ranotrambo izy; raha atraniny ny zana-tsipìkany, dia aoka ho torotoro ireny.",
+    "8": "Aoka ho tahaka ny lelosy, izay mihalevona eny am-pandehanana izy; tahaka ny zaza tsy tonga volana izay tsy mahita masoandro.",
+    "9": "Dieny tsy mbola mafanan' ny afon-tsilo ny vilaninareo, ka hoentiny toy ny amin' ny tafio-drivotra mbola velona izy, no sady ao anatin' ny fahatezerany.",
+    "10": "Hifaly ny marina, raha mahita ny famaliana; hanasa ny tongony amin' ny ràn' ny ratsy fanahy izy;",
+    "11": "Dia hiteny ny olona ka hanao hoe: Misy valiny tokoa ho an' ny marina; Izy tokoa no Andriamanitra Izay mitsara ety an-tany."
+  }
 }

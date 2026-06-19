@@ -1,185 +1,51 @@
 {
+  "book": "Josoa",
   "chapter": 21,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary ny lohan' ireo raim-pianakaviana tamin'ny Levita dia nanatona an' i Eleazara mpisorona sy Josoa, zanak' i Nona ary ny lohan' ny raim-pianakaviana amin' ny fokon' i Zanak' Isiraely,"
-    },
-    {
-      "v": 2,
-      "text": "Ka niteny taminy tao Silo tao amin' ny tany Kanana hoe: Jehovah efa nampandidy an' i Mosesy mba homena tanàna honenana izahay, sy tany manodidina azy ho an' ny biby fiompinay."
-    },
-    {
-      "v": 3,
-      "text": "Dia avy tamin' ny lovany no nanomezan' ny Zanak' Isiraely ny Levita ireny tanàna ireny sy ny tany manodidina azy avy araka ny didin' i Jehovah."
-    },
-    {
-      "v": 4,
-      "text": "\"Dia nahazo loka ny fianakavian' ny Kehatita; ary ny loka azon' ny taranak' i Arona mpisorona isan' ny Levita, dia tanàna telo ambin' ny folo, avy tamin' ny fokon' i Joda sy ny fokon' i Simeona ary ny fokon' i Benjamina.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary ny loka azon' ny taranak' i Kehata sisa dia tanàna folo, avy tamin' ny fianakavian' ny fokon' i Efraima sy ny fokon' i Dana ary ny antsasaky ny fokon' i Manase."
-    },
-    {
-      "v": 6,
-      "text": "Ary ny loka azon' ny taranak' i Gersoma dia tanàna telo ambin' ny folo, avy tamin' ny fianakavian' ny fokon' Isakara sy ny fokon' i Asera sy ny fokon' i Naftaly ary avy tamin' ny antsasaky ny fokon' i Manase any Basana."
-    },
-    {
-      "v": 7,
-      "text": "Ary ny azon' ny taranak' i Merary araka ny fianakaviany dia tanàna roa ambin' ny folo, avy tamin' ny fokon' i Robena sy ny fokon' i Gada ary ny fokon' i Zebolona."
-    },
-    {
-      "v": 8,
-      "text": "Dia nomen' ny Zanak' Isiraely ny Levita tamin' ny antsapaka ireo tanàna ireo sy ny tany manodidina azy avy, araka izay nasain' i Jehovah nandidian' i Mosesy."
-    },
-    {
-      "v": 9,
-      "text": "Dia nomeny avy tamin' ny fokon' i Joda sy ny fokon' ny taranak' i Simeona ireto tanàna izay hotononina anarana ireto:"
-    },
-    {
-      "v": 10,
-      "text": "Izay azon' ny fianakavian' ny Kehatita, amin' ny taranak' i Levy, izay taranak' i Arona, fa azy ny loka voalohany:"
-    },
-    {
-      "v": 11,
-      "text": "Dia nomeny azy ny tanànan' i Arba, rain' i Anaka, Hebrona izany tanàna izany, any amin' ny tany havoan' i Joda, mbamin' ny tany manodidina azy."
-    },
-    {
-      "v": 12,
-      "text": "Fa ny saha momba ny tanàna sy ny zana-bohiny dia nomeny ho fananan' i Kaleba, zanak' i Jefone."
-    },
-    {
-      "v": 13,
-      "text": "Dia nomeny ny taranak' i Arona mpisorona Hebrona sy ny tany manodidina azy, ho tanàna fandosirana ho an' izay nahafaty olona, ary Libna sy ny tany manodidina azy,"
-    },
-    {
-      "v": 14,
-      "text": "Ary Jatira sy ny tany manodidina azy ary Estemoa sy ny tany manodidina azy,"
-    },
-    {
-      "v": 15,
-      "text": "Ary Holona sy ny tany manodidina azy ary Debira sy ny tany manodidina azy,"
-    },
-    {
-      "v": 16,
-      "text": "\"Ary Aina sy ny tany manodidina azy, ary Jota sy ny tany manodidina azy, ary Beti-semesy sy ny tany manodidina azy; tanàna sivy avy tamin' ireo foko roa ireo.\""
-    },
-    {
-      "v": 17,
-      "text": "Ary avy tamin' ny fokon' i Benjamina dia Gibeona sy ny tany manodidina azy, ary Geba sy ny tany manodidina azy,"
-    },
-    {
-      "v": 18,
-      "text": "Ary Anatota sy ny tany manodidina azy, ary Almona sy ny tany manodidina azy, dia tanàna efatra."
-    },
-    {
-      "v": 19,
-      "text": "Ny tanàna rehetra an' ny mpisorona, taranak' i Arona, dia tanàna telo ambin' ny folo ary ny tany manodidina azy avy."
-    },
-    {
-      "v": 20,
-      "text": "Ary ny amin' ny fianakavian' ny taranak' i Kehata, dia ny Levita sisa tamin' ny taranak' i Kehata, ny tanàna azony tamin' ny antsapaka dia avy tamin' ny fokon' i Efraima."
-    },
-    {
-      "v": 21,
-      "text": "\"Fa nomeny azy Sekema sy ny tany manodidina azy any amin' ny tendrombohitr' i Efraima, ho tanàna fandosirana ho an' izay nahafaty olona; ary Gazera sy ny tany manodidina azy,\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary Kibzaima sy ny tany manodidina azy, ary Beti-horona sy ny tany manodidina azy: tanàna efatra;\""
-    },
-    {
-      "v": 23,
-      "text": "Ary avy tamin' ny fokon' i Dana dia Elteke sy ny tany manodidina azy, ary Gibetona sy ny tany manodidina azy,"
-    },
-    {
-      "v": 24,
-      "text": "\"Ary Aialona sy ny tany manodidina azy, ary Gata-rimona sy ny tany manodidina azy: tanàna efatra;\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ary avy tamin' ny antsasaky ny fokon' i Manase dia Tanaka sy ny tany manodidina azy, ary gata-rimona sy ny tany manodidina azy; dia tanàna roa.\""
-    },
-    {
-      "v": 26,
-      "text": "Ny tanàna rehetra azon' ny ankohonan' ny taranak' i Kehata sisa dia folo mbamin' ny tany manodidina azy avy."
-    },
-    {
-      "v": 27,
-      "text": "\"Ary ho an' ny taranak' i Gersona, fianakavian' ny Levita; avy tamin' ny an-tsasaky ny fokon' i Manase dia nomeny i Golana any Basana mbamin' ny tany manodidina azy, ho tanàna fandosirana ho an' izay nahafaty olona, ary Bestera mbamin' ny tany manodidina azy, dia tanàna roa.\""
-    },
-    {
-      "v": 28,
-      "text": "Ary avy tamin' ny fokon' Isakara dia Kisiona sy ny tany manodidina azy, ary Daberata sy ny tany manodidina azy,"
-    },
-    {
-      "v": 29,
-      "text": "\"Jarmota sy ny tany manodidina azy, ary En-ganima sy ny tany manodidina azy, dia tanàna efatra;\""
-    },
-    {
-      "v": 30,
-      "text": "Ary avy tamin' ny fokon' i Asera dia Misala sy ny tany manodidina azy, ary Abdona sy ny tany manodidina azy,"
-    },
-    {
-      "v": 31,
-      "text": "\"Helkata sy ny tany manodidina azy ary Rehoba sy ny tany manodidina azy; dia tanàna efatra.\""
-    },
-    {
-      "v": 32,
-      "text": "\"Ary avy tamin' ny fokon' i Naftaly dia Kadesy any Galilia sy ny tany manodidina azy, ho tanàna fandosirana ho an' izay nahafaty olona; ary Hamota-dora sy ny tany manodidina azy, ary Kartana sy ny tany manodidina azy, dia tanàna telo.\""
-    },
-    {
-      "v": 33,
-      "text": "Ny tanàna rehetra an' ny Gersonita araka ny fianakaviany dia telo ambin' ny folo mbamin' ny tany manodidina azy avy."
-    },
-    {
-      "v": 34,
-      "text": "Ary ho an' ny fianakavian' ny taranak' i Merary, izay Levita sisa dia: avy tamin' ny fokon' i Zebolona dia Jokneama sy ny tany manodidina azy, ary Karta sy ny tany manodidina azy,"
-    },
-    {
-      "v": 35,
-      "text": "\"Dimna sy ny tany manodidina azy, ary Nahalola sy ny tany manodidina azy, dia tanàna efatra;\""
-    },
-    {
-      "v": 36,
-      "text": "Ary avy tamin' ny fokon' i Robena dia Bezera sy ny tany manodidina azy, ary Jahaza sy ny tany manodidina azy,"
-    },
-    {
-      "v": 37,
-      "text": "Ary Kedemota sy ny tany manodidina azy, ary Mefata sy ny tany manodidina azy, dia tanàna efatra."
-    },
-    {
-      "v": 38,
-      "text": "Ary avy tamin' ny fokon' i Gada, dia Ramota any Gileada sy ny tany manodidina azy, ho tanàna fandosirana ho an' izay nahafaty olona, ary Mahanaima sy ny tany manodidina azy,"
-    },
-    {
-      "v": 39,
-      "text": "Hesbona sy ny tany manodidina azy, Jazera sy ny tany manodidina azy, dia tanàna efatra izy rehetra."
-    },
-    {
-      "v": 40,
-      "text": "Koa ny tanàna rehetra an' ny taranak' i Merary araka ny fianakaviany, izay sisa tamin' ny fianakavian' ny Levita, dia tanàna roa ambin' ny folo no loka azony."
-    },
-    {
-      "v": 41,
-      "text": "Ny tanàna rehetra an' ny Levita ao amin' ny fananan' ny Zanak' Isiraely dia valo amby efapolo sy ny tany manodidina azy avy."
-    },
-    {
-      "v": 42,
-      "text": "\"Ireo tanàna ireo dia samy manana ny tany manodidina azy avy; tahaka izany avokoa ireo tanàna rehetra ireo.\""
-    },
-    {
-      "v": 43,
-      "text": "\"Dia nomen' i Jehovah ny Isiraely ny tany rehetra izay efa nianianany homena ny razany; ary azony izany ka nonina tao izy.\""
-    },
-    {
-      "v": 44,
-      "text": "\"Dia nomen' i Jehovah fitsaharana amin' ny manodidina izy, araka izay rehetra nianianany tamin' ny razany, ka tsy nisy olona tamin' ny fahavalony rehetra nahajanona teo anoloany; fa natolotr' i Jehovah teo an-tanany avokoa ny fahavalony rehetra.\""
-    },
-    {
-      "v": 45,
-      "text": "\"Tsy nisy latsaka na dia kely akory aza ny zava-tsoa izay nolazain' i Jehovah tamin' ny ankohonan' Isiraely; tanteraka avokoa ny zavatra rehetra.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary ny lohan' ireo raim-pianakaviana tamin'ny Levita dia nanatona an' i Eleazara mpisorona sy Josoa, zanak' i Nona ary ny lohan' ny raim-pianakaviana amin' ny fokon' i Zanak' Isiraely,",
+    "2": "Ka niteny taminy tao Silo tao amin' ny tany Kanana hoe: Jehovah efa nampandidy an' i Mosesy mba homena tanàna honenana izahay, sy tany manodidina azy ho an' ny biby fiompinay.",
+    "3": "Dia avy tamin' ny lovany no nanomezan' ny Zanak' Isiraely ny Levita ireny tanàna ireny sy ny tany manodidina azy avy araka ny didin' i Jehovah.",
+    "4": "Dia nahazo loka ny fianakavian' ny Kehatita; ary ny loka azon' ny taranak' i Arona mpisorona isan' ny Levita, dia tanàna telo ambin' ny folo, avy tamin' ny fokon' i Joda sy ny fokon' i Simeona ary ny fokon' i Benjamina.",
+    "5": "Ary ny loka azon' ny taranak' i Kehata sisa dia tanàna folo, avy tamin' ny fianakavian' ny fokon' i Efraima sy ny fokon' i Dana ary ny antsasaky ny fokon' i Manase.",
+    "6": "Ary ny loka azon' ny taranak' i Gersoma dia tanàna telo ambin' ny folo, avy tamin' ny fianakavian' ny fokon' Isakara sy ny fokon' i Asera sy ny fokon' i Naftaly ary avy tamin' ny antsasaky ny fokon' i Manase any Basana.",
+    "7": "Ary ny azon' ny taranak' i Merary araka ny fianakaviany dia tanàna roa ambin' ny folo, avy tamin' ny fokon' i Robena sy ny fokon' i Gada ary ny fokon' i Zebolona.",
+    "8": "Dia nomen' ny Zanak' Isiraely ny Levita tamin' ny antsapaka ireo tanàna ireo sy ny tany manodidina azy avy, araka izay nasain' i Jehovah nandidian' i Mosesy.",
+    "9": "Dia nomeny avy tamin' ny fokon' i Joda sy ny fokon' ny taranak' i Simeona ireto tanàna izay hotononina anarana ireto:",
+    "10": "Izay azon' ny fianakavian' ny Kehatita, amin' ny taranak' i Levy, izay taranak' i Arona, fa azy ny loka voalohany:",
+    "11": "Dia nomeny azy ny tanànan' i Arba, rain' i Anaka, Hebrona izany tanàna izany, any amin' ny tany havoan' i Joda, mbamin' ny tany manodidina azy.",
+    "12": "Fa ny saha momba ny tanàna sy ny zana-bohiny dia nomeny ho fananan' i Kaleba, zanak' i Jefone.",
+    "13": "Dia nomeny ny taranak' i Arona mpisorona Hebrona sy ny tany manodidina azy, ho tanàna fandosirana ho an' izay nahafaty olona, ary Libna sy ny tany manodidina azy,",
+    "14": "Ary Jatira sy ny tany manodidina azy ary Estemoa sy ny tany manodidina azy,",
+    "15": "Ary Holona sy ny tany manodidina azy ary Debira sy ny tany manodidina azy,",
+    "16": "Ary Aina sy ny tany manodidina azy, ary Jota sy ny tany manodidina azy, ary Beti-semesy sy ny tany manodidina azy; tanàna sivy avy tamin' ireo foko roa ireo.",
+    "17": "Ary avy tamin' ny fokon' i Benjamina dia Gibeona sy ny tany manodidina azy, ary Geba sy ny tany manodidina azy,",
+    "18": "Ary Anatota sy ny tany manodidina azy, ary Almona sy ny tany manodidina azy, dia tanàna efatra.",
+    "19": "Ny tanàna rehetra an' ny mpisorona, taranak' i Arona, dia tanàna telo ambin' ny folo ary ny tany manodidina azy avy.",
+    "20": "Ary ny amin' ny fianakavian' ny taranak' i Kehata, dia ny Levita sisa tamin' ny taranak' i Kehata, ny tanàna azony tamin' ny antsapaka dia avy tamin' ny fokon' i Efraima.",
+    "21": "Fa nomeny azy Sekema sy ny tany manodidina azy any amin' ny tendrombohitr' i Efraima, ho tanàna fandosirana ho an' izay nahafaty olona; ary Gazera sy ny tany manodidina azy,",
+    "22": "Ary Kibzaima sy ny tany manodidina azy, ary Beti-horona sy ny tany manodidina azy: tanàna efatra;",
+    "23": "Ary avy tamin' ny fokon' i Dana dia Elteke sy ny tany manodidina azy, ary Gibetona sy ny tany manodidina azy,",
+    "24": "Ary Aialona sy ny tany manodidina azy, ary Gata-rimona sy ny tany manodidina azy: tanàna efatra;",
+    "25": "Ary avy tamin' ny antsasaky ny fokon' i Manase dia Tanaka sy ny tany manodidina azy, ary gata-rimona sy ny tany manodidina azy; dia tanàna roa.",
+    "26": "Ny tanàna rehetra azon' ny ankohonan' ny taranak' i Kehata sisa dia folo mbamin' ny tany manodidina azy avy.",
+    "27": "Ary ho an' ny taranak' i Gersona, fianakavian' ny Levita; avy tamin' ny an-tsasaky ny fokon' i Manase dia nomeny i Golana any Basana mbamin' ny tany manodidina azy, ho tanàna fandosirana ho an' izay nahafaty olona, ary Bestera mbamin' ny tany manodidina azy, dia tanàna roa.",
+    "28": "Ary avy tamin' ny fokon' Isakara dia Kisiona sy ny tany manodidina azy, ary Daberata sy ny tany manodidina azy,",
+    "29": "Jarmota sy ny tany manodidina azy, ary En-ganima sy ny tany manodidina azy, dia tanàna efatra;",
+    "30": "Ary avy tamin' ny fokon' i Asera dia Misala sy ny tany manodidina azy, ary Abdona sy ny tany manodidina azy,",
+    "31": "Helkata sy ny tany manodidina azy ary Rehoba sy ny tany manodidina azy; dia tanàna efatra.",
+    "32": "Ary avy tamin' ny fokon' i Naftaly dia Kadesy any Galilia sy ny tany manodidina azy, ho tanàna fandosirana ho an' izay nahafaty olona; ary Hamota-dora sy ny tany manodidina azy, ary Kartana sy ny tany manodidina azy, dia tanàna telo.",
+    "33": "Ny tanàna rehetra an' ny Gersonita araka ny fianakaviany dia telo ambin' ny folo mbamin' ny tany manodidina azy avy.",
+    "34": "Ary ho an' ny fianakavian' ny taranak' i Merary, izay Levita sisa dia: avy tamin' ny fokon' i Zebolona dia Jokneama sy ny tany manodidina azy, ary Karta sy ny tany manodidina azy,",
+    "35": "Dimna sy ny tany manodidina azy, ary Nahalola sy ny tany manodidina azy, dia tanàna efatra;",
+    "36": "Ary avy tamin' ny fokon' i Robena dia Bezera sy ny tany manodidina azy, ary Jahaza sy ny tany manodidina azy,",
+    "37": "Ary Kedemota sy ny tany manodidina azy, ary Mefata sy ny tany manodidina azy, dia tanàna efatra.",
+    "38": "Ary avy tamin' ny fokon' i Gada, dia Ramota any Gileada sy ny tany manodidina azy, ho tanàna fandosirana ho an' izay nahafaty olona, ary Mahanaima sy ny tany manodidina azy,",
+    "39": "Hesbona sy ny tany manodidina azy, Jazera sy ny tany manodidina azy, dia tanàna efatra izy rehetra.",
+    "40": "Koa ny tanàna rehetra an' ny taranak' i Merary araka ny fianakaviany, izay sisa tamin' ny fianakavian' ny Levita, dia tanàna roa ambin' ny folo no loka azony.",
+    "41": "Ny tanàna rehetra an' ny Levita ao amin' ny fananan' ny Zanak' Isiraely dia valo amby efapolo sy ny tany manodidina azy avy.",
+    "42": "Ireo tanàna ireo dia samy manana ny tany manodidina azy avy; tahaka izany avokoa ireo tanàna rehetra ireo.",
+    "43": "Dia nomen' i Jehovah ny Isiraely ny tany rehetra izay efa nianianany homena ny razany; ary azony izany ka nonina tao izy.",
+    "44": "Dia nomen' i Jehovah fitsaharana amin' ny manodidina izy, araka izay rehetra nianianany tamin' ny razany, ka tsy nisy olona tamin' ny fahavalony rehetra nahajanona teo anoloany; fa natolotr' i Jehovah teo an-tanany avokoa ny fahavalony rehetra.",
+    "45": "Tsy nisy latsaka na dia kely akory aza ny zava-tsoa izay nolazain' i Jehovah tamin' ny ankohonan' Isiraely; tanteraka avokoa ny zavatra rehetra."
+  }
 }

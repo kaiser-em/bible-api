@@ -1,77 +1,24 @@
 {
+  "book": "Ohabolana",
   "chapter": 9,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"NY fahendrena efa nanao ny tranony; efa nipaika ny andriny fito izy;\""
-    },
-    {
-      "v": 2,
-      "text": "Efa namono ny bibiny sy nangaroharo ny divainy izy, ary efa namelatra ny latabany koa izy."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary efa naniraka ny ankizivaviny izy; miantso eny an-tampon' ny fitoerana avo any an-tanàna izy ka manao hoe:\""
-    },
-    {
-      "v": 4,
-      "text": "\"Izay kely saina, aoka izy hankaty; ary izay mila fahalalana dia ilazany hoe:\""
-    },
-    {
-      "v": 5,
-      "text": "Avia, hano ny mofoko ary sotroy ny divay voaharoharoko."
-    },
-    {
-      "v": 6,
-      "text": "\"Ilaozy ny hadalana, dia ho velona ianao; ary mizora amin' ny lalan' ny fahalalana.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Izay mananatra ny mpaniratsira dia hahatonga fahafaham-baraka ho an' ny tenany; ary izay mananatra ny ratsy fanahy dia hahazo tsiny ho an' ny tenany ihany.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Aza mananatra ny mpaniratsira ianao fandrao halany; ny hendry no anaro dia ho tiany ianao.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Toroy ny hendry, dia hihahendry kokoa izy; ampianaro ny marina, dia hitombo fahalalana izy.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ny fahatahorana an' i Jehovah no fiandoham-pahendrena; ary ny fahafantarana ny masina no fahazavan-tsaina.\""
-    },
-    {
-      "v": 11,
-      "text": "Fa izaho no hampitomboana ny andronao sy hanamaroana ny taona iainanao."
-    },
-    {
-      "v": 12,
-      "text": "\"Raha hendry ianao, dia hendry ho an' ny tenanao ihany; fa raha maniratsira kosa ianao, dia ianao ihany no hiharan' izany.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ny vehivavy adala dia vavàna; kely saina izy, ka tsy mahalala na inona na inona.\""
-    },
-    {
-      "v": 14,
-      "text": "Fa mipetraka eo am-baravaran' ny tranony izy ary amin' ny seza eny amin' ny fitoerana avo eo an-tanàna,"
-    },
-    {
-      "v": 15,
-      "text": "Mba hiantso ny mpandalo izay mizotra mahitsy, ka manao hoe:"
-    },
-    {
-      "v": 16,
-      "text": "\"Aoka hivily aty izay kely saina; ary amin' izay tsy ampy saina dia hoy izy:\""
-    },
-    {
-      "v": 17,
-      "text": "Mamy ny rano angalarina, ary fy ny mofo hanina amin' ny fiafenana."
-    },
-    {
-      "v": 18,
-      "text": "Nefa tsy fantany fa ny maty no ao, ary ao amin' ny halalin' ny helo ny olona nasainy."
-    }
-  ]
+  "verses": {
+    "1": "NY fahendrena efa nanao ny tranony; efa nipaika ny andriny fito izy;",
+    "2": "Efa namono ny bibiny sy nangaroharo ny divainy izy, ary efa namelatra ny latabany koa izy.",
+    "3": "Ary efa naniraka ny ankizivaviny izy; miantso eny an-tampon' ny fitoerana avo any an-tanàna izy ka manao hoe:",
+    "4": "Izay kely saina, aoka izy hankaty; ary izay mila fahalalana dia ilazany hoe:",
+    "5": "Avia, hano ny mofoko ary sotroy ny divay voaharoharoko.",
+    "6": "Ilaozy ny hadalana, dia ho velona ianao; ary mizora amin' ny lalan' ny fahalalana.",
+    "7": "Izay mananatra ny mpaniratsira dia hahatonga fahafaham-baraka ho an' ny tenany; ary izay mananatra ny ratsy fanahy dia hahazo tsiny ho an' ny tenany ihany.",
+    "8": "Aza mananatra ny mpaniratsira ianao fandrao halany; ny hendry no anaro dia ho tiany ianao.",
+    "9": "Toroy ny hendry, dia hihahendry kokoa izy; ampianaro ny marina, dia hitombo fahalalana izy.",
+    "10": "Ny fahatahorana an' i Jehovah no fiandoham-pahendrena; ary ny fahafantarana ny masina no fahazavan-tsaina.",
+    "11": "Fa izaho no hampitomboana ny andronao sy hanamaroana ny taona iainanao.",
+    "12": "Raha hendry ianao, dia hendry ho an' ny tenanao ihany; fa raha maniratsira kosa ianao, dia ianao ihany no hiharan' izany.",
+    "13": "Ny vehivavy adala dia vavàna; kely saina izy, ka tsy mahalala na inona na inona.",
+    "14": "Fa mipetraka eo am-baravaran' ny tranony izy ary amin' ny seza eny amin' ny fitoerana avo eo an-tanàna,",
+    "15": "Mba hiantso ny mpandalo izay mizotra mahitsy, ka manao hoe:",
+    "16": "Aoka hivily aty izay kely saina; ary amin' izay tsy ampy saina dia hoy izy:",
+    "17": "Mamy ny rano angalarina, ary fy ny mofo hanina amin' ny fiafenana.",
+    "18": "Nefa tsy fantany fa ny maty no ao, ary ao amin' ny halalin' ny helo ny olona nasainy."
+  }
 }

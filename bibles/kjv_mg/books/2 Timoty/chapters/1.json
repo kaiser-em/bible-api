@@ -1,77 +1,24 @@
 {
+  "book": "2 Timoty",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Paoly apostolin’i Jesosy Kristy noho ny sitrapon’Andriamanitra, araka ny tenifikasan’ny fiainana izay ao amin’i Kristy Jesosy,"
-    },
-    {
-      "v": 2,
-      "text": "Mamangy an’i Timoty, zanako malala indrindra: ny fahasoavana sy famindrampo ary ny fiadanana dia avy amin’Andriamanitra Ray sy Jesosy Kristy Tompontsika."
-    },
-    {
-      "v": 3,
-      "text": "\"Misaotra an’Andriamanitra aho, Izay tompoiko araka ny nataon’ny razako amin’ny fieritreretana madio, fa tsy manam-pitsaharana akory ny fahatsiarovako anao amin’ny fivavahako andro aman’alina;\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary maniry fatratra hahita anao aho, satria tsaroako ny ranomasonao, mba ho feno fifaliana aho;\""
-    },
-    {
-      "v": 5,
-      "text": "Fa nisy nahatsiarovako ny finoana tsy mihatsaravelatsihy izay ao anatinao, izay nitoetra taloha tao anatin’i Loisa renibenao sy Eonika reninao, ary matoky aho fa ao anatinao koa izany."
-    },
-    {
-      "v": 6,
-      "text": "Ary noho izany dia mampahatsiaro anao aho mba hamelomanao ny fanomezan’Andriamanitra, izay ao anatinao tamin’ny fametrahako ny tanako."
-    },
-    {
-      "v": 7,
-      "text": "Fa tsy nomen’Andriamanitra fanahin’ny tahotra isika, fa fanahin' ny hery, sy fitiavana, ary fisainana mazava."
-    },
-    {
-      "v": 8,
-      "text": "\"Koa aza menatra ny ho vavolombelon' ny Tompontsika, na ahy mpifatony; fa aoka ianao ho mpiombona ny fahoriana noho ny filazantsara araka ny herin' Andriamanitra;\""
-    },
-    {
-      "v": 9,
-      "text": "Izay namonjy antsika sy niantso antsika tamin’ny fiantsoana masina, tsy araka ny asantsika, fa araka ny fikasany sy ny fahasoavany, izay nomena antsika ao amin’i Kristy Jesosy talohan’ny niandohan’izao tontolo izao,"
-    },
-    {
-      "v": 10,
-      "text": "\"Fa naharihary ankehitriny tamin’ny nisehoan’i Jesosy Kristy Mpamonjy antsika, izay nahafoana ny fahafatesana, ka ny filazantsara no nampisehoany mazava ny fiainana sy ny tsy fahafatesana;\""
-    },
-    {
-      "v": 11,
-      "text": "Izany no nanendrena ahy ho mpitory sy apostoly ary mpampianatra ny Jentilisa."
-    },
-    {
-      "v": 12,
-      "text": "Ary noho izany koa no iaretako izao zavatra izao, ka tsy menatra aho, satria fantatro Izay inoako, ary resy lahatra aho fa Izy dia mahatahiry ilay zavatra natolotro Azy mandra-piavin’izay andro izay."
-    },
-    {
-      "v": 13,
-      "text": "Tano amin’ny finoana sy ny fitiavana ao amin’i Kristy Jesosy ny endriky ny teny tsy misy kilema izay efa renao tamiko."
-    },
-    {
-      "v": 14,
-      "text": "Ilay zavatra tsara natolotra anao dia tehirizo amin’ny alalan’ny Fanahy Masina Izay mitoetra ao anatintsika."
-    },
-    {
-      "v": 15,
-      "text": "\"Fantatrao fa efa nahafoy ahy izay rehetra any Azia; isan’ireny Fygelo sy Hermogena.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Homen’ny Tompo famindrampo anie ny ankohonan’i Onesiforosy, satria namelombelona ny fanahiko matetika izy, fa tsy menatra ny gadrako;\""
-    },
-    {
-      "v": 17,
-      "text": "Fa raha tany Roma izy, dia nitady ahy fatratra ka nahita,"
-    },
-    {
-      "v": 18,
-      "text": "\"Ny Tompo anie hampahita azy famindrampo amin’ny Tompo amin’izay andro izay; ary ny nanompoany ahy tamin-javatra maro tany Efesosy dia tena fantatrao tsara tokoa.\""
-    }
-  ]
+  "verses": {
+    "1": "Paoly apostolin’i Jesosy Kristy noho ny sitrapon’Andriamanitra, araka ny tenifikasan’ny fiainana izay ao amin’i Kristy Jesosy,",
+    "2": "Mamangy an’i Timoty, zanako malala indrindra: ny fahasoavana sy famindrampo ary ny fiadanana dia avy amin’Andriamanitra Ray sy Jesosy Kristy Tompontsika.",
+    "3": "Misaotra an’Andriamanitra aho, Izay tompoiko araka ny nataon’ny razako amin’ny fieritreretana madio, fa tsy manam-pitsaharana akory ny fahatsiarovako anao amin’ny fivavahako andro aman’alina;",
+    "4": "Ary maniry fatratra hahita anao aho, satria tsaroako ny ranomasonao, mba ho feno fifaliana aho;",
+    "5": "Fa nisy nahatsiarovako ny finoana tsy mihatsaravelatsihy izay ao anatinao, izay nitoetra taloha tao anatin’i Loisa renibenao sy Eonika reninao, ary matoky aho fa ao anatinao koa izany.",
+    "6": "Ary noho izany dia mampahatsiaro anao aho mba hamelomanao ny fanomezan’Andriamanitra, izay ao anatinao tamin’ny fametrahako ny tanako.",
+    "7": "Fa tsy nomen’Andriamanitra fanahin’ny tahotra isika, fa fanahin' ny hery, sy fitiavana, ary fisainana mazava.",
+    "8": "Koa aza menatra ny ho vavolombelon' ny Tompontsika, na ahy mpifatony; fa aoka ianao ho mpiombona ny fahoriana noho ny filazantsara araka ny herin' Andriamanitra;",
+    "9": "Izay namonjy antsika sy niantso antsika tamin’ny fiantsoana masina, tsy araka ny asantsika, fa araka ny fikasany sy ny fahasoavany, izay nomena antsika ao amin’i Kristy Jesosy talohan’ny niandohan’izao tontolo izao,",
+    "10": "Fa naharihary ankehitriny tamin’ny nisehoan’i Jesosy Kristy Mpamonjy antsika, izay nahafoana ny fahafatesana, ka ny filazantsara no nampisehoany mazava ny fiainana sy ny tsy fahafatesana;",
+    "11": "Izany no nanendrena ahy ho mpitory sy apostoly ary mpampianatra ny Jentilisa.",
+    "12": "Ary noho izany koa no iaretako izao zavatra izao, ka tsy menatra aho, satria fantatro Izay inoako, ary resy lahatra aho fa Izy dia mahatahiry ilay zavatra natolotro Azy mandra-piavin’izay andro izay.",
+    "13": "Tano amin’ny finoana sy ny fitiavana ao amin’i Kristy Jesosy ny endriky ny teny tsy misy kilema izay efa renao tamiko.",
+    "14": "Ilay zavatra tsara natolotra anao dia tehirizo amin’ny alalan’ny Fanahy Masina Izay mitoetra ao anatintsika.",
+    "15": "Fantatrao fa efa nahafoy ahy izay rehetra any Azia; isan’ireny Fygelo sy Hermogena.",
+    "16": "Homen’ny Tompo famindrampo anie ny ankohonan’i Onesiforosy, satria namelombelona ny fanahiko matetika izy, fa tsy menatra ny gadrako;",
+    "17": "Fa raha tany Roma izy, dia nitady ahy fatratra ka nahita,",
+    "18": "Ny Tompo anie hampahita azy famindrampo amin’ny Tompo amin’izay andro izay; ary ny nanompoany ahy tamin-javatra maro tany Efesosy dia tena fantatrao tsara tokoa."
+  }
 }

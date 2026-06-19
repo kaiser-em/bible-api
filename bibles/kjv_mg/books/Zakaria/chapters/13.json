@@ -1,41 +1,15 @@
 {
+  "book": "Zakaria",
   "chapter": 13,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary amin' izany andro izany dia hisy loharano voasokatra ho an' ny taranak' i Davida sy ho an' ny mponina any Jerosalema hanafaka fahotana sy fahalotoana."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary izao no hiseho amin' izany andro izany, hoy Jehovah, Tompon' ny maro, hofoanako ny anaran-tsampy tsy ho amin' ny tany, ka tsy hotsarovana intsony ireny; ary hoesoriko amin' ny tany koa ny mpaminany sy ny fanahim-pahalotoana.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary izao no hiseho, raha mbola hisy haminany, ny ray aman-dreniny izay niteraka azy dia hanao aminy hoe: tsy ho velona ianao satria miteny lainga amin' ny anaran' i Jehovah; ary ny rainy sy ny reniny izay niteraka azy dia handefona azy raha maminany izy.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary izao no hiseho amin' izany andro izany, ny mpaminany dia samy hahazo henatra noho ny fahitany, raha naminany izy. Tsy hikapaoty volom-biby hamitahana izy."
-    },
-    {
-      "v": 5,
-      "text": "Fa hanao izy hoe: Tsy mpaminany aho, fa mpiasa tany, fa nampianarina hiandry omby fony mbola kely aho."
-    },
-    {
-      "v": 6,
-      "text": "Dia hisy hanao aminy hoe: ka inona itony ratra amin' ny tananao itony? Dia hovaliany hoe: Naratra tao an-tranon' ny sakaizako ireny."
-    },
-    {
-      "v": 7,
-      "text": "Mifohaza, ry sabatra, hamely ny mpiandriko sy ny lehilahy namako, hoy Jehovah, Tompon' ny maro. Asio ny mpiandry, dia hihahaka ny ondry, ary hamerina ny tanako ho amin' ny madinika Aho."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary izao no hiseho, amin' ny tany rehetra hoy Jehovah, ny androatokony ao dia haringana ka ho faty; fa ny ampahatelony sisa no havela ao kosa.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary hoentiko miditra amin' ny afo ny ampahatelony, ary harendriko toy ny fandrendrika volafotsy izy, ary hozahako toetra toy ny fizahan-toetra ny volamena izy; hiantso ny anarako izy, ary Izaho hamaly azy; Izaho hanao hoe: Oloko izy, ary izy hanao hoe: Jehovah no Andriamanitro.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary amin' izany andro izany dia hisy loharano voasokatra ho an' ny taranak' i Davida sy ho an' ny mponina any Jerosalema hanafaka fahotana sy fahalotoana.",
+    "2": "Ary izao no hiseho amin' izany andro izany, hoy Jehovah, Tompon' ny maro, hofoanako ny anaran-tsampy tsy ho amin' ny tany, ka tsy hotsarovana intsony ireny; ary hoesoriko amin' ny tany koa ny mpaminany sy ny fanahim-pahalotoana.",
+    "3": "Ary izao no hiseho, raha mbola hisy haminany, ny ray aman-dreniny izay niteraka azy dia hanao aminy hoe: tsy ho velona ianao satria miteny lainga amin' ny anaran' i Jehovah; ary ny rainy sy ny reniny izay niteraka azy dia handefona azy raha maminany izy.",
+    "4": "Ary izao no hiseho amin' izany andro izany, ny mpaminany dia samy hahazo henatra noho ny fahitany, raha naminany izy. Tsy hikapaoty volom-biby hamitahana izy.",
+    "5": "Fa hanao izy hoe: Tsy mpaminany aho, fa mpiasa tany, fa nampianarina hiandry omby fony mbola kely aho.",
+    "6": "Dia hisy hanao aminy hoe: ka inona itony ratra amin' ny tananao itony? Dia hovaliany hoe: Naratra tao an-tranon' ny sakaizako ireny.",
+    "7": "Mifohaza, ry sabatra, hamely ny mpiandriko sy ny lehilahy namako, hoy Jehovah, Tompon' ny maro. Asio ny mpiandry, dia hihahaka ny ondry, ary hamerina ny tanako ho amin' ny madinika Aho.",
+    "8": "Ary izao no hiseho, amin' ny tany rehetra hoy Jehovah, ny androatokony ao dia haringana ka ho faty; fa ny ampahatelony sisa no havela ao kosa.",
+    "9": "Ary hoentiko miditra amin' ny afo ny ampahatelony, ary harendriko toy ny fandrendrika volafotsy izy, ary hozahako toetra toy ny fizahan-toetra ny volamena izy; hiantso ny anarako izy, ary Izaho hamaly azy; Izaho hanao hoe: Oloko izy, ary izy hanao hoe: Jehovah no Andriamanitro."
+  }
 }

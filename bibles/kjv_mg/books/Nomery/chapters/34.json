@@ -1,121 +1,35 @@
 {
+  "book": "Nomery",
   "chapter": 34,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Mandidia ny Zanak' Isiraely ka lazao aminy hoe: Raha tonga any amin' ny tany Kanana ianareo, (dia izao no tany izay ho azonareo ho lova, dia ny tany Kanana araka izay faritaniny):"
-    },
-    {
-      "v": 3,
-      "text": "Ary ny lafiny atsimo amin' ny taninareo dia hatramin' ny efitra Zina, izay mifanolotra amin' ny faritanin' i Edoma. Ary ny fari-taninareo atsimo dia hatramin' ny faran' ny Ranomasin-tsira any atsinanana,"
-    },
-    {
-      "v": 4,
-      "text": "Dia hiolaka eo atsimon' ny fiakarana Akrabima, dia handroso hatrany Zina, dia hahazo an' i Kadesi-barnea, dia hahazo an' i Hazar-adara ka handroso hatrany Azmona,"
-    },
-    {
-      "v": 5,
-      "text": "Ary hiolaka hatrany Azmona ka hatrany amin' ny reniranon' i Egypta, ka dia hihatra amin' ny ranomasina."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary ny amin' ny fari-tany andrefana dia ny Ranomasina Lehibe no ho sisiny; izany no ho fari-taninareo andrefana.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary izao no ho fari-taninareo avaratra: hatramin' ny Ranomasina Lehibe dia aoka ny tendrombohitra Hora no hotandrifìnareo;\""
-    },
-    {
-      "v": 8,
-      "text": "Ary hatramin' ny tendrombohitra Hora dia aoka ny lalana mankany Hamata no hotandrifìnareo, ary aoka ny faritany hahazo an' i Zedada,"
-    },
-    {
-      "v": 9,
-      "text": "\"Dia hahazo an' i Zifrona ny faritany, ka dia hihatra an' i Hazrenana; izany no ho faritaninareo avaratra.\""
-    },
-    {
-      "v": 10,
-      "text": "Ary ny ho fari-taninareo atsinanana dia hampifanitsio amin' i Hazarenana ka hatrany Sefana,"
-    },
-    {
-      "v": 11,
-      "text": "Dia hidina hatrany Sefana ny fari-tany ka hatrany Ribla any atsinanan' i Aina, dia mbola hidina ihany koa ka hipaka amin' ny Ranomasin' i Kinereta atsinanana,"
-    },
-    {
-      "v": 12,
-      "text": "Dia hidina ihany indray hatrany Jordana, ka dia hihatra amin' ny Ranomasin-tsira. Izany no ho taninareo miaraka amin' ny faritany manodidina."
-    },
-    {
-      "v": 13,
-      "text": "Ary Mosesy nandidy ny Zanak' Isiraely ka nanao hoe: Izany no tany izay ho lovanareo araka ny an-tsapaka, dia izay nandidian' i Jehovah homena ny foko sivy sy sasany,"
-    },
-    {
-      "v": 14,
-      "text": "Fa ny fokon' ny taranak' i Robena araka ny fianakaviany sy ny fokon' ny taranak' i Gada araka ny ankohonan' ny rainy dia efa nandray ny lovany ary ny antsasaky ny fokon' i Manase dia efa nandray ny lovany."
-    },
-    {
-      "v": 15,
-      "text": "Ny foko roa sy sasany efa nandray ny zara-taniny aty an-dafy atsinanan' i Jordana, hitsin' i Jeriko, tandrifin' ny fiposahan' ny masoandro."
-    },
-    {
-      "v": 16,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 17,
-      "text": "Izao no anaran' ny lehilahy izay hizara ny tany ho anareo: Eleazara mpisorona sy Josoa, zanakalahin' i Nona."
-    },
-    {
-      "v": 18,
-      "text": "Ary Loholona iray avy amin' ny isam-poko no halainareo hizara ny tany ho lova."
-    },
-    {
-      "v": 19,
-      "text": "Ary izao no anaran' ireo lehilahy ireo: ny avy amin' ny fokon' i Joda dia Kaleba, zanakalahin' i Jefone."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary avy amin' ny fokon' ny taranak' i Simeona, dia Semoela, zanakalahin' i Amihoda;\""
-    },
-    {
-      "v": 21,
-      "text": "\"Avy amin' ny fokon' i Benjamina, dia Elidada, zanakalahin' i Kislona;\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary ny mpanapaka ny fokon' ny taranak' i Dana, dia Boky, zanakalahin' i Jogly;\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ny mpanapaka ny taranak' i Josefa, ho amin' ny fokon' ny taranak' i Manase, dia Hananiela, zanakalahin' i Efoda;\""
-    },
-    {
-      "v": 24,
-      "text": "Ary ny mpanapaka ny fokon' ny taranak' i Efraima, dia Kemoela, zanakalahin' i Siftana."
-    },
-    {
-      "v": 25,
-      "text": "\"Ary ny mpanapaka ny fokon' ny taranak' i Zebolona, dia Elizafana, zanakalahin' i Parnaka;\""
-    },
-    {
-      "v": 26,
-      "text": "Ary ny mpanapaka ny taranak' i Isakara, dia Paltiela, zanakalahin' i Azana."
-    },
-    {
-      "v": 27,
-      "text": "Ary ny mpanapaka ny fokon' ny taranak' i Asera, dia Ahihoda, zanakalahin' i Selomy."
-    },
-    {
-      "v": 28,
-      "text": "Ary ny mpanapaka ny fokon' ny taranak' i Naftaly, dia Pedahela, zanakalahin' i Amihoda."
-    },
-    {
-      "v": 29,
-      "text": "Ireo no nodidian' i Jehovah hizara ny lova amin' ny Zanak' Isiraely eo amin' ny tany Kanana."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "2": "Mandidia ny Zanak' Isiraely ka lazao aminy hoe: Raha tonga any amin' ny tany Kanana ianareo, (dia izao no tany izay ho azonareo ho lova, dia ny tany Kanana araka izay faritaniny):",
+    "3": "Ary ny lafiny atsimo amin' ny taninareo dia hatramin' ny efitra Zina, izay mifanolotra amin' ny faritanin' i Edoma. Ary ny fari-taninareo atsimo dia hatramin' ny faran' ny Ranomasin-tsira any atsinanana,",
+    "4": "Dia hiolaka eo atsimon' ny fiakarana Akrabima, dia handroso hatrany Zina, dia hahazo an' i Kadesi-barnea, dia hahazo an' i Hazar-adara ka handroso hatrany Azmona,",
+    "5": "Ary hiolaka hatrany Azmona ka hatrany amin' ny reniranon' i Egypta, ka dia hihatra amin' ny ranomasina.",
+    "6": "Ary ny amin' ny fari-tany andrefana dia ny Ranomasina Lehibe no ho sisiny; izany no ho fari-taninareo andrefana.",
+    "7": "Ary izao no ho fari-taninareo avaratra: hatramin' ny Ranomasina Lehibe dia aoka ny tendrombohitra Hora no hotandrifìnareo;",
+    "8": "Ary hatramin' ny tendrombohitra Hora dia aoka ny lalana mankany Hamata no hotandrifìnareo, ary aoka ny faritany hahazo an' i Zedada,",
+    "9": "Dia hahazo an' i Zifrona ny faritany, ka dia hihatra an' i Hazrenana; izany no ho faritaninareo avaratra.",
+    "10": "Ary ny ho fari-taninareo atsinanana dia hampifanitsio amin' i Hazarenana ka hatrany Sefana,",
+    "11": "Dia hidina hatrany Sefana ny fari-tany ka hatrany Ribla any atsinanan' i Aina, dia mbola hidina ihany koa ka hipaka amin' ny Ranomasin' i Kinereta atsinanana,",
+    "12": "Dia hidina ihany indray hatrany Jordana, ka dia hihatra amin' ny Ranomasin-tsira. Izany no ho taninareo miaraka amin' ny faritany manodidina.",
+    "13": "Ary Mosesy nandidy ny Zanak' Isiraely ka nanao hoe: Izany no tany izay ho lovanareo araka ny an-tsapaka, dia izay nandidian' i Jehovah homena ny foko sivy sy sasany,",
+    "14": "Fa ny fokon' ny taranak' i Robena araka ny fianakaviany sy ny fokon' ny taranak' i Gada araka ny ankohonan' ny rainy dia efa nandray ny lovany ary ny antsasaky ny fokon' i Manase dia efa nandray ny lovany.",
+    "15": "Ny foko roa sy sasany efa nandray ny zara-taniny aty an-dafy atsinanan' i Jordana, hitsin' i Jeriko, tandrifin' ny fiposahan' ny masoandro.",
+    "16": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "17": "Izao no anaran' ny lehilahy izay hizara ny tany ho anareo: Eleazara mpisorona sy Josoa, zanakalahin' i Nona.",
+    "18": "Ary Loholona iray avy amin' ny isam-poko no halainareo hizara ny tany ho lova.",
+    "19": "Ary izao no anaran' ireo lehilahy ireo: ny avy amin' ny fokon' i Joda dia Kaleba, zanakalahin' i Jefone.",
+    "20": "Ary avy amin' ny fokon' ny taranak' i Simeona, dia Semoela, zanakalahin' i Amihoda;",
+    "21": "Avy amin' ny fokon' i Benjamina, dia Elidada, zanakalahin' i Kislona;",
+    "22": "Ary ny mpanapaka ny fokon' ny taranak' i Dana, dia Boky, zanakalahin' i Jogly;",
+    "23": "Ny mpanapaka ny taranak' i Josefa, ho amin' ny fokon' ny taranak' i Manase, dia Hananiela, zanakalahin' i Efoda;",
+    "24": "Ary ny mpanapaka ny fokon' ny taranak' i Efraima, dia Kemoela, zanakalahin' i Siftana.",
+    "25": "Ary ny mpanapaka ny fokon' ny taranak' i Zebolona, dia Elizafana, zanakalahin' i Parnaka;",
+    "26": "Ary ny mpanapaka ny taranak' i Isakara, dia Paltiela, zanakalahin' i Azana.",
+    "27": "Ary ny mpanapaka ny fokon' ny taranak' i Asera, dia Ahihoda, zanakalahin' i Selomy.",
+    "28": "Ary ny mpanapaka ny fokon' ny taranak' i Naftaly, dia Pedahela, zanakalahin' i Amihoda.",
+    "29": "Ireo no nodidian' i Jehovah hizara ny lova amin' ny Zanak' Isiraely eo amin' ny tany Kanana."
+  }
 }

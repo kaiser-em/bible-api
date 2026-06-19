@@ -1,121 +1,35 @@
 {
+  "book": "2 Samoela",
   "chapter": 17,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ary hoy koa Ahitofela tamin' i Absaloma: aoka aho hifantina lehilahy roa arivo amby iray alina, dia hiainga aho ka hanenjika an' i Davida anio alina;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary ho tonga eo aminy aho amin' ilay izy mbola sasatra sy miraviravy tanana iny, ka dia hampitahoriko izy; dia handositra ny vahoaka rehetra izay any aminy; ary ny mpanjaka ihany no hasiako.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Dia haveriko ho ety aminao ny vahoaka rehetra; miankina amin' io lehilahy tadiavinareo io ny hiverenan' ny vahoaka rehetra, ka dia hiadana ny olona rehetra.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary sitrak' i Absaloma sy ny loholon' ny Isiraely rehetra izany."
-    },
-    {
-      "v": 5,
-      "text": "Kanefa hoy Absaloma: Mba antsoy kosa Hosay Arkita, ary aoka ho rentsika koa izay teniny."
-    },
-    {
-      "v": 6,
-      "text": "\"Ary nony tonga teo amin' i Absaloma i Hosay dia hoy Absaloma taminy: Izao no nolazain' i Ahitofela; ka hanao araka ny teniny va isika? Raha tsy izany, dia mba mitenena ianao;\""
-    },
-    {
-      "v": 7,
-      "text": "Ary hoy Hosay tamin' i Absaloma: Tsy mety ny torohevitra nataon' i Ahitofela tamin' ity."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary hoy koa Hosay: ianao mahalala ny rainao sy ny olony, fa olona mahery izy sady masiaka tahaka ny bera very anaka any an-tsaha; ary lehilahy mpiady rainao ka tsy hiara-mitoetra amin' ny vahoaka.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Indro, miery any an-davaka izy izao, na ao amin' ny fitoerana hafa; ary izao no hiseho, raha misy resiny amin' ny voalohany, izay mandre izany dia hanao hoe: Nahafatesana ny olona manaraka an' i Absaloma,\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary na dia izay mahery fo koa aza ka manana fo tahaka ny fon' ny liona, dia ho ketraka tokoa; fa fantatry ny Isiraely rehetra fa lehilahy mahery rainao, sady lehilahy mahery fo koa ireny manaraka azy ireny.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Koa izao no hevitro: Aoka hovorina ho eto aminao avokoa ny Isiraely rehetra hatrany Dana ka hatrany Beri-sheba toy ny fasika eny amoron-dranomasina ny hamaroany; ka dia ny tenanao no hankany an-tafika.\""
-    },
-    {
-      "v": 12,
-      "text": "Dia ho tonga ao aminy amin' izay fitoerana anankiray hahitana azy isika, ka dia hilatsaka aminy toy ny filatsaky ny ando amin' ny tany, ka tsy hasiantsika miangana na dia iray akory aza izy mbamin' izay olona rehetra manaraka azy."
-    },
-    {
-      "v": 13,
-      "text": "Fa raha miditra an-tanàna izy, dia hitondran' ny Isiraely rehetra mahazaka izany tanàna izany, ka dia hotarihintsika ho any amin' ny ony izany ambara-paha-tsy hisy na dia vato kely iray aza hita ao."
-    },
-    {
-      "v": 14,
-      "text": "Ary hoy Absaloma sy ny lehilahy rehetra amin' ny Isiraely: Tsara noho ny torohevitr' i Ahitofela ny torohevitra nataon' i Hosay Arkita. Fa efa notendren' i Jehovah ho foana ny torohevitra tsaran' i Ahitofela, hampidiran' i Jehovah loza amin' i Absaloma."
-    },
-    {
-      "v": 15,
-      "text": "\"Dia hoy Hosay tamin' i Zadoka sy Abiatara mpisorona: Izany ka izany no torohevitra nomen' i Ahitofela an' i Absaloma sy ny loholon' ny Isiraely; ary izao ka izao kosa no torohevitra nomeko azy.\""
-    },
-    {
-      "v": 16,
-      "text": "Koa maniraha haingana izao, ary ambarao amin' i Davida hoe: Aza mitoetra any amin' ny tany lemaka any an' efitra anio alina, fa mità faingana, fandrao ho levona ny mpanjaka sy ny olona rehetra miaraka aminy."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary Jonatana sy Ahimaza nitoetra tao En-rogela; fa tsy sahy niseho tao an-tanàna izy; ary nisy ankizivavy anankiray nivoivoy nanambara taminy; dia lasa nandeha nanambara tany amin' i Davida mpanjaka kosa izy roa lahy.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Fa nisy zazalahy iray nahita azy ka nanambara tamin' i Absaloma; nefa lasa faingana izy roa lahy ka tonga tao an-tranon' olona tao Bahorima, izay nisy lavaka fantsakana tao an-tokotaniny, dia nidina tao izy roa lahy.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary nalain' ny vadin-dralehilahy ny rakotra ka narakony teo am-bavan' ny lavaka fantsakana, ary dia nanahy kobam-barimbazaha teo amboniny izy, ka tsy nisy nahalala."
-    },
-    {
-      "v": 20,
-      "text": "Ary nony tonga tao amin-dravehivavy tao an-trano ny mpanompon' i Absaloma dia nanao hoe: Aiza Ahimaza sy Jonatana teto? Fa hoy ravehivavy taminy: Tafita ny renirano kely izy izay. Ary nony efa nitady azy ireo ka tsy nahita dia niverina nankany Jerosalema."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary izao no niseho, nony efa lasa ireo, dia niakatra avy tao amin' ny lavaka fantsakana izy roa lahy, ka lasa nandeha hanambara tamin' i Davida mpanjaka, ary hoy izy tamin' i Davida: Miaingà, ka mità faingana ny rano; fa izany no torohevitra nataon' i Ahitofela hamelezana anareo.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Dia niainga Davida sy ny olona nanaraka azy, ka nita an' i Jordana izy; ary nony maraina ny andro, dia tsy nisy tsy tafita an' i Jordana na dia olona iray aza.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary nony hitan' i Ahitofela fa tsy narahina ny torohevitra nataony, dia nasiany lasely ny borikiny, dia niainga izy ka nody tany an-tranony tany an-tanànany; ary nanafatra ny ankohonany izy, dia nananton-tena, ka dia maty ary nalevina tao amin' ny fasan-drainy.\""
-    },
-    {
-      "v": 24,
-      "text": "Ary Davida tonga tao Mahanaima. ary Absaloma nita an' i Jordana, dia izy sy ny lehilahy rehetra amin' ny Isiraely izay nanaraka azy."
-    },
-    {
-      "v": 25,
-      "text": "\"Ary amasa no notendren' Absaloma ho komandin' ny miaramilany ho solon' i Joaba; ary amasa dia zanak' ilay Isiraelita atao hoe Jitra, ilay nandry tamin' i Abigaila, zanakavavin' i Nahasy sady rahavavin' i Zeroia, renin' i Joaba.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary ny Isiraely sy Absaloma nitoby tany amin' ny tany Gileada."
-    },
-    {
-      "v": 27,
-      "text": "Ary izao no niseho, nony tonga tao Mahanaima Davida, dia indreo, tamy Soby, zanak' i Nahasy, avy any Raban' ny taranak' i Amona, sy Makira, zanak' i  Amiela, avy any Lo-debara, ary Barzilay Gileadita, avy any Rogelima,"
-    },
-    {
-      "v": 28,
-      "text": "Nitondra fandriana sy tavin-drano sy vilany tany sy vary tritika sy vary hordea sy koba sy lango sy tsaramaso sy voanemba ary voanemba voaendy,"
-    },
-    {
-      "v": 29,
-      "text": "\"Sy tantely sy dibera sy ondry ary fromazin' ombivavy mba hohanin' i Davida sy ny olona niaraka taminy; fa hoy izy: Noana sy sasatra ary mangetaheta aty an' efitra ny vahoaka.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary hoy koa Ahitofela tamin' i Absaloma: aoka aho hifantina lehilahy roa arivo amby iray alina, dia hiainga aho ka hanenjika an' i Davida anio alina;",
+    "2": "Ary ho tonga eo aminy aho amin' ilay izy mbola sasatra sy miraviravy tanana iny, ka dia hampitahoriko izy; dia handositra ny vahoaka rehetra izay any aminy; ary ny mpanjaka ihany no hasiako.",
+    "3": "Dia haveriko ho ety aminao ny vahoaka rehetra; miankina amin' io lehilahy tadiavinareo io ny hiverenan' ny vahoaka rehetra, ka dia hiadana ny olona rehetra.",
+    "4": "Ary sitrak' i Absaloma sy ny loholon' ny Isiraely rehetra izany.",
+    "5": "Kanefa hoy Absaloma: Mba antsoy kosa Hosay Arkita, ary aoka ho rentsika koa izay teniny.",
+    "6": "Ary nony tonga teo amin' i Absaloma i Hosay dia hoy Absaloma taminy: Izao no nolazain' i Ahitofela; ka hanao araka ny teniny va isika? Raha tsy izany, dia mba mitenena ianao;",
+    "7": "Ary hoy Hosay tamin' i Absaloma: Tsy mety ny torohevitra nataon' i Ahitofela tamin' ity.",
+    "8": "Ary hoy koa Hosay: ianao mahalala ny rainao sy ny olony, fa olona mahery izy sady masiaka tahaka ny bera very anaka any an-tsaha; ary lehilahy mpiady rainao ka tsy hiara-mitoetra amin' ny vahoaka.",
+    "9": "Indro, miery any an-davaka izy izao, na ao amin' ny fitoerana hafa; ary izao no hiseho, raha misy resiny amin' ny voalohany, izay mandre izany dia hanao hoe: Nahafatesana ny olona manaraka an' i Absaloma,",
+    "10": "Ary na dia izay mahery fo koa aza ka manana fo tahaka ny fon' ny liona, dia ho ketraka tokoa; fa fantatry ny Isiraely rehetra fa lehilahy mahery rainao, sady lehilahy mahery fo koa ireny manaraka azy ireny.",
+    "11": "Koa izao no hevitro: Aoka hovorina ho eto aminao avokoa ny Isiraely rehetra hatrany Dana ka hatrany Beri-sheba toy ny fasika eny amoron-dranomasina ny hamaroany; ka dia ny tenanao no hankany an-tafika.",
+    "12": "Dia ho tonga ao aminy amin' izay fitoerana anankiray hahitana azy isika, ka dia hilatsaka aminy toy ny filatsaky ny ando amin' ny tany, ka tsy hasiantsika miangana na dia iray akory aza izy mbamin' izay olona rehetra manaraka azy.",
+    "13": "Fa raha miditra an-tanàna izy, dia hitondran' ny Isiraely rehetra mahazaka izany tanàna izany, ka dia hotarihintsika ho any amin' ny ony izany ambara-paha-tsy hisy na dia vato kely iray aza hita ao.",
+    "14": "Ary hoy Absaloma sy ny lehilahy rehetra amin' ny Isiraely: Tsara noho ny torohevitr' i Ahitofela ny torohevitra nataon' i Hosay Arkita. Fa efa notendren' i Jehovah ho foana ny torohevitra tsaran' i Ahitofela, hampidiran' i Jehovah loza amin' i Absaloma.",
+    "15": "Dia hoy Hosay tamin' i Zadoka sy Abiatara mpisorona: Izany ka izany no torohevitra nomen' i Ahitofela an' i Absaloma sy ny loholon' ny Isiraely; ary izao ka izao kosa no torohevitra nomeko azy.",
+    "16": "Koa maniraha haingana izao, ary ambarao amin' i Davida hoe: Aza mitoetra any amin' ny tany lemaka any an' efitra anio alina, fa mità faingana, fandrao ho levona ny mpanjaka sy ny olona rehetra miaraka aminy.",
+    "17": "Ary Jonatana sy Ahimaza nitoetra tao En-rogela; fa tsy sahy niseho tao an-tanàna izy; ary nisy ankizivavy anankiray nivoivoy nanambara taminy; dia lasa nandeha nanambara tany amin' i Davida mpanjaka kosa izy roa lahy.",
+    "18": "Fa nisy zazalahy iray nahita azy ka nanambara tamin' i Absaloma; nefa lasa faingana izy roa lahy ka tonga tao an-tranon' olona tao Bahorima, izay nisy lavaka fantsakana tao an-tokotaniny, dia nidina tao izy roa lahy.",
+    "19": "Ary nalain' ny vadin-dralehilahy ny rakotra ka narakony teo am-bavan' ny lavaka fantsakana, ary dia nanahy kobam-barimbazaha teo amboniny izy, ka tsy nisy nahalala.",
+    "20": "Ary nony tonga tao amin-dravehivavy tao an-trano ny mpanompon' i Absaloma dia nanao hoe: Aiza Ahimaza sy Jonatana teto? Fa hoy ravehivavy taminy: Tafita ny renirano kely izy izay. Ary nony efa nitady azy ireo ka tsy nahita dia niverina nankany Jerosalema.",
+    "21": "Ary izao no niseho, nony efa lasa ireo, dia niakatra avy tao amin' ny lavaka fantsakana izy roa lahy, ka lasa nandeha hanambara tamin' i Davida mpanjaka, ary hoy izy tamin' i Davida: Miaingà, ka mità faingana ny rano; fa izany no torohevitra nataon' i Ahitofela hamelezana anareo.",
+    "22": "Dia niainga Davida sy ny olona nanaraka azy, ka nita an' i Jordana izy; ary nony maraina ny andro, dia tsy nisy tsy tafita an' i Jordana na dia olona iray aza.",
+    "23": "Ary nony hitan' i Ahitofela fa tsy narahina ny torohevitra nataony, dia nasiany lasely ny borikiny, dia niainga izy ka nody tany an-tranony tany an-tanànany; ary nanafatra ny ankohonany izy, dia nananton-tena, ka dia maty ary nalevina tao amin' ny fasan-drainy.",
+    "24": "Ary Davida tonga tao Mahanaima. ary Absaloma nita an' i Jordana, dia izy sy ny lehilahy rehetra amin' ny Isiraely izay nanaraka azy.",
+    "25": "Ary amasa no notendren' Absaloma ho komandin' ny miaramilany ho solon' i Joaba; ary amasa dia zanak' ilay Isiraelita atao hoe Jitra, ilay nandry tamin' i Abigaila, zanakavavin' i Nahasy sady rahavavin' i Zeroia, renin' i Joaba.",
+    "26": "Ary ny Isiraely sy Absaloma nitoby tany amin' ny tany Gileada.",
+    "27": "Ary izao no niseho, nony tonga tao Mahanaima Davida, dia indreo, tamy Soby, zanak' i Nahasy, avy any Raban' ny taranak' i Amona, sy Makira, zanak' i  Amiela, avy any Lo-debara, ary Barzilay Gileadita, avy any Rogelima,",
+    "28": "Nitondra fandriana sy tavin-drano sy vilany tany sy vary tritika sy vary hordea sy koba sy lango sy tsaramaso sy voanemba ary voanemba voaendy,",
+    "29": "Sy tantely sy dibera sy ondry ary fromazin' ombivavy mba hohanin' i Davida sy ny olona niaraka taminy; fa hoy izy: Noana sy sasatra ary mangetaheta aty an' efitra ny vahoaka."
+  }
 }

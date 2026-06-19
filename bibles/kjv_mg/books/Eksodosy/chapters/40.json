@@ -1,157 +1,44 @@
 {
+  "book": "Eksodosy",
   "chapter": 40,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "Amin' ny andro voalohany amin' ny volana voalohany dia atsangano ny tabernakelin' ny tranolay fihaonana."
-    },
-    {
-      "v": 3,
-      "text": "Ary ataovy ao ny fiaran' ny Vavolombelona, ka takony efitra lamba ny fiara."
-    },
-    {
-      "v": 4,
-      "text": "\"Ary ampidiro ny latabatra ka alaharo izay zavatra alahatra eo amboniny; ary ampidiro ny fanaovanjiro, ka ampireheto ny jiro.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary ny alitara volamena ho an' ny ditin-kazo manitra dia ataovy eo anoloan' ny fiaran' ny Vavolombelona, ary ny varavarana lamba dia ataovy eo amin' ny tabernakely."
-    },
-    {
-      "v": 6,
-      "text": "Ary ny alitaran' ny fanatitra dorana dia apetraho eo anoloan' ny varavaran' ny tabernakelin' ny tranolay fihaonana."
-    },
-    {
-      "v": 7,
-      "text": "Ary ny tavy fanasana dia apetraho eo anelanelan' ny tranolay fihaonana sy ny alitara, ka asio rano ao anatiny."
-    },
-    {
-      "v": 8,
-      "text": "Ary amboary ny kianja manodidina, ka ahantòny ny vavahady lamba eo amin' ny vavahadin' ny kianja."
-    },
-    {
-      "v": 9,
-      "text": "Ary alao ny diloilo fanosorana, ka hosory ny tabernakely sy izay rehetra ao, dia hamasino izany mbamin' ny fanaka rehetra momba azy, ka dia ho masina izany."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary hosory ny alitaran' ny fanatitra dorana sy ny fanaka rehetra momba azy; ary hamasino ny alitara, dia ho alitara masina indrindra izany.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary hosory ny tavy fanasana sy ny tongony ka hamasino izany."
-    },
-    {
-      "v": 12,
-      "text": "Ary ento Arona mbamin' ny zanany lahy hankeo amin' ny varavaran' ny tranolay fihaonana, ka sasao amin' ny rano izy ireo."
-    },
-    {
-      "v": 13,
-      "text": "Ary ampiankanjoy an' i Arona ny fitafiana masina ka hosory izy, ary hamasino izy mba hahazoany manao fanompoana ho ahy amin' ny raharahan' ny mpisorona."
-    },
-    {
-      "v": 14,
-      "text": "Ary ento ny zanany lahy ka ampiakanjoy azy ireo ny akanjo lava."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary hosory izy ireo tahaka ny nanosoranao ny rainy, mba hahazoany manao fanompoana ho Ahy amin' ny raharahan' ny mpisorona; fa ny fanosorana azy dia ho fisoronana mandrakizay tokoa hatramin' ny taranany mifandimby.\""
-    },
-    {
-      "v": 16,
-      "text": "Dia nataon' i Mosesy izany: araka izay rehetra efa nandidian' i Jehovah azy no nataony."
-    },
-    {
-      "v": 17,
-      "text": "Ary izao no niseho, tamin' ny volana voalohany tamin' ny taona faharoa, tamin' ny andro voalohany amin' ny volana no nananganana ny tabernakely."
-    },
-    {
-      "v": 18,
-      "text": "Ary Mosesy nanangana ny tabernakely ka namehy ny faladiany sy nanangana ny hazofisany ary nametraka ny barany sy nanangana ny andriny."
-    },
-    {
-      "v": 19,
-      "text": "Ary namelatra ny lay teo ambonin' ny tabernakely izy, ary ny firakotry ny lay nataony teo amboniny, dia araka izay efa nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 20,
-      "text": "Dia nalainy ny Vavolombelona ka napetrany tao anatin' ny fiara, ary ny bao dia nataony teo amin' ny fiara, ary ny rakotra fanaovam-panavotana dia napetrany teo ambonin' ny fiara."
-    },
-    {
-      "v": 21,
-      "text": "Ary nentiny ho ao anatin' ny tabernakely ny fiara, ary napetrany ny efitra lamba fanakonana ka notakonany ny fiaran' ny Vavolombelona, araka izay nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 22,
-      "text": "Ary napetrany tao amin' ny tranolay fihaonana ny latabatra, teo amin' ny lafin' ny tabernakely mianavaratra, teo ivelan' ny efitra lamba."
-    },
-    {
-      "v": 23,
-      "text": "Ary nandahatra ny mofo teo ambonin' izany, teo anatrehan' i Jehovah izy, araka izay efa nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 24,
-      "text": "Ary ny fanaovanjiro dia napetrany tao amin' ny tranolay fihaonana, tandrifin' ny latabatra, teo amin' ny lafin' ny tabernakely mianatsimo."
-    },
-    {
-      "v": 25,
-      "text": "Ary nampirehitra ny jiro teo anatrehan' i Jehovah izy, araka izay nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 26,
-      "text": "Ary ny alitara volamena dia nataony teo amin' ny tranolay fihaonana, teo anoloan' ny efitra lamba."
-    },
-    {
-      "v": 27,
-      "text": "Ary nandoro ditin-kazo mani-pofona teo izy, dia araka izay efa nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 28,
-      "text": "\"Ary ny varavarana lamba dia nataony teo amin' ny varavaran' ny tabernakely;\""
-    },
-    {
-      "v": 29,
-      "text": "Ary ny alitaran' ny fanatitra dorana dia napetrany teo akaikin' ny varavaran' ny tabernakelin' ny tranolay fihaonana, ary nateriny teo amboniny ny fanatitra dorana sy ny fanatitra hohanina, araka ny nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 30,
-      "text": "Ary ny tavy fanasana dia nataony teo anelanelan' ny tranolay fihaonana sy ny alitara, ka nasiany rano tao anatiny mba hisasana."
-    },
-    {
-      "v": 31,
-      "text": "\"Ary teo no nanasan' i Mosesy sy Arona ary ireo zanany lahy ny tanany sy ny tongony;\""
-    },
-    {
-      "v": 32,
-      "text": "Rehefa niditra tao amin' ny tranolay fihaonana izy ireo, sy rehefa nanakaiky ny alitara, dia nisasa izy ireo, araka ny nandidian' i Jehovah an' i Mosesy."
-    },
-    {
-      "v": 33,
-      "text": "Ary natsangany ny kianja manodidina ny tabernakely sy ny alitara, ary natsangany ny vavahady lamba teo amin' ny vavahadin' ny kianja. Dia vitan' i Mosesy ny asa."
-    },
-    {
-      "v": 34,
-      "text": "Ary ny rahona nanarona ny tranolay fihaonana, ary ny voninahitr' i Jehovah nameno ny tabernakely."
-    },
-    {
-      "v": 35,
-      "text": "Ary tsy afaka niditra tao amin' ny tranolay fihaonana Mosesy, satria ny rahona nitoetra teo amboniny, ary ny voninahitr' i Jehovah nameno ny tabernakely."
-    },
-    {
-      "v": 36,
-      "text": "Ary rehefa nakarina niala tamin' ny tabernakely ny rahona, dia nandeha nandroso tamin' ny diany rehetra ny Zanak' Isiraely."
-    },
-    {
-      "v": 37,
-      "text": "Fa raha tsy nakarina kosa ny rahona, dia tsy nandeha izy ireo mandra-piavin' ny andro izay nampakarana izany."
-    },
-    {
-      "v": 38,
-      "text": "Fa ny rahon' i Jehovah dia teo ambonin' ny tabernakely nony andro, ary afo no teo aminy nony alina, teo imason' ny taranak' Isiraely rehetra, nandritra ny diany rehetra."
-    }
-  ]
+  "verses": {
+    "1": "Ary Jehovah niteny tamin' i Mosesy ka nanao hoe:",
+    "2": "Amin' ny andro voalohany amin' ny volana voalohany dia atsangano ny tabernakelin' ny tranolay fihaonana.",
+    "3": "Ary ataovy ao ny fiaran' ny Vavolombelona, ka takony efitra lamba ny fiara.",
+    "4": "Ary ampidiro ny latabatra ka alaharo izay zavatra alahatra eo amboniny; ary ampidiro ny fanaovanjiro, ka ampireheto ny jiro.",
+    "5": "Ary ny alitara volamena ho an' ny ditin-kazo manitra dia ataovy eo anoloan' ny fiaran' ny Vavolombelona, ary ny varavarana lamba dia ataovy eo amin' ny tabernakely.",
+    "6": "Ary ny alitaran' ny fanatitra dorana dia apetraho eo anoloan' ny varavaran' ny tabernakelin' ny tranolay fihaonana.",
+    "7": "Ary ny tavy fanasana dia apetraho eo anelanelan' ny tranolay fihaonana sy ny alitara, ka asio rano ao anatiny.",
+    "8": "Ary amboary ny kianja manodidina, ka ahantòny ny vavahady lamba eo amin' ny vavahadin' ny kianja.",
+    "9": "Ary alao ny diloilo fanosorana, ka hosory ny tabernakely sy izay rehetra ao, dia hamasino izany mbamin' ny fanaka rehetra momba azy, ka dia ho masina izany.",
+    "10": "Ary hosory ny alitaran' ny fanatitra dorana sy ny fanaka rehetra momba azy; ary hamasino ny alitara, dia ho alitara masina indrindra izany.",
+    "11": "Ary hosory ny tavy fanasana sy ny tongony ka hamasino izany.",
+    "12": "Ary ento Arona mbamin' ny zanany lahy hankeo amin' ny varavaran' ny tranolay fihaonana, ka sasao amin' ny rano izy ireo.",
+    "13": "Ary ampiankanjoy an' i Arona ny fitafiana masina ka hosory izy, ary hamasino izy mba hahazoany manao fanompoana ho ahy amin' ny raharahan' ny mpisorona.",
+    "14": "Ary ento ny zanany lahy ka ampiakanjoy azy ireo ny akanjo lava.",
+    "15": "Ary hosory izy ireo tahaka ny nanosoranao ny rainy, mba hahazoany manao fanompoana ho Ahy amin' ny raharahan' ny mpisorona; fa ny fanosorana azy dia ho fisoronana mandrakizay tokoa hatramin' ny taranany mifandimby.",
+    "16": "Dia nataon' i Mosesy izany: araka izay rehetra efa nandidian' i Jehovah azy no nataony.",
+    "17": "Ary izao no niseho, tamin' ny volana voalohany tamin' ny taona faharoa, tamin' ny andro voalohany amin' ny volana no nananganana ny tabernakely.",
+    "18": "Ary Mosesy nanangana ny tabernakely ka namehy ny faladiany sy nanangana ny hazofisany ary nametraka ny barany sy nanangana ny andriny.",
+    "19": "Ary namelatra ny lay teo ambonin' ny tabernakely izy, ary ny firakotry ny lay nataony teo amboniny, dia araka izay efa nandidian' i Jehovah an' i Mosesy.",
+    "20": "Dia nalainy ny Vavolombelona ka napetrany tao anatin' ny fiara, ary ny bao dia nataony teo amin' ny fiara, ary ny rakotra fanaovam-panavotana dia napetrany teo ambonin' ny fiara.",
+    "21": "Ary nentiny ho ao anatin' ny tabernakely ny fiara, ary napetrany ny efitra lamba fanakonana ka notakonany ny fiaran' ny Vavolombelona, araka izay nandidian' i Jehovah an' i Mosesy.",
+    "22": "Ary napetrany tao amin' ny tranolay fihaonana ny latabatra, teo amin' ny lafin' ny tabernakely mianavaratra, teo ivelan' ny efitra lamba.",
+    "23": "Ary nandahatra ny mofo teo ambonin' izany, teo anatrehan' i Jehovah izy, araka izay efa nandidian' i Jehovah an' i Mosesy.",
+    "24": "Ary ny fanaovanjiro dia napetrany tao amin' ny tranolay fihaonana, tandrifin' ny latabatra, teo amin' ny lafin' ny tabernakely mianatsimo.",
+    "25": "Ary nampirehitra ny jiro teo anatrehan' i Jehovah izy, araka izay nandidian' i Jehovah an' i Mosesy.",
+    "26": "Ary ny alitara volamena dia nataony teo amin' ny tranolay fihaonana, teo anoloan' ny efitra lamba.",
+    "27": "Ary nandoro ditin-kazo mani-pofona teo izy, dia araka izay efa nandidian' i Jehovah an' i Mosesy.",
+    "28": "Ary ny varavarana lamba dia nataony teo amin' ny varavaran' ny tabernakely;",
+    "29": "Ary ny alitaran' ny fanatitra dorana dia napetrany teo akaikin' ny varavaran' ny tabernakelin' ny tranolay fihaonana, ary nateriny teo amboniny ny fanatitra dorana sy ny fanatitra hohanina, araka ny nandidian' i Jehovah an' i Mosesy.",
+    "30": "Ary ny tavy fanasana dia nataony teo anelanelan' ny tranolay fihaonana sy ny alitara, ka nasiany rano tao anatiny mba hisasana.",
+    "31": "Ary teo no nanasan' i Mosesy sy Arona ary ireo zanany lahy ny tanany sy ny tongony;",
+    "32": "Rehefa niditra tao amin' ny tranolay fihaonana izy ireo, sy rehefa nanakaiky ny alitara, dia nisasa izy ireo, araka ny nandidian' i Jehovah an' i Mosesy.",
+    "33": "Ary natsangany ny kianja manodidina ny tabernakely sy ny alitara, ary natsangany ny vavahady lamba teo amin' ny vavahadin' ny kianja. Dia vitan' i Mosesy ny asa.",
+    "34": "Ary ny rahona nanarona ny tranolay fihaonana, ary ny voninahitr' i Jehovah nameno ny tabernakely.",
+    "35": "Ary tsy afaka niditra tao amin' ny tranolay fihaonana Mosesy, satria ny rahona nitoetra teo amboniny, ary ny voninahitr' i Jehovah nameno ny tabernakely.",
+    "36": "Ary rehefa nakarina niala tamin' ny tabernakely ny rahona, dia nandeha nandroso tamin' ny diany rehetra ny Zanak' Isiraely.",
+    "37": "Fa raha tsy nakarina kosa ny rahona, dia tsy nandeha izy ireo mandra-piavin' ny andro izay nampakarana izany.",
+    "38": "Fa ny rahon' i Jehovah dia teo ambonin' ny tabernakely nony andro, ary afo no teo aminy nony alina, teo imason' ny taranak' Isiraely rehetra, nandritra ny diany rehetra."
+  }
 }

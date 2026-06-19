@@ -1,121 +1,35 @@
 {
+  "book": "Ezekiela",
   "chapter": 39,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary ianao, ry zanak' olona, dia maminania ny hamelezana an' i Goga, ka ataovy hoe: izao no lazain' i Jehovah Andriamanitra: indro, hamely anao Aho, ry Goga, andriandehiben' i Meseka sy Tobala."
-    },
-    {
-      "v": 2,
-      "text": "Hampirenireniko ianao ka tsy hamelako afa-tsy ny ampaheninao ianao ary hitondra anao hiakatra avy any amin' ny farany avaratra Aho dia hoentiko ho any an-tendrombohitry ny Isiraely ianao."
-    },
-    {
-      "v": 3,
-      "text": "Ary hasiako ny tsipìkanao hiala eny an-tananao ankavia, ary halatsako hiala eny an-tananao ankavanana ny zana-tsipìkanao."
-    },
-    {
-      "v": 4,
-      "text": "Any an-tendrombohitry ny Isiraely no hiampatramparanao, ianao sy ny miaramilanao rehetra mbamin' ny firenena izay miaraka aminao, homeko hohanin' ny vorona mpihaza samy hafa karazana rehetra sy ny biby eny an-tsaha ianao."
-    },
-    {
-      "v": 5,
-      "text": "\"Eny an-tsaha malalaka no hiamparanao; fa Izaho no efa niteny izany, hoy Jehovah Andriamanitra.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary haterako afo Magoga sy izay mipetraka tsy manana ahiahy any amin' ny nosy; ka dia ho fantany fa Izaho no Jehovah.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Ary ny anarako masina dia hataoko fantatra ao amin' ny Isiraely oloko; ary tsy havelako holotoiny intsony ny anarako masina, ka dia ho fantatry ny firenena fa Izaho no Jehovah, ny Iray Masina ao amin' ny Isiraely.\""
-    },
-    {
-      "v": 8,
-      "text": "Indro, tonga izany ka tanteraka, hoy Jehovah Andriamanitra. Izao no andro izay nolazaiko."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary hivoaka ny mponina ao amin' ny tanànan' ny Isiraely ka handrehitra sy hitaina fiadiana, dia ny ampinga lehibe sy ny ampinga kely, ny tsipìka sy ny zana-tsipìka, ny langilangy sy ny lefona, ary hitaina izany mandritra ny fito taona izy;\""
-    },
-    {
-      "v": 10,
-      "text": "Fa tsy haka kitay hazo any an-tsaha na hanapaka hazo any an' ala izy, fa hitaina ny fiadiana ka hamabo izay efa namabo azy sy handroba izay efa nandroba azy, hoy Jehovah Andriamanitra."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary izao no hiseho amin' izany andro izany, homeko tany ao amin' ny Isiraely Goga hasiana fasana, dia ny lohasahan' ny mpandalo ao atsinanan' ny ranomasina ary hampitampin' orona ny mpandalo izany, ary any no handevenany an' i Goga sy ny olony marobe rehetra; ary ny anarany hataony hoe Lohasahan' i Hamona-Goga.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary fito volana mipaka no handevenan' ny taranak' Isiraely azy, hanadiovany ny tany."
-    },
-    {
-      "v": 13,
-      "text": "\"Eny, ny tompon-tany rehetra no handevina azy; ary ho laza ho azy izany amin' ny andro hampisehoako ny voninahitro, hoy Jehovah Andriamanitra.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Ary izy hanavaka sy hanendry olona ho mpitety ny tany sy izay hiaraka amin' ny mpitety koa handevina ny mbola sisa eny ambonin' ny tany, hanadiovana azy; rehefa afaka fito volana, dia vao hikatsaka izy;\""
-    },
-    {
-      "v": 15,
-      "text": "Ary raha mandeha mitety ny tany ireo mpitety ka mahita taolan' olona, dia hanorina marika eo anilany mandra-pandevin' ny mpandevina azy ao amin' ny Lohasahan' i Hamona-Goga."
-    },
-    {
-      "v": 16,
-      "text": "Ary ny anaran' ny tanàna koa dia ho Hamona. Toy izany no hanadiovany ny tany."
-    },
-    {
-      "v": 17,
-      "text": "Ary ianao, ry zanak' olona, dia izao no lazain' i Jehovah Andriamanitra: ataovy amin' ny voro-manidina rehetra sy ny biby eny an-tsaha rehetra hoe: mivoria ianareo, ka mankanesa aty: miangòna ianareo avy amin' ny manodidina ho amin' ny fanatitro izay vonoiko ho anareo, dia fanatitra lehibe eny an-tendrombohitry ny Isiraely, hihinananareo nofo sy hisotroanareo ra."
-    },
-    {
-      "v": 18,
-      "text": "Ny nofon' ny lehilahy mahery no hohaninareo ary ny ràn' ireo mpanjakan' ny tany no hosotroinareo, dia ondrilahy sy zanak' ondry sy osilahy ary vantotr' ombilahy, samy mifahy avy any Basana izy rehetra."
-    },
-    {
-      "v": 19,
-      "text": "Dia hihinana matavy ianareo mandra-pahavokinareo ary hisotro rà mandrapahaleonareo avy amin' ny fanatitro izay novonoiko ho anareo."
-    },
-    {
-      "v": 20,
-      "text": "Ary ho voky soavaly sy kalesy ary lehilahy mahery mbamin' ny miaramila rehetra eo amin' ny latabatro ianareo, hoy Jehovah Andriamanitra."
-    },
-    {
-      "v": 21,
-      "text": "Ary hasehoko any amin' ny jentilisa ny voninahitro, ka ho hitan' ny jentilisa rehetra ny fitsarana hataoko sy ny tanako izay hahinjitro aminy."
-    },
-    {
-      "v": 22,
-      "text": "Ary ho fantatry ny taranak' Isiraely fa Izaho no Jehovah Andriamaniny hatry ny androtriny ka hatramin' ny ho avy rehetra."
-    },
-    {
-      "v": 23,
-      "text": "\" Ary ho fantatry ny jentilisa fa ny heloky ny taranak' Isiraely no nahababo azy; satria nivadika tamiko izy, dia izany no nanafenako ny tavako taminy sy nanolorako azy ho eo an-tanan' ny fahavalony ka dia lavon-tsabatra izy rehetra.\""
-    },
-    {
-      "v": 24,
-      "text": "Araka ny fahalotoany sy ny fahadisoany no navaliko azy sy nanafenako ny tavako taminy."
-    },
-    {
-      "v": 25,
-      "text": "\"Koa izao no lazain' i Jehovah Andriamanitra: ankehitriny dia hampodiko avy amin' ny fahababoany Jakoba, ary hamindrako fo ny taranak' Isiraely rehetra; ary hiseho ho saro-piaro noho ny amin' ny anarako masina Aho.\""
-    },
-    {
-      "v": 26,
-      "text": "Aorian' ny nitondrany ny fahamenarany sy ny fahadisoany rehetra izay nandisoany tamiko, rehefa mandry fahizay ao amin' ny taniny izy, ka tsy misy manaitaitra azy,"
-    },
-    {
-      "v": 27,
-      "text": "\"Rehefa ampodiko avy any amin' ny firenena indray izy ary angoniko avy any amin' ny tanin' ny fahavalony; ary hamasinina ao aminy Aho eo imason' ny firenena maro;\""
-    },
-    {
-      "v": 28,
-      "text": "\"Dia ho fantany fa Izaho no Jehovah Andriamaniny izay nitondra azy ho babo tany amin' ny jentilisa; nefa nanangona azy ho any amin' ny taniny Aho, ka tsy hisy hafoiko any izy na dia iray akory aza.\""
-    },
-    {
-      "v": 29,
-      "text": "\"Ary tsy hafeniko aminy intsony ny tavako; fa naidiko ao amin' ny taranak' Isiraely ny Fanahiko, hoy Jehovah Andriamanitra.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary ianao, ry zanak' olona, dia maminania ny hamelezana an' i Goga, ka ataovy hoe: izao no lazain' i Jehovah Andriamanitra: indro, hamely anao Aho, ry Goga, andriandehiben' i Meseka sy Tobala.",
+    "2": "Hampirenireniko ianao ka tsy hamelako afa-tsy ny ampaheninao ianao ary hitondra anao hiakatra avy any amin' ny farany avaratra Aho dia hoentiko ho any an-tendrombohitry ny Isiraely ianao.",
+    "3": "Ary hasiako ny tsipìkanao hiala eny an-tananao ankavia, ary halatsako hiala eny an-tananao ankavanana ny zana-tsipìkanao.",
+    "4": "Any an-tendrombohitry ny Isiraely no hiampatramparanao, ianao sy ny miaramilanao rehetra mbamin' ny firenena izay miaraka aminao, homeko hohanin' ny vorona mpihaza samy hafa karazana rehetra sy ny biby eny an-tsaha ianao.",
+    "5": "Eny an-tsaha malalaka no hiamparanao; fa Izaho no efa niteny izany, hoy Jehovah Andriamanitra.",
+    "6": "Ary haterako afo Magoga sy izay mipetraka tsy manana ahiahy any amin' ny nosy; ka dia ho fantany fa Izaho no Jehovah.",
+    "7": "Ary ny anarako masina dia hataoko fantatra ao amin' ny Isiraely oloko; ary tsy havelako holotoiny intsony ny anarako masina, ka dia ho fantatry ny firenena fa Izaho no Jehovah, ny Iray Masina ao amin' ny Isiraely.",
+    "8": "Indro, tonga izany ka tanteraka, hoy Jehovah Andriamanitra. Izao no andro izay nolazaiko.",
+    "9": "Ary hivoaka ny mponina ao amin' ny tanànan' ny Isiraely ka handrehitra sy hitaina fiadiana, dia ny ampinga lehibe sy ny ampinga kely, ny tsipìka sy ny zana-tsipìka, ny langilangy sy ny lefona, ary hitaina izany mandritra ny fito taona izy;",
+    "10": "Fa tsy haka kitay hazo any an-tsaha na hanapaka hazo any an' ala izy, fa hitaina ny fiadiana ka hamabo izay efa namabo azy sy handroba izay efa nandroba azy, hoy Jehovah Andriamanitra.",
+    "11": "Ary izao no hiseho amin' izany andro izany, homeko tany ao amin' ny Isiraely Goga hasiana fasana, dia ny lohasahan' ny mpandalo ao atsinanan' ny ranomasina ary hampitampin' orona ny mpandalo izany, ary any no handevenany an' i Goga sy ny olony marobe rehetra; ary ny anarany hataony hoe Lohasahan' i Hamona-Goga.",
+    "12": "Ary fito volana mipaka no handevenan' ny taranak' Isiraely azy, hanadiovany ny tany.",
+    "13": "Eny, ny tompon-tany rehetra no handevina azy; ary ho laza ho azy izany amin' ny andro hampisehoako ny voninahitro, hoy Jehovah Andriamanitra.",
+    "14": "Ary izy hanavaka sy hanendry olona ho mpitety ny tany sy izay hiaraka amin' ny mpitety koa handevina ny mbola sisa eny ambonin' ny tany, hanadiovana azy; rehefa afaka fito volana, dia vao hikatsaka izy;",
+    "15": "Ary raha mandeha mitety ny tany ireo mpitety ka mahita taolan' olona, dia hanorina marika eo anilany mandra-pandevin' ny mpandevina azy ao amin' ny Lohasahan' i Hamona-Goga.",
+    "16": "Ary ny anaran' ny tanàna koa dia ho Hamona. Toy izany no hanadiovany ny tany.",
+    "17": "Ary ianao, ry zanak' olona, dia izao no lazain' i Jehovah Andriamanitra: ataovy amin' ny voro-manidina rehetra sy ny biby eny an-tsaha rehetra hoe: mivoria ianareo, ka mankanesa aty: miangòna ianareo avy amin' ny manodidina ho amin' ny fanatitro izay vonoiko ho anareo, dia fanatitra lehibe eny an-tendrombohitry ny Isiraely, hihinananareo nofo sy hisotroanareo ra.",
+    "18": "Ny nofon' ny lehilahy mahery no hohaninareo ary ny ràn' ireo mpanjakan' ny tany no hosotroinareo, dia ondrilahy sy zanak' ondry sy osilahy ary vantotr' ombilahy, samy mifahy avy any Basana izy rehetra.",
+    "19": "Dia hihinana matavy ianareo mandra-pahavokinareo ary hisotro rà mandrapahaleonareo avy amin' ny fanatitro izay novonoiko ho anareo.",
+    "20": "Ary ho voky soavaly sy kalesy ary lehilahy mahery mbamin' ny miaramila rehetra eo amin' ny latabatro ianareo, hoy Jehovah Andriamanitra.",
+    "21": "Ary hasehoko any amin' ny jentilisa ny voninahitro, ka ho hitan' ny jentilisa rehetra ny fitsarana hataoko sy ny tanako izay hahinjitro aminy.",
+    "22": "Ary ho fantatry ny taranak' Isiraely fa Izaho no Jehovah Andriamaniny hatry ny androtriny ka hatramin' ny ho avy rehetra.",
+    "23": " Ary ho fantatry ny jentilisa fa ny heloky ny taranak' Isiraely no nahababo azy; satria nivadika tamiko izy, dia izany no nanafenako ny tavako taminy sy nanolorako azy ho eo an-tanan' ny fahavalony ka dia lavon-tsabatra izy rehetra.",
+    "24": "Araka ny fahalotoany sy ny fahadisoany no navaliko azy sy nanafenako ny tavako taminy.",
+    "25": "Koa izao no lazain' i Jehovah Andriamanitra: ankehitriny dia hampodiko avy amin' ny fahababoany Jakoba, ary hamindrako fo ny taranak' Isiraely rehetra; ary hiseho ho saro-piaro noho ny amin' ny anarako masina Aho.",
+    "26": "Aorian' ny nitondrany ny fahamenarany sy ny fahadisoany rehetra izay nandisoany tamiko, rehefa mandry fahizay ao amin' ny taniny izy, ka tsy misy manaitaitra azy,",
+    "27": "Rehefa ampodiko avy any amin' ny firenena indray izy ary angoniko avy any amin' ny tanin' ny fahavalony; ary hamasinina ao aminy Aho eo imason' ny firenena maro;",
+    "28": "Dia ho fantany fa Izaho no Jehovah Andriamaniny izay nitondra azy ho babo tany amin' ny jentilisa; nefa nanangona azy ho any amin' ny taniny Aho, ka tsy hisy hafoiko any izy na dia iray akory aza.",
+    "29": "Ary tsy hafeniko aminy intsony ny tavako; fa naidiko ao amin' ny taranak' Isiraely ny Fanahiko, hoy Jehovah Andriamanitra."
+  }
 }

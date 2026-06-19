@@ -1,89 +1,27 @@
 {
+  "book": "Apokalypsy",
   "chapter": 16,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary nahare feo mahery avy tao amin’ny tempoly aho nanao tamin’ny anjely fito hoe: Mandehana, aidino amin’ny tany ny ao amin’ny lovian’ny fahatezeran’Andriamanitra."
-    },
-    {
-      "v": 2,
-      "text": "\"Ary ny voalohany nandeha, dia nampidina ny tao an-doviany tamin’ny tany; dia nisy vay ratsy sady nampahory tamin’ny olona izay nanana ny mariky ny bibidia sy niankohoka teo anatrehan’ny sariny.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary ny anjely faharoa nampidina ny tao an-doviany tamin’ny ranomasina; dia nody rà tahaka ny ran’ny olona maty ny ranomasina; ary ny fanahy rehetra izay velona dia maty tao an-dranomasina.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary ny anjely fahatelo nampidina ny tao amin’ny loviany tamin’ny ony sy ny loharano; dia nody rà ireny.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary nahare ny anjelin’ny rano aho nanao hoe: Marina Ianao, Tompo ô, Ilay ankehitriny sy taloha, ary ho avy, satria efa nitsara toy izany Ianao;\""
-    },
-    {
-      "v": 6,
-      "text": "\"Fa ny ran’ny olona masina sy ny mpaminany no nalatsany, ka dia rà kosa no nomenao hosotroiny; ary tandrifiny ho azy izany.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary reko ny anankiray avy teo amin’ny alitara nanao hoe: Eny tokoa, Tompo Andriamanitra Tsitoha, marina sy mahitsy ny fitsaranao."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary ny anjely fahefatra nampidina ny tao an-doviany tamin’ny masoandro; dia nomena hery handoro ny olona tamin’ny afo izy.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary main’ny hafanana be ny olona, dia nanao blasfemia ny anaran’Andriamanitra, Izay manam-pahefana amin’ireny loza ireny, sady tsy nibebaka izy ireo mba hanome voninahitra azy."
-    },
-    {
-      "v": 10,
-      "text": "\"Ary ny anjely fahadimy nampidina ny tao an-doviany tamin’ny sezan’ilay bibidia; dia feno fahamaizinana ny fanjakany, ary ny olona nitsakotsako ny lelany noho ny fanaintainana,\""
-    },
-    {
-      "v": 11,
-      "text": "Dia nanao blasfemia an’Andriamanitry ny lanitra izy noho ny fanaintainany sy ny vainy sady tsy nibebaka tamin’ny asany."
-    },
-    {
-      "v": 12,
-      "text": "\"Ary ny anjely fahenina nampidina ny tao an-doviany tamin’ny Eofrata, ony lehibe; dia ritra ny ranony hanamboarana ny lalan’ny mpanjaka avy any atsinanana.\""
-    },
-    {
-      "v": 13,
-      "text": "Ary nahita fanahy maloto telo aho tahaka ny sahona avy tamin’ny vavan’ilay dragona sy tamin’ny vavan’ilay bibidia ary tamin’ny vavan’ilay mpaminany sandoka."
-    },
-    {
-      "v": 14,
-      "text": "Fa fanahin’ny devoly ireo ka manao fahagagana sady mankany amin’ny mpanjakan’ny tany sy manerana an’izao tontolo izao, mba hanangona azy ho amin’ilay ady amin' ny andro lehiben’Andriamanitra Tsitoha."
-    },
-    {
-      "v": 15,
-      "text": "Indro, avy toy ny mpangalatra Aho: sambatra izay miambina ka miaro ny fitafiany, fandrao mandeha mitanjaka izy, ka hita ny fahamenarany."
-    },
-    {
-      "v": 16,
-      "text": "Ary nangoniny ho any amin’ny tany atao amin’ny teny Hebreo hoe Hara-magedona ireo."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary ny anjely fahafito dia nampidina ny tao an-doviany tamin’ny rivotra; dia nisy feo mahery nivoaka avy tao amin’ny tempoly any an-danitra, avy teo amin’ny sezafiandrianana nanao hoe: Vita.\""
-    },
-    {
-      "v": 18,
-      "text": "Dia nisy feo sy helatra sy kotrokorana, ary nisy horohorontany mafy, izay tsy mbola nisy toy izany hatrizay nisian’olona tety ambonin’ny tany, eny, tsy mbola nisy horohorontany mafy sy lehibe toy izany."
-    },
-    {
-      "v": 19,
-      "text": "\"Ary ny tanàna lehibe dia vaky ho telo toko, ary rava ny tanànan’ny firenena maro; ary Babylona lehibe dia notsarovana teo anatrehan’Andriamanitra, mba homena azy ny kapoaky ny divain’ny firehetan’ny fahatezerany.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary ny nosy rehetra nandositra, ary ny tendrombohitra tsy hita intsony."
-    },
-    {
-      "v": 21,
-      "text": "\"Ary nisy havandra vaventy nilatsaka avy tany an-danitra ho amin’ny olona, tokony ho lanjan-talenta iray avy; ary nanao blasfemia an’Andriamanitra ny olona noho ny loza avy tamin’ny havandra, fa lehibe loatra izany loza izany.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary nahare feo mahery avy tao amin’ny tempoly aho nanao tamin’ny anjely fito hoe: Mandehana, aidino amin’ny tany ny ao amin’ny lovian’ny fahatezeran’Andriamanitra.",
+    "2": "Ary ny voalohany nandeha, dia nampidina ny tao an-doviany tamin’ny tany; dia nisy vay ratsy sady nampahory tamin’ny olona izay nanana ny mariky ny bibidia sy niankohoka teo anatrehan’ny sariny.",
+    "3": "Ary ny anjely faharoa nampidina ny tao an-doviany tamin’ny ranomasina; dia nody rà tahaka ny ran’ny olona maty ny ranomasina; ary ny fanahy rehetra izay velona dia maty tao an-dranomasina.",
+    "4": "Ary ny anjely fahatelo nampidina ny tao amin’ny loviany tamin’ny ony sy ny loharano; dia nody rà ireny.",
+    "5": "Ary nahare ny anjelin’ny rano aho nanao hoe: Marina Ianao, Tompo ô, Ilay ankehitriny sy taloha, ary ho avy, satria efa nitsara toy izany Ianao;",
+    "6": "Fa ny ran’ny olona masina sy ny mpaminany no nalatsany, ka dia rà kosa no nomenao hosotroiny; ary tandrifiny ho azy izany.",
+    "7": "Ary reko ny anankiray avy teo amin’ny alitara nanao hoe: Eny tokoa, Tompo Andriamanitra Tsitoha, marina sy mahitsy ny fitsaranao.",
+    "8": "Ary ny anjely fahefatra nampidina ny tao an-doviany tamin’ny masoandro; dia nomena hery handoro ny olona tamin’ny afo izy.",
+    "9": "Ary main’ny hafanana be ny olona, dia nanao blasfemia ny anaran’Andriamanitra, Izay manam-pahefana amin’ireny loza ireny, sady tsy nibebaka izy ireo mba hanome voninahitra azy.",
+    "10": "Ary ny anjely fahadimy nampidina ny tao an-doviany tamin’ny sezan’ilay bibidia; dia feno fahamaizinana ny fanjakany, ary ny olona nitsakotsako ny lelany noho ny fanaintainana,",
+    "11": "Dia nanao blasfemia an’Andriamanitry ny lanitra izy noho ny fanaintainany sy ny vainy sady tsy nibebaka tamin’ny asany.",
+    "12": "Ary ny anjely fahenina nampidina ny tao an-doviany tamin’ny Eofrata, ony lehibe; dia ritra ny ranony hanamboarana ny lalan’ny mpanjaka avy any atsinanana.",
+    "13": "Ary nahita fanahy maloto telo aho tahaka ny sahona avy tamin’ny vavan’ilay dragona sy tamin’ny vavan’ilay bibidia ary tamin’ny vavan’ilay mpaminany sandoka.",
+    "14": "Fa fanahin’ny devoly ireo ka manao fahagagana sady mankany amin’ny mpanjakan’ny tany sy manerana an’izao tontolo izao, mba hanangona azy ho amin’ilay ady amin' ny andro lehiben’Andriamanitra Tsitoha.",
+    "15": "Indro, avy toy ny mpangalatra Aho: sambatra izay miambina ka miaro ny fitafiany, fandrao mandeha mitanjaka izy, ka hita ny fahamenarany.",
+    "16": "Ary nangoniny ho any amin’ny tany atao amin’ny teny Hebreo hoe Hara-magedona ireo.",
+    "17": "Ary ny anjely fahafito dia nampidina ny tao an-doviany tamin’ny rivotra; dia nisy feo mahery nivoaka avy tao amin’ny tempoly any an-danitra, avy teo amin’ny sezafiandrianana nanao hoe: Vita.",
+    "18": "Dia nisy feo sy helatra sy kotrokorana, ary nisy horohorontany mafy, izay tsy mbola nisy toy izany hatrizay nisian’olona tety ambonin’ny tany, eny, tsy mbola nisy horohorontany mafy sy lehibe toy izany.",
+    "19": "Ary ny tanàna lehibe dia vaky ho telo toko, ary rava ny tanànan’ny firenena maro; ary Babylona lehibe dia notsarovana teo anatrehan’Andriamanitra, mba homena azy ny kapoaky ny divain’ny firehetan’ny fahatezerany.",
+    "20": "Ary ny nosy rehetra nandositra, ary ny tendrombohitra tsy hita intsony.",
+    "21": "Ary nisy havandra vaventy nilatsaka avy tany an-danitra ho amin’ny olona, tokony ho lanjan-talenta iray avy; ary nanao blasfemia an’Andriamanitra ny olona noho ny loza avy tamin’ny havandra, fa lehibe loatra izany loza izany."
+  }
 }

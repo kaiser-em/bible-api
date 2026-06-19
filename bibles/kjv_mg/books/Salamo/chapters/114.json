@@ -1,37 +1,14 @@
 {
+  "book": "Salamo",
   "chapter": 114,
-  "verses": [
-    {
-      "v": 1,
-      "text": "FONY nivoaka avy tany Egypta ny Isiraely, dia ny taranak' i Jakoba avy tany amin' ny firenena hafa fiteny,"
-    },
-    {
-      "v": 2,
-      "text": "Joda no fitoerany masina, ary Isiraely no fanjakany."
-    },
-    {
-      "v": 3,
-      "text": "\"Nahita izany ny ranomasina ka nandositra; ary niorika Jordana.\""
-    },
-    {
-      "v": 4,
-      "text": "Ny tendrombohitra dia nifalihavanja tahaka ny ondrilahy, ary ny havoana tahaka ny zanak' ondry."
-    },
-    {
-      "v": 5,
-      "text": "Inona izato mahazo anao, ry ranomasina, no mandositra ianao? ary ianao, ry Jordana, no miorika ianao?"
-    },
-    {
-      "v": 6,
-      "text": "\"Ary ianareo tendrombohitra, no mifalihavanja tahaka ny ondrilahy; ary ianareo havoana, tahaka ny zanak' ondry?\""
-    },
-    {
-      "v": 7,
-      "text": "Mihorohoroa eo anatrehan'ny Tompo, ry tany, dia eo anatrehan' Andriamanitr' i Jakoba,"
-    },
-    {
-      "v": 8,
-      "text": "Izay mampody ny vatolampy ho rano monina ary ny afovato ho loharano."
-    }
-  ]
+  "verses": {
+    "1": "FONY nivoaka avy tany Egypta ny Isiraely, dia ny taranak' i Jakoba avy tany amin' ny firenena hafa fiteny,",
+    "2": "Joda no fitoerany masina, ary Isiraely no fanjakany.",
+    "3": "Nahita izany ny ranomasina ka nandositra; ary niorika Jordana.",
+    "4": "Ny tendrombohitra dia nifalihavanja tahaka ny ondrilahy, ary ny havoana tahaka ny zanak' ondry.",
+    "5": "Inona izato mahazo anao, ry ranomasina, no mandositra ianao? ary ianao, ry Jordana, no miorika ianao?",
+    "6": "Ary ianareo tendrombohitra, no mifalihavanja tahaka ny ondrilahy; ary ianareo havoana, tahaka ny zanak' ondry?",
+    "7": "Mihorohoroa eo anatrehan'ny Tompo, ry tany, dia eo anatrehan' Andriamanitr' i Jakoba,",
+    "8": "Izay mampody ny vatolampy ho rano monina ary ny afovato ho loharano."
+  }
 }

@@ -1,93 +1,28 @@
 {
+  "book": "Eksodosy",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Izao no anaran' ny Zanak' Isiraely izay niaraka tamin' i Jakoba nankany Egypta; samy nandeha mbamin' ny ankohonany avy izy rehetra:\""
-    },
-    {
-      "v": 2,
-      "text": "Robena sy Simeona sy Levy ary Joda,"
-    },
-    {
-      "v": 3,
-      "text": "Isakara sy Zebolona ary Benjamina,"
-    },
-    {
-      "v": 4,
-      "text": "Dana sy Naftaly ary Gada sy Asera."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary ny isan' ny olona rehetra naterak' i Jakoba dia fitopolo; fa Josefa efa tany Egypta rahateo.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary maty Josefa sy ny rahalahiny rehetra mbamin' izany taranaka rehetra izany."
-    },
-    {
-      "v": 7,
-      "text": "Ary ny Zanak' Isiraely niteraka ka nitombo betsaka sy nihamaro ary nihahery dia nihahery indrindra, ka dia henika azy ny tany."
-    },
-    {
-      "v": 8,
-      "text": "Ary nisy mpanjaka vaovao nitsangana tany Egypta, izay tsy nahalala an' i Josefa."
-    },
-    {
-      "v": 9,
-      "text": "\"Ary izy niteny tamin' ny vahoakany hoe: Indro, ny firenen' ny Zanak' Isiraely efa maro sy mahery noho isika;\""
-    },
-    {
-      "v": 10,
-      "text": "Andeha hanaovantsika hevitra am-pahendrena izy ireo, fandrao hihamaro izy, ka izao no hiseho raha tàhiny hisy ady, dia homba ny fahavalontsika koa izy ka hiady amintsika, ary dia hiakatra hiala amin' ny tany."
-    },
-    {
-      "v": 11,
-      "text": "Koa dia nanendreny mpifehy izy, mba hampahory azy amin' ny fanompoany mafy. Ary nanao tanàna fitehirizana ho an' i Farao izy, dia Pitoma sy Ramesesa."
-    },
-    {
-      "v": 12,
-      "text": "\"Nefa arakaraka ny nampahoriany azy no vao mainka nihamaroany sy nitomboany kosa; ka dia natahotra ny Zanak' Isiraely indrindra ny Egyptiana.\""
-    },
-    {
-      "v": 13,
-      "text": "Dia nampanompoin' ny Egyptiana fatratra ny Zanak' Isiraely:"
-    },
-    {
-      "v": 14,
-      "text": "Ka nataony mangidy ny fiainany tamin' ny fanompoana mafy, dia tamin' ny feta sy ny biriky mbamin' ny fanompoana rehetra any an-tsaha, dia ny fanompoana rehetra izay nampanompoany azy fatratra."
-    },
-    {
-      "v": 15,
-      "text": "\"Ary niteny tamin' ny mpampivelona Hebreo ny mpanjakan' i Egypta, Sifra no anaran' ny iray, ary Poa no anaran' ny anankiray;\""
-    },
-    {
-      "v": 16,
-      "text": "Ka nanao hoe: Raha mampivelona ny vehivavy Hebreo ianareo, ka hitanareo eo amin' ny fipetrahany fa zazalahy, dia vonoy, fa raha zazavavy kosa, dia velomy."
-    },
-    {
-      "v": 17,
-      "text": "Nefa natahotra an' Andriamanitra ny mpampivelona ka tsy nanao araka izay nandidian' ny mpanjakan' i Egypta azy, fa novelominy ihany ny zazalahy."
-    },
-    {
-      "v": 18,
-      "text": "Dia nampiantso ny mpampivelona ny mpanjakan' i Egypta ka nanao taminy hoe: Nahoana no nanao izany zavatra izany ianareo, ka novelominareo ihany ny zazalahy?"
-    },
-    {
-      "v": 19,
-      "text": "\"Fa hoy ny mpampivelona tamin' i Farao: Tsy mba tahaka ny vehivavy Egyptiana ny vehivavy Hebreo; fa matanjaka izy, ka raha tsy mbola tonga any aminy akory ny mpampivelona, dia velona izy.\""
-    },
-    {
-      "v": 20,
-      "text": "Dia nasian' Andriamanitra soa ny mpampivelona: ary nihamaro sy nihanahery indrindra ny olona."
-    },
-    {
-      "v": 21,
-      "text": "Ary izao no niseho, satria natahotra an' Andriamanitra ny mpampivelona dia nanaovan' Andriamanitra trano izy ireo."
-    },
-    {
-      "v": 22,
-      "text": "Dia nandidy ny vahoakany rehetra Farao ka nanao hoe: Ny zazalahy rehetra izay teraka dia ario ao amin' ny renirano, fa ny zazavavy rehetra kosa no velomy."
-    }
-  ]
+  "verses": {
+    "1": "Izao no anaran' ny Zanak' Isiraely izay niaraka tamin' i Jakoba nankany Egypta; samy nandeha mbamin' ny ankohonany avy izy rehetra:",
+    "2": "Robena sy Simeona sy Levy ary Joda,",
+    "3": "Isakara sy Zebolona ary Benjamina,",
+    "4": "Dana sy Naftaly ary Gada sy Asera.",
+    "5": "Ary ny isan' ny olona rehetra naterak' i Jakoba dia fitopolo; fa Josefa efa tany Egypta rahateo.",
+    "6": "Ary maty Josefa sy ny rahalahiny rehetra mbamin' izany taranaka rehetra izany.",
+    "7": "Ary ny Zanak' Isiraely niteraka ka nitombo betsaka sy nihamaro ary nihahery dia nihahery indrindra, ka dia henika azy ny tany.",
+    "8": "Ary nisy mpanjaka vaovao nitsangana tany Egypta, izay tsy nahalala an' i Josefa.",
+    "9": "Ary izy niteny tamin' ny vahoakany hoe: Indro, ny firenen' ny Zanak' Isiraely efa maro sy mahery noho isika;",
+    "10": "Andeha hanaovantsika hevitra am-pahendrena izy ireo, fandrao hihamaro izy, ka izao no hiseho raha tàhiny hisy ady, dia homba ny fahavalontsika koa izy ka hiady amintsika, ary dia hiakatra hiala amin' ny tany.",
+    "11": "Koa dia nanendreny mpifehy izy, mba hampahory azy amin' ny fanompoany mafy. Ary nanao tanàna fitehirizana ho an' i Farao izy, dia Pitoma sy Ramesesa.",
+    "12": "Nefa arakaraka ny nampahoriany azy no vao mainka nihamaroany sy nitomboany kosa; ka dia natahotra ny Zanak' Isiraely indrindra ny Egyptiana.",
+    "13": "Dia nampanompoin' ny Egyptiana fatratra ny Zanak' Isiraely:",
+    "14": "Ka nataony mangidy ny fiainany tamin' ny fanompoana mafy, dia tamin' ny feta sy ny biriky mbamin' ny fanompoana rehetra any an-tsaha, dia ny fanompoana rehetra izay nampanompoany azy fatratra.",
+    "15": "Ary niteny tamin' ny mpampivelona Hebreo ny mpanjakan' i Egypta, Sifra no anaran' ny iray, ary Poa no anaran' ny anankiray;",
+    "16": "Ka nanao hoe: Raha mampivelona ny vehivavy Hebreo ianareo, ka hitanareo eo amin' ny fipetrahany fa zazalahy, dia vonoy, fa raha zazavavy kosa, dia velomy.",
+    "17": "Nefa natahotra an' Andriamanitra ny mpampivelona ka tsy nanao araka izay nandidian' ny mpanjakan' i Egypta azy, fa novelominy ihany ny zazalahy.",
+    "18": "Dia nampiantso ny mpampivelona ny mpanjakan' i Egypta ka nanao taminy hoe: Nahoana no nanao izany zavatra izany ianareo, ka novelominareo ihany ny zazalahy?",
+    "19": "Fa hoy ny mpampivelona tamin' i Farao: Tsy mba tahaka ny vehivavy Egyptiana ny vehivavy Hebreo; fa matanjaka izy, ka raha tsy mbola tonga any aminy akory ny mpampivelona, dia velona izy.",
+    "20": "Dia nasian' Andriamanitra soa ny mpampivelona: ary nihamaro sy nihanahery indrindra ny olona.",
+    "21": "Ary izao no niseho, satria natahotra an' Andriamanitra ny mpampivelona dia nanaovan' Andriamanitra trano izy ireo.",
+    "22": "Dia nandidy ny vahoakany rehetra Farao ka nanao hoe: Ny zazalahy rehetra izay teraka dia ario ao amin' ny renirano, fa ny zazavavy rehetra kosa no velomy."
+  }
 }

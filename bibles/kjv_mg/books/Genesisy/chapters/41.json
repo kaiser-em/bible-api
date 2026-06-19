@@ -1,233 +1,63 @@
 {
+  "book": "Genesisy",
   "chapter": 41,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary izao no niseho, rehefa afaka roa taona mipaka, nanonofy Farao, ka, indro, nitsangana teo amoron' ny renirano izy."
-    },
-    {
-      "v": 2,
-      "text": "Ary indreo, nisy ombivavy fito tsara tarehy sady matavy niakatra avy teo amin' ny renirano ka nihinana teo amin' ny ahi-maitso."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary indreo, nisy ombivavy fito hafa kosa ratsy tarehy sady mahia niakatra avy teo amin' ny renirano; ka nijanona teo anilan' ireo ombivavy teo amoron' ny renirano.\""
-    },
-    {
-      "v": 4,
-      "text": "Ary ireo ombivavy ratsy tarehy sady mahia nihinana ireo ombivavy fito tsara tarehy sady matavy. Dia nahatsiaro Farao."
-    },
-    {
-      "v": 5,
-      "text": "\"Dia natory izy ka nanonofy fanindroany; ary, indreo salohim-barimbazaha fito niseho tamin' ny tahony iray, vokatra sady tsara.\""
-    },
-    {
-      "v": 6,
-      "text": "Ary, indreo kosa, salohim-barimbazaha fito maivam-boa sady main' ny rivotra avy any atsinanana, niseho nanaraka ireny."
-    },
-    {
-      "v": 7,
-      "text": "Ary ny salohim-barimbazaha maivam-boa nitelina ny salohim-barimbazaha vokatra sady be voa. Dia nahatsiaro Farao, ka, indro fa nofy izany."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary izao no niseho, nony maraina, dia nitebiteby ny fanahiny; ary izy naniraka nampaka ny ombiasy rehetra tao Egypta sy ny olon-kendry rehetra; ary nambaran' i Farao tamin' izy ireny ny nofiny; kanjo tsy nisy na dia iray aza afaka nanazava ireny nofiny ireny tamin' i Farao.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Dia niteny tamin' i Farao ilay lehiben' ny mpitondra kapoaka ka nanao hoe: Tsaroako tokoa ankehitriny ny fahadisoako;\""
-    },
-    {
-      "v": 10,
-      "text": "Farao dia tezitra tamin' ny mpanompony ka nanao ahy tao an-tranomaizina tao anatin' ny tranon' ny mpifehy ny mpiambina, dia izaho sy ilay lehiben' ny mpanao mofo."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary nanonofy izahay indray alina, dia izaho sy izy; samy nanonofy araka ny hevitry ny nofinay avy izahay.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary tao aminay dia nisy zatovo Hebreo anankiray, mpanompon' ny mpifehy ny mpiambina; dia nolazainay taminy, ka nazavainy taminay ny hevitry ny nofinay; nazavainy araka ny nofinay avy ny heviny.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary izao no niseho, araka ny nanazavany ny hevitry ny nofy taminay, dia tonga araka izany; izaho nampodiny tamin' ny raharahako, fa izy kosa nahantony.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Dia naniraka Farao nampaka an' i Josefa ka nalainy faingana niala tao an-davaka izy; ary nanaratra ny volom-bavany izy sy nanova ny fitafiany dia nankany amin' i Farao.\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary hoy Farao tamin' i Josefa: Nanonofy aho, ka tsy misy nahazava ny hevitr' izany; ary nandre filazana ny aminao aho, fa afaka mahafantatra nofy ianao ka mahazava ny hevitr' izany.\""
-    },
-    {
-      "v": 16,
-      "text": "Ary Josefa namaly an' i Farao ka nanao hoe: Tsy ahy izany, fa Andriamanitra no hanome an' i Farao valiny ho fiadanana."
-    },
-    {
-      "v": 17,
-      "text": "\"Ary hoy Farao tamin' i Josefa: Tao amin' ny nofiko, indro, fa nitsangana teo amoron' ny renirano aho;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Koa, indreo, nisy ombivavy fito matavy sady tsara tarehy niakatra avy tao amin' ny renirano; ary nihinana teny amin' ny ahi-maitso izy.\""
-    },
-    {
-      "v": 19,
-      "text": "Ary, indreo, nisy ombivavy fito hafa koa niakatra nanaraka ireny, nihozohozo sady ratsy tarehy indrindra no mahia, ka tsy mbola hitako izay ratsy toa azy teto amin' ny tany Egypta rehetra."
-    },
-    {
-      "v": 20,
-      "text": "Ary ireo ombivavy fito mahia sady ratsy tarehy nihinana ireo ombivavy fito matavy voalohany."
-    },
-    {
-      "v": 21,
-      "text": "Ary rehefa lanin' ireo izany, dia tsy fantatra akory fa efa nihinana izany izy ireo, ka mbola ratsy tarehy toy ny tamin' ny voalohany ihany. Dia nahatsiaro aho."
-    },
-    {
-      "v": 22,
-      "text": "\"Ary hitako tamin' ny nofiko, indreo salohy fito niseho tamin' ny tahony iray, sady vokatra no tsara;\""
-    },
-    {
-      "v": 23,
-      "text": "\"Ary, indreo kosa, salohy fito, sady malazo no maivam-boa, main' ny rivotra avy any atsinanana niseho nanaraka izany;\""
-    },
-    {
-      "v": 24,
-      "text": "\"Ary ny salohy maivam-boa dia nitelina ny salohiny fito vokatra. Ary nolazaiko tamin' ny ombiasy izany; nefa tsy nisy afaka nanambara izany tamiko.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ary hoy Josefa tamin' i Farao: Ny nofin' i Farao dia iray ihany; izay efa hataon' Andriamanitra no nambarany tamin' i Farao.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Ny ombivavy fito tsara tarehy dia fito taona, ary ny salohy fito vokatra dia fito taona; iray ihany ny nofy.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Ary ny ombivavy fito mahia sady ratsy tarehy, izay niakatra nanaraka ireny dia fito taona; ary ny salohy fito tsy misy voa sady main' ny rivotra dia ho fito taona mosarena.\""
-    },
-    {
-      "v": 28,
-      "text": "Izany ilay efa nolazaiko tamin' i Farao hoe: Izay efa hataon' Andriamanitra no asehony an' i Farao."
-    },
-    {
-      "v": 29,
-      "text": "\"Indro, hisy fito taona zina indrindra eran' ny tany Egypta rehetra;\""
-    },
-    {
-      "v": 30,
-      "text": "\"Ary manaraka izany kosa dia hisy fito taona mosarena, ka ho hadino ny fahavokarana be rehetra teo amin' ny tany Egypta; ary ho ritry ny mosary ny tany ;\""
-    },
-    {
-      "v": 31,
-      "text": "\"Ary ny fahavokarana eo amin' ny tany tsy ho fantatra noho izany mosary manaraka azy izany; fa ho mafy indrindra izany.\""
-    },
-    {
-      "v": 32,
-      "text": "Ary naverina indroa ny nofin' i Farao, satria efa voatendrin' Andriamanitra izany zavatra izany ka hotanterahin' Andriamanitra faingana."
-    },
-    {
-      "v": 33,
-      "text": "Koa ankehitriny aoka Farao hizaha lehilahy manan-tsaina sady hendry ka hanendry azy hanapaka ny tany Egypta."
-    },
-    {
-      "v": 34,
-      "text": "Aoka hanao izany Farao, ary aoka izy hanendry tandapa hanapaka ny tany sy hamory ny ampahadimin' ny vokatry ny tany Egypta amin' ny taon-jina fito."
-    },
-    {
-      "v": 35,
-      "text": "Ary aoka izy ireo hanangona ny hanina rehetra amin' ireo taona tsara ho avy ireo, ka hamory varimbazaha eo ambany fitantanan' i Farao, ary aoka hitahiry hanina any amin' ny tanàna izy ireo."
-    },
-    {
-      "v": 36,
-      "text": "\"Ary hotehirizina izany hanina izany ho an' ny firenena, ho amin' ny fito taona mosarena, izay ho eo amin' ny tany Egypta; mba tsy ho simban' ny mosary ny tany.\""
-    },
-    {
-      "v": 37,
-      "text": "Ary izany zavatra izany dia tsara teo imason' i Farao sy teo imason' ny mpanompony rehetra."
-    },
-    {
-      "v": 38,
-      "text": "Dia hoy Farao tamin' ny mpanompony: Hahita lehilahy tahaka io, izay misy ny Fanahin' Andriamanitra ao anatiny va isika?"
-    },
-    {
-      "v": 39,
-      "text": "\"Ary hoy Farao tamin' i Josefa: Satria efa nasehon' Andriamanitra anao izany rehetra izany dia tsy misy manan-tsaina sady hendry tahaka anao;\""
-    },
-    {
-      "v": 40,
-      "text": "\"Hanapaka ny ato an-tranoko ianao, ary araka ny teninao no hitondrana ny oloko rehetra; ny sezafiandrianana ihany no hahalehibe ahy noho ianao.\""
-    },
-    {
-      "v": 41,
-      "text": "Ary hoy Farao tamin' i Josefa: Indro, efa nanendry anao hanapaka ny tany Egypta rehetra aho."
-    },
-    {
-      "v": 42,
-      "text": "\"Dia nesorin' i Farao ny peratra tamin' ny tanany ka nataony tamin' ny tanan' i Josefa, dia nampitafiany rongony fotsy madinika izy, ary nasiany rojo volamena ny vozony;\""
-    },
-    {
-      "v": 43,
-      "text": "\"Dia nampitaingeniny teo anatin' ny kalesy faharoa izay azy izy; ary ny olona niantso teo alohany hoe: Mandohaleha; dia nataony mpanapaka ny tany Egypta rehetra izy.\""
-    },
-    {
-      "v": 44,
-      "text": "Ary hoy Farao tamin' i Josefa: Izaho no Farao, ary raha tsy teninao, dia tsy hisy olona hanetsika ny tanany na ny tongony eto amin' ny tany Egypta rehetra."
-    },
-    {
-      "v": 45,
-      "text": "\"Ary nataon' i Farao hoe Zafenata-panea no anaran' i Josefa; dia nomeny azy ho vadiny Asenata zanakavavin' i Potifera, mpisorona tao Ona. Ary nandeha nitety ny tany Egypta rehetra Josefa.\""
-    },
-    {
-      "v": 46,
-      "text": "Ary telopolo taona Josefa raha nitsangana teo anatrehan' i Farao mpanjakan' i Egypta. Dia niala teo anatrehan' i Farao i Josefa ka nandeha nitety ny tany Egypta rehetra."
-    },
-    {
-      "v": 47,
-      "text": "Ary ny tany dia nahavokatra tsy omby fàmpana tamin' ny taon-jina fito."
-    },
-    {
-      "v": 48,
-      "text": "\"Dia nanangona ny hanina rehetra tamin' ny fito taona, izay teo amin'ny tany Egypta izy, ka namory ny hanina tany amin' ny tanàna; ny hanina tany an-tsaha izay nanodidina ny isan-tanàna, dia novoriny tany koa.\""
-    },
-    {
-      "v": 49,
-      "text": "Ary Josefa nanangona varimbazaha toy ny fasiky ny ranomasina be indrindra mandra-pijanony tsy nanisa, fa tsy hita isa izany."
-    },
-    {
-      "v": 50,
-      "text": "Ary zazalahy roa no naterak' i Asenata, zanakavavin' i Potifera, mpisorona tao Ona, tamin' i Josefa, talohan' ny nahatongavan' ny taona mosarena."
-    },
-    {
-      "v": 51,
-      "text": "\"Ary ny anaran' ny lahimatoa dia nataon' i Josefa hoe: Manase; fa Andriamanitra, hoy izy, efa nampanadino ahy ny fahoriako rehetra sy izay rehetra tao an-tranon' ny raiko.\""
-    },
-    {
-      "v": 52,
-      "text": "\"Ary ny anaran' ny faharoa nataony hoe: Efraima; fa Andriamanitra efa nahamaro ahy teto amin' ny tanin' ny fahoriako.\""
-    },
-    {
-      "v": 53,
-      "text": "\"Ary tapitra ny taon-jina fito teo amin' ny tany Egypta;\""
-    },
-    {
-      "v": 54,
-      "text": "\"Dia niandoha kosa ny fito taona mosarena, araka izay efa nolazain' i Josefa; ary ny mosary dia tamin' ny tany rehetra; fa eran' ny tany Egypta kosa dia nisy hanina.\""
-    },
-    {
-      "v": 55,
-      "text": "\"Ary rehefa mosarena ny tany Egypta rehetra, dia nitaraina nangataka hanina tamin' i Farao ny olona; ary hoy Farao tamin' ny Egyptiana rehetra: Mankanesa any amin' i Josefa; ary izay holazainy aminareo dia ataovy.\""
-    },
-    {
-      "v": 56,
-      "text": "\"Ary nanerana ny tany rehetra ny mosary; ary namoha ny trano fitehirizana rehetra Josefa ka nivarotra tamin' ny Egyptiana; ary nihamafy ny mosary teo amin' ny tany Egypta.\""
-    },
-    {
-      "v": 57,
-      "text": "\"Ary ny firenena rehetra nankany Egypta ho any amin' i Josefa mba hividy varimbazaha; satria mafy indrindra ny mosary tamin' ny tany rehetra.\""
-    }
-  ]
+  "verses": {
+    "1": "Ary izao no niseho, rehefa afaka roa taona mipaka, nanonofy Farao, ka, indro, nitsangana teo amoron' ny renirano izy.",
+    "2": "Ary indreo, nisy ombivavy fito tsara tarehy sady matavy niakatra avy teo amin' ny renirano ka nihinana teo amin' ny ahi-maitso.",
+    "3": "Ary indreo, nisy ombivavy fito hafa kosa ratsy tarehy sady mahia niakatra avy teo amin' ny renirano; ka nijanona teo anilan' ireo ombivavy teo amoron' ny renirano.",
+    "4": "Ary ireo ombivavy ratsy tarehy sady mahia nihinana ireo ombivavy fito tsara tarehy sady matavy. Dia nahatsiaro Farao.",
+    "5": "Dia natory izy ka nanonofy fanindroany; ary, indreo salohim-barimbazaha fito niseho tamin' ny tahony iray, vokatra sady tsara.",
+    "6": "Ary, indreo kosa, salohim-barimbazaha fito maivam-boa sady main' ny rivotra avy any atsinanana, niseho nanaraka ireny.",
+    "7": "Ary ny salohim-barimbazaha maivam-boa nitelina ny salohim-barimbazaha vokatra sady be voa. Dia nahatsiaro Farao, ka, indro fa nofy izany.",
+    "8": "Ary izao no niseho, nony maraina, dia nitebiteby ny fanahiny; ary izy naniraka nampaka ny ombiasy rehetra tao Egypta sy ny olon-kendry rehetra; ary nambaran' i Farao tamin' izy ireny ny nofiny; kanjo tsy nisy na dia iray aza afaka nanazava ireny nofiny ireny tamin' i Farao.",
+    "9": "Dia niteny tamin' i Farao ilay lehiben' ny mpitondra kapoaka ka nanao hoe: Tsaroako tokoa ankehitriny ny fahadisoako;",
+    "10": "Farao dia tezitra tamin' ny mpanompony ka nanao ahy tao an-tranomaizina tao anatin' ny tranon' ny mpifehy ny mpiambina, dia izaho sy ilay lehiben' ny mpanao mofo.",
+    "11": "Ary nanonofy izahay indray alina, dia izaho sy izy; samy nanonofy araka ny hevitry ny nofinay avy izahay.",
+    "12": "Ary tao aminay dia nisy zatovo Hebreo anankiray, mpanompon' ny mpifehy ny mpiambina; dia nolazainay taminy, ka nazavainy taminay ny hevitry ny nofinay; nazavainy araka ny nofinay avy ny heviny.",
+    "13": "Ary izao no niseho, araka ny nanazavany ny hevitry ny nofy taminay, dia tonga araka izany; izaho nampodiny tamin' ny raharahako, fa izy kosa nahantony.",
+    "14": "Dia naniraka Farao nampaka an' i Josefa ka nalainy faingana niala tao an-davaka izy; ary nanaratra ny volom-bavany izy sy nanova ny fitafiany dia nankany amin' i Farao.",
+    "15": "Ary hoy Farao tamin' i Josefa: Nanonofy aho, ka tsy misy nahazava ny hevitr' izany; ary nandre filazana ny aminao aho, fa afaka mahafantatra nofy ianao ka mahazava ny hevitr' izany.",
+    "16": "Ary Josefa namaly an' i Farao ka nanao hoe: Tsy ahy izany, fa Andriamanitra no hanome an' i Farao valiny ho fiadanana.",
+    "17": "Ary hoy Farao tamin' i Josefa: Tao amin' ny nofiko, indro, fa nitsangana teo amoron' ny renirano aho;",
+    "18": "Koa, indreo, nisy ombivavy fito matavy sady tsara tarehy niakatra avy tao amin' ny renirano; ary nihinana teny amin' ny ahi-maitso izy.",
+    "19": "Ary, indreo, nisy ombivavy fito hafa koa niakatra nanaraka ireny, nihozohozo sady ratsy tarehy indrindra no mahia, ka tsy mbola hitako izay ratsy toa azy teto amin' ny tany Egypta rehetra.",
+    "20": "Ary ireo ombivavy fito mahia sady ratsy tarehy nihinana ireo ombivavy fito matavy voalohany.",
+    "21": "Ary rehefa lanin' ireo izany, dia tsy fantatra akory fa efa nihinana izany izy ireo, ka mbola ratsy tarehy toy ny tamin' ny voalohany ihany. Dia nahatsiaro aho.",
+    "22": "Ary hitako tamin' ny nofiko, indreo salohy fito niseho tamin' ny tahony iray, sady vokatra no tsara;",
+    "23": "Ary, indreo kosa, salohy fito, sady malazo no maivam-boa, main' ny rivotra avy any atsinanana niseho nanaraka izany;",
+    "24": "Ary ny salohy maivam-boa dia nitelina ny salohiny fito vokatra. Ary nolazaiko tamin' ny ombiasy izany; nefa tsy nisy afaka nanambara izany tamiko.",
+    "25": "Ary hoy Josefa tamin' i Farao: Ny nofin' i Farao dia iray ihany; izay efa hataon' Andriamanitra no nambarany tamin' i Farao.",
+    "26": "Ny ombivavy fito tsara tarehy dia fito taona, ary ny salohy fito vokatra dia fito taona; iray ihany ny nofy.",
+    "27": "Ary ny ombivavy fito mahia sady ratsy tarehy, izay niakatra nanaraka ireny dia fito taona; ary ny salohy fito tsy misy voa sady main' ny rivotra dia ho fito taona mosarena.",
+    "28": "Izany ilay efa nolazaiko tamin' i Farao hoe: Izay efa hataon' Andriamanitra no asehony an' i Farao.",
+    "29": "Indro, hisy fito taona zina indrindra eran' ny tany Egypta rehetra;",
+    "30": "Ary manaraka izany kosa dia hisy fito taona mosarena, ka ho hadino ny fahavokarana be rehetra teo amin' ny tany Egypta; ary ho ritry ny mosary ny tany ;",
+    "31": "Ary ny fahavokarana eo amin' ny tany tsy ho fantatra noho izany mosary manaraka azy izany; fa ho mafy indrindra izany.",
+    "32": "Ary naverina indroa ny nofin' i Farao, satria efa voatendrin' Andriamanitra izany zavatra izany ka hotanterahin' Andriamanitra faingana.",
+    "33": "Koa ankehitriny aoka Farao hizaha lehilahy manan-tsaina sady hendry ka hanendry azy hanapaka ny tany Egypta.",
+    "34": "Aoka hanao izany Farao, ary aoka izy hanendry tandapa hanapaka ny tany sy hamory ny ampahadimin' ny vokatry ny tany Egypta amin' ny taon-jina fito.",
+    "35": "Ary aoka izy ireo hanangona ny hanina rehetra amin' ireo taona tsara ho avy ireo, ka hamory varimbazaha eo ambany fitantanan' i Farao, ary aoka hitahiry hanina any amin' ny tanàna izy ireo.",
+    "36": "Ary hotehirizina izany hanina izany ho an' ny firenena, ho amin' ny fito taona mosarena, izay ho eo amin' ny tany Egypta; mba tsy ho simban' ny mosary ny tany.",
+    "37": "Ary izany zavatra izany dia tsara teo imason' i Farao sy teo imason' ny mpanompony rehetra.",
+    "38": "Dia hoy Farao tamin' ny mpanompony: Hahita lehilahy tahaka io, izay misy ny Fanahin' Andriamanitra ao anatiny va isika?",
+    "39": "Ary hoy Farao tamin' i Josefa: Satria efa nasehon' Andriamanitra anao izany rehetra izany dia tsy misy manan-tsaina sady hendry tahaka anao;",
+    "40": "Hanapaka ny ato an-tranoko ianao, ary araka ny teninao no hitondrana ny oloko rehetra; ny sezafiandrianana ihany no hahalehibe ahy noho ianao.",
+    "41": "Ary hoy Farao tamin' i Josefa: Indro, efa nanendry anao hanapaka ny tany Egypta rehetra aho.",
+    "42": "Dia nesorin' i Farao ny peratra tamin' ny tanany ka nataony tamin' ny tanan' i Josefa, dia nampitafiany rongony fotsy madinika izy, ary nasiany rojo volamena ny vozony;",
+    "43": "Dia nampitaingeniny teo anatin' ny kalesy faharoa izay azy izy; ary ny olona niantso teo alohany hoe: Mandohaleha; dia nataony mpanapaka ny tany Egypta rehetra izy.",
+    "44": "Ary hoy Farao tamin' i Josefa: Izaho no Farao, ary raha tsy teninao, dia tsy hisy olona hanetsika ny tanany na ny tongony eto amin' ny tany Egypta rehetra.",
+    "45": "Ary nataon' i Farao hoe Zafenata-panea no anaran' i Josefa; dia nomeny azy ho vadiny Asenata zanakavavin' i Potifera, mpisorona tao Ona. Ary nandeha nitety ny tany Egypta rehetra Josefa.",
+    "46": "Ary telopolo taona Josefa raha nitsangana teo anatrehan' i Farao mpanjakan' i Egypta. Dia niala teo anatrehan' i Farao i Josefa ka nandeha nitety ny tany Egypta rehetra.",
+    "47": "Ary ny tany dia nahavokatra tsy omby fàmpana tamin' ny taon-jina fito.",
+    "48": "Dia nanangona ny hanina rehetra tamin' ny fito taona, izay teo amin'ny tany Egypta izy, ka namory ny hanina tany amin' ny tanàna; ny hanina tany an-tsaha izay nanodidina ny isan-tanàna, dia novoriny tany koa.",
+    "49": "Ary Josefa nanangona varimbazaha toy ny fasiky ny ranomasina be indrindra mandra-pijanony tsy nanisa, fa tsy hita isa izany.",
+    "50": "Ary zazalahy roa no naterak' i Asenata, zanakavavin' i Potifera, mpisorona tao Ona, tamin' i Josefa, talohan' ny nahatongavan' ny taona mosarena.",
+    "51": "Ary ny anaran' ny lahimatoa dia nataon' i Josefa hoe: Manase; fa Andriamanitra, hoy izy, efa nampanadino ahy ny fahoriako rehetra sy izay rehetra tao an-tranon' ny raiko.",
+    "52": "Ary ny anaran' ny faharoa nataony hoe: Efraima; fa Andriamanitra efa nahamaro ahy teto amin' ny tanin' ny fahoriako.",
+    "53": "Ary tapitra ny taon-jina fito teo amin' ny tany Egypta;",
+    "54": "Dia niandoha kosa ny fito taona mosarena, araka izay efa nolazain' i Josefa; ary ny mosary dia tamin' ny tany rehetra; fa eran' ny tany Egypta kosa dia nisy hanina.",
+    "55": "Ary rehefa mosarena ny tany Egypta rehetra, dia nitaraina nangataka hanina tamin' i Farao ny olona; ary hoy Farao tamin' ny Egyptiana rehetra: Mankanesa any amin' i Josefa; ary izay holazainy aminareo dia ataovy.",
+    "56": "Ary nanerana ny tany rehetra ny mosary; ary namoha ny trano fitehirizana rehetra Josefa ka nivarotra tamin' ny Egyptiana; ary nihamafy ny mosary teo amin' ny tany Egypta.",
+    "57": "Ary ny firenena rehetra nankany Egypta ho any amin' i Josefa mba hividy varimbazaha; satria mafy indrindra ny mosary tamin' ny tany rehetra."
+  }
 }

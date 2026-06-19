@@ -1,145 +1,41 @@
 {
+  "book": "Salamo",
   "chapter": 68,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"[Ho an' ny mpiventy hira. Salamo na tononkira nataon' i Davida.]  Aoka hitsangana Andriamanitra, ka hiely ny fahavalony; aoka izay mankahala Azy koa handositra ny tavany.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Tahaka ny fanely setroka no hanelezo azy; tahaka ny fiempon' ny savoka eo anoloan' ny afo no aoka hahalevonan' ny ratsy fanahy eo anatrehan' Andriamanitra.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Fa aoka ny marina hifaly; aoka izy hiravoravo eo anatrehan' Andriamanitra; eny, aoka izy hiravoravo tokoa.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Mihirà ho an' Andriamanitra, mankalazà ny anarany; asandrato Ilay niakatra any an-danitra, JEHOVAH no anarany; ary miravoravoa eo anatrehany.\""
-    },
-    {
-      "v": 5,
-      "text": "Rain' ny kamboty sy mpitsara ny mpitondratena, Andriamanitra ao amin' ny fonenany masina."
-    },
-    {
-      "v": 6,
-      "text": "\"Mampitoetra izay irery tena ao amin' ny ankohonana Andriamanitra; mamoaka ny mpifatotra ho afaka Izy, fa ny mpiodina hitoetra amin' ny tany karankaina.\""
-    },
-    {
-      "v": 7,
-      "text": "Andriamanitra ô, raha nandeha teo alohan' ny olonao Ianao, ka namaky ny efitra, [Sela.]"
-    },
-    {
-      "v": 8,
-      "text": "\"Dia nihorohoro ny tany, ary nitaitaika koa ny lanitra tamin' ny fanatrehan' Andriamanitra; nihetsika na dia Sinay aza tamin' ny fanatrehan' Andriamanitra, dia Andriamanitry ny Isiraely.\""
-    },
-    {
-      "v": 9,
-      "text": "Ranonorana be no nalatsakao tamin' ny lovanao, Andriamanitra ô, ka nampahatanjahanao azy raha kotra izy."
-    },
-    {
-      "v": 10,
-      "text": "\"Ny olonao taman-toerana teo; namboatra araka ny fahasoavanao ho an' ny ory Ianao, Andriamanitra ô.\""
-    },
-    {
-      "v": 11,
-      "text": "Nanome ny teny ny Tompo, ny vehivavy nampiely izany dia tafika lehibe."
-    },
-    {
-      "v": 12,
-      "text": "\"Ireo mpanjakan' ny miaramila dia vaky nandositra; ary ny vehivavy izay nitoetra tao an-trano no nizara babo.\""
-    },
-    {
-      "v": 13,
-      "text": "Raha mandry eo amin' ny vala ianareo dia ho tahaka ny ela-boromailala miravaka volafotsy, ary ny volony miravaka volamena mavo."
-    },
-    {
-      "v": 14,
-      "text": "Rehefa nampiely ireo mpanjaka teo ny Tsitoha, dia tonga fotsy toy ny orampanalan' i Zalmona izany."
-    },
-    {
-      "v": 15,
-      "text": "\"Ny havoanan' Andriamanitra dia tahaka ny havoanan' i Basana; havoana avo toy ny havoanan' i Basana.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Nahoana no mievotra ianareo, ry havoana avo? Io no havoana tian' Andriamanitra honenana; eny, hitoetra ao mandrakizay Jehovah.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Roa alina ny kalesin' Andriamanitra, eny, anjely alinalina; eo amin' izy ireo Jehovah, toy ny ao Sinay eo amin' ny fitoerana masina.\""
-    },
-    {
-      "v": 18,
-      "text": "\"Efa niakatra ho any amin' ny avo Ianao ka nitondra babo; efa nandray fanomezana ho an' ny olona Ianao; eny, ho an' ny mpiodina koa, mba hitoetra eo aminy Jehovah Andriamanitra.\""
-    },
-    {
-      "v": 19,
-      "text": "Isaorana anie ny Tompo Izay mampivongika antsika ny soa isan' andro, eny, Andriamanitry ny famonjena antsika.[Sela.]"
-    },
-    {
-      "v": 20,
-      "text": "\"Ny Andriamanitsika no Andriamanitry ny famonjena; ary an' i Jehovah Andriamanitra ny fanafahana amin' ny fahafatesana.\""
-    },
-    {
-      "v": 21,
-      "text": "Fa Andriamanitra hamely mafy ny lohan' ny fahavalony, dia ny tampon-doha lava volo an' izay mandroso amin' ny fahadisoany."
-    },
-    {
-      "v": 22,
-      "text": "\"Lazain' ny Tompo hoe: Hampody ny any Basana Aho; hampody ny oloko avy amin' ny ranomasina lalina Aho,\""
-    },
-    {
-      "v": 23,
-      "text": "Mba hampihosenanao ny tongotrao amin' ny ràn' ny fahavalonao, ary ny lelan' ny amboanao amin' izany."
-    },
-    {
-      "v": 24,
-      "text": "Efa hitany ny fandehananao, Andriamanitra ô, dia ny fandehanan' Andriamanitro, Mpanjakako, ao amin' ny fitoerana masina."
-    },
-    {
-      "v": 25,
-      "text": "\"Mialoha ny mpihira, ary manaraka ny mpitendry zava-maneno; eo amin' ireo ny zatovovavy mively ampongatapaka.\""
-    },
-    {
-      "v": 26,
-      "text": "Misaora an' Andriamanitra eo amin' ny fiangonana, eny, misaora ny Tompo, ianareo avy amin' ny loharanon' ny Isiraely."
-    },
-    {
-      "v": 27,
-      "text": "Indro, Benjamina kely miaraka amin' ny mpanapaka azy, ny mpanapaka ny Joda sy ny antokony, ny mpanapaka ny Zebolona ary ny mpanapaka ny Naftaly."
-    },
-    {
-      "v": 28,
-      "text": "\"Andriamanitrao no nandidy ny hery ho anao; amafiso Andriamanitra ô, izay efa nataonao ho anay.\""
-    },
-    {
-      "v": 29,
-      "text": "Noho ny tempolinao ao Jerosalema no hitondran' ny mpanjaka fanatitra ho Anao."
-    },
-    {
-      "v": 30,
-      "text": "\"Anaro ny antokon' ny miaramila an-defona mpitaingin-tsoavaly, ireo ombilahy marobe, mbamin' ny zanak' ombin' ny olona, ambara-pahatongan' ny tsirairay avy manaiky hanatitra anjam-bolafotsy; aelezo ny olona tia ady.\""
-    },
-    {
-      "v": 31,
-      "text": "\"Hivoaka avy ao Egypta ny andrian-dahy; halaky hananty tanana amin' Andriamanitra i Etiopia.\""
-    },
-    {
-      "v": 32,
-      "text": "\"Ry fanjakana ambonin' ny tany, mihirà ho an' Andriamanitra; mankalazà ny Tompo, [Sela.]\""
-    },
-    {
-      "v": 33,
-      "text": "\"Ho an' Ilay mitaingina ny lanitry ny lanitra izay hatry ny fahagola; indro mamoaka ny feony Izy, dia feo mahery.\""
-    },
-    {
-      "v": 34,
-      "text": "\"Ekeo ho an' Andriamanitra ny hery; ambonin' ny Isiraely ny voninahiny, ary eny amin' ny rahona ny heriny.\""
-    },
-    {
-      "v": 35,
-      "text": "\"Mahatahotra Ianao, Andriamanitra ô, ao amin' ny fitoeranao masina; Andriamanitry ny Isiraely no manome hery sy tanjaka ho an' ny olony. Isaorana anie Andriamanitra.\""
-    }
-  ]
+  "verses": {
+    "1": "[Ho an' ny mpiventy hira. Salamo na tononkira nataon' i Davida.]  Aoka hitsangana Andriamanitra, ka hiely ny fahavalony; aoka izay mankahala Azy koa handositra ny tavany.",
+    "2": "Tahaka ny fanely setroka no hanelezo azy; tahaka ny fiempon' ny savoka eo anoloan' ny afo no aoka hahalevonan' ny ratsy fanahy eo anatrehan' Andriamanitra.",
+    "3": "Fa aoka ny marina hifaly; aoka izy hiravoravo eo anatrehan' Andriamanitra; eny, aoka izy hiravoravo tokoa.",
+    "4": "Mihirà ho an' Andriamanitra, mankalazà ny anarany; asandrato Ilay niakatra any an-danitra, JEHOVAH no anarany; ary miravoravoa eo anatrehany.",
+    "5": "Rain' ny kamboty sy mpitsara ny mpitondratena, Andriamanitra ao amin' ny fonenany masina.",
+    "6": "Mampitoetra izay irery tena ao amin' ny ankohonana Andriamanitra; mamoaka ny mpifatotra ho afaka Izy, fa ny mpiodina hitoetra amin' ny tany karankaina.",
+    "7": "Andriamanitra ô, raha nandeha teo alohan' ny olonao Ianao, ka namaky ny efitra, [Sela.]",
+    "8": "Dia nihorohoro ny tany, ary nitaitaika koa ny lanitra tamin' ny fanatrehan' Andriamanitra; nihetsika na dia Sinay aza tamin' ny fanatrehan' Andriamanitra, dia Andriamanitry ny Isiraely.",
+    "9": "Ranonorana be no nalatsakao tamin' ny lovanao, Andriamanitra ô, ka nampahatanjahanao azy raha kotra izy.",
+    "10": "Ny olonao taman-toerana teo; namboatra araka ny fahasoavanao ho an' ny ory Ianao, Andriamanitra ô.",
+    "11": "Nanome ny teny ny Tompo, ny vehivavy nampiely izany dia tafika lehibe.",
+    "12": "Ireo mpanjakan' ny miaramila dia vaky nandositra; ary ny vehivavy izay nitoetra tao an-trano no nizara babo.",
+    "13": "Raha mandry eo amin' ny vala ianareo dia ho tahaka ny ela-boromailala miravaka volafotsy, ary ny volony miravaka volamena mavo.",
+    "14": "Rehefa nampiely ireo mpanjaka teo ny Tsitoha, dia tonga fotsy toy ny orampanalan' i Zalmona izany.",
+    "15": "Ny havoanan' Andriamanitra dia tahaka ny havoanan' i Basana; havoana avo toy ny havoanan' i Basana.",
+    "16": "Nahoana no mievotra ianareo, ry havoana avo? Io no havoana tian' Andriamanitra honenana; eny, hitoetra ao mandrakizay Jehovah.",
+    "17": "Roa alina ny kalesin' Andriamanitra, eny, anjely alinalina; eo amin' izy ireo Jehovah, toy ny ao Sinay eo amin' ny fitoerana masina.",
+    "18": "Efa niakatra ho any amin' ny avo Ianao ka nitondra babo; efa nandray fanomezana ho an' ny olona Ianao; eny, ho an' ny mpiodina koa, mba hitoetra eo aminy Jehovah Andriamanitra.",
+    "19": "Isaorana anie ny Tompo Izay mampivongika antsika ny soa isan' andro, eny, Andriamanitry ny famonjena antsika.[Sela.]",
+    "20": "Ny Andriamanitsika no Andriamanitry ny famonjena; ary an' i Jehovah Andriamanitra ny fanafahana amin' ny fahafatesana.",
+    "21": "Fa Andriamanitra hamely mafy ny lohan' ny fahavalony, dia ny tampon-doha lava volo an' izay mandroso amin' ny fahadisoany.",
+    "22": "Lazain' ny Tompo hoe: Hampody ny any Basana Aho; hampody ny oloko avy amin' ny ranomasina lalina Aho,",
+    "23": "Mba hampihosenanao ny tongotrao amin' ny ràn' ny fahavalonao, ary ny lelan' ny amboanao amin' izany.",
+    "24": "Efa hitany ny fandehananao, Andriamanitra ô, dia ny fandehanan' Andriamanitro, Mpanjakako, ao amin' ny fitoerana masina.",
+    "25": "Mialoha ny mpihira, ary manaraka ny mpitendry zava-maneno; eo amin' ireo ny zatovovavy mively ampongatapaka.",
+    "26": "Misaora an' Andriamanitra eo amin' ny fiangonana, eny, misaora ny Tompo, ianareo avy amin' ny loharanon' ny Isiraely.",
+    "27": "Indro, Benjamina kely miaraka amin' ny mpanapaka azy, ny mpanapaka ny Joda sy ny antokony, ny mpanapaka ny Zebolona ary ny mpanapaka ny Naftaly.",
+    "28": "Andriamanitrao no nandidy ny hery ho anao; amafiso Andriamanitra ô, izay efa nataonao ho anay.",
+    "29": "Noho ny tempolinao ao Jerosalema no hitondran' ny mpanjaka fanatitra ho Anao.",
+    "30": "Anaro ny antokon' ny miaramila an-defona mpitaingin-tsoavaly, ireo ombilahy marobe, mbamin' ny zanak' ombin' ny olona, ambara-pahatongan' ny tsirairay avy manaiky hanatitra anjam-bolafotsy; aelezo ny olona tia ady.",
+    "31": "Hivoaka avy ao Egypta ny andrian-dahy; halaky hananty tanana amin' Andriamanitra i Etiopia.",
+    "32": "Ry fanjakana ambonin' ny tany, mihirà ho an' Andriamanitra; mankalazà ny Tompo, [Sela.]",
+    "33": "Ho an' Ilay mitaingina ny lanitry ny lanitra izay hatry ny fahagola; indro mamoaka ny feony Izy, dia feo mahery.",
+    "34": "Ekeo ho an' Andriamanitra ny hery; ambonin' ny Isiraely ny voninahiny, ary eny amin' ny rahona ny heriny.",
+    "35": "Mahatahotra Ianao, Andriamanitra ô, ao amin' ny fitoeranao masina; Andriamanitry ny Isiraely no manome hery sy tanjaka ho an' ny olony. Isaorana anie Andriamanitra."
+  }
 }

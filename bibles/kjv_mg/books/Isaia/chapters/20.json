@@ -1,29 +1,12 @@
 {
+  "book": "Isaia",
   "chapter": 20,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tamin' ny taona nankanesan' i Tartana tany Asdoda, (raha nirahin' i Sargona, mpanjakan' i Asyria izy) ka namely an' i Asdoda sy nahafaka azy,"
-    },
-    {
-      "v": 2,
-      "text": "Tamin' izany andro izany no nampitondran' i Jehovah teny an' Isaia, zanak' i Amoza, hoe: Andeha borahy ny lamba fisaonana ho afaka amin' ny valahanao, ary esory ny kiraronao hiala amin' ny tongotrao. Dia nanao izany izy ka nandeha tsy nitafy sady tsy nikiraro."
-    },
-    {
-      "v": 3,
-      "text": "Ary hoy Jehovah: Tahaka ny nandehanan' Isaia mpanompoko telo taona sady tsy nitafy no tsy nikiraro mba ho famantarana sy ho fahagagana ny amin' i Egypta sy i Etiopia,"
-    },
-    {
-      "v": 4,
-      "text": "Dia ho toy izany no hitondran' ny mpanjakan' i Asyria ny Egyptiana ho babo sy ny Etiopiana ho sambotra, na tanora na antitra, samy tsy hitafy sady tsy hikiraro no tsy hisarom-pe, ho henatr' i Egypta."
-    },
-    {
-      "v": 5,
-      "text": "Ary ho raiki-tahotra sy ho menatra izy noho ny amin' i Etiopia fanantenany sy Egypta voninahiny."
-    },
-    {
-      "v": 6,
-      "text": "Ary amin' izany andro izany, ny mponina amin' ity nosy ity dia hanao hoe: He, ity manjo ilay nantenaintsika sady nandosirantsika ho famonjena antsika ho afaka amin' ny mpanjakan' i Asyria? Ary ahoana no hahafahantsika?"
-    }
-  ]
+  "verses": {
+    "1": "Tamin' ny taona nankanesan' i Tartana tany Asdoda, (raha nirahin' i Sargona, mpanjakan' i Asyria izy) ka namely an' i Asdoda sy nahafaka azy,",
+    "2": "Tamin' izany andro izany no nampitondran' i Jehovah teny an' Isaia, zanak' i Amoza, hoe: Andeha borahy ny lamba fisaonana ho afaka amin' ny valahanao, ary esory ny kiraronao hiala amin' ny tongotrao. Dia nanao izany izy ka nandeha tsy nitafy sady tsy nikiraro.",
+    "3": "Ary hoy Jehovah: Tahaka ny nandehanan' Isaia mpanompoko telo taona sady tsy nitafy no tsy nikiraro mba ho famantarana sy ho fahagagana ny amin' i Egypta sy i Etiopia,",
+    "4": "Dia ho toy izany no hitondran' ny mpanjakan' i Asyria ny Egyptiana ho babo sy ny Etiopiana ho sambotra, na tanora na antitra, samy tsy hitafy sady tsy hikiraro no tsy hisarom-pe, ho henatr' i Egypta.",
+    "5": "Ary ho raiki-tahotra sy ho menatra izy noho ny amin' i Etiopia fanantenany sy Egypta voninahiny.",
+    "6": "Ary amin' izany andro izany, ny mponina amin' ity nosy ity dia hanao hoe: He, ity manjo ilay nantenaintsika sady nandosirantsika ho famonjena antsika ho afaka amin' ny mpanjakan' i Asyria? Ary ahoana no hahafahantsika?"
+  }
 }

@@ -1,113 +1,33 @@
 {
+  "book": "1 Samoela",
   "chapter": 10,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ary Samoela nitondra tavoara feno diloilo ka nanidina ny diloilo teo an-dohan' i Saoly, dia nanoroka azy ka nanao hoe: Tsy nanosotra anao va Jehovah mba ho mpanapaka ny lovany?"
-    },
-    {
-      "v": 2,
-      "text": "\"Rehefa misaraka amiko ianao anio, dia hahita olona roa lahy eo anilan' ny fasan-dRahely, ao amin' ny faritanin' ny Benjamina, ao Zelza, ary izy ireo hilaza aminao hoe: Efa hita ny boriky izay notadiavinao; ary, indro, tsy ny boriky intsony no heverin' ny rainao, fa ianao kosa indray no ahiny, ka hoy izy: Ahoana re no hataoko ny amin' ny zanako?\""
-    },
-    {
-      "v": 3,
-      "text": "Dia handroso hiala ao ianao ka ho tonga eo amin' ny tany lemak' i Tabara, dia hifanena amin' ny olona telo lahy miakatra ho any amin' Andriamanitra any Betela, ny anankiray mitondra zanak' osy telo, ny anankiray mitondra mofo telo, ary ny anankiray mitondra divay iray tavoara."
-    },
-    {
-      "v": 4,
-      "text": "Ary hiarahaba anao ireo ka hanome anao mofo roa, dia horaisinao amin' ny tanany izany."
-    },
-    {
-      "v": 5,
-      "text": "\"Rehefa afaka izany, dia ho tonga any an-kavoanan' Andriamanitra ianao, izay misy miaramilan' ny Filistina; ary izao no hiseho: Re-hefa tonga ao an-tanàna ianao, dia hifanena amin' ny mpaminany maro irai-dia midina avy ao amin' ny fitoerana avo mitondra lokanga sy ampongatapaka sy sodina ary harpa eo alohany, dia haminany ireo;\""
-    },
-    {
-      "v": 6,
-      "text": "Ary hilatsaka aminao ny Fanahin' i Jehovah ka hiara-maminany aminy ianao, dia ho voaova ho olona hafa ianao."
-    },
-    {
-      "v": 7,
-      "text": "Ary rehefa tonga aminao ireo famantarana ireo, dia ataovy izay azon' ny tananao atao, fa Andriamanitra no momba anao."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary hidina eo alohako ho any Gilgala ianao, ary indro, hidina ho any aminao aho mba hanolotra fanatitra dorana sy hanao sorona ho fanati-pihavanana; ka hafitoana no hiandrasanao mandra-pahatongako aminao, dia holazaiko aminao izay hataonao.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Ary raha vao nihodina niala tamin' i Samoela izy, dia nomen' Andriamanitra fo hafa izy; ary niseho avokoa androtrizay ihany ireo famantarana rehetra ireo.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary rehefa tonga tao an-kavoana izy, indro, ny mpaminany maro irai-dia nifanena taminy; dia nilatsaka tamin' i Saoly ny Fanahin' Andriamanitra, ka naminany teo aminy izy.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary izao no niseho, nony hitan' izay rehetra nahalala azy hatramin' ny taloha, fa indro, naminany teo amin' ny mpaminany izy, dia nifampilaza ny olona ka nanao hoe: Inona izao tonga amin' ny zanak' i Kisy izao? Saoly koa va mba isan' ny mpaminany?"
-    },
-    {
-      "v": 12,
-      "text": "Ary ny anankiray teo namaly ka nanao hoe: Fa iza moa no rain' izy ireny? Ary izany no nisehoan' ny fitenenana hoe: Saoly koa va mba isan' ny mpaminany?"
-    },
-    {
-      "v": 13,
-      "text": "Ary rehefa nitsahatra naminany i Saoly, dia nankeo amin' ny fitoerana avo."
-    },
-    {
-      "v": 14,
-      "text": "\"Ary hoy ny rahalahin-drain' i Saoly taminy sy tamin' ny mpanompony: Taiza no nalehanareo? Ary hoy izy: Nitady ny boriky izahay; ka nony tsy hitanay izy, dia nankany amin' i Samoela izahay.\""
-    },
-    {
-      "v": 15,
-      "text": "Ary hoy ny rahalahin-drain' i Saoly taminy: Masìna ianao, lazao amiko izay nolazain' i Samoela taminareo."
-    },
-    {
-      "v": 16,
-      "text": "Dia hoy Saoly tamin' ny rahalahin-drainy: Nolazainy marimarina taminay fa efa hita ny boriky. Fa ilay nolazain' i Samoela ny amin' ny fanjakana tsy mba nambarany taminy."
-    },
-    {
-      "v": 17,
-      "text": "Ary namory ny vahoaka Samoela ho any Mizpa ho any amin' i Jehovah,"
-    },
-    {
-      "v": 18,
-      "text": "Ka nanao tamin' ny Zanak' Isiraely hoe: Izao no lazain' i Jehovah, Andriamanitry ny Isiraely: Izaho no nitondra ny Isiraely niakatra avy tany Egypta ka nanafaka anareo tamin' ny tanan' ny Egyptiana sy tamin' ny tanan' ny fanjakana rehetra sy izay nampahory anareo."
-    },
-    {
-      "v": 19,
-      "text": "\"Nefa ianareo kosa androany dia efa nandà an' Andriamanitrareo, izay namonjy anareo tamin' ny zavatra manjo anareo sy ny fahorianareo rehetra; fa hoy ianareo taminy: Tsia, fa manendre mpanjaka ho anay. Koa ankehitriny, misehoa eo anatrehan' i Jehovah araka ny fokonareo sy ny arivonareo avy.\""
-    },
-    {
-      "v": 20,
-      "text": "Ary rehefa nampanatona ny fokon' ny Isiraely rehetra i Samoela, dia ny fokon' i Benjamina no voafidy."
-    },
-    {
-      "v": 21,
-      "text": "\"Rehefa nampanatona ny fokon' i Benjamina araka ny ankohonany avy izy dia ny ankohonan' i Matrita no voafidy. Dia voafidy i Saoly, zanak' i Kisy; ary raha nitady azy ny olona, dia tsy nahita azy.\""
-    },
-    {
-      "v": 22,
-      "text": "Dia nanontany tamin' i Jehovah indray ny olona, na efa mba tonga ao ralehilahy na tsia. Ary namaly Jehovah hoe: Indro, miery ao amin' ny entana izy."
-    },
-    {
-      "v": 23,
-      "text": "\"Dia nihazakazaka ny olona ka naka azy tao; ary rehefa nitsangana teo afovoan' ny olona izy, dia nanan-tombo noho ny olona rehetra hatramin' ny sorony no ho miakatra ny halavany.\""
-    },
-    {
-      "v": 24,
-      "text": "Ary hoy Samoela tamin' ny vahoaka rehetra: Hitanareo va izay nofidin' i Jehovah, fa tsy misy tahaka azy eo amin' ny vahoaka rehetra? Dia nihoby ny vahoaka rehetra ka nanao hoe: Ho ela velona anie ny mpanjaka."
-    },
-    {
-      "v": 25,
-      "text": "Ary Samoela nilaza tamin' ny olona izay mety ho fitondrana ny fanjakana, dia nosoratany tamin' ny boky izany, ka napetrany teo anatrehan' i Jehovah. Ary ny vahoaka rehetra samy nampodin' i Samoela ho any an-tranony avy."
-    },
-    {
-      "v": 26,
-      "text": "Ary Saoly koa nandeha nody tany Gibea, ary nomba azy ny olona maro izay voatendrin' ny tanan' Andriamanitra ny fony."
-    },
-    {
-      "v": 27,
-      "text": "Fa ny zanak' i Beliala nanao hoe: Hataon' io lehilahy io ahoana no famonjy antsika? Dia nanazimba an' i Saoly ireo ka tsy nitondra fanomezana ho azy. Nefa Saoly dia nangina."
-    }
-  ]
+  "verses": {
+    "1": "Ary Samoela nitondra tavoara feno diloilo ka nanidina ny diloilo teo an-dohan' i Saoly, dia nanoroka azy ka nanao hoe: Tsy nanosotra anao va Jehovah mba ho mpanapaka ny lovany?",
+    "2": "Rehefa misaraka amiko ianao anio, dia hahita olona roa lahy eo anilan' ny fasan-dRahely, ao amin' ny faritanin' ny Benjamina, ao Zelza, ary izy ireo hilaza aminao hoe: Efa hita ny boriky izay notadiavinao; ary, indro, tsy ny boriky intsony no heverin' ny rainao, fa ianao kosa indray no ahiny, ka hoy izy: Ahoana re no hataoko ny amin' ny zanako?",
+    "3": "Dia handroso hiala ao ianao ka ho tonga eo amin' ny tany lemak' i Tabara, dia hifanena amin' ny olona telo lahy miakatra ho any amin' Andriamanitra any Betela, ny anankiray mitondra zanak' osy telo, ny anankiray mitondra mofo telo, ary ny anankiray mitondra divay iray tavoara.",
+    "4": "Ary hiarahaba anao ireo ka hanome anao mofo roa, dia horaisinao amin' ny tanany izany.",
+    "5": "Rehefa afaka izany, dia ho tonga any an-kavoanan' Andriamanitra ianao, izay misy miaramilan' ny Filistina; ary izao no hiseho: Re-hefa tonga ao an-tanàna ianao, dia hifanena amin' ny mpaminany maro irai-dia midina avy ao amin' ny fitoerana avo mitondra lokanga sy ampongatapaka sy sodina ary harpa eo alohany, dia haminany ireo;",
+    "6": "Ary hilatsaka aminao ny Fanahin' i Jehovah ka hiara-maminany aminy ianao, dia ho voaova ho olona hafa ianao.",
+    "7": "Ary rehefa tonga aminao ireo famantarana ireo, dia ataovy izay azon' ny tananao atao, fa Andriamanitra no momba anao.",
+    "8": "Ary hidina eo alohako ho any Gilgala ianao, ary indro, hidina ho any aminao aho mba hanolotra fanatitra dorana sy hanao sorona ho fanati-pihavanana; ka hafitoana no hiandrasanao mandra-pahatongako aminao, dia holazaiko aminao izay hataonao.",
+    "9": "Ary raha vao nihodina niala tamin' i Samoela izy, dia nomen' Andriamanitra fo hafa izy; ary niseho avokoa androtrizay ihany ireo famantarana rehetra ireo.",
+    "10": "Ary rehefa tonga tao an-kavoana izy, indro, ny mpaminany maro irai-dia nifanena taminy; dia nilatsaka tamin' i Saoly ny Fanahin' Andriamanitra, ka naminany teo aminy izy.",
+    "11": "Ary izao no niseho, nony hitan' izay rehetra nahalala azy hatramin' ny taloha, fa indro, naminany teo amin' ny mpaminany izy, dia nifampilaza ny olona ka nanao hoe: Inona izao tonga amin' ny zanak' i Kisy izao? Saoly koa va mba isan' ny mpaminany?",
+    "12": "Ary ny anankiray teo namaly ka nanao hoe: Fa iza moa no rain' izy ireny? Ary izany no nisehoan' ny fitenenana hoe: Saoly koa va mba isan' ny mpaminany?",
+    "13": "Ary rehefa nitsahatra naminany i Saoly, dia nankeo amin' ny fitoerana avo.",
+    "14": "Ary hoy ny rahalahin-drain' i Saoly taminy sy tamin' ny mpanompony: Taiza no nalehanareo? Ary hoy izy: Nitady ny boriky izahay; ka nony tsy hitanay izy, dia nankany amin' i Samoela izahay.",
+    "15": "Ary hoy ny rahalahin-drain' i Saoly taminy: Masìna ianao, lazao amiko izay nolazain' i Samoela taminareo.",
+    "16": "Dia hoy Saoly tamin' ny rahalahin-drainy: Nolazainy marimarina taminay fa efa hita ny boriky. Fa ilay nolazain' i Samoela ny amin' ny fanjakana tsy mba nambarany taminy.",
+    "17": "Ary namory ny vahoaka Samoela ho any Mizpa ho any amin' i Jehovah,",
+    "18": "Ka nanao tamin' ny Zanak' Isiraely hoe: Izao no lazain' i Jehovah, Andriamanitry ny Isiraely: Izaho no nitondra ny Isiraely niakatra avy tany Egypta ka nanafaka anareo tamin' ny tanan' ny Egyptiana sy tamin' ny tanan' ny fanjakana rehetra sy izay nampahory anareo.",
+    "19": "Nefa ianareo kosa androany dia efa nandà an' Andriamanitrareo, izay namonjy anareo tamin' ny zavatra manjo anareo sy ny fahorianareo rehetra; fa hoy ianareo taminy: Tsia, fa manendre mpanjaka ho anay. Koa ankehitriny, misehoa eo anatrehan' i Jehovah araka ny fokonareo sy ny arivonareo avy.",
+    "20": "Ary rehefa nampanatona ny fokon' ny Isiraely rehetra i Samoela, dia ny fokon' i Benjamina no voafidy.",
+    "21": "Rehefa nampanatona ny fokon' i Benjamina araka ny ankohonany avy izy dia ny ankohonan' i Matrita no voafidy. Dia voafidy i Saoly, zanak' i Kisy; ary raha nitady azy ny olona, dia tsy nahita azy.",
+    "22": "Dia nanontany tamin' i Jehovah indray ny olona, na efa mba tonga ao ralehilahy na tsia. Ary namaly Jehovah hoe: Indro, miery ao amin' ny entana izy.",
+    "23": "Dia nihazakazaka ny olona ka naka azy tao; ary rehefa nitsangana teo afovoan' ny olona izy, dia nanan-tombo noho ny olona rehetra hatramin' ny sorony no ho miakatra ny halavany.",
+    "24": "Ary hoy Samoela tamin' ny vahoaka rehetra: Hitanareo va izay nofidin' i Jehovah, fa tsy misy tahaka azy eo amin' ny vahoaka rehetra? Dia nihoby ny vahoaka rehetra ka nanao hoe: Ho ela velona anie ny mpanjaka.",
+    "25": "Ary Samoela nilaza tamin' ny olona izay mety ho fitondrana ny fanjakana, dia nosoratany tamin' ny boky izany, ka napetrany teo anatrehan' i Jehovah. Ary ny vahoaka rehetra samy nampodin' i Samoela ho any an-tranony avy.",
+    "26": "Ary Saoly koa nandeha nody tany Gibea, ary nomba azy ny olona maro izay voatendrin' ny tanan' Andriamanitra ny fony.",
+    "27": "Fa ny zanak' i Beliala nanao hoe: Hataon' io lehilahy io ahoana no famonjy antsika? Dia nanazimba an' i Saoly ireo ka tsy nitondra fanomezana ho azy. Nefa Saoly dia nangina."
+  }
 }

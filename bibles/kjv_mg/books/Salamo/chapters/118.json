@@ -1,121 +1,35 @@
 {
+  "book": "Salamo",
   "chapter": 118,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Misaora an' i Jehovah, fa tsara Izy, satria maharitra mandrakizay ny famindrampony."
-    },
-    {
-      "v": 2,
-      "text": "Aoka ny Isiraely hanao hoe: Mandrakizay ny famindrampony."
-    },
-    {
-      "v": 3,
-      "text": "Aoka ny taranak' i Arona hanao hoe: Mandrakizay ny famindrampony."
-    },
-    {
-      "v": 4,
-      "text": "Aoka ankehitriny izay matahotra an' i Jehovah hanao hoe: Mandrakizay ny famindrampony."
-    },
-    {
-      "v": 5,
-      "text": "Tao an-katerena no niantsoako an' i Jehovah dia namaly ahy Jehovah ka nametraka ahy tamin' ny toerana malalaka."
-    },
-    {
-      "v": 6,
-      "text": "Jehovah no miandany amiko, ka tsy hatahotra aho. Inona no azon' ny olona atao amiko?"
-    },
-    {
-      "v": 7,
-      "text": "\"Mihevitra ny anjarako miaraka amin' ireo izay manampy ahy Jehovah; noho izany, ho faly hahita ny amin' izay mankahala ahy aho.\""
-    },
-    {
-      "v": 8,
-      "text": "Tsara ny matoky an' i Jehovah noho ny mametraka ny fitokiana amin' olona."
-    },
-    {
-      "v": 9,
-      "text": "Tsara ny matoky an' i Jehovah noho ny mametraka ny fitokiana amin' ny mpanapaka."
-    },
-    {
-      "v": 10,
-      "text": "Nanodidina ahy ny firenena rehetra, fa amin' ny anaran' i Jehovah no handringanako azy tokoa."
-    },
-    {
-      "v": 11,
-      "text": "\"Nitangorona tamiko ireny; eny, nitangorona tamiko izy, nefa handringana azy amin' ny anaran' i Jehovah aho.\""
-    },
-    {
-      "v": 12,
-      "text": "\"Nanodidina ahy tahaka ny renitantely izy; voavono tahaka ny afon-tsilo izy; fa handringana azy tokoa amin' ny anaran' ny Tompo aho.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Nanosika ahy mafy hahalavo ahy ianao; fa Jehovah no nanampy ahy.\""
-    },
-    {
-      "v": 14,
-      "text": "Jehovah no heriko sy hirako, ary efa tonga famonjena ahy."
-    },
-    {
-      "v": 15,
-      "text": "\"Ao an-dain' ny marina ny feon' ny miravoravo sy ny famonjena; mampiseho hery ny tanana ankavanan' i Jehovah.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ny tanana ankavanan' i Jehovah dia misandratra; mampiseho hery ny tanana ankavanan' i Jehovah.\""
-    },
-    {
-      "v": 17,
-      "text": "Tsy ho faty aho fa ho velona ka hitory ny asan' i Jehovah."
-    },
-    {
-      "v": 18,
-      "text": "Nofaizan' i Jehovah mafy aho, nefa tsy natolony ho amin' ny fahafatesana."
-    },
-    {
-      "v": 19,
-      "text": "\"Vohay ny vavahadin' ny fahamarinana aho; hiditra eo aho ka hidera an' i Jehovah.\""
-    },
-    {
-      "v": 20,
-      "text": "\"Ity no vavahadin' i Jehovah; ny marina no hiditra eo.\""
-    },
-    {
-      "v": 21,
-      "text": "Hidera anao aho, fa efa nihaino ahy Ianao, sady efa tonga famonjena ahy."
-    },
-    {
-      "v": 22,
-      "text": "Ny vato izay nolavin' ny mpanao trano no efa tonga fehizoro indrindra."
-    },
-    {
-      "v": 23,
-      "text": "Avy tamin' i Jehovah izany ka mahagaga eo imasontsika."
-    },
-    {
-      "v": 24,
-      "text": "Ity no andro nataon' i Jehovah, hifaly sy hiravoravo amin' izao isika."
-    },
-    {
-      "v": 25,
-      "text": "\"Mifona aminao aho Jehovah ô, mamonje izao; mifona aminao aho, iraho ankehitriny ny fanambinana.\""
-    },
-    {
-      "v": 26,
-      "text": "\"Hotahiana anie izay avy amin' ny anaran' i Jehovah; avy ao an-tranon' i Jehovah no itsofanay rano anareo.\""
-    },
-    {
-      "v": 27,
-      "text": "\"Andriamanitra Jehovah ka nampahazava antsika; rohizo kofehy ny fanatitra na dia hatreo amin' ny tandroky ny alitara aza.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Andriamanitro Ianao, ka hidera Anao aho; Andriamanitro Ianao, ka hanandratra Anao aho.\""
-    },
-    {
-      "v": 29,
-      "text": "Misaora an' i Jehovah, fa tsara izy, fa maharitra mandrakizay ny famindrampony."
-    }
-  ]
+  "verses": {
+    "1": "Misaora an' i Jehovah, fa tsara Izy, satria maharitra mandrakizay ny famindrampony.",
+    "2": "Aoka ny Isiraely hanao hoe: Mandrakizay ny famindrampony.",
+    "3": "Aoka ny taranak' i Arona hanao hoe: Mandrakizay ny famindrampony.",
+    "4": "Aoka ankehitriny izay matahotra an' i Jehovah hanao hoe: Mandrakizay ny famindrampony.",
+    "5": "Tao an-katerena no niantsoako an' i Jehovah dia namaly ahy Jehovah ka nametraka ahy tamin' ny toerana malalaka.",
+    "6": "Jehovah no miandany amiko, ka tsy hatahotra aho. Inona no azon' ny olona atao amiko?",
+    "7": "Mihevitra ny anjarako miaraka amin' ireo izay manampy ahy Jehovah; noho izany, ho faly hahita ny amin' izay mankahala ahy aho.",
+    "8": "Tsara ny matoky an' i Jehovah noho ny mametraka ny fitokiana amin' olona.",
+    "9": "Tsara ny matoky an' i Jehovah noho ny mametraka ny fitokiana amin' ny mpanapaka.",
+    "10": "Nanodidina ahy ny firenena rehetra, fa amin' ny anaran' i Jehovah no handringanako azy tokoa.",
+    "11": "Nitangorona tamiko ireny; eny, nitangorona tamiko izy, nefa handringana azy amin' ny anaran' i Jehovah aho.",
+    "12": "Nanodidina ahy tahaka ny renitantely izy; voavono tahaka ny afon-tsilo izy; fa handringana azy tokoa amin' ny anaran' ny Tompo aho.",
+    "13": "Nanosika ahy mafy hahalavo ahy ianao; fa Jehovah no nanampy ahy.",
+    "14": "Jehovah no heriko sy hirako, ary efa tonga famonjena ahy.",
+    "15": "Ao an-dain' ny marina ny feon' ny miravoravo sy ny famonjena; mampiseho hery ny tanana ankavanan' i Jehovah.",
+    "16": "Ny tanana ankavanan' i Jehovah dia misandratra; mampiseho hery ny tanana ankavanan' i Jehovah.",
+    "17": "Tsy ho faty aho fa ho velona ka hitory ny asan' i Jehovah.",
+    "18": "Nofaizan' i Jehovah mafy aho, nefa tsy natolony ho amin' ny fahafatesana.",
+    "19": "Vohay ny vavahadin' ny fahamarinana aho; hiditra eo aho ka hidera an' i Jehovah.",
+    "20": "Ity no vavahadin' i Jehovah; ny marina no hiditra eo.",
+    "21": "Hidera anao aho, fa efa nihaino ahy Ianao, sady efa tonga famonjena ahy.",
+    "22": "Ny vato izay nolavin' ny mpanao trano no efa tonga fehizoro indrindra.",
+    "23": "Avy tamin' i Jehovah izany ka mahagaga eo imasontsika.",
+    "24": "Ity no andro nataon' i Jehovah, hifaly sy hiravoravo amin' izao isika.",
+    "25": "Mifona aminao aho Jehovah ô, mamonje izao; mifona aminao aho, iraho ankehitriny ny fanambinana.",
+    "26": "Hotahiana anie izay avy amin' ny anaran' i Jehovah; avy ao an-tranon' i Jehovah no itsofanay rano anareo.",
+    "27": "Andriamanitra Jehovah ka nampahazava antsika; rohizo kofehy ny fanatitra na dia hatreo amin' ny tandroky ny alitara aza.",
+    "28": "Andriamanitro Ianao, ka hidera Anao aho; Andriamanitro Ianao, ka hanandratra Anao aho.",
+    "29": "Misaora an' i Jehovah, fa tsara izy, fa maharitra mandrakizay ny famindrampony."
+  }
 }

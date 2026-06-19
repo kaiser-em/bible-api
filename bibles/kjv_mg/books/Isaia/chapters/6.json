@@ -1,57 +1,19 @@
 {
+  "book": "Isaia",
   "chapter": 6,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tamin' ny taona nahafatesan' i Ozia mpanjaka no nahitako ny Tompo nipetraka teo ambonin' ny sezafiandrianana avo sady manerinerina, ary ny ebaneban' akanjony nahafeno ny tempoly."
-    },
-    {
-      "v": 2,
-      "text": "Nisy serafima nitsangana teo amboniny, samy nanana elatra enina avy: ny roa nanaronany ny tavany, ny roa nanaronany ny tongony, ary ny roa nanidinany."
-    },
-    {
-      "v": 3,
-      "text": "\"Ary nanandratra ny feony izy ka nifamaly hoe: Masina, masina, masina Jehovah, Tompon' ny maro; henika ny voninahiny ny tany rehetra.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Dia nihorohoro ny fanambanin' ny tokonana noho ny feon' ireo nanandratra ny feony; ary feno setroka ny trano.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Dia hoy aho: Lozako! maty aho! fa lehilahy maloto molotra aho, sady ato amin' ny firenena maloto molotra no itoerako; fa ny masoko no efa nahita ny Mpanjaka, dia Jehovah, Tompon' ny maro.\""
-    },
-    {
-      "v": 6,
-      "text": "Dia nidina nanatona ahy ny serafima anankiray nitondra vainafo teny an-tanany, izay nalainy tamin' ny tandra avy teo amin' ny alitara."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary natehiny ny vavako izany, ka hoy izy: Indro, efa nitehika tamin' ny molotrao io; ka dia afaka ny helokao, ary voavela ny fahotanao.\""
-    },
-    {
-      "v": 8,
-      "text": "Ary nandre ny feon' ny Tompo aho nanao hoe: Iza no hirahiko, ary iza no handeha ho irakay? Dia hoy aho: Inty aho, iraho aho."
-    },
-    {
-      "v": 9,
-      "text": "Ary hoy Izy: Mandehana, ka lazao amin' ity firenena ity hoe: Mandrenesa tokoa ianareo, nefa aza mahafantatra, mijere tokoa ianareo, fa aza mahita."
-    },
-    {
-      "v": 10,
-      "text": "Ataovy matavy ny fon' ity firenena ity, ary ataovy lalodalovana ny sofiny, ary akimpio ny masony, fandrao hahita amin' ny masony izy, ary handre amin' ny sofiny sy hahalala amin' ny fony, dia hiova fo izy ka ho sitrana."
-    },
-    {
-      "v": 11,
-      "text": "\"Ary hoy aho: Tompo ô, mandra-pahoviana anefa? Dia namaly Izy hoe: Mandra-pahafoanan' ny tanàna, ka tsy hisy mponina, ary ny trano tsy hisy olona, ary ho lao tokoa ny tany ;\""
-    },
-    {
-      "v": 12,
-      "text": "\"Ary Jehovah hampandeha lavitra ny olona, ka ho be ny lao ao amin' ny tany;\""
-    },
-    {
-      "v": 13,
-      "text": "\"Ary na dia misy ampahafolony aza sisa, dia mbola hosimbana ihany koa izany; kanefa kosa tahaka ny hazo terebinta sy ny oaka, izay mbola misy fotony ihany na dia voakapa aza, dia toy izany no mbola hisian' ny taranaka masina ho fotony.\""
-    }
-  ]
+  "verses": {
+    "1": "Tamin' ny taona nahafatesan' i Ozia mpanjaka no nahitako ny Tompo nipetraka teo ambonin' ny sezafiandrianana avo sady manerinerina, ary ny ebaneban' akanjony nahafeno ny tempoly.",
+    "2": "Nisy serafima nitsangana teo amboniny, samy nanana elatra enina avy: ny roa nanaronany ny tavany, ny roa nanaronany ny tongony, ary ny roa nanidinany.",
+    "3": "Ary nanandratra ny feony izy ka nifamaly hoe: Masina, masina, masina Jehovah, Tompon' ny maro; henika ny voninahiny ny tany rehetra.",
+    "4": "Dia nihorohoro ny fanambanin' ny tokonana noho ny feon' ireo nanandratra ny feony; ary feno setroka ny trano.",
+    "5": "Dia hoy aho: Lozako! maty aho! fa lehilahy maloto molotra aho, sady ato amin' ny firenena maloto molotra no itoerako; fa ny masoko no efa nahita ny Mpanjaka, dia Jehovah, Tompon' ny maro.",
+    "6": "Dia nidina nanatona ahy ny serafima anankiray nitondra vainafo teny an-tanany, izay nalainy tamin' ny tandra avy teo amin' ny alitara.",
+    "7": "Ary natehiny ny vavako izany, ka hoy izy: Indro, efa nitehika tamin' ny molotrao io; ka dia afaka ny helokao, ary voavela ny fahotanao.",
+    "8": "Ary nandre ny feon' ny Tompo aho nanao hoe: Iza no hirahiko, ary iza no handeha ho irakay? Dia hoy aho: Inty aho, iraho aho.",
+    "9": "Ary hoy Izy: Mandehana, ka lazao amin' ity firenena ity hoe: Mandrenesa tokoa ianareo, nefa aza mahafantatra, mijere tokoa ianareo, fa aza mahita.",
+    "10": "Ataovy matavy ny fon' ity firenena ity, ary ataovy lalodalovana ny sofiny, ary akimpio ny masony, fandrao hahita amin' ny masony izy, ary handre amin' ny sofiny sy hahalala amin' ny fony, dia hiova fo izy ka ho sitrana.",
+    "11": "Ary hoy aho: Tompo ô, mandra-pahoviana anefa? Dia namaly Izy hoe: Mandra-pahafoanan' ny tanàna, ka tsy hisy mponina, ary ny trano tsy hisy olona, ary ho lao tokoa ny tany ;",
+    "12": "Ary Jehovah hampandeha lavitra ny olona, ka ho be ny lao ao amin' ny tany;",
+    "13": "Ary na dia misy ampahafolony aza sisa, dia mbola hosimbana ihany koa izany; kanefa kosa tahaka ny hazo terebinta sy ny oaka, izay mbola misy fotony ihany na dia voakapa aza, dia toy izany no mbola hisian' ny taranaka masina ho fotony."
+  }
 }

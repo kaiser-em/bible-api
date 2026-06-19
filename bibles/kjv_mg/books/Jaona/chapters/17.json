@@ -1,109 +1,32 @@
 {
+  "book": "Jaona",
   "chapter": 17,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Rehefa nolazain' i Jesosy izany teny izany, dia nanandratra ny masony ho amin' ny lanitra Izy ka nanao hoe: Ray ô, tonga ny ora; mankalazà ny Zanakao, mba hankalazan' ny Zanaka Anao;\""
-    },
-    {
-      "v": 2,
-      "text": "Araka ny nanomezanao Azy fahefana amin' ny nofo rehetra mba hanome fiainana mandrakizay ho an' izay rehetra nomenao Azy."
-    },
-    {
-      "v": 3,
-      "text": "Ary izao no fiainana mandrakizay, dia ny mahafantatra Anao, Izay Andriamanitra tokana sady marina sy Jesosy Kristy izay efa nirahinao."
-    },
-    {
-      "v": 4,
-      "text": "\"Izaho efa nankalaza Anao tety ambonin' ny tany; vitako ny asa nomenao Ahy hataoko.\""
-    },
-    {
-      "v": 5,
-      "text": "Ary ankehitriny, Ray ô, mankalazà Ahy amin' ny tenanao, dia amin' ny voninahitra niarahako nanana taminao, fony tsy mbola ary izao tontolo izao."
-    },
-    {
-      "v": 6,
-      "text": "\"Nasehoko tamin' ny olona izay nomenao Ahy avy tamin' izao tontolo izao ny anaranao; Anao ireny ka nomenao ahy; ary notandremany ny teninao.\""
-    },
-    {
-      "v": 7,
-      "text": "Fantany ankehitriny fa avy taminao izay rehetra efa nomenao Ahy."
-    },
-    {
-      "v": 8,
-      "text": "\"Fa ny teny izay nomenao Ahy dia nomeko azy kosa, ary noraisiny, ka fantany marina tokoa fa avy taminao Aho; ary nino izy fa Ianao no naniraka Ahy.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Mangataka ho azy Aho; tsy mangataka ho an' izao tontolo izao Aho, fa ho an' izay nomenao Ahy, satria Anao ireo.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ary izay Ahy rehetra dia Anao; ary izay Anao dia Ahy; ary efa ankalazaina eo aminy Aho.\""
-    },
-    {
-      "v": 11,
-      "text": "Ary tsy ho eto amin' izao tontolo izao intsony Aho, fa izy ireto no ho eto amin' izao tontolo izao, ary Izaho mankany aminao. Ray masina ô, tahirizo amin' ny anaranao ireo izay nomenao Ahy, mba ho iray ihany izy, tahaka ny maha-iray Antsika."
-    },
-    {
-      "v": 12,
-      "text": "\"Raha mbola teo aminy teto amin' izao tontolo izao Aho, dia nitahiry azy tamin' ny anaranao; izay nomenao Ahy dia notandremako ka tsy misy very, afa-tsy ilay zanaky ny fahaverezana ihany; mba hahatanteraka ny Soratra Masina.\""
-    },
-    {
-      "v": 13,
-      "text": "\"Fa ankehitriny mankany aminao Aho; ary izany teny izany no lazaiko eto amin' izao tontolo izao, mba hananany ny fifaliako tanteraka ao aminy.\""
-    },
-    {
-      "v": 14,
-      "text": "\"Efa nomeko azy ny teninao; ary halan' izao tontolo izao izy, satria tsy avy amin' izao tontolo izao, tahaka Ahy tsy avy amin' izao tontolo izao.\""
-    },
-    {
-      "v": 15,
-      "text": "Tsy mangataka aminao Aho mba hampiala azy ireo amin' izao tontolo izao, fa ny mba hiaro azy amin' ilay ratsy."
-    },
-    {
-      "v": 16,
-      "text": "Tsy avy amin' izao tontolo izao izy ireo, tahaka Ahy tsy avy amin' izao tontolo izao."
-    },
-    {
-      "v": 17,
-      "text": "\"Manamasìna azy amin' ny fahamarinanao; ny teninao no fahamarinana.\""
-    },
-    {
-      "v": 18,
-      "text": "Tahaka ny nanirahanao Ahy ho amin'izao tontolo izao no mba nanirahako azy kosa ho amin' izao tontolo izao."
-    },
-    {
-      "v": 19,
-      "text": "Ary ho an' ireto no anamasinako ny tenako, mba hanamasinan' ny fahamarinana azy."
-    },
-    {
-      "v": 20,
-      "text": "\"Nefa tsy ho an' ireto ihany no angatahako, fa ho an' izay hino Ahy koa noho ny tenin' izy ireo;\""
-    },
-    {
-      "v": 21,
-      "text": "\"Mba ho iray ihany izy rehetra, tahaka Anao Ray ato amiko, ary Izaho koa ao aminao, mba ho ao amintsika koa izy; mba hinoan' izao tontolo izao fa Ianao no naniraka Ahy.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ary nomeko azy ny voninahitra izay nomenao Ahy, mba ho iray izy ireo, tahaka ny maha-iray Antsika;\""
-    },
-    {
-      "v": 23,
-      "text": "Izaho ao aminy, ary Ianao ato amiko, mba ho tanteraka ho iray izy ireo, mba ho fantatr' izao tontolo izao fa Ianao efa naniraka Ahy sady efa tia azy tahaka ny nitiavanao Ahy."
-    },
-    {
-      "v": 24,
-      "text": "\"Ray ô, tiako mba ho any Amiko amin' izay itoerako koa ireo izay nomenao Ahy, mba hahita ny voninahitro nomenao Ahy izy; fa efa tia Ahy Ianao, talohan' ny nanorenana izao tontolo izao.\""
-    },
-    {
-      "v": 25,
-      "text": "\"Ray marina ô, tsy nahalala Anao izao tontolo izao; fa Izaho no nahalala Anao, ary ireto efa mahalala fa Ianao no naniraka Ahy.\""
-    },
-    {
-      "v": 26,
-      "text": "Ary efa nampahafantariko azy ireo ny anaranao, ary mbola hampahafantariko ihany, mba ho ao aminy ny fitiavana izay nitiavanao Ahy, ary Izaho ho ao amin' izy ireo."
-    }
-  ]
+  "verses": {
+    "1": "Rehefa nolazain' i Jesosy izany teny izany, dia nanandratra ny masony ho amin' ny lanitra Izy ka nanao hoe: Ray ô, tonga ny ora; mankalazà ny Zanakao, mba hankalazan' ny Zanaka Anao;",
+    "2": "Araka ny nanomezanao Azy fahefana amin' ny nofo rehetra mba hanome fiainana mandrakizay ho an' izay rehetra nomenao Azy.",
+    "3": "Ary izao no fiainana mandrakizay, dia ny mahafantatra Anao, Izay Andriamanitra tokana sady marina sy Jesosy Kristy izay efa nirahinao.",
+    "4": "Izaho efa nankalaza Anao tety ambonin' ny tany; vitako ny asa nomenao Ahy hataoko.",
+    "5": "Ary ankehitriny, Ray ô, mankalazà Ahy amin' ny tenanao, dia amin' ny voninahitra niarahako nanana taminao, fony tsy mbola ary izao tontolo izao.",
+    "6": "Nasehoko tamin' ny olona izay nomenao Ahy avy tamin' izao tontolo izao ny anaranao; Anao ireny ka nomenao ahy; ary notandremany ny teninao.",
+    "7": "Fantany ankehitriny fa avy taminao izay rehetra efa nomenao Ahy.",
+    "8": "Fa ny teny izay nomenao Ahy dia nomeko azy kosa, ary noraisiny, ka fantany marina tokoa fa avy taminao Aho; ary nino izy fa Ianao no naniraka Ahy.",
+    "9": "Mangataka ho azy Aho; tsy mangataka ho an' izao tontolo izao Aho, fa ho an' izay nomenao Ahy, satria Anao ireo.",
+    "10": "Ary izay Ahy rehetra dia Anao; ary izay Anao dia Ahy; ary efa ankalazaina eo aminy Aho.",
+    "11": "Ary tsy ho eto amin' izao tontolo izao intsony Aho, fa izy ireto no ho eto amin' izao tontolo izao, ary Izaho mankany aminao. Ray masina ô, tahirizo amin' ny anaranao ireo izay nomenao Ahy, mba ho iray ihany izy, tahaka ny maha-iray Antsika.",
+    "12": "Raha mbola teo aminy teto amin' izao tontolo izao Aho, dia nitahiry azy tamin' ny anaranao; izay nomenao Ahy dia notandremako ka tsy misy very, afa-tsy ilay zanaky ny fahaverezana ihany; mba hahatanteraka ny Soratra Masina.",
+    "13": "Fa ankehitriny mankany aminao Aho; ary izany teny izany no lazaiko eto amin' izao tontolo izao, mba hananany ny fifaliako tanteraka ao aminy.",
+    "14": "Efa nomeko azy ny teninao; ary halan' izao tontolo izao izy, satria tsy avy amin' izao tontolo izao, tahaka Ahy tsy avy amin' izao tontolo izao.",
+    "15": "Tsy mangataka aminao Aho mba hampiala azy ireo amin' izao tontolo izao, fa ny mba hiaro azy amin' ilay ratsy.",
+    "16": "Tsy avy amin' izao tontolo izao izy ireo, tahaka Ahy tsy avy amin' izao tontolo izao.",
+    "17": "Manamasìna azy amin' ny fahamarinanao; ny teninao no fahamarinana.",
+    "18": "Tahaka ny nanirahanao Ahy ho amin'izao tontolo izao no mba nanirahako azy kosa ho amin' izao tontolo izao.",
+    "19": "Ary ho an' ireto no anamasinako ny tenako, mba hanamasinan' ny fahamarinana azy.",
+    "20": "Nefa tsy ho an' ireto ihany no angatahako, fa ho an' izay hino Ahy koa noho ny tenin' izy ireo;",
+    "21": "Mba ho iray ihany izy rehetra, tahaka Anao Ray ato amiko, ary Izaho koa ao aminao, mba ho ao amintsika koa izy; mba hinoan' izao tontolo izao fa Ianao no naniraka Ahy.",
+    "22": "Ary nomeko azy ny voninahitra izay nomenao Ahy, mba ho iray izy ireo, tahaka ny maha-iray Antsika;",
+    "23": "Izaho ao aminy, ary Ianao ato amiko, mba ho tanteraka ho iray izy ireo, mba ho fantatr' izao tontolo izao fa Ianao efa naniraka Ahy sady efa tia azy tahaka ny nitiavanao Ahy.",
+    "24": "Ray ô, tiako mba ho any Amiko amin' izay itoerako koa ireo izay nomenao Ahy, mba hahita ny voninahitro nomenao Ahy izy; fa efa tia Ahy Ianao, talohan' ny nanorenana izao tontolo izao.",
+    "25": "Ray marina ô, tsy nahalala Anao izao tontolo izao; fa Izaho no nahalala Anao, ary ireto efa mahalala fa Ianao no naniraka Ahy.",
+    "26": "Ary efa nampahafantariko azy ireo ny anaranao, ary mbola hampahafantariko ihany, mba ho ao aminy ny fitiavana izay nitiavanao Ahy, ary Izaho ho ao amin' izy ireo."
+  }
 }

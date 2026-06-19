@@ -1,93 +1,28 @@
 {
+  "book": "Isaia",
   "chapter": 13,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Ny faminaniana ny amin' i Babylona, izay hitan' Isaia, zanak' i Amoza."
-    },
-    {
-      "v": 2,
-      "text": "Manangàna faneva eo amin' ny tendrombohitra avo ianareo, manandrata feo hiantso azy, hofay tanana izy hiditra amin' ny vavahadin' ny mendri-kaja."
-    },
-    {
-      "v": 3,
-      "text": "Efa nandidy ny nohamasiniko aho, efa niantso ny lehilahy maheriko koa Aho, dia ireo miravoravo noho ny fahalehibiazako hahatanteraka ny fahatezerako."
-    },
-    {
-      "v": 4,
-      "text": "Injany! ny horakoraka any an-tendrombohitra, tahaka ny an' ny vahoaka be! dia ny fitabataban' ny fanjakan' ny firenena efa tafatambatra! Jehovah, Tompon' ny maro, no manomana miaramila hiady,"
-    },
-    {
-      "v": 5,
-      "text": "Izay avy any amin' ny tany lavitra, any amin' ny faravodilanitra, dia Jehovah sy ireo fitaovan' ny fahatezerany, hoenti-mandrava ny tany rehetra."
-    },
-    {
-      "v": 6,
-      "text": "Midradradradrà ianareo, fa efa antomotra ny andron' i Jehovah, ka tahaka ny loza tsy toha avy amin' ny Tsitoha no fiaviny."
-    },
-    {
-      "v": 7,
-      "text": "\"Ary noho izany dia hiraviravy ny tanana rehetra, ary ho kivy ny fon' ny zanak' olombelona rehetra;\""
-    },
-    {
-      "v": 8,
-      "text": "\"Ho toran-kovitra izy; fanaintainana sy fahoriana no hahazo azy, ka hijalijaly tahaka ny vehivavy mihetsi-jaza izy; samy ho talanjona izy ka hifampijery; mitarehin-delafo ny tarehiny.\""
-    },
-    {
-      "v": 9,
-      "text": "Indro, avy ny andron' i Jehovah, dia loza sy fahavinirana ary firehetan' ny fahatezerana, hanafoanana ny tany sy handringanana ny mpanota tsy ho ao."
-    },
-    {
-      "v": 10,
-      "text": "\"Fa ny kintan' ny lanitra, na dia ireo Telonohorefy aza, dia tsy hampamirapiratra ny fahazavany; ny masoandro ho maizina amin' ny iposahany; ary ny volana tsy hangarangarana.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Ary hofaiziko noho ny faharatsiany izao tontolo izao, ary ny ratsy fanahy noho ny helony; ary hatsahatro ny fireharehan' ny mpiavonavona, ary haetriko ny fiavonavonan' ny lozabe.\""
-    },
-    {
-      "v": 12,
-      "text": "Dia hataoko ho sarobidy mihoatra noho ny volamena tsara ny olombelona. Eny, noho ny tena volamena avy any Ofira aza."
-    },
-    {
-      "v": 13,
-      "text": "Ary noho izany dia hampihorohoroiko ny lanitra, ary ny tany hientanentana hiala amin' ny fitoerany noho ny fahatezeran' i Jehovah, Tompon' ny maro, sy noho ny andro firehetan' ny fahatezerany."
-    },
-    {
-      "v": 14,
-      "text": "Ary ho tahaka ny gazela hazaina ny olona sy ho tahaka ny ondry tsy misy mamory, ka dia samy ho lasa any amin' ny fireneny avy izy, ary samy handositra ho any amin' ny taniny avy."
-    },
-    {
-      "v": 15,
-      "text": "Izay rehetra azo dia holefonina, ary izay rehetra tratra dia ho lavon' ny sabatra."
-    },
-    {
-      "v": 16,
-      "text": "\"Ary ny zanany madinika koa hotorotoroina eo imasony; ny tranony hobaboina, ary ny vadiny hosavihina.\""
-    },
-    {
-      "v": 17,
-      "text": "Indro, hampirisihiko hamely azy ny Mediana, izay manao ny volafotsy tsy ho zavatra ary tsy mankamamy ny volamena."
-    },
-    {
-      "v": 18,
-      "text": "Ny tsipìkany koa handripaka ny zatovo, ary izay ateraky ny kibo tsy hamindrany fo, eny, na dia ny zaza aza tsy hiantran' ny masony."
-    },
-    {
-      "v": 19,
-      "text": "Ary Babylona, ravaky ny fanjakana maro, tabiha sy reharehan' ny Kaldeana, dia ho rava tahaka ny nandravan' Andriamanitra an' i Sodoma sy Gomora:"
-    },
-    {
-      "v": 20,
-      "text": "\"Tsy honenana mandrakizay izy, ary tsy hitoerana intsony hatramin' ny taranaka fara mandimby; tsy hisy Arabo hanorin-day any, na mpiandry ondry hampandry ny ondriny any;\""
-    },
-    {
-      "v": 21,
-      "text": "\"Fa ny biby dia any an' efitra no hitoetra any; ary ny tranony ho feno zava-manan' aina mampalahelo; ny vorondolo hitoetra any; ary ny osilahy no hitsambikimbikina any.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Ny biby dian' ny nosy no hifampierona ao amin' ny tranony lao, ary ny dragona ao amin' ny lapany mahafinaritra; ary efa antomotra ny fotoany, ary ny androny tsy hohalavaina.\""
-    }
-  ]
+  "verses": {
+    "1": "Ny faminaniana ny amin' i Babylona, izay hitan' Isaia, zanak' i Amoza.",
+    "2": "Manangàna faneva eo amin' ny tendrombohitra avo ianareo, manandrata feo hiantso azy, hofay tanana izy hiditra amin' ny vavahadin' ny mendri-kaja.",
+    "3": "Efa nandidy ny nohamasiniko aho, efa niantso ny lehilahy maheriko koa Aho, dia ireo miravoravo noho ny fahalehibiazako hahatanteraka ny fahatezerako.",
+    "4": "Injany! ny horakoraka any an-tendrombohitra, tahaka ny an' ny vahoaka be! dia ny fitabataban' ny fanjakan' ny firenena efa tafatambatra! Jehovah, Tompon' ny maro, no manomana miaramila hiady,",
+    "5": "Izay avy any amin' ny tany lavitra, any amin' ny faravodilanitra, dia Jehovah sy ireo fitaovan' ny fahatezerany, hoenti-mandrava ny tany rehetra.",
+    "6": "Midradradradrà ianareo, fa efa antomotra ny andron' i Jehovah, ka tahaka ny loza tsy toha avy amin' ny Tsitoha no fiaviny.",
+    "7": "Ary noho izany dia hiraviravy ny tanana rehetra, ary ho kivy ny fon' ny zanak' olombelona rehetra;",
+    "8": "Ho toran-kovitra izy; fanaintainana sy fahoriana no hahazo azy, ka hijalijaly tahaka ny vehivavy mihetsi-jaza izy; samy ho talanjona izy ka hifampijery; mitarehin-delafo ny tarehiny.",
+    "9": "Indro, avy ny andron' i Jehovah, dia loza sy fahavinirana ary firehetan' ny fahatezerana, hanafoanana ny tany sy handringanana ny mpanota tsy ho ao.",
+    "10": "Fa ny kintan' ny lanitra, na dia ireo Telonohorefy aza, dia tsy hampamirapiratra ny fahazavany; ny masoandro ho maizina amin' ny iposahany; ary ny volana tsy hangarangarana.",
+    "11": "Ary hofaiziko noho ny faharatsiany izao tontolo izao, ary ny ratsy fanahy noho ny helony; ary hatsahatro ny fireharehan' ny mpiavonavona, ary haetriko ny fiavonavonan' ny lozabe.",
+    "12": "Dia hataoko ho sarobidy mihoatra noho ny volamena tsara ny olombelona. Eny, noho ny tena volamena avy any Ofira aza.",
+    "13": "Ary noho izany dia hampihorohoroiko ny lanitra, ary ny tany hientanentana hiala amin' ny fitoerany noho ny fahatezeran' i Jehovah, Tompon' ny maro, sy noho ny andro firehetan' ny fahatezerany.",
+    "14": "Ary ho tahaka ny gazela hazaina ny olona sy ho tahaka ny ondry tsy misy mamory, ka dia samy ho lasa any amin' ny fireneny avy izy, ary samy handositra ho any amin' ny taniny avy.",
+    "15": "Izay rehetra azo dia holefonina, ary izay rehetra tratra dia ho lavon' ny sabatra.",
+    "16": "Ary ny zanany madinika koa hotorotoroina eo imasony; ny tranony hobaboina, ary ny vadiny hosavihina.",
+    "17": "Indro, hampirisihiko hamely azy ny Mediana, izay manao ny volafotsy tsy ho zavatra ary tsy mankamamy ny volamena.",
+    "18": "Ny tsipìkany koa handripaka ny zatovo, ary izay ateraky ny kibo tsy hamindrany fo, eny, na dia ny zaza aza tsy hiantran' ny masony.",
+    "19": "Ary Babylona, ravaky ny fanjakana maro, tabiha sy reharehan' ny Kaldeana, dia ho rava tahaka ny nandravan' Andriamanitra an' i Sodoma sy Gomora:",
+    "20": "Tsy honenana mandrakizay izy, ary tsy hitoerana intsony hatramin' ny taranaka fara mandimby; tsy hisy Arabo hanorin-day any, na mpiandry ondry hampandry ny ondriny any;",
+    "21": "Fa ny biby dia any an' efitra no hitoetra any; ary ny tranony ho feno zava-manan' aina mampalahelo; ny vorondolo hitoetra any; ary ny osilahy no hitsambikimbikina any.",
+    "22": "Ny biby dian' ny nosy no hifampierona ao amin' ny tranony lao, ary ny dragona ao amin' ny lapany mahafinaritra; ary efa antomotra ny fotoany, ary ny androny tsy hohalavaina."
+  }
 }

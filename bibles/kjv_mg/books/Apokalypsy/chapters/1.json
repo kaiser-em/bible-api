@@ -1,85 +1,26 @@
 {
+  "book": "Apokalypsy",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Ny Fanambaran’i Jesosy Kristy, izay nomen’Andriamanitra Azy, mba hasehony amin’ny mpanompony izay zavatra tsy maintsy ho tonga faingana; ary naniraka ny anjeliny Izy hanambara amin’i Jaona mpanompony,\""
-    },
-    {
-      "v": 2,
-      "text": "Izay nanambara ny tenin’Andriamanitra sy ny filazana an’i Jesosy Kristy, dia ny zavatra rehetra izay efa hitany."
-    },
-    {
-      "v": 3,
-      "text": "\"Sambatra izay mamaky sy ireo izay mihaino ny tenin’ity faminaniana ity ka mitandrina ireo zavatra voasoratra ato anatiny; fa antomotra ny fotoana.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Jaona mamangy ny fiangonana fito any Azia: Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin’Ilay ankehitriny sy taloha ary ho avy; ary avy amin’ny Fanahy fito izay eo anoloan’ny sezafiandrianany;\""
-    },
-    {
-      "v": 5,
-      "text": "Ary avy amin’i Jesosy Kristy, Ilay vavolombelona mahatoky sy Lahimatoa amin’ny maty ary Lehiben’ny mpanjaka amin’ny tany. Ho an’Izay tia antsika ka nanasa antsika ho afaka amin’ny fahotantsika tamin’ny rany,"
-    },
-    {
-      "v": 6,
-      "text": "\"Sady efa nanao antsika ho mpanjaka sy mpisorona ho an’Andriamanitra sady Rainy; ho Azy anie ny voninahitra sy ny fanapahana mandrakizay mandrakizay. Amena.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Indro Izy avy amin’ny rahona; ary ny maso rehetra hahita Azy, ary ireo izay nandefona Azy koa; ary hidradradradra noho ny Aminy ny fianakaviana rehetra ambonin’ny tany. Eny tokoa, Amena.\""
-    },
-    {
-      "v": 8,
-      "text": "Izaho no Alfa sy Omega, ny fiandohana sy ny fiafarana, hoy ny Tompo, Ilay ankehitriny sy taloha ary ho avy, dia ny Tsitoha."
-    },
-    {
-      "v": 9,
-      "text": "Izaho Jaona, izay rahalahinareo koa sy namanareo amin’ny fahoriana ary amin’ny fanjakana sy ny faharetana ao amin’i Jesosy Kristy, dia tao amin’ny nosy atao hoe Patmo noho ny tenin’Andriamanitra sy ny filazana an’i Jesosy Kristy."
-    },
-    {
-      "v": 10,
-      "text": "Tao amin' ny Fanahy aho tamin’ny Andron’ny Tompo ka nahare feo mahery teo ivohoko, toy ny feon’ny trompetra,"
-    },
-    {
-      "v": 11,
-      "text": "Nanao hoe: Izaho no Alfa sy Omega, ny Voalohany sy ny Farany, ary Izay zavatra hitanao dia soraty eo amin’ny boky, ka ampitondray ho any amin’ny fiangonana fito izay any Azia, dia ho any Efesosy sy Smyrna sy Pergamosy sy Tyatira sy Sardisy sy Filadelfia ary Laodikia."
-    },
-    {
-      "v": 12,
-      "text": "\"Dia nitodika aho nizaha ilay feo niteny tamiko. Koa rehefa nitodika aho, dia nahita fanaovanjiro volamena fito;\""
-    },
-    {
-      "v": 13,
-      "text": "Ary teo afovoan’ny fanaovanjiro fito dia nisy Anankiray tahaka ny Zanak’olona niakanjo akanjo lava hatrany an-tongony sady nisikina fisikinam-bolamena teo amin’ny tratrany."
-    },
-    {
-      "v": 14,
-      "text": "\"Ny lohany sy ny volony dia fotsy tahaka ny volon’ondry fotsy, dia tahaka ny orampanala, ary ny masony tahaka ny lelafo;\""
-    },
-    {
-      "v": 15,
-      "text": "\"Ary ny tongony tahaka ny varahina manganohano, ohatra ilay voadio teo amin’ny fandrendrehana iny; ary ny feony toy ny firohondrohon’ny rano be.\""
-    },
-    {
-      "v": 16,
-      "text": "\"Ary nitana kintana fito teny an-tanany ankavanana Izy; ary nisy sabatra maranitra roa lela nivoaka avy teo am-bavany; ary ny tarehiny dia tahaka ny masoandro mamirapiratra amin’ny heriny.\""
-    },
-    {
-      "v": 17,
-      "text": "\"Ary raha nahita Azy aho, dia lavo niankohoka tahaka ny maty teo anoloan’ny tongony. Fa nanendry ahy tamin’ny tanany ankavanana Izy ka nanao tamiko hoe: Aza matahotra; Izaho no Voalohany sy Farany;\""
-    },
-    {
-      "v": 18,
-      "text": "\"Izaho Ilay velona, efa maty Aho, nefa indro velona mandrakizay mandrakizay, Amena; ary manana ny fanalahidin’ny fahafatesana sy ny helo.\""
-    },
-    {
-      "v": 19,
-      "text": "Soraty izay zavatra efa hitanao, na izay zavatra ankehitriny, na izay zavatra mbola ho avy rahatrizay,"
-    },
-    {
-      "v": 20,
-      "text": "Dia ny zava-miafina ny amin’ny kintana fito izay efa hitanao teny an-tanako ankavanana sy ny fanaovanjiro volamena fito. Ny kintana fito dia ny anjelin’ny fiangonana fito, ary ny fanaovanjiro fito izay hitanao dia ny fiangonana fito."
-    }
-  ]
+  "verses": {
+    "1": "Ny Fanambaran’i Jesosy Kristy, izay nomen’Andriamanitra Azy, mba hasehony amin’ny mpanompony izay zavatra tsy maintsy ho tonga faingana; ary naniraka ny anjeliny Izy hanambara amin’i Jaona mpanompony,",
+    "2": "Izay nanambara ny tenin’Andriamanitra sy ny filazana an’i Jesosy Kristy, dia ny zavatra rehetra izay efa hitany.",
+    "3": "Sambatra izay mamaky sy ireo izay mihaino ny tenin’ity faminaniana ity ka mitandrina ireo zavatra voasoratra ato anatiny; fa antomotra ny fotoana.",
+    "4": "Jaona mamangy ny fiangonana fito any Azia: Ho aminareo anie ny fahasoavana sy ny fiadanana avy amin’Ilay ankehitriny sy taloha ary ho avy; ary avy amin’ny Fanahy fito izay eo anoloan’ny sezafiandrianany;",
+    "5": "Ary avy amin’i Jesosy Kristy, Ilay vavolombelona mahatoky sy Lahimatoa amin’ny maty ary Lehiben’ny mpanjaka amin’ny tany. Ho an’Izay tia antsika ka nanasa antsika ho afaka amin’ny fahotantsika tamin’ny rany,",
+    "6": "Sady efa nanao antsika ho mpanjaka sy mpisorona ho an’Andriamanitra sady Rainy; ho Azy anie ny voninahitra sy ny fanapahana mandrakizay mandrakizay. Amena.",
+    "7": "Indro Izy avy amin’ny rahona; ary ny maso rehetra hahita Azy, ary ireo izay nandefona Azy koa; ary hidradradradra noho ny Aminy ny fianakaviana rehetra ambonin’ny tany. Eny tokoa, Amena.",
+    "8": "Izaho no Alfa sy Omega, ny fiandohana sy ny fiafarana, hoy ny Tompo, Ilay ankehitriny sy taloha ary ho avy, dia ny Tsitoha.",
+    "9": "Izaho Jaona, izay rahalahinareo koa sy namanareo amin’ny fahoriana ary amin’ny fanjakana sy ny faharetana ao amin’i Jesosy Kristy, dia tao amin’ny nosy atao hoe Patmo noho ny tenin’Andriamanitra sy ny filazana an’i Jesosy Kristy.",
+    "10": "Tao amin' ny Fanahy aho tamin’ny Andron’ny Tompo ka nahare feo mahery teo ivohoko, toy ny feon’ny trompetra,",
+    "11": "Nanao hoe: Izaho no Alfa sy Omega, ny Voalohany sy ny Farany, ary Izay zavatra hitanao dia soraty eo amin’ny boky, ka ampitondray ho any amin’ny fiangonana fito izay any Azia, dia ho any Efesosy sy Smyrna sy Pergamosy sy Tyatira sy Sardisy sy Filadelfia ary Laodikia.",
+    "12": "Dia nitodika aho nizaha ilay feo niteny tamiko. Koa rehefa nitodika aho, dia nahita fanaovanjiro volamena fito;",
+    "13": "Ary teo afovoan’ny fanaovanjiro fito dia nisy Anankiray tahaka ny Zanak’olona niakanjo akanjo lava hatrany an-tongony sady nisikina fisikinam-bolamena teo amin’ny tratrany.",
+    "14": "Ny lohany sy ny volony dia fotsy tahaka ny volon’ondry fotsy, dia tahaka ny orampanala, ary ny masony tahaka ny lelafo;",
+    "15": "Ary ny tongony tahaka ny varahina manganohano, ohatra ilay voadio teo amin’ny fandrendrehana iny; ary ny feony toy ny firohondrohon’ny rano be.",
+    "16": "Ary nitana kintana fito teny an-tanany ankavanana Izy; ary nisy sabatra maranitra roa lela nivoaka avy teo am-bavany; ary ny tarehiny dia tahaka ny masoandro mamirapiratra amin’ny heriny.",
+    "17": "Ary raha nahita Azy aho, dia lavo niankohoka tahaka ny maty teo anoloan’ny tongony. Fa nanendry ahy tamin’ny tanany ankavanana Izy ka nanao tamiko hoe: Aza matahotra; Izaho no Voalohany sy Farany;",
+    "18": "Izaho Ilay velona, efa maty Aho, nefa indro velona mandrakizay mandrakizay, Amena; ary manana ny fanalahidin’ny fahafatesana sy ny helo.",
+    "19": "Soraty izay zavatra efa hitanao, na izay zavatra ankehitriny, na izay zavatra mbola ho avy rahatrizay,",
+    "20": "Dia ny zava-miafina ny amin’ny kintana fito izay efa hitanao teny an-tanako ankavanana sy ny fanaovanjiro volamena fito. Ny kintana fito dia ny anjelin’ny fiangonana fito, ary ny fanaovanjiro fito izay hitanao dia ny fiangonana fito."
+  }
 }

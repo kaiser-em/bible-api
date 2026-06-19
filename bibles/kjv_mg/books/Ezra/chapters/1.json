@@ -1,49 +1,17 @@
 {
+  "book": "Ezra",
   "chapter": 1,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Tamin' ny taona voalohany nanjakan' i Kyrosy, mpanjakan' i Persia, dia notairin' i Jehovah ny fanahin' i Kyrosy, mpanjakan' i Persia mba hahatanteraka ny tenin' i Jehovah izay nampilazainy tamin' ny vavan' i Jeremia, ka dia nandefa teny eran' ny fanjakany rehetra izy, sady nataony an-tsoratra koa izany manao hoe:"
-    },
-    {
-      "v": 2,
-      "text": "\"Izao no lazain' i Kyrosy, mpanjakan' i Persia: Ny fanjakana rehetra ambonin' ny tany dia efa nomen' i Jehovah Andriamanitry ny lanitra ahy; ary Izy efa nandidy ahy hanao trano ho Azy any Jerosalema izay any Joda.\""
-    },
-    {
-      "v": 3,
-      "text": "Iza avy moa aminareo no olony? Andriamaniny anie homba azy, fa aoka hiakatra any Jerosalema izay any Joda izy, ka hanao trano ho an' i Jehovah Andriamanitry ny Isiraely, (Izy no Andriamanitra) izay any Jerosalema."
-    },
-    {
-      "v": 4,
-      "text": "Ary na iza na iza sisa mitoetra any amin' ny tany ivahiniany, dia aoka ny tompon-tany hanampy azy amin' ny volafotsy sy volamena sy fananana ary biby ankoatra ny fanati-tsitrapo ho an' ny tranon' Andriamanitra izay any Jerosalema."
-    },
-    {
-      "v": 5,
-      "text": "Dia niainga ny lohan' ny fokon' i Joda sy Benjamina sy ny mpisorona sy ny Levita mbamin' izay rehetra efa nampirisihin' Andriamanitra ny fanahiny hiakatra hanao ny tranon' i Jehovah any Jerosalema."
-    },
-    {
-      "v": 6,
-      "text": "Ary izay rehetra nanodidina azy dia nampahery ny tanan' ireo tamin' ny fanaka volafotsy sy volamena sy fananana sy biby ary zava-tsarobidy ankoatra izay rehetra naterina an-tsitrapo."
-    },
-    {
-      "v": 7,
-      "text": "Ary navoakan' i Kyrosy mpanjaka koa ny fanaky ny tranon' i Jehovah, izay efa nalain' i Nebokadnezara avy tany Jerosalema ka efa nataony tao an-tranon' ireo andriamaniny."
-    },
-    {
-      "v": 8,
-      "text": "Ary Mitredata, mpitahiry ny haren' ny fanjakan' i Persia, dia nasain' i Kyrosy mpanjakan' i Persia namoaka ireny, ka nisainy sady natolony an' i Sesbazara, lehiben' ny fokon' i Joda."
-    },
-    {
-      "v": 9,
-      "text": "Ary izao no isany: Lovia fisaka volamena telopolo, lovia lehibe volafotsy arivo, antsy sivy amby roapolo,"
-    },
-    {
-      "v": 10,
-      "text": "\"Tsangambava volamena misarona telopolo, tsangambava volafotsy manarakaraka folo amby efajato ary fanaka hafa koa arivo;\""
-    },
-    {
-      "v": 11,
-      "text": "Efajato amby dimy arivo no isan' ny fanaka volamena sy volafotsy rehetra. Ireo rehetra ireo dia nentin' i Sesbazara niaraka nankany Jerosalema tamin' ny babo izay niverina avy tany Babylona."
-    }
-  ]
+  "verses": {
+    "1": "Tamin' ny taona voalohany nanjakan' i Kyrosy, mpanjakan' i Persia, dia notairin' i Jehovah ny fanahin' i Kyrosy, mpanjakan' i Persia mba hahatanteraka ny tenin' i Jehovah izay nampilazainy tamin' ny vavan' i Jeremia, ka dia nandefa teny eran' ny fanjakany rehetra izy, sady nataony an-tsoratra koa izany manao hoe:",
+    "2": "Izao no lazain' i Kyrosy, mpanjakan' i Persia: Ny fanjakana rehetra ambonin' ny tany dia efa nomen' i Jehovah Andriamanitry ny lanitra ahy; ary Izy efa nandidy ahy hanao trano ho Azy any Jerosalema izay any Joda.",
+    "3": "Iza avy moa aminareo no olony? Andriamaniny anie homba azy, fa aoka hiakatra any Jerosalema izay any Joda izy, ka hanao trano ho an' i Jehovah Andriamanitry ny Isiraely, (Izy no Andriamanitra) izay any Jerosalema.",
+    "4": "Ary na iza na iza sisa mitoetra any amin' ny tany ivahiniany, dia aoka ny tompon-tany hanampy azy amin' ny volafotsy sy volamena sy fananana ary biby ankoatra ny fanati-tsitrapo ho an' ny tranon' Andriamanitra izay any Jerosalema.",
+    "5": "Dia niainga ny lohan' ny fokon' i Joda sy Benjamina sy ny mpisorona sy ny Levita mbamin' izay rehetra efa nampirisihin' Andriamanitra ny fanahiny hiakatra hanao ny tranon' i Jehovah any Jerosalema.",
+    "6": "Ary izay rehetra nanodidina azy dia nampahery ny tanan' ireo tamin' ny fanaka volafotsy sy volamena sy fananana sy biby ary zava-tsarobidy ankoatra izay rehetra naterina an-tsitrapo.",
+    "7": "Ary navoakan' i Kyrosy mpanjaka koa ny fanaky ny tranon' i Jehovah, izay efa nalain' i Nebokadnezara avy tany Jerosalema ka efa nataony tao an-tranon' ireo andriamaniny.",
+    "8": "Ary Mitredata, mpitahiry ny haren' ny fanjakan' i Persia, dia nasain' i Kyrosy mpanjakan' i Persia namoaka ireny, ka nisainy sady natolony an' i Sesbazara, lehiben' ny fokon' i Joda.",
+    "9": "Ary izao no isany: Lovia fisaka volamena telopolo, lovia lehibe volafotsy arivo, antsy sivy amby roapolo,",
+    "10": "Tsangambava volamena misarona telopolo, tsangambava volafotsy manarakaraka folo amby efajato ary fanaka hafa koa arivo;",
+    "11": "Efajato amby dimy arivo no isan' ny fanaka volamena sy volafotsy rehetra. Ireo rehetra ireo dia nentin' i Sesbazara niaraka nankany Jerosalema tamin' ny babo izay niverina avy tany Babylona."
+  }
 }

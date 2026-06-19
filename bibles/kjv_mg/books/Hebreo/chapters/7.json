@@ -1,117 +1,34 @@
 {
+  "book": "Hebreo",
   "chapter": 7,
-  "verses": [
-    {
-      "v": 1,
-      "text": "Fa io Melkizedeka io, izay mpanjakan’i Salema sy mpisoron’Andriamanitra avo indrindra, ilay nitsena an’i Abrahama, rehefa niverina avy nandresy ny mpanjaka maro izy ka nitsodrano azy,"
-    },
-    {
-      "v": 2,
-      "text": "\"Sady nomen’i Abrahama ny ampahafolon’ny zavatra rehetra koa, voalohany raha adika ny anarany, dia Mpanjakan’ny fahamarinana, dia vao Mpanjakan’i Salema koa, izany hoe: Mpanjakan’ny fiadanana;\""
-    },
-    {
-      "v": 3,
-      "text": "\"Tsy manan-dray, tsy manan-dreny, tsy manana tantaram-pirazanana, tsy manana voalohan’andro na faran’ny fiainana, fa natao tahaka ny Zanak’Andriamanitra; izy dia mitoetra ho mpisorona mandrakariva;\""
-    },
-    {
-      "v": 4,
-      "text": "Ary hevero ny halehiben’io lehilahy io, izay nomen’i Abrahama patriarka ny ampahafolon’izay zavatra nobaboiny."
-    },
-    {
-      "v": 5,
-      "text": "\"Ary marina fa izay avy tamin’ny taranak’i Levy ka mandray ny fisoronana no mahazo teny haka ny ampahafolony amin’ny olona araka ny lalàna, dia amin’ny rahalahiny izany, na dia teraky ny kibon’i Abrahama aza ireny;\""
-    },
-    {
-      "v": 6,
-      "text": "Nefa izay tsy isan’ny firazanan’ireo akory no nandray ny ampahafolony tamin’i Abrahama sy nitsodrano ilay nanana ny tenifikasana."
-    },
-    {
-      "v": 7,
-      "text": "Ary tsy azo lavina anefa fa ny kely no mahazo tsodrano amin’ny lehibe noho ny tenany."
-    },
-    {
-      "v": 8,
-      "text": "Ary ety dia izay olona mety maty no mandray ny ampahafolony, fa any kosa dia izay nambara fa velona."
-    },
-    {
-      "v": 9,
-      "text": "Ary toa azo lazaina fa Levy aza, izay mandray ny ampahafolony, dia mba nandoa ny ampahafolony koa tao amin’i Abrahama,"
-    },
-    {
-      "v": 10,
-      "text": "Satria mbola tao an-kibon-drainy ihany izy tamin’ny nitsenan’i Melkizedeka an’i Abrahama."
-    },
-    {
-      "v": 11,
-      "text": "Koa raha nisy fahatanterahana tamin’ny fisoronan’i  Levy (fa tamin’izany no nahazoan’ny olona ny lalàna), ahoana no mbola ilàna mpisorona hafa hiseho araka ny fanaon’i Melkizedeka ihany, izay tsy hotononina araka ny fanaon’i Arona?"
-    },
-    {
-      "v": 12,
-      "text": "Fa raha ovàna ny fisoronana, dia tsy maintsy ovàna koa ny lalàna."
-    },
-    {
-      "v": 13,
-      "text": "Fa Izay nolazaina amin’izany teny izany dia avy tamin’ny firenena hafa, izay tsy nisy olona nanompo teo amin’ny alitara."
-    },
-    {
-      "v": 14,
-      "text": "Fa hita marimarina fa avy tamin’ny Joda no nisehoan’ny Tompontsika, ary izany foko izany dia tsy nisy nolazain’i Mosesy akory ny amin’izay ho mpisorona."
-    },
-    {
-      "v": 15,
-      "text": "Ary hita marimarina kokoa indray izany, fa misy Mpisorona hafa miseho ka tahaka an’i Melkizedeka,"
-    },
-    {
-      "v": 16,
-      "text": "Izay natao tsy araka ny lalàn’izay didy momba ny nofo, fa araka ny herin’ny fiainana tsy manam-pahataperana."
-    },
-    {
-      "v": 17,
-      "text": "Fa Izy dia nambara hoe: “Ianao no Mpisorona mandrakizay araka ny fanaon’i Melkizedeka.”"
-    },
-    {
-      "v": 18,
-      "text": "Fa misy tokoa fahafoanana ny didy nialoha noho ny halemeny sy ny tsy fanasoavany."
-    },
-    {
-      "v": 19,
-      "text": "Fa ny lalàna dia tsy nahatanteraka na inona na inona, fa ny fampidirana ny fanantenana tsara kokoa no nahatanteraka, ka anatonantsika an’Andriamanitra."
-    },
-    {
-      "v": 20,
-      "text": "\"Ary tahaka an’i Melkizedeka tsy natao mpisorona raha tsy tamin’ny fianianana;\""
-    },
-    {
-      "v": 21,
-      "text": "(Fa ireny dia natao mpisorona tsy tamin’ny fianianana, fa Ity kosa tamin’ny fianianana nataon’Ilay nilaza taminy hoe: “Efa nianiana Jehovah ka tsy hanenina: Ianao no Mpisorona mandrakizay,”  araka ny fanaon’i Melkizedeka)."
-    },
-    {
-      "v": 22,
-      "text": "Dia tahaka izany koa no nanaovana an’i Jesosy ho Mpiantoka ny fanekena tsara lavitra."
-    },
-    {
-      "v": 23,
-      "text": "\"Ary natao maro tokoa ireny mpisorona ireny, satria tsy navelan’ny fahafatesana haharitra izy ireo;\""
-    },
-    {
-      "v": 24,
-      "text": "\"Fa Io lehilahy io kosa dia manana fisoronana tsy dimbiasana, satria maharitra mandrakizay Izy;\""
-    },
-    {
-      "v": 25,
-      "text": "Ary amin’izany, dia mahavonjy hatramin’ny farany koa izay manatona an’Andriamanitra amin’ny alalany Izy, satria velona mandrakizay hanao fifonana ho azy ireo."
-    },
-    {
-      "v": 26,
-      "text": "Fa Mpisoronabe tahaka izao no mendrika ho antsika: dia Izay masina, tsy misy tsiny, tsy misy loto, voasaraka tamin’ny mpanota ka natao avo noho ny lanitra,"
-    },
-    {
-      "v": 27,
-      "text": "\"Izay tsy mila hanatitra fanatitra isan’andro tahaka ny ataon’ireny mpisorona ireny, voalohany noho ny otan’ny tenany, dia vao noho ny an’ny olona kosa; fa izany dia nataony indray mandeha ihany, raha nanatitra ny tenany Izy.\""
-    },
-    {
-      "v": 28,
-      "text": "\"Fa ny lalàna dia manendry olona izay manana fahalemena ho mpisoronabe; fa ny tenin’ny fianianana kosa, izay tato aorian’ny lalàna, dia manendry ny Zanaka, Izay natokana ho mandrakizay.\""
-    }
-  ]
+  "verses": {
+    "1": "Fa io Melkizedeka io, izay mpanjakan’i Salema sy mpisoron’Andriamanitra avo indrindra, ilay nitsena an’i Abrahama, rehefa niverina avy nandresy ny mpanjaka maro izy ka nitsodrano azy,",
+    "2": "Sady nomen’i Abrahama ny ampahafolon’ny zavatra rehetra koa, voalohany raha adika ny anarany, dia Mpanjakan’ny fahamarinana, dia vao Mpanjakan’i Salema koa, izany hoe: Mpanjakan’ny fiadanana;",
+    "3": "Tsy manan-dray, tsy manan-dreny, tsy manana tantaram-pirazanana, tsy manana voalohan’andro na faran’ny fiainana, fa natao tahaka ny Zanak’Andriamanitra; izy dia mitoetra ho mpisorona mandrakariva;",
+    "4": "Ary hevero ny halehiben’io lehilahy io, izay nomen’i Abrahama patriarka ny ampahafolon’izay zavatra nobaboiny.",
+    "5": "Ary marina fa izay avy tamin’ny taranak’i Levy ka mandray ny fisoronana no mahazo teny haka ny ampahafolony amin’ny olona araka ny lalàna, dia amin’ny rahalahiny izany, na dia teraky ny kibon’i Abrahama aza ireny;",
+    "6": "Nefa izay tsy isan’ny firazanan’ireo akory no nandray ny ampahafolony tamin’i Abrahama sy nitsodrano ilay nanana ny tenifikasana.",
+    "7": "Ary tsy azo lavina anefa fa ny kely no mahazo tsodrano amin’ny lehibe noho ny tenany.",
+    "8": "Ary ety dia izay olona mety maty no mandray ny ampahafolony, fa any kosa dia izay nambara fa velona.",
+    "9": "Ary toa azo lazaina fa Levy aza, izay mandray ny ampahafolony, dia mba nandoa ny ampahafolony koa tao amin’i Abrahama,",
+    "10": "Satria mbola tao an-kibon-drainy ihany izy tamin’ny nitsenan’i Melkizedeka an’i Abrahama.",
+    "11": "Koa raha nisy fahatanterahana tamin’ny fisoronan’i  Levy (fa tamin’izany no nahazoan’ny olona ny lalàna), ahoana no mbola ilàna mpisorona hafa hiseho araka ny fanaon’i Melkizedeka ihany, izay tsy hotononina araka ny fanaon’i Arona?",
+    "12": "Fa raha ovàna ny fisoronana, dia tsy maintsy ovàna koa ny lalàna.",
+    "13": "Fa Izay nolazaina amin’izany teny izany dia avy tamin’ny firenena hafa, izay tsy nisy olona nanompo teo amin’ny alitara.",
+    "14": "Fa hita marimarina fa avy tamin’ny Joda no nisehoan’ny Tompontsika, ary izany foko izany dia tsy nisy nolazain’i Mosesy akory ny amin’izay ho mpisorona.",
+    "15": "Ary hita marimarina kokoa indray izany, fa misy Mpisorona hafa miseho ka tahaka an’i Melkizedeka,",
+    "16": "Izay natao tsy araka ny lalàn’izay didy momba ny nofo, fa araka ny herin’ny fiainana tsy manam-pahataperana.",
+    "17": "Fa Izy dia nambara hoe: “Ianao no Mpisorona mandrakizay araka ny fanaon’i Melkizedeka.”",
+    "18": "Fa misy tokoa fahafoanana ny didy nialoha noho ny halemeny sy ny tsy fanasoavany.",
+    "19": "Fa ny lalàna dia tsy nahatanteraka na inona na inona, fa ny fampidirana ny fanantenana tsara kokoa no nahatanteraka, ka anatonantsika an’Andriamanitra.",
+    "20": "Ary tahaka an’i Melkizedeka tsy natao mpisorona raha tsy tamin’ny fianianana;",
+    "21": "(Fa ireny dia natao mpisorona tsy tamin’ny fianianana, fa Ity kosa tamin’ny fianianana nataon’Ilay nilaza taminy hoe: “Efa nianiana Jehovah ka tsy hanenina: Ianao no Mpisorona mandrakizay,”  araka ny fanaon’i Melkizedeka).",
+    "22": "Dia tahaka izany koa no nanaovana an’i Jesosy ho Mpiantoka ny fanekena tsara lavitra.",
+    "23": "Ary natao maro tokoa ireny mpisorona ireny, satria tsy navelan’ny fahafatesana haharitra izy ireo;",
+    "24": "Fa Io lehilahy io kosa dia manana fisoronana tsy dimbiasana, satria maharitra mandrakizay Izy;",
+    "25": "Ary amin’izany, dia mahavonjy hatramin’ny farany koa izay manatona an’Andriamanitra amin’ny alalany Izy, satria velona mandrakizay hanao fifonana ho azy ireo.",
+    "26": "Fa Mpisoronabe tahaka izao no mendrika ho antsika: dia Izay masina, tsy misy tsiny, tsy misy loto, voasaraka tamin’ny mpanota ka natao avo noho ny lanitra,",
+    "27": "Izay tsy mila hanatitra fanatitra isan’andro tahaka ny ataon’ireny mpisorona ireny, voalohany noho ny otan’ny tenany, dia vao noho ny an’ny olona kosa; fa izany dia nataony indray mandeha ihany, raha nanatitra ny tenany Izy.",
+    "28": "Fa ny lalàna dia manendry olona izay manana fahalemena ho mpisoronabe; fa ny tenin’ny fianianana kosa, izay tato aorian’ny lalàna, dia manendry ny Zanaka, Izay natokana ho mandrakizay."
+  }
 }

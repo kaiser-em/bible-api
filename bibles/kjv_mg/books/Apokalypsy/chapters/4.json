@@ -1,49 +1,17 @@
 {
+  "book": "Apokalypsy",
   "chapter": 4,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Rehefa afaka izany, dia hitako fa, indro, nisy varavarana nivoha tany an-danitra; ary ilay feo voalohany izay efa reko dia tahaka ny an’ny trompetra niteny tamiko hoe: Miakara aty, dia hasehoko anao izay zavatra tsy maintsy ho avy rahatrizay;\""
-    },
-    {
-      "v": 2,
-      "text": "\"Ary niaraka tamin’izay dia tao amin' ny Fanahy aho; ary indro, nisy sezafiandrianana nipetraka tany an-danitra, ary nisy anankiray nipetraka teo ambonin’ny sezafiandrianana.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ary ny tarehin’Ilay nipetraka dia tahaka ny vato jaspy sy karneola; ary avana mitarehin’emeralda no nanodidina ny sezafiandrianana.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary manodidina ilay sezafiandrianana dia nisy seza efatra amby roapolo; ary teo ambonin’ireo seza ireo dia nisy loholona efatra amby roapolo nipetraka, nitafy fitafiana fotsy sady nisatroka satroboninahitra volamena.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Ary nisy helatra sy feo ary kotrokorana nivoaka avy tamin’ny sezafiandrianana; ary nisy jiro fito nirehitra teo anoloan’ny sezafiandrianana, dia ny Fanahy fiton’Andriamanitra.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ary teo anoloan’ny sezafiandrianana dia nisy toa ranomasina fitaratra tahaka ny vato krystaly; ary teo afovoan’ny sezafiandrianana sy ny manodidina azy nisy zava-manan' aina efatra feno maso avokoa ny anoloany sy ny ivohony.\""
-    },
-    {
-      "v": 7,
-      "text": "Ary ny zava-manan' aina voalohany dia tahaka ny liona, ary ny zava-manan' aina faharoa dia tahaka ny zanak’omby, ary ny zava-manan' aina fahatelo dia nanana tava tahaka ny olona, ary ny zava-manan' aina fahefatra dia tahaka ny voromahery manidina."
-    },
-    {
-      "v": 8,
-      "text": "\"Ary ny zava-manan' aina efatra dia samy nanana elatra enina avy, sady feno maso ny tenany rehetra manodidina ka hatrao anatiny; ary tsy mitsahatra andro aman’alina izy manao hoe: Masina, masina, masina ny Tompo Andriamanitra Tsitoha, Ilay taloha sy ankehitriny ary ho avy.\""
-    },
-    {
-      "v": 9,
-      "text": "Ary rehefa manome voninahitra sy haja ary fisaorana Ilay mipetraka eo ambony sezafiandrianana, dia Izay velona mandrakizay mandrakizay ireo zava-manan' aina,"
-    },
-    {
-      "v": 10,
-      "text": "Dia miankohoka eo anoloan’Ilay mipetraka eo ambonin’ny sezafiandrianana ny loholona efatra amby roapolo ka mivavaka amin’Izay velona mandrakizay mandrakizay, dia manipy ny satroboninahiny eo anoloan’ny sezafiandrianana ka manao hoe:"
-    },
-    {
-      "v": 11,
-      "text": "\"Ianao, Tompo ô, no mendrika handray ny voninahitra sy ny haja ary ny hery; fa Ianao no nahary ny zavatra rehetra, ary noho ny sitraponao no nahanisy sy nahary azy ireo.\""
-    }
-  ]
+  "verses": {
+    "1": "Rehefa afaka izany, dia hitako fa, indro, nisy varavarana nivoha tany an-danitra; ary ilay feo voalohany izay efa reko dia tahaka ny an’ny trompetra niteny tamiko hoe: Miakara aty, dia hasehoko anao izay zavatra tsy maintsy ho avy rahatrizay;",
+    "2": "Ary niaraka tamin’izay dia tao amin' ny Fanahy aho; ary indro, nisy sezafiandrianana nipetraka tany an-danitra, ary nisy anankiray nipetraka teo ambonin’ny sezafiandrianana.",
+    "3": "Ary ny tarehin’Ilay nipetraka dia tahaka ny vato jaspy sy karneola; ary avana mitarehin’emeralda no nanodidina ny sezafiandrianana.",
+    "4": "Ary manodidina ilay sezafiandrianana dia nisy seza efatra amby roapolo; ary teo ambonin’ireo seza ireo dia nisy loholona efatra amby roapolo nipetraka, nitafy fitafiana fotsy sady nisatroka satroboninahitra volamena.",
+    "5": "Ary nisy helatra sy feo ary kotrokorana nivoaka avy tamin’ny sezafiandrianana; ary nisy jiro fito nirehitra teo anoloan’ny sezafiandrianana, dia ny Fanahy fiton’Andriamanitra.",
+    "6": "Ary teo anoloan’ny sezafiandrianana dia nisy toa ranomasina fitaratra tahaka ny vato krystaly; ary teo afovoan’ny sezafiandrianana sy ny manodidina azy nisy zava-manan' aina efatra feno maso avokoa ny anoloany sy ny ivohony.",
+    "7": "Ary ny zava-manan' aina voalohany dia tahaka ny liona, ary ny zava-manan' aina faharoa dia tahaka ny zanak’omby, ary ny zava-manan' aina fahatelo dia nanana tava tahaka ny olona, ary ny zava-manan' aina fahefatra dia tahaka ny voromahery manidina.",
+    "8": "Ary ny zava-manan' aina efatra dia samy nanana elatra enina avy, sady feno maso ny tenany rehetra manodidina ka hatrao anatiny; ary tsy mitsahatra andro aman’alina izy manao hoe: Masina, masina, masina ny Tompo Andriamanitra Tsitoha, Ilay taloha sy ankehitriny ary ho avy.",
+    "9": "Ary rehefa manome voninahitra sy haja ary fisaorana Ilay mipetraka eo ambony sezafiandrianana, dia Izay velona mandrakizay mandrakizay ireo zava-manan' aina,",
+    "10": "Dia miankohoka eo anoloan’Ilay mipetraka eo ambonin’ny sezafiandrianana ny loholona efatra amby roapolo ka mivavaka amin’Izay velona mandrakizay mandrakizay, dia manipy ny satroboninahiny eo anoloan’ny sezafiandrianana ka manao hoe:",
+    "11": "Ianao, Tompo ô, no mendrika handray ny voninahitra sy ny haja ary ny hery; fa Ianao no nahary ny zavatra rehetra, ary noho ny sitraponao no nahanisy sy nahary azy ireo."
+  }
 }

@@ -1,101 +1,30 @@
 {
+  "book": "Isaia",
   "chapter": 33,
-  "verses": [
-    {
-      "v": 1,
-      "text": "\"Loza ho anao, ry ilay mandroba, nefa tsy norobaina ianao! Ary mamitaka, nefa tsy nofitahina ianao! Rehefa mitsahatra ny mandrava ianao, dia vao horavana kosa; ary rehefa mitsahatra ny mamitaka ianao, dia vao hofitahina kosa.\""
-    },
-    {
-      "v": 2,
-      "text": "\"Jehovah ô, mamindrà fo aminay; Ianao no andrasanay; aoka ho sandriny isa-maraina Ianao sy ho famonjena anay koa amin' ny andro fahoriana.\""
-    },
-    {
-      "v": 3,
-      "text": "\"Ny feon' ny fitabatabana no mampandositra ny olona; ny fisandratanao no mampipariaka ny firenena.\""
-    },
-    {
-      "v": 4,
-      "text": "\"Ary ny babonareo dia hangonina tahaka ny fanangona ny sompanga; tahaka ny fifanaretsaky ny valala no fifanaretsany eo aminy.\""
-    },
-    {
-      "v": 5,
-      "text": "\"Manerinerina Jehovah, fa mitoetra any amin' ny avo Izy; nofenoiny rariny sy fahamarinana ao Ziona.\""
-    },
-    {
-      "v": 6,
-      "text": "\"Ny fahendrena sy ny fahalalana no hampitoetra ny andronao sy herin' ny famonjena; ny fahatahorana an' i Jehovah no rakiny.\""
-    },
-    {
-      "v": 7,
-      "text": "\"Indreo, ny lehilahy maheriny mitaraina any ivelany; ny iraky ny fihavanana dia mitomany mafy.\""
-    },
-    {
-      "v": 8,
-      "text": "\"Maty ny lalambe; nofoanany ny fanekena; nalany baraka ny tanàna; tsy manaja olona izy.\""
-    },
-    {
-      "v": 9,
-      "text": "\"Misaona ny tany ka milofika, menatra Libanona ka malazo; efa tonga tahaka ny tani-hay Sarôna, ary manintsana ny voany Basana sy Karmela.\""
-    },
-    {
-      "v": 10,
-      "text": "\"Ankehitriny dia hitsangana Aho, hoy Jehovah; ankehitriny dia hankalazaina Aho; ankehitriny dia hisandratra Aho.\""
-    },
-    {
-      "v": 11,
-      "text": "\"Torontoronina bozaka ianareo ka miteraka vodivary; ny fofonainareo dia tahaka ny afo handevona anareo.\""
-    },
-    {
-      "v": 12,
-      "text": "Ary ny firenena ho tahaka ny fandoroan-tsokay, eny, ho tahaka ny tsilo notombohina izay mirehitra amin' ny afo izy."
-    },
-    {
-      "v": 13,
-      "text": "Mihainoa ny amin' izay efa nataoko, ianareo izay lavitra, ary aoka hahafantatra ny heriko ianareo izay akaiky."
-    },
-    {
-      "v": 14,
-      "text": "\"Raiki-tahotra ny mpanota ao Ziona; horohoro no mahazo ny mpihatsaravelatsihy. Iza amintsika no hahatoetra amin' ny afo mandevona? Iza amintsika moa no hahatoetra amin' ny lelafo mandrakizay?\""
-    },
-    {
-      "v": 15,
-      "text": "\"Izay mandeha amin' ny fahamarinana sady miteny zava-mahitsy, izay tsy mety mandray harena amin' ny fanaovana an-keriny, fa manifikifika ny tanany mba tsy handray kolikoly, izay manentsin-tadìny mba tsy handrenesany ny amin' ny fandatsahan-drà sady manakimpy ny masony mba tsy hahita ny ratsy;\""
-    },
-    {
-      "v": 16,
-      "text": "\"Izy no honina ao amin' ny avo; ny toeram-piarovany dia ny harambato; fa ny haniny dia homena azy; ary ny rano hosotroiny tsy ho diso.\""
-    },
-    {
-      "v": 17,
-      "text": "Ny masonao hahita ny mpanjaka amin' ny hatsaran-tarehiny sady hahatsinjo tany malalaka dia malalaka."
-    },
-    {
-      "v": 18,
-      "text": "Ny fonao hisaintsaina ny fampitahorana. Aiza ny mpanoratra? Aiza ny mpandray? Aiza ny mpanisa tilikambo?"
-    },
-    {
-      "v": 19,
-      "text": "Ny firenena misetaseta dia tsy ho hitanao intsony, dia ilay olona miboediboedi-piteny ka tsy fantatra, na ny lela mikodedidedy ka tsy azo."
-    },
-    {
-      "v": 20,
-      "text": "\"Tsinjovy Ziona, ilay tanànan' ny fivorian-dehibentsika; ny masonao hahita an' i Jerosalema ho fonenana mandry fahizay, dia lay izay tsy hafindra, ny tsimatra aminy dia tsy hongotana mandrakizay, ary tsy hotapahina ny kofehiny.\""
-    },
-    {
-      "v": 21,
-      "text": "\"Fa Jehovah dia mahery ho antsika any; tany be ony sy lahin-drano lehibe any, nefa tsy halehan' ny sambo voizina, na hovakin' ny sambo lehibe.\""
-    },
-    {
-      "v": 22,
-      "text": "\"Fa Jehovah no Mpitsara antsika; Jehovah no Mpanome lalàna antsika; Jehovah no Mpanjakantsika; Izy no hamonjy antsika.\""
-    },
-    {
-      "v": 23,
-      "text": "\"Mivaha ny mahazakan-tsambonao; tsy mahazona mafy ny fiorenan' ny andry izy, na mahavelatra ny lay; fa amin' izay kosa dia hozaraina ny zavatra be voababo; na dia ny mandringa aza dia mba hahazo babo.\""
-    },
-    {
-      "v": 24,
-      "text": "\"Tsy hisy amin' ny mponina ao hilaza hoe: Marary aho; ny olona izay mitoetra ao dia voavela heloka.\""
-    }
-  ]
+  "verses": {
+    "1": "Loza ho anao, ry ilay mandroba, nefa tsy norobaina ianao! Ary mamitaka, nefa tsy nofitahina ianao! Rehefa mitsahatra ny mandrava ianao, dia vao horavana kosa; ary rehefa mitsahatra ny mamitaka ianao, dia vao hofitahina kosa.",
+    "2": "Jehovah ô, mamindrà fo aminay; Ianao no andrasanay; aoka ho sandriny isa-maraina Ianao sy ho famonjena anay koa amin' ny andro fahoriana.",
+    "3": "Ny feon' ny fitabatabana no mampandositra ny olona; ny fisandratanao no mampipariaka ny firenena.",
+    "4": "Ary ny babonareo dia hangonina tahaka ny fanangona ny sompanga; tahaka ny fifanaretsaky ny valala no fifanaretsany eo aminy.",
+    "5": "Manerinerina Jehovah, fa mitoetra any amin' ny avo Izy; nofenoiny rariny sy fahamarinana ao Ziona.",
+    "6": "Ny fahendrena sy ny fahalalana no hampitoetra ny andronao sy herin' ny famonjena; ny fahatahorana an' i Jehovah no rakiny.",
+    "7": "Indreo, ny lehilahy maheriny mitaraina any ivelany; ny iraky ny fihavanana dia mitomany mafy.",
+    "8": "Maty ny lalambe; nofoanany ny fanekena; nalany baraka ny tanàna; tsy manaja olona izy.",
+    "9": "Misaona ny tany ka milofika, menatra Libanona ka malazo; efa tonga tahaka ny tani-hay Sarôna, ary manintsana ny voany Basana sy Karmela.",
+    "10": "Ankehitriny dia hitsangana Aho, hoy Jehovah; ankehitriny dia hankalazaina Aho; ankehitriny dia hisandratra Aho.",
+    "11": "Torontoronina bozaka ianareo ka miteraka vodivary; ny fofonainareo dia tahaka ny afo handevona anareo.",
+    "12": "Ary ny firenena ho tahaka ny fandoroan-tsokay, eny, ho tahaka ny tsilo notombohina izay mirehitra amin' ny afo izy.",
+    "13": "Mihainoa ny amin' izay efa nataoko, ianareo izay lavitra, ary aoka hahafantatra ny heriko ianareo izay akaiky.",
+    "14": "Raiki-tahotra ny mpanota ao Ziona; horohoro no mahazo ny mpihatsaravelatsihy. Iza amintsika no hahatoetra amin' ny afo mandevona? Iza amintsika moa no hahatoetra amin' ny lelafo mandrakizay?",
+    "15": "Izay mandeha amin' ny fahamarinana sady miteny zava-mahitsy, izay tsy mety mandray harena amin' ny fanaovana an-keriny, fa manifikifika ny tanany mba tsy handray kolikoly, izay manentsin-tadìny mba tsy handrenesany ny amin' ny fandatsahan-drà sady manakimpy ny masony mba tsy hahita ny ratsy;",
+    "16": "Izy no honina ao amin' ny avo; ny toeram-piarovany dia ny harambato; fa ny haniny dia homena azy; ary ny rano hosotroiny tsy ho diso.",
+    "17": "Ny masonao hahita ny mpanjaka amin' ny hatsaran-tarehiny sady hahatsinjo tany malalaka dia malalaka.",
+    "18": "Ny fonao hisaintsaina ny fampitahorana. Aiza ny mpanoratra? Aiza ny mpandray? Aiza ny mpanisa tilikambo?",
+    "19": "Ny firenena misetaseta dia tsy ho hitanao intsony, dia ilay olona miboediboedi-piteny ka tsy fantatra, na ny lela mikodedidedy ka tsy azo.",
+    "20": "Tsinjovy Ziona, ilay tanànan' ny fivorian-dehibentsika; ny masonao hahita an' i Jerosalema ho fonenana mandry fahizay, dia lay izay tsy hafindra, ny tsimatra aminy dia tsy hongotana mandrakizay, ary tsy hotapahina ny kofehiny.",
+    "21": "Fa Jehovah dia mahery ho antsika any; tany be ony sy lahin-drano lehibe any, nefa tsy halehan' ny sambo voizina, na hovakin' ny sambo lehibe.",
+    "22": "Fa Jehovah no Mpitsara antsika; Jehovah no Mpanome lalàna antsika; Jehovah no Mpanjakantsika; Izy no hamonjy antsika.",
+    "23": "Mivaha ny mahazakan-tsambonao; tsy mahazona mafy ny fiorenan' ny andry izy, na mahavelatra ny lay; fa amin' izay kosa dia hozaraina ny zavatra be voababo; na dia ny mandringa aza dia mba hahazo babo.",
+    "24": "Tsy hisy amin' ny mponina ao hilaza hoe: Marary aho; ny olona izay mitoetra ao dia voavela heloka."
+  }
 }
