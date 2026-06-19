@@ -32,7 +32,7 @@
     {
       "id": 5,
       "abbreviation": "Deut",
-      "book": "Deoteronomia",
+      "book": "Deotornomia",
       "chapters_count": 34
     },
     {
@@ -134,7 +134,7 @@
     {
       "id": 22,
       "abbreviation": "Song",
-      "book": "Hira",
+      "book": "Tononkiran'i Solomona",
       "chapters_count": 8
     },
     {
@@ -193,8 +193,8 @@
     },
     {
       "id": 32,
-      "abbreviation": "Jonah",
-      "book": "Jonah",
+      "abbreviation": "Jona",
+      "book": "Jona",
       "chapters_count": 4
     },
     {
@@ -206,7 +206,7 @@
     {
       "id": 34,
       "abbreviation": "Nah",
-      "book": "Nahuma",
+      "book": "Nahoma",
       "chapters_count": 3
     },
     {
@@ -218,19 +218,19 @@
     {
       "id": 36,
       "abbreviation": "Zeph",
-      "book": "Sefania",
+      "book": "Zefania",
       "chapters_count": 3
     },
     {
       "id": 37,
       "abbreviation": "Hag",
-      "book": "Hagia",
+      "book": "Hagay",
       "chapters_count": 2
     },
     {
       "id": 38,
       "abbreviation": "Zech",
-      "book": "Zekaria",
+      "book": "Zakaria",
       "chapters_count": 14
     },
     {
@@ -248,7 +248,7 @@
     {
       "id": 41,
       "abbreviation": "Mark",
-      "book": "Mako",
+      "book": "Marka",
       "chapters_count": 16
     },
     {
@@ -272,7 +272,7 @@
     {
       "id": 45,
       "abbreviation": "Rom",
-      "book": "Romanina",
+      "book": "Romana",
       "chapters_count": 16
     },
     {
@@ -296,7 +296,7 @@
     {
       "id": 49,
       "abbreviation": "Eph",
-      "book": "Efeziana",
+      "book": "Efesiana",
       "chapters_count": 6
     },
     {
@@ -337,8 +337,8 @@
     },
     {
       "id": 56,
-      "abbreviation": "Titus",
-      "book": "Tito",
+      "abbreviation": "Tit",
+      "book": "Titosy",
       "chapters_count": 3
     },
     {
